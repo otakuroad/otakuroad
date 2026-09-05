@@ -17,10 +17,18 @@ const { lang, title, description } = Astro.props
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="light" />
-    <meta name="theme-color" content="#ffffff" />
+    <!-- Matches the app chrome, so an installed window does not show a white strip above the map. -->
+    <meta name="theme-color" content="#1F2328" />
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    {/* Installable on the home screen: Android reads the manifest, iOS still needs its own tags. */}
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="otakuroad" />
     <meta name="generator" content={Astro.generator} />
     <!-- Canonical, hreflang, Open Graph and JSON-LD for the prerendered share pages (PLAN §4.3). -->
     <slot name="head" />

@@ -1,0 +1,39 @@
+{
+  "name": "otakuroad — 아키하바라 서브컬처 매장 지도",
+  "short_name": "otakuroad",
+  "description": "아키하바라의 서브컬처 매장 408곳. 핀을 누르면 무슨 가게인지, 지금 여는지, 어느 건물 몇 층인지 바로 보입니다.",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "/ko/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F5F7",
+  "theme_color": "#1F2328",
+  "categories": ["travel", "navigation", "shopping"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "지금 영업중",
+      "short_name": "영업중",
+      "description": "지금 문을 연 매장만 보기",
+      "url": "/ko/?open=1"
+    },
+    {
+      "name": "트레카 매장",
+      "short_name": "트레카",
+      "description": "트레이딩 카드 매장만 보기",
+      "url": "/ko/?c=trading_card"
+    },
+    {
+      "name": "English map",
+      "short_name": "English",
+      "description": "Open the map in English",
+      "url": "/en/"
+    }
+  ]
+}
