@@ -68,8 +68,8 @@
    "en": "Closed on weekday Tuesdays; open when a Tuesday is a public holiday. Extra closures are announced between collaborations"
   },
   "note": {
-   "ko": "완전예약제 70분 교체제로, 표시된 시간은 첫 회차 시작부터 마지막 회차 종료까지다. 예약 회차는 12:30·14:00·15:30·17:00·18:30이며 토·일·공휴일에만 11:00 회차가 추가된다(각 회차 30분 전 라스트오더). 시간표와 휴무일은 콜라보 작품마다 바뀌므로 공식 사이트의 개최 중 이벤트 페이지를 확인할 것. 기준은 2026-08-07~09-13 『WIND BREAKER』 콜라보.",
-   "en": "Fully reservation-based, in 70-minute slots; the times shown run from the first slot's start to the last slot's end. Slots start at 12:30, 14:00, 15:30, 17:00 and 18:30, with an extra 11:00 slot on weekends and public holidays (last order 30 minutes into each slot). The timetable and closed days change with every collaboration, so check the current event page. Based on the WIND BREAKER collaboration, 2026-08-07 to 09-13."
+   "ko": "완전예약제 70분 교체제로, 표시된 시간은 첫 회차 시작부터 마지막 회차 종료까지다. 예약 회차는 12:30·14:00·15:30·17:00·18:30이며 토·일·공휴일에만 11:00 회차가 추가된다. 라스트오더는 각 회차가 끝나기 30분 전(시작 40분 뒤)이다. 시간표와 휴무일은 콜라보 작품마다 바뀌므로 공식 사이트의 개최 중 이벤트 페이지를 확인할 것. 기준은 2026-08-07~09-13 『WIND BREAKER』 콜라보.",
+   "en": "Fully reservation-based, in 70-minute slots; the times shown run from the first slot's start to the last slot's end. Slots start at 12:30, 14:00, 15:30, 17:00 and 18:30, with an extra 11:00 slot on weekends and public holidays. Last order is 30 minutes before each slot ends (40 minutes after it starts). The timetable and closed days change with every collaboration, so check the current event page. Based on the WIND BREAKER collaboration, 2026-08-07 to 09-13."
   },
   "source_url": "https://collabocafe-honpo.co.jp/event/winbre2608/"
  },
@@ -90,14 +90,14 @@
  "tips": {
   "ko": [
    "완전예약제. 예약 사이트에서만 접수하며 전화·메일 예약은 받지 않고, 예약할 때 신용카드 등록이 필요하다. 당일 정리권이나 대기 접수도 없다.",
-   "입장할 때 대표자의 사진 신분증 원본(여권 등)을 확인한다. 사본은 무효이며, 1회 예약당 아키하바라점은 4명까지.",
+   "입장할 때 대표자의 이름을 확인할 수 있는 공적 신분증 원본(운전면허증·학생증·건강보험증·여권·마이넘버카드 등)을 확인한다. 사본은 무효이며, 1회 예약당 아키하바라점은 4명까지.",
    "70분 교체제에 1인 1오더 이상 필수. 코스프레나 지나치게 화려한 복장은 입장을 거절당할 수 있다.",
    "2층인데 엘리베이터가 없고 통로·계단이 좁다. 유모차나 큰 캐리어는 미리 코인로커에 맡기는 편이 낫다.",
    "같은 회사가 오사카 니혼바시점과 이케부쿠로 BLANC점을 운영하며, 콜라보 작품이 점포마다 다를 수 있다."
   ],
   "en": [
    "Reservation only, through the booking site - no phone or e-mail bookings, no same-day tickets or waiting list, and a credit card must be registered when you book.",
-   "The lead booker's original photo ID (passport etc.) is checked at the door; copies are not accepted, and one booking covers up to four people at the Akihabara branch.",
+   "At the door they check an original official ID showing the lead booker's name - driving licence, student card, health-insurance card, passport, My Number card and the like; copies are not accepted, and one booking covers up to four people at the Akihabara branch.",
    "Slots run 70 minutes and each guest must order at least one item. Cosplay or very showy outfits can be refused entry.",
    "It is on 2F with no lift and narrow stairs and corridors, so leave prams and large suitcases in a coin locker first.",
    "The same company runs branches in Osaka Nipponbashi and Ikebukuro (BLANC), and the collaboration title can differ by branch."
@@ -110,7 +110,7 @@
  "chain": "collabo-cafe-honpo",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://collabocafe-honpo.co.jp/shops/",
   "https://collabocafe-honpo.co.jp/event/winbre2608/",

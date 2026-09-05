@@ -64,7 +64,10 @@
     "close": "23:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "No regular closing day"
+  },
   "note": {
    "ko": "표기된 시간은 점두 판매 기준. 오리파 자판기 4대는 24시간 가동하며, 매입 카운터는 13:00-19:30만 접수한다. 공휴일 영업시간은 공식 안내에 없다.",
    "en": "The listed hours are for counter sales. The four oripa vending machines run 24 hours, while the buyback counter only takes items 13:00-19:30. Public-holiday hours are not stated officially."
@@ -106,12 +109,13 @@
  "chain": "denko-sekka",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://denko-sekka.com/shop/",
   "https://denko-sekka.com/",
   "https://akibatoreka.com/introduce/2518",
-  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2237"
+  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2237",
+  "https://api.fxtwitter.com/Pokekakaitori"
  ],
  "osm_id": "node/11925303819"
 }

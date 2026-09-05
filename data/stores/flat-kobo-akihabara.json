@@ -49,7 +49,36 @@
  },
  "street_segment": "chuo_dori",
  "address_ja": "東京都千代田区外神田3-14-9 第26東ビル6F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수는 11:00-19:00. 점포 공식 X 프로필 기준이며 정기휴일 표기는 없다.",
+   "en": "Buyback is accepted 11:00-19:00. Taken from the shop's own X profile, which states no regular closing day."
+  },
+  "source_url": "https://x.com/flat_akihabara"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -67,12 +96,12 @@
  "tips": {
   "ko": [
    "취급 타이틀이 듀얼마스터즈·섀도우버스 에볼브·크로스 스타즈·호로라이브 OCG 네 가지뿐이다. 포켓몬·유희왕을 찾는다면 다른 매장으로.",
-   "공식 사이트에는 영업시간 안내가 없다. 秋葉原トレカマップ 기준으로는 12:00-20:00(매입 19:00까지)·무휴이지만, 방문 전 X(@flat_akihabara) 확인 권장.",
+   "영업시간은 회사 사이트가 아니라 점포 공식 X(@flat_akihabara) 프로필에 적혀 있다. 평일 12:00-20:00, 토·일·공휴일 11:00-20:00, 매입 접수는 11:00-19:00.",
    "플레이 스페이스는 최대 32석. 이용에는 500엔 이상 구매 영수증이 필요하다(자판기 구매는 제외)."
   ],
   "en": [
    "Only four titles are stocked - Duel Masters, Shadowverse EVOLVE, Xross Stars and the hololive OFFICIAL CARD GAME. Go elsewhere for Pokemon or Yu-Gi-Oh.",
-   "The official site publishes no hours. The Akihabara Toreka Map directory lists 12:00-20:00 (buyback to 19:00) with no closing day, so check X (@flat_akihabara) before going.",
+   "Hours are published on the shop's own X profile (@flat_akihabara), not on the company site: 12:00-20:00 on weekdays, 11:00-20:00 at weekends and holidays, buyback taken 11:00-19:00.",
    "The play space seats up to 32; using it requires a receipt for 500 yen or more of in-store purchases (vending-machine oripa excluded)."
   ]
  },
@@ -83,12 +112,13 @@
  "chain": "flat-kobo",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://flatkobo.com/business",
   "https://flatkobo.com/company",
   "https://flatkobo.com/",
-  "https://akibatoreka.com/introduce/2260"
+  "https://akibatoreka.com/introduce/2260",
+  "https://x.com/flat_akihabara"
  ],
  "osm_id": "node/11782064315"
 }

@@ -106,12 +106,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.ecute.jp/akihabara/shop/5640",
   "https://www.ecute.jp/akihabara/shop",
   "https://www.holdings.toppan.com/ja/news/2025/04/newsrelease250401_1.html",
-  "https://fan-xross-mall.com/shops/toppa-base"
+  "https://fan-xross-mall.com/shops/toppa-base",
+  "https://x.com/TOPPA_BASE"
  ],
  "osm_id": null
 }

@@ -29,8 +29,8 @@
   "mail_order"
  ],
  "one_line": {
-  "ko": "포켓몬·원피스 카드 통신판매와 매입을 하는 사무실 빌딩 6층 트레카 업체",
-  "en": "6F office-floor card dealer: Pokemon and One Piece singles, mail order and buyback"
+  "ko": "판매 진열 없이 매입만 하는 6층 포켓몬 카드 중심 트레카 매입 전문점",
+  "en": "Buyback-only trading card counter on 6F, mainly Pokemon cards, with no sales floor"
  },
  "building_id": null,
  "floors": [
@@ -42,8 +42,31 @@
   "lng": 139.774646
  },
  "street_segment": "showa_dori",
- "address_ja": "東京都千代田区神田松永町10-1 長谷川ビル6F",
- "hours": null,
+ "address_ja": "東京都千代田区神田松永町10-1 長谷川ビル601",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수는 18:00에 끝나고 미감정(素体) 카드 접수는 17:00에 끝난다. 정기 휴무일은 공지되어 있지 않다.",
+   "en": "Buyback reception closes at 18:00, and at 17:00 for ungraded loose cards. No regular closing day is published."
+  },
+  "source_url": "https://x.com/TCK_akihabara"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": null,
@@ -55,28 +78,34 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 2분, 요도바시 Akiba 바로 북쪽 블록의 7층짜리 하세가와(長谷川) 빌딩 6층. 도로에 면한 매장이 아니라 사무실 층이므로 엘리베이터로 올라가야 한다.",
-  "en": "Two minutes from the JR Akihabara Showa-dori Exit, in the seven-storey Hasegawa Building on the block immediately north of Yodobashi Akiba, on 6F. It is an office floor rather than a street-level shop, so take the lift up."
+  "ko": "JR 아키하바라역 중앙 개찰구에서 도보 2분, 요도바시 Akiba 바로 북쪽 블록의 하세가와(長谷川) 빌딩 6층 601호. 도로에 면한 매장이 아니라 사무실 층이므로 엘리베이터로 올라가야 한다.",
+  "en": "Two minutes from the JR Akihabara central exit, in the Hasegawa Building on the block immediately north of Yodobashi Akiba, room 601 on 6F. It is an office floor rather than a street-level shop, so take the lift up."
  },
  "tips": {
   "ko": [
-   "통신판매(shop.japan-toreca.com)와 매입이 본업이고, 매장 방문 영업시간이 공식적으로 공개되어 있지 않다. 秋葉原トレカマップ 등 아키하바라 카드숍 디렉터리에도 실려 있지 않으므로 헛걸음할 수 있다.",
-   "방문 전 운영사(주식회사 진기)에 매장 이용 가능 여부를 문의하는 편이 안전하다."
+   "판매 진열이 없는 매입 전문점이라 카드를 사러 갈 곳은 아니다. 판매는 통신판매(shop.japan-toreca.com)로만 한다.",
+   "영업시간은 12:00~20:00이지만 매입 접수는 18:00에, 미감정(素体) 카드 접수는 17:00에 끝난다.",
+   "공식 X(@TCK_akihabara)에 걸린 매입가 검색 사이트에서 카드별 매입가를 미리 확인할 수 있어 다른 매장과 상견적을 비교하기 쉽다."
   ],
   "en": [
-   "The business is mail order (shop.japan-toreca.com) and buyback; no walk-in opening hours are published, and it is absent from the Akihabara card-shop directories, so a visit may not be possible.",
-   "Contact the operator (Jingi Co., Ltd.) before going to confirm that the office accepts walk-in customers."
+   "There is no sales floor - it is a buying counter only, so it is not a place to shop for cards; selling is done through the online shop at shop.japan-toreca.com.",
+   "It is open 12:00-20:00, but buyback reception ends at 18:00 and at 17:00 for ungraded loose cards.",
+   "The price-search site linked from the official X account (@TCK_akihabara) lets you look up what they pay for a card before you go, which makes comparing quotes with other shops easy."
   ]
  },
  "official_url": "https://shop.japan-toreca.com/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/TCK_akihabara"
+ },
  "chain": null,
  "priority": 3,
- "confidence": "low",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://shop.japan-toreca.com/",
-  "https://shop.japan-toreca.com/policies/legal-notice"
+  "https://shop.japan-toreca.com/policies/legal-notice",
+  "https://shop.japan-toreca.com/blogs/blog/%e7%a7%8b%e8%91%89%e5%8e%9f%e3%81%ae%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%82%ab%e3%83%bc%e3%83%89%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97-1",
+  "https://x.com/TCK_akihabara"
  ],
  "osm_id": "node/12908845943"
 }

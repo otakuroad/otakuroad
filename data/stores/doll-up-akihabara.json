@@ -26,16 +26,14 @@
   "ball_jointed_doll",
   "super_dollfie",
   "dollfie_dream",
-  "blythe",
-  "pullip",
   "doll_clothes",
   "wig",
   "used",
   "buyback"
  ],
  "one_line": {
-  "ko": "슈퍼돌피·블라이스 등 중고 구체관절인형과 위그·눈·돌 의상 판매·매입",
-  "en": "Second-hand ball-jointed dolls and Blythe, plus wigs, eyes and outfits; buyback"
+  "ko": "슈퍼돌피 중심의 중고 구체관절인형(BJD)과 위그·아이·돌 의상 판매·매입",
+  "en": "Second-hand ball-jointed dolls, mainly Super Dollfie, plus wigs, eyes and outfits; buyback"
  },
  "building_id": null,
  "floors": [
@@ -99,14 +97,18 @@
   ]
  },
  "official_url": "https://www.dollyteria.info/shop",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/DOLLUP_A"
+ },
  "chain": "dollyteria",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.dollyteria.info/shop",
-  "https://www.dollyteria.com/"
+  "https://www.dollyteria.com/",
+  "https://x.com/DOLLUP_A",
+  "https://www.doll-up.jp/"
  ],
  "osm_id": "node/11047734070"
 }

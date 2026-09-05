@@ -76,10 +76,12 @@
  "chain": "galaxy-group",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://galaxy-group.jp/venus_akihabara/",
-  "https://galaxy-group.jp/akihabara/"
+  "https://galaxy-group.jp/akihabara/",
+  "https://galaxy-group.jp/venus_akihabara/system",
+  "https://x.com/2025AkibaVenus"
  ],
  "osm_id": null
 }

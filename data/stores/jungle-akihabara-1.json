@@ -112,10 +112,11 @@
  "chain": "jungle",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://jungle-scs.co.jp/?page_id=21",
-  "https://jungle-scs.co.jp/"
+  "https://jungle-scs.co.jp/",
+  "https://x.com/jungle_akiba1g"
  ],
  "osm_id": "node/4069489662"
 }

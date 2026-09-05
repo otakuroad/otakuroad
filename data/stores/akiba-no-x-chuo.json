@@ -22,16 +22,14 @@
   "figure",
   "bishoujo_figure",
   "robot_figure",
-  "plastic_model",
-  "gunpla",
   "used",
   "new",
   "buyback",
   "character_goods"
  ],
  "one_line": {
-  "ko": "미소녀·로봇 피규어와 프라모델의 신품·중고 판매, 피규어 매입 카운터 있음",
-  "en": "New and used bishoujo and robot figures and plastic models, with a figure buyback counter"
+  "ko": "미소녀·로봇 피규어와 호비 상품의 신품·중고 판매, 피규어 매입 카운터 있음",
+  "en": "New and used bishoujo and robot figures and hobby items, with a figure buyback counter"
  },
  "building_id": null,
  "floors": [
@@ -107,12 +105,13 @@
  "chain": "akiba-x",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.x-jpn.co.jp/store/store-52/",
   "https://www.x-jpn.co.jp/store/",
   "https://www.x-jpn.co.jp/store/store-50/",
-  "https://www.x-jpn.co.jp/store/store-18220/"
+  "https://www.x-jpn.co.jp/store/store-18220/",
+  "https://www.x-jpn.co.jp/store/store-51/"
  ],
  "osm_id": "node/1915317353"
 }

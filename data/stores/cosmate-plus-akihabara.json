@@ -59,12 +59,15 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
-  "note": {
-   "ko": "실매장 영업시간 11:00-20:00은 공식 톱페이지의 안내 배너 기준이며 자매점 발키리&프티슈와 공통이다. 정기휴무일 안내는 없고, 전화 접수 시간은 12:00-19:00으로 따로 표기된다.",
-   "en": "The 11:00-20:00 shop hours come from the notice banner on the official top page and are shared with the sister shop Walkure & Petitche. No regular holiday is stated; the phone desk is listed separately as 12:00-19:00."
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
   },
-  "source_url": "https://www.cosplus.jp/"
+  "note": {
+   "ko": "공식 공지가 '각 요일 모두 11시부터 20시까지'로 안내하며, 2022년 10월 15일 연장된 시간이고 자매점 발키리&프티슈와 공통이다. 연말연시에는 단축 영업하고, 통신판매 문의 접수는 폐점 30분 전까지다. 전화 접수 시간은 12:00-19:00으로 따로 표기된다.",
+   "en": "The official notice gives 11:00-20:00 on every day of the week - the extended hours in force since 2022-10-15, shared with the sister shop Walkure & Petitche. The new-year period runs shortened hours and mail-order enquiries close 30 minutes before the shop does. The phone desk is listed separately as 12:00-19:00."
+  },
+  "source_url": "https://www.cosplus.jp/new/2018-01-05-171948.html"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -85,13 +88,13 @@
    "실물을 직접 보고 살 수 있는 실매장이라고 공식 사이트가 안내한다. 온라인 게재 상품 중 일부는 주문 상품이므로 점두 재고는 문의 필요.",
    "같은 회사의 자매점 '발키리&프티슈'는 18세 미만·고등학생 입장 불가이므로 주의.",
    "두 실매장 공통으로 쓸 수 있는 스탬프 카드를 발행료·연회비 없이 발행한다.",
-   "영업시간은 공식 톱페이지 배너 이미지로만 안내되고 정기휴무일 표기가 없어, 먼 길이라면 전화(12:00-19:00) 확인이 안전하다."
+   "공식 공지에 영업시간이 각 요일 모두 11:00-20:00, 연중무휴로 명시돼 있다. 다만 연말연시는 단축 영업이고, 전화 문의는 12:00-19:00에만 받는다."
   ],
   "en": [
    "The official site stresses this is a real shop where you can see the goods; some items listed online are special-order, so ask about in-store stock.",
-   "The company's sister shop Walkure & Petitche next door in Akihabara does not admit under-18s or high-school students.",
+   "The company's sister shop Walkure & Petitche in Akihabara does not admit under-18s or high-school students.",
    "A stamp card usable at both physical shops is issued free of charge.",
-   "Hours are published only as a banner image with no regular holiday listed, so for a long trip call the shop (phone desk 12:00-19:00) first."
+   "The official notice states 11:00-20:00 every day of the week and that the shop is open year-round; only the new-year period is shortened, and phone enquiries are taken 12:00-19:00 only."
   ]
  },
  "official_url": "https://www.cosplus.jp/",
@@ -99,11 +102,13 @@
  "chain": "cosmate",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.cosplus.jp/",
   "https://www.cosplus.jp/html/page3.html",
-  "https://www.cosplus.jp/new/2026-08-20-142400.html"
+  "https://www.cosplus.jp/new/2026-08-20-142400.html",
+  "https://www.cosplus.jp/new/2018-01-05-171948.html",
+  "https://ameblo.jp/cosmate-akiba/"
  ],
  "osm_id": "node/7925074088"
 }

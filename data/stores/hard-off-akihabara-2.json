@@ -107,10 +107,11 @@
  "chain": "hard-off",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.hardoff.co.jp/shop/detail/?p=101104",
-  "https://www.hardoff.co.jp/shop/detail/?p=101062"
+  "https://www.hardoff.co.jp/shop/detail/?p=101062",
+  "https://www.hardoff.co.jp/shop/detail/?p=108032"
  ],
  "osm_id": "node/13139741090"
 }

@@ -22,9 +22,11 @@
  "tags": [
   "vanguard",
   "digimon_card",
-  "shadowverse_evolve",
-  "build_divide",
-  "battle_spirits",
+  "union_arena",
+  "hololive_card",
+  "dragon_ball_card",
+  "one_piece_card",
+  "gundam_card",
   "oripa",
   "singles",
   "duel_space",
@@ -35,8 +37,8 @@
   "used"
  ],
  "one_line": {
-  "ko": "뱅가드·디지몬·섀도우버스 EVOLVE 싱글과 오리파, 28석 듀얼 스페이스",
-  "en": "Vanguard, Digimon and Shadowverse EVOLVE singles and oripa, plus a 28-seat duel space"
+  "ko": "뱅가드·디지몬·유니온 아레나·원피스·건담 카드 싱글과 오리파, 듀얼 스페이스",
+  "en": "Singles and oripa for Vanguard, Digimon, Union Arena, One Piece and Gundam Card Game, with a duel space"
  },
  "building_id": null,
  "floors": [
@@ -49,7 +51,36 @@
  },
  "street_segment": "suehirocho",
  "address_ja": "東京都千代田区外神田4-7-2 小林ビル5階",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 온라인 스토어에는 영업시간 안내가 없고, 점포 공식 X 프로필에 적힌 시간이다. 정기휴무 안내는 공식 어디에도 없다.",
+   "en": "The official online store publishes no hours; these are the times stated on the shop's own X profile. No regular closing day is stated in any official source."
+  },
+  "source_url": "https://x.com/shakashakatorek"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -66,16 +97,16 @@
  },
  "tips": {
   "ko": [
-   "공식 사이트(Shopify)에는 영업시간 안내가 없다. 일본어 카드숍 디렉터리(akibatoreka·torecamap)는 평일 12:00-21:00, 토·일·공휴일 11:00-21:00, 연중무휴로 적고 있으나 공식 확인은 아니다.",
-   "뱅가드·디지몬 카드게임·섀도우버스 EVOLVE·빌디바이드·배틀 스피리츠 중심의 대전 위주 매장으로, 포켓몬·유희왕 싱글을 노린다면 다른 매장이 낫다.",
-   "디렉터리 기준 28석 듀얼 스페이스가 있고 취급 타이틀별 대회가 열린다. 평일은 무료, 토·일·공휴일은 구매 조건이 붙는다고 안내된다.",
-   "문의 03-5289-3125. 온라인 스토어 결제 수단(카드·대금상환·계좌이체 등)은 공표되어 있으나 매장 카드 결제 가능 여부는 공식 안내가 없다."
+   "공식 온라인 스토어(Shopify)에는 영업시간 안내가 없다. 점포 공식 X 프로필이 평일 12:00-21:00, 토·일·공휴일 11:00-21:00으로 적고 있으며 정기휴무 표기는 없다.",
+   "점포 X 프로필 기준 취급 타이틀은 뱅가드·디지몬 카드게임·유니온 아레나·홀로라이브 카드·드래곤볼 퓨전월드·원피스 카드·건담 카드다. 포켓몬·유희왕 싱글을 노린다면 다른 매장이 낫다.",
+   "듀얼 스페이스가 있고 취급 타이틀별 대회가 열린다. 다만 좌석 수(디렉터리는 28석과 30석으로 엇갈린다)와 이용 조건은 공식 안내가 없다.",
+   "문의 03-5289-3125. 온라인 스토어 결제 수단(신용카드·대금상환·은행이체·편의점 결제)과 매장 수령은 공표되어 있으나, 매장 카드 결제 가능 여부는 공식 안내가 없다."
   ],
   "en": [
-   "The official Shopify storefront publishes no hours. Japanese card-shop directories (akibatoreka, torecamap) give 12:00-21:00 on weekdays, 11:00-21:00 on weekends and holidays, no regular closing day, but that is unconfirmed.",
-   "Stock leans to play formats - Vanguard, Digimon Card Game, Shadowverse EVOLVE, Build Divide and Battle Spirits - so go elsewhere for Pokemon or Yu-Gi-Oh singles.",
-   "Directories list a 28-seat duel space and tournaments for the titles it carries, free on weekdays with a purchase condition at weekends and on holidays.",
-   "Phone 03-5289-3125. Payment methods are published for the online store only; in-store card acceptance is not stated."
+   "The official Shopify storefront publishes no hours. The shop's own X profile gives 12:00-21:00 on weekdays and 11:00-21:00 on weekends and holidays, and states no regular closing day.",
+   "Per the shop's X profile the titles stocked are Vanguard, Digimon Card Game, Union Arena, hololive card game, Dragon Ball Fusion World, One Piece Card Game and Gundam Card Game - go elsewhere for Pokemon or Yu-Gi-Oh singles.",
+   "There is a duel space and tournaments for the titles it carries, but no official source gives the seat count (directories disagree, 28 vs 30) or the usage conditions.",
+   "Phone 03-5289-3125. Payment methods (credit card, cash on delivery, bank transfer, convenience-store payment) and in-store pickup are published for the online store only; in-store card acceptance is not stated."
   ]
  },
  "official_url": "https://shakashakatoreka.myshopify.com/",
@@ -84,14 +115,15 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "high",
- "verified_at": "2026-09-05",
+ "confidence": "medium",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://shakashakatoreka.myshopify.com/",
   "https://shakashakatoreka.myshopify.com/policies/legal-notice",
   "https://shakashakatoreka.myshopify.com/pages/%E3%81%94%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85",
   "https://akibatoreka.com/introduce/1153",
-  "https://torecamap.co.jp/column/akihabara/"
+  "https://torecamap.co.jp/column/akihabara/",
+  "https://x.com/shakashakatorek"
  ],
  "osm_id": null
 }

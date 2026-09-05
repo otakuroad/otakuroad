@@ -59,13 +59,13 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "라스트오더 19:40. 콜라보 교체 기간에는 임시 휴업하는 날이 있으므로 공식 X(@GiGOcafe_aki3)에서 확인.",
-   "en": "Last order 19:40. The cafe closes on some days between collaborations, so check the official X account @GiGOcafe_aki3."
+   "ko": "콜라보에 따라 영업시간이 바뀌거나 임시 휴업하는 날이 있다. 방문 전 공식 X(@GiGOcafe_aki3)나 콜라보 특설 페이지에서 확인한다.",
+   "en": "Hours can change and the cafe can close on some days depending on the tie-up, so check the official X account @GiGOcafe_aki3 or the collaboration's special page before going."
   },
   "source_url": "https://www.gigo.co.jp/shops/cafe-akihabara3"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -81,12 +81,12 @@
  "tips": {
   "ko": [
    "콜라보 작품은 몇 달 단위로 바뀐다. 2026년 9월 기준 '러브라이브! 시리즈 오피셜 카드게임 2026'(2026-07-11~11-08).",
-   "같은 층에 별도 매장인 GiGO 콜라보 카페 스탠드가 있어 착석 없이 음료와 특전만 받을 수도 있다.",
+   "같은 3호관 안에 별도 매장인 GiGO 콜라보 카페 스탠드가 있어 착석 없이 음료와 특전만 받을 수도 있다.",
    "메이드 카페가 아니라 작품 콜라보 카페다. 착석·주문 방식과 특전 배포 조건은 콜라보마다 다르다."
   ],
   "en": [
    "The tie-up changes every few months; as of September 2026 it is the Love Live! Series Official Card Game 2026 collab (11 Jul - 8 Nov 2026).",
-   "A separate GiGO Collab Cafe Stand on the same floor sells the drinks and bonuses without a table.",
+   "A separate GiGO Collab Cafe Stand inside the same Building 3 sells the drinks and bonuses without a table.",
    "This is a title tie-up cafe, not a maid cafe; seating rules and how bonuses are handed out change with each collaboration."
   ]
  },
@@ -97,12 +97,14 @@
  "chain": "gigo",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.gigo.co.jp/shops/cafe-akihabara3",
   "https://www.gigo.co.jp/shops/cafestand-akihabara3",
   "https://www.gigo.co.jp/shops/akihabara3",
-  "https://contents.gendagigo.jp/retrog"
+  "https://contents.gendagigo.jp/retrog",
+  "https://campaign.gendagigo.jp/2607/lovelive-cardgame-cafe/reserve",
+  "https://www.gigo.co.jp/cafe-and-goods/2026-07-lovelive-cardgame-cafe/"
  ],
  "osm_id": "node/6019003687"
 }

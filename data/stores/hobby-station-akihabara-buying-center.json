@@ -105,11 +105,12 @@
  "chain": "hobby-station",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.hbst.net/shop/1/",
   "https://www.hbst.net/shop/",
-  "https://www.hbst.net/shop/19/"
+  "https://www.hbst.net/shop/19/",
+  "https://api.fxtwitter.com/akiba5f"
  ],
  "osm_id": null
 }

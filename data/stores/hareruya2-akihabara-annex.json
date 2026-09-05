@@ -103,16 +103,21 @@
   ]
  },
  "official_url": "https://www.hareruya2.com/pages/store_annex",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/hareruya2annex"
+ },
  "chain": "hareruya2",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.hareruya2.com/pages/store_annex",
   "https://www.hareruya2.com/pages/store_menu",
   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B01-2-5",
-  "https://www.openstreetmap.org/node/10137209417"
+  "https://www.openstreetmap.org/node/10137209417",
+  "https://x.com/hareruya2annex",
+  "https://api.fxtwitter.com/hareruya2annex",
+  "https://corp.hareruyamtg.com/company"
  ],
  "osm_id": "node/10137209417"
 }

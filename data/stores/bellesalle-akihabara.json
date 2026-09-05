@@ -65,13 +65,13 @@
  "tips": {
   "ko": [
    "대관 시설이라 행사가 없는 날에는 아무것도 팔지 않고 들어갈 수도 없다. 방문 전 주최 측 공식 사이트에서 개최 여부와 사전 티켓·정리권 유무를 확인한다.",
-   "B1F·1F·2F 홀을 모두 합치면 약 2,300㎡, 최대 약 865석(시어터 형식) 규모다. 타마시 네이션이나 GiGO EXPO 같은 대형 피규어·게임 행사가 여기서 열린다.",
-   "시설 자체의 상시 영업시간은 없고, 현지 사무국 접수는 평일 9:00-18:00(토·일·공휴일·연말연시 제외)이다."
+   "B1F·1F·2F 홀 세 개를 한꺼번에 빌리면 약 2,300㎡가 된다. 시어터 형식 좌석 수는 홀마다 달라 2F 홀 865석, B1F 홀 594석, 1F 홀 498석이다. 타마시 네이션이나 GiGO EXPO 같은 대형 피규어·게임 행사가 여기서 열린다.",
+   "시설 자체의 상시 영업시간은 없다. 9:00-18:00(토·일·공휴일·연말연시 제외)은 벨사르 대관 문의 전화(03-3346-1396) 접수 시간이지 현장 접수 시간이 아니며, 현지 연락처는 050-3112-0910으로 접수 시간 표기가 없다."
   ],
   "en": [
    "It is a rental facility: on days with no booking nothing is sold and you cannot go in. Check the organiser's own site for dates and whether advance tickets or numbered entry slips are needed.",
-   "The B1F, 1F and 2F halls total about 2,300 sqm and seat up to roughly 865 theatre-style. Big figure and game events such as TAMASHII NATION and GiGO EXPO are held here.",
-   "The venue has no regular opening hours; the on-site office desk works 9:00-18:00 on weekdays only (closed weekends, public holidays and the new-year period)."
+   "Renting the B1F, 1F and 2F halls together gives about 2,300 sqm. Theatre-style seating differs by hall: 865 in the 2F hall, 594 in the B1F hall and 498 on 1F. Big figure and game events such as TAMASHII NATION and GiGO EXPO are held here.",
+   "The venue has no regular opening hours. The 9:00-18:00 weekday window (closed weekends, public holidays and the new-year period) is Bellesalle's booking enquiry line 03-3346-1396, not an on-site desk; the on-site contact is 050-3112-0910, with no stated hours."
   ]
  },
  "official_url": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/",
@@ -79,9 +79,10 @@
  "chain": "bellesalle",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
-  "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/"
+  "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/",
+  "https://campaign.gendagigo.jp/gigoexpo/"
  ],
  "osm_id": null
 }

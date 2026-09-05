@@ -67,8 +67,8 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "평일 13:00, 토·일·공휴일과 신탄 발매일은 12:00 개점",
-   "en": "Opens at 13:00 on weekdays and at 12:00 on weekends, public holidays and new-set release days"
+   "ko": "평일 13:00, 토·일·공휴일 12:00 개점. 정기휴무 안내는 공식 어디에도 없다.",
+   "en": "Opens at 13:00 on weekdays and at 12:00 on weekends and public holidays. No regular closing day is stated in any official source."
   },
   "source_url": "https://www.tcsb.jp/"
  },
@@ -107,13 +107,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.tcsb.jp/",
   "https://www.tcsb.jp/?page_id=1035",
   "https://www.tcsb.jp/?page_id=1080",
   "https://www.tcsb.jp/?page_id=1322",
-  "https://akibatoreka.com/introduce/2325"
+  "https://akibatoreka.com/introduce/2325",
+  "https://x.com/TChimitsukichi"
  ],
  "osm_id": null
 }

@@ -26,8 +26,7 @@
   "oripa",
   "buyback",
   "duel_space",
-  "tournament",
-  "new_shop_2026"
+  "tournament"
  ],
  "one_line": {
   "ko": "일본 첫 디즈니 로르카나 전문점. 싱글카드·박스 판매와 매일 대전 이벤트",
@@ -35,7 +34,8 @@
  },
  "building_id": null,
  "floors": [
-  "1F"
+  "1F",
+  "2F"
  ],
  "floor_guide": [],
  "location": {
@@ -66,10 +66,10 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "공식 X 프로필과 실제 개점 공지는 10:00-22:00이지만, 공식 웹사이트 점포 페이지와 회사 개요에는 아직 '연중무휴 12:00-21:00'이 남아 있다. 방문 전 @lorhappy_tcg 확인이 안전하다.",
-   "en": "The shop's own X profile and its daily opening posts say 10:00-22:00, but the website's shop page and company page still print 'open year-round 12:00-21:00'. Check @lorhappy_tcg before going."
+   "ko": "공식 점포 페이지에 '연중무휴 10:00~22:00'으로 적혀 있다. 회사 개요 페이지에는 아직 옛 시간인 12:00-21:00이 남아 있다.",
+   "en": "The shop page states 'open year-round, 10:00-22:00'; the company-profile page still prints the old 12:00-21:00."
   },
-  "source_url": "https://x.com/lorhappy_tcg"
+  "source_url": "https://www.lorhappy.com/view/page/shop"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -107,13 +107,14 @@
  "chain": "happy-shoten",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.lorhappy.com/view/page/shop",
   "https://www.lorhappy.com/view/company",
   "https://www.lorhappy.com/",
   "https://x.com/lorhappy_tcg",
-  "https://akihabara-cardmap.com/ja/shop/lol-happy/"
+  "https://akihabara-cardmap.com/ja/shop/lol-happy/",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2024699.html"
  ],
  "osm_id": null
 }

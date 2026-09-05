@@ -58,7 +58,7 @@
      "fri"
     ],
     "open": "13:00",
-    "close": "20:30"
+    "close": "20:00"
    },
    {
     "days": [
@@ -75,8 +75,8 @@
    "en": "Closed Tuesdays and Wednesdays"
   },
   "note": {
-   "ko": "공식 사이트 안에서도 평일 폐점 시각이 점포안내 페이지 20:30, 사이드바 20:00으로 다르게 적혀 있다. 저녁 늦게 갈 계획이면 X·인스타그램 공지를 먼저 확인. 모형 전시회 출전 기간에는 며칠씩 임시 휴업한다.",
-   "en": "The official site itself gives two weekday closing times - 20:30 on the store-guide page and 20:00 in the sidebar - so check X or Instagram before a late visit. The shop shuts for several days when it exhibits at model conventions."
+   "ko": "평일 폐점 시각이 공식 사이트 안에서도 갈린다. 매달 갱신되는 사이드바 달력과 배송 안내는 13:00~20:00, 점포안내 본문은 20시 30분, 특정상거래법 페이지는 15~20시로 적혀 있어 여기서는 달력 기준 20:00을 따랐다. 저녁 늦게 갈 계획이면 X·인스타그램 공지를 먼저 확인. 모형 전시회 출전 기간에는 며칠씩 임시 휴업한다.",
+   "en": "The official site contradicts itself on the weekday closing time: the monthly-updated sidebar calendar and the shipping pages say 13:00-20:00, the store-guide text says 20:30 and the legal-notice page says 15:00-20:00, so the calendar's 20:00 is used here. Check X or Instagram before a late visit. The shop shuts for several days when it exhibits at model conventions."
   },
   "source_url": "https://yfs-figure.com/?mode=f3"
  },
@@ -116,10 +116,11 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://yfs-figure.com/?mode=f3",
-  "https://yfs-figure.com/"
+  "https://yfs-figure.com/",
+  "https://yfs-figure.com/?mode=sk"
  ],
  "osm_id": "node/10803059364"
 }

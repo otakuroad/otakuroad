@@ -67,13 +67,15 @@
   "ko": [
    "상설 콘셉트보다 콜라보 이벤트가 중심인 가게로, 미소녀게임 브랜드(Circus·HOOKSOFT·みなとそふと 등)와 VTuber 사무소 콜라보 카페가 2026년에도 거의 매달 이어지고 있다. 개최 중인 작품과 기간은 공식 사이트 첫 화면 공지에서 확인한다.",
    "요금은 입장료 1시간 500엔에 1시간마다 음료 1잔 주문제. 첫 방문자용 1,000~2,000엔 세트가 따로 있다.",
-   "공식 사이트에는 주소·영업시간 표기가 없다. 주소와 층은 공식 X 프로필(@whitecrossload)에 적혀 있고, 일본 정보 사이트들은 평일 11:30~23:00, 토·일·공휴일 12:00~23:00으로 안내한다(공식 확인 불가).",
+   "공식 사이트에는 주소도 영업시간표도 없지만, 이벤트 안내의 입장 회차가 평일 11:30 시작, 토·일·공휴일 12:00 시작이고 20:00 이후는 자유 입장이라고 적혀 있다. 주소와 층은 공식 X 프로필(@whitecrossload)에 있고, 폐점 시각은 공식 확인이 안 된다(일본 정보 사이트는 23:00으로 안내).",
+   "이벤트 기간에도 주 1회꼴로 임시 휴무일(店休日)이 있으므로 공식 사이트나 X에서 날짜를 확인하고 가는 편이 좋다.",
    "콜라보 문의·미디어 취재는 whitecrossloadcafe@gmail.com으로 받는다."
   ],
   "en": [
    "The draw is the collab events rather than a fixed concept: bishoujo-game brands (Circus, HOOKSOFT, Minato Soft and others) and VTuber agencies take the cafe over almost every month through 2026. The current title and dates are announced on the official site's front page.",
    "Entry is 500 yen per hour with one drink ordered per hour; first-time visitors have separate 1,000-2,000 yen sets.",
-   "The official site lists neither address nor hours. The address and floor come from the official X profile (@whitecrossload); Japanese listing sites give 11:30-23:00 on weekdays and 12:00-23:00 at weekends and holidays, which is not officially confirmed.",
+   "The official site gives neither an address nor an opening-hours line, but its event notice lists entry rounds starting 11:30 on weekdays and 12:00 at weekends and holidays, with free entry after 20:00. The address and floor come from the official X profile (@whitecrossload); the closing time is not officially confirmed (listing sites say 23:00).",
+   "Even during an event run there is roughly one 店休日 (closed day) a week, so check the date on the official site or X before going.",
    "Collab and media enquiries go to whitecrossloadcafe@gmail.com."
   ]
  },
@@ -85,7 +87,7 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://whitecrossload.girly.jp/",
   "https://whitecrossload.girly.jp/menu",

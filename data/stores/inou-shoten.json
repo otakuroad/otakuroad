@@ -55,12 +55,18 @@
      "mon",
      "wed",
      "thu",
-     "fri",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
      "sat",
      "sun",
      "hol"
     ],
-    "open": "12:00",
+    "open": "11:00",
     "close": "20:00"
    }
   ],
@@ -69,10 +75,10 @@
    "en": "Closed Tuesdays (year-end and Obon periods vary)"
   },
   "note": {
-   "ko": "공식 회사 페이지 기준 본점(3F)은 12:00-20:00, 화요일 휴무. 매장 공식 X(@nwounwounwou)는 토·일·공휴일 11:00 개점으로 안내하므로 주말 이른 방문 시 확인이 필요하다. 같은 건물 1층 매장은 11:00-20:00.",
-   "en": "The company page gives 12:00-20:00 for the 3F main store, closed Tuesdays. The shop's own X account (@nwounwounwou) lists an 11:00 opening on weekends and holidays, so check before an early weekend visit. The 1F sister shop in the same building runs 11:00-20:00."
+   "ko": "본점(3F)은 평일 12:00-20:00, 토·일·공휴일 11:00-20:00이고 화요일은 휴무다. 회사 공식 페이지에는 12:00-20:00으로만 적혀 있어 주말 개점 시각은 매장 공식 X(@nwounwounwou) 기준이다. 같은 건물 1층 매장은 11:00-20:00.",
+   "en": "The 3F main store runs 12:00-20:00 on weekdays and 11:00-20:00 on Saturdays, Sundays and holidays, and closes on Tuesdays. The company page gives only 12:00-20:00, so the weekend opening time comes from the shop's own X account (@nwounwounwou). The 1F sister shop in the same building runs 11:00-20:00."
   },
-  "source_url": "https://inou7216.wordpress.com/%E3%81%84%E3%81%AE%E3%81%86%E5%95%86%E5%BA%97/"
+  "source_url": "https://x.com/nwounwounwou"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -110,11 +116,12 @@
  "chain": "inou-shoten",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://inou7216.wordpress.com/%E3%81%84%E3%81%AE%E3%81%86%E5%95%86%E5%BA%97/",
   "https://inou7216.wordpress.com/",
-  "https://akihabara-fan.com/archives/945"
+  "https://akihabara-fan.com/archives/945",
+  "https://x.com/nwounwounwou"
  ],
  "osm_id": "node/9024905619"
 }

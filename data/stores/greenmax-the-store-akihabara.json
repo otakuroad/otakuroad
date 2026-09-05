@@ -87,8 +87,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "모델스 이몬이 있는 우치다 빌딩(内田ビル)의 5층. JR 아키하바라역 전기가 출구에서 주오도리를 건너 소부선 고가를 따라 서쪽으로 도보 3~5분, 1층 전자부품점 HAMADA와 센고쿠전상이 있는 6층 건물이다. 3층 이몬·MONTA와 헷갈리기 쉬우니 엘리베이터에서 5층 버튼을 누른다.",
-  "en": "On 5F of the same Uchida Building as Models IMON. From JR Akihabara's Electric Town exit, cross Chuo-dori and follow the Sobu-line viaduct west for 3-5 minutes to the six-storey building with the parts shops HAMADA and Sengoku Densho on the ground floor. Press 5 in the lift - Models IMON and MONTA on 3F are easy to confuse with it."
+  "ko": "모델스 이몬이 있는 우치다 빌딩(内田ビル)의 5층. JR 아키하바라역 전기가 출구에서 주오도리를 건너 소부선 고가를 따라 서쪽으로 도보 3~5분, 1층에 하마다전자(浜田電子)와 나사 가게 네지노니시카와(ネジの西川)가 있는 빌딩이다. 두 가게 사이에 입구가 있고, 3층 이몬·MONTA와 헷갈리기 쉬우니 엘리베이터에서 5층 버튼을 누른다.",
+  "en": "On 5F of the same Uchida Building as Models IMON. From JR Akihabara's Electric Town exit, cross Chuo-dori and follow the Sobu-line viaduct west for 3-5 minutes to the building whose ground floor holds the parts shop Hamada Denshi and the screw shop Neji no Nishikawa; the entrance is between the two. Press 5 in the lift - Models IMON and MONTA on 3F are easy to confuse with it."
  },
  "tips": {
   "ko": [
@@ -111,7 +111,7 @@
  "chain": "greenmax",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.gm-store.co.jp/Shops/store_akiba.shtml",
   "https://x.com/cp_pps_akiba",

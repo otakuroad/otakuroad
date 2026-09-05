@@ -52,12 +52,18 @@
    {
     "days": [
      "mon",
-     "thu",
      "fri",
      "sat",
      "sun"
     ],
     "open": "11:00",
+    "close": "19:00"
+   },
+   {
+    "days": [
+     "thu"
+    ],
+    "open": "13:00",
     "close": "19:00"
    }
   ],
@@ -66,8 +72,8 @@
    "en": "Tuesdays and Wednesdays"
   },
   "note": {
-   "ko": "전시 회기 첫날은 13:00 개점. 연말연시·골든위크·오본과 이벤트 사정으로 시간이 바뀔 수 있고, 공휴일이 화·수요일이면 휴무일 수 있다",
-   "en": "Opens at 13:00 on the first day of an exhibition run. Hours change over New Year, Golden Week, Obon and around events; a public holiday falling on a Tuesday or Wednesday may still be a closing day"
+   "ko": "목요일은 13:00 개점이고, 전시 회기 첫날도 13:00 개점이다. 연말연시·골든위크·오본과 이벤트 사정으로 시간이 바뀔 수 있고, 공휴일이 화·수요일이면 휴무일 수 있다",
+   "en": "Opens at 13:00 on Thursdays, and at 13:00 on the first day of an exhibition run. Hours change over New Year, Golden Week, Obon and around events; a public holiday falling on a Tuesday or Wednesday may still be a closing day"
   },
   "source_url": "https://artjeuness.jp/shop_akihabara/"
  },
@@ -87,12 +93,12 @@
  },
  "tips": {
   "ko": [
-   "화·수요일 정기휴무이므로 방문 요일을 먼저 확인. 전시 회기 첫날은 13:00 개점",
+   "화·수요일 정기휴무이므로 방문 요일을 먼저 확인. 목요일과 전시 회기 첫날은 13:00 개점",
    "같은 층 아르주네스 갤러리에서 일러스트레이터 원화·복제 원화 전시와 판매가 함께 열린다",
    "타페스트리는 로고 색으로 초판과 재판을 구분하며, 인기작 외에는 재판이 거의 없다"
   ],
   "en": [
-   "Closed Tuesdays and Wednesdays, so check the day before you go; it opens at 13:00 on an exhibition's first day",
+   "Closed Tuesdays and Wednesdays, so check the day before you go; it opens at 13:00 on Thursdays and on an exhibition's first day",
    "The ARTJEUNESS gallery on the same floor runs illustrator original-art and reproduction shows alongside the shop",
    "Tapestry first printings and reprints are told apart by the logo colour, and only popular pieces are ever reprinted"
   ]
@@ -105,12 +111,13 @@
  "chain": "jikuchushinha",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://artjeuness.jp/shop_akihabara/",
   "https://artjeuness.jp/shoplist/",
   "https://www.jiku-chu.com/",
-  "https://ja.wikipedia.org/wiki/%E8%BB%B8%E4%B8%AD%E5%BF%83%E6%B4%BE"
+  "https://ja.wikipedia.org/wiki/%E8%BB%B8%E4%B8%AD%E5%BF%83%E6%B4%BE",
+  "https://x.com/ejx_jikuchuAK"
  ],
  "osm_id": "node/5050002954"
 }

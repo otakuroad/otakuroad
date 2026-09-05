@@ -117,11 +117,12 @@
  "chain": "dolk",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://dolk.jp/portal/generic/tokyo",
   "https://dolk.jp/pages/dollstock/",
-  "https://dolk.jp/"
+  "https://dolk.jp/",
+  "https://x.com/dolktokyo"
  ],
  "osm_id": null
 }

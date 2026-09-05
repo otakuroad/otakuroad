@@ -63,14 +63,14 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "공식 사이트에는 요일 구분 없이 11:00-20:30만 적혀 있고 정기 휴일 표기는 없다. 같은 회사의 AKIBA 컬처즈존점·라디오회관점은 건물 영업시간을 따르므로 시간이 다르다.",
-   "en": "The official site gives a single 11:00-20:30 with no day-by-day split and states no regular closing day. The company's AKIBA Cultures Zone and Radio Kaikan branches follow their buildings' hours instead, so they differ."
+   "ko": "공식 사이트에는 요일 구분 없이 '営業時間：11時00分～20時30分'만 적혀 있고 정기 휴일 표기는 없다. 공식 X도 전일 11:00~20:30이라고 안내하며, 매입 접수는 19:30에 마감한다고 덧붙인다.",
+   "en": "The official site gives a single 11:00-20:30 with no day-by-day split and states no regular closing day. The shop's own X repeats the all-week 11:00-20:30 and adds that buyback is only accepted until 19:30."
   },
   "source_url": "https://ec.havikorotoy.com/pages/store"
  },
  "tax_free": null,
  "payment": "unknown",
- "secondhand": null,
+ "secondhand": "both",
  "adult_content": {
   "level": "none",
   "floors": []
@@ -84,16 +84,18 @@
  },
  "tips": {
   "ko": [
-   "하비코로 완구의 아키하바라 매장 가운데 주오도리에 면한 유일한 지점이다. 나머지는 AKIBA 컬처즈존 3층(오토메점·오레요메점·카와이점)과 라디오회관 2층에 들어 있다.",
+   "하비코로 완구의 아키하바라 매장 가운데 주오도리에 면한 유일한 지점이다. 나머지는 AKIBA 컬처즈존 3층(컬처즈존점·오토메점·오레요메점·카와이점)과 라디오회관 2층에 들어 있다.",
    "공식 사이트가 내세우는 취급 품목은 피규어(애니·만화·특촬·영화·게임·로봇·보컬로이드·미소녀), 아크릴 굿즈·캔뱃지·인형·색지·체키, CD·DVD·Blu-ray다.",
-   "운영 회사는 주식회사 챠플(株式会社チャップル)로 도쿄도 공안위원회 고물상 허가를 받았고, 택배 매입·출장 매입도 함께 운영한다.",
+   "운영 회사는 유한회사 챠플 코퍼레이션(有限会社チャップル・コーポレーション)으로 도쿄도 공안위원회 고물상 허가(제301030706842호)를 받았고, 우편 매입·출장 매입도 함께 운영한다.",
+   "신품·중고를 모두 매입하며 매입 접수는 19:30까지라 폐점보다 한 시간 일찍 마감한다.",
    "면세·카드 결제 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다.",
    "이 지점의 공식 X 계정은 @kaizoku_card2로, 매장 공지는 그쪽에 올라온다."
   ],
   "en": [
-   "This is the only Havikoro Toy branch in Akihabara that fronts Chuo-dori; the others sit inside AKIBA Cultures Zone 3F (Otome, Oreyome and Kawaii shops) and Radio Kaikan 2F.",
+   "This is the only Havikoro Toy branch in Akihabara that fronts Chuo-dori; the others sit inside AKIBA Cultures Zone 3F (the Cultures Zone, Otome, Oreyome and Kawaii shops) and Radio Kaikan 2F.",
    "The product lines the official site advertises are figures (anime, manga, tokusatsu, film, game, robot, Vocaloid, bishoujo), acrylic goods, can badges, plush, shikishi and cheki, plus CDs, DVDs and Blu-rays.",
-   "The operator, Chapple Corporation, holds a Tokyo antiques dealer licence and also runs mail-in and home-visit buying services.",
+   "The operator is Chapple Corporation Ltd (有限会社チャップル・コーポレーション), which holds Tokyo antiques dealer licence 301030706842 and also runs mail-in and home-visit buying services.",
+   "They buy both new and used items, but the buyback counter closes at 19:30, an hour before the shop does.",
    "Neither tax-free service nor card acceptance is stated on the official site, so bring cash.",
    "The branch's own X account is @kaizoku_card2, which is where its notices are posted."
   ]
@@ -105,11 +107,15 @@
  "chain": "havikoro",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://ec.havikorotoy.com/pages/store",
   "https://ec.havikorotoy.com/",
-  "https://ec.havikorotoy.com/pages/company"
+  "https://ec.havikorotoy.com/pages/company",
+  "https://ec.havikorotoy.com/ja/pages/store",
+  "https://ec.havikorotoy.com/ja/pages/company",
+  "https://api.fxtwitter.com/kaizoku_card2",
+  "https://yuso-kaitori.havikorotoy.com/"
  ],
  "osm_id": null
 }

@@ -33,7 +33,8 @@
  },
  "building_id": null,
  "floors": [
-  "3F"
+  "3F",
+  "4F"
  ],
  "floor_guide": [],
  "location": {
@@ -86,19 +87,21 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 1층이 자매점 로르해피(디즈니 로르카나 전문점)인 가와이(河合) 빌딩의 3층으로, 같은 입구에서 위층으로 올라간다. 주오도리 서쪽 중고 PC·정크 상점 거리에 있으며 하드오프 아키하바라 2호관에서 북서쪽으로 20m 남짓.",
-  "en": "One minute from Ginza-line Suehirocho Station, seven from JR Akihabara. Third floor of the Kawai Building whose ground floor is the sister shop LorHappy; use the same entrance and go up. It sits on the used-PC and junk street west of Chuo-dori, about 20 m north-west of Hard Off Akihabara No.2."
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 가와이(河合) 빌딩 1~2층이 자매점 로르해피(디즈니 로르카나 전문점)이고 밴해피는 3~4층으로, 같은 입구에서 위층으로 올라간다. 주오도리 서쪽 중고 PC·정크 상점 거리에 있으며 하드오프 아키하바라 2호관에서 북서쪽으로 20m 남짓.",
+  "en": "One minute from Ginza-line Suehirocho Station, seven from JR Akihabara. Floors 1-2 of the Kawai Building are the sister shop LorHappy; VanHappy is on 3F and 4F, reached from the same entrance. It sits on the used-PC and junk street west of Chuo-dori, about 20 m north-west of Hard Off Akihabara No.2."
  },
  "tips": {
   "ko": [
-   "1층 로르해피(디즈니 로르카나)와 같은 운영사인 주식회사 핫피상점 매장으로, 두 곳 모두 2025년 6월에 열었다.",
+   "1~2층 로르해피(디즈니 로르카나)와 같은 운영사인 주식회사 핫피상점 매장으로, 두 곳 모두 2025년 6월에 열었다.",
    "대회 참가 신청은 공식 X가 안내하는 Tonamel 페이지에서 받는다.",
-   "평일은 12시, 토·일·공휴일은 10시 개점으로 시작 시간이 다르다."
+   "평일은 12시, 토·일·공휴일은 10시 개점으로 시작 시간이 다르다.",
+   "4층은 파이트 스페이스로, 그날 개방 여부는 공식 X 공지로 알린다."
   ],
   "en": [
-   "Run by Happy Shoten, the same company as LorHappy (Disney Lorcana) on the ground floor; both opened in June 2025.",
+   "Run by Happy Shoten, the same company as LorHappy (Disney Lorcana) on floors 1-2; both opened in June 2025.",
    "Tournament entries are taken through the Tonamel page linked from the shop's X profile.",
-   "Opening time differs by day: 12:00 on weekdays, 10:00 on weekends and public holidays."
+   "Opening time differs by day: 12:00 on weekdays, 10:00 on weekends and public holidays.",
+   "The 4F is a fight space; whether it is open on a given day is announced on the shop's X."
   ]
  },
  "official_url": "https://www.van-happy.com/",
@@ -108,13 +111,17 @@
  "chain": "happy-shoten",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.van-happy.com/view/page/shop",
   "https://www.van-happy.com/view/company",
   "https://www.van-happy.com/",
   "https://x.com/vanhappy_tcg",
-  "https://www.lorhappy.com/view/company"
+  "https://www.lorhappy.com/view/company",
+  "https://api.fxtwitter.com/vanhappy_tcg",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2078055444460023976&token=a",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2024699.html",
+  "https://www.lorhappy.com/view/page/shop"
  ],
  "osm_id": null
 }

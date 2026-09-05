@@ -90,14 +90,17 @@
   ]
  },
  "official_url": "https://tokyovideogamers.com/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/TVG_akiba"
+ },
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://tokyovideogamers.com/",
-  "https://www.jrtk.jp/seekbase/shop/"
+  "https://www.jrtk.jp/seekbase/shop/",
+  "https://x.com/TVG_akiba"
  ],
  "osm_id": null
 }

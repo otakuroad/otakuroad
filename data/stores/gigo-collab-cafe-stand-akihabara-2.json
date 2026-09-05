@@ -50,8 +50,7 @@
      "thu",
      "fri",
      "sat",
-     "sun",
-     "hol"
+     "sun"
     ],
     "open": "10:00",
     "close": "20:00"
@@ -97,7 +96,7 @@
  "chain": "gigo",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.gigo.co.jp/shops/cafestand-akihabara2",
   "https://www.gigo.co.jp/shops/akihabara2",
