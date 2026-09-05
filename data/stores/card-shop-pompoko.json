@@ -33,12 +33,11 @@
   "used"
  ],
  "one_line": {
-  "ko": "포켓몬·원피스·듀얼마스터즈 싱글과 오리파를 파는 지하 1층·1층 매장",
-  "en": "B1F and 1F shop selling Pokemon, One Piece and Duel Masters singles and oripa"
+  "ko": "포켓몬·원피스·듀얼마스터즈 싱글과 오리파를 파는 1층 카드숍",
+  "en": "Ground-floor card shop selling Pokemon, One Piece and Duel Masters singles and oripa"
  },
  "building_id": null,
  "floors": [
-  "B1F",
   "1F"
  ],
  "floor_guide": [],
@@ -47,7 +46,7 @@
   "lng": 139.770515
  },
  "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田1-2-14 紀伊國屋ビル B1F・1F",
+ "address_ja": "東京都千代田区外神田1-2-14 紀伊國屋ビル1F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",
@@ -60,19 +59,19 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 도보 3분. 포켓몬 카드 전문점 하레루야2 아키하바라 타워(외신다 1-2-13) 바로 옆 기노쿠니야 빌딩으로, 1층 도로변 매장과 지하 1층 매장이 이어져 있다.",
-  "en": "Three minutes south of the JR Electric Town Exit along Chuo-dori, in the Kinokuniya Building right beside the Pokemon-card specialist Hareruya2 Akihabara Tower (Sotokanda 1-2-13). The street-level 1F shop continues down to a second floor in the basement."
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 도보 3분. 포켓몬 카드 전문점 하레루야2 아키하바라 타워(외신다 1-2-13) 바로 옆 기노쿠니야 빌딩 1층 도로변 매장이다.",
+  "en": "Three minutes south of the JR Electric Town Exit along Chuo-dori, in the Kinokuniya Building right beside the Pokemon-card specialist Hareruya2 Akihabara Tower (Sotokanda 1-2-13); the shop is at street level on 1F."
  },
  "tips": {
   "ko": [
-   "2023년 8월 이전 자리에서 옮겨오며 면적이 커진 매장으로, 오리파와 싱글카드에 힘을 주고 있다.",
-   "공식 홈페이지가 없다. 秋葉原トレカマップ 기준 영업시간은 평일 13:00-21:00, 토·일·공휴일 11:00-21:00, 매입 19:00까지, 무휴이며 방문 전 X(@CardshopPonpoko) 확인 권장.",
-   "대전 스페이스 66석이 있어 포켓몬·원피스·듀얼마스터즈 대회가 열린다."
+   "2023년 8월 이 건물 1층으로 옮겨오며 면적이 커진 매장으로, 오리파와 싱글카드에 힘을 주고 있다. 예전에 라오쿠스와 기노쿠니야 한약국이 있던 자리다.",
+   "공식 홈페이지가 없고 영업시간을 밝힌 공식 페이지도 없다. 카드숍 디렉터리마다 폐점 시각이 엇갈리므로 방문 전 X(@CardshopPonpoko) 확인이 안전하다.",
+   "무료 대전 스페이스가 있어 포켓몬·원피스·듀얼마스터즈 대회가 열린다. 포켓몬카드 공식 취급점 검색에 '포켓몬카드 짐'으로 등록되어 있다."
   ],
   "en": [
-   "It moved to this larger site in August 2023 and puts its weight behind oripa packs and singles.",
-   "There is no official website. The Akihabara Toreka Map directory lists 13:00-21:00 on weekdays and 11:00-21:00 on weekends and holidays, buyback to 19:00, no closing day - check X (@CardshopPonpoko) before going.",
-   "A 66-seat duel space hosts Pokemon, One Piece and Duel Masters tournaments."
+   "It moved into this building's ground floor in August 2023, gaining floor space, and puts its weight behind oripa packs and singles; the site previously held Laox and the Kinokuniya herbal pharmacy.",
+   "There is no official website and no official page stating hours; card-shop directories disagree on the closing time, so check X (@CardshopPonpoko) before going.",
+   "A free duel space hosts Pokemon, One Piece and Duel Masters tournaments; the official Pokemon store finder lists it as a Pokemon Card Gym."
   ]
  },
  "official_url": null,
@@ -85,7 +84,10 @@
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://akibatoreka.com/introduce/2575",
-  "https://x.com/CardshopPonpoko"
+  "https://x.com/CardshopPonpoko",
+  "https://map.pokemon-card.com/map/18927",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/1524439.html",
+  "https://www.youtube.com/@CardshopPonpoko"
  ],
  "osm_id": "node/10284209436"
 }

@@ -45,8 +45,34 @@
   "lng": 139.773142
  },
  "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田4-13-1 第2日浦ビル",
- "hours": null,
+ "address_ja": "東京都千代田区外神田4-13-1 秋葉原第二日浦ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "점포가 직접 운영하는 온라인 스토어(BASE)의 특정상거래법 표기에 '営業時間：15:00-24:00　定休日：不定'으로 적혀 있다. 요일별 구분은 없고 별도의 영업시간 안내 페이지도 없으므로 당일 영업은 X(@popsan_akb)에서 확인하는 편이 좋다.",
+   "en": "The shop's own BASE online store gives 15:00-24:00 with irregular closing days in its legal notice. There is no day-by-day breakdown and no separate hours page, so check X (@popsan_akb) for the day."
+  },
+  "source_url": "https://popman.shopselect.net/law"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -63,30 +89,35 @@
  },
  "tips": {
   "ko": [
-   "아키하바라 카드숍 중에서도 늦게까지 여는 편으로, 디렉터리에는 15시부터 자정까지로 올라와 있다. 공식 영업시간 안내가 없으니 X(@popsan_akb)에서 당일 영업을 확인한다.",
+   "아키하바라 카드숍 중에서도 늦게까지 여는 편으로, 점포가 직접 운영하는 온라인 스토어의 특정상거래법 표기에 15:00-24:00·부정기 휴무로 나와 있다. 요일별 안내는 없으니 X(@popsan_akb)에서 당일 영업을 확인한다.",
    "점장 1인이 운영하는 개인 상점이라 초보자에게 카드 규제나 덱 상담을 해주는 분위기라고 소개된다.",
-   "점내 듀얼 스페이스가 있고 짐 배틀 등 포켓몬카드 대전 이벤트가 열린다.",
+   "점내 듀얼 스페이스가 있고 짐 배틀 등 포켓몬카드 대전 이벤트가 열린다. 포켓몬카드 공식 점포 검색에도 '포켓몬카드 짐'으로 등록되어 있다.",
    "대형 매장 수준의 재고나 매입가를 기대하기보다, 늦은 시간대 대전 환경과 점장과의 대화를 목적으로 가는 쪽이 맞는다."
   ],
   "en": [
-   "It stays open notably late for an Akihabara card shop - directories list roughly 15:00 to midnight. No official hours page exists, so check X (@popsan_akb) for the day.",
+   "It stays open notably late for an Akihabara card shop: the shop's own online store gives 15:00-24:00 with irregular closing days in its legal notice. No day-by-day breakdown is published, so check X (@popsan_akb) for the day.",
    "A one-person owner-run shop; listings say the owner will explain card restrictions and help you look for cards, which suits beginners.",
-   "There is a duel space inside, and Pokemon card events such as gym battles are held there.",
+   "There is a duel space inside and Pokemon card events such as gym battles are held there; the official Pokemon card store finder registers it as a Pokemon Card Gym.",
    "Do not expect big-chain stock levels or buyback rates; the draw is the late-night play environment and the owner's advice."
-  ]
+  ],
+  "en_note": null
  },
- "official_url": null,
+ "official_url": "https://popman.shopselect.net/",
  "sns": {
   "x": "https://x.com/popsan_akb"
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://akihabara-cardmap.com/ja/shop/card-shop-popsan-shokai-akihabara-store/",
   "https://akibatoreka.com/introduce/2498",
-  "https://torecamap.co.jp/column/akihabara/"
+  "https://torecamap.co.jp/column/akihabara/",
+  "https://livelifellc.jp/pokeka.html",
+  "https://popman.shopselect.net/",
+  "https://popman.shopselect.net/law",
+  "https://map.pokemon-card.com/map/19904"
  ],
  "osm_id": null
 }

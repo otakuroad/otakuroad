@@ -17,7 +17,7 @@
   "ゲームカフェ秋葉原集会所",
   "しゅうかいじょ"
  ],
- "category": "arcade",
+ "category": "trading_card",
  "tags": [
   "board_game",
   "tcg",
@@ -72,8 +72,8 @@
    "en": "Closed on Thursdays"
   },
   "note": {
-   "ko": "공식 사이트와 핫페퍼 예약 달력 모두 목요일 휴무로 같다. 1주일 전에 예약하면 영업시간 외(심야·평일 오전) 이용도 가능하며(1시간 +500엔), 임시 시간 변경은 공식 사이트 'お知らせ'에 올라온다.",
-   "en": "The official site and the Hot Pepper booking calendar agree on the Thursday closure. With a week's notice the shop opens outside these hours (late night or weekday morning) for +500 yen an hour; temporary changes are posted under 'お知らせ' on the official site."
+   "ko": "공식 사이트와 핫페퍼 예약 달력 모두 목요일 휴무로 같다. 늦어도 3일 전(가능하면 1주일 전)에 신청하면 영업시간 외(심야·평일 오전) 예약도 받으며, 이 경우 1인 1시간당 500엔이 추가된다. 임시 시간 변경은 공식 사이트 'お知らせ'에 올라온다.",
+   "en": "The official site and the Hot Pepper booking calendar agree on the Thursday closure. Bookings outside these hours (early morning or late night) are taken if you ask at least three days ahead - a week is preferred - and cost an extra 500 yen per person per hour; temporary changes are posted under 'お知らせ' on the official site."
   },
   "source_url": "https://shukaijo.com/access/"
  },
@@ -118,7 +118,9 @@
   "https://shukaijo.com/access/",
   "https://shukaijo.com/system/",
   "https://shukaijo.com/faq/",
-  "https://www.hotpepper.jp/strJ000770864/"
+  "https://www.hotpepper.jp/strJ000770864/",
+  "https://shukaijo.com/system/equipment.php",
+  "https://shukaijo.com/reserve/"
  ],
  "osm_id": "node/9556174930"
 }

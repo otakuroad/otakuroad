@@ -100,14 +100,17 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://tokyofigure.jp/news/detail/47",
   "https://tokyofigure.jp/news/list",
   "https://tokyofigure.jp/help/about",
   "https://tokyofigure.jp/",
-  "https://genkaransan.com/tokyo-figure-gallery/"
+  "https://genkaransan.com/tokyo-figure-gallery/",
+  "https://x.com/TokyoFigGallery",
+  "https://api.fxtwitter.com/TokyoFigGallery",
+  "https://tokyofigure.jp/news/detail/73"
  ],
  "osm_id": "node/13390443968"
 }

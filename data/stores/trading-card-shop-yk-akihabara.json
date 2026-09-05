@@ -1,20 +1,24 @@
 {
  "id": "trading-card-shop-yk-akihabara",
  "name": {
-  "ko": "트레카숍 YK 아키하바라점",
-  "en": "Trading Card Shop YK Akihabara",
-  "ja": "トレカショップYK 秋葉原店"
+  "ko": "트레카숍 YK 아키하바라 1호점",
+  "en": "Trading Card Shop YK Akihabara 1",
+  "ja": "トレカショップYK 秋葉原1号店"
  },
  "synonyms": [
   "트레카숍 YK",
   "트레카샵 YK",
+  "트레카숍 YK 아키하바라점",
   "YK 아키하바라",
   "와이케이",
   "トレカショップYK",
   "トレカショップワイケー",
   "トレカショップYK秋葉原店",
+  "トレカショップYK-秋葉原1号店",
+  "秋葉原1号店",
   "Toreca Shop YK",
   "Trading Card Shop YK",
+  "YK World",
   "akiba_yk"
  ],
  "category": "trading_card",
@@ -22,10 +26,12 @@
   "pokemon_card",
   "old_back_pokemon",
   "collection_card",
+  "graded_card",
   "singles",
   "oripa",
   "sealed",
   "buyback",
+  "english_ok",
   "new",
   "used"
  ],
@@ -44,7 +50,33 @@
  },
  "street_segment": "ura_dori",
  "address_ja": "東京都千代田区外神田3-2-3 第2ナガシマビル1F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "월말 휴무",
+   "en": "Closed at the end of the month"
+  },
+  "note": {
+   "ko": "운영사 주식회사 YK World 공식 사이트가 평일·토·일·공휴일 모두 12:00~20:00으로 안내한다. 매입 접수는 12:00~19:00, 정기휴무 '월말'은 매장 공식 X(@akiba_yk) 프로필 표기다.",
+   "en": "The operator's own site (YK World) lists 12:00-20:00 on weekdays and on Saturdays, Sundays and public holidays alike. Buyback is taken 12:00-19:00, and the 'end of the month' closing day comes from the shop's X profile (@akiba_yk)."
+  },
+  "source_url": "https://ykworld.co.jp/service/"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -61,27 +93,36 @@
  },
  "tips": {
   "ko": [
-   "포켓몬 카드 중에서도 컬렉션용(구 뒷면 포함) 위주라 플레이용 덱 파츠를 찾는 매장은 아니다.",
-   "공식 홈페이지가 없다. 秋葉原トレカマップ 기준 영업시간은 평일 13:00-20:00, 토·일·공휴일 12:00-20:00, 수요일 정기휴무, 매입 접수 14:00-19:00이며 방문 전 X(@akiba_yk) 확인 권장.",
+   "포켓몬 카드 중에서도 컬렉션용(구 뒷면 포함)과 감정품 위주라 플레이용 덱 파츠를 찾는 매장은 아니다.",
+   "운영사 주식회사 YK World 공식 사이트 기준 영업시간은 평일·토·일·공휴일 모두 12:00-20:00이다. 매입 접수는 12:00-19:00, 정기휴무는 월말이라고 공식 X(@akiba_yk)가 안내한다.",
+   "2026년 6월 외신다 4-6-10에 2호점(10:00-18:00)이, 2025년 12월에는 외신다 4-9-2 센주빌딩5 8층에 '트레카룸'이 문을 열었다. 여기는 1호점이다.",
+   "네이티브 스태프가 있어 다국어 응대가 되고 공식 사이트에서 방문 예약도 받는다. 통신판매는 yk-collection.jp에서 한다.",
    "2023년 11월 3일 개점한 작은 매장으로 대전 공간은 없다."
   ],
   "en": [
-   "Stock is collector-grade Pokemon cards including old-back (kyuurimen) cards, not deck parts for play.",
-   "There is no official website. The Akihabara Toreka Map directory lists 13:00-20:00 on weekdays, 12:00-20:00 on weekends and holidays, closed Wednesdays, buyback 14:00-19:00 - check X (@akiba_yk) before going.",
+   "Stock is collector-grade Pokemon cards, including old-back cards and graded slabs, rather than deck parts for play.",
+   "The operator's own site lists 12:00-20:00 every day, weekdays, weekends and public holidays alike; the shop's X profile adds buyback 12:00-19:00 and a closing day at the end of each month.",
+   "A second Akihabara branch opened in June 2026 at Sotokanda 4-6-10 (10:00-18:00) and 'Toreca Room' opened in December 2025 at Sotokanda 4-9-2, Senju Building 5, 8F. This record is the No.1 store.",
+   "Native-speaking staff handle several languages and the company site takes visit reservations; mail order runs through yk-collection.jp.",
    "It opened on 2023-11-03 and is a small shop with no duel space."
   ]
  },
- "official_url": null,
+ "official_url": "https://ykworld.co.jp/service/",
  "sns": {
-  "x": "https://x.com/akiba_yk"
+  "x": "https://x.com/akiba_yk",
+  "instagram": "https://www.instagram.com/tradingcardshop_yk/"
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://akibatoreka.com/introduce/2733",
-  "https://x.com/akiba_yk"
+  "https://x.com/akiba_yk",
+  "https://ykworld.co.jp/service/",
+  "https://ykworld.co.jp/ja/top-ja/",
+  "https://ykworld.co.jp/news/n534/",
+  "https://www.yk-collection.jp/"
  ],
  "osm_id": null
 }

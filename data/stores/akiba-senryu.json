@@ -54,27 +54,29 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "주오도리에서 서쪽으로 한 블록 들어간 뒷골목, 스에히로초역과 간다묘진 사이에 있는 9층 맨션 '산뷰 소토칸다'(サンビュー外神田) 1층. 긴자선 스에히로초역에서 도보 3분.",
-  "en": "On the back street one block west of Chuo-dori between Suehirocho station and Kanda Myojin, on the ground floor of the nine-storey Sun View Sotokanda (サンビュー外神田) apartment building. Three minutes from Suehirocho station on the Ginza line."
+  "ko": "구라마에바시도리(蔵前橋通り)를 따라 주오도리에서 서쪽으로 약 100m, 스에히로초역과 간다묘진 사이 구간에 있는 맨션 '산뷰 소토칸다'(サンビュー外神田) 1층. 긴자선 스에히로초역에서 도보 3분.",
+  "en": "On Kuramaebashi-dori about 100 m west of Chuo-dori, between Suehirocho station and Kanda Myojin, on the ground floor of the Sun View Sotokanda (サンビュー外神田) apartment building. Three minutes from Suehirocho station on the Ginza line."
  },
  "tips": {
   "ko": [
-   "영업시간과 현재 영업 여부를 확인할 수 있는 공식 안내 페이지가 없다. 운영사 페이스북(株式会社ドラゴンボーン) 외에는 최신 정보원이 없으므로 방문 전 확인 필요.",
-   "주오도리(외칸다 4가) 쪽에도 같은 이름의 매장 표기가 있어 혼동하기 쉽다. 이 기록은 3-7-9 산뷰 소토칸다 매장 기준."
+   "운영사 드래곤본의 공식 사이트가 1호점을 외신다 3-7-9 1층으로 계속 싣고 있고(2026년 9월 5일 갱신), 매입 접수는 11:00~13:00 연중무휴로 안내한다. 다만 판매 쪽 영업시간은 어디에도 공개하지 않으므로 방문 전 확인이 필요하다.",
+   "주오도리 건너편 외신다 4-6-3(마에사토 빌딩)에 있는 같은 이름의 매장은 혼동이 아니라 같은 회사의 별도 지점인 2호점이다. 이 기록은 3-7-9 1호점 기준."
   ],
   "en": [
-   "There is no official page giving current hours or confirming the shop is still trading; apart from the operator's Facebook page (Kabushiki-gaisha Dragon Bone) no up-to-date source exists, so check before going.",
-   "A second listing under the same name appears over on Chuo-dori (Sotokanda 4-chome); this record is the 3-7-9 Sun View Sotokanda shop."
+   "The operator Dragonbone's official site still lists the No.1 branch at Sotokanda 3-7-9 1F (page updated 2026-09-05) and gives buyback reception as 11:00-13:00, open year-round; it never publishes the shop's selling hours, so check before going.",
+   "The shop of the same name at Sotokanda 4-6-3 (Maesato Building) across Chuo-dori is not a duplicate listing but the company's separate No.2 branch; this record is the 3-7-9 No.1 shop."
   ]
  },
- "official_url": "https://www.facebook.com/DragonBoneAkiba/",
+ "official_url": "https://www.dragonbone-kaitori.com/",
  "sns": {},
  "chain": "akiba-senryu",
  "priority": 3,
- "confidence": "low",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
-  "https://www.facebook.com/DragonBoneAkiba/"
+  "https://www.facebook.com/DragonBoneAkiba/",
+  "https://www.dragonbone-kaitori.com/",
+  "https://ascii.jp/elem/000/004/181/4181102/"
  ],
  "osm_id": "node/11782470738"
 }

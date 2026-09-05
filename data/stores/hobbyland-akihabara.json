@@ -56,30 +56,7 @@
  },
  "street_segment": "ura_dori",
  "address_ja": "東京都千代田区外神田3-7-14 1F・2F",
- "hours": {
-  "rules": [
-   {
-    "days": [
-     "mon",
-     "tue",
-     "wed",
-     "thu",
-     "fri",
-     "sat",
-     "sun",
-     "hol"
-    ],
-    "open": "11:00",
-    "close": "20:00"
-   }
-  ],
-  "regular_holiday": null,
-  "note": {
-   "ko": "공식 웹사이트가 없어 개점 보도(AKIBA PC Hotline!)와 공식 X 프로필에 적힌 11:00-20:00을 따랐다. 정기 휴일 안내가 없으므로 방문 전 X(@Hobbyland_akiba) 확인 권장.",
-   "en": "The shop has no website; 11:00-20:00 comes from the AKIBA PC Hotline! opening report and the shop's own X profile. No closing day is announced, so check X (@Hobbyland_akiba) before going."
-  },
-  "source_url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1524429.html"
- },
+ "hours": null,
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "new",
@@ -114,7 +91,7 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "low",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/1524429.html",

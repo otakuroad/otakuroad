@@ -37,9 +37,35 @@
  },
  "street_segment": "suehirocho",
  "address_ja": "東京都千代田区外神田3-8-5 イサミヤ第2ビル1F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "가게 블로그가 '연중무휴, 영업시간은 10시부터 22시(쯤)'이라고 적어 둔 값이다. 다만 그 글이 2012년 개점 안내 글이고 이후 영업시간 갱신이 없으므로 대략적인 기준으로만 보고, 방문 전 블로그나 X(@yuugijo)를 확인하는 편이 안전하다.",
+   "en": "The shop's own blog states 年中無休 and hours of 10:00-22:00 '(roughly)'. That post is its 2012 opening announcement and the hours have never been updated since, so treat them as approximate and check the blog or X (@yuugijo) before going."
+  },
+  "source_url": "https://yugijo.livedoor.blog/archives/7151259.html"
+ },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -55,13 +81,15 @@
  "tips": {
   "ko": [
    "다음 달 프라이즈 입하 예정이 공식 블로그에 매달 정리되어 올라온다(2026년 9월분까지 게시됨).",
-   "영업시간을 공식적으로 공개하지 않으므로, 방문 전 블로그나 X(@yuugijo)에서 확인하는 편이 안전하다.",
-   "비디오게임·메달게임 없이 크레인게임만 있는 한 칸짜리 매장이다."
+   "공식 블로그가 밝힌 영업시간은 2012년 개점 안내 글의 '10시~22시(쯤)'이 전부라 최신값이 아니다. 방문 전 블로그나 X(@yuugijo)에서 확인하는 편이 안전하다.",
+   "비디오게임·메달게임 없이 크레인게임만 있는 한 칸짜리 매장이다.",
+   "2022년 3월부터 전자결제를 도입해 교통계 IC·nanaco·라쿠텐Edy·WAON·iD·PASELI와 QR결제(Alipay·라쿠텐페이·d払い·PayPay·메르페이·au PAY·J-Coin Pay)를 쓸 수 있다."
   ],
   "en": [
    "The official blog posts the next month's prize arrival schedule (the September 2026 list is up).",
-   "Opening hours are not published officially, so check the blog or X (@yuugijo) before going.",
-   "One room of claw machines only - no video or medal cabinets."
+   "The only hours the blog ever published are '10:00-22:00 (roughly)' in its 2012 opening post, so they are not current - check the blog or X (@yuugijo) before going.",
+   "One room of claw machines only - no video or medal cabinets.",
+   "Cashless has worked since March 2022: transit IC, nanaco, Rakuten Edy, WAON, iD and PASELI, plus QR payment (Alipay, Rakuten Pay, d-barai, PayPay, MerPay, au PAY and J-Coin Pay)."
   ]
  },
  "official_url": "https://yugijo.livedoor.blog/",
@@ -74,7 +102,9 @@
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://yugijo.livedoor.blog/",
-  "http://yuugijoo.iku4.com/"
+  "http://yuugijoo.iku4.com/",
+  "https://yugijo.livedoor.blog/archives/7151259.html",
+  "https://yugijo.livedoor.blog/archives/17882121.html"
  ],
  "osm_id": "node/4069459648"
 }

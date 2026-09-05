@@ -44,7 +44,7 @@
  "address_ja": "東京都千代田区外神田3-7-12 AKIHABARA CROSS 1F・2F",
  "hours": null,
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -54,22 +54,22 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "긴자선 스에히로초역과 JR 아키하바라역 중간, 주오도리 서쪽 뒷길 외신다 3-7 블록의 3층짜리 작은 건물 AKIHABARA CROSS. 바로 북쪽에 이사미야 제8빌딩이 붙어 있고, 평소 영업은 1층 노면 점포에서 한다.",
-  "en": "Between Suehirocho and JR Akihabara, on the back street west of Chuo-dori in the Sotokanda 3-7 block: AKIHABARA CROSS, a small three-storey building next to Isamiya Building 8. Day-to-day trading is on the street-level 1F."
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 6분. 주오도리 서쪽 뒷길 외신다 3-7 블록의 3층짜리 작은 건물 AKIHABARA CROSS. 바로 북쪽에 이사미야 제8빌딩이 붙어 있고, 평소 영업은 1층 노면 점포에서 한다.",
+  "en": "One minute from Ginza-line Suehirocho and six from JR Akihabara, on the back street west of Chuo-dori in the Sotokanda 3-7 block: AKIHABARA CROSS, a small three-storey building next to Isamiya Building 8. Day-to-day trading is on the street-level 1F."
  },
  "tips": {
   "ko": [
    "영업시간이 날마다 달라 그날 아침·저녁에 X(@mazeroomcafe)에 '오픈했습니다'와 함께 당일 시간이 올라온다. 방문 전에 반드시 확인한다.",
    "2026년 7월 리뉴얼해 7월 10~15일 프리오픈, 7월 23일 그랜드 오픈했다. 내부·메뉴·제복이 모두 바뀌었고 공식 홈페이지는 준비 중이다.",
    "캐스트가 현역 라이브 아이돌과 연구생이라 출근하는 멤버에 따라 분위기가 달라진다. 오므라이스 그림 그리기와 노래방이 있다.",
-   "2023년 4월부터 PayPay 결제가 가능하다. 그 밖의 결제 수단 안내는 없으므로 현금을 함께 준비한다.",
+   "옛 공식 사이트(mazeroom.net, 지금은 만료) 안내로는 현금 외에 VISA·MasterCard·JCB·AMEX·Diners 신용카드와 PayPay·Suica·PASMO·QUICPay·nanaco·WAON·Edy·iD 전자머니를 받았다. 2026년 리뉴얼 뒤 결제 수단은 다시 확인하는 편이 좋다.",
    "2019년 9월 외신다 1-5의 옛 점포(末初ビル)에서 지금 자리로 이전했다. 옛 주소가 남은 지도·디렉터리가 아직 있다."
   ],
   "en": [
    "Opening hours change from day to day; the shop posts that day's hours on X (@mazeroomcafe) with an 'we're open' notice, so check before going.",
    "It was renovated in July 2026, with a pre-opening on 10-15 July and the grand opening on 23 July; the interior, menu and uniforms were all renewed and the official website is still being prepared.",
    "The cast are working live idols and trainees, so the atmosphere depends on who is on shift; there is omurice drawing and karaoke.",
-   "PayPay has been accepted since April 2023; no other payment method is announced, so carry cash as well.",
+   "The old official site (mazeroom.net, now expired) listed cash plus VISA, MasterCard, JCB, AMEX and Diners cards and PayPay, Suica, PASMO, QUICPay, nanaco, WAON, Edy and iD e-money; worth re-checking after the 2026 renovation.",
    "It moved here from its old premises in Sotokanda 1-5 (Suehatsu Building) in September 2019, and some maps and directories still carry the old address."
   ],
   "en_note": null
@@ -88,7 +88,8 @@
   "https://x.com/mazeroomcafe/status/1836676716229726408",
   "https://x.com/mazeroomcafe/status/1164895669171081221",
   "https://shop.caferun.jp/shop/13094/",
-  "https://www.moe-navi.jp/shop/13094/"
+  "https://www.moe-navi.jp/shop/13094/",
+  "http://web.archive.org/web/20240525180557/http://mazeroom.net/information/"
  ],
  "osm_id": null
 }

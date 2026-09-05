@@ -1,18 +1,23 @@
 {
  "id": "toreca-lounge-akihabara",
  "name": {
-  "ko": "TCG 라운지 아키하바라",
-  "en": "TCG LOUNGE Akihabara",
-  "ja": "TCG LOUNGE 秋葉原"
+  "ko": "트레카 라운지",
+  "en": "Toreca Lounge",
+  "ja": "トレカラウンジ"
  },
  "synonyms": [
-  "TCG 라운지",
-  "티씨지 라운지",
-  "트레카 라운지",
+  "트레카 라운지 아키하바라",
   "토레카 라운지",
+  "TCG 라운지",
+  "TCG 라운지 아키하바라",
+  "티씨지 라운지",
+  "Toreca Lounge",
+  "Toreca Lounge Akihabara",
   "TCG LOUNGE",
-  "TCG Lounge Akihabara",
+  "TCG LOUNGE 秋葉原",
+  "torecalounge",
   "トレカラウンジ",
+  "トレカラウンジ秋葉原本店",
   "トレカラウンジ 秋葉原",
   "ニュー末広ビル201"
  ],
@@ -39,7 +44,30 @@
  },
  "street_segment": "suehirocho",
  "address_ja": "東京都千代田区外神田5-1-3 ニュー末広ビル201",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "운영사 주식회사 마루치플(株式会社マルチプル) 공식 페이지와 공식 X 프로필 모두 11:00~20:00으로 적고 있다. 정기휴일은 어느 쪽에도 명시돼 있지 않고, 단축 영업이나 임시 휴무는 그날그날 공식 X(@torecalounge)에 올라온다.",
+   "en": "Both the operator's page (Multiple Inc.) and the shop's own X profile give 11:00-20:00. Neither states a regular holiday; shortened days and one-off closures are posted on the shop's X (@torecalounge)."
+  },
+  "source_url": "https://multiple.ltd/akihabara/"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": null,
@@ -51,27 +79,35 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "긴자선 스에히로초역 바로 옆, 주오도리 북쪽 끝의 '뉴 스에히로 빌딩(ニュー末広ビル)' 2층 201호. 1층에 간판이 작아 건물 이름을 보고 찾는 편이 빠르다.",
-  "en": "Right by Suehirocho station on the Ginza Line, at the north end of Chuo-dori: room 201 on 2F of the New Suehiro Building. The street-level sign is small, so look for the building name."
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리 북쪽 끝 '뉴 스에히로 빌딩(ニュー末広ビル)' 2층 201호다. 1층 간판이 작아 건물 이름을 보고 찾는 편이 빠르다.",
+  "en": "One minute from Suehirocho on the Ginza Line, five from JR Akihabara: room 201 on 2F of the New Suehiro Building at the north end of Chuo-dori. The street-level sign is small, so look for the building name."
  },
  "tips": {
   "ko": [
-   "아키하바라 중심부에서 도보로 10분 이상 떨어진 스에히로초 쪽이라 다른 카드숍과 묶어 가기 어렵다.",
-   "영업시간과 플레이 공간 요금은 공식 안내를 찾지 못했으므로 방문 전 확인이 필요하다."
+   "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분이라 주오도리 북쪽 끝 카드숍들과 묶어 돌기 좋다.",
+   "드링크 무제한과 스낵이 딸린 32석 대전 스페이스가 있고 개실도 갖췄다. 좌석 요금은 공식 안내에 없으니 방문 전 공식 X나 LINE으로 확인하는 편이 좋다.",
+   "포켓몬 카드와 원피스 카드가 주력이고 매입·판매·위탁 판매도 받는다."
   ],
   "en": [
-   "It sits at the Suehirocho end, over ten minutes' walk from the main Akihabara card-shop cluster.",
-   "No official page for hours or play-space fees could be found, so check before going."
+   "One minute from Suehirocho on the Ginza Line and five from JR Akihabara, so it pairs easily with the card shops at the north end of Chuo-dori.",
+   "The 32-seat play space comes with free drinks and snacks, and there is a private room. Seat fees are not published, so check the shop's X or LINE before going.",
+   "Pokemon and One Piece cards are the main lines; they also buy, sell and take cards on consignment."
   ]
  },
- "official_url": null,
- "sns": {},
+ "official_url": "https://multiple.ltd/akihabara/",
+ "sns": {
+  "x": "https://x.com/torecalounge"
+ },
  "chain": null,
  "priority": 3,
- "confidence": "low",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
-  "https://www.openstreetmap.org/node/12921056817"
+  "https://www.openstreetmap.org/node/12921056817",
+  "https://multiple.ltd/akihabara/",
+  "https://api.fxtwitter.com/torecalounge",
+  "https://x.com/torecalounge",
+  "https://lit.link/torecalounge"
  ],
  "osm_id": "node/12921056817"
 }

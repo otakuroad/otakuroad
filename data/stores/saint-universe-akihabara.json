@@ -28,7 +28,6 @@
   "cheki",
   "all_you_can_drink",
   "alcohol",
-  "late_night",
   "events"
  ],
  "one_line": {
@@ -46,7 +45,31 @@
  },
  "street_segment": "suehirocho",
  "address_ja": "東京都千代田区外神田3-15-6 秋葉原M2ビル6F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun"
+    ],
+    "open": "17:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 월요일",
+   "en": "Closed Mondays"
+  },
+  "note": {
+   "ko": "공식 홈페이지 시스템 페이지에 적힌 시간이다. 사이트가 2017년 개점 당시 그대로라 실제 영업일과 시간은 매달 공식 X(@saintuniverse1)에 날짜별로 올라온다. 공휴일 영업은 명시가 없다.",
+   "en": "As stated on the shop's own System page. The site has not been updated since it opened in 2017, and the real day-by-day schedule is posted each month on the shop's X (@saintuniverse1). Public-holiday hours are not stated."
+  },
+  "source_url": "http://s-universe.com/system/"
+ },
  "tax_free": null,
  "payment": "cards_ok",
  "secondhand": null,
@@ -63,18 +86,16 @@
  },
  "tips": {
   "ko": [
-   "영업일과 시간이 매달 공식 X(@saintuniverse1)에 날짜별로 공지된다. 쉬는 날이 섞여 있고 금·토는 새벽 4~5시까지 여는 날도 있어 방문 전에 반드시 확인해야 한다.",
-   "공식 홈페이지는 2018년 이후 갱신이 없다. 홈페이지에는 '화~일 17:00-22:00, 월요일 휴무'로 적혀 있지만 일본 디렉터리마다 시간이 달라 그대로 믿기 어렵다.",
-   "자리세·차지는 무료이고 음료 무제한제로 계산한다. 소프트드링크 30분 800엔·60분 1,400엔·90분 1,900엔, 알코올 60분 2,800엔이며 여성 손님은 할인이 있다.",
+   "공식 홈페이지에는 화~일 17:00-22:00, 월요일 휴무로 적혀 있다. 다만 사이트가 2017년 개점 당시 그대로라 실제 영업일은 매달 공식 X(@saintuniverse1)에 날짜별로 올라오니 방문 전 확인이 필요하다.",
+   "자리세·차지는 무료이고 음료 무제한제로 계산한다. 소프트드링크 30분 800엔·60분 1,400엔·90분 1,900엔, 알코올 60분 2,800엔·120분 5,000엔·180분 7,000엔이며 여성 손님은 할인이 있다.",
    "카드는 VISA·JCB·AMEX·Master를 받는다.",
-   "2017년 6월 개점한 우주 콘셉트 매장으로, 메뉴도 '스타 드링크'·'스페이스 푸드'로 이름 붙어 있다."
+   "2017년 6월 개점한 우주 콘셉트 매장으로, 메뉴도 '스타 드링크'·'스페이스 푸드'로 이름 붙어 있고 가격 단위도 '스텔'로 적는다."
   ],
   "en": [
-   "The opening days and times are posted date by date on the shop's X account (@saintuniverse1) each month; some days are closed and Friday/Saturday sometimes run to 04:00-05:00, so check before going.",
-   "The official site has not been updated since 2018. It states 'Tue-Sun 17:00-22:00, closed Monday', but Japanese directories list different hours, so treat it with caution.",
-   "There is no seat or cover charge; you pay for timed all-you-can-drink. Soft drinks are 800 yen for 30 minutes, 1,400 for 60 and 1,900 for 90; alcohol is 2,800 for 60 minutes, with a discount for women.",
+   "The official site lists Tue-Sun 17:00-22:00, closed Monday. The site has not been touched since the shop opened in 2017, though, and the real day-by-day schedule goes up each month on the shop's X (@saintuniverse1), so check before going.",
+   "There is no seat or cover charge; you pay for timed all-you-can-drink. Soft drinks are 800 yen for 30 minutes, 1,400 for 60 and 1,900 for 90; alcohol is 2,800 for 60 minutes, 5,000 for 120 and 7,000 for 180, with a discount for women.",
    "Cards accepted are VISA, JCB, AMEX and Mastercard.",
-   "Opened in June 2017 on a space theme; the menu is written up as 'star drinks' and 'space food'."
+   "Opened in June 2017 on a space theme; the menu is written up as 'star drinks' and 'space food', and prices are counted in 'stell'."
   ]
  },
  "official_url": "http://s-universe.com/",
@@ -91,7 +112,8 @@
   "http://s-universe.com/access/",
   "http://s-universe.com/news/",
   "https://www.telnavi.jp/phone/0368116994",
-  "https://x.com/saintuniverse1"
+  "https://x.com/saintuniverse1",
+  "http://s-universe.com/menu/"
  ],
  "osm_id": "node/5230312401"
 }

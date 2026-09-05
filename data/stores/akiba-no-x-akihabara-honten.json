@@ -122,7 +122,8 @@
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://www.x-jpn.co.jp/store/store-50/",
-  "https://www.x-jpn.co.jp/"
+  "https://www.x-jpn.co.jp/",
+  "https://www.x-jpn.co.jp/pointcard/"
  ],
  "osm_id": "node/2262375009"
 }

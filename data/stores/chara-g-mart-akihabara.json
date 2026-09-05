@@ -61,26 +61,24 @@
   "rules": [
    {
     "days": [
-     "mon",
      "tue",
      "wed",
      "thu",
      "fri",
      "sat",
-     "sun",
-     "hol"
+     "sun"
     ],
     "open": "11:00",
     "close": "19:00"
    }
   ],
   "regular_holiday": {
-   "ko": "정기 휴일 없음",
-   "en": "No regular closing day"
+   "ko": "월요일",
+   "en": "Mondays"
   },
   "note": {
-   "ko": "공식 인스타그램 프로필 기준 11:00-19:00. 2024년 지역 상점 소개(MEQQE)에는 11:00-20:00으로 실려 있고 폐점 시각이 그날그날 달라지기도 하므로, 늦은 시간 방문은 피하는 편이 낫다.",
-   "en": "11:00-19:00 per the shop's Instagram profile. A 2024 local directory (MEQQE) lists 11:00-20:00 and the closing time has varied by day, so do not arrive late."
+   "ko": "공식 인스타그램 프로필 기준 11:00-19:00이고 월요일이 정기휴무다. 지역 상점 소개(MEQQE)의 11:00-20:00·무휴 표기는 오래된 정보다. 공휴일 영업 여부는 공식 안내가 없다.",
+   "en": "11:00-19:00 and closed on Mondays per the shop's own Instagram profile. The 11:00-20:00, no-closing-day listing in the MEQQE local directory is out of date, and public-holiday hours are not stated anywhere official."
   },
   "source_url": "https://www.instagram.com/chara_g_mart/"
  },

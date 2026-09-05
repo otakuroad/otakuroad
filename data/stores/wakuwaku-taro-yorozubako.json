@@ -40,8 +40,34 @@
   "lng": 139.772415
  },
  "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-15-12 Yビル1F",
- "hours": null,
+ "address_ja": "東京都千代田区外神田1-15-12 1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중 거의 무휴",
+   "en": "Open almost every day"
+  },
+  "note": {
+   "ko": "공식 사이트에 영업시간 페이지가 없어 매장 공식 X(@akibawakuta) 프로필의 '12:00~20:00, 연중 거의 무휴' 표기를 옮긴 것이다. 인스타그램 프로필에는 12:00~19:30, 지도 서비스에는 11:00 개점으로 실린 곳도 있어 마감 직전 방문은 피하는 편이 좋다.",
+   "en": "The website has no hours page, so these come from the shop's own X profile (@akibawakuta), which states 12:00-20:00 and almost no closing days. Its Instagram profile shows 12:00-19:30 and some map listings show an 11:00 opening, so avoid arriving right before closing."
+  },
+  "source_url": "https://x.com/akibawakuta"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "new",
@@ -53,21 +79,21 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 전기가 출구 남쪽, 아트레 아키하바라 옆 골목의 Y빌딩 1층 노면 점포다. 라디오회관에서 역 쪽으로 한 블록 걸으면 되고, 가게 앞에 티셔츠를 걸어 두어 눈에 띈다.",
-  "en": "A ground-floor shopfront in the Y Building, on the lane beside Atre Akihabara just south of the JR Electric Town Exit - one block from Radio Kaikan towards the station. T-shirts hung outside make it easy to spot."
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 30초, 아트레 아키하바라 옆 골목의 1층 노면 점포다. 라디오회관에서 역 쪽으로 한 블록 걸으면 되고, 가게 앞에 티셔츠를 걸어 두어 눈에 띈다.",
+  "en": "A ground-floor shopfront on the lane beside Atre Akihabara, about 30 seconds from the JR Electric Town Exit - one block from Radio Kaikan towards the station. T-shirts hung outside make it easy to spot."
  },
  "tips": {
   "ko": [
-   "공식 사이트에는 영업시간 안내가 없고, 공식 X 프로필은 12:00~20:00, 인스타그램 프로필은 12:00~19:30으로 서로 다르다. 방문 전 SNS를 확인하는 편이 안전하다.",
+   "공식 사이트에는 영업시간 안내가 없고, 공식 X 프로필은 12:00~20:00·연중 거의 무휴, 인스타그램 프로필은 12:00~19:30으로 서로 다르다. 방문 전 SNS를 확인하는 편이 안전하다.",
    "코스프레 의상은 취급하지 않는다. 티셔츠·파카·토트백 등 프린트 의류와 잡화만 판다.",
    "건담·에반게리온·소닉·원피스 같은 라이선스 애니 티셔츠와 일본어 말장난 티셔츠가 섞여 있다.",
-   "같은 상품을 온라인 스토어(wakuwakutaro.stores.jp)에서도 살 수 있다."
+   "오리지널 프린트 주문도 받는다. 같은 상품을 온라인 스토어(wakuwakutaro.stores.jp)에서도 살 수 있고, 문의 전화는 03-3527-1301이다."
   ],
   "en": [
-   "The official site lists no hours: the shop's X profile says 12:00-20:00 while its Instagram profile says 12:00-19:30, so check its social accounts before going.",
+   "The official site lists no hours: the shop's X profile says 12:00-20:00 and almost no closing days while its Instagram profile says 12:00-19:30, so check its social accounts before going.",
    "No cosplay costumes here - only printed apparel and accessories such as T-shirts, hoodies and tote bags.",
    "Licensed anime tees (Gundam, Evangelion, Sonic, One Piece) sit alongside Japanese-pun novelty shirts.",
-   "The same items are sold through the shop's online store at wakuwakutaro.stores.jp."
+   "It also takes custom print orders. The same items are sold through the shop's online store at wakuwakutaro.stores.jp, and the shop's phone number is 03-3527-1301."
   ]
  },
  "official_url": "https://wakuwaku21.co.jp/",
@@ -83,7 +109,9 @@
   "https://wakuwaku21.co.jp/",
   "https://wakuwaku21.co.jp/sample-page/",
   "https://wakuwaku21.co.jp/contact/",
-  "https://map.yahoo.co.jp/v3/place/N7qUxuOoQZg"
+  "https://map.yahoo.co.jp/v3/place/N7qUxuOoQZg",
+  "https://wakuwaku21.co.jp/about-us/",
+  "https://x.com/akibawakuta"
  ],
  "osm_id": null
 }

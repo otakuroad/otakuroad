@@ -81,7 +81,7 @@
  "sns": {},
  "chain": null,
  "priority": 2,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "http://www.radiocenter.jp/",
@@ -89,7 +89,12 @@
   "http://www.radiocenter.jp/shop/sh00.html",
   "http://www.radiocenter.jp/shop/sh53.htm",
   "http://www.radiocenter.jp/shop/sh48.htm",
-  "http://www.radiocenter.jp/shop/sh59.htm"
+  "http://www.radiocenter.jp/shop/sh59.htm",
+  "http://www.radiocenter.jp/shop/sh08.htm",
+  "http://www.radiocenter.jp/shop/sh21.htm",
+  "http://www.radiocenter.jp/shop/sh33.htm",
+  "http://www.radiocenter.jp/shop/sh43.htm",
+  "http://www.radiocenter.jp/shop/sh55.htm"
  ],
  "osm_id": "way/90839642"
 }

@@ -52,27 +52,24 @@
      "tue",
      "wed",
      "thu",
-     "fri"
-    ],
-    "open": "13:00",
-    "close": "20:00"
-   },
-   {
-    "days": [
+     "fri",
      "sat",
      "sun",
      "hol"
     ],
-    "open": "12:00",
+    "open": "13:00",
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
-  "note": {
-   "ko": "공식 X 계정 프로필 기준 평일 13:00, 토·일·공휴일 12:00 개점. 2026년 초에는 11:00 개점으로 안내된 적이 있고 구글·여행 사이트에는 아직 11:00으로 남아 있으니 방문 전 공식 X를 확인한다.",
-   "en": "Weekday 13:00 and weekend/holiday 12:00 opening come from the shop's own X profile. An 11:00 opening was announced in early 2026 and still shows on Google and travel sites, so check the official X before going."
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular closing days"
   },
-  "source_url": "https://x.com/hobby_anko_akb"
+  "note": {
+   "ko": "가게 공식 인스타그램 프로필에 '1:00PM – 8:00PM'이라고 요일 구분 없이 한 줄만 적혀 있어 그대로 옮겼다. 공식 온라인 스토어의 특정상거래법 표기에는 '営業時間：10:00−22:00 / 定休日：不定休'로 나오지만 이는 통신판매 기준이고 자세한 것은 X와 인스타그램을 보라고 안내한다. 2026년 1월에는 11:00~20:00으로 알려진 적이 있고 구글·여행 사이트에는 아직 11:00이나 12:00 개점으로 남아 있으니 방문 전 공식 SNS를 확인한다.",
+   "en": "The shop's own Instagram profile gives a single line, '1:00PM - 8:00PM', with no split by day, and that is what is recorded here. The 特定商取引法 page of its official online store instead lists 10:00-22:00 with irregular closures, but that is the mail-order entry and it tells you to check X and Instagram. An 11:00-20:00 window was reported in January 2026 and Google and travel sites still show an 11:00 or 12:00 opening, so check the official SNS before going."
+  },
+  "source_url": "https://www.instagram.com/hobby_anko_akihabara/"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -114,7 +111,9 @@
   "https://online.emeraude.shop/",
   "https://akiba-asterisk.blog.jp/archives/59636068.html",
   "https://akiba-asterisk.blog.jp/archives/59618134.html",
-  "https://www.openstreetmap.org/node/13959236918"
+  "https://www.openstreetmap.org/node/13959236918",
+  "https://online.emeraude.shop/law",
+  "https://www.instagram.com/hobby_anko_akihabara/"
  ],
  "osm_id": "node/13959236918"
 }

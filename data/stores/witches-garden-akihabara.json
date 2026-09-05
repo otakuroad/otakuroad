@@ -26,6 +26,9 @@
   "witch_theme",
   "alcohol",
   "meal",
+  "all_you_can_drink",
+  "time_charge",
+  "admission_fee",
   "late_night",
   "cheki"
  ],
@@ -74,10 +77,10 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "실제 마감은 월~토 다음 날 05:00(표기 29:00)이지만 여기서는 자정까지만 표기했다. 일요일은 22:00 마감이며 공휴일 전날이면 다음 날 05:00까지 연장된다. 공휴일 자체의 영업시간은 공식 안내가 없다.",
-   "en": "Monday to Saturday actually run through to 05:00 the next morning (written 29:00); the table above stops at midnight. Sunday ends at 22:00, extended to 05:00 when the next day is a public holiday. Hours for public holidays themselves are not stated."
+   "ko": "공식 표기는 월~금 17:00~5:00, 토 13:00~5:00, 일 13:00~22:00(공휴일 전날이면 다음 날 5:00까지)이다. 여기서는 자정까지만 적었으므로 월~토는 실제로 다음 날 새벽 5시까지 영업한다. 공휴일 자체의 영업시간은 공식 안내가 없다.",
+   "en": "The official listing is 17:00-5:00 Monday to Friday, 13:00-5:00 on Saturday and 13:00-22:00 on Sunday (running to 05:00 when the next day is a public holiday). The table above stops at midnight, so Monday to Saturday really run to 05:00. Hours for public holidays themselves are not stated."
   },
-  "source_url": "https://witchesgarden.cc/access"
+  "source_url": "https://witchesgarden.cc/access.html"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -97,14 +100,14 @@
   "ko": [
    "월~토는 다음 날 새벽 5시까지, 일요일은 22:00까지 영업한다. 공휴일 전날 일요일만 새벽 5시까지 연장된다.",
    "카페가 아니라 콘셉트 카페 겸 바로, 식사와 알코올을 함께 낸다.",
-   "공식 사이트가 해외 접속에서 막히는 경우가 있어 당일 영업 정보는 공식 X(@witchesgarden31)가 확실하다.",
-   "요금 체계와 결제 수단은 공식 안내를 확인할 수 없었으므로 현금을 준비하는 편이 안전하다."
+   "요금은 가게 화폐 Ulu로 표시된다. 입장에 '잡 카드' 300Ulu가 필요하고, 카페 음료 무제한은 30분 900Ulu, 바의 알코올 무제한은 30분 1,500Ulu이며 이후 30분 단위로 자동 연장된다. 결제 수단은 공식 안내가 없어 현금을 준비하는 편이 안전하다.",
+   "공식 사이트가 해외 접속에서 막히는 경우가 있어 당일 영업 정보는 공식 X(@witchesgarden31)가 확실하다. 전화는 03-6206-0029."
   ],
   "en": [
    "Open until 05:00 the next morning Monday to Saturday and until 22:00 on Sunday, with Sunday extended to 05:00 only when the next day is a public holiday.",
    "It is a concept cafe and bar rather than a daytime cafe, serving full meals alongside alcohol.",
-   "The official site can be unreachable from outside Japan, so the X account (@witchesgarden31) is the reliable place to check the day's status.",
-   "The charge system and accepted payment methods could not be confirmed officially, so bring cash to be safe."
+   "Prices are quoted in the house currency, Ulu. Entry needs a 300 Ulu 'job card'; the cafe drink course is 900 Ulu per 30 minutes and the bar's all-you-can-drink alcohol course is 1,500 Ulu per 30 minutes, auto-extending in 30-minute blocks. Payment methods are not published, so bring cash to be safe.",
+   "The official site can be unreachable from outside Japan, so the X account (@witchesgarden31) is the reliable place to check the day's status. Phone 03-6206-0029."
   ]
  },
  "official_url": "https://witchesgarden.cc/",
@@ -114,13 +117,15 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://witchesgarden.cc/",
   "https://witchesgarden.cc/access",
   "https://x.com/witchesgarden31",
-  "https://www.instagram.com/hakoniwa_wg/"
+  "https://www.instagram.com/hakoniwa_wg/",
+  "https://witchesgarden.cc/access.html",
+  "https://witchesgarden.cc/system.html"
  ],
  "osm_id": null
 }

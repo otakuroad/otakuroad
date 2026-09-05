@@ -15,7 +15,11 @@
   "エブリートレカ"
  ],
  "category": "trading_card",
- "tags": [],
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "buyback"
+ ],
  "one_line": {
   "ko": "주오도리 서쪽 뒷골목 니포아키바관 1층의 소형 트레이딩 카드 매장",
   "en": "Small trading-card shop on the ground floor of the Nippo Akiba Kan back-street building"
@@ -48,23 +52,33 @@
  },
  "tips": {
   "ko": [
-   "공식 홈페이지나 X 계정이 확인되지 않고 전화번호도 공표되어 있지 않다. 일본어 트레카 디렉터리(torecamap)는 12:00-20:00, 정기휴일 없음으로 적고 있으나 공식 확인은 아니다.",
-   "같은 주소·같은 층에 있던 「みんなでトレカ!! 秋葉原2号店」은 최신 디렉터리에 더 이상 실려 있지 않다. 옛 지도·블로그에는 그 이름이 남아 있다."
+   "공식 온라인 스토어 everytcg.com과 X(@every_tcg)·인스타그램 계정이 있다. 운영은 에브리트레카 주식회사이며 에브리라이브 그룹 계열이다.",
+   "2025년 7월 30일 매입 서비스만 선행 오픈한 뒤 8월 3일 그랜드 오픈했다. 포켓몬 카드와 원피스 카드가 주력이다.",
+   "공식 채널에 영업시간 안내가 없다. 일본어 트레카 디렉터리(torecamap)는 12:00-20:00, 정기휴일 없음으로 적고 있으나 공식 확인은 아니다.",
+   "카드 매입을 하며 매입표 갱신은 공식 X에 올라온다."
   ],
   "en": [
-   "No official site, X account or phone number could be found. The Japanese card directory torecamap lists 12:00-20:00 with no regular closing day, but that is unconfirmed.",
-   "The shop that held the same unit, Minna de Toreka!! Akihabara No.2, no longer appears in current directories; older maps and blogs still show that name."
+   "There is an official online store at everytcg.com plus X (@every_tcg) and Instagram accounts; the shop is run by every Toreca Inc., part of the everylive group.",
+   "It pre-opened on 30 July 2025 for buyback only and had its grand opening on 3 August 2025; Pokemon and One Piece cards are the main lines.",
+   "No opening hours are published on the official channels. The Japanese card directory torecamap lists 12:00-20:00 with no regular closing day, but that is unconfirmed.",
+   "The shop buys cards in, and buyback price-list updates are posted on its official X account."
   ]
  },
- "official_url": null,
- "sns": {},
+ "official_url": "https://everytcg.com/",
+ "sns": {
+  "x": "https://x.com/every_tcg",
+  "instagram": "https://www.instagram.com/everytcg/"
+ },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://torecamap.co.jp/column/akihabara/",
-  "https://akibatoreka.com/introduce/2581"
+  "https://akibatoreka.com/introduce/2581",
+  "https://prtimes.jp/main/html/rd/p/000000087.000109280.html",
+  "https://everytcg.co.jp/",
+  "https://everytcg.com/"
  ],
  "osm_id": null
 }

@@ -6,14 +6,11 @@
   "ja": "アキバ籤龍 二号店"
  },
  "synonyms": [
-  "아키바 센류",
   "아키바센류 2호점",
   "센류 2호점",
   "드래곤본",
-  "Akiba Senryu",
   "Akiba Senryu No.2",
   "Dragonbone",
-  "アキバ籤龍",
   "アキバ籤龍 2号店",
   "アキバセンリュウ",
   "ドラゴンボーン"
@@ -85,7 +82,8 @@
  "source_urls": [
   "https://www.dragonbone-kaitori.com/",
   "https://ascii.jp/elem/000/004/181/4181102/",
-  "https://akibatoreka.com/introduce/2403"
+  "https://akibatoreka.com/introduce/2403",
+  "https://www.dragonbone-kaitori.com/%E4%BC%9A%E7%A4%BE%E6%89%80%E5%9C%A8%E5%9C%B0"
  ],
  "osm_id": "node/4963027561"
 }

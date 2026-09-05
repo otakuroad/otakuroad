@@ -101,8 +101,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 전기가 출구를 나와 왼쪽 광장 쪽으로 걸어 소부선 고가를 따라가다 고가 아래 횡단보도를 건너면 바로 앞에 있다. 공식 안내로 도보 2분.",
-  "en": "From the JR Akihabara Electric Town exit head left towards the plaza, follow the Sobu line viaduct and cross at the crossing beneath it; the building is straight ahead. The official page calls it a two-minute walk."
+  "ko": "JR 아키하바라역 전기가 출구 개찰을 오른쪽으로 나오면 바로 앞에 광장이 있고, 거기서 왼쪽으로 걷는다. 큰길 위를 지나는 소부선 고가가 표식이며 그 아래 횡단보도를 건너면 맞은편에 건물이 보인다. 공식 안내로 도보 2분.",
+  "en": "Leave the JR Akihabara Electric Town ticket gate to the right; the plaza is straight ahead, and from there you walk left. The Sobu-line viaduct over the main road is the landmark - cross at the crossing beneath it and the building is on the far side. The official page calls it a two-minute walk."
  },
  "tips": {
   "ko": [
@@ -125,7 +125,8 @@
  "source_urls": [
   "https://www.tokyoradiodepart.co.jp/",
   "https://www.tokyoradiodepart.co.jp/floor.html",
-  "https://www.tokyoradiodepart.co.jp/access.html"
+  "https://www.tokyoradiodepart.co.jp/access.html",
+  "https://www.tokyoradiodepart.co.jp/about.html"
  ],
  "osm_id": "way/41261020",
  "photo": {

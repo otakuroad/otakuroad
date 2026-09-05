@@ -52,7 +52,35 @@
  },
  "street_segment": "suehirocho",
  "address_ja": "東京都千代田区外神田3-15-6 秋葉原M2ビル3F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "19:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "월요일 (월요일이 공휴일이면 영업)",
+   "en": "Mondays (open when Monday is a public holiday)"
+  },
+  "note": null,
+  "source_url": "https://www.cardmax.jp/html/company.html"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -69,14 +97,12 @@
  },
  "tips": {
   "ko": [
-   "공식 사이트에는 매장 영업시간 안내가 없다. 일본 카드숍 디렉터리(아키바토레카)는 평일 13:00-19:00, 토·일·공휴일 10:00-19:00, 월요일 정기휴무(월요일이 공휴일이면 영업)로 적고 있으므로 방문 전 공식 X(@cardmax_akiba) 확인이 안전하다.",
-   "매입 접수는 판매 영업보다 1시간 일찍 마감된다(같은 디렉터리 기준 18:00까지).",
+   "공식 사이트 店舗情報 페이지 기준 영업시간은 평일 13:00-19:00, 토·일·공휴일 10:00-19:00이고 월요일이 정기휴무다(월요일이 공휴일이면 영업).",
    "유희왕 OCG·러시 듀얼과 해외판, 섀도우버스 에볼브까지 싱글 취급 폭이 넓고 공인 대회도 연다.",
    "3층 매장이라 길에서는 보이지 않는다. 건물 층별 안내판에서 카드맥스를 확인하고 올라간다."
   ],
   "en": [
-   "The official site does not publish store hours. The Japanese card-shop directory Akiba Toreka lists 13:00-19:00 on weekdays, 10:00-19:00 on weekends and holidays and closed on Mondays (open when Monday is a public holiday), so check the shop's X account (@cardmax_akiba) before going.",
-   "The buyback counter closes about an hour before the shop does (18:00 per the same directory).",
+   "The official store-information page lists 13:00-19:00 on weekdays and 10:00-19:00 on weekends and public holidays, closed Mondays (open when Monday is a public holiday).",
    "Singles cover Yu-Gi-Oh! OCG and Rush Duel, English-language Yu-Gi-Oh!, and Shadowverse Evolve; sanctioned tournaments are held in store.",
    "The shop is on 3F and invisible from the street; find CARDMAX on the building's floor board and take the elevator."
   ]
@@ -88,13 +114,16 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://www.cardmax.jp/",
   "https://www.akiba.cardmax.jp/",
   "https://akibatoreka.com/introduce/1149",
-  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/?page=4"
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/?page=4",
+  "https://www.cardmax.jp/html/company.html",
+  "https://cardmax.fc2.net/",
+  "https://map.pokemon-card.com/map/19064"
  ],
  "osm_id": "node/5051208713"
 }

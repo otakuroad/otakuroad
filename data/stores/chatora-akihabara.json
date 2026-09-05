@@ -39,7 +39,32 @@
  },
  "street_segment": "ura_dori",
  "address_ja": "東京都千代田区外神田3-3-15",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "수요일",
+   "en": "Wednesdays"
+  },
+  "note": {
+   "ko": "가게가 직접 운영하는 지문두 페이지(chatora45000.jimdofree.com) 기준 '기본' 13:00-20:00이고 연장하는 날도 있다고 적고 있다. 1인 상점이라 시간이 바뀔 수 있다.",
+   "en": "The shop's own Jimdo page gives 13:00-20:00 as its basic hours and says it sometimes stays open later; it is a one-person shop, so times can shift."
+  },
+  "source_url": "https://chatora45000.jimdofree.com/"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "used",
@@ -56,26 +81,29 @@
  },
  "tips": {
   "ko": [
-   "공식 사이트에 영업시간 안내가 없고 블로그 글도 2020년에서 멈춰 있으니, 방문 전 03-3525-4394로 확인하는 편이 안전하다.",
-   "N게이지 렌털 레이아웃 3선을 갖추고 있어 산 차량을 그 자리에서 달려볼 수 있다.",
+   "영업시간은 가게가 운영하는 지문두 페이지(chatora45000.jimdofree.com)에 기본 13:00-20:00, 수요일 정기휴무로 적혀 있다. chatora.tokyo 쪽 글은 2020년에서 멈춰 있으니 최신 소식은 X(@chatora45000)나 전화 03-3525-4394로 확인한다.",
+   "N게이지 렌털 레이아웃 3선을 갖추고 있어 산 차량을 그 자리에서 달려볼 수 있다. 토·일·공휴일은 1시간 700엔, 평일은 그 반값이다.",
    "일본형 중고 N게이지에 특화된 개인 상점으로, 매입가는 높이고 판매가는 낮게 매긴다고 스스로 밝히고 있다."
   ],
   "en": [
-   "The official site publishes no opening hours and its blog stops in 2020, so ring 03-3525-4394 before making the trip.",
-   "Three N-gauge rental layout tracks let you run what you have just bought.",
+   "Hours are posted on the shop's own Jimdo page (chatora45000.jimdofree.com): a basic 13:00-20:00, closed Wednesdays. The chatora.tokyo posts stop in 2020, so check X (@chatora45000) or ring 03-3525-4394 for anything current.",
+   "Three N-gauge rental layout tracks let you run what you have just bought: 700 yen an hour at weekends and on public holidays, half that on weekdays.",
    "A one-person shop specialising in used Japanese-prototype N gauge; it says it buys high and sells low because it carries no staff costs."
   ]
  },
  "official_url": "http://chatora.tokyo/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/chatora45000"
+ },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "http://chatora.tokyo/?page_id=29",
   "http://chatora.tokyo/",
-  "http://chatora.tokyo/?p=5"
+  "http://chatora.tokyo/?p=5",
+  "https://chatora45000.jimdofree.com/"
  ],
  "osm_id": "node/13447448979"
 }

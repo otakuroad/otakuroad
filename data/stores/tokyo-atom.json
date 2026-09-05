@@ -60,14 +60,14 @@
    }
   ],
   "regular_holiday": {
-   "ko": "매주 월요일(공휴일이면 다음 화요일)",
-   "en": "Closed Mondays (the following Tuesday when Monday is a public holiday)"
+   "ko": "매주 월요일(공휴일이면 다음 화요일). 연말연시에도 며칠 쉰다",
+   "en": "Closed Mondays (the following Tuesday when Monday is a public holiday), plus a few days over the New Year"
   },
   "note": {
-   "ko": "매장은 11:00-19:00이지만 병설 인포메이션 카운터는 17:30에 끝난다. 전시·이벤트 기간에는 시간이 바뀔 수 있어 공식 SNS 확인 권장.",
-   "en": "The shop runs 11:00-19:00 but the attached information counter closes at 17:30. Hours can shift during exhibitions and events, so check the shop's social accounts."
+   "ko": "매장은 11:00-19:00이지만 매장이 들어 있는 관광 안내 창구 아키바 인포는 17:30에 끝난다. 전시·이벤트 기간에는 시간이 바뀔 수 있어 공식 SNS 확인 권장.",
+   "en": "The shop runs 11:00-19:00 but AKIBA INFO, the tourist counter it sits inside, closes at 17:30. Hours can shift during exhibitions and events, so check the shop's social accounts."
   },
-  "source_url": "https://corearu.jp/questions/profile/tokyo-atom/about/"
+  "source_url": "https://www.akiba-information.jp/html/akibainfo/about-info.html"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -104,12 +104,16 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://corearu.jp/questions/profile/tokyo-atom/about/",
   "https://akihabara-fan.com/archives/703",
-  "https://map.yahoo.co.jp/v3/place/3Rb_z3jWQCA"
+  "https://map.yahoo.co.jp/v3/place/3Rb_z3jWQCA",
+  "https://www.akiba-information.jp/html/akibainfo/about-info.html",
+  "https://tezukaosamu.net/jp/mushi/entry/34676.html",
+  "https://tezukaosamu.net/jp/mushi/tag.html?tag=TOKYO+ATOM",
+  "https://udx.jp/akibaichi_rn/"
  ],
  "osm_id": "node/2059303789"
 }
