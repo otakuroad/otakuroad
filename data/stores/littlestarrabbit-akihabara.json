@@ -129,15 +129,16 @@
  },
  "chain": "toygroup",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://littlestarrabbit.com/",
   "https://littlestarrabbit.com/access",
   "https://littlestarrabbit.com/system",
   "https://littlestarrabbit.com/menu",
   "https://littlestarrabbit.com/notes",
-  "https://toygroup.jp/"
+  "https://toygroup.jp/",
+  "https://littlestarrabbit.com/news"
  ],
  "osm_id": null
 }

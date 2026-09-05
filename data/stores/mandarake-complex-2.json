@@ -162,10 +162,12 @@
  "chain": "mandarake",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.mandarake.co.jp/dir/cmp2/",
-  "https://www.mandarake.co.jp/shop/"
+  "https://www.mandarake.co.jp/shop/",
+  "https://www.mandarake.co.jp/information/newopen/cmp2/",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2043253.html"
  ],
  "osm_id": null
 }

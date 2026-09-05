@@ -101,19 +101,21 @@
  },
  "official_url": "https://bandainamco-am.co.jp/chara_shop/idolmaster/",
  "sns": {
-  "x": "https://x.com/bncs_akihabara"
+  "x": "https://x.com/ImasShop_bnam"
  },
  "chain": "bandai-namco",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://bandainamco-am.co.jp/chara_shop/idolmaster/",
   "https://www.atre.co.jp/akihabara/shop/5645/",
   "https://www.atre.co.jp/akihabara/floorguide/27/113/",
   "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/",
   "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20240529.html",
-  "https://prtimes.jp/main/html/rd/p/000001363.000033062.html"
+  "https://prtimes.jp/main/html/rd/p/000001363.000033062.html",
+  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20250628.html",
+  "https://www.atre.co.jp/akihabara/news/7463/"
  ],
  "osm_id": "node/12896921938"
 }

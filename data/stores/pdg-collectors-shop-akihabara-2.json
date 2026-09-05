@@ -76,8 +76,8 @@
  },
  "chain": "pdg",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://pdg-collectorsshop.com/about/",
   "https://pdg-collectorsshop.com/"

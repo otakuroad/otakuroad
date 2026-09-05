@@ -27,6 +27,7 @@
   "union_arena",
   "dragon_ball_card",
   "lycee",
+  "conan_card",
   "psa",
   "graded_card",
   "old_back_pokemon",
@@ -70,10 +71,10 @@
    "en": "Closed Tuesdays"
   },
   "note": {
-   "ko": "공식 웹사이트가 없어 매장 공식 X(@TCG_SOUL_AKB)의 영업시간 안내를 옮긴 것이다. 매입 접수는 폐점 직전까지 받으며, 대량 매입이 들어오면 개점 시간이 늦어진다는 공지가 종종 올라온다.",
-   "en": "The shop has no website, so these hours come from its own X account (@TCG_SOUL_AKB). Buyback is taken right up to closing, and the account occasionally posts that a large buy-in has delayed the day's opening."
+   "ko": "공식 웹사이트가 없어 매장 공식 X(@TCG_SOUL_AKB)의 영업시간 안내를 옮긴 것이다. 매입 접수는 폐점 직전까지 받고, 예약 없이 방문해도 된다고 안내한다.",
+   "en": "The shop has no website, so these hours come from its own X account (@TCG_SOUL_AKB). It says buyback is taken right up to closing and that walk-ins without a booking are welcome."
   },
-  "source_url": "https://x.com/TCG_SOUL_AKB"
+  "source_url": "https://x.com/TCG_SOUL_AKB/status/1954199552199917657"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -91,14 +92,14 @@
  },
  "tips": {
   "ko": [
-   "요코하마의 카드숍이 낸 아키하바라 지점으로 2025년 6월 하순 프리오픈했다.",
-   "취급 타이틀은 포켓몬·유희왕·원피스·바이스 슈발츠에 리세 오버추어와 유니온 아레나까지 여섯 가지이며, 날마다 다루는 타이틀을 X로 예고한다.",
+   "요코하마의 카드숍이 낸 아키하바라 지점으로 2025년 6월 25일 매입만 받는 프리오픈을 거쳐 6월 30일 정식 개점했다.",
+   "공식 X 프로필이 밝히는 취급 타이틀은 포켓몬·원피스·유희왕·드래곤볼·바이스 슈발츠·리세·유니온 아레나·코난·버디파이트 등으로 처음의 여섯 가지보다 넓어졌다. 싱글·PSA·BOX를 다루고 우편 매입도 받는다.",
    "듀얼 스페이스가 없는 매입·판매 중심 매장이라 대전 목적이라면 다른 곳을 찾는 편이 낫다.",
    "구라 포켓몬카드나 절판 세대 등 상태 좋은 희귀 카드·감정품 매입에 힘을 싣고 있으며, 매입 의뢰는 LINE으로도 받는다."
   ],
   "en": [
-   "An Akihabara branch of a Yokohama card shop; it soft-opened in late June 2025.",
-   "It handles six titles - Pokemon, Yu-Gi-Oh, One Piece, Weiss Schwarz, Lycee Overture and Union Arena - and announces on X which titles it is working on each day.",
+   "An Akihabara branch of a Yokohama card shop; it soft-opened for buyback only on 25 June 2025 and had its grand opening on 30 June.",
+   "The X profile now names Pokemon, One Piece, Yu-Gi-Oh, Dragon Ball, Weiss Schwarz, Lycee, Union Arena, Conan and Buddyfight among its titles - wider than the six it started with - and it handles singles, PSA slabs and sealed boxes as well as mail-in buyback.",
    "There is no duel space; the shop is built around buying and selling, so go elsewhere to play.",
    "It pushes hard on buying scarce cards in good condition, including old-back Pokemon and out-of-print sets, and takes buyback enquiries through LINE."
   ]
@@ -109,12 +110,13 @@
  },
  "chain": "toreca-soul",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://x.com/TCG_SOUL_AKB",
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/2026767.html",
-  "https://akihabara-cardmap.com/ja/shop/tcg-specialty-store-treca-soul-akihabara-store/"
+  "https://akihabara-cardmap.com/ja/shop/tcg-specialty-store-treca-soul-akihabara-store/",
+  "https://x.com/TCG_SOUL_AKB/status/1954199552199917657"
  ],
  "osm_id": null
 }

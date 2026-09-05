@@ -56,7 +56,7 @@
   {
    "floor": "1F",
    "ko": "크레인 게임과 반프레스토 캐릭터 피규어 전문 코너 「반프레야 아키바 피규어 컬렉션」, 「이치반쿠지 공식숍 아키하바라점」",
-   "en": "Crane games, the Banpresya Akiba Figure Collection corner for Banpresto character figures, and the Ichiban Kuji Official Shop"
+   "en": "Crane games, the Banpuresya Akiba Figure Collection corner for Banpresto character figures, and the Ichiban Kuji Official Shop"
   },
   {
    "floor": "2F",
@@ -70,8 +70,8 @@
   },
   {
    "floor": "4F",
-   "ko": "캡슐토이 전문점 「가샤폰 반다이 오피셜숍 아키하바라점」",
-   "en": "Gashapon Bandai Official Shop Akihabara, a capsule-toy specialty store"
+   "ko": "캡슐토이 전문점 「가샤폰 반다이 오피셜숍 아키하바라점」. 같은 층에 「가샤폰노 데파토 아키하바라점」이 병설돼 두 매장 합쳐 800면 규모다",
+   "en": "Gashapon Bandai Official Shop Akihabara, a capsule-toy specialty store, with Gashapon no Depato Akihabara co-located on the same floor; 800 machine faces between them"
   },
   {
    "floor": "5F",
@@ -128,13 +128,13 @@
    "16세 미만은 18시 이후 입장할 수 없고, 보호자 동반이면 22시까지 가능하다. 18세 미만은 22시 이후 입장 불가.",
    "4F 가샤폰 공식숍은 23:00까지지만 1F 이치반쿠지 공식숍과 5F 카드게임 공식숍은 21:00에 닫으므로 굿즈 목적이면 늦지 않게 간다.",
    "B1F는 「기동전사 건담 익스트림 버서스2」 전용 층으로 대회와 교류 이벤트가 자주 열린다.",
-   "아이돌마스터 투어즈, 태고의 달인, 낚시 스피리츠, 마리오카트 GP DX, 완간 미드나이트 맥시멈 튠 등이 들어와 있다."
+   "공식 설치 게임기 목록에 올라 있는 것은 「기동전사 건담 익스트림 버서스2 오버부스트」, 「기동전사 건담 아스널 베이스」, 「태고의 달인」, 「maimai 데럭스 PRiSM」, 「CHUNITHM VERSE」다."
   ],
   "en": [
    "Under-16s cannot enter after 18:00 (until 22:00 if with a guardian); under-18s cannot enter after 22:00.",
    "The 4F Gashapon shop stays open to 23:00, but the 1F Ichiban Kuji shop and the 5F card-game shop close at 21:00, so come earlier if you are after merchandise.",
    "B1F is given over to Mobile Suit Gundam Extreme Vs. 2, with frequent tournaments and player meetups.",
-   "Cabinets include iDOLM@STER TOURS, Taiko no Tatsujin, Fishing Spirits, Mario Kart Arcade GP DX and Wangan Midnight Maximum Tune."
+   "The official installed-cabinet list is Mobile Suit Gundam Extreme Vs. 2 Over Boost, Gundam Arsenal Base, Taiko no Tatsujin, maimai DX PRiSM and CHUNITHM VERSE."
   ]
  },
  "official_url": "https://bandainamco-am.co.jp/game_center/loc/akihabara/",
@@ -142,13 +142,18 @@
  "chain": "namco",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://bandainamco-am.co.jp/game_center/loc/akihabara/",
   "https://bandainamco-am.co.jp/official_shop/decks-stadium/",
   "https://prtimes.jp/main/html/rd/p/000000145.000036834.html",
   "https://www.4gamer.net/games/999/G999905/20230222141/",
-  "https://game.watch.impress.co.jp/docs/news/1482549.html"
+  "https://game.watch.impress.co.jp/docs/news/1482549.html",
+  "https://bandainamco-am.co.jp/game_center/loc/akihabara/?p=game_info",
+  "https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/akihabara/",
+  "https://bandainamco-am.co.jp/others/capsule-toy-store/store/akihabara/",
+  "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/akihabara/",
+  "https://prtimes.jp/main/html/rd/p/000000927.000033062.html"
  ],
  "osm_id": null
 }

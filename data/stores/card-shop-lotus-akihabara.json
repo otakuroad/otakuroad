@@ -79,7 +79,7 @@
  "chain": "lotus",
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2175",
   "https://x.com/Lotus_Akiba",
@@ -87,7 +87,8 @@
   "https://www.mapion.co.jp/phonebook/M02007/13101/21399057127/",
   "https://mapfan.com/spots/SYQHI,J,PSGQF0",
   "https://note.com/nimono_note/n/n41a95084eff0",
-  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%96%E2%88%92%EF%BC%91%EF%BC%90"
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%96%E2%88%92%EF%BC%91%EF%BC%90",
+  "https://x.com/Lotus_Akiba/status/2082824882971406563"
  ],
  "osm_id": null
 }

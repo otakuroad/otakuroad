@@ -54,8 +54,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "구라마에바시도리 남쪽 면, 스에히로초 교차로에서 서쪽으로 한두 블록 걸으면 나오는 1층 점포. 케이블·커넥터 전문점이던 '컴퓨에이스 아키하바라점'이 2025년 8월 폐점한 자리에 그대로 들어와 있어, 예전 점포를 알던 사람은 위치를 바로 찾을 수 있다.",
-  "en": "A ground-floor unit on the south side of Kuramaebashi-dori, a block or two west of the Suehirocho crossing. It took over the premises of CompuAce Akihabara, the cable and connector shop that closed in August 2025, so the storefront is easy to place if you knew the old shop."
+  "ko": "구라마에바시도리 남쪽 면, 스에히로초 교차로에서 서쪽으로 한두 블록 걸으면 나오는 1층 점포. 케이블·커넥터 전문점이던 '컴퓨에이스 아키하바라점'이 2025년 9월 폐점한 자리에 그대로 들어와 있어, 예전 점포를 알던 사람은 위치를 바로 찾을 수 있다.",
+  "en": "A ground-floor unit on the south side of Kuramaebashi-dori, a block or two west of the Suehirocho crossing. It took over the premises of CompuAce Akihabara, the cable and connector shop that closed in September 2025, so the storefront is easy to place if you knew the old shop."
  },
  "tips": {
   "ko": [
@@ -78,11 +78,13 @@
  },
  "chain": "tokyo-hobby-center",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/2107406.html",
-  "https://akiba.reload.co.jp/articles/fancy-tokyo-akihabara-open-compuace-site-2026/"
+  "https://akiba.reload.co.jp/articles/fancy-tokyo-akihabara-open-compuace-site-2026/",
+  "https://www.instagram.com/fanshy_tokyo/",
+  "https://x.com/fancy_tokyo_"
  ],
  "osm_id": null
 }

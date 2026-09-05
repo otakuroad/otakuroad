@@ -24,8 +24,8 @@
   "late_night"
  ],
  "one_line": {
-  "ko": "돈키호테 아키하바라점 6·7층 오락실. 최신 게임기를 갖추고 새벽 1시까지 영업",
-  "en": "Two-floor arcade on 6F-7F of Don Quijote Akihabara with current cabinets, open until 1am"
+  "ko": "돈키호테 아키하바라점 6·7층 오락실. 최신 게임기를 갖추고 밤 11시 55분까지 영업",
+  "en": "Two-floor arcade on 6F-7F of Don Quijote Akihabara with current cabinets, open until 23:55"
  },
  "building_id": "don-quijote-akihabara",
  "floors": [
@@ -50,7 +50,7 @@
      "hol"
     ],
     "open": "10:00",
-    "close": "24:00"
+    "close": "23:55"
    }
   ],
   "regular_holiday": {
@@ -58,10 +58,10 @@
    "en": "None (open year-round)"
   },
   "note": {
-   "ko": "돈키호테 공식 테넌트 안내 기준 10:00~다음 날 1:00. 표에는 24:00까지로 적었으나 실제 마감은 새벽 1시다.",
-   "en": "Don Quijote's official tenant page gives 10:00 to 1:00 the next morning; the table above caps at 24:00, but the real closing time is 1am."
+   "ko": "운영사 야마자키야 공식 점포안내 기준 10:00~23:55, 연중무휴. 돈키호테 테넌트 페이지에는 아직 10:00~1:00으로 적혀 있으나 운영사 표기를 따랐다.",
+   "en": "10:00-23:55, open year-round, per operator Yamazakiya's own store listing. Don Quijote's tenant page still shows 10:00-1:00, but the operator's own figure is used here."
   },
-  "source_url": "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=33"
+  "source_url": "https://www.yamazakiya.co.jp/shop/syutoken/"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -79,12 +79,12 @@
  },
  "tips": {
   "ko": [
-   "새벽 1시까지 열어 아키하바라에서 가장 늦게까지 하는 오락실 중 하나다.",
+   "23:55까지 열어 아키하바라에서 늦게까지 하는 오락실 중 하나다.",
    "직원이 메이드 복장으로 응대하는 점이 공식 소개에 명시되어 있다.",
    "운영사는 야마자키야 계열의 도쿄 레저랜드로, 외신다 1-9-5의 1호점(아키하바라점)과는 다른 매장이다."
   ],
   "en": [
-   "Open until 1am, one of the latest-closing arcades in Akihabara.",
+   "Open until 23:55, one of the later-closing arcades in Akihabara.",
    "The official description notes that staff greet customers in maid costume.",
    "Run by Yamazakiya's Tokyo Leisure Land; a separate venue from the No.1 store at Sotokanda 1-9-5."
   ]
@@ -94,11 +94,12 @@
  "chain": "tokyo-leisure-land",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=33",
   "https://www.yamazakiya.co.jp/shop/",
-  "https://www.yamazakiya.co.jp/shop/syutoken/"
+  "https://www.yamazakiya.co.jp/shop/syutoken/",
+  "https://www.donki.com/store/shop_detail.php?shop_id=98"
  ],
  "osm_id": "node/5760263315"
 }

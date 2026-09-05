@@ -81,13 +81,13 @@
  },
  "tips": {
   "ko": [
-   "예약은 TableCheck 웹에서만 받으며 1개월 전 12:00부터 열린다. 자리가 남으면 당일 워크인도 1층 카운터에서 문의 가능.",
-   "1인 1주문제이며 좌석 차지가 따로 붙는다. 골드 소서 룸 등 룸 좌석은 90분 1,650엔부터로 좌석 종류에 따라 다르다.",
+   "예약은 TableCheck 웹에서만 받으며 1개월 전 12:00부터 열린다. 당일 자리가 남았는지는 매장 안 카운터에서 물어보면 알려준다.",
+   "테이블 차지는 1인 1,200엔으로 서비스 드링크 1잔과 고를 수 있는 잡 코스터가 붙는다. 여기에 더해 1인 1품 이상 주문해야 한다.",
    "콜라보 메뉴는 패치·이벤트에 맞춰 바뀌므로 방문 전 공식 메뉴 페이지를 확인하면 좋다."
   ],
   "en": [
-   "Bookings are taken only through TableCheck and open at 12:00, one month ahead; walk-ins can ask at the 1F counter if seats remain.",
-   "One order per person is required and a seat charge applies on top; room seats such as the Gold Saucer Room start at 1,650 yen for 90 minutes.",
+   "Bookings are taken only through TableCheck and open at 12:00, one month ahead; for same-day seats, ask at the counter inside the cafe.",
+   "The table charge is 1,200 yen per person and includes one service drink and a job coaster of your choice; on top of that everyone must order at least one item.",
    "The collaboration menu rotates with patches and events, so check the official menu page before you go."
   ]
  },
@@ -96,7 +96,7 @@
  "chain": "pasela",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/",
   "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/akihabara-menu/",

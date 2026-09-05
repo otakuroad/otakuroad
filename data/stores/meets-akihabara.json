@@ -44,7 +44,7 @@
   "lng": 139.770302
  },
  "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-3-9 増田ビル1F",
+ "address_ja": "東京都千代田区外神田1-3-9 マスダビル1F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",
@@ -57,8 +57,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분, 잔크도리(ジャンク通り) 변 마스다빌딩(増田ビル) 1층 노면 점포. 원래 정크숍 니치베이쇼지(日米商事)가 쓰던 1층 자리로, 니치베이쇼지는 같은 건물 3층으로 올라갔다.",
-  "en": "Three minutes from JR Akihabara's Electric Town Exit, at street level in the Masuda Building on Junk-dori. It took over the ground floor left by the junk shop Nichibei Shoji, which moved up to 3F of the same building."
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 3분, 소토칸다 1-3-9 마스다빌딩(マスダビル) 1층 노면 점포. 원래 정크숍 니치베이쇼지(日米商事)가 쓰던 1층 자리로, 니치베이쇼지는 같은 건물 3층으로 올라갔다.",
+  "en": "Three minutes west of JR Akihabara's Electric Town Exit, at street level in the Masuda Building (マスダビル) at Sotokanda 1-3-9. It took over the ground floor left by the junk shop Nichibei Shoji, which moved up to 3F of the same building."
  },
  "tips": {
   "ko": [
@@ -81,10 +81,12 @@
  "chain": "meets",
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/1672179.html",
-  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2270"
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2270",
+  "https://meetscard.myshopify.com/policies/legal-notice",
+  "https://my-site-105174-102944.square.site/"
  ],
  "osm_id": null
 }

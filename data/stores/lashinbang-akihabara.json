@@ -124,7 +124,7 @@
  "chain": "lashinbang",
  "priority": 1,
  "confidence": "high",
- "verified_at": "2026-09-04",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.lashinbang.com/store/13/",
   "https://api.lashinbang.com/api/get_store?id=13",

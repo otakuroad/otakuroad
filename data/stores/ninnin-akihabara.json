@@ -46,39 +46,7 @@
  },
  "street_segment": "ura_dori",
  "address_ja": "東京都千代田区外神田3-8-7 フジビル2F",
- "hours": {
-  "rules": [
-   {
-    "days": [
-     "mon",
-     "tue",
-     "wed",
-     "thu",
-     "fri"
-    ],
-    "open": "11:00",
-    "close": "20:30"
-   },
-   {
-    "days": [
-     "sat",
-     "sun",
-     "hol"
-    ],
-    "open": "10:00",
-    "close": "20:00"
-   }
-  ],
-  "regular_holiday": {
-   "ko": "연중무휴",
-   "en": "No closing day"
-  },
-  "note": {
-   "ko": "매입 접수는 매장보다 일찍 끝난다(평일 19:30, 토·일·공휴일 19:00). 공식 홈페이지가 없어 시간 변경은 X(@kaitori_ninnin)로만 공지된다.",
-   "en": "The buyback counter closes before the shop does (19:30 on weekdays, 19:00 on weekends and holidays). There is no official website, so changes are posted only on X (@kaitori_ninnin)."
-  },
-  "source_url": "https://akibatoreka.com/introduce/1705"
- },
+ "hours": null,
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -95,30 +63,33 @@
  },
  "tips": {
   "ko": [
-   "포켓몬 카드 전문점이며 플레이용보다 컬렉션용 싱글과 중가격대 미개봉 팩이 주력이다. 구판(구 뒷면) 카드와 아키하바라에서 보기 힘든 레트로 포켓몬 상품도 취급한다.",
-   "매입에 힘을 주는 매장이라 팔 카드가 있다면 매입 마감(평일 19:30, 주말·공휴일 19:00) 전에 갈 것.",
+   "포켓몬 카드 전문점이며 플레이용보다 컬렉션용 싱글과 미개봉 팩이 주력이다. 구판(구 뒷면) 카드와 아키하바라에서 보기 힘든 레트로 포켓몬 상품도 취급한다.",
+   "포켓몬 카드 판매·매입 외에 PSA 감정 대행과 위탁 판매도 받는다.",
    "슬리브·덱케이스·카드 파일 등 보관용 서플라이도 함께 판다.",
-   "공식 홈페이지가 없고 결제 수단·면세 안내도 확인되지 않으므로 현금을 준비하는 편이 안전하다."
+   "공식 사이트(nin-nin-pokeka.jp)에 영업시간 안내가 없고 결제 수단·면세 안내도 확인되지 않는다. 현금을 준비하고 가기 전에 X(@kaitori_ninnin)를 확인하는 편이 안전하다."
   ],
   "en": [
    "A Pokemon-card specialist weighted toward collector singles and mid-priced sealed packs rather than play copies, including old-back cards and retro Pokemon items that are hard to find elsewhere in Akihabara.",
-   "Buying is the shop's focus, so bring cards to sell before the buyback cutoff (19:30 weekdays, 19:00 weekends and holidays).",
+   "Besides buying and selling Pokemon cards, the shop handles PSA grading submissions and consignment sales.",
    "Storage supplies - sleeves, deck cases and card files - are sold alongside the cards.",
-   "There is no official website and neither payment methods nor tax-free service are confirmed, so bring cash."
+   "The official site (nin-nin-pokeka.jp) publishes no opening hours, and neither payment methods nor tax-free service are confirmed, so bring cash and check X (@kaitori_ninnin) before going."
   ]
  },
- "official_url": null,
+ "official_url": "https://nin-nin-pokeka.jp/",
  "sns": {
   "x": "https://x.com/kaitori_ninnin"
  },
  "chain": "ninnin",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akibatoreka.com/introduce/1705",
   "https://www.openstreetmap.org/node/11782470736",
-  "https://www.openstreetmap.org/way/88984278"
+  "https://www.openstreetmap.org/way/88984278",
+  "https://nin-nin-pokeka.jp/",
+  "https://nin-nin-pokeka.jp/tokusho/",
+  "https://www.ninja2021.com/about-3"
  ],
  "osm_id": "node/11782470736"
 }

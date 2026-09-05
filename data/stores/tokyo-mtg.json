@@ -21,7 +21,6 @@
   "mtg",
   "singles",
   "sealed",
-  "oripa",
   "duel_space",
   "tournaments",
   "buyback",
@@ -43,7 +42,7 @@
   "lng": 139.775034
  },
  "street_segment": "showa_dori",
- "address_ja": "東京都千代田区神田岩本町1-1 岩本町ビル5F",
+ "address_ja": "東京都千代田区神田岩本町1番 岩本町ビル5F",
  "hours": {
   "rules": [
    {
@@ -102,12 +101,13 @@
  },
  "official_url": "https://tokyomtg.com/content.html?p=storeintro",
  "sns": {
-  "x": "https://x.com/TokyoMTG"
+  "x": "https://x.com/TokyoMTG",
+  "instagram": "https://www.instagram.com/tokyomtg"
  },
  "chain": "tokyo-mtg",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://tokyomtg.com/content.html?p=storeintro",
   "https://tokyomtg.com/",

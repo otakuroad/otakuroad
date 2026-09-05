@@ -122,7 +122,7 @@
  "chain": "surugaya",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html",
   "https://web.archive.org/web/20260223212903/https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html",
@@ -131,7 +131,8 @@
   "https://www.suruga-ya.co.jp/ja/node/2478",
   "https://web.archive.org/web/20260531142701/https://www.suruga-ya.jp/feature/realstore/akihabara_tb/index.html",
   "https://web.archive.org/web/20240531215328/https://www.suruga-ya.jp/feature/akihabara/index.html",
-  "https://www.openstreetmap.org/node/5923650913"
+  "https://www.openstreetmap.org/node/5923650913",
+  "https://web.archive.org/web/20250831230359/https://www.suruga-ya.jp/feature/shoplist_ad/index.html"
  ],
  "osm_id": "node/5923650913",
  "photo": {

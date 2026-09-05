@@ -118,8 +118,8 @@
  },
  "chain": "toreca-chase",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://x.com/chase_akiba",
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2743",

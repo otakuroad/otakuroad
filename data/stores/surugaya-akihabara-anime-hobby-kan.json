@@ -122,7 +122,7 @@
  "chain": "surugaya",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html",
   "http://web.archive.org/web/20260214192527/https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html",
@@ -130,7 +130,8 @@
   "https://akihabara-fan.com/archives/1385",
   "https://x.com/surugayaakihab1",
   "https://www.openstreetmap.org/node/5050002960",
-  "https://www.openstreetmap.org/way/89182761"
+  "https://www.openstreetmap.org/way/89182761",
+  "https://www.a-too.co.jp/ja/shop/"
  ],
  "osm_id": "node/5050002960"
 }

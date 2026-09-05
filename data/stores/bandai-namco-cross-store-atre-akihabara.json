@@ -102,13 +102,15 @@
  "chain": "bandai-namco",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/",
   "https://www.atre.co.jp/akihabara/shop/9080/",
   "https://www.atre.co.jp/akihabara/floorguide/27/113/",
   "https://www.atre.co.jp/akihabara/floorguide/27/114/",
-  "https://www.atre.co.jp/akihabara/access/"
+  "https://www.atre.co.jp/akihabara/access/",
+  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20250628.html",
+  "https://www.atre.co.jp/akihabara/news/7463/"
  ],
  "osm_id": null
 }

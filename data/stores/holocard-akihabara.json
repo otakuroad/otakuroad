@@ -41,7 +41,33 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田3-6-1 丸山ビル6F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": null,
+  "source_url": "https://x.com/holocard_akiba/status/2083893577189298579"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -59,12 +85,12 @@
  "tips": {
   "ko": [
    "6층까지는 엘리베이터로 올라간다. 같은 丸山ビル 3층은 메이드카페 크라운티아라, 1층은 신소쿠(シンソク) 매입 카운터다.",
-   "공식 사이트에 영업시간이 공개돼 있지 않으므로 방문 전 공식 X(@holocard_akiba)에서 당일 영업시간과 입하 정보를 확인하는 편이 좋다.",
+   "공식 사이트(holocard.jp)에는 영업시간이 없다. 2026년 8월 2일 공식 X 공지로 평일 12:00-20:00, 토·일·공휴일 11:00-21:00으로 바뀌었으니 변경 공지는 @holocard_akiba에서 확인한다.",
    "2023년 8월부터 이 자리에 있던 트레카라이저스 아키하바라점이 2025년 3월 호로카드로 바뀌었다. 오래된 지도·디렉터리에는 아직 옛 이름이 남아 있다."
   ],
   "en": [
    "Take the elevator to 6F; the same Maruyama Building has the maid cafe CrownTiara on 3F and Shinsoku's buyback counter on 1F.",
-   "No opening hours are published on the official site, so check the shop's X account (@holocard_akiba) for the day's hours and new stock before going.",
+   "The official site (holocard.jp) lists no hours. An X notice on 2 August 2026 changed them to 12:00-20:00 on weekdays and 11:00-21:00 on Saturday, Sunday and public holidays, so watch @holocard_akiba for later changes.",
    "The unit was Toreca Rises Akihabara from August 2023 until it became Holocard in March 2025; older maps and directories still show the old name."
   ]
  },
@@ -74,8 +100,8 @@
  },
  "chain": "holocard",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://holocard.jp/",
   "https://torecarises.com/",
@@ -83,7 +109,9 @@
   "https://vtuber-matomeruyon.blog.jp/archives/28274724.html",
   "https://note.com/kanzawaryo/n/n6506d80d9103",
   "https://akibatoreka.com/introduce/2665",
-  "https://map.yahoo.co.jp/v3/place/Y1KG6TUXTbg"
+  "https://map.yahoo.co.jp/v3/place/Y1KG6TUXTbg",
+  "https://x.com/holocard_akiba/status/2083893577189298579",
+  "https://shinsoku-tcg.com/store-plans/akihabara-unification"
  ],
  "osm_id": null
 }

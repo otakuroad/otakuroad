@@ -54,10 +54,10 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "2026년 3월 트레카모올 5층 오픈 시 운영사가 공식 발표한 5층 영업시간이다. 개별 점포 공지는 X(@pokedou_akiba)에서 확인.",
-   "en": "These are the 5F hours the mall operator announced when the floor opened in March 2026. Shop-level notices go up on X (@pokedou_akiba)."
+   "ko": "점포 매입 계정 X(@Pokedou_AkibaK)가 반복해서 올리는 안내에 영업시간 11:00~19:00, 매입 접수 11:00~18:40으로 적혀 있다. 트레카모올 5층 운영사가 발표한 층 영업시간과도 같다. 임시 휴업은 X(@Pokedou_Akiba)에 공지된다.",
+   "en": "The shop's own buy-list X account (@Pokedou_AkibaK) repeatedly posts 11:00-19:00, with the buyback desk taking items only until 18:40. This matches the 5F floor hours the mall operator announced. Temporary closures go up on X (@Pokedou_Akiba)."
   },
-  "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
+  "source_url": "https://x.com/Pokedou_AkibaK/status/2094967848271815113"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -90,11 +90,13 @@
  "chain": "pokedo",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
   "https://akihabara-cardmap.com/ja/shop/pokemon-card-specialty-store-pokedo-akihabara/",
-  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/"
+  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/",
+  "https://x.com/Pokedou_AkibaK/status/2094967848271815113",
+  "https://x.com/Pokedou_Akiba/status/2096103392808673568"
  ],
  "osm_id": null
 }

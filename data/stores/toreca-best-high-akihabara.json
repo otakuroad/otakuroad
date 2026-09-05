@@ -110,14 +110,17 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://x.com/torekaBH/status/2029101227829805346",
   "https://x.com/torekaBH/status/2038817649606709398",
   "https://x.com/toreka_besthigh/status/2026586737858982062",
   "https://x.com/torekaBH",
-  "https://akihabara-cardmap.com/ja/shop/treca-bh-akihabara/"
+  "https://akihabara-cardmap.com/ja/shop/treca-bh-akihabara/",
+  "https://syndication.twitter.com/srv/timeline-profile/screen-name/torekaBH",
+  "https://x.com/toreka_besthigh",
+  "https://www.instagram.com/jp.pokemontcg.bossa"
  ],
  "osm_id": null
 }

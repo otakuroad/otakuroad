@@ -63,10 +63,10 @@
    "en": "Closed on Thursdays"
   },
   "note": {
-   "ko": "매장 X 계정이 알리는 영업시간은 13:00-20:00, 매입 접수는 13:00-19:30. 목요일 정기휴무는 일본 트레카 매장 안내에 실린 내용이며 공식 페이지에는 명시가 없으므로 방문 전 X(@cardshop_tonton) 확인 권장.",
-   "en": "The shop's own X account gives 13:00-20:00 for the store and 13:00-19:30 for the buyback counter. The Thursday closure comes from Japanese card-shop directories rather than an official page, so check X (@cardshop_tonton) before going."
+   "ko": "13:00-20:00 영업과 목요일 정기휴무 모두 매장 공식 X 프로필(1층 @cardshop_tonton, 2층 @cardshop_tonto2)에 적혀 있는 내용이다. 매입 접수도 같은 13:00-20:00이며, 임시 휴무는 X에 공지된다.",
+   "en": "Both the 13:00-20:00 hours and the Thursday closure are stated on the shop's own X profiles (@cardshop_tonton for 1F, @cardshop_tonto2 for 2F). The buyback counter runs the same 13:00-20:00, and temporary closures are posted on X."
   },
-  "source_url": "https://x.com/cardshop_tonton/status/2043539688972304429"
+  "source_url": "https://x.com/cardshop_tonton"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -101,15 +101,18 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://kaitoriton.base.shop/",
   "https://kaitoriton.base.shop/law",
   "https://x.com/cardshop_tonton/status/2043539688972304429",
   "https://akiba-asterisk.blog.jp/archives/59365742.html",
   "https://1-3rdrealestate.com/diary-detail-579615/",
-  "https://map.yahoo.co.jp/v3/place/Un9iw7imUtg"
+  "https://map.yahoo.co.jp/v3/place/Un9iw7imUtg",
+  "https://x.com/cardshop_tonton",
+  "https://x.com/cardshop_tonto2",
+  "https://kaitoriton.base.shop/about"
  ],
  "osm_id": "node/14050165221"
 }

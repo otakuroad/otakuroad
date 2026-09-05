@@ -55,12 +55,15 @@
     "close": "20:30"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open daily"
+  },
   "note": {
    "ko": "건물 전체 안내는 11:00~21:00이지만 4층 점포는 20:30 마감.",
    "en": "The building lists 11:00-21:00, but the 4F shops close at 20:30."
   },
-  "source_url": "https://www.akibacultureszone.com/shop/33"
+  "source_url": "https://www.astop.co.jp/zone/about/"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -93,12 +96,13 @@
  "chain": "astop",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.astop.co.jp/zone",
   "https://www.astop.co.jp/",
   "https://www.akibacultureszone.com/shop/33",
-  "https://www.akibacultureszone.com/shop/"
+  "https://www.akibacultureszone.com/shop/",
+  "https://www.astop.co.jp/zone/about/"
  ],
  "osm_id": "node/2272548381"
 }

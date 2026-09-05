@@ -79,11 +79,12 @@
  "chain": null,
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.entas.jp/",
   "https://www.entas.jp/access/",
-  "https://www.entas.jp/about/"
+  "https://www.entas.jp/about/",
+  "https://x.com/akiba_entas/status/2064905459526701103"
  ],
  "osm_id": null
 }

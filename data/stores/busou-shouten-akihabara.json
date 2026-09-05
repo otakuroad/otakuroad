@@ -78,8 +78,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "주오도리 서쪽, 아파호텔 바로 북쪽에 붙은 5층짜리 아사노(麻野) 빌딩 3층. 북쪽 옆 건물은 고구레스에히로 빌딩(PDG 본점)이므로 3-15-7 번지를 확인하고 들어간다. 공식 사이트는 거리 변화가 심해 지도를 내렸다고 안내한다.",
-  "en": "Third floor of the five-storey Asano Building on the west side of Chuo-dori, immediately north of the APA Hotel. The next building north is the Kogure Suehiro Building, so check the 3-15-7 address. The shop's own site says it removed its map because the street changes too fast."
+  "ko": "주오도리 서쪽, 아파호텔 바로 북쪽에 붙은 6층짜리 아사노(麻野) 빌딩 3층. 북쪽 옆 건물은 고구레스에히로 빌딩(PDG 본점)이므로 3-15-7 번지를 확인하고 들어간다. 공식 사이트는 거리 변화가 심해 지도를 내렸다고 안내한다.",
+  "en": "Third floor of the six-storey Asano Building on the west side of Chuo-dori, immediately north of the APA Hotel. The next building north is the Kogure Suehiro Building, so check the 3-15-7 address. The shop's own site says it removed its map because the street changes too fast."
  },
  "tips": {
   "ko": [
@@ -102,7 +102,7 @@
  "chain": null,
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://busou.sakura.ne.jp/guide.html",
   "https://busou.sakura.ne.jp/top.html",
@@ -110,7 +110,9 @@
   "https://busou3.sakura.ne.jp/shop/",
   "https://busou3.sakura.ne.jp/shop/help/tradelaw",
   "https://tokyolucci.jp/busoushouten-akihabara",
-  "https://entermedia-akiba.com/busousyouten/"
+  "https://entermedia-akiba.com/busousyouten/",
+  "https://www.office-navi.jp/building/02043885/",
+  "https://x.com/busou"
  ],
  "osm_id": "node/5225758714"
 }

@@ -87,8 +87,8 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울과 오봉·연말연시에는 특별 연장 영업이 공지되고, 캐스트 생일 이벤트일에는 개·폐점 시각이 달라진다.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Special extended hours are announced for summer, Obon and the New Year, and cast birthday events shift the opening and closing times."
+   "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 공식 안내는 연중무휴이며 여름·겨울에 특별 연장 영업이 있다고만 밝히고, 캐스트 생일·게스트 급사 이벤트일에는 개·폐점 시각이 달라진다.",
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. The official notice says only that the shop is open year-round with special extended hours in summer and winter; cast birthday and guest-service events shift the opening and closing times."
   },
   "source_url": "https://starlightnovel.com/access"
  },
@@ -129,15 +129,17 @@
  },
  "chain": "toygroup",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://starlightnovel.com/",
   "https://starlightnovel.com/access",
   "https://starlightnovel.com/system",
   "https://starlightnovel.com/menu",
   "https://starlightnovel.com/notes",
-  "https://toygroup.jp/"
+  "https://toygroup.jp/",
+  "https://toygroup.jp/shops",
+  "https://toygroup.jp/api/public/starlightnovel/store"
  ],
  "osm_id": null
 }

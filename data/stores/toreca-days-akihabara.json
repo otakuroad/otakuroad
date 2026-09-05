@@ -36,7 +36,33 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル 5F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "공식 사이트가 없어 영업시간은 가게 공식 X 프로필 표기를 따른다. 그날의 시간 변경은 X에 올라온다.",
+   "en": "There is no official site; the hours come from the shop's own X profile, and same-day changes are posted there."
+  },
+  "source_url": "https://x.com/TDakb01"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": null,
@@ -53,16 +79,18 @@
  },
  "tips": {
   "ko": [
-   "공식 영업시간 안내는 없다. 카드숍 디렉터리 토레카맵은 평일 13:00-20:00, 토·일·공휴일 13:00-19:30, 부정기 휴무로 적고 있다. 오전에는 열지 않는다.",
+   "공식 X 프로필 기준 영업시간은 13:00-19:00, 부정기 휴무다. 오전에는 열지 않는다.",
+   "점두 매입은 감정이 최단 5분에서 최대 1시간 정도이며 당일 현금으로 지급한다. 우편 매입은 별도 계정(@TDakb01_yusou)에서 받는다.",
    "점두 매입과 온라인 매입을 함께 받는다. 듀얼 스페이스(플레이 공간)는 없다.",
-   "지도 핀은 외신다 1-16 블록 기준의 근사 위치다. 건물명(秋葉原センタービル)과 501호실 번호로 찾는 편이 확실하다.",
-   "임시 휴업과 재고는 공식 X(@TDakb01)에 올라온다."
+   "지도 핀은 외신다 1-16 블록 기준의 근사 위치다. 건물명(ニュー秋葉原センタービル)과 501호실 번호로 찾는 편이 확실하다.",
+   "임시 휴업과 그날의 영업시간 변경은 공식 X(@TDakb01)에 올라온다."
   ],
   "en": [
-   "No official hours are published. The card-shop directory Torecamap lists 13:00-20:00 on weekdays and 13:00-19:30 on weekends and holidays, with irregular closing days. It does not open in the morning.",
+   "The shop's own X profile gives the hours as 13:00-19:00 with irregular closing days. It does not open in the morning.",
+   "In-store buyback is appraised in five minutes to about an hour and paid in cash the same day; postal buyback runs through a separate account (@TDakb01_yusou).",
    "It takes both in-store and online buyback; there is no duel space.",
-   "The map pin is approximate, placed from the 1-16 block; look for the building name 秋葉原センタービル and room 501.",
-   "Temporary closures and stock go up on the shop's X account (@TDakb01)."
+   "The map pin is approximate, placed from the 1-16 block; look for the building name ニュー秋葉原センタービル and room 501.",
+   "Temporary closures and same-day changes to the hours go up on the shop's X account (@TDakb01)."
   ]
  },
  "official_url": null,
@@ -72,10 +100,12 @@
  "chain": null,
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2152",
-  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/?page=6"
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/?page=6",
+  "https://x.com/TDakb01",
+  "https://x.com/TDakb01/status/2078033314687205864"
  ],
  "osm_id": null
 }

@@ -83,16 +83,16 @@
  },
  "tips": {
   "ko": [
-   "에디온이 직영하는 트레카 체인으로 전국 14개 점포 가운데 도쿄 유일 점포. 취급 타이틀은 포켓몬·유희왕·듀얼마스터즈·배틀스피리츠·뱅가드·바이스슈발츠·유니온아레나 등이다.",
+   "에디온이 직영하는 트레카 체인으로 공식 점포 목록에 실린 도쿄 유일 점포다. 취급 타이틀은 포켓몬·유희왕·듀얼마스터즈·배틀스피리츠·뱅가드·바이스슈발츠·유니온아레나 등이다.",
    "무료 듀얼 스페이스가 있고 점두 매입도 받는다. 매입 접수는 폐점 시각보다 일찍 끝난다.",
    "현금 외에 신용카드·QR 결제가 되고 V포인트·d포인트·R포인트를 쌓거나 쓸 수 있다.",
-   "건물 안내에 따라 층 표기가 엇갈린 적이 있어(1층으로 적힌 목록도 있음) 6층에서 못 찾으면 1층 안내 데스크에서 확인하는 편이 빠르다."
+   "디렉터리에 따라 1층으로 잘못 적힌 목록도 있지만 점포 공식 X가 밝힌 위치는 6층이다. 가전 매장 엘리베이터로 6층까지 올라가면 된다."
   ],
   "en": [
-   "A trading-card chain run by Edion itself; this is its only Tokyo branch out of 14 nationwide. Titles handled include Pokemon, Yu-Gi-Oh, Duel Masters, Battle Spirits, Vanguard, Weiss Schwarz and Union Arena.",
+   "A trading-card chain run by Edion itself, and the only branch in Tokyo on its official store list. Titles handled include Pokemon, Yu-Gi-Oh, Duel Masters, Battle Spirits, Vanguard, Weiss Schwarz and Union Arena.",
    "There is a free duel space and a counter buyback service; buyback intake closes earlier than the shop itself.",
    "Besides cash, credit cards and QR payments are accepted, and V Points, d Points and R Points can be earned or spent.",
-   "Floor listings for this shop have disagreed (some directories print 1F), so if it is not on 6F, ask at the ground-floor information desk."
+   "Some directories wrongly print 1F, but the shop's own X account puts it on 6F - take the lift in the electronics store up to the sixth floor."
   ]
  },
  "official_url": "https://www.edion.com/ito/contents/special/lp/trecacapital_edion/index.html",
@@ -101,14 +101,16 @@
  },
  "chain": "toreca-capital",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.edion.com/ito/contents/special/lp/trecacapital_edion/index.html",
   "https://search.edion.com/e_store/spot/detail?code=0000004762",
   "https://akihabara-cardmap.com/ja/shop/treca-capital-edion-akiba/",
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2234",
-  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2020858.html"
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2020858.html",
+  "https://x.com/Trecapi_AKIBA/status/2080462685913973108",
+  "https://map.pokemon-card.com/map/22080"
  ],
  "osm_id": null
 }

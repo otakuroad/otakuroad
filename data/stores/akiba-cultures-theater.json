@@ -86,16 +86,20 @@
   ]
  },
  "official_url": "https://akibalive.jp/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/AkibaCultures"
+ },
  "chain": null,
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akibalive.jp/",
   "https://www.akibacultureszone.com/shop/3576",
   "https://www.akibacultureszone.com/shop/",
-  "https://www.akibacultureszone.com/"
+  "https://www.akibacultureszone.com/",
+  "https://akibalive.jp/access/",
+  "https://akibalive.jp/schedule/"
  ],
  "osm_id": "node/9432106579"
 }

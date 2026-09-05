@@ -48,7 +48,30 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田1-8-11 日宝アキバスターⅡ 2F・3F・4F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "층마다 개점 시간이 다르다. 2층(포켓몬 등)은 12:00, 4층(유희왕 등)은 13:00에 열고 둘 다 21:00에 닫으며, 4층 매입 접수는 20:00까지다.",
+   "en": "The floors open at different times: 2F (Pokemon and so on) from 12:00 and 4F (Yu-Gi-Oh! and so on) from 13:00, both closing at 21:00; the 4F buyback counter takes items until 20:00."
+  },
+  "source_url": "https://x.com/vc_tokyo_akiba/status/2095346536217825294"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -68,13 +91,13 @@
    "구판(旧裏面) 포켓몬과 초기 유희왕 레어, PSA·ARS·BGS 감정품이 중심이라 현행 신탄 팩은 기대하기 어렵다.",
    "영어 응대가 가능해 해외 컬렉터 방문이 많고, 안쪽에 고가 빈티지 전용 코너가 따로 있다.",
    "통판 재고는 자매점 VCJ(빈티지 카드 재팬)와 연동된다. 점두 수령은 4층 계산대에서 발송 완료 메일을 받은 뒤에만 가능하고, 수령 시 신분증이 필요하다.",
-   "공식 사이트에 영업시간이 없고 층마다 개점 시간이 다를 수 있으니 공식 X(@vc_tokyo_akiba)를 확인한다."
+   "공식 사이트에는 영업시간이 없다. 층마다 개점 시간이 달라 2층은 12:00, 4층은 13:00에 열고 21:00에 닫으며, 매입 접수는 4층에서 13:00-20:00이다. 그날의 영업은 공식 X(@vc_tokyo_akiba)가 매일 알린다."
   ],
   "en": [
    "The focus is old-back Pokemon, early Yu-Gi-Oh! rares and PSA/ARS/BGS graded slabs rather than current booster packs.",
    "Staff can serve you in English, and a separate corner at the back holds the high-end vintage stock.",
    "Web stock is shared with its sister shop VCJ (Vintage Card Japan); in-store pickup is at the 4F register, only after the dispatch email, and you need photo ID.",
-   "No hours are published on the site and floors can open at different times, so check X (@vc_tokyo_akiba)."
+   "The website publishes no hours. The floors open at different times - 2F from 12:00, 4F from 13:00, both closing at 21:00 - and buyback is taken on 4F from 13:00 to 20:00. The shop posts each day's opening on X (@vc_tokyo_akiba)."
   ]
  },
  "official_url": "https://www.valuablecard.jp/",
@@ -84,7 +107,7 @@
  "chain": null,
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.valuablecard.jp/page/about",
   "https://www.valuablecard.jp/",
@@ -92,7 +115,8 @@
   "https://www.valuablecard.jp/info",
   "https://akihabara-cardmap.com/ja/shop/valuable-card-tokyo-akihabara/",
   "https://www.jan-gle.com/kaitori/method/method01",
-  "https://torecamap.co.jp/column/akihabara/"
+  "https://torecamap.co.jp/column/akihabara/",
+  "https://x.com/vc_tokyo_akiba/status/2095346536217825294"
  ],
  "osm_id": null
 }

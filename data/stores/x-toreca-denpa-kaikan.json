@@ -78,12 +78,14 @@
  "chain": "x-toreca",
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.gdm.or.jp/crew/2026/0423/631908",
   "https://www.gdm.or.jp/crew/2026/0401/628996",
   "https://oripa.ex-toreca.com/",
-  "https://akiba.reload.co.jp/articles/extreca-akihabara-denpakaikan-open-2026/"
+  "https://akiba.reload.co.jp/articles/extreca-akihabara-denpakaikan-open-2026/",
+  "https://campaign.ex-toreca.com/store/",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2049451129432633851&token=a"
  ],
  "osm_id": null
 }

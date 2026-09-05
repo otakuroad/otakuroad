@@ -103,10 +103,11 @@
  "chain": "gashapon-bandai",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/akihabara/",
-  "https://bandainamco-am.co.jp/others/capsule-toy-store/store/akihabara/"
+  "https://bandainamco-am.co.jp/others/capsule-toy-store/store/akihabara/",
+  "https://bandainamco-am.co.jp/game_center/loc/akihabara/"
  ],
  "osm_id": null
 }

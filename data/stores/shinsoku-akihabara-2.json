@@ -37,8 +37,31 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）B1F トレカモーール秋葉原1号店内",
- "hours": null,
- "tax_free": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "점포 X(@shinsoku_akb2nd)가 매일 아침 그날의 영업시간을 올린다. 2026년 8월 25일 안내 기준 영업 11:00~19:00, 매입 접수는 11:00~18:30으로 폐점보다 일찍 끝난다. 요일별 구분은 공지에 없다.",
+   "en": "The shop posts that day's hours on X (@shinsoku_akb2nd) every morning; the 25 August 2026 notice gave 11:00-19:00, with the buyback desk taking items only until 18:30. The notices draw no distinction between weekdays and weekends."
+  },
+  "source_url": "https://x.com/shinsoku_akb2nd/status/2092065457650241808"
+ },
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": "both",
  "adult_content": {
@@ -54,11 +77,11 @@
  },
  "tips": {
   "ko": [
-   "공식 사이트에 이 지점의 영업시간 안내가 없고 일본 디렉터리마다 11:00-19:00과 11:00-19:30으로 갈리므로 X(@shinsoku_akb2nd)에서 확인하는 편이 안전하다.",
+   "점포 X(@shinsoku_akb2nd)가 매일 아침 그날의 영업시간과 매입 접수 시간을 올린다. 영업 11:00~19:00, 매입 접수는 18:30에 마감하니 팔 물건이 있으면 일찍 가는 편이 좋다.",
    "신소쿠는 2026년 아키하바라에 3호점 이후 신규 점포를 연달아 열고 있어 지점 번호를 착각하기 쉽다."
   ],
   "en": [
-   "The official site does not list this branch's hours and Japanese directories disagree (11:00-19:00 vs 11:00-19:30), so check X (@shinsoku_akb2nd) before going.",
+   "The shop posts that day's opening and buyback-reception times on X (@shinsoku_akb2nd) each morning: open 11:00-19:00, but the buyback desk stops taking items at 18:30, so go early if you are selling.",
    "Shinsoku has been opening one Akihabara branch after another through 2026, so it is easy to confuse the branch numbers."
   ]
  },
@@ -68,15 +91,17 @@
  },
  "chain": "shinsoku",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2219",
   "https://prtimes.jp/main/html/rd/p/000000002.000152399.html",
   "https://shinsoku-tcg.com/store-plans/akihabara-unification",
   "https://shinsoku-tcg.com/",
   "https://www.cardshop-shinsoku.jp/",
-  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/"
+  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/",
+  "https://www.cardshop-shinsoku.jp/info",
+  "https://x.com/shinsoku_akb2nd/status/2092065457650241808"
  ],
  "osm_id": null
 }

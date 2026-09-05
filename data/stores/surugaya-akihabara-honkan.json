@@ -104,10 +104,7 @@
     "close": "21:00"
    }
   ],
-  "regular_holiday": {
-   "ko": "연중무휴",
-   "en": "Open year-round"
-  },
+  "regular_holiday": null,
   "note": {
    "ko": "1F는 2026-09-07~09-13 개장 공사로 휴업하며 2F~7F는 정상 영업, 09-14에 1F가 포켓몬 카드 중심 트레카 전문층으로 리뉴얼 오픈한다. 8F 이벤트 스페이스는 이벤트 개최 시에만 이용할 수 있다.",
    "en": "1F is closed for renovation 7-13 Sep 2026 (2F-7F open as usual) and reopens on 14 Sep as a Pokemon-card trading card floor. The 8F event space is open only during events."
@@ -153,7 +150,7 @@
  "chain": "surugaya",
  "priority": 1,
  "confidence": "high",
- "verified_at": "2026-09-04",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html",
   "https://web.archive.org/web/20260226170852/https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html",
@@ -164,7 +161,8 @@
   "https://hjweb.jp/shop/12578/",
   "https://otaspoguide.com/1760/",
   "https://map.j-coin.jp/jcoinpay/spot/detail?code=S198101",
-  "https://commons.wikimedia.org/wiki/File:A-too_Suruga-ya_Akihabara.jpg"
+  "https://commons.wikimedia.org/wiki/File:A-too_Suruga-ya_Akihabara.jpg",
+  "https://www.suruga-ya.co.jp/ja/shop"
  ],
  "osm_id": "node/1916474573",
  "photo": {

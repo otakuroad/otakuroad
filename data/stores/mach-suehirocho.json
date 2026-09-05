@@ -100,12 +100,14 @@
  },
  "chain": "mach",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://matching-world.com/machichara-hobby/",
   "https://otadays.com/machi_akiba_closed/",
-  "https://akibatoreka.com/introduce/2572"
+  "https://akibatoreka.com/introduce/2572",
+  "https://x.com/Mach_Suehirocho",
+  "https://www.instagram.com/mach.suehirocho01"
  ],
  "osm_id": null
 }

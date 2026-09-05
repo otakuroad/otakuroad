@@ -21,7 +21,6 @@
   "used",
   "buyback",
   "idol_goods",
-  "johnnys",
   "sakamichi",
   "akb48",
   "hello_project",
@@ -30,8 +29,8 @@
   "concert_goods"
  ],
  "one_line": {
-  "ko": "자니즈·사카미치·AKB 등 아이돌 중고 굿즈를 파는 매입·판매 전문점",
-  "en": "Used idol goods for Johnny's, Sakamichi, AKB and Hello! Project, bought and sold"
+  "ko": "사카미치·이코노이조이·AKB 등 아이돌 중고 굿즈를 파는 매입·판매 전문점",
+  "en": "Used idol goods for Sakamichi, =LOVE/≠ME/≒JOY, AKB and more, bought and sold"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -81,11 +80,15 @@
  },
  "tips": {
   "ko": [
-   "생사진·팸플릿·우치와·펜라이트·CD/DVD 등 아이돌 굿즈 중고 매입 카운터가 있다.",
+   "생사진·팸플릿·우치와·펜라이트·CD/DVD 등 아이돌 굿즈 중고 매입 카운터가 있고, 매입 접수는 18:00까지다.",
+   "STARTO ENTERTAINMENT(구 자니즈) 관련 굿즈는 판매·매입 모두 종료했다. 지금은 사카미치 그룹·이코노이조이·카와이랩이 중심.",
+   "2026년 9월부터 매입 접수가 그룹·요일별로 '통상/사전예약만/직접반입만/휴지'로 나뉘므로 방문 전 X(@trio_cultures) 공지를 확인.",
    "공식 사이트보다 X(@trio_cultures) 쪽에 입고 정보가 자주 올라온다."
   ],
   "en": [
-   "A buyback counter takes used idol goods: raw photos, pamphlets, uchiwa, penlights and CDs/DVDs.",
+   "A buyback counter takes used idol goods - raw photos, pamphlets, uchiwa, penlights and CDs/DVDs - and buyback is accepted only until 18:00.",
+   "STARTO ENTERTAINMENT (the former Johnny's) goods are no longer sold or bought here; the focus is now Sakamichi groups, =LOVE/≠ME/≒JOY and KAWAII LAB.",
+   "From September 2026 buyback intake varies by group and by weekday - normal, appointment only, walk-in only, or suspended - so check the notice on X (@trio_cultures) before going.",
    "New stock is posted more often on X (@trio_cultures) than on the chain's own site."
   ]
  },
@@ -96,11 +99,12 @@
  "chain": "trio",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.trio-broadway.com/",
   "https://www.akibacultureszone.com/shop/29",
-  "https://www.akibacultureszone.com/shop/"
+  "https://www.akibacultureszone.com/shop/",
+  "https://www.akibacultureszone.com/shopnews/4650"
  ],
  "osm_id": "node/9418944375"
 }

@@ -62,7 +62,7 @@
      "fri"
     ],
     "open": "13:00",
-    "close": "21:00"
+    "close": "20:00"
    },
    {
     "days": [
@@ -71,15 +71,15 @@
      "hol"
     ],
     "open": "11:00",
-    "close": "21:00"
+    "close": "20:00"
    }
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "카드러시 공식 사이트가 전 점포 공통 영업시간으로 안내하는 시간이다. 이 점포는 2026년 7월까지 '임시휴업 중'으로 표시돼 있었으므로 방문 전 공식 X(@cardrush_) 확인 권장.",
-   "en": "These are the hours the official site gives as common to all Card Rush stores. This branch was still flagged as temporarily closed in July 2026, so check the shop's X account (@cardrush_) before going."
+   "ko": "점포 공식 X 프로필이 밝히는 시간이다. 카드러시 공식 사이트와 러시미디어는 전 점포 공통 21:00 마감으로 안내하지만 이 점포 계정만 20:00 마감으로 적고 있어 이른 쪽을 실었다.",
+   "en": "These are the hours on the branch's own X profile. The chain site and cardrush.media both give 21:00 as the closing time common to every branch, but only this branch's own account states 20:00, so the earlier time is used here."
   },
-  "source_url": "https://www.cardrush.jp/page/57"
+  "source_url": "https://x.com/cardrush_"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -98,13 +98,13 @@
  "tips": {
   "ko": [
    "공식 사이트 점포 목록에 이 점포는 '매입 취급 타이틀'만 실려 있다. 카드를 사려면 역 앞 BiTO AKIBA PLAZA 7층 0호점TC나 오모리빌딩의 2호점으로 간다.",
-   "2026년 7월 초까지 공식 사이트에 '※只今臨時休業中'으로 표시돼 있다가, 9월 현재 '秋葉原1号店：買取センター'로 바뀌었다. 재개 직후라 영업 상태가 유동적일 수 있다.",
+   "2026년 7월 초까지 공식 사이트에 '※只今臨時休業中'으로 표시돼 있었고, 9월 현재는 그 문구가 사라지고 매입 취급 타이틀만 실려 있다. 점포 공식 X는 고액 매입 전문점으로 리뉴얼 오픈했다고 밝힌다.",
    "건물 간판은 2층·3층 모두 카드러시로 표시돼 있고, 공식 안내에서는 3층이 1호점, 2층이 1.5호점이다. 2층 사용 여부는 확인되지 않았다.",
    "면세·카드 결제 안내는 공식 페이지에 없다."
   ],
   "en": [
    "On the official store list this branch shows only a buyback title list. To buy cards, use the 0号店TC on 7F of BiTO AKIBA PLAZA by the station, or the No.2 store in the Omori Building.",
-   "Until early July 2026 the official page carried a '※只今臨時休業中' (temporarily closed) notice here; as of September it reads '秋葉原1号店：買取センター'. The reopening is recent, so trading may still be irregular.",
+   "Until early July 2026 the official page carried a '※只今臨時休業中' notice here; as of September the notice is gone and the block lists only buyback titles. The store's own X says it has relaunched as a high-value buyback specialist.",
    "The building sign covers both 2F and 3F, and the official guide calls 3F the No.1 store and 2F the No.1.5 store; whether 2F is in use is unconfirmed.",
    "Tax-free and card payment are not stated on the official page."
   ]
@@ -116,7 +116,7 @@
  "chain": "card-rush",
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.cardrush.jp/page/67",
   "https://www.cardrush.jp/page/57",
@@ -125,7 +125,8 @@
   "https://web.archive.org/web/20260704010647/https://www.cardrush.jp/page/57",
   "https://cardrush.media/buying_prices_card_titles",
   "https://www.cardrush.jp/page/4",
-  "https://syndication.twitter.com/srv/timeline-profile/screen-name/cardrush_"
+  "https://syndication.twitter.com/srv/timeline-profile/screen-name/cardrush_",
+  "https://x.com/cardrush_"
  ],
  "osm_id": null
 }

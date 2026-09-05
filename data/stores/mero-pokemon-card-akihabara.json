@@ -57,10 +57,10 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "2026년 3월 트레카모올 5층 오픈 시 운영사가 공식 발표한 5층 영업시간이며 일본 트레카 디렉터리도 같은 시간을 싣는다. 개별 임시 휴업은 X(@MERO_akihabara)에 공지된다.",
-   "en": "These are the 5F hours the mall operator announced when the floor opened in March 2026, and Japanese card-shop directories list the same. Temporary closures are posted on X (@MERO_akihabara)."
+   "ko": "점포 공식 X(@MERO_akihabara)가 개점 공지에 직접 적은 시간이다. 운영사 BABY STEPS 공식 점포 페이지에는 세 지점 모두 10:30~19:00으로 실려 있지만, 아키하바라점이 매일 올리는 개점 공지는 11:00 개점이다.",
+   "en": "These are the hours the shop's own X account (@MERO_akihabara) states in its opening posts. The BABY STEPS corporate store pages list 10:30-19:00 for all three branches, but the Akihabara shop's own daily opening posts say it opens at 11:00."
   },
-  "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
+  "source_url": "https://x.com/MERO_akihabara/status/2053653476459393493"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -79,25 +79,29 @@
  "tips": {
   "ko": [
    "포켓몬카드 싱글 판매·매입만 하고 듀얼 스페이스는 두지 않아 대전 목적이라면 같은 층 배틀 스페이스를 쓰면 된다.",
-   "시부야·니혼바시·야마나시(고후, 후지요시다)에도 지점이 있는 체인이다."
+   "운영사는 주식회사 BABY STEPS이고, 공식 점포 안내에 실린 지점은 시부야·니혼바시·아키하바라 세 곳이다."
   ],
   "en": [
    "Singles sales and buyback only - there is no duel space in the shop itself, though the 5F floor has a shared battle space.",
-   "Part of a chain with branches in Shibuya, Nihonbashi and Yamanashi (Kofu and Fujiyoshida)."
+   "Run by BABY STEPS; the official store pages list three branches - Shibuya, Nihonbashi and Akihabara."
   ]
  },
- "official_url": null,
+ "official_url": "https://baby-steps.co.jp/stores/akihabara/",
  "sns": {
-  "x": "https://x.com/MERO_akihabara"
+  "x": "https://x.com/MERO_akihabara",
+  "instagram": "https://www.instagram.com/meromero_i/"
  },
  "chain": "mero",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
   "https://akihabara-cardmap.com/ja/shop/pokemon-card-specialty-store-mero-akihabara/",
-  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/"
+  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/",
+  "https://baby-steps.co.jp/stores/akihabara/",
+  "https://baby-steps.co.jp/stores/",
+  "https://x.com/MERO_akihabara/status/2053653476459393493"
  ],
  "osm_id": null
 }

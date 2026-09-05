@@ -73,7 +73,7 @@
   "source_url": "https://maidreamin.com/shop/detail.html?id=6"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -101,11 +101,14 @@
   ]
  },
  "official_url": "https://maidreamin.com/shop/detail.html?id=6",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/hg_maidreamin",
+  "instagram": "https://www.instagram.com/hg_maidreamin/"
+ },
  "chain": "maidreamin",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://maidreamin.com/shop/detail.html?id=6"
  ],

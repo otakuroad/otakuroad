@@ -41,8 +41,8 @@
   "new"
  ],
  "one_line": {
-  "ko": "유희왕·MTG·포켓몬 등 트레카 싱글과 오리파, 45석 대전 공간",
-  "en": "Yu-Gi-Oh!, MTG and Pokemon singles, oripa packs and a 45-seat duel space"
+  "ko": "유희왕·MTG·포켓몬 등 트레카 싱글과 오리파, 92석 대전 공간",
+  "en": "Yu-Gi-Oh!, MTG and Pokemon singles, oripa packs and a 92-seat duel space"
  },
  "building_id": null,
  "floors": [
@@ -120,7 +120,7 @@
  "chain": "card-rush",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.cardrush.jp/page/57",
   "https://akibatoreka.com/introduce/2363",

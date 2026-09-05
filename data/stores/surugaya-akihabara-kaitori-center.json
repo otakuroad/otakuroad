@@ -109,8 +109,8 @@
  },
  "chain": "surugaya",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html",
   "https://web.archive.org/web/20251219122459/https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html",

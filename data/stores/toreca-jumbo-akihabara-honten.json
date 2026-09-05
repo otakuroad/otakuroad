@@ -20,14 +20,13 @@
  "category": "trading_card",
  "tags": [
   "pokemon_card",
-  "one_piece_card",
   "singles",
   "buyback",
   "showcase"
  ],
  "one_line": {
-  "ko": "포켓몬카드·원피스카드 싱글을 사고파는 쇼케이스 중심 소형 매장",
-  "en": "Pokemon and One Piece card singles bought and sold in a small showcase shop"
+  "ko": "포켓몬카드 싱글을 사고파는 쇼케이스 중심 소형 매장",
+  "en": "Pokemon card singles bought and sold in a small showcase shop"
  },
  "building_id": null,
  "floors": [
@@ -75,11 +74,12 @@
  },
  "chain": "toreca-jumbo",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://x.com/jumboakiba",
-  "https://akihabara-cardmap.com/ja/shop/treca-jumbo-akihabara-main-store/"
+  "https://akihabara-cardmap.com/ja/shop/treca-jumbo-akihabara-main-store/",
+  "https://www.gdm.or.jp/crew/2026/0704/642199"
  ],
  "osm_id": "node/12697812024"
 }

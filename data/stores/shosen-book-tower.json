@@ -131,8 +131,10 @@
  "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
-  "level": "none",
-  "floors": []
+  "level": "floor",
+  "floors": [
+   "6F"
+  ]
  },
  "status": {
   "state": "open"
@@ -162,7 +164,7 @@
  "chain": "shosen",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.shosen.co.jp/tower/"
  ],

@@ -2,21 +2,29 @@
  "id": "maruru-akihabara-denpa-kaikan",
  "name": {
   "ko": "마루루 5호점",
-  "en": "Figure Shop MARURU 5th Store",
-  "ja": "フィギュアショップマルル5号店"
+  "en": "Omocha no MARURU 5th Store",
+  "ja": "おもちゃのMARURU5号店"
  },
  "synonyms": [
   "마루루",
   "마루루 전파회관점",
   "마루루 라디오센터점",
+  "오모차노 마루루 5호점",
   "MARURU 5호점",
   "MARURU 秋葉原電波会館店",
   "MARURU ラジオセンター店",
+  "おもちゃのMARURU5号店",
+  "おもちゃのマルル5号店",
+  "おもちゃのmaruru",
+  "フィギュアショップマルル5号店",
   "マルル5号店",
   "MARURU 5号店",
   "MARURU",
   "MARURU Denpa Kaikan",
-  "MARURU Radio Center"
+  "MARURU Radio Center",
+  "Omocha no MARURU",
+  "Figure Shop MARURU 5th Store",
+  "figure_maruru5"
  ],
  "category": "figure_hobby",
  "tags": [
@@ -63,16 +71,20 @@
   ]
  },
  "official_url": null,
- "sns": {},
+ "sns": {
+  "tiktok": "https://www.tiktok.com/@figure_maruru5"
+ },
  "chain": "maruru",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.gdm.or.jp/crew/2026/0311/626132",
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/2041329.html",
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/2089531.html",
-  "https://map.yahoo.co.jp/v3/place/dHXiXN02rn2"
+  "https://map.yahoo.co.jp/v3/place/dHXiXN02rn2",
+  "https://www.tiktok.com/@figure_maruru5",
+  "https://akiba.reload.co.jp/articles/figure-hobby-maruru-6-akihabara-open-2026/"
  ],
  "osm_id": null
 }

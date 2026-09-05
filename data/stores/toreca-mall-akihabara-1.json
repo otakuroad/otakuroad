@@ -79,8 +79,8 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "11:00-19:00은 2026년 3월 5층 오픈 때 운영사가 공식 발표한 5층 영업시간이다. B1층과 입점 점포마다 영업시간이 달라(11:30-19:30, 12:00-19:30 등) 방문 전 각 점포 X 계정 확인이 필요하다.",
-   "en": "11:00-19:00 is the 5F time the operator announced when the 5F floor opened in March 2026. B1F and individual booths keep different hours (11:30-19:30, 12:00-19:30 and so on), so check each shop's X account first."
+   "ko": "11:00-19:00은 2026년 3월 5층 오픈 때 운영사가 공식 발표한 5층 영업시간이다. B1층 점포도 대체로 같지만(신소쿠 11:00-19:00) 12:00에 여는 곳도 있어 방문 전 각 점포 X 계정 확인이 필요하다.",
+   "en": "11:00-19:00 is the 5F time the operator announced when the 5F floor opened in March 2026. Most B1F booths keep the same hours (Shinsoku 11:00-19:00), but some open at 12:00, so check each shop's X account first."
   },
   "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
  },
@@ -102,12 +102,12 @@
   "ko": [
    "B1층은 싱글 판매와 매입 창구 중심이고, 5층은 배틀 스페이스와 크레인게임 코너 HAO 아키하바라가 함께 있다.",
    "매입 창구가 여러 점포에 나뉘어 있어 같은 카드를 점포별로 값 비교해 팔 수 있다.",
-   "B1층은 2024년 11월, 5층은 2026년 3월 오픈으로 입점 점포가 자주 바뀐다."
+   "B1층은 2024년 7월 13일, 5층은 2026년 3월 14일에 문을 열었고 입점 점포가 자주 바뀐다."
   ],
   "en": [
    "B1F is singles and buyback counters; 5F adds a battle space and the HAO Akihabara crane-game corner.",
    "Several separate buyback counters mean you can compare offers on the same card without leaving the floor.",
-   "B1F opened in November 2024 and 5F in March 2026; the tenant line-up changes often."
+   "B1F opened on 13 July 2024 and 5F on 14 March 2026; the tenant line-up changes often."
   ]
  },
  "official_url": null,
@@ -117,7 +117,7 @@
  "chain": "toreca-mall",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
   "https://prtimes.jp/main/html/rd/p/000000002.000152399.html",
@@ -125,7 +125,9 @@
   "https://akihabara-cardmap.com/en/shop/torecamaall-akihabara-2nd-store/",
   "https://akiba.reload.co.jp/articles/trecamoor-laox-akihabara-expansion-2026/",
   "https://search.edion.com/e_store/spot/detail?code=0000004762",
-  "https://akiba.or.jp/store/s126"
+  "https://akiba.or.jp/store/s126",
+  "https://prtimes.jp/main/html/rd/p/000000064.000152399.html",
+  "https://x.com/toreca_maall"
  ],
  "osm_id": null
 }

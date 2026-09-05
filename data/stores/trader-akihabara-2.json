@@ -44,8 +44,8 @@
  "floor_guide": [
   {
    "floor": "1F",
-   "ko": "중고·신품 TV게임과 예약 접수, 피규어, 애니메이션 DVD·블루레이 (전 연령)",
-   "en": "Used and new console games with pre-orders, figures, anime DVD and Blu-ray (all ages)"
+   "ko": "중고·신품 TV게임과 예약 접수, 피규어, DVD·블루레이(애니메이션 작품만)",
+   "en": "Used and new console games with pre-orders, figures, and DVD/Blu-ray (anime titles only)"
   },
   {
    "floor": "2F",
@@ -63,7 +63,7 @@
   "lng": 139.770354
  },
  "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-4-9 トレーダー2号店ビル1F・2F・3F",
+ "address_ja": "東京都千代田区外神田1-4-9",
  "hours": {
   "rules": [
    {
@@ -126,11 +126,13 @@
  "chain": "trader",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.e-trader.jp/akiba-trader-a102/",
   "https://www.e-trader.jp/",
-  "https://www.e-trader.jp/sns/"
+  "https://www.e-trader.jp/sns/",
+  "https://www.e-trader.jp/company/",
+  "https://www.e-trader.jp/news/urgent_notice/"
  ],
  "osm_id": "node/4247790089"
 }

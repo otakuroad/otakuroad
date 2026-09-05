@@ -52,29 +52,31 @@
   "ko": [
    "카운터 9석뿐인 소형 점포이고 예약·전세 대관은 받지 않는다.",
    "요금은 30분 500엔 차지에 1오더(음료 등) 주문제.",
-   "공식 홈페이지가 없다. 영업시간은 콘카페 디렉터리 기준 15:00-24:00 연중무휴로 실려 있지만 확정 정보가 아니므로 방문 전 X(@frapeko_akiba)를 확인하는 편이 좋다.",
+   "공식 홈페이지가 없다. 공식 인스타그램 프로필에는 '영업시간 15:00~22:00 연중무휴'라고 적혀 있지만 콘카페 디렉터리들은 22시·23시·24시 마감으로 제각각이라 확정할 수 없다. 방문 전 X(@frapeco_akiba)나 인스타그램을 확인하는 편이 좋다.",
    "신용카드 결제가 가능하다고 안내되어 있다."
   ],
   "en": [
    "Only nine counter seats, and the shop does not take reservations or private bookings.",
    "The system is a 500 yen charge per 30 minutes plus one order (a drink or similar).",
-   "There is no official website. Concafe directories list 15:00-24:00 daily with no regular holiday, but that is not confirmed, so check X (@frapeko_akiba) before going.",
+   "There is no official website. The shop's own Instagram profile says '15:00-22:00, open year-round', but the concafe directories variously give a 22:00, 23:00 or 24:00 close, so the hours are not settled; check X (@frapeco_akiba) or Instagram before going.",
    "Credit cards are listed as accepted."
   ]
  },
  "official_url": null,
  "sns": {
-  "x": "https://x.com/frapeko_akiba"
+  "x": "https://x.com/frapeco_akiba",
+  "instagram": "https://www.instagram.com/frapeco_akiba/"
  },
  "chain": null,
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://concafenavi.com/store/frapeco",
   "https://shop.caferun.jp/shop/11152/",
   "https://concafenavi.com/shop-search/?type=area&slug=akihabara",
-  "https://search.yahoo.co.jp/search?p=%22%E5%A4%96%E7%A5%9E%E7%94%B01-6-3%22+%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7"
+  "https://search.yahoo.co.jp/search?p=%22%E5%A4%96%E7%A5%9E%E7%94%B01-6-3%22+%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7",
+  "https://www.instagram.com/frapeco_akiba/"
  ],
  "osm_id": "node/10284207371"
 }

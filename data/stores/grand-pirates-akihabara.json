@@ -88,8 +88,8 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울에는 특별 연장 영업이 있고, 이벤트일에는 개점 시각이 앞당겨지므로 공식 사이트 News를 확인한다.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours and event days can open earlier, both announced in the site's News."
+   "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울에는 특별 연장 영업이 있고, 이벤트일에는 영업시간이 통째로 달라져 토요일에도 15:00 개점 23:00 폐점이 되기도 하니 공식 사이트 News를 확인한다.",
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours, and an event day can replace the normal hours outright - a Saturday event may run 15:00-23:00 - so check the site's News."
   },
   "source_url": "https://grand-pirates.com/access"
  },
@@ -131,14 +131,15 @@
  "chain": "toygroup",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://grand-pirates.com/",
   "https://grand-pirates.com/access",
   "https://grand-pirates.com/system",
   "https://grand-pirates.com/menu",
   "https://grand-pirates.com/notes",
-  "https://toygroup.jp/"
+  "https://toygroup.jp/",
+  "https://grand-pirates.com/news"
  ],
  "osm_id": "node/2277871454"
 }

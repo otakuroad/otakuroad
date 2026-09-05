@@ -71,14 +71,17 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "No closing day"
+  },
   "note": {
    "ko": "매입 접수는 19:30에 마감되며 19:00 이후에는 1회 10점까지만 받는다. 임시 휴업·시간 변경은 공식 사이트 공지와 X(@otachu_akiba)에 올라온다.",
    "en": "The buyback desk closes at 19:30 and takes at most 10 items per visit after 19:00. Temporary closures and changed hours are posted on the official site and on X (@otachu_akiba)."
   },
   "source_url": "https://otachu-akiba.com/1go/"
  },
- "tax_free": null,
+ "tax_free": false,
  "payment": "cards_ok",
  "secondhand": "both",
  "adult_content": {
@@ -95,14 +98,14 @@
  "tips": {
   "ko": [
    "매입은 19:30 접수 마감. 19:00 이후에는 1회 10점까지만 받으므로 팔 물건이 많으면 낮에 가는 편이 좋다.",
-   "신용카드(VISA·Master·JCB·AMEX·다이너스·디스커버·유니온페이), 교통계 IC(Suica·PASMO), iD·QUICPay·Edy·nanaco·WAON, PayPay·Alipay 결제가 가능하다.",
-   "면세 안내는 공식 사이트에 없으므로 여권 면세는 카운터에서 확인.",
+   "신용카드(VISA·Master·JCB·AMEX·다이너스·디스커버·유니온페이), 교통계 IC(Suica·PASMO), iD·QUICPay·Edy·nanaco·WAON, PayPay·Alipay·WeChat Pay 결제가 가능하다.",
+   "면세는 취급하지 않는다. 공식 영문 안내에 전 상품에 소비세 10%가 붙고 면세는 불가라고 적혀 있다.",
    "프라이즈·이치반쿠지 경품 피규어 비중이 높아 저가 중고 피규어를 찾는 사람에게 맞는다. 같은 체인의 2호점(트레카)·5호점(카드)은 도보 5분 거리다."
   ],
   "en": [
    "Buyback intake ends at 19:30, and after 19:00 they take only 10 items per visit, so come earlier if you are selling a lot.",
-   "Credit cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), transit IC cards (Suica, PASMO), iD, QUICPay, Edy, nanaco, WAON and PayPay/Alipay are accepted.",
-   "Tax-free is not mentioned on the official site, so ask at the counter if you want a passport refund.",
+   "Credit cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), transit IC cards (Suica, PASMO), iD, QUICPay, Edy, nanaco, WAON and PayPay, Alipay and WeChat Pay are accepted.",
+   "The shop does not offer tax-free: its own English page states that all items carry 10% consumption tax and that tax-free is unavailable.",
    "Much of the stock is prize and Ichiban Kuji figures, which suits cheap used-figure hunting. The chain's No.2 (cards) and No.5 (cards) branches are about five minutes away on foot."
   ]
  },
@@ -114,7 +117,7 @@
  "chain": "otachu",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://otachu-akiba.com/1go/",
   "https://otachu-akiba.com/1go/access/",
@@ -122,7 +125,9 @@
   "https://otachu-akiba.com/",
   "https://otachu.jp/shop/akihabara1/",
   "https://x.com/otachu_akiba",
-  "https://www.instagram.com/otachiyuu/"
+  "https://www.instagram.com/otachiyuu/",
+  "https://otachu-akiba.com/1go/about/",
+  "https://otachu-akiba.com/1go/anime-figure-store-us/"
  ],
  "osm_id": "node/6151393489"
 }

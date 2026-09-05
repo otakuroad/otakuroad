@@ -72,12 +72,12 @@
    "en": "Irregular closing days"
   },
   "note": {
-   "ko": "정기 휴일 없이 부정기로 쉬고, 공식 홈페이지에 점포 안내가 없어 휴무·시간 변경은 X(@torecaru_akiba)로만 공지된다. 위 시간은 트레카 매장 정보 사이트 '토레카 지도' 기재분이다.",
-   "en": "Closing days are irregular, and with no store page on the official site, closures and changes are announced only on X (@torecaru_akiba). The hours above are as listed by the Torecamap shop directory."
+   "ko": "정기 휴일 없이 부정기로 쉬고, 공식 홈페이지에 점포 안내가 없어 휴무·시간 변경은 X(@torecaru_akiba)로만 공지된다. 위 시간은 그 X 프로필에 적힌 '평일 13:00-21:00, 토·일·공휴일 11:00-20:00' 기재분이다.",
+   "en": "Closing days are irregular, and with no store page on the official site, closures and changes are announced only on X (@torecaru_akiba). The hours above are the ones stated in that X profile: weekdays 13:00-21:00, Sat/Sun/holidays 11:00-20:00."
   },
-  "source_url": "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2148"
+  "source_url": "https://x.com/torecaru_akiba"
  },
- "tax_free": null,
+ "tax_free": true,
  "payment": "cards_ok",
  "secondhand": "both",
  "adult_content": {
@@ -111,14 +111,17 @@
  },
  "chain": "torecal",
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2148",
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001",
   "https://torecaru.com/",
   "https://akibatoreka.com/introduce/2247",
-  "https://www.openstreetmap.org/way/80511949"
+  "https://www.openstreetmap.org/way/80511949",
+  "https://x.com/torecaru_akiba",
+  "https://syndication.twitter.com/srv/timeline-profile/screen-name/torecaru_akiba",
+  "https://map.pokemon-card.com/map/20121"
  ],
  "osm_id": null
 }

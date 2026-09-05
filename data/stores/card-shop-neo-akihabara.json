@@ -65,12 +65,12 @@
   "ko": [
    "2026년 1월 20일 개점. 3층 자리는 원래 카드숍 NEM이 쓰던 곳이라 오래된 안내나 지도 앱에는 아직 NEM으로 나오는 경우가 많다.",
    "PSA·CGC·BGS·ARS 감정(등급) 카드를 따로 취급하고, 유희왕·포켓몬 카드·원피스 카드·바이스 슈발츠·유니온 아리나를 함께 판다.",
-   "공식 홈페이지가 없고 영업시간·임시휴업 공지는 X(@NEO_AKB)에만 올라온다. 정오~13시 사이에 여는 편이라 오전 방문은 피하는 게 좋다."
+   "수요일·목요일이 정기휴무고 영업 시작은 13시다. 공식 홈페이지가 없어 영업일 변경과 임시휴업은 X(@NEO_AKB)에만 올라오니 방문 전에 확인한다."
   ],
   "en": [
    "Opened 2026-01-20. The 3F unit was previously Card Shop NEM, so older guides and map apps often still show NEM here.",
    "It keeps a separate case of PSA, CGC, BGS and ARS graded cards alongside Yu-Gi-Oh, Pokemon, One Piece, Weiss Schwarz and Union Arena singles.",
-   "There is no official website; hours and temporary closures are posted only on X (@NEO_AKB). It opens around midday, so a morning visit is wasted."
+   "Wednesday and Thursday are the regular closing days and the shop opens at 13:00. There is no official website, so changed opening days and temporary closures appear only on X (@NEO_AKB) - check before going."
   ]
  },
  "official_url": null,
@@ -80,14 +80,15 @@
  "chain": null,
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://1-3rdrealestate.com/diary-detail-579615/",
   "https://akihabara-cardmap.com/ja/shop/trading-card-shop-neo/",
   "https://akihabara-cardmap.com/en/shop/trading-card-shop-neo/",
   "https://akihabara-cardmap.com/en/list/",
   "https://note.com/index674/n/n73782d48e9ea",
-  "https://trerogu.blog.jp/archives/5718561.html"
+  "https://trerogu.blog.jp/archives/5718561.html",
+  "https://x.com/NEO_AKB"
  ],
  "osm_id": null
 }

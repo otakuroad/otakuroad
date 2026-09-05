@@ -89,7 +89,7 @@
   "source_url": "http://www.hs-tamtam.jp/shop/akihabara.html"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -121,7 +121,7 @@
  "chain": "tamtam",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "http://www.hs-tamtam.jp/shop/akihabara.html",
   "https://www.openstreetmap.org/node/1900555598",

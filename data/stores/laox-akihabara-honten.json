@@ -80,7 +80,7 @@
   "source_url": "https://laox-globalretailing.co.jp/laox_store/stores/akihabara/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -110,7 +110,7 @@
  "chain": "laox",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://laox-globalretailing.co.jp/laox_store/stores/akihabara/",
   "https://laox-globalretailing.co.jp/laox_store/stores/"

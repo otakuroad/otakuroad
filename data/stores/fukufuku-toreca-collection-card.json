@@ -104,12 +104,13 @@
  "chain": "fukufuku-toreca",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://fukufukutoreka.com/description_detail_collection_shop",
   "https://fukufukutoreka.com/",
   "https://www.fukufuku-toreka.com/",
-  "https://akibatoreka.com/introduce/2698"
+  "https://akibatoreka.com/introduce/2698",
+  "https://fukufukutoreka.com/description_detail_yugioh_collection"
  ],
  "osm_id": "node/11563517013"
 }

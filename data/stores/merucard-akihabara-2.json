@@ -109,11 +109,13 @@
   ]
  },
  "official_url": "https://akihabara-cardshop.com/shop/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/mercard_akiba2"
+ },
  "chain": "merucard",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-cardshop.com/shop/",
   "https://akihabara-cardshop.com/",

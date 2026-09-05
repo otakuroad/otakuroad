@@ -107,14 +107,15 @@
  "chain": "bandai-namco",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://bandainamco-am.co.jp/chara_shop/lovelive-officialstore/",
   "https://bandainamco-am.co.jp/chara_shop/lovelive-officialstore/NEWS/akihabara-atre/",
   "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/",
   "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20240529.html",
   "https://prtimes.jp/main/html/rd/p/000001363.000033062.html",
-  "https://www.atre.co.jp/akihabara/floorguide/27/113/"
+  "https://www.atre.co.jp/akihabara/floorguide/27/113/",
+  "https://bandainamco-am.co.jp/chara_shop/lovelive-officialstore/about/"
  ],
  "osm_id": "node/12896921947"
 }

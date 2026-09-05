@@ -78,8 +78,8 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "토요일은 평일과 같은 20:00 마감이고 19:00 마감은 일요일·공휴일뿐. 매입 접수는 폐점 15분 전까지.",
-   "en": "Saturday closes at 20:00 like weekdays; only Sunday and public holidays close at 19:00. Buyback counter closes 15 minutes before the shop."
+   "ko": "토요일은 평일과 같은 20:00 마감이고 19:00 마감은 일요일·공휴일뿐. 매입 접수는 폐점 15분 전, 듀얼 스페이스 이용은 폐점 10분 전까지.",
+   "en": "Saturday closes at 20:00 like weekdays; only Sunday and public holidays close at 19:00. The buyback counter closes 15 minutes and the duel space 10 minutes before the shop."
   },
   "source_url": "https://www.toreca-tradia.com/shop/"
  },
@@ -100,15 +100,15 @@
  "tips": {
   "ko": [
    "2021년 2월 듀얼 스페이스를 갖춘 넓은 점포로 옮기면서 '카드숍 빔스'에서 '트레카 전문점 토레디아'로 이름이 바뀌었다. 옛 간판·지도 표기(ビームス)로 검색해도 같은 곳이다.",
-   "매입 접수는 폐점 15분 전에 마감되므로 매각하려면 여유 있게 방문할 것.",
-   "같은 MN빌딩 3층에도 카드숍(트레카원)이 있어 한 건물에서 시세를 비교할 수 있다.",
-   "아키하바라역 쪽에는 같은 회사의 '토레디아 아키하바라 에키치카점'(외간다 1-13-1, 평일 13:00-21:00)이 따로 있다."
+   "매입 접수는 폐점 15분 전, 듀얼 스페이스 이용은 폐점 10분 전에 마감되므로 매각이나 플레이 목적이면 여유 있게 방문할 것.",
+   "같은 MN빌딩 3층 카드숍 CLIMAX(옛 트레카원 자리), 6층 트레카버스와 층만 옮겨 시세를 비교할 수 있다.",
+   "아키하바라역 쪽에는 같은 회사의 '토레디아 아키하바라 에키치카점'(외간다 1-13-1 Akiba1131.Bldg 3층, 평일 13:00-21:00, 토·일·공휴일 11:00-21:00)이 따로 있다."
   ],
   "en": [
    "The shop moved to this larger space with a duel area in February 2021 and renamed itself from Card Shop Beems to Tradia; older signage and map listings still say ビームス.",
-   "The buyback counter closes 15 minutes before the shop, so come early if you are selling.",
-   "Another card shop (Toreca ONE) sits on 3F of the same MN Building, so you can compare prices without leaving the building.",
-   "The same company runs a second branch near the station, Tradia Akihabara Ekichika (Sotokanda 1-13-1, weekdays 13:00-21:00)."
+   "The buyback counter closes 15 minutes and the duel space 10 minutes before the shop, so come early if you are selling or want to play.",
+   "Card Shop CLIMAX on 3F (the old Toreca ONE unit) and Torecabirth on 6F of the same MN Building let you compare prices without leaving the building.",
+   "The same company runs a second branch near the station, Tradia Akihabara Ekichika (Sotokanda 1-13-1, Akiba1131.Bldg 3F, weekdays 13:00-21:00, Sat/Sun/holidays 11:00-21:00)."
   ]
  },
  "official_url": "https://www.toreca-tradia.com/",
@@ -118,7 +118,7 @@
  "chain": "tradia",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.toreca-tradia.com/",
   "https://www.toreca-tradia.com/shop/",
@@ -126,7 +126,10 @@
   "https://www.toreca-tradia-dm.com/hpgen/HPB/entries/1.html",
   "https://www.cardshopbeems.jp/shop/",
   "https://torecamap.co.jp/column/akihabara/",
-  "https://www.akibagacha.com/"
+  "https://www.akibagacha.com/",
+  "https://x.com/toreca_tradia",
+  "https://www.climax-card.jp/info",
+  "https://map.pokemon-card.com/map/22064"
  ],
  "osm_id": "node/11779681423"
 }
