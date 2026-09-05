@@ -1,0 +1,8 @@
+# Cloudflare Pages project settings, kept in the repo so the dashboard and the CLI agree.
+#
+# Deploying by hand:  npx wrangler pages deploy dist --project-name otakuroad
+# The GitHub integration reads the build command and output directory from the dashboard, not from
+# this file, so keep the two in step: build = `npm run build`, output = `dist`.
+name = "otakuroad"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-09-05"
