@@ -73,8 +73,8 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "평일 11:00, 토·일·공휴일 10:00 개점. 공식 점포 페이지는 이 시간표를 코로나 대응에 따른 '당분간' 단축 영업으로 안내하고 있어 원래 시간(평일 10:00 개점)으로 되돌아갈 수 있다. 2층과 3층은 전화번호가 따로 있다.",
-   "en": "Opens 11:00 on weekdays and 10:00 at weekends and on public holidays. The official page still presents these as temporary Covid-era hours, so the earlier weekday 10:00 opening could return. 2F and 3F have separate phone numbers."
+   "ko": "평일 11:00, 토·일·공휴일 10:00 개점에 연중무휴. 2층과 3층은 전화번호가 따로 있다.",
+   "en": "Opens 11:00 on weekdays and 10:00 at weekends and on public holidays, open year-round. 2F and 3F have separate phone numbers."
   },
   "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html"
  },
@@ -115,7 +115,7 @@
  "chain": "surugaya",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html",
   "https://web.archive.org/web/20251215185447/https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html",
@@ -123,7 +123,8 @@
   "https://maron-no-kakurega.com/?mode=f2",
   "https://hjweb.jp/shop/12581/",
   "https://www.openstreetmap.org/node/5923650396",
-  "https://www.openstreetmap.org/way/89182756"
+  "https://www.openstreetmap.org/way/89182756",
+  "https://www.suruga-ya.co.jp/shop"
  ],
  "osm_id": "node/5923650396"
 }

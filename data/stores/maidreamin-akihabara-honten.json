@@ -106,13 +106,14 @@
  "chain": "maidreamin",
  "priority": 1,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://maidreamin.com/shop/detail.html?id=1",
   "https://maidreamin.com/shop/",
   "https://maidreamin.com/first/charge.html",
   "https://global.maidreamin.com/",
-  "https://akiba.or.jp/store/s189"
+  "https://akiba.or.jp/store/s189",
+  "https://maidreamin.com/hyper/"
  ],
  "osm_id": "node/4428508790"
 }

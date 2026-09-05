@@ -96,11 +96,13 @@
  "chain": "akiba-zettai",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akibazettai.com/shop/",
   "https://akibazettai.com/",
-  "https://www.homes.co.jp/archive/b-42429373/"
+  "https://www.homes.co.jp/archive/b-42429373/",
+  "https://akibazettai.com/english/",
+  "https://akibazettai.com/info/"
  ],
  "osm_id": "node/6517856033"
 }

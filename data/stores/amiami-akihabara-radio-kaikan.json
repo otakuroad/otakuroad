@@ -106,13 +106,14 @@
  "chain": "amiami",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/amiami/",
   "https://akihabara-radiokaikan.co.jp/floor/4f/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
   "https://akihabara-radiokaikan.co.jp/information/",
-  "https://www.taxfreeshops.jp/ja/shop/35171"
+  "https://www.taxfreeshops.jp/ja/shop/35171",
+  "https://realstore.amiami.jp/shop/shop1.html"
  ],
  "osm_id": "node/8969154420",
  "photo": {

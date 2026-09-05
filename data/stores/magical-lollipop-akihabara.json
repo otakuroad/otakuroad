@@ -39,7 +39,36 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原3F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트에는 영업시간 표기가 없어, 운영사 주식회사 YUKIMI가 낸 보도자료의 '평일 17시~23시, 토·일·공휴일 15시~23시'를 따랐다. 정기 휴무일은 공식 발표가 없다.",
+   "en": "The shop's own site publishes no hours; these follow operator YUKIMI's own press release - weekdays 17:00-23:00, Sat/Sun/holidays 15:00-23:00. No regular closing day is officially announced."
+  },
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000138894.html"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": null,
@@ -71,13 +100,16 @@
  "chain": "yukimi",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akiba-maidcafe.co.jp/magical-lollipop/",
   "https://akiba-maidcafe.co.jp/",
   "https://akiba-maidcafe.co.jp/en/",
   "https://akiba-maidcafe.co.jp/company/",
-  "https://www.homes.co.jp/archive/b-42429373/"
+  "https://www.homes.co.jp/archive/b-42429373/",
+  "https://prtimes.jp/main/html/rd/p/000000001.000138894.html",
+  "https://x.com/maid_Magical_L/status/2090077370711495102",
+  "https://x.com/maid_Magical_L/status/1112375243274772480"
  ],
  "osm_id": "node/11042181489"
 }

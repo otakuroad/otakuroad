@@ -93,17 +93,19 @@
    "Some map data lists it as 'トレカパック'; that is a mis-transcription of this same shop."
   ]
  },
- "official_url": "http://www.furu1.net/shop/_1106/_1908.html",
+ "official_url": "https://www.furu1.net/shop/shop0128.html",
  "sns": {},
  "chain": "toreca-park",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/treca-park/",
   "http://www.furu1.net/shop/_1106/_1908.html",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://akihabara-radiokaikan.co.jp/shop-list/"
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://www.furu1.net/shop/shop0128.html",
+  "https://akihabara-radiokaikan.co.jp/information/"
  ],
  "osm_id": "node/10136702417"
 }

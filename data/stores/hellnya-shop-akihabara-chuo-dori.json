@@ -39,33 +39,7 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル3F",
- "hours": {
-  "rules": [
-   {
-    "days": [
-     "mon",
-     "tue",
-     "wed",
-     "thu",
-     "fri",
-     "sat",
-     "sun",
-     "hol"
-    ],
-    "open": "11:00",
-    "close": "20:00"
-   }
-  ],
-  "regular_holiday": {
-   "ko": "연중무휴",
-   "en": "Open year-round"
-  },
-  "note": {
-   "ko": "공식 사이트(hermeow.shop)는 접속이 막혀 확인하지 못했고, 호비재팬 웹의 점포 정보와 개점 기사에 함께 실린 '11:00~20:00 / 연중무휴'를 옮긴 것이다. 방문 전 공식 X(@hermeow_shop) 확인 권장.",
-   "en": "The official site (hermeow.shop) could not be reached; these hours are transcribed from Hobby Japan Web's shop listing and its opening article, which both give 11:00-20:00, open year-round. Check the official X (@hermeow_shop) before visiting."
-  },
-  "source_url": "https://hjweb.jp/shop/2080869/"
- },
+ "hours": null,
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "new",
@@ -101,12 +75,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "medium",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://hjweb.jp/article/2069451/",
   "https://hjweb.jp/shop/2080869/",
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/2008459.html",
-  "https://akiba-asterisk.blog.jp/archives/59142970.html"
+  "https://akiba-asterisk.blog.jp/archives/59142970.html",
+  "https://sites.google.com/view/perorder/index"
  ],
  "osm_id": null
 }

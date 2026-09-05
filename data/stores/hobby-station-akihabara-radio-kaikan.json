@@ -103,12 +103,14 @@
  "chain": "hobby-station",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.hbst.net/shop/45/",
   "https://akihabara-radiokaikan.co.jp/shoplist/hobbystation/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://www.hbst.net/"
+  "https://www.hbst.net/",
+  "https://www.hbst.net/shop/30/",
+  "https://www.hbst.net/shop/"
  ],
  "osm_id": "node/10136672517"
 }

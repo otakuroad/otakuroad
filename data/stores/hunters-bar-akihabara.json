@@ -64,13 +64,13 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "90분 교체제로 운영되며 라스트오더는 예약 시간으로부터 50분 후. 예약은 TableCheck 웹 또는 전화로 받는다.",
-   "en": "Seating runs in 90-minute slots and last order is 50 minutes after your reserved start time. Book via TableCheck or by phone."
+   "ko": "평일은 자유 입장제로 혼잡할 때만 최대 120분 제한이 붙고, 토·일·공휴일은 90분 교체제다. 라스트오더는 예약 시간으로부터 50분 후. 예약은 1개월 전부터 웹에서 받고 당일 예약은 웹과 매장에서 받는다.",
+   "en": "Weekdays are free seating with a 120-minute cap only when it is busy; Saturdays, Sundays and public holidays run in 90-minute slots. Last order is 50 minutes after your reserved start time. Web bookings open a month ahead and same-day bookings are taken online or at the door."
   },
   "source_url": "https://paselabo.pasela.co.jp/hunters-bar/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -100,7 +100,7 @@
  "chain": "pasela",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://paselabo.pasela.co.jp/hunters-bar/",
   "https://www.pasela.co.jp/shop/akiba_multi/",

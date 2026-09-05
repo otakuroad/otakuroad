@@ -101,13 +101,16 @@
  "chain": "azone",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/azone-labelshop/",
   "http://azoneakiba.blog45.fc2.com/",
   "https://www.azone-int.co.jp/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://hjweb.jp/shop/8940/"
+  "https://hjweb.jp/shop/8940/",
+  "https://azoneakiba.blog.fc2.com/",
+  "https://akihabara-radiokaikan.co.jp/29459/",
+  "https://api.fxtwitter.com/ls_akihabara"
  ],
  "osm_id": null,
  "photo": {

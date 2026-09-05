@@ -31,6 +31,7 @@
   "pokemon_card",
   "yugioh",
   "figure",
+  "doujin",
   "character_goods",
   "sleeve"
  ],
@@ -74,10 +75,10 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "공식 홈페이지가 없어 영업시간은 점포 X 계정(@akb_rb_zaurus)과 아키바 트레카 맵 안내를 따른다. 평일·공휴일 11:00-21:00, 토·일 10:00-21:00이며, 오래된 디렉터리에는 아직 10:00-22:00으로 남아 있다.",
-   "en": "There is no official website, so the hours follow the shop's X account (@akb_rb_zaurus) and the Akiba trading-card map: 11:00-21:00 on weekdays and public holidays, 10:00-21:00 on Saturday and Sunday. Older directories still list 10:00-22:00."
+   "ko": "공식 홈페이지가 없어 영업시간은 점포 공식 X 계정(@akb_rb_zaurus) 프로필 안내를 따른다. 평일·공휴일 11:00-21:00, 토·일 10:00-21:00이며, 옛 계정(@rb_zaurus)과 오래된 디렉터리에는 아직 10:00-22:00으로 남아 있다.",
+   "en": "There is no official website, so the hours follow the shop's own X profile (@akb_rb_zaurus): 11:00-21:00 on weekdays and public holidays, 10:00-21:00 on Saturday and Sunday. The old account (@rb_zaurus) and older directories still list 10:00-22:00."
   },
-  "source_url": "https://akibatoreka.com/introduce/1463"
+  "source_url": "https://x.com/akb_rb_zaurus"
  },
  "tax_free": null,
  "payment": "cash_only",
@@ -111,12 +112,13 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
- "verified_at": "2026-09-05",
+ "confidence": "high",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akibatoreka.com/introduce/1463",
   "http://www.akiba-scope.net/sp/shop/836.html",
-  "https://map.yahoo.co.jp/v3/place/Kl-SvPmJk3-"
+  "https://map.yahoo.co.jp/v3/place/Kl-SvPmJk3-",
+  "https://x.com/akb_rb_zaurus"
  ],
  "osm_id": null
 }

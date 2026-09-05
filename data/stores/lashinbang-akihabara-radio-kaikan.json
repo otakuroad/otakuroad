@@ -59,15 +59,18 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴(건물 휴관일 제외)",
+   "en": "Open year-round except building closure days"
+  },
   "note": {
    "ko": "매입(買取) 접수는 11:45~18:00으로 판매 시간보다 짧고, 신작·준신작 위주로 받는다.",
    "en": "The buyback counter runs only 11:45-18:00 and focuses on recent and near-new items."
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%89%e3%81%97%e3%82%93%e3%81%b0%e3%82%93%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
  },
- "tax_free": null,
- "payment": "unknown",
+ "tax_free": true,
+ "payment": "cards_ok",
  "secondhand": "used",
  "adult_content": {
   "level": "none",
@@ -85,13 +88,13 @@
    "2024년 8월 8일 개점. 같은 자리에 있던 TRIO 라디오회관점과 IN·PuLse는 폐점했으므로 옛 정보를 보고 찾아가지 않도록 한다.",
    "매입 접수는 11:45~18:00이며 신작·준신작 중심이라 오래된 굿즈는 받지 않는 경우가 있다.",
    "캐릭터 굿즈·피규어 외에 블루레이/DVD/CD, 서적·동인지, 게임 소프트와 하드도 취급한다.",
-   "아키하바라의 라신방은 두 곳이며, 매장이 더 큰 신관은 AKIBA 컬처즈존 1~2층에 있다."
+   "아키하바라의 라신방은 세 곳이다. 매장이 더 큰 신관은 AKIBA 컬처즈존 1~2층에 있고, 나머지 하나는 성인 대상 AKIBA DEEP BASE(외신다 4-4-3)라 이 지도에는 없다."
   ],
   "en": [
    "It opened on 2024-08-08 over the former TRIO and IN・PuLse units, both now closed — do not follow older listings for this floor.",
    "Buyback is 11:45-18:00 only and is aimed at recent and near-new stock, so older goods may be turned away.",
    "Alongside character goods and figures it handles Blu-ray/DVD/CD, books and doujinshi, and game software and hardware.",
-   "Akihabara has two Lashinbang shops; the larger Shinkan is on 1F-2F of AKIBA Cultures Zone."
+   "Akihabara now has three Lashinbang shops: the larger Shinkan on 1F-2F of AKIBA Cultures Zone, this one, and the adults-only AKIBA DEEP BASE at Sotokanda 4-4-3, which is not on this map."
   ]
  },
  "official_url": "https://www.lashinbang.com/store/156/",
@@ -101,12 +104,15 @@
  "chain": "lashinbang",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%89%e3%81%97%e3%82%93%e3%81%b0%e3%82%93%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
   "https://akihabara-radiokaikan.co.jp/shop-list/",
-  "https://kaztsu.com/lashinbang-akihabara-radio/"
+  "https://kaztsu.com/lashinbang-akihabara-radio/",
+  "https://www.lashinbang.com/store/156/",
+  "https://api.lashinbang.com/api/get_store?id=156",
+  "https://akihabara-radiokaikan.co.jp/information/"
  ],
  "osm_id": null
 }

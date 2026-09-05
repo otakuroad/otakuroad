@@ -107,16 +107,20 @@
   ]
  },
  "official_url": "https://mtg.bigweb.co.jp/shop/akihabara",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/bigmagicakb"
+ },
  "chain": "big-magic",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/big-magic/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
   "https://akihabara-radiokaikan.co.jp/shop-list/",
-  "https://akibatoreka.com/introduce/1122"
+  "https://akibatoreka.com/introduce/1122",
+  "https://mtg.bigmagic.net/top.html",
+  "https://api.fxtwitter.com/bigmagicakb"
  ],
  "osm_id": null
 }

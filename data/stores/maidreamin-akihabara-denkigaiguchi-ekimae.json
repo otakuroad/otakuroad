@@ -82,8 +82,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 주오도리에 면한 7층짜리 다카라다 주오도리(宝田中央通り) 빌딩 3층. 같은 빌딩 2층에 메이드리밍 중앙통(中央通り)점이 따로 있으므로 3층까지 올라가야 하며, 옆 블록의 다른 건물 '宝田ビル'(外神田1-14-7)과도 헷갈리기 쉽다.",
-  "en": "One minute from the JR Akihabara Electric Town exit, on 3F of the seven-storey Takarada Chuo-dori Building facing Chuo-dori. A separate Maidreamin (Chuo-dori branch) sits on 2F of the same building, so go up to 3F; do not confuse the building with the nearby Takarada Building at 1-14-7."
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 주오도리에 면한 9층짜리 다카라다 주오도리(宝田中央通り) 빌딩 3층. 같은 빌딩 2층에 메이드리밍 중앙통(中央通り)점이 따로 있으므로 3층까지 올라가야 하며, 옆 블록의 다른 건물 '宝田ビル'(外神田1-14-7)과도 헷갈리기 쉽다.",
+  "en": "One minute from the JR Akihabara Electric Town exit, on 3F of the nine-storey Takarada Chuo-dori Building facing Chuo-dori. A separate Maidreamin (Chuo-dori branch) sits on 2F of the same building, so go up to 3F; do not confuse the building with the nearby Takarada Building at 1-14-7."
  },
  "tips": {
   "ko": [
@@ -105,12 +105,13 @@
  "chain": "maidreamin",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://maidreamin.com/shop/detail.html?id=4",
   "https://maidreamin.com/shop/",
   "https://maidreamin.com/first/charge.html",
-  "https://global.maidreamin.com/"
+  "https://global.maidreamin.com/",
+  "https://maidreamin.com/hyper/"
  ],
  "osm_id": null
 }

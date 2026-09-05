@@ -75,7 +75,7 @@
   },
   "source_url": "https://hobby.volks.co.jp/shop/hs_akihabara.html"
  },
- "tax_free": null,
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": "new",
  "adult_content": {
@@ -102,17 +102,20 @@
   ]
  },
  "official_url": "https://hobby.volks.co.jp/shop/hs_akihabara.html",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/vs_hsakihabara"
+ },
  "chain": "volks",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://hobby.volks.co.jp/shop/hs_akihabara.html",
   "https://www.volks.co.jp/radikan/",
   "https://akihabara-radiokaikan.co.jp/floor/8f/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://akihabara-radiokaikan.co.jp/information/"
+  "https://akihabara-radiokaikan.co.jp/information/",
+  "https://www.volks.co.jp/cs/news/20221117_01.html"
  ],
  "osm_id": null
 }

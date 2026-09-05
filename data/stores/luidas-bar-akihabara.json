@@ -66,7 +66,7 @@
   "source_url": "https://paselabo.pasela.co.jp/luidas_bar/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -96,7 +96,7 @@
  "chain": "pasela",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://paselabo.pasela.co.jp/luidas_bar/",
   "https://www.pasela.co.jp/shop/akiba_multi/",

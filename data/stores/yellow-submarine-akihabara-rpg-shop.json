@@ -114,10 +114,11 @@
  "chain": "yellow-submarine",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9frpg%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/",
-  "https://yellowsubmarine.co.jp/shop/"
+  "https://yellowsubmarine.co.jp/shop/",
+  "https://yellowsubmarine.co.jp/"
  ],
  "osm_id": "node/12000026269"
 }

@@ -10,13 +10,15 @@
   "풀 콤프",
   "훌콤프",
   "풀콤프 라디오회관",
-  "풀콤프 아키하바라",
+  "풀콤프 아키하바라 라디오회관",
   "Fullcomp",
-  "Full Comp Akihabara",
+  "Fullcomp Radio Kaikan",
   "fullcomp Radio Kaikan",
+  "FC Radio Kaikan",
   "フルコンプ",
-  "フルコンプ秋葉原",
-  "フルコンプ ラジオ会館店"
+  "フルコンプ秋葉原ラジオ会館",
+  "フルコンプ ラジオ会館店",
+  "FC秋葉原ラジオ会館店"
  ],
  "category": "trading_card",
  "tags": [
@@ -89,27 +91,30 @@
  },
  "tips": {
   "ko": [
-   "도쿄·가나가와에 12개 점포를 둔 중고 트레카 체인의 아키하바라 지점으로, 중고 싱글이 주력이고 서플라이·팩·구축덱은 신품이다.",
+   "전국 18개 점포를 둔 중고 트레카 체인의 라디오회관 지점으로, 중고 싱글이 주력이고 서플라이·팩·구축덱은 신품이다. 같은 체인이 아키하바라에 '풀콤프 아키하바라점'을 따로 두고 있으니 헷갈리지 말 것.",
    "9F 한 층에 카드라보 본점·BIG MAGIC과 함께 있어 같은 카드 시세를 세 매장에서 바로 비교할 수 있다.",
    "일부 지도 데이터에는 10F로 표기되어 있지만 공식 층안내 기준 9F가 맞다."
   ],
   "en": [
-   "The Akihabara branch of a used-TCG chain with 12 shops in Tokyo and Kanagawa: used singles are the core, while supplies, packs and pre-built decks are new.",
+   "The Radio Kaikan branch of a used-TCG chain with 18 shops nationwide: used singles are the core, while supplies, packs and pre-built decks are new. The chain runs a separate Fullcomp Akihabara shop elsewhere in the district, so do not confuse the two.",
    "Sharing 9F with Card Labo's main store and BIG MAGIC makes it easy to compare prices for the same card across three shops.",
    "Some map data lists it on 10F, but the official floor guide places it on 9F."
   ]
  },
  "official_url": "https://fullcomp.jp/radiokaikan/access/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/fullcomp_radio"
+ },
  "chain": "fullcomp",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://fullcomp.jp/radiokaikan/access/",
   "https://akihabara-radiokaikan.co.jp/shoplist/fullcomp/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://www.fullcomp.jp/"
+  "https://www.fullcomp.jp/",
+  "https://api.fxtwitter.com/fullcomp_radio"
  ],
  "osm_id": "node/10136712317"
 }

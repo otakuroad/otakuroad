@@ -60,7 +60,10 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
   "note": {
    "ko": "건물 개관은 10:00이지만 이 매장은 10:30 오픈. 임시 영업시간 변경은 라디오회관 공지에 '2F レンタルショーケース アストップ ラジオ会館店'로 게시된다.",
    "en": "The building opens at 10:00 but this shop opens at 10:30. Temporary hour changes are posted on the Radio Kaikan site as '2F レンタルショーケース アストップ ラジオ会館店' notices."
@@ -100,14 +103,15 @@
  "chain": "astop",
  "priority": 2,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/astop/",
   "https://www.astop.co.jp/radio",
   "https://www.astop.co.jp/radio/en/",
   "https://www.astop.co.jp/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://akihabara-radiokaikan.co.jp/shop-list/"
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://www.astop.co.jp/radio/about/"
  ],
  "osm_id": "node/10136676018"
 }

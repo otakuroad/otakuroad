@@ -14,10 +14,20 @@
   "Mach Akihabara",
   "Kuji Mach",
   "マッハ",
-  "マッハ ラジオ会館店",
-  "くじの専門店 マッハ"
+  "くじの専門店 マッハ",
+  "쿠지 마하",
+  "마하 아키하바라",
+  "Kuji Senmonten Mach",
+  "Mach Rajikan",
+  "くじ専門店マッハ",
+  "くじ専門店マッハ秋葉原ラジオ会館店",
+  "マッハ ラジ館店",
+  "くじ専門店マッハ 秋葉原ラジオ会館店",
+  "쿠지 전문점 마하 아키하바라 라디오회관점",
+  "Mach Kuji Store Akihabara Radio Kaikan",
+  "쿠지 전문점 마하 라디오회관점"
  ],
- "category": "figure_hobby",
+ "category": "anime_goods",
  "tags": [
   "kuji",
   "ichiban_kuji",
@@ -25,7 +35,13 @@
   "figure",
   "trading_card",
   "supplies",
-  "buyback"
+  "buyback",
+  "character_goods",
+  "tcg_singles",
+  "pokemon_card",
+  "one_piece_card",
+  "card_supply",
+  "new"
  ],
  "one_line": {
   "ko": "이치반쿠지 등 애니 쿠지를 한 장씩 뽑는 매장. 피규어·트레카도 판매",
@@ -81,12 +97,14 @@
   "ko": [
    "취급 쿠지는 일번쿠지(一番くじ)·세가 럭키쿠지·브로콜리 트레카 아이템 쿠지 등이며, 1회권 단위로 그 자리에서 뽑는다.",
    "쿠지 외에 트레카·피규어·서플라이도 함께 팔고 트레카 매입도 받는다.",
-   "건물은 10:00에 열리지만 이 매장은 11:00 개점이므로 아침 일찍 가면 헛걸음한다."
+   "건물은 10:00에 열리지만 이 매장은 11:00 개점이므로 아침 일찍 가면 헛걸음한다.",
+   "2023년 8월 ANIPLEX+ 아키하바라점 자리에 '쿠지 전문점 마하'로 문을 열었고, 라디오회관 안내에는 지금 '마하 라디오회관점'으로 실려 있다."
   ],
   "en": [
    "Prize draws on offer include Ichiban Kuji, Sega Lucky Kuji and Broccoli's trading-card item kuji, bought and drawn one ticket at a time.",
    "Besides kuji it sells trading cards, figures and supplies, and buys cards.",
-   "The building opens at 10:00 but this shop opens at 11:00, so an early visit is wasted."
+   "The building opens at 10:00 but this shop opens at 11:00, so an early visit is wasted.",
+   "Opened in August 2023 as 'Kuji Senmonten Mach' in the former ANIPLEX+ Akihabara unit; Radio Kaikan now lists it simply as 'Mach Radio Kaikan'."
   ]
  },
  "official_url": null,
@@ -96,12 +114,15 @@
  "chain": "mach",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/%e3%83%9e%e3%83%83%e3%83%8f-%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
   "https://akihabara-radiokaikan.co.jp/shop-list/",
-  "https://akihabara-radiokaikan.co.jp/information/"
+  "https://akihabara-radiokaikan.co.jp/information/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/%E3%81%8F%E3%81%98%E5%B0%82%E9%96%80%E5%BA%97%E3%83%9E%E3%83%83%E3%83%8F%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8%E5%BA%97/",
+  "https://akihabara-radiokaikan.co.jp/floor/1f/",
+  "https://www.gdm.or.jp/crew/2023/0802/499945"
  ],
  "osm_id": null
 }
