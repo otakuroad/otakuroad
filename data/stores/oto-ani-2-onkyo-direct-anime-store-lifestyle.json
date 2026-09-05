@@ -1,0 +1,114 @@
+{
+ "id": "oto-ani-2-onkyo-direct-anime-store-lifestyle",
+ "name": {
+  "ko": "온쿄 다이렉트 애니메 스토어 2호점",
+  "en": "ONKYO DIRECT ANIME STORE -Lifestyle- (Oto-Ani No.2)",
+  "ja": "ONKYO DIRECT ANIME STORE-Lifestyle-／音アニ2号店"
+ },
+ "synonyms": [
+  "온쿄 애니메 스토어 2호점",
+  "온쿄 다이렉트 애니메 스토어 라이프스타일",
+  "오토아니 2호점",
+  "音アニ2号店",
+  "音アニ",
+  "ONKYO DIRECT ANIME STORE -Lifestyle-",
+  "Oto-Ani No.2",
+  "onkyoanime lifestyle",
+  "オンキヨーダイレクトアニメストア"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "anime_collab",
+  "sake",
+  "wine",
+  "apparel",
+  "accessory",
+  "watch",
+  "earphone",
+  "headphone",
+  "tasting",
+  "new",
+  "official_store"
+ ],
+ "one_line": {
+  "ko": "애니·게임 콜라보 일본술과 의류·액세서리·손목시계를 파는 온쿄 직영 2호점",
+  "en": "ONKYO's second shop: anime-collab sake, apparel, accessories, watches and earphones"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703247,
+  "lng": 139.772645
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田5-6-2 オープンレジデンシア千代田外神田1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "월요일 휴무(월요일이 공휴일이면 영업하고 다음 날 화요일에 쉼)",
+   "en": "Closed Mondays; when Monday is a public holiday it opens and closes the following Tuesday instead"
+  },
+  "note": null,
+  "source_url": "https://onkyoanime-lifestyle.com/about"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 2분, 소토칸다 5초메 6번 블록에 선 13층 맨션 '오픈 레지덴시아 치요다 소토칸다'의 1층 노면 점포. 이어폰·커스텀 IEM 중심의 1호점(소토칸다 3-15-7 세키네빌딩)과는 걸어서 5분쯤 떨어진 별개 매장이다.",
+  "en": "Two minutes from Suehirocho station on the Ginza line, a street-level unit on the ground floor of the 13-storey Open Residencia Chiyoda Sotokanda condominium in Sotokanda 5-chome block 6. It is a separate shop about five minutes' walk from the earphone-focused No.1 store at Sotokanda 3-15-7."
+ },
+ "tips": {
+  "ko": [
+   "월요일 정기 휴무. 월요일이 공휴일이면 그날은 영업하고 다음 날 화요일에 쉰다.",
+   "이어폰·헤드폰과 귀 본뜨기 커스텀 IEM은 1호점이 본거지이고, 이 2호점은 콜라보 일본술·와인, 의류, 액세서리, 손목시계 같은 라이프스타일 상품이 중심이다.",
+   "음악 진동으로 숙성시킨 'Matured by ONKYO' 일본술·와인은 매장에서 시음해 볼 수 있다.",
+   "면세와 결제 수단에 대한 공식 안내가 없으므로 현금을 함께 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "Closed on Mondays; when a Monday is a public holiday the shop trades that day and closes on the Tuesday instead.",
+   "Earphones, headphones and ear-moulded custom IEMs belong to the No.1 store; this second shop leads with collaboration sake and wine, apparel, accessories and watches.",
+   "The 'Matured by ONKYO' sake and wine, aged with music vibration, can be tasted in the shop.",
+   "Neither tax-free service nor accepted payment methods are stated officially, so carry some cash."
+  ]
+ },
+ "official_url": "https://onkyoanime-lifestyle.com/",
+ "sns": {
+  "x": "https://x.com/ONKYO_ANIME_2"
+ },
+ "chain": "onkyo-direct",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://onkyoanime-lifestyle.com/about",
+  "https://onkyoanime-lifestyle.com/",
+  "https://onkyoanime.com/about",
+  "https://www.openstreetmap.org/way/175405172"
+ ],
+ "osm_id": null
+}

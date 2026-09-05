@@ -1,0 +1,106 @@
+{
+ "id": "toreca-lounge-annex-buying-center",
+ "name": {
+  "ko": "트레카라운지 별관 매입센터",
+  "en": "Toreca Lounge Annex Buying Center",
+  "ja": "トレカラウンジ別館買取センター"
+ },
+ "synonyms": [
+  "트레카라운지 별관",
+  "TCG 라운지 별관",
+  "TCG 라운지 매입센터",
+  "토레카라운지 별관 매입센터",
+  "トレカラウンジ別館",
+  "トレカラウンジ 買取センター",
+  "TCG LOUNGE 別館",
+  "TCG Lounge Annex",
+  "Toreca Lounge Kaitori Center",
+  "千住ビル5 2F"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "buyback",
+  "singles",
+  "used",
+  "no_duel_space"
+ ],
+ "one_line": {
+  "ko": "트레카 고액 매입 카운터 겸 판매점. 스에히로초역 도보 1분, 센주빌딩5 2층",
+  "en": "Trading card buying counter that also sells singles, a minute from Suehirocho station"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702116,
+  "lng": 139.772482
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-9-2 千住ビル5 2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 페이지에는 영업시간 12:00-19:00만 적혀 있고 정기 휴무일 표기는 없다. 본점 트레카라운지(11:00-20:00)보다 짧다.",
+   "en": "The official page lists only 12:00-19:00 and names no regular closing day. Shorter than the main Toreca Lounge shop (11:00-20:00)."
+  },
+  "source_url": "https://multiple.ltd/kaitori-center/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 센주빌딩5(千住ビル5) 2층이며 같은 건물 1층은 호비라운지, 5층은 트레카 비밀기지다.",
+  "en": "One minute from Suehirocho on the Ginza Line, seven from JR Akihabara. 2F of Senju Building 5; Hobby Lounge is on 1F and Toreca Himitsu Kichi on 5F of the same building."
+ },
+ "tips": {
+  "ko": [
+   "본점 트레카라운지(외신다 5-1-3 뉴 스에히로 빌딩 201)와는 다른 매장이다. 32석 라운지와 드링크바, 개인실은 본점에만 있고 이곳은 매입 카운터 중심이다.",
+   "매입 상담은 전화 090-8221-8796으로 미리 확인할 수 있다.",
+   "영업시간이 12:00-19:00으로 짧아 저녁 늦게 가면 닫혀 있다."
+  ],
+  "en": [
+   "This is not the main Toreca Lounge at Sotokanda 5-1-3 (New Suehiro Building 201): the 32-seat lounge, drink bar and private rooms are only at the main shop, while this annex is built around the buying counter.",
+   "You can check a buyback in advance by phone on 090-8221-8796.",
+   "The 12:00-19:00 window is short - arrive in the evening and it will already be shut."
+  ]
+ },
+ "official_url": "https://multiple.ltd/kaitori-center/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://multiple.ltd/kaitori-center/",
+  "https://multiple.ltd/akihabara/",
+  "https://multiple.ltd/",
+  "https://akihabara-cardmap.com/ja/list/",
+  "https://www.openstreetmap.org/way/506592478"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,113 @@
+{
+ "id": "mermaid-akihabara",
+ "name": {
+  "ko": "머메이드",
+  "en": "Cafe&Bar Mermaid",
+  "ja": "Cafe&Bar Mermaid（マーメイド）"
+ },
+ "synonyms": [
+  "마메이드",
+  "머메이드 아키하바라",
+  "카페앤바 머메이드",
+  "심해 콘셉트 카페 머메이드",
+  "Cafe&Bar Mermaid",
+  "Cafe＆BAR Mermaid",
+  "Mermaid Akihabara",
+  "mermaid_bar",
+  "マーメイド",
+  "マーメイド 秋葉原コンカフェ",
+  "カフェアンドバー マーメイド"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cafe_bar",
+  "late_night"
+ ],
+ "one_line": {
+  "ko": "심해 콘셉트 메이드 카페&바. 음료·간단한 식사와 캐스트 접객, 새벽 1시까지 영업",
+  "en": "Deep-sea concept maid cafe and bar: drinks, light food and cast service until 1:00am"
+ },
+ "building_id": null,
+ "floors": [
+  "9F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701248,
+  "lng": 139.772074
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-4-7 MTビル9階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "16:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 안내는 16:00~翌1:00(25:00)이지만 표에는 24:00으로 끊어 표기했다. 정기휴일은 없다.",
+   "en": "The official site states 16:00 to 1:00 the next morning; the table caps it at 24:00. No regular closing day."
+  },
+  "source_url": "https://akiba-mermaid.com/contact/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에서 한 블록 동쪽, 아키하바라역과 스에히로초역 사이 뒷골목의 10층짜리 MT빌딩 9층. 1층 입구에서 엘리베이터를 타고 9층으로 올라간다. 같은 건물 10층에는 운영이 다른 걸즈바가 있으므로 엘리베이터 층 표시를 확인한다.",
+  "en": "9F of the ten-storey MT Building, one block east of Chuo-dori on the back street between Akihabara and Suehirocho stations. Take the lift from the ground-floor entrance; a separate girls bar occupies 10F of the same building, so check the floor sign."
+ },
+ "tips": {
+  "ko": [
+   "16:00 개점이라 낮에는 문을 열지 않는다. 연중무휴이며 공식 안내상 마감은 다음 날 1:00이다.",
+   "요금 시스템과 메뉴가 공식 사이트에 이미지로만 올라와 있고 결제 수단 안내가 없으므로 현금을 준비하는 편이 안전하다.",
+   "당일 출근 캐스트는 공식 사이트 스케줄 페이지와 X(@mermaid_bar)에 매일 올라온다."
+  ],
+  "en": [
+   "Opens at 16:00, so it is shut during the day; open year-round, closing at 1:00 the next morning per the official site.",
+   "The charge system and menu are posted only as images and no payment methods are stated, so bring cash to be safe.",
+   "The cast working that day is posted daily on the official Schedule page and on X (@mermaid_bar)."
+  ]
+ },
+ "official_url": "https://akiba-mermaid.com/",
+ "sns": {
+  "x": "https://x.com/mermaid_bar",
+  "instagram": "https://www.instagram.com/mermaid_akiba/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-mermaid.com/",
+  "https://akiba-mermaid.com/contact/",
+  "https://akiba-mermaid.com/system/",
+  "https://lit.link/mermaidakiba",
+  "https://shop.caferun.jp/shop/6030/"
+ ],
+ "osm_id": "way/217384205"
+}

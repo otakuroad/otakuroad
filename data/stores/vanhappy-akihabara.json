@@ -1,0 +1,120 @@
+{
+ "id": "vanhappy-akihabara",
+ "name": {
+  "ko": "밴해피",
+  "en": "VanHappy",
+  "ja": "ヴァンハッピー"
+ },
+ "synonyms": [
+  "밴해피 아키하바라",
+  "반해피",
+  "뱅가드 전문점 밴해피",
+  "VanHappy Akihabara",
+  "Vanhappy",
+  "van-happy",
+  "ヴァンハッピー",
+  "カードファイト!! ヴァンガード専門店 ヴァンハッピー",
+  "ヴァンハッピー秋葉原",
+  "ハッピー商店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "vanguard",
+  "singles",
+  "sealed_box",
+  "oripa",
+  "buyback",
+  "duel_space",
+  "tournament"
+ ],
+ "one_line": {
+  "ko": "카드파이트!! 뱅가드 전문점. 싱글카드·미개봉 박스와 매일 대회",
+  "en": "Cardfight!! Vanguard specialist: singles, sealed boxes and daily tournaments"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702263,
+  "lng": 139.770508
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-7-13 河合ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 X 프로필 기준. 공식 웹사이트 점포 페이지에는 아직 '연중무휴 12:00-21:00'만 적혀 있어 토·일·공휴일 시간이 반영되지 않았다.",
+   "en": "Taken from the shop's X profile; the website's shop page still lists only 'open year-round 12:00-21:00' and does not show the longer weekend and holiday hours."
+  },
+  "source_url": "https://x.com/vanhappy_tcg"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 1층이 자매점 로르해피(디즈니 로르카나 전문점)인 가와이(河合) 빌딩의 3층으로, 같은 입구에서 위층으로 올라간다. 주오도리 서쪽 중고 PC·정크 상점 거리에 있으며 하드오프 아키하바라 2호관에서 북서쪽으로 20m 남짓.",
+  "en": "One minute from Ginza-line Suehirocho Station, seven from JR Akihabara. Third floor of the Kawai Building whose ground floor is the sister shop LorHappy; use the same entrance and go up. It sits on the used-PC and junk street west of Chuo-dori, about 20 m north-west of Hard Off Akihabara No.2."
+ },
+ "tips": {
+  "ko": [
+   "1층 로르해피(디즈니 로르카나)와 같은 운영사인 주식회사 핫피상점 매장으로, 두 곳 모두 2025년 6월에 열었다.",
+   "대회 참가 신청은 공식 X가 안내하는 Tonamel 페이지에서 받는다.",
+   "평일은 12시, 토·일·공휴일은 10시 개점으로 시작 시간이 다르다."
+  ],
+  "en": [
+   "Run by Happy Shoten, the same company as LorHappy (Disney Lorcana) on the ground floor; both opened in June 2025.",
+   "Tournament entries are taken through the Tonamel page linked from the shop's X profile.",
+   "Opening time differs by day: 12:00 on weekdays, 10:00 on weekends and public holidays."
+  ]
+ },
+ "official_url": "https://www.van-happy.com/",
+ "sns": {
+  "x": "https://x.com/vanhappy_tcg"
+ },
+ "chain": "happy-shoten",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.van-happy.com/view/page/shop",
+  "https://www.van-happy.com/view/company",
+  "https://www.van-happy.com/",
+  "https://x.com/vanhappy_tcg",
+  "https://www.lorhappy.com/view/company"
+ ],
+ "osm_id": null
+}

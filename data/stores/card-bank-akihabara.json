@@ -1,0 +1,120 @@
+{
+ "id": "card-bank-akihabara",
+ "name": {
+  "ko": "카드뱅크 아키하바라점",
+  "en": "Card Bank Akihabara",
+  "ja": "カードバンク秋葉原店"
+ },
+ "synonyms": [
+  "카드뱅크",
+  "카드 뱅크",
+  "카드뱅크 아키하바라",
+  "Card Bank",
+  "CardBank",
+  "card_bankshop",
+  "カードバンク",
+  "カードバンク秋葉原店",
+  "リバティー2号館7F",
+  "リバティー秋葉原2号店ビル",
+  "外神田1-15-14"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "duel_space",
+  "yugioh",
+  "weiss_schwarz",
+  "pokemon_card",
+  "buyback",
+  "upper_floor"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬·바이스 싱글 판매와 매입, 24석 듀얼 스페이스",
+  "en": "Yu-Gi-Oh, Pokemon and Weiss Schwarz singles with buyback and a 24-seat duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697683,
+  "lng": 139.772229
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-15-14 リバティー2号館7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu"
+    ],
+    "open": "14:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 홈페이지가 없어 영업시간은 공식 X 프로필 표기(평일~목 14:00-20:00, 금·토·일·공휴일 11:00-20:00)를 옮긴 것이다. 2023년 디렉터리에는 월~수 14:00, 목~일 11:00 개점으로 적혀 있어 목요일 개점 시간이 바뀐 것으로 보인다. 월~목 오전에는 열지 않는다.",
+   "en": "The shop has no website, so these hours are transcribed from its X profile (Mon-Thu 14:00-20:00, Fri-Sun and holidays 11:00-20:00). A 2023 directory listed Mon-Wed from 14:00 and Thu-Sun from 11:00, so Thursday appears to have moved. It does not open in the morning from Monday to Thursday."
+  },
+  "source_url": "https://x.com/card_bankshop"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1~2분, 라디오회관 남동쪽 블록의 세로로 긴 건물 7층. 지하 1층~4층은 리버티 아키하바라 2호점·6호점이므로 리버티 간판을 찾은 뒤 엘리베이터로 7층까지 올라가면 된다.",
+  "en": "One or two minutes from the JR Electric Town exit, on 7F of the narrow building in the block southeast of Radio Kaikan. B1 to 4F are Liberty Akihabara Stores 2 and 6, so find the Liberty signs and ride the elevator up to 7F."
+ },
+ "tips": {
+  "ko": [
+   "취급 타이틀은 유희왕 OCG·포켓몬 카드·바이스슈발츠·섀도우버스 에볼브·건담 카드게임과 이치반쿠지다.",
+   "듀얼 스페이스 24석이 있고 대회 참가자가 우선이다.",
+   "현금 외에 PayPay 결제가 되지만 신용카드 가능 여부는 확인되지 않았으므로 현금을 준비하는 편이 안전하다.",
+   "2023년 자료에는 5층으로 적혀 있으나 공식 X 프로필 기준 현재는 같은 건물 7층이다.",
+   "임시 휴업과 재입고는 공식 X(@card_bankshop)로만 공지된다."
+  ],
+  "en": [
+   "Titles handled are Yu-Gi-Oh OCG, Pokemon, Weiss Schwarz, Shadowverse Evolve, Gundam Card Game and Ichiban Kuji.",
+   "There is a 24-seat duel space, with tournament entrants given priority.",
+   "PayPay is accepted alongside cash, but credit-card acceptance is unconfirmed, so bring cash to be safe.",
+   "A 2023 listing put the shop on 5F; its own X profile now gives 7F of the same building.",
+   "Temporary closures and restocks are announced only on X (@card_bankshop)."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/card_bankshop"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://x.com/card_bankshop",
+  "https://akibatoreka.com/introduce/1118",
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%95%E2%88%92%EF%BC%91%EF%BC%94"
+ ],
+ "osm_id": null
+}

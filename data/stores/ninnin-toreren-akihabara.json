@@ -1,0 +1,90 @@
+{
+ "id": "ninnin-toreren-akihabara",
+ "name": {
+  "ko": "닌닌토레렌 아키하바라점",
+  "en": "Nin Nin Toreren Akihabara",
+  "ja": "ニンニントレレン秋葉原店"
+ },
+ "synonyms": [
+  "토레렌",
+  "닌닌 토레렌",
+  "닌닌 트레렌",
+  "트레카 렌탈 쇼케이스 닌닌",
+  "Toreren",
+  "Treren",
+  "Nin Nin Toreren",
+  "トレレン",
+  "ニンニントレレン",
+  "トレカ専門レンタルショーケース ニンニントレレン店",
+  "ホープビル5F",
+  "外神田3-10-6"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "rental_showcase",
+  "consignment",
+  "tcg_singles",
+  "small_shop",
+  "upper_floor"
+ ],
+ "one_line": {
+  "ko": "개인이 쇼케이스를 빌려 파는 트레카 전용 위탁 판매점",
+  "en": "Card-only rental showcase shop where individual sellers rent a case to sell cards"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70138,
+  "lng": 139.770845
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-10-6 ホープビル5F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 뒷골목(잔크도리) 쪽, 케밥집 '스타케밥 아키바테라스' 바로 옆의 호프빌 5층. 1층은 옷가게와 PC 가게가 늘어선 좁은 건물이라 입구의 층별 안내를 보고 올라가야 한다.",
+  "en": "On the back street west of Chuo-dori, in the Hope Building right next to the Star Kebab Akiba Terrace stand. The ground floor is a row of clothing and PC shops, so check the tenant board at the entrance before going up to 5F."
+ },
+ "tips": {
+  "ko": [
+   "일반 카드숍이 아니라 개인 출품자가 쇼케이스 한 칸을 빌려 파는 위탁 매장이라, 진열 내용이 수시로 바뀌고 같은 카드라도 케이스마다 가격이 다르다.",
+   "공식 영업시간 안내는 없다. 카드숍 디렉터리 토레카맵 기준 평일 13:00-20:00, 토·일·공휴일 11:00-20:00, 부정기 휴무.",
+   "듀얼 스페이스(플레이 공간)는 없다.",
+   "포켓몬 카드 전문점 닌닌(소토칸다 3-8-7 후지빌 2층)과 같은 회사가 2025년에 연 매장이다."
+  ],
+  "en": [
+   "Not a normal card shop: individual sellers rent a single showcase, so the stock changes constantly and the same card can carry different prices from case to case.",
+   "No official hours are published. The directory Torecamap lists 13:00-20:00 on weekdays and 11:00-20:00 on weekends and holidays, with irregular closing days.",
+   "There is no duel space.",
+   "Opened in 2025 by the company behind the Pokemon-card shop Nin-Nin at Sotokanda 3-8-7, Fuji Bldg 2F."
+  ]
+ },
+ "official_url": "https://nin-nin-pokeka.jp/",
+ "sns": {
+  "x": "https://x.com/treren_akiba"
+ },
+ "chain": "ninnin",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://nin-nin-pokeka.jp/",
+  "https://nin-nin-pokeka.jp/news",
+  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2200",
+  "https://x.com/treren_akiba",
+  "https://www.openstreetmap.org/way/88982663"
+ ],
+ "osm_id": null
+}

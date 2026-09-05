@@ -1,0 +1,128 @@
+{
+ "id": "ryusei-no-pao-akihabara-rocket-musen",
+ "name": {
+  "ko": "류세이노PAO 아키하바라 로켓무선점",
+  "en": "Ryusei no PAO Akihabara Rocket Musen",
+  "ja": "竜星のPAO秋葉原ロケット無線店"
+ },
+ "synonyms": [
+  "류세이노파오",
+  "류세이노 파오 아키하바라",
+  "파오 아키하바라",
+  "카드숍 류세이노PAO",
+  "竜星のPAO",
+  "カードショップ竜星のPAO秋葉原 ロケット無線店",
+  "竜星のPAO 秋葉原",
+  "PAO秋葉原",
+  "Ryusei no PAO",
+  "Ryuseino PAO Akihabara",
+  "Card Shop PAO Akihabara",
+  "ロケット無線店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "singles",
+  "buyback",
+  "pokemon_card",
+  "yugioh",
+  "duel_masters",
+  "one_piece_card",
+  "mtg",
+  "vanguard",
+  "weiss_schwarz",
+  "new",
+  "used",
+  "new_shop_2026"
+ ],
+ "one_line": {
+  "ko": "포켓몬·유희왕·원피스 등 20여 종 트레카 싱글카드 판매와 매입, 1~3층 규모",
+  "en": "Pokemon, Yu-Gi-Oh and One Piece singles, bought and sold across three floors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698658,
+  "lng": 139.769974
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-4-6 ロケットアマチュア無線本館ビル1階～3階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 13:00 개점, 토·일·공휴일은 10:00 개점으로 다르다. 구글 지도와 일부 카드숍 디렉터리는 매일 10:00-20:00으로 표기하지만 공식 점포 안내 기준은 평일 13:00이다.",
+   "en": "Opens at 13:00 on weekdays but 10:00 on weekends and public holidays. Google and some card-shop directories list 10:00-20:00 every day; the chain's own shop page gives 13:00 on weekdays."
+  },
+  "source_url": "https://pao-toreka.com/shop.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 4분, 주오도리 뒤 한 블록. '로켓 아마추어무선 본관 빌딩(ロケットアマチュア無線本館ビル)' 1~3층 전체를 쓴다. JR 고가 아래 무란AKIBA 본점과 오락실 도쿄 레저랜드 사이 블록이다.",
+  "en": "Four minutes west of JR Akihabara's Electric Town Exit, a block behind Chuo-dori. It takes the whole of 1F-3F of the Rocket Amateur Radio Honkan building, on the block between Mulan AKIBA under the JR viaduct and the Tokyo Leisure Land arcade."
+ },
+ "tips": {
+  "ko": [
+   "평일 개점이 13:00으로 늦다. 오전에 이 블록을 돌 계획이면 토·일·공휴일(10:00 개점)에 맞추는 편이 낫다.",
+   "포켓몬·유희왕·듀얼마스터즈·원피스·MTG·뱅가드·바이스슈바르츠 등 20종 이상을 다루며 판매와 매입을 함께 한다.",
+   "문의는 03-6206-9780, 점포 소식은 공식 X(@PAOtoreka_akiba)에 올라온다.",
+   "면세와 카드 결제 가능 여부는 공식 안내에 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "Weekday opening is a late 13:00; if you are working this block in the morning, come on a weekend or public holiday when it opens at 10:00.",
+   "Over twenty titles - Pokemon, Yu-Gi-Oh, Duel Masters, One Piece, Magic, Vanguard, Weiss Schwarz - both sold and bought.",
+   "Phone 03-6206-9780; shop news is posted on the branch X account @PAOtoreka_akiba.",
+   "Tax-free and card acceptance are not stated anywhere official, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://pao-toreka.com/shop.html",
+ "sns": {
+  "x": "https://x.com/PAOtoreka_akiba"
+ },
+ "chain": "ryusei-no-pao",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://pao-toreka.com/shop.html",
+  "https://pao-toreka.com/",
+  "https://akihabara-cardmap.com/ja/list/",
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B01-4-6",
+  "https://www.openstreetmap.org/node/2388114580"
+ ],
+ "osm_id": null
+}

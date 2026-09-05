@@ -1,0 +1,109 @@
+{
+ "id": "anisugar-atre-akihabara",
+ "name": {
+  "ko": "애니슈가 아트레 아키하바라점",
+  "en": "Anisugar Atre Akihabara",
+  "ja": "あにしゅが アトレ秋葉原店"
+ },
+ "synonyms": [
+  "애니슈가",
+  "아니슈가",
+  "애니슈가 아키하바라",
+  "Anisugar",
+  "Anisugar Akihabara",
+  "Anisugar Atre Akihabara",
+  "あにしゅが",
+  "Anisugarアトレ秋葉原店",
+  "アニシュガー",
+  "anisugar_akiba"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "anime",
+  "character_goods",
+  "limited_goods",
+  "sweets",
+  "acrylic_stand"
+ ],
+ "one_line": {
+  "ko": "테이크아웃 애니 콜라보 스위츠. 도넛·푸딩에 캔뱃지·아크릴 스탠드 특전",
+  "en": "Takeout anime-collab sweets; donuts and puddings come with tin badges and acrylic stands"
+ },
+ "building_id": "atre-akihabara-1",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-17-6 アトレ秋葉原1 2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "아트레 아키하바라 1 건물 영업시간(10:00-21:00)과 같다. 아트레 매장 페이지와 브랜드 공식 점포 페이지 모두 같은 시간을 안내한다.",
+   "en": "Same as the Atre Akihabara 1 building hours (10:00-21:00); both the Atre shop page and the brand's own store page state these hours."
+  },
+  "source_url": "https://www.atre.co.jp/akihabara/shop/8883/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 개찰 바로 위, 아트레 아키하바라 1 2층 '컬처 & 굿즈' 층. 에스컬레이터로 2F에 올라가면 반다이남코 크로스 스토어·아이돌마스터 공식샵·캐라팝스토어 2호점·산세이도서점과 같은 층에 있는 테이크아웃 카운터이며 좌석은 없다.",
+  "en": "On 2F of Atre Akihabara 1, the station building right above JR Akihabara's Electric Town ticket gates. Ride the escalator to the 2F 'culture & goods' floor, shared with BANDAI NAMCO Cross Store, the iDOLM@STER official shop, CharaPop Store No.2 and Books Sanseido; Anisugar is a takeout counter with no seating."
+ },
+ "tips": {
+  "ko": [
+   "테이크아웃 전용이라 매장 내 좌석이 없다. 주문은 모바일 오더 시트에서 고른 뒤 계산대에서 확정한다.",
+   "콜라보 타이틀이 2주 안팎으로 바뀐다(2026년 9월 기준 '최애의 아이' 도넛, '5등분의 신부∗'). 방문 전 공식 X(@Anisugar_akiba)에서 현재 콜라보와 특전을 확인하는 편이 좋다.",
+   "도넛에는 트레이딩 캔뱃지, 푸딩에는 미니 아크릴 스탠드가 붙는다. 혼잡 시 1회 계산당 구매 개수가 제한될 수 있고 매장 내 교환(트레이드)은 금지다.",
+   "운영사는 애니메 유니버시티 코프(きゃらっとくじ 운영사)이며, 같은 브랜드의 다른 점포는 나카노 베이스에 있다."
+  ],
+  "en": [
+   "Takeout only, with no seating; you pick items on a mobile order sheet and confirm at the register.",
+   "Collaboration titles rotate about every two weeks (as of September 2026, Oshi no Ko donuts and The Quintessential Quintuplets*). Check the shop's X account (@Anisugar_akiba) for the current tie-in and its bonus item.",
+   "Donuts come with a trading tin badge and puddings with a mini acrylic stand. Per-transaction purchase limits may apply when busy, and trading goods inside the shop is not allowed.",
+   "Run by Anime University Coop, the company behind Charat Kuji; the brand's only other shop is at Nakano Base."
+  ]
+ },
+ "official_url": "https://au-coop.jp/pages/anisugar_akihabara",
+ "sns": {
+  "x": "https://x.com/Anisugar_akiba",
+  "instagram": "https://www.instagram.com/anisugar_akihabara/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://au-coop.jp/pages/anisugar_akihabara",
+  "https://au-coop.jp/pages/anisugar",
+  "https://www.atre.co.jp/akihabara/shop/8883/",
+  "https://www.atre.co.jp/akihabara/floorguide/27/113/",
+  "https://au-coop.jp/"
+ ],
+ "osm_id": null
+}

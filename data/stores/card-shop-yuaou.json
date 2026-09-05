@@ -1,0 +1,91 @@
+{
+ "id": "card-shop-yuaou",
+ "name": {
+  "ko": "카드숍 유아오",
+  "en": "Card Shop YUAOH",
+  "ja": "カードショップ遊亜王"
+ },
+ "synonyms": [
+  "유아오",
+  "유아왕",
+  "카드숍 유아왕",
+  "카드샵 유아오",
+  "遊亜王",
+  "カードショップ 遊亜王",
+  "ゆうあおう",
+  "YUAOH",
+  "Yuaou",
+  "yuaoh",
+  "NJ秋葉原3F"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "yugioh",
+  "pokemon_card",
+  "one_piece_card",
+  "weiss_schwarz",
+  "singles",
+  "duel_space",
+  "buyback",
+  "new"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬·원피스·바이스슈발츠 싱글과 8석 듀얼 스페이스를 갖춘 3층 카드숍",
+  "en": "Yu-Gi-Oh, Pokemon, One Piece and Weiss Schwarz singles with an eight-seat duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700363,
+  "lng": 139.775803
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区神田和泉町1-3-5 NJ秋葉原3F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아키하바라 전기가 쪽이 아니라 쇼와도리 건너 동쪽 간다이즈미초(神田和泉町) 사무실 거리에 있다. JR 아키하바라역에서 도보 4분, NJ아키하바라 빌딩 3층이며 1층 노면 점포가 아니므로 건물 입구의 층별 안내를 보고 올라간다.",
+  "en": "Not on the Electric Town side: it is east of Showa-dori in the Kanda-Izumicho office district. Four minutes on foot from JR Akihabara, on 3F of the NJ Akihabara building - there is no street-level shopfront, so check the building's floor board at the entrance and go up."
+ },
+ "tips": {
+  "ko": [
+   "매장 영업시간은 공식 사이트에 나오지 않는다. 회사 개요 페이지의 '10:00-22:00, 정기휴일 없음'은 온라인 스토어 기준으로 보이고, 트레카 디렉터리는 13:00-19:00에 화·수 휴무로 적고 있어 서로 다르다. 방문 전 공식 X(@YUAOH_CardShop) 확인 필수.",
+   "2026년 3월 문을 연 신규 매장으로 운영사는 주식회사 daffoo. 온라인 스토어와 매입(店頭買取·宅配買取)을 함께 운영한다.",
+   "매장 결제는 현금과 QR 결제로 안내되어 있다. 공식 사이트에 나오는 신용카드(VISA·MASTER·JCB·AMEX·DINERS)는 온라인 스토어 기준이므로 카운터에서 확인.",
+   "8석짜리 듀얼 스페이스가 있어 대전도 가능하다."
+  ],
+  "en": [
+   "The shop's opening hours are not published on the official site. Its company page says '10:00-22:00, no regular holiday', which appears to cover the online store, while a trading-card directory lists 13:00-19:00 closed Tuesday and Wednesday. Check the official X account (@YUAOH_CardShop) before going.",
+   "A new shop that opened in March 2026, run by daffoo Inc.; it also operates an online store and both counter and mail-in buyback.",
+   "In-store payment is listed as cash and QR codes. The credit cards named on the official site (VISA, Mastercard, JCB, AMEX, Diners) apply to the online store, so confirm at the counter.",
+   "There is an eight-seat duel space for play."
+  ]
+ },
+ "official_url": "https://yuaoh.jp/",
+ "sns": {
+  "x": "https://x.com/YUAOH_CardShop"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://yuaoh.jp/",
+  "https://yuaoh.jp/pages/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2621",
+  "https://www.geocoding.jp/api/?q=%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E7%A5%9E%E7%94%B0%E5%92%8C%E6%B3%89%E7%94%BA1-3-5"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,118 @@
+{
+ "id": "lammtarra-epicari-akiba",
+ "name": {
+  "ko": "람타라 에피카리 아키바",
+  "en": "Lammtarra Epicari Akiba",
+  "ja": "ラムタラエピカリアキバ"
+ },
+ "synonyms": [
+  "람타라",
+  "람타라 에피카리",
+  "람타라 에피카리아키바",
+  "에피카리 아키바",
+  "Lammtarra Epicari",
+  "Lammtarra Epicari Akiba",
+  "Epicari Akiba",
+  "ラムタラ エピカリアキバ",
+  "ラムタラ エピカリアキバ店",
+  "ラムタラエピカリ",
+  "エピカリアキバ"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "idol_goods",
+  "bromide",
+  "figure",
+  "novelty",
+  "buyback",
+  "used",
+  "r18"
+ ],
+ "one_line": {
+  "ko": "1층은 아이돌 생사진·굿즈와 엄선 피규어, 2~5층은 성인 영상물 매장",
+  "en": "Idol bromides and goods plus selected figures on 1F; adult video floors on 2F-5F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700553,
+  "lng": 139.771778
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-3-2 1F～5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 점포 페이지에는 '開店時間 10:00~22:30' 한 가지만 적혀 있고 요일별 차이나 정기휴일 안내는 없다.",
+   "en": "The official shop page states a single '10:00-22:30' with no per-day variation and no closing day."
+  },
+  "source_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "2F",
+   "3F",
+   "4F",
+   "5F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽, 돈키호테 아키하바라점과 애니메이트 ANNEX 사이에 낀 5층짜리 람타라 건물. JR 아키하바라역과 긴자선 스에히로초역 중간쯤이며 1층 입구로 바로 들어간다.",
+  "en": "On the east side of Chuo-dori, in the five-storey Lammtarra building wedged between Don Quijote Akihabara and the animate ANNEX, roughly midway between JR Akihabara and Suehirocho. Enter straight in on 1F."
+ },
+ "tips": {
+  "ko": [
+   "일반 상품은 1층뿐이고 2~5층은 성인 영상물 전용 층(공식 안내 기준 총 재고 약 10만 편)이다. 미성년자나 가족 동반이면 1층만 이용한다.",
+   "1층은 노기자카·사쿠라자카 계열을 중심으로 한 아이돌 생사진·굿즈 판매와 매입이 중심이고, 엄선 피규어와 잡화도 함께 놓인다.",
+   "면세와 카드 결제 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다.",
+   "같은 람타라 계열의 아키하바라점(外神田1-13-3)·메디아월드아키바(1-15-2)와는 다른 매장이다."
+  ],
+  "en": [
+   "Only 1F is general stock; 2F-5F are adult-video floors (the shop advertises about 100,000 titles). With minors or family, stay on 1F.",
+   "1F centres on buying and selling idol bromides and idol goods (Nogizaka and Sakurazaka groups above all), with selected figures and novelty items alongside.",
+   "Tax-free and card acceptance are not stated officially, so bring cash to be safe.",
+   "This is a different shop from the group's Lammtarra Akihabara (Sotokanda 1-13-3) and Lammtarra Media World Akiba (1-15-2)."
+  ]
+ },
+ "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/",
+ "sns": {},
+ "chain": "lammtarra",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/",
+  "https://www.lammtarra.com/shop_list/"
+ ],
+ "osm_id": "way/89182736"
+}

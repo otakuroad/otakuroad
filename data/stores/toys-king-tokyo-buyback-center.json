@@ -1,0 +1,126 @@
+{
+ "id": "toys-king-tokyo-buyback-center",
+ "name": {
+  "ko": "토이즈킹 도쿄 매입센터",
+  "en": "TOY'S KING Tokyo Buying Center",
+  "ja": "トイズキング東京買取センター"
+ },
+ "synonyms": [
+  "토이즈킹",
+  "토이즈킹 아키하바라점",
+  "토이즈킹 도쿄 카이토리센터",
+  "토이즈킹 매입센터",
+  "토이스킹",
+  "TOYSKING",
+  "TOY's King",
+  "Toys King Tokyo",
+  "TOYSKING Tokyo Buying Centre",
+  "トイズキング",
+  "トイズキング東京買取センター 秋葉原店",
+  "東京買取センター 秋葉原店",
+  "CROBIS秋葉原",
+  "クロビス秋葉原"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "buyback",
+  "used",
+  "no_sales_floor",
+  "figure",
+  "plastic_model",
+  "retro_toy",
+  "minicar",
+  "model_train",
+  "doll",
+  "sofubi",
+  "chogokin",
+  "radio_control",
+  "american_toy"
+ ],
+ "one_line": {
+  "ko": "레트로 완구·피규어·프라모델·미니카·철도모형 매입 전용 카운터, 판매 매장 없음",
+  "en": "Buy-only counter for retro toys, figures, plastic models, minicars and model trains"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702374,
+  "lng": 139.777649
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "〒110-0016 東京都台東区台東1-32-8 CROBIS秋葉原（クロビス秋葉原）1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매장 10:00-19:00, 연중무휴. 전화 접수(03-5817-8666)는 10:00-22:00로 더 길다. 공식 점포 데이터에는 '통상대로 영업 중'이라고 표시되어 있다.",
+   "en": "Counter 10:00-19:00 every day; the phone line (03-5817-8666) takes calls 10:00-22:00. The official shop data currently reads 'trading as normal'."
+  },
+  "source_url": "https://www.toysking.jp/shop-tokyo.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "쇼와도리 동쪽, JR 아키하바라역에서 도보 10분·긴자선 스에히로초역에서 도보 8분(히비야선 나카오카치마치역에서는 도보 6분). 다이토 1초메의 CROBIS 아키하바라(クロビス秋葉原) 빌딩 1층 노면 점포이며, 같은 1층에 자매점인 중고 의류 매입점 리아크로 아키하바라점이 들어와 있다.",
+  "en": "East of Showa-dori, ten minutes from JR Akihabara and eight from Ginza-line Suehirocho (six from Hibiya-line Naka-okachimachi). Street level of the CROBIS Akihabara building in Taito 1-chome; its sister used-clothing counter, Riakuro Akihabara, shares the same ground floor."
+ },
+ "tips": {
+  "ko": [
+   "매입 전용 창구라 진열·판매 매장이 없다. 구경하거나 살 것이 있다면 오지 않는 편이 낫다.",
+   "취급은 레트로 완구·피규어·프라모델·초합금·철도모형·인형·소프비·미니카·라디콘·게임센터 경품 등 완구 전반. 악기·카메라·오디오·낚시용품도 이 지점에서 받는다.",
+   "공식 점포 안내에 '현재 애플 제품은 취급 중지'라고 명시되어 있다.",
+   "원래 분쿄구에 있던 도쿄 매입센터가 이 다이토구 주소로 이전한 것이라, 오래된 안내에는 옛 주소가 남아 있을 수 있다."
+  ],
+  "en": [
+   "This is a buying counter only - there is no sales floor and nothing to browse.",
+   "It takes toys broadly: retro toys, figures, plastic models, chogokin, model trains, dolls, sofubi, minicars, radio control and arcade prizes. Instruments, cameras, audio gear and fishing tackle are also accepted here.",
+   "The official shop notice states that Apple products are currently not being accepted.",
+   "The Tokyo buying centre moved here from Bunkyo-ku, so older listings may still show the previous address."
+  ]
+ },
+ "official_url": "https://www.toysking.jp/shop-tokyo.html",
+ "sns": {
+  "x": "https://x.com/toyskingtokyo"
+ },
+ "chain": "toysking",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.toysking.jp/shop-tokyo.html",
+  "https://toysking.sakura.ne.jp/api_tenpo/data/message.json",
+  "https://www.toysking.jp/",
+  "https://www.toysking.jp/archive/shop.html",
+  "https://toysking.sakura.ne.jp/api_area/tempolist_o2.js"
+ ],
+ "osm_id": null
+}

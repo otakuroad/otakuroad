@@ -1,0 +1,117 @@
+{
+ "id": "toppa-base-akiba",
+ "name": {
+  "ko": "톳파 베이스 아키바",
+  "en": "TOPPA!!! BASE AKIBA",
+  "ja": "TOPPA!!! BASE AKIBA"
+ },
+ "synonyms": [
+  "톳파!!! 베이스 아키바",
+  "톳파 베이스",
+  "TOPPA BASE",
+  "TOPPA!!!BASE",
+  "TOPPA!!! BASE",
+  "トッパ!!! ベース アキバ",
+  "トッパベースアキバ",
+  "에큐트 아키하바라 톳파 베이스"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "collab_goods",
+  "limited_edition",
+  "gundam",
+  "photo_booth",
+  "new",
+  "official_store",
+  "inside_ticket_gate",
+  "station"
+ ],
+ "one_line": {
+  "ko": "JR 아키하바라역 개찰 안 굿즈점. 2주~2개월마다 바뀌는 애니·게임 콜라보 한정 굿즈",
+  "en": "Limited anime and game collaboration goods, inside the JR Akihabara ticket gates"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698554,
+  "lng": 139.77306
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-17-6 JR秋葉原駅構内 エキュート秋葉原（改札内1F）",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 21시, 토·일·공휴일은 20시 폐점. 개찰 안 점포라 역 영업시간을 따른다.",
+   "en": "Closes at 21:00 on weekdays and 20:00 at weekends and on public holidays; it sits inside the ticket gates and follows station hours."
+  },
+  "source_url": "https://www.ecute.jp/akihabara/shop/5640"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 1층 개찰 안 상업구역 에큐트 아키하바라 안, 전기가 출구 개찰구와 중앙 개찰구 사이 통로에 있다. 개찰 밖에서는 들어갈 수 없고 승차권이나 입장권이 필요하다.",
+  "en": "Inside the JR Akihabara ticket gates on the 1F concourse, in the ecute Akihabara zone between the Electric Town gate and the Central gate. It cannot be reached from outside the gates — you need a ticket or a platform ticket."
+ },
+ "tips": {
+  "ko": [
+   "개찰 안 매장이다. 아키하바라에서 환승하거나 내리는 김에 들르는 것이 가장 편하고, 그렇지 않으면 역무원에게 입장권(入場券)을 사서 들어간다.",
+   "취급 작품은 2주에서 2개월 주기로 통째로 바뀐다. 2025년 4월 개점 기획은 '기동전사 건담 지쿠아쿠스'였고, 여기서만 파는 한정 상품이 중심이다.",
+   "캐릭터·아티스트와 함께 찍는 디지털 촬영 서비스 'WithShot'을 매장에서 이용할 수 있다.",
+   "돗판(TOPPAN)이 운영하는 매장으로, 온라인 스토어는 Fan Xross 몰에 따로 있다."
+  ],
+  "en": [
+   "The shop is inside the gates, so it is easiest to visit while changing trains or leaving Akihabara; otherwise buy a platform ticket at the gate.",
+   "The whole line-up rotates every two weeks to two months. The April 2025 opening ran on Mobile Suit Gundam GQuuuuuuX, and the stock leans on items sold only here.",
+   "A digital photo service called WithShot lets you be photographed alongside a character or artist in the shop.",
+   "It is run by TOPPAN; the matching online store lives separately on the Fan Xross mall."
+  ]
+ },
+ "official_url": "https://www.ecute.jp/akihabara/shop/5640",
+ "sns": {
+  "x": "https://x.com/TOPPA_BASE"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.ecute.jp/akihabara/shop/5640",
+  "https://www.ecute.jp/akihabara/shop",
+  "https://www.holdings.toppan.com/ja/news/2025/04/newsrelease250401_1.html",
+  "https://fan-xross-mall.com/shops/toppa-base"
+ ],
+ "osm_id": null
+}

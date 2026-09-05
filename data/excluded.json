@@ -204,6 +204,434 @@
    "reason": "adult_only",
    "note": "Adults-only (18+) adult-goods store at 外神田1-2-7, open 10:00-22:00 and still trading. OSM way/181065609 is tagged shop=erotic; excluded under the same R-18 policy as M's rather than because it closed.",
    "source_url": "https://www.akibalovemerci.com/"
+  },
+  {
+   "name_ja": "秋葉原CandyBOX",
+   "reason": "closed",
+   "note": "Idol-live event space on 外神田4-6-2 いすゞビル3階 (capacity 100). The space opened 2015-04-17 as the maid cafe 秋葉原MOCHU PIT, closed 2016-12-31, reopened February 2017 as 秋葉原CandyBOX, and closed for good in January 2020; ライブ部 titles the page 秋葉原CandyBOX（閉店）. No exact final day was published, hence no date. E",
+   "source_url": "https://www.livebu.com/hall/8008"
+  },
+  {
+   "name_ja": "キャンディフルーツうさぎの館",
+   "reason": "closed",
+   "note": "Rabbit animal cafe / cosplay dining on 外神田4-6-2 いすゞビル9階, run by NCR; opened 2012-02-10 and closed 2016-06-19. Found while checking this building's occupants — it is a different shop from the still-open キャンディフルーツ秋葉原店 (外神田3-16-3 KTビル3F, record candy-fruit-akihabara), so the いすゞビル 9F name must never be",
+   "date": "2016-06-19",
+   "source_url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E9%A4%A8"
+  },
+  {
+   "name_ja": "スターリーフォレスト アキハバラ",
+   "reason": "closed",
+   "note": "Concept cafe on A-FRONT 5F (外神田4-4-8) run by Project Serene, opened late May 2020. The official Akihabara site posts a closing notice for the last day of trading, 2022-08-28; the Nagoya shops of the same brand continue, so only the Akihabara branch is denied. OSM node/9103735018 (スターリーフォレスト, amenity",
+   "date": "2022-08-28",
+   "source_url": "https://starry-forest.tokyo/"
+  },
+  {
+   "name_ja": "Maison de ROZE（メゾン・ド・ROZE）",
+   "reason": "closed",
+   "note": "Danso (male-costume) cafe & bar on 3F of MTビル, 外神田4-4-7. Its own X account posted on 2025-08-05: 「Maison de ROZEは8月30日をもちまして閉店する運びとなりました」. Sister shop of Maison de Eterna under the same operator.",
+   "date": "2025-08-30",
+   "source_url": "https://x.com/Maison_de_ROZE/status/1952710246817997042"
+  },
+  {
+   "name_ja": "Maison de Eterna（メゾン・ド・エテルナ）",
+   "reason": "closed",
+   "note": "Sheep-themed concept cafe & bar opened 2020-10-16 on 3F of MTビル, 外神田4-4-7. Closure inferred, not confirmed by a dated announcement: no official site, TikTok dormant since 2022, akihabara-bc.jp's 2025-04 concept-cafe survey lists it as gone, and its sister shop Maison de ROZE on the same floor closed"
+  },
+  {
+   "name_ja": "トレカONE",
+   "reason": "closed",
+   "note": "Closed 22 December 2024 (MNビル3F / ガチャポン会館3F). The shop's X account announced the closure on 2024-11-17, ended buyback on 2024-12-15 and ran a closing sale; akibatoreka.com and akihabara-bc.jp now list it as 閉店. カードショップCLIMAX moved into the same 3F unit at the end of May 2025. NOTE: data/stores/torec",
+   "date": "2024-12-22",
+   "source_url": "https://x.com/toreca_ONE"
+  },
+  {
+   "name_ja": "カードショップビームス秋葉原本店",
+   "reason": "closed",
+   "note": "Not a closure but a rename: became トレカ専門店トレーディア秋葉原本店 in February 2021 at the same MNビル4F. Deny-list it so the still-current OSM node named 'カードショップ　ビームス' (node/11779681423) is never seeded as a separate shop; it is covered by tradia-akihabara-honten.",
+   "source_url": "https://torecamap.co.jp/column/akihabara/"
+  },
+  {
+   "name_ja": "トレカ横丁 ドン・キホーテ秋葉原店5F",
+   "reason": "closed",
+   "note": "Claimed concession on 5F of Don Quijote Akihabara (外神田4-3-3), said to have opened 2022-11-23. Absent from the Donki official tenant list read 2026-09-05, where 5F is あっとほぉ～むcafé plus Donki's own cosplay hall, and absent from every card-shop directory checked (akibatoreka.com, torecamap.co.jp, akihab",
+   "source_url": "https://www.donki.com/store/shop_detail.php?shop_id=98"
+  },
+  {
+   "name_ja": "アニプレックス公式SHOP 秋葉原店",
+   "reason": "closed",
+   "note": "Directory phantom: no Aniplex shop exists inside ドン・キホーテ秋葉原店. Aniplex's only Akihabara outlet was ANIPLEX+ 秋葉原 (アニプレックス オンライン アンテナショップ) at 外神田1-15-16 秋葉原ラジオ会館1F, which closed after trading on 2023-06-18 per the official notice, and no replacement opened. The Donki tenant list read 2026-09-05 carries",
+   "source_url": "https://online.aniplex.co.jp/antennashop"
+  },
+  {
+   "name_ja": "トレカライザス秋葉原店（外神田3-6-1 丸山ビル6F）",
+   "reason": "closed",
+   "note": "The Toreca Rises branch that opened on 丸山ビル 6F on 2023-08-26 no longer trades under that name: the operator's own store list at torecarises.com lists no 秋葉原店 and no 丸山ビル address, keeping only 秋葉原駅前店 (エディオンAKIBA B1F) and 秋葉原買取センター in Akihabara. The 6F unit is now ホロカード秋葉原店 (successor record holocard-",
+   "source_url": "https://torecarises.com/"
+  },
+  {
+   "name_ja": "鉄道居酒屋LittleTGV",
+   "reason": "closed",
+   "note": "Railway-themed concept izakaya at 外神田3-10-5 イサミヤ第3ビル4F, open 2008-02-22 to 2025-08-31. Announced 2025-06-12, last-run party held 2025-08-30/31. The official site littletgv.com is STILL LIVE with the old address and hours and no closure notice, and the official X account @littletgv still carries the ",
+   "date": "2025-08-31",
+   "source_url": "https://raillab.jp/news/article/33112"
+  },
+  {
+   "name_ja": "トレカジャンボ 秋葉原2号店",
+   "reason": "closed",
+   "note": "Card shop opened 2023-03-03 at 外神田3-10-5 イサミヤ第三ビル2F (in the former CAFE EURO / TRY building on Junk-dori). Gone by October 2025, when エルドラード ポケモン館 took that 2F unit; the shop's X account @torekajumbo2 has been deleted and akihabara-cardmap.com no longer lists it. Exact final day not found, so no dat",
+   "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000172578.html"
+  },
+  {
+   "name_ja": "足湯喫茶 浪漫亭",
+   "reason": "closed",
+   "note": "Foot-bath concept cafe at 外神田1-6-1 外神田ビル1F, opened pre-2018-01-04 / grand 2018-06-02, sister venue of 巫女喫茶 秋葉亭 on the same floor. Closed 2022-01-16; the unit reopened in September 2022 as 月都「かぐや城」. Still tagged live in OSM as node/5479310977 (amenity=cafe, theme=miko, level=0) — seeding must never r",
+   "date": "2022-01-16",
+   "source_url": "https://note.com/momotaro999/n/nf1539034c2a7"
+  },
+  {
+   "name_ja": "巫女喫茶 秋葉亭",
+   "reason": "closed",
+   "note": "Miko-themed concept cafe at 外神田1-6-1 外神田ビル1F (built into the former 秋葉原神社 fit-out), pre-open 2017-11-16 / grand 2018-02-01. Closed during 2023 — month not published; the successor 巫女茶屋すずなり was already trading in the same torii-fronted unit by 2023-08-29 and closed in 2025-07. Still tagged live in OS",
+   "source_url": "https://maidcafe-guide.com/2022/01/31/maidcafe-guide-recommend-miko/"
+  },
+  {
+   "name_ja": "月都 かぐや城",
+   "reason": "closed",
+   "note": "Successor of 足湯喫茶 浪漫亭 in the same unit, 外神田1-6-1 外神田ビル1F, opened September 2022. Now marked 閉店 by maidcafe-guide.com; exact date not published. Listed here so the 外神田ビル1F unit's whole concept-cafe lineage stays on the deny-list.",
+   "source_url": "https://maidcafe-guide.com/2022/10/31/maidcafe-guide-kaguyajo-20221011/"
+  },
+  {
+   "name_ja": "巫女茶屋すずなり",
+   "reason": "closed",
+   "note": "Last concept cafe in the 外神田1-6-1 外神田ビル1F unit, successor to 巫女喫茶 秋葉亭 (visited there 2023-08-29). maidcafe-guide.com states 「※2025年７月をもって閉店しました」 — July 2025, exact day not published, so the date given is the end of that month and should be treated as month-precision.",
+   "date": "2025-07-31",
+   "source_url": "https://maidcafe-guide.com/2022/01/31/maidcafe-guide-recommend-miko/"
+  },
+  {
+   "name_ja": "Maison de chou chou（アキバあそび館7F）",
+   "reason": "closed",
+   "note": "No longer at 東京都千代田区外神田1-6-3 アキバあそび館7F; the 7F unit is occupied by すぽっとらいと (spotlight-akiba.com, active X/Instagram/TikTok/YouTube, 年中無休 17:00-23:00 / 25:00). Last traces are 2019 blog visits. Exact closing date not published. Do not re-seed from OSM node/6331247204.",
+   "source_url": "https://concafenavi.com/store/spotlight"
+  },
+  {
+   "name_ja": "Melty Charm（メルティーチャーム、アキバあそび館4F）",
+   "reason": "closed",
+   "note": "Not confirmable as trading under this name. The operator's own dotsweet.jp still lists it at 外神田1-6-3 アキバあそび館4F but has posted nothing since 2021-03-31; the same 4F unit is listed today as .Sweet（ドットスウィート）, and neither name is in ConCafeNavi's current Akihabara list. Do not re-seed from OSM node/633",
+   "source_url": "https://dotsweet.jp/"
+  },
+  {
+   "name_ja": "男装カフェ（アキバあそび館6F）",
+   "reason": "closed",
+   "note": "Never a trading name — only the generic descriptor on OSM node/6331247203 (level=5). 6F of アキバあそび館 is LaMule (18:00-23:00, 不定休). Deny-list the OSM node so a 'dansou cafe' pin is not re-created at 外神田1-6-3.",
+   "source_url": "https://shop.caferun.jp/shop/10487/"
+  },
+  {
+   "name_ja": "アキバあそび館（外神田1-8-8 岡嶋ビル1F〜6F）",
+   "reason": "closed",
+   "note": "The original amusement facility of that name, in the Okajima Building at 外神田1-8-8, closed 2011-05-23 ('永らくご愛顧いただきました「アキバあそび館」は5月23日をもちまして閉館いたします'). It is unrelated to the seven-storey concafe building at 外神田1-6-3 that now carries the name, and 1-8-8 岡嶋ビル is today コトブキヤ秋葉原館.",
+   "date": "2011-05-23",
+   "source_url": "https://kaiten-heiten.com/akiba-asobikan/"
+  },
+  {
+   "name_ja": "Cafe Chales",
+   "reason": "closed",
+   "note": "Was mapped at 小暮末広ビル5F (外神田3-15-6). No primary source ever confirmed it; 5F is occupied by the card buyer トレカマサイ, whose official access page gives 小暮末広ビル5階, 13:00-20:00 (不定休), with the move announced on its X account in August 2026. Deny-list so the OSM node is not reseeded.",
+   "source_url": "https://www.masai-tcg.com/about"
+  },
+  {
+   "name_ja": "LILIAN PICOLE ラビリント店",
+   "reason": "closed",
+   "note": "OSM-only name at 小暮末広ビル2F with no Japanese-source trace. That 2F unit is cafe MENU (collab cafe, opened under this name 2025-12-12) with the PABLO×MENU goods store alongside it. Deny-list so the stale OSM node is not reseeded.",
+   "source_url": "https://cafeandbar-menu.owst.jp/"
+  },
+  {
+   "name_ja": "メイドカフェ ぴなふぉあ ラビリント店",
+   "reason": "closed",
+   "note": "The maid cafe that held 小暮末広ビル2F; the chain's own X account states all shops went 無期限営業休止 after business on Monday 10 October (holiday), and maidcafe-guide marks the ラビリント店 page 【閉店】. Still listed as if open by tabelog, moe-sta and concafenavi, which is what put it into the sweep.",
+   "date": "2022-10-10",
+   "source_url": "https://x.com/akibapinafore"
+  },
+  {
+   "name_ja": "AKIBAアイドルクエストステージiQ（旧 Magic & Live iQ / Magic&Live bar iQ）",
+   "reason": "closed",
+   "note": "Idol theatre-bar at 東京都千代田区外神田4-4-9 松井ビル4F, home venue of ルルネージュ. Moved in from Roppongi in 2018 and renamed from Magic & Live iQ to AKIBAアイドルクエストステージiQ in July 2019. Eventernote marks the venue (閉店) and states 2021年9月閉店 — month precision only, so the day in this date is a placeholder; its last reco",
+   "date": "2021-09-30",
+   "source_url": "https://www.eventernote.com/places/10999"
+  },
+  {
+   "name_ja": "milk planet 秋葉原店（ミルクプラネット秋葉原店）",
+   "reason": "closed",
+   "note": "Maid cafe & bar at 東京都千代田区外神田3-16-13 秋葉原FTビル6F (tel 03-3525-8390), part of the planet group. Confirmed shut on site 2026-05-26: the building's tenant board no longer lists it on 6F and the branch X account (@milkplanet_akb) is gone; the closure date was never announced. One collector account (@billy",
+   "source_url": "https://maidcafe-guide.com/2026/06/10/milkplanetakihabara20260526/"
+  },
+  {
+   "name_ja": "Mizuiro days（みずいろでいず）",
+   "reason": "closed",
+   "note": "Night concept cafe/bar at 外神田3-16-13 秋葉原FTビル7F. No closure announcement was found, but MOESTA+ lists it as a 閉店店舗, the 7F unit is now listed as MaineCoon『メインクーン』, and there is no recent social activity under the name; treat as gone. Applies to OSM node/11823676908 'mizuiro days'.",
+   "source_url": "https://moe-sta.com/shops/3184"
+  },
+  {
+   "name_ja": "Minny（ミニー）",
+   "reason": "closed",
+   "note": "Not a closure but a rename: the concept cafe listed by directories at 外神田3-16-13 秋葉原FTビル10F now trades as コンカフェ MINERVAみに〜 on the same X account (@minny_concafe) with the same cast handles, and had already done so by 2026-01-18. Nothing called Minny operates in the building, so OSM node/11823676909 ",
+   "source_url": "https://x.com/minny_concafe"
+  },
+  {
+   "name_ja": "ナカデ電気商会",
+   "reason": "closed",
+   "note": "Electronics-parts shop of 60 years on 1F of 秋葉原電波会館 (外神田1-14-3). Closed its physical store on Sunday 2026-03-22 and moved fully online (sales resumed online 2026-04-06). The unit is now the エクストレカ oripa vending-machine shop. Live OSM still carries node/6241734132 ナカデ電気 (shop=electronics, level 0) at",
+   "date": "2026-03-22",
+   "source_url": "https://www.gdm.or.jp/crew/2026/0401/628996"
+  },
+  {
+   "name_ja": "タイガー無線",
+   "reason": "closed",
+   "note": "Heat-shrink tubing and wiring-accessory specialist on 1F of 秋葉原電波会館. Closed at the end of December 2025 (announced 2025-11-21); the space became a tourist-facing hobby shop (FIGURE HOBBY MARURU 6th store, March 2026). Exact final day not published. Live OSM still carries node/9232570461 タイガー無線 (shop",
+   "source_url": "https://www.gdm.or.jp/crew/2026/0401/628996"
+  },
+  {
+   "name_ja": "ミツワデンキ",
+   "reason": "closed",
+   "note": "Lamp specialist of 70+ years on the 中央通り side of 秋葉原電波会館. Closed in August 2025; the space became a coin-locker area. Exact final day not published. Live OSM still carries node/6241734128 ミツワデンキ (shop=electronics) alongside the newer node/13447448143 Coin Lockers.",
+   "source_url": "https://www.gdm.or.jp/crew/2026/0401/628996"
+  },
+  {
+   "name_ja": "くじとモバイルのマッハ 秋葉原本店（東京都千代田区外神田5-6-15 マツヤビル1F）",
+   "reason": "closed",
+   "note": "外神田5-6-15の店舗は営業を終え、秋葉原ラジオ会館1Fへ移転（2023-07-29プレオープン、2023-08-01グランドオープン）。現行店舗名は「マッハ ラジオ会館店 / くじ専門店マッハ秋葉原ラジオ会館店」で data/stores/mach-radio-kaikan.json に既出。 — The 外神田5-6-15 shop (Matsuya Building 1F, by Suehirocho) closed and relocated to Akihabara Radio Kaikan 1F; successor is mach-radio-kaikan. OSM node/",
+   "date": "2023-08-01",
+   "source_url": "https://akibatoreka.com/introduce/1154"
+  },
+  {
+   "name_ja": "娘娘美苑",
+   "reason": "closed",
+   "note": "China concept cafe on 3F of 秋葉原センタービル (外神田1-6-7), open since a 6/15 grand opening. Final day 2025-03-30; the shop's X account @22meien_akb announced 「娘娘美苑は3/30(日)にて最終日を迎えます」 and now reads 「娘娘美苑は2025年3月30日で幕を下ろしました」, and a 2025-03-31 post by @lanamaru_info (https://x.com/lanamaru_info/status/19066119",
+   "date": "2025-03-30",
+   "source_url": "https://x.com/22meien_akb"
+  },
+  {
+   "name_ja": "エンジェルドロップス",
+   "reason": "closed",
+   "note": "Angel-and-devil concept cafe on 4F of 秋葉原センタービル (外神田1-6-7), phone 03-6884-7126. コンカフェナビ marks it 【閉店】; Wayback shows the title was still clean on 2023-01-28 and already 【閉店】 on 2024-05-24, so it closed between those dates - no exact date published, hence no date field. Moe Handbook's weekly-updated ",
+   "source_url": "https://concafenavi.com/store/angeldrops"
+  },
+  {
+   "name_ja": "ヴァンガードストア（AKIHABARAゲーマーズ本店内・独立店舗として）",
+   "reason": "closed",
+   "note": "Merged, not shut down: from 2026-08-01 the Cardfight!! Vanguard official store relocated and reopened inside the ブシロードストア on 4F of AKIHABARAゲーマーズ本店 (外神田1-14-7). It keeps its own page on the Gamers site (detail.php?id=24) but no longer has its own shopfront, floor or hours, so it must never be seeded",
+   "date": "2026-08-01",
+   "source_url": "https://www.gamers.co.jp/shop/detail.php?id=24"
+  },
+  {
+   "name_ja": "ベルベット",
+   "reason": "closed",
+   "note": "Renamed, not closed. The concept cafe on 5F of 秋葉原M2ビル (東京都千代田区外神田3-15-6) now trades as メルティメア (Meltymare); the concafe staffing directory MORE still lists it as 'メルティメア(旧：ベルベット)' at 秋葉原M2ビル5階, and the shop's own X accounts use the new name only. No closing date was published. OSM node/5230312402 is",
+   "source_url": "https://morework.co.jp/shop-data-10878.php"
+  },
+  {
+   "name_ja": "ミリタリーショップ グルカ秋葉原（外神田3-2-9）",
+   "reason": "closed",
+   "note": "Airsoft and model-gun shop operated by 有限会社ジャングル at 外神田3-2-9. A move into the basement of ジャングル秋葉原1号店 planned for 2020-07-23 was postponed indefinitely (atpress 2020-07-16, https://www.atpress.ne.jp/news/219154), but by 2022-11-16 GDM reported the shop had relocated inside ジャングル秋葉原2号店 (秋葉原ラジオ会館7F) a",
+   "source_url": "https://www.gdm.or.jp/crew/2022/1116/464559"
+  },
+  {
+   "name_ja": "ミニチュアパーク",
+   "reason": "closed",
+   "note": "Historical/military miniature figure specialist at 千代田区外神田5-5-2 1F (Suehirocho), open about 20 years. The owner announced closure on X on 2022-12-16 after being told he needed long-term medical treatment; last day end of January 2023. A follow-up post on 2023-11-02 talks about the time 'since the cl",
+   "date": "2023-01-31",
+   "source_url": "https://x.com/miniature_park/status/1603957807447183360"
+  },
+  {
+   "name_ja": "レオナルドLG2",
+   "reason": "closed",
+   "note": "Second branch of the plastic-model shop Leonardo LG (LAND GRAGE). The official Leonardo LG site carries a notice: '2号店は2025年11月19日をもちまして閉店しました。本店は、今まで通り営業しております' - the main shop at 台東区上野3-3-4 continues and is recorded as leonardo-lg-ueno. OSM node/4950063751 (レオナルドLG2, 35.7031,139.771301, shop=toys)",
+   "date": "2025-11-19",
+   "source_url": "https://www.leonardolg.jp/"
+  },
+  {
+   "name_ja": "モンスターズ・ラボ 怪獣研究所（秋葉原店舗）",
+   "reason": "closed",
+   "note": "MONSTER'S LABO / 怪獣研究所, a Godzilla-centred kaiju sofubi specialist and rental showcase in the basement at 〒101-0021 東京都千代田区外神田3-10-5 T&K AKIBA BLDG B1 (TEL 03-5209-2850). The official site still runs the notice 「秋葉原店舗は９月末日をもちまして閉店させていただきました」 — owner 福田育夫 wound the shop down on turning 60 and now tra",
+   "date": "2019-09-30",
+   "source_url": "http://monsters-labo.com/"
+  },
+  {
+   "name_ja": "イエローサブマリン 秋葉原スケールショップ",
+   "reason": "closed",
+   "note": "Scale-model, military-kit and modelling-tool specialist of the Yellow Submarine chain, on 6F of 秋葉原スーパービル (外神田1-11-5). Closed 2023-12-03 when the building lease ended; remaining stock and reservations were transferred to イエローサブマリン秋葉原本店★ミント in Radio Kaikan 6F. The company said it hoped to reopen a sc",
+   "date": "2023-12-03",
+   "source_url": "https://yellowsubmarine.co.jp/news/scale_close1206/"
+  },
+  {
+   "name_ja": "アキバ体育倉庫",
+   "reason": "closed",
+   "note": "Bloomers-themed cosplay cabaret club (ブルマキャバクラ) on 3F of a Chuo-dori building in 外神田3丁目, a few doors from Dear Stage. Closed around 2025-05-20 — the date reported by the local watcher blog 秋葉原asterisk is approximate ('05月20日前後をもって一度閉店'); the shop blog has been dormant since 2024-09-26 and MOESTA lis",
+   "date": "2025-05-20",
+   "source_url": "https://akiba-asterisk.blog.jp/archives/59467653.html"
+  },
+  {
+   "name_ja": "ノンストップ",
+   "reason": "closed",
+   "note": "American-toy import shop (アメトイ: Marvel Legends, DC, WWE, Transformers, G.I. Joe, Star Wars) at 外神田6-16-5 ミヤマビル1F, near the Okachimachi end of the district; storefront opened only Fridays 17:00-21:00 and Saturdays 13:00-18:00. Its own site announced '諸事情により２０２６年５月末をもちまして、閉店いたしました'; after 2026-05-31 o",
+   "date": "2026-05-31",
+   "source_url": "https://web.archive.org/web/20260608145419/https://www.nonstop.co.jp/"
+  },
+  {
+   "name_ja": "トイショップ アルトリア",
+   "reason": "closed",
+   "note": "Figure sales-and-buyback shop on 3F (room 301) of 国際ビル, 外神田3-14-4, above the gyudon shop サンボ. No final trading day was ever announced; the date given is the 2019-02-23 site visit by the Akihabara shop-watch blog akhp.jp, which found the unit unlit on a Saturday evening with the shop sign gone from t",
+   "date": "2019-02-23",
+   "source_url": "https://akhp.jp/log/a201902.html"
+  },
+  {
+   "name_ja": "AKIBA COLORS",
+   "reason": "closed",
+   "note": "Basement live venue at 台東1-27-1 K3ビルB1F. Opened 2018-05-04 as AKIHABARA SIXTEEN Z and renamed AKIBA COLORS on 2018-07-31 (it in turn replaced 秋葉原SIXTEEN, closed 2017). No listed event after 2024-01-21, the official domain akiba-colors.com no longer resolves, and the newest Wayback snapshot is 2023-0",
+   "source_url": "https://www.eventernote.com/places/9523"
+  },
+  {
+   "name_ja": "秋葉原トークライブ BAR from scratch",
+   "reason": "closed",
+   "note": "Talk-live venue on 9F of 秋葉原SILビル, 外神田4-4-3. Gone under this name: a 2026 organiser ticket page for an event in the room calls it 「LIVE SPACE Q（旧 秋葉原トークライブBAR from scratch）」, and the old official domain fscratch.jp now shows a Rakko domain-parking page with no site. The room itself is still active (",
+   "source_url": "https://jcm-event.bitfan.id/events/18108"
+  },
+  {
+   "name_ja": "Cafe&Bar Suki Lab -スキラボ-",
+   "reason": "closed",
+   "note": "Concept cafe & bar at 東京都千代田区外神田3-6-14 深野ビル1F, opened 2021-10-08 by owner あおい. The shop's own CAMPFIRE page states 物件の都合上…2025年4月をもちまして、当店は『閉店』 — the lease could not be continued and it closed at the end of April 2025 after about three and a half years; a 'graduation live' was held 2025-08-17. Exact",
+   "date": "2025-04-30",
+   "source_url": "https://camp-fire.jp/projects/853918/view"
+  },
+  {
+   "name_ja": "メイドカフェmorecun（1号店）",
+   "reason": "closed",
+   "note": "Five-seat maid cafe at 東京都千代田区外神田3-2-7 石塚ビル202 (2F, directly above 橙幻郷), phone 03-3525-4842. Confirmed closed on a 2026-04-21 shop-by-shop check: the street sign had changed and an unrelated shop had taken the unit; morecun 2nd (外神田1-8-6 渡辺ビル3F) was found closed the same day, the two branches having",
+   "date": "2026-04-21",
+   "source_url": "https://maidcafe-guide.com/2026/05/13/morecun20260421/"
+  },
+  {
+   "name_ja": "秋葉原和堂（大正浪漫喫茶 秋葉原和堂）",
+   "reason": "closed",
+   "note": "Taisho-roman themed cafe / manga and net cafe with locking private study rooms at 外神田6-14-2 サカイ末広ビルB1F. Renamed from 和Style.Cafe on 2020-11-11; closure announced 2023-01-24 and final trading day 2023-01-31 (22:00 per the shop's Facebook notice). The 2F of the same building is now アキバ絶対領域 +e, so do n",
+   "date": "2023-01-31",
+   "source_url": "https://nagomi-cafe.com/news/news-560/"
+  },
+  {
+   "name_ja": "幽幻飯店",
+   "reason": "closed",
+   "note": "Jiangshi/China-neon concept cafe on 4F of OAK akihabara, 外神田3-1-10. Closure announced on its official X (@yuhgenhanten) with a closing greeting posted 2024-09-18; final day 2024-09-16. OSM node/4069513072 still carries the shop tagged 'description=閉店 / Closed' at level 4 and is the re-seeding risk. ",
+   "date": "2024-09-16",
+   "source_url": "https://x.com/yuhgenhanten"
+  },
+  {
+   "name_ja": "戦国コンセプトカフェ&バー もののぷ本丸御殿 秋葉原店",
+   "reason": "closed",
+   "note": "Sengoku/warring-states themed maid cafe & bar at 東京都千代田区外神田4-6-2 いすゞビル5F-B. Closed 2022-07-18; the closure was announced by the shop's own X account @akibamononopu on 2022-07-06. Its domain mononopu.com now hosts an unrelated sake company, and the brand's surviving Osaka (Namba) account later posted",
+   "date": "2022-07-18",
+   "source_url": "https://kaiten-heiten.com/mononopu-honmaru-akihabara/"
+  },
+  {
+   "name_ja": "時空魔法メイド喫茶 メイドカフェ クロノスゲート（CHRONOSGATE）",
+   "reason": "closed",
+   "note": "Time-and-clockwork themed maid cafe at 〒101-0021 東京都千代田区外神田4-6-1 シューマンビル2階, closed Sunday 2018-02-25. OSM still carries node/4903113484 (name CHRONOSGATE, amenity=cafe, level=2) with no check_date - this is the re-seeding risk. Nothing has traded under the name in Akihabara since.",
+   "date": "2018-02-25",
+   "source_url": "https://kaiten-heiten.com/chronos-gate/"
+  },
+  {
+   "name_ja": "魔法メイド喫茶アルティマ（魔法メイド学園アルティマ）",
+   "reason": "closed",
+   "note": "Magic-school maid cafe at 〒101-0021 東京都千代田区外神田4-6-1 シューマンビル3F (hours 平日14:00-5:00 / 土日祝12:00-5:00, budget 1,500 yen). Listed as 閉店 by concafego and con-ca.jp; no closing date was published, hence no date. Recruitment pages on caferun, moe-navi and con-cafe.jp are stale and still show it as hiring. O",
+   "source_url": "https://concafego.com/shop/f9944459fe76757af253ba61/"
+  },
+  {
+   "name_ja": "メイド投げ放題 テネブラエ（ゴシックメイドカフェ テネブラエ）",
+   "reason": "closed",
+   "note": "Gothic maid cafe at 〒101-0021 東京都千代田区外神田3-14-4 国際ビル2F-202, opened autumn 2020 (令和2年秋) first as メイド投げ放題 テネブラエ then renamed ゴシックメイドカフェ テネブラエ; hours were 平日16:00-24:00 / 土日祝11:00-24:00. Its X account's display name now reads 【閉店致しました。詳細はツイートを参照】テネブラエ; the official site tenebrae-maid.com no longer resol",
+   "source_url": "https://x.com/tenebrae_maid"
+  },
+  {
+   "name_ja": "トレカサーキット秋葉原店",
+   "reason": "closed",
+   "note": "Trading-card shop at 東京都千代田区外神田1-4-11 3F, pre-opened 2023-09-16 and grand-opened 2023-09-20. Its own X account announced on 2025-10-25 that the tenant contract had run out and trading would end on 2025-11-03; the shop then moved and was renamed ゴールデンホビー秋葉原店, reopening 2025-11-15 (the account is now ",
+   "date": "2025-11-03",
+   "source_url": "https://x.com/goldenhobby_akb"
+  },
+  {
+   "name_ja": "パレスゲート（秋葉原・銭谷ビル2F）",
+   "reason": "closed",
+   "note": "Concept cafe at 東京都千代田区外神田1-8-4 銭谷ビル2F, X @palacegate02, listed around 2022. The concafe directory MOESTA+ files it as 閉店店舗 and no closing date was published anywhere. The 2F unit has since carried other operators - Princess Gate (03-6260-9888, 13:00-23:00) and, from 2026-01-23, ルミナス プリンセス (17:00-25",
+   "source_url": "https://cafe-cherche.com/place/119251"
+  },
+  {
+   "name_ja": "まぜるーむCafe（旧店舗・東京都千代田区外神田1-5-8 末初ビル3F）",
+   "reason": "closed",
+   "note": "STALE ADDRESS, NOT A CLOSED SHOP. The shop itself is open and is published as mazeroom-cafe-akihabara; only its former premises must never be seeded. まぜる〜むcafé announced on 2019-08-23 that it was moving to 外神田3-7-12, closed 28-31 August 1919-08-28~31 for the move and reopened at the new address on 2",
+   "date": "2019-09-01",
+   "source_url": "https://x.com/mazeroomcafe/status/1164895669171081221"
+  },
+  {
+   "name_ja": "トレカループ 秋葉原店",
+   "reason": "closed",
+   "note": "Card shop on 2F of チチブ電機ビル, 外神田3-12-15, grand opening 2023-01-14. No dated closure announcement was found, so no effective date is claimed. Evidence that it is no longer trading: OSM node/1915327198 is tagged note=臨時閉店中 (temporarily closed); it is absent from akihabara-cardmap.com (121 Akihabara car",
+   "source_url": "https://www.openstreetmap.org/node/1915327198"
+  },
+  {
+   "name_ja": "秋葉原チェルモ（外神田6-14-1 日興ビル4F）",
+   "reason": "closed",
+   "note": "Moved out of Akihabara. The shop's own Jimdo site and torecamap.co.jp both give its current address as 東京都台東区上野6-3-15 大場ビル3階 (Okachimachi), phone 03-6284-3009. Only the stale akibatoreka.com entry still shows 外神田6-14-1 日興ビル4F with phone 03-5826-8283 and the line 秋葉原で25年銀座線末広町4番出口出て左30秒に移転. No final ",
+   "source_url": "https://cherumo-akihabara.jimdofree.com/%E5%BA%97%E8%88%97%E6%83%85%E5%A0%B1/"
+  },
+  {
+   "name_ja": "みんなでトレカ!! 秋葉原2号店（外神田3-9-10 日宝アキバ館1F）",
+   "reason": "closed",
+   "note": "Gone from its 日宝アキバ館1F unit. torecamap.co.jp's ~90-shop Akihabara list (read 2026-09-05) carries everyトレカ at exactly 外神田3-9-10 日宝アキバ館 1F and no みんなでトレカ entry at all, while akibatoreka.com/introduce/2581 still shows the 2023-07-29 grand opening. Evidence is directory-based and no closing date was ann",
+   "source_url": "https://torecamap.co.jp/column/akihabara/"
+  },
+  {
+   "name_ja": "遊楽舎ヒカル店",
+   "reason": "closed",
+   "note": "Trading-card and YouTuber-goods shop on 5F of ソフマップAKIBA④号店 アミューズメント館, 外神田1-10-8 平岡ビル. Opened July 2020 as a tie-up between the Himeji game/TCG shop 遊楽舎 and YouTuber ヒカル, billed at the time as one of Japan's largest card shops. Closure announced 2022-03-30 by the shop's own channel (COVID-era losses",
+   "date": "2022-05-31",
+   "source_url": "https://akiba-pc.watch.impress.co.jp/docs/wakiba/find/1411002.html"
+  },
+  {
+   "name_ja": "駿河屋 秋葉原トレカ・ボードゲーム館",
+   "reason": "closed",
+   "note": "Suruga-ya's trading-card and board-game floor at 外神田3-15-4 (2F). Ended trading 2026-08-30 per the company notice dated 2026-08-17: TCG stock is consolidated into 駿河屋 秋葉原本館 1F, which reopens 2026-09-14 as a Pokemon-card-focused floor, and this floor is taken over by the relocated 駿河屋 秋葉原ゲーム館, reopeni",
+   "date": "2026-08-30",
+   "source_url": "https://www.suruga-ya.co.jp/ja/node/2478"
+  },
+  {
+   "name_ja": "ブシロードTCGステーション秋葉原店",
+   "reason": "closed",
+   "note": "Bushiroad's official card-game shop and prize-exchange counter, opened in Akihabara in 2009 (bushiroad.co.jp/company/history) and closed 2020-06-30 after 11 years; the official notice reads 2020年6月30日(火)を持ちまして、ブシロードTCGステーション秋葉原店は閉店. A follow-up notice (bushiroad.com/information/114) moved the TCG St",
+   "date": "2020-06-30",
+   "source_url": "https://bushiroad.com/information/104"
+  },
+  {
+   "name_ja": "GEKIRIN（カードショップ GEKIRIN）",
+   "reason": "closed",
+   "note": "Card shop that occupied 5F of ホープビル at 外神田3-10-6. That 5F unit is now ニンニントレレン秋葉原店, confirmed both by the operator's official store list and by the Torecamap directory entry, so GEKIRIN is gone. OSM still carries node/5019147301 (name GEKIRIN, name:en Card Shop GEKIRIN, shop=toys, level=4, check_dat",
+   "source_url": "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2200"
+  },
+  {
+   "name_ja": "カードショップ GOLD DECK",
+   "reason": "closed",
+   "note": "Junk-dori trading card shop at 外神田3-11-2 ロックビル1F, on the same ground floor as the PC shop GENO QCPASS. Opened 2024-04-28 (first trading day reported as 5/3; Impress covered it 2024-05-21) and closed in late June 2024 - 閉店時期:2024年6月下旬, so no exact final day was published, hence no date. akihabara-bc.",
+   "source_url": "https://akihabara-bc.jp/heiten202406/"
+  },
+  {
+   "name_ja": "カードショップ雷雷 秋葉原店",
+   "reason": "closed",
+   "note": "Oripa-led Pokemon card shop at 外神田3-10-8 中澤ビル3F, opened 2023-08-04. Announced on its own X account on 2024-10-02 that it had to vacate the building on lease grounds and would close on 10/31 ('一時閉店'); from November 2024 the operator runs only its Kyoto main store plus mail-order (tcg-rairai.jp). No A",
+   "date": "2024-10-31",
+   "source_url": "https://x.com/rairai_tcg/status/1841433245969444998"
+  },
+  {
+   "name_ja": "カードマウンテン（外神田6-14-13 信越外神田ビル6F）",
+   "reason": "closed",
+   "note": "Moved, not closed. The One Piece card shop and pay-to-play card bar listed at 外神田6-14-13 信越外神田ビル6F (akibatoreka.com/introduce/2306, address point 35.703091/139.771225) now trades at 東京都千代田区神田淡路町1-19-8 千代田ビル4F, closed Mondays and Tuesdays, per its own Tonamel organisation page and torecamap.co.jp/sho",
+   "source_url": "https://torecamap.co.jp/shops/tokyo/r13001/s13001006/2260"
   }
  ]
 }

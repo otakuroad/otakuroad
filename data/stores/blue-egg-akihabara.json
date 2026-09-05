@@ -1,0 +1,111 @@
+{
+ "id": "blue-egg-akihabara",
+ "name": {
+  "ko": "블루에그",
+  "en": "BLUE EGG",
+  "ja": "BLUE EGG"
+ },
+ "synonyms": [
+  "블루 에그",
+  "블루에그 아키하바라",
+  "Blue Egg",
+  "BLUE EGG 秋葉原",
+  "ブルーエッグ",
+  "BLUE EGG アキバあそび館"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "cafe",
+  "bar",
+  "time_charge"
+ ],
+ "one_line": {
+  "ko": "메이드 카페 겸 바. 시간 요금 1시간 800엔에 1드링크 주문제",
+  "en": "Maid cafe and bar; 800 yen an hour plus a one-drink order"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699627,
+  "lng": 139.769601
+ },
+ "street_segment": null,
+ "address_ja": "〒101-0021 東京都千代田区外神田1-6-3 アキバあそび館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "14:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "공식 영업시간표에 월요일이 없다",
+   "en": "The official hours table does not list Monday"
+  },
+  "note": {
+   "ko": "공휴일 전날의 심야(夜更かし) 영업은 현재 중단 중이라고 공식 사이트에 적혀 있다. 콘카페 디렉터리에는 월 18:00-23:00, 금·토 13:00-05:00처럼 더 긴 시간이 실려 있어 서로 다르므로 방문 전 X(@BLUE__EGG__) 확인.",
+   "en": "The official site says late-night ('yofukashi') opening on the day before a holiday is currently suspended. Directories list longer hours (Mon 18:00-23:00, Fri/Sat 13:00-05:00), so check X (@BLUE__EGG__) before going."
+  },
+  "source_url": "https://blue-egg.tokyo/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 5분, 외신다 1-6-3의 7층짜리 '아키바아소비관(アキバあそび館)' 빌딩 5층. 1층 프라페코가 있는 건물 입구에서 위층으로 올라가면 층마다 다른 콘셉트 카페가 있고 그중 5층이 블루에그다.",
+  "en": "Five minutes west of the JR Akihabara Electric Town exit, on 5F of the seven-storey Akiba Asobikan building at Sotokanda 1-6-3. Enter past the ground-floor cafe Frapeko and go up; each floor holds a different concept cafe and BLUE EGG is the fifth."
+ },
+ "tips": {
+  "ko": [
+   "요금은 '고슈진사마'(남성 손님) 1시간 800엔, '오죠사마'(여성 손님) 1시간 500엔에 1드링크 주문제이며, 연장은 시간 단위로 과금된다.",
+   "공식 사이트와 콘카페 디렉터리의 영업시간이 서로 다르고 공휴일 전날 심야 영업도 중단 상태이므로 X 계정에서 당일 영업을 확인하는 편이 안전하다.",
+   "결제 수단에 대한 공식 안내가 없으므로 현금을 준비해 가는 편이 좋다."
+  ],
+  "en": [
+   "800 yen an hour for male guests ('goshujin-sama') and 500 yen an hour for female guests ('ojou-sama'), each with a one-drink order; extensions are charged by the hour.",
+   "The official site and the concafe directories disagree on hours, and late-night opening before holidays is suspended, so check the X account for the day's hours.",
+   "No payment methods are stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://blue-egg.tokyo/",
+ "sns": {
+  "x": "https://x.com/BLUE__EGG__"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://blue-egg.tokyo/",
+  "https://concafenavi.com/store/blue-egg",
+  "https://concafenavi.com/shop-search/?type=area&slug=akihabara",
+  "https://search.yahoo.co.jp/search?p=%22%E5%A4%96%E7%A5%9E%E7%94%B01-6-3%22+%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7"
+ ],
+ "osm_id": "node/6331247202"
+}

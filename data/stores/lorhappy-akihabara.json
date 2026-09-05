@@ -1,0 +1,119 @@
+{
+ "id": "lorhappy-akihabara",
+ "name": {
+  "ko": "로르해피",
+  "en": "LorHappy",
+  "ja": "ロルハッピー"
+ },
+ "synonyms": [
+  "로르해피 아키하바라",
+  "로루해피",
+  "롤해피",
+  "로르카나 전문점 로르해피",
+  "LorHappy Akihabara",
+  "Lorhappy",
+  "lorhappy",
+  "ロルハッピー",
+  "ディズニー・ロルカナ専門店 ロルハッピー",
+  "ロルハッピー秋葉原",
+  "ハッピー商店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "lorcana",
+  "singles",
+  "sealed_box",
+  "oripa",
+  "buyback",
+  "duel_space",
+  "tournament",
+  "new_shop_2026"
+ ],
+ "one_line": {
+  "ko": "일본 첫 디즈니 로르카나 전문점. 싱글카드·박스 판매와 매일 대전 이벤트",
+  "en": "Japan's first Disney Lorcana specialist: singles, boxes and daily play events"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702263,
+  "lng": 139.770508
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-7-13 河合ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 X 프로필과 실제 개점 공지는 10:00-22:00이지만, 공식 웹사이트 점포 페이지와 회사 개요에는 아직 '연중무휴 12:00-21:00'이 남아 있다. 방문 전 @lorhappy_tcg 확인이 안전하다.",
+   "en": "The shop's own X profile and its daily opening posts say 10:00-22:00, but the website's shop page and company page still print 'open year-round 12:00-21:00'. Check @lorhappy_tcg before going."
+  },
+  "source_url": "https://x.com/lorhappy_tcg"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 주오도리 서쪽, 중고 PC·정크 상점이 늘어선 뒷골목의 가와이(河合) 빌딩 1층으로, 하드오프 아키하바라 2호관에서 북서쪽으로 20m 남짓이다. 같은 건물 3층은 자매점 밴해피(ヴァンハッピー).",
+  "en": "One minute from Ginza-line Suehirocho Station, seven minutes from JR Akihabara. It is the ground floor of the Kawai Building on the used-PC and junk back street one block west of Chuo-dori, about 20 m north-west of Hard Off Akihabara No.2. Its sister shop VanHappy is on 3F of the same building."
+ },
+ "tips": {
+  "ko": [
+   "운영사는 MTG 전문점 하레루야와 포켓몬 전문점 하레루야2를 창업한 사이토 도모하루(トモハッピー)의 주식회사 핫피상점으로, 2025년 6월 로르해피·밴해피를 동시에 열었다.",
+   "예약 없이 참가할 수 있는 초보자 강습회가 매일 18시부터 열린다(공식 X 안내).",
+   "디즈니 로르카나 일본어판은 2025년 1월 발매로 전문점이 드물어, 대전 상대를 찾는다면 이 매장이 사실상 유일한 거점이다.",
+   "공식 통신판매 사이트에서 신탄 싱글 예약도 받는다."
+  ],
+  "en": [
+   "The operator is Happy Shoten, set up by Tomoharu Saito (\"Tomohappy\"), founder of the MTG shop Hareruya and the Pokemon shop Hareruya2; LorHappy and VanHappy both opened in June 2025.",
+   "Beginner sessions run every day from 18:00 and need no reservation (per the shop's X profile).",
+   "The Japanese edition of Disney Lorcana only launched in January 2025, so dedicated shops are rare and this is effectively the one place in Akihabara to find opponents.",
+   "The shop's web store also takes pre-orders for singles from new sets."
+  ]
+ },
+ "official_url": "https://www.lorhappy.com/",
+ "sns": {
+  "x": "https://x.com/lorhappy_tcg",
+  "instagram": "https://www.instagram.com/lorcana_happy/"
+ },
+ "chain": "happy-shoten",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.lorhappy.com/view/page/shop",
+  "https://www.lorhappy.com/view/company",
+  "https://www.lorhappy.com/",
+  "https://x.com/lorhappy_tcg",
+  "https://akihabara-cardmap.com/ja/shop/lol-happy/"
+ ],
+ "osm_id": null
+}

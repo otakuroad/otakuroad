@@ -1,0 +1,89 @@
+{
+ "id": "cardival-duel-space",
+ "name": {
+  "ko": "카디발 아키하바라점",
+  "en": "Cardival Akihabara",
+  "ja": "カーディバル秋葉原店"
+ },
+ "synonyms": [
+  "카디발",
+  "카디발 듀얼스페이스",
+  "카디발 아키하바라",
+  "트레카 전문 듀얼스페이스 카디발",
+  "가챠폰회관 5층 카드숍",
+  "Cardival",
+  "Cardival Duel Space",
+  "cardival_akiba",
+  "カーディバル",
+  "カーディバル秋葉原店",
+  "トレカ専門デュエルスペース カーディバル",
+  "カーディバル デュエルスペース専門店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "singles",
+  "duel_space",
+  "storage",
+  "pokemon_card"
+ ],
+ "one_line": {
+  "ko": "대량 스토리지 박스의 실전용 싱글 카드와 좌석 많은 무료 듀얼 스페이스",
+  "en": "Play-grade singles from bulk storage boxes and a large free duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701856,
+  "lng": 139.77125
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル5F（秋葉原ガチャポン会館5F）",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목 왼편의 MN빌딩(1층 가챠폰 회관) 5층. 캡슐 기계 옆 건물 입구로 들어가 올라간다. JR 아키하바라역에서는 도보 약 8분.",
+  "en": "5F of the MN Building, the one with the Gachapon Kaikan capsule hall on its ground floor: from Ginza-line Suehirocho Station exit 3 walk about 90 m south on the west side of Chuo-dori, turn right into the first narrow lane, and enter beside the capsule machines. About 8 minutes from JR Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "진열 케이스보다 스토리지 박스 중심이라 덱을 짤 저가 실전용 싱글을 직접 뒤져 고르는 매장이다. 고가 컬렉터용 카드를 찾는다면 다른 층이 낫다.",
+   "듀얼 스페이스는 무료이고 좌석이 많다. 공식 X 프로필 기준 86석이며, 포켓몬카드 공식 '포켓몬카드 짐' 등록점이다.",
+   "영업시간이 자료마다 다르다. 2024년 디렉터리는 월~금 15:00-20:00·토 11:00-20:00·일공휴일 11:00-19:00으로 적지만 공식 X는 수~토 중심의 오후 영업을 안내하므로 월·화 방문 전에는 @cardival_akiba 확인이 필요하다.",
+   "평일은 오후 늦게 여는 편이라 오전에 가면 헛걸음할 수 있다."
+  ],
+  "en": [
+   "Stock sits in storage boxes rather than display cases, so it is a place to dig for cheap play-grade singles for a deck; for high-end collector cards try another floor.",
+   "The duel space is free and large - the shop's X profile says 86 seats - and it is a registered Pokemon Card Gym.",
+   "Hours differ between sources: a 2024 directory lists Mon-Fri 15:00-20:00, Sat 11:00-20:00, Sun/holidays 11:00-19:00, while the shop's own X gives afternoon hours from Wednesday, so check @cardival_akiba before a Monday or Tuesday visit.",
+   "Weekday opening is late in the afternoon, so a morning visit is likely to find it shut."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/cardival_akiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://map.pokemon-card.com/map/18902",
+  "https://akibatoreka.com/introduce/1765",
+  "https://note.com/index674/n/n73782d48e9ea",
+  "https://www.akibagacha.com/"
+ ],
+ "osm_id": null
+}

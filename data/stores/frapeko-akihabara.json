@@ -1,0 +1,83 @@
+{
+ "id": "frapeko-akihabara",
+ "name": {
+  "ko": "프라페코",
+  "en": "Frapeko",
+  "ja": "フラペコ"
+ },
+ "synonyms": [
+  "후라페코",
+  "프라페코 아키하바라",
+  "Frapeko Akihabara",
+  "frapeco",
+  "フラペコ 秋葉原",
+  "フラペコ アキバあそび館"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "cafe",
+  "time_charge",
+  "small_shop",
+  "cheki"
+ ],
+ "one_line": {
+  "ko": "양 콘셉트 메이드 카페. 카운터 9석, 30분 500엔 차지 + 1드링크 주문제",
+  "en": "Sheep-themed maid cafe, 9 counter seats; 500 yen per 30 minutes plus a one-drink order"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699671,
+  "lng": 139.769629
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 5분, 외신다 1-6-3의 7층짜리 '아키바아소비관(アキバあそび館)' 빌딩 1층 노면 점포. 이 건물은 층마다 콘셉트 카페가 한 곳씩 들어서 있는데, 계단을 오르지 않고 바로 들어가는 1층이 프라페코다.",
+  "en": "Five minutes west of the JR Akihabara Electric Town exit, on the ground floor of the seven-storey Akiba Asobikan building at Sotokanda 1-6-3. Each floor of the building holds a different concept cafe; Frapeko is the street-level one, so no stairs are involved."
+ },
+ "tips": {
+  "ko": [
+   "카운터 9석뿐인 소형 점포이고 예약·전세 대관은 받지 않는다.",
+   "요금은 30분 500엔 차지에 1오더(음료 등) 주문제.",
+   "공식 홈페이지가 없다. 영업시간은 콘카페 디렉터리 기준 15:00-24:00 연중무휴로 실려 있지만 확정 정보가 아니므로 방문 전 X(@frapeko_akiba)를 확인하는 편이 좋다.",
+   "신용카드 결제가 가능하다고 안내되어 있다."
+  ],
+  "en": [
+   "Only nine counter seats, and the shop does not take reservations or private bookings.",
+   "The system is a 500 yen charge per 30 minutes plus one order (a drink or similar).",
+   "There is no official website. Concafe directories list 15:00-24:00 daily with no regular holiday, but that is not confirmed, so check X (@frapeko_akiba) before going.",
+   "Credit cards are listed as accepted."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/frapeko_akiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://concafenavi.com/store/frapeco",
+  "https://shop.caferun.jp/shop/11152/",
+  "https://concafenavi.com/shop-search/?type=area&slug=akihabara",
+  "https://search.yahoo.co.jp/search?p=%22%E5%A4%96%E7%A5%9E%E7%94%B01-6-3%22+%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7"
+ ],
+ "osm_id": "node/10284207371"
+}

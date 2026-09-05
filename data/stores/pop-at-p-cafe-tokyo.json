@@ -1,0 +1,123 @@
+{
+ "id": "pop-at-p-cafe-tokyo",
+ "name": {
+  "ko": "POP @P CAFE 도쿄",
+  "en": "POP @P CAFE -TOKYO-",
+  "ja": "POP @P CAFE -TOKYO-"
+ },
+ "synonyms": [
+  "POP @P CAFE",
+  "POP @P CAFE TOKYO",
+  "POP＠P CAFE -TOKYO-",
+  "POP UP CAFE -TOKYO-",
+  "팝 앳 피 카페",
+  "팝앳피 카페 도쿄",
+  "애니메이트 카페 그라테 플러스",
+  "아니메이트카페 그라테+",
+  "アニメイトカフェグラッテ+",
+  "ポップアットピーカフェ 東京",
+  "クリハラビル コラボカフェ",
+  "刀猫男士 POP UP STORE"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "collab_cafe",
+  "gratte",
+  "latte_art",
+  "anime",
+  "goods",
+  "limited_menu",
+  "touken_ranbu",
+  "animate"
+ ],
+ "one_line": {
+  "ko": "애니메이트 계열 콜라보 카페. 캐릭터 라테 그라테와 작품별 한정 드링크·굿즈",
+  "en": "animate-run collaboration cafe: Gratte character lattes, themed drinks and title goods"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700418,
+  "lng": 139.772008
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-3-11 クリハラビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "15:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일 15:00-20:00, 토·일·공휴일 12:00-19:00. 공식 안내에 '영업시간은 시기에 따라 변경될 수 있다'고 명시되어 있으므로 개최 작품이 바뀔 때는 공식 X(@popupsp_tokyo) 확인 필요.",
+   "en": "Weekdays 15:00-20:00, weekends and public holidays 12:00-19:00. The official notice states that hours may change depending on the period, so check the shop's X account (@popupsp_tokyo) when a new collaboration starts."
+  },
+  "source_url": "https://www.toulove-store.com/tounyan/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 약 5분. 주오도리 동쪽 뒷길인 다시로도리(田代通り)의 애니메이트 아키하바라 ANNEX 바로 옆, 크리하라빌딩(クリハラビル) 1층이다. 2025년 2월에 문을 닫은 '도검난무 2.5차야'가 있던 자리라 옛 안내에는 그 이름이 남아 있다.",
+  "en": "About five minutes from JR Akihabara's Electric Town Exit, on Tashiro-dori one street east of Chuo-dori, right next to animate Akihabara ANNEX. It occupies the ground floor of the Kurihara Building — the space left empty when Touken Ranbu 2.5 Chaya closed in February 2025, so older listings still show that name."
+ },
+ "tips": {
+  "ko": [
+   "주말·공휴일(12:00-19:00)이 평일(15:00-20:00)보다 일찍 열고 일찍 닫는다. 시간대를 착각하기 쉬우니 주의.",
+   "작품별 콜라보가 기간 한정으로 바뀌므로 방문 전 공식 X(@popupsp_tokyo)에서 현재 개최 작품과 예약 필요 여부를 확인하는 편이 좋다.",
+   "캐릭터 그림을 라테 위에 인쇄해 주는 '그라테(Gratte)'가 간판 메뉴이고, 드링크 주문 시 특전(코스터 등)이 붙는 경우가 많다.",
+   "2026년 2월 22일부터 '도검난무 도묘남사(刀猫男士)' 팝업 스토어가 같은 매장에서 함께 운영되고 있다.",
+   "2026년 3월 개점한 신규 점포다. 애니메이트 아키하바라 ANNEX 안의 '아니메이트카페 그라테+ 아키하바라 ANNEX'와는 다른 매장이다."
+  ],
+  "en": [
+   "Weekend and holiday hours (12:00-19:00) start and end earlier than weekdays (15:00-20:00) — easy to get wrong.",
+   "The collaboration title changes on short runs, so check the shop's X account (@popupsp_tokyo) for what is on and whether booking is needed before going.",
+   "The signature item is Gratte, a latte with a character printed on the foam; drink orders usually come with a bonus such as a coaster.",
+   "Since 2026-02-22 the Touken Ranbu 'Tounyan Danshi' pop-up store has been running inside the same shop.",
+   "It opened in March 2026 and is a separate venue from animate Cafe Gratte+ inside animate Akihabara ANNEX next door."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/popupsp_tokyo"
+ },
+ "chain": "pop-at-p",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.toulove-store.com/tounyan/",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2093882.html",
+  "https://x.com/popupsp_tokyo",
+  "https://www.navitime.co.jp/around/category/poi?spt=02301.1403771&category=0301"
+ ],
+ "osm_id": null
+}

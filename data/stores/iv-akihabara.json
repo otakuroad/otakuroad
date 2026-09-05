@@ -1,0 +1,93 @@
+{
+ "id": "iv-akihabara",
+ "name": {
+  "ko": "아이비 아키하바라",
+  "en": "IV AKIHABARA",
+  "ja": "IV AKIHABARA"
+ },
+ "synonyms": [
+  "IV 아키하바라",
+  "아이비 아키바",
+  "아이브 아키하바라",
+  "IV AKIBA",
+  "IV Akihabara",
+  "iv-akiba",
+  "アイヴィーアキハバラ",
+  "アイヴアキハバラ",
+  "IV AKIHABARA（アイヴィーアキハバラ）",
+  "森沢ビルB1"
+ ],
+ "category": "idol",
+ "tags": [
+  "dj_event",
+  "dj_bar",
+  "club",
+  "live_house",
+  "event_space",
+  "booth_rental",
+  "all_night",
+  "basement"
+ ],
+ "one_line": {
+  "ko": "DJ 부스를 개방한 지하 바. DJ 이벤트와 라이브가 열리는 크리에이터 공간",
+  "en": "Basement DJ bar with an open booth, hosting DJ events and live shows for creators"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703749,
+  "lng": 139.771363
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田6-15-16 森沢ビルB1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, 지요다선 유시마역에서 도보 5분, JR 아키하바라역에서 도보 8분. 소토칸다 6초메(오카치마치 쪽 끝)의 모리사와 빌딩(森沢ビル) 지하 1층으로, 같은 블록의 아키하바라 갤럭시(6-15-11 닛토 빌딩)에서 몇 집 남쪽이다. 계단으로 지하에 내려간다.",
+  "en": "One minute from Tokyo Metro Ginza-line Suehirocho, five from Yushima on the Chiyoda line, eight from JR Akihabara. B1F of the Morisawa Building in Sotokanda 6-chome at the Okachimachi end, a few doors south of Akihabara Galaxy (6-15-11, Nitto Building). Take the stairs down."
+ },
+ "tips": {
+  "ko": [
+   "고정 영업시간이 없다. 이벤트가 있는 날만 열리므로 공식 스케줄 페이지나 X(@iv_akihabara)에서 그날 일정을 먼저 확인한다.",
+   "바 영업일은 대체로 23:00-5:00이고 입장료 1,500엔에 드링크 2잔이 포함된다. 이 시간대에는 DJ 부스를 손님에게 개방해 직접 틀어볼 수 있다.",
+   "영국 KEF Blade 스피커와 CDJ-3000 4대, DJM-A9를 갖췄고 스탠딩 정원은 약 70명이다.",
+   "평일 12:00-17:00에는 DJ 연습용 부스 대여를 받는다. 최소 2시간, 시간당 2,200엔, 최대 4명이며 부스 안에서는 음식물 섭취가 안 된다.",
+   "2025년 5월 11일 개업한 곳으로 일부 이벤트는 Twitch(twitch.tv/iv_akihabara)로 중계된다."
+  ],
+  "en": [
+   "There are no fixed opening hours: the venue opens only on event days, so check the official schedule page or X (@iv_akihabara) before going.",
+   "On bar nights it usually runs 23:00-5:00 with a 1,500 yen entry that includes two drinks; the DJ booth is open for customers to play.",
+   "Equipment is KEF Blade speakers, four CDJ-3000s and a DJM-A9, with a standing capacity of about 70.",
+   "Weekdays 12:00-17:00 the DJ booth can be rented for practice: two hours minimum, 2,200 yen an hour, up to four people, no eating or drinking inside the booth.",
+   "It opened on 2025-05-11 and streams some events on Twitch (twitch.tv/iv_akihabara)."
+  ]
+ },
+ "official_url": "https://iv-akiba.com/",
+ "sns": {
+  "x": "https://x.com/iv_akihabara"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://iv-akiba.com/",
+  "https://iv-akiba.com/about",
+  "https://iv-akiba.com/booth-rental",
+  "https://iv-akiba.com/schedule",
+  "https://iv-akiba.com/schedule/event/20260905_night"
+ ],
+ "osm_id": null
+}

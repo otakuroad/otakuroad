@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-09-05",
- "note": "Discovery candidates not yet turned into records. \"remaining\" are tier 1-2 shops whose collection batch produced no record (usually a name the collector could not confirm); \"backlog\" are tier 3 or unconfirmed shops. Both still need a primary source before they can be published.",
+ "note": "Discovery candidates not yet turned into records. Two collection waves converted what primary sources could confirm and moved the confirmed closures into data/excluded.json; what is left here is mostly small upper-floor card shops and concept cafes with no official page, an inactive X account, or only a directory listing. Each still needs a primary source before it can be published.",
  "remaining": [
   {
    "id": "hey2-akihabara",
@@ -141,21 +141,6 @@
    "note": "CONFLICT RESOLVED IN FAVOUR OF THE OFFICIAL SOURCE: the brief treats ACOS秋葉原 as closed, but animate's own Tokyo shop list (read 2026-09-05) tags アニメイト秋葉原 with 'ACOS（コスプレ用品）' — only Ikebukuro Honten and Akihabara carry that tag. The individual アニメイト秋葉原 page does NOT name ACOS or give a floor, so the floor is unknown. This is an in-store section of a shop already in the dataset (animate-akihabara-1), not a standalone storefront — decide whether it deserves its own pin or a floor_guide line."
   },
   {
-   "id": "surugaya-akihabara-toreca-boardgame-kan",
-   "name_ja": "駿河屋 秋葉原トレカ・ボードゲーム館",
-   "name_en": "Suruga-ya Akihabara TCG & Board Game Store",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-15-4",
-   "floors": "1F・2F（資料により2F・3F）",
-   "chain": "surugaya",
-   "what_it_sells": "Singles and sealed product for Yu-Gi-Oh!, Pokemon, One Piece, MTG, Duel Masters, WIXOSS, Weiss Schwarz, Vanguard and arcade-card titles, plus a large new and used board-game wall.",
-   "notability": 4,
-   "tier": 1,
-   "still_open": "confirmed_open",
-   "official_url": "https://www.suruga-ya.jp/feature/akihabara_tb/index.html",
-   "note": "Open 09:00-23:00, one of the latest-closing card shops in the district. WARNING: 外神田3-15-4 is also the address of the existing dataset record surugaya-akihabara-game-kan (2階) and of 駿河屋秋葉原買取センター — Suruga-ya runs several 館 in the same building; floor assignment is inconsistent across sources (1F・2F vs 2F vs 2F・3F)."
-  },
-  {
    "id": "ryusei-no-pao-akihabara-rocket-musen",
    "name_ja": "カードショップ竜星のPAO秋葉原 ロケット無線店",
    "name_en": "Ryusei no PAO Akihabara Rocket Musen",
@@ -200,22 +185,6 @@
    "still_open": "confirmed_open",
    "official_url": "https://www.warhammer.com/",
    "note": "Weekdays 12:00-20:00, weekends 10:00-21:00. Miniature wargaming rather than TCG — figure_hobby is a defensible alternative category, but it is the district's tabletop-game destination. OSM node sits at 35.6996,139.7701 (外神田1丁目)."
-  },
-  {
-   "id": "magi-akihabara-annex",
-   "name_ja": "magi秋葉原店 別館",
-   "name_en": "magi Akihabara Annex",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-5-1 エトランゼ18秋葉原 5F（販売）・7F（買取）",
-   "building_ja": "エトランゼ18秋葉原",
-   "floors": "5F, 7F",
-   "chain": "magi",
-   "what_it_sells": "Annex of the magi collector shop — mainly Pokemon, with sales on 5F and a separate buying floor on 7F, plus high-value graded singles and sealed vintage boxes.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "confirmed_open",
-   "official_url": "https://cardshopmagi.com/shop/magi-akihabara-annex/",
-   "note": "Moved here from ニュー秋葉原センター around June 2025. Same building as カードショップとんとん (1F・2F), トレカルビー (4F) and カードショップNEO (3F)."
   },
   {
    "id": "snkrdunk-tcg-akihabara",
@@ -280,34 +249,6 @@
    "note": "Tel 03-6206-8689. Google prints two building names for the same pin (東雲堂ビル in the address, 新末広ビル as the facility) and OSM puts it at 外神田4丁目 level 2 — the official site's 外神田3-14-7 3F is authoritative. Above あきばお〜七號店; stairs-only climb."
   },
   {
-   "id": "lorhappy-akihabara",
-   "name_ja": "ロルハッピー",
-   "name_en": "Lorhappy",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3丁目（ジャンク通り沿い、松月庵の隣、番地未確認）",
-   "floors": "1F・2F",
-   "chain": "happy-tcg",
-   "what_it_sells": "Claims to be Japan's first shop dedicated to Disney Lorcana — singles, sealed product and play space.",
-   "notability": 3,
-   "tier": 2,
-   "still_open": "confirmed_open",
-   "note": "Opened mid-June 2025. Shares the building with ヴァンハッピー (3F-4F) under the same operator. Only the street position is published — 番地 unknown, do not invent one."
-  },
-  {
-   "id": "vanhappy-akihabara",
-   "name_ja": "ヴァンハッピー",
-   "name_en": "Vanhappy",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3丁目（ジャンク通り沿い、松月庵の隣、番地未確認）",
-   "floors": "3F・4F",
-   "chain": "happy-tcg",
-   "what_it_sells": "Cardfight!! Vanguard specialty shop on the upper floors above Lorhappy.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "confirmed_open",
-   "note": "Opened mid-June 2025, same operator as Lorhappy downstairs — easily confused. 番地 not published."
-  },
-  {
    "id": "toreca-lounge-akihabara",
    "name_ja": "TCG LOUNGE 秋葉原（トレカラウンジ）",
    "name_en": "TCG LOUNGE Akihabara",
@@ -337,22 +278,6 @@
    "still_open": "confirmed_open",
    "official_url": "https://x.com/Ganryu_6610",
    "note": "Opened late December 2025 in the basement 新星堂エンタバアキバ vacated at the end of November 2025. Weekdays 13:00-21:00, weekends from 10:00. Gee!Store Akiba (already in the dataset) is on 4F of the same building."
-  },
-  {
-   "id": "bushiroad-store-gamers",
-   "name_ja": "ブシロードストア（AKIHABARAゲーマーズ本店内）",
-   "name_en": "Bushiroad Store (inside AKIHABARA Gamers)",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビル AKIHABARAゲーマーズ本店 4F",
-   "building_ja": "AKIHABARAゲーマーズ本店",
-   "floors": "4F",
-   "chain": "gamers",
-   "what_it_sells": "Official Bushiroad shop selling Weiss Schwarz, Vanguard and other Bushiroad TCG product and IP goods, with play space.",
-   "notability": 3,
-   "tier": 2,
-   "still_open": "confirmed_open",
-   "official_url": "https://www.gamers.co.jp/shop/",
-   "note": "Listed by Gamers as its own shop record inside the flagship (already in the dataset as gamers-akihabara-honten). Weekdays 11:00-21:00, weekends/holidays 10:00-21:00."
   },
   {
    "id": "vanguard-store-gamers",
@@ -401,22 +326,6 @@
    "note": "Opened 2023-11-03. Near おたちゅう。1号店 on 外神田3-2."
   },
   {
-   "id": "beams-akihabara-honten",
-   "name_ja": "カードショップ ビームス 秋葉原本店",
-   "name_en": "Card Shop Beems Akihabara Main Store",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-15-5 MNビル 4F",
-   "building_ja": "MNビル",
-   "floors": "4F",
-   "chain": "beems",
-   "what_it_sells": "Long-established (2014) card shop stocking to customer demand across the main TCGs — singles and sealed product.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "confirmed_open",
-   "official_url": "https://www.cardshopbeems.jp/",
-   "note": "NOT the fashion retailer BEAMS. Google also lists 'トレーディア 秋葉原本店' at the identical MNビル 4F — the same shop under its former name. OSM puts it at level 3; the directory says 4F. MNビル is a card stack: トレカONE 3F, ビームス 4F, カーディバル 5F, トレカバース 6F, ガチャポン会館 1F."
-  },
-  {
    "id": "merucard",
    "name_ja": "メルカード（アキバカードショップ メルカード）",
    "name_en": "Merucard",
@@ -431,20 +340,6 @@
    "still_open": "probably_open",
    "official_url": "https://merucard.shop-pro.jp/",
    "note": "Online store still live in 2026. Sandwiched between two 福福トレカ shops in the same 神林ビル."
-  },
-  {
-   "id": "toreca-verse-akihabara",
-   "name_ja": "カードショップ トレカバース 秋葉原店",
-   "name_en": "Card Shop Torecaverse Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-9-10 町田ビル 2F",
-   "building_ja": "町田ビル",
-   "floors": "2F",
-   "what_it_sells": "Cheap singles shop dealing Pokemon and Duel Masters that buys with minimal condition grading — good for bulk sellers.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "confirmed_open",
-   "note": "BUILDING CONFLICT: akibatoreka and the OSM coordinate (35.701537,139.770709, level 1, next to トレカジャンボ) put it in 町田ビル 2F; akihabara-cardmap lists it as 外神田3-15-5 MNビル 6F (秋葉原ガチャポン会館6F). Treated as one shop at 町田ビル here — verify on site."
   },
   {
    "id": "torecaru-akihabara",
@@ -534,21 +429,6 @@
    "tier": 2,
    "still_open": "confirmed_open",
    "note": "'トレカBH秋葉原' on Google and 'トレカベストHIGH秋葉原店' in AKIBA PC Hotline are the same shop (BH = Best High) at 虎ビル 7F, merged here. Opened around 2026-03-06, relocated from in front of Ueno station. Five floors above TCG GATE."
-  },
-  {
-   "id": "mero-pokemon-card-akihabara",
-   "name_ja": "ポケモンカード専門店 MERO 秋葉原",
-   "name_en": "Pokemon Card Store MERO Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田1-2-9 5F",
-   "building_ja": "エディオンAKIBA（旧ラオックス秋葉原本店）",
-   "floors": "5F",
-   "chain": "mero",
-   "what_it_sells": "Pokemon-card-only shop with singles walls and high-value display cases.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "confirmed_open",
-   "note": "Shares 5F with トレカモーール's upper floor."
   },
   {
    "id": "toreca-risers-akihabara",
@@ -719,20 +599,6 @@
    "still_open": "confirmed_open",
    "official_url": "https://www.akibacultureszone.com/shop/",
    "note": "Formed June 2024 by merging TRIO AKIBAカルチャーズ店 and TRIO ラジオ会館店 (the latter is in closed[] and in data/excluded.json). FLOOR CONFLICT: Navitime still lists TRIO on ACZ 3F 11:00-20:30 and OSM node/9418944375 tags level 2 — both are pre-merger records; the official building list says 6F. Idol-goods heavy, so 'idol' is an arguable alternative category."
-  },
-  {
-   "id": "ichiban-kuji-official-shop-akihabara",
-   "name_ja": "一番くじ公式ショップ 秋葉原",
-   "name_en": "Ichiban Kuji Official Shop Akihabara",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田1-15付近（正確な番地・階層は未確認）",
-   "chain": "bandai-spirits",
-   "what_it_sells": "BANDAI SPIRITS' own Ichiban Kuji shop — draw the character prize lottery on the spot for figures, plush and tableware from current anime titles.",
-   "notability": 3,
-   "tier": 2,
-   "still_open": "probably_open",
-   "official_url": "https://1kuji.com/",
-   "note": "ADDRESS NOT ESTABLISHED — do not publish one without a site check. Two OSM nodes (12131327476 surveyed 2024-08-23, and 10136702417) sit on the same spot at ~35.698014,139.772446, i.e. the 外神田1-15 block by the namco/Club Sega building and いちご秋葉原駅前ビル (where おたちゅう4号店 is). Candidates variously guessed 外神田1-15-9 namco秋葉原ビル, 'near AKIBA_CO-OP' and 外神田1丁目 generally; 1kuji.com has no store finder to settle it."
   },
   {
    "id": "animega-sofmap-akiba-amusement-kan",
@@ -1345,21 +1211,6 @@
    "note": "Four raw rows merged. The official site loads but carries no address in its HTML; address from NAVITIME and corroborated by OSM node/3889725838 (35.702345,139.769581, level=1 → 2F, check_date 2024-12-28) sitting ~4m from OSM way/89183815 FH協和スクエア (外神田三丁目6-2). One source read the OSM level as 1F — the level tag means 2F."
   },
   {
-   "id": "little-tgv-akihabara",
-   "name_ja": "鉄道居酒屋 LittleTGV",
-   "name_en": "Little TGV",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田3-10-5 イサミヤ第3ビル4F",
-   "building_ja": "イサミヤ第三ビル",
-   "floors": "4F",
-   "what_it_sells": "Railway-themed concept izakaya where the staff are 'attendants' in train-crew uniform — real rolling-stock parts on the walls, station-name drinks and departure-melody service.",
-   "notability": 4,
-   "tier": 1,
-   "still_open": "confirmed_open",
-   "official_url": "https://littletgv.com/",
-   "note": "Address read directly off littletgv.com and confirmed by OSM way/88982669 イサミヤ第三ビル (外神田三丁目10-5, 5 storeys). Strictly a concept izakaya, not a maid cafe, but it is the closest fit among the ten categories and it is a genuine destination."
-  },
-  {
    "id": "crown-tiara-akihabara",
    "name_ja": "アキバメイドカフェ CrownTiara",
    "name_en": "CrownTiara",
@@ -1503,20 +1354,6 @@
    "note": "Category corrected from unclear to trading_card: the OSM node carries description=Trading Card Game Shop and the operator's own store page confirms it. OSM level=5 = 6F, matching the shop page. Nominatim reverse-geocode of the node puts it in 神田佐久間町一丁目 on 環状2号線, i.e. the eastern edge of the district east of the station, which is in scope. Building/block (1-13 チョムチョム秋葉原) comes from the shop listing rather than an official address page — verify before publishing."
   },
   {
-   "id": "nonstop-akihabara",
-   "name_ja": "ノンストップ",
-   "name_en": "Nonstop",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区外神田6-16-5 ミヤマビル 1F",
-   "building_ja": "ミヤマビル",
-   "floors": "1F",
-   "what_it_sells": "New, boxed American action figures — Marvel Legends, DC and WWE lines — in a small shop at the Okachimachi end of the district.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "probably_open",
-   "note": "Two raw candidates merged. Category corrected from unclear to figure_hobby — American-toy guides name it as one of the Tokyo shops to buy new Marvel Legends, and a business directory files it under おもちゃ・ゲーム 玩具. Address confirmed by the adjacent OSM building way ミヤマビル (外神田6-16-5). Near the northern edge of the bounding box but still 外神田."
-  },
-  {
    "id": "giftshop-the-akiba-radio-kaikan",
    "name_ja": "GIFTSHOP The AkiBa（ギフトショップ ザ・アキバ）",
    "name_en": "Gift Shop The AkiBa",
@@ -1561,20 +1398,6 @@
    "still_open": "confirmed_open",
    "official_url": "https://www.taito.co.jp/store/00002218",
    "note": "10:00-23:00 (LO 22:30), tel 03-6271-7308. A bar rather than a pure arcade — genuinely game culture and Taito-operated, but drop it if the map excludes eating and drinking venues. Immediately adjacent to タイトーステーション秋葉原東西自由通路店, which shares the same street address."
-  },
-  {
-   "id": "akiba-guild",
-   "name_ja": "アキバギルド",
-   "name_en": "Akiba Guild",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-11付近 古暮ビル4F（番地未確認）",
-   "building_ja": "古暮ビル",
-   "floors": "4F",
-   "what_it_sells": "Casino-themed concept cafe — table games dealt by costumed staff rather than food-led maid service.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "ADDRESS PARTIAL — OSM node/2263796306 (amenity=cafe, theme=casino, maid=yes, level=3 → 4F) sits ~7m from OSM way/89181596 古暮ビル, which carries only housenumber 6 and no block number; the nearest fully addressed neighbour is the @home cafe node at 外神田1-11-4. Publish the block, not a made-up house number."
   },
   {
    "id": "regalo-tokyo-akihabara-ekimae",
@@ -1650,20 +1473,6 @@
    "note": "CATEGORY CAVEAT: a shrine-run multipurpose hall; idol events are only part of the programme. Evidence is NAVITIME only for the venue itself; OSM way/1228847929 confirms the EDOCCO building at 35.701863,139.767212 (west edge of the box). Kanda Myojin is a genuine Love Live! pilgrimage site, which is the real reason this corner matters."
   },
   {
-   "id": "akiba-colors",
-   "name_ja": "AKIBA COLORS",
-   "name_en": "AKIBA COLORS",
-   "category": "idol",
-   "address_ja": "東京都台東区台東1-27-1 K3ビル B1F",
-   "building_ja": "K3ビル",
-   "floors": "B1F",
-   "what_it_sells": "Basement idol live venue on the Okachimachi side, used for underground-idol showcases and release events.",
-   "notability": 3,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "DEDUP RISK: shares the exact K3ビル B1F address with SOUNDNOTE AKIHABARA — the two are probably the same room under two names, or a rename. Kept separate here because I could not confirm which; whoever writes the records should collapse them if a site check says so. GEOGRAPHY EDGE: 台東区台東1丁目 is just east of Okachimachi station (~35.7055,139.7770), inside the box but past the Akihabara shopping street proper. NAVITIME-only evidence."
-  },
-  {
    "id": "soundnote-akihabara",
    "name_ja": "SOUNDNOTE AKIHABARA",
    "name_en": "SOUNDNOTE AKIHABARA",
@@ -1707,31 +1516,6 @@
    "note": "Merged 2 raw rows. NAVITIME-only evidence, no official site found. いすゞビル is a mixed concafe/live stack — PrettyDevilMate below and StarLightNovel above per the concept-cafe lane."
   },
   {
-   "id": "iv-akihabara",
-   "name_ja": "IV AKIHABARA",
-   "name_en": "IV AKIHABARA",
-   "category": "idol",
-   "address_ja": "東京都千代田区外神田6-15-16 B1F",
-   "floors": "B1F",
-   "what_it_sells": "Basement live-house-and-bar at the Suehirocho end, open from 18:00 as a bar and used for idol and band events.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Merged 2 raw rows. NAVITIME-only evidence; no building name available, so the address stops at 外神田6-15-16 B1F. Two doors from 秋葉原Galaxy at 6-15-11."
-  },
-  {
-   "id": "bar-from-scratch-akihabara",
-   "name_ja": "秋葉原トークライブ BAR from scratch",
-   "name_en": "Akihabara Talk Live BAR from scratch",
-   "category": "idol",
-   "address_ja": "東京都千代田区外神田4-4-3（ビル名・階数不明）",
-   "what_it_sells": "Small talk-live bar and theatre on the Suehirocho idol street — voice-actor and idol talk events, streamed shows and small gigs.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Merged 2 raw rows. NAVITIME files it under 劇場. BUILDING AND FLOOR UNKNOWN — 外神田4-4-3 is the 秋葉原SILビル address (秋葉原Venus 6F, ex-IDOLSTAGE 7F), so it is probably in that stack, but no source states the floor and I have not invented one."
-  },
-  {
    "id": "amastage-akihabara",
    "name_ja": "Live Cafe&Bar AMASTAGE",
    "name_en": "Live Cafe & Bar AMASTAGE",
@@ -1744,19 +1528,6 @@
    "tier": 3,
    "still_open": "probably_open",
    "note": "NAVITIME-only evidence, no official site. 神田佐久間町2丁目 is beyond the 'west end' the brief specifies, though inside the box. Note it shares the 2-11 block with BECKアキバ (第一中利ビル) — check they are not the same operation under two names."
-  },
-  {
-   "id": "akiba-taiiku-souko",
-   "name_ja": "アキバ体育倉庫",
-   "name_en": "Akiba Taiiku Souko",
-   "category": "idol",
-   "address_ja": "東京都千代田区外神田（3丁目、番地未確認）3F",
-   "floors": "3F",
-   "what_it_sells": "Small upstairs club/event space used for anison DJ nights and idol events.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "NOT IN THE RAW POOL — I found it while cross-checking the Overpass cache and am surfacing it because the pool covers this block thinly. OSM node/10035388417 at 35.701081,139.771246, amenity=nightclub, level=3, check_date 2024-04-03. ADDRESS UNKNOWN beyond the coordinates (外神田3丁目, a few doors from Dear Stage); category and current status both unverified. Cheap to include, easy to drop."
   },
   {
    "id": "beck-akiba",
@@ -1893,20 +1664,6 @@
    "note": "NOT CORROBORATED — verify on the street before publishing. Jan-gle's own recruitment/store page lists a single Akihabara shop, JUNGLE AKIBA at 外神田1丁目15-16 秋葉原ラジオ会館7F (matching OSM node/10136702718, shop=toys, level=7), with no 3号店. Navitime is the only source for this one: 外神田1-8-11 安川ビル 1F, tel 03-5577-5920, 11:00-19:00, 年中無休 — the 5577 prefix matches ジャングル 秋葉原1号店 (外神田3-9-2 末広ビル 1F, tel 03-5577-5270, OSM node/4069489662), so the company link is real. The building is real: OSM way/89181579 安川ビル at 外神田1-8-11 (35.699137,139.770296), which also holds トレカ専門店ドラゴンスター 秋葉原店 on 2F-3F. CATEGORY CAVEAT: Navitime files 1号店 under 模型/ホビー and only 3号店 under ゲームソフト; the chain as a whole is a used figure/hobby dealer, so if the shop turns out to be general stock it belongs in anime_goods."
   },
   {
-   "id": "infinite-joy-akihabara",
-   "name_ja": "INFINITE JOY Akihabara",
-   "name_en": "INFINITE JOY Akihabara",
-   "category": "retro_game",
-   "address_ja": "東京都千代田区外神田3丁目（中央通り沿い・田中恒産ビル1F、番地未確認）",
-   "building_ja": "田中恒産ビル",
-   "floors": "1F",
-   "what_it_sells": "Street-level Chuo-dori shop dealing in game consoles and game-related merchandise (「ゲーム機やゲーム関連グッズを扱うショップ」).",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "note": "ADDRESS INCOMPLETE — the AKIBA PC Hotline! opening report gives only 「中央通り沿いの田中恒産ビル1階」 with no 丁目-番-号, so none was invented. OSM way/1339017339 田中恒産ビル sits at 35.700474,139.771168, one lot west of Chuo-dori in the 外神田3-13 block (ソフマップAKIBA①号店 サブカル・モバイル館 is at 外神田3-13-12 MYビル next door), but the building carries no addr tags — confirm the 番地 on site. Opened 2025-12-25; the REKITEE T-shirt shop is on 5F of the same building. No official website found. Whether it is genuinely retro or a general new-game shop is unconfirmed."
-  },
-  {
    "id": "hard-off-ueno-okachimachi",
    "name_ja": "ハードオフ上野御徒町店",
    "name_en": "Hard Off Ueno Okachimachi",
@@ -1933,19 +1690,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "WEAKEST ENTRY IN THE POOL — publish only if someone walks past it. Navitime is the sole source and its record has no phone number, no hours and no closing day, which for that database usually means a stale or office-only listing. Nothing in the 413-row OSM extract or the raw Overpass cache matches the name or the building ヨシヰビル, and no official site exists. A 6F unit with no phone is more likely a trade/wholesale office than a walk-in shop."
-  },
-  {
-   "id": "yurakusha-hikaru-akihabara",
-   "name_ja": "遊楽舎ヒカル店",
-   "name_en": "Yurakusha Hikaru",
-   "category": "unclear",
-   "address_ja": "東京都千代田区外神田1-10-8 平岡ビル（住所はソフマップと重複、要現地確認）",
-   "building_ja": "平岡ビル",
-   "what_it_sells": "Unknown — Navitime files it under おもちゃ (toys) with 10:00-20:00 hours and gives no product description.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "PROBABLY A PHANTOM LISTING — do not seed without street verification, and category set to unclear because nothing establishes what it sells. The Navitime record gives 外神田1-10-8 平岡ビル, which is the address of ソフマップAKIBAアミューズメント館 (OSM node/5875272067, levels 0-7, 外神田1-10-8; building OSM way/89047127 平岡ビル, 8 storeys), and the phone number 0077-78-9888, which is Sofmap's corporate freephone — the same number Navitime prints for all four Sofmap Akiba stores. The hours 10:00-20:00 also match the Amusement-kan. That pattern is Navitime auto-filling a stub from the building's main tenant. No OSM node, no official site, no second source anywhere. Raw candidate filed it as retro_game on no evidence."
   },
   {
    "id": "cospatio-gee-store-akiba",
@@ -1979,20 +1723,6 @@
    "note": "Official site confirms 〒101-0021 東京都千代田区外神田3-6-17 阿出川ビル1階, 11:00-20:00, 年中無休, TEL 03-5256-8112. OSM node/1916532537 (shop=clothes, levels 0;1) at 35.70208,139.769866. PARTIAL SCOPE MATCH: only part of the stock is character apparel — military goods and used clothing fill the rest, so it is demoted to tier 3 despite being confirmed open."
   },
   {
-   "id": "wakuwaku-taro-yorozubako",
-   "name_ja": "わくわく太郎のよろず箱",
-   "name_en": "Wakuwaku Taro no Yorozubako",
-   "category": "cosplay",
-   "address_ja": "東京都千代田区外神田1-15-12 1F",
-   "floors": "1F",
-   "what_it_sells": "Ground-floor T-shirt-only shop selling licensed anime prints alongside joke and Japanese-slogan novelty tees, with made-to-order printing.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "official_url": "https://wakuwaku21.co.jp/",
-   "note": "Address 外神田1-15-12 1F (right beside Radio Kaikan at 1-15-16), TEL 03-3527-1301, from the operator's own site only — not in the OSM extract and not corroborated by a second source, so verify the street number and that it is still trading. Character apparel only, no costumes."
-  },
-  {
    "id": "milky-josou-cosplay-salon",
    "name_ja": "女装・コスプレサロン Milky（秋葉原）",
    "name_en": "Josou & Cosplay Salon Milky",
@@ -2005,18 +1735,6 @@
    "tier": 3,
    "still_open": "probably_open",
    "note": "No official site found in this pass; the address, 11:00-22:00 hours and the 35.700276/139.768739 coordinate come from NAVITIME only, which is also the sole レンタル衣裳 entry inside the Akihabara range. It is a service, not a shop — keep only if the map admits cosplay experiences. Listed elsewhere as a member of 秋葉原コスプレ協会 (unverified)."
-  },
-  {
-   "id": "cosplay-isho-dot-com",
-   "name_ja": "コスプレ衣装どっとこむ",
-   "name_en": "Cosplay Isho .com",
-   "category": "cosplay",
-   "address_ja": "東京都千代田区外神田3-6-13（未確認）",
-   "what_it_sells": "Reportedly a cosplay costume shop stocking ready-made character outfits, wigs and accessories.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "UNVERIFIED. The only evidence is a Google Maps search URL; no Japanese source, official site or OSM node could be found, and the name reads like an online retailer. The quoted 外神田3-6-13 is one door from カミカゼスタイル at 3-6-17, so this may be a stale or misplaced listing. Do not publish without a site visit."
   },
   {
    "id": "digital-wave-akihabara",
@@ -2063,37 +1781,6 @@
    "note": "TEMPORARILY CLOSED: the chain's own store page and the 秋葉原トレカマップ directory both read 「現在臨時休業中です」 for both 1号店 (3F) and 1.5号店 (2F). Status unresolved as of this check — verify before publishing."
   },
   {
-   "id": "flat-koubou-akihabara",
-   "name_ja": "flat工房 秋葉原",
-   "name_en": "flat Koubou Akihabara",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田3-14-9 第26東ビル 6F",
-   "building_ja": "第26東ビル",
-   "floors": "6F",
-   "chain": "flat-koubou",
-   "what_it_sells": "Small collector shop / showcase space for figures and character goods on an upper floor off Chuo-dori.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM-ONLY: node/11782064315 at 35.701076,139.771278, shop=collector, level 5 (= 6F), surveyed 2024-04-03. Nothing readable online; the building attribution 第26東ビル came from one candidate without a citation. What it actually sells is inferred from the shop=collector tag — treat as unclear until a site check."
-  },
-  {
-   "id": "fullcomp-akihabara",
-   "name_ja": "フルコンプ 秋葉原店",
-   "name_en": "Fullcomp Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館 9F（別説：外神田3-14-6 千住ビル）",
-   "building_ja": "秋葉原ラジオ会館",
-   "floors": "9F",
-   "chain": "fullcomp",
-   "what_it_sells": "Trading card shop — singles, sealed product and supplies, with some anime character goods and collectables.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "official_url": "https://fullcomp.jp/akihabara/access/",
-   "note": "CATEGORY CORRECTED to trading_card — Fullcomp is a TCG chain, not an anime-goods shop. LOCATION CONFLICT: OSM node/10136712317 puts it in Radio Kaikan at level 9 (35.698022,139.771943), while the akibatoreka directory describes フルコンプ秋葉原店 as sitting directly above レンタルBOX ザウルス at 外神田3-14-6 — two different buildings. Radio Kaikan 9F also holds カードラボ秋葉原ラジオ会館本店, already in the dataset."
-  },
-  {
    "id": "beams-akihabara-ekichika",
    "name_ja": "ビームス 秋葉原駅チカ店",
    "name_en": "Beems Akihabara Ekichika",
@@ -2110,20 +1797,6 @@
    "note": "Renamed 2022-09-10 from トレカ専門店 トレーディア — Navitime's 'トレカ専門店トレーディア 外神田1丁目13-1' is this shop under the old name. Same building as GAME PANIC and トレカル秋葉原駅前店 (9F)."
   },
   {
-   "id": "card-shop-climax",
-   "name_ja": "カードショップCLIMAX",
-   "name_en": "Card Shop CLIMAX",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-15-5 MNビル 3F",
-   "building_ja": "MNビル",
-   "floors": "3F",
-   "what_it_sells": "Card singles shop above the Gachapon Kaikan.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Single Navitime source only, and the same MNビル 3F slot is claimed by トレカONE in three other sources — CLIMAX may be a stale listing or a former tenant. Verify before publishing."
-  },
-  {
    "id": "cardival-duel-space",
    "name_ja": "カーディバル デュエルスペース専門店",
    "name_en": "Cardival Duel Space",
@@ -2138,20 +1811,6 @@
    "note": "Unusual model — mainly a play venue that also sells bulk singles. 2023 directory only; status unconfirmed."
   },
   {
-   "id": "toreka-manpaku",
-   "name_ja": "トレカ万博",
-   "name_en": "Toreca Banpaku",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-2-14 今井ビル 5F",
-   "building_ja": "今井ビル",
-   "floors": "5F",
-   "what_it_sells": "Everything from PSA-graded high-end slabs down to bulk play singles, with a large clean duel space.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Grand opening 2023-07-01. Three floors above TCGショップ193 in the same building; no 2024+ confirmation found."
-  },
-  {
    "id": "toreca-raftel",
    "name_ja": "トレカラフテル",
    "name_en": "Toreca Raftel",
@@ -2164,21 +1823,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "Opened 2023-10-31; no later confirmation found."
-  },
-  {
-   "id": "weiss-schwarz-mart-akihabara",
-   "name_ja": "ヴァイスシュヴァルツ・マート AKIHABARA",
-   "name_en": "Weiss Schwarz Mart AKIHABARA",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田1-14-7 秋葉原野村ビル 2F",
-   "building_ja": "秋葉原野村ビル",
-   "floors": "2F（OSMは1F相当）",
-   "what_it_sells": "Single-title specialist stocking only Weiss Schwarz and Weiss Schwarz Blau — everything from current packs to long out-of-print premium boxes, plus play space.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "official_url": "http://wsmart.tokyo.jp/",
-   "note": "CONFLICT: one source reports it closed (domain wsmart.tokyo.jp no longer resolving, and Card Kingdom now occupies most of 秋葉原野村ビル); akihabara-cardmap and a surveyed OSM node (35.698325,139.771816, level 1) still list it as open. Opened 2023-02-24. Verify on site before publishing."
   },
   {
    "id": "card-mountain-akihabara",
@@ -2211,50 +1855,6 @@
    "note": "A play space rather than a retail shop — borderline for a shopping map. Three floors above カードショップあずまや in the same building; floor conflict (OSM level 5 vs official 6F)."
   },
   {
-   "id": "toreca-jumbo-akihabara-2",
-   "name_ja": "トレカジャンボ 秋葉原2号店",
-   "name_en": "Toreca Jumbo Akihabara No.2",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-10-5 イサミヤ第三ビル 2F（cardmapは1F）",
-   "building_ja": "イサミヤ第三ビル",
-   "floors": "2F",
-   "chain": "toreca-jumbo",
-   "what_it_sells": "Second Toreca Jumbo, with the area's only duel space that has a free drink bar.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Grand opening 2023-03-03. Floor conflict (2F vs 1F), and エルドラード秋葉原新店 was reported taking イサミヤ第三ビル 2F in Oct 2025 — this branch may have moved or closed. A demolition notice was posted on the building in Sept 2025."
-  },
-  {
-   "id": "every-toreca",
-   "name_ja": "everyトレカ",
-   "name_en": "every Toreca",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-9-10（旧みんなでトレカ!!秋葉原2号店跡地）",
-   "building_ja": "日宝アキバ館",
-   "floors": "1F",
-   "what_it_sells": "Card shop with gara-pon opening promos, lucky bags and shop-original packs.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Opened around 2025-08-09 directly replacing みんなでトレカ!!秋葉原2号店. Announced beforehand under the spelling 'エブリトレカ'."
-  },
-  {
-   "id": "ninnin-toreren-akihabara",
-   "name_ja": "ニンニントレレン 秋葉原店",
-   "name_en": "Nin Nin Toreren Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-10-6 ホープビル 5F",
-   "building_ja": "ホープビル",
-   "floors": "5F",
-   "chain": "ninnin",
-   "what_it_sells": "Rental-showcase card shop where individual sellers rent cases — unusually limited to TCG only.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Opened late March / early April 2025, next to スターケバブ アキバテラス. 'トレレン' = トレカ・レンタルショーケース. Same ホープビル as the closed GEKIRIN."
-  },
-  {
    "id": "card-shop-rairai",
    "name_ja": "カードショップ 雷雷",
    "name_en": "Card Shop Rairai",
@@ -2269,21 +1869,6 @@
    "note": "Opened 2023-08-04. OSM check_date 2024-11-20."
   },
   {
-   "id": "toreca-loop-akihabara",
-   "name_ja": "トレカループ 秋葉原店",
-   "name_en": "Toreca Loop Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-12-15 チチブ電機ビル 2F",
-   "building_ja": "チチブ電機ビル",
-   "floors": "2F",
-   "chain": "toreca-loop",
-   "what_it_sells": "High-buy / low-sell singles shop on Junk-dori with duel space.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Grand opening 2023-01-14. The OSM node carries note=臨時閉店中 (temporarily closed) — status needs an on-site check. A second OSM point near アキバのエックス中央店 at 35.699865,139.770476 may be a stale duplicate."
-  },
-  {
    "id": "gold-deck-akihabara",
    "name_ja": "GOLD DECK",
    "name_en": "GOLD DECK",
@@ -2296,51 +1881,6 @@
    "tier": 3,
    "still_open": "probably_open",
    "note": "Opened 2024-05-21 on Junk-dori, sharing a ground floor with PC shop GENO QCPASS — GOLD DECK is straight ahead from the entrance. Note ロックビル vs the neighbouring ロック2ビル (トレカSunrise), both at 外神田3-11-2."
-  },
-  {
-   "id": "bee-honpo-akihabara",
-   "name_ja": "Bee本舗 秋葉原店",
-   "name_en": "Bee Honpo Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-3-5 ヨシヰビル 6F",
-   "building_ja": "ヨシヰビル",
-   "floors": "6F",
-   "chain": "bee-honpo",
-   "what_it_sells": "Clean, bright collector-oriented card shop whose strength is high-grade collection cards rather than play singles.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "official_url": "https://llalf.hp.peraichi.com/",
-   "note": "Official Peraichi page still shows this address in 2026."
-  },
-  {
-   "id": "shaka-shaka-toreca",
-   "name_ja": "カードショップ シャカシャカトレカ",
-   "name_en": "Shaka Shaka Toreca",
-   "category": "trading_card",
-   "address_ja": "〒101-0021 東京都千代田区外神田4-7-2 小林ビル 5F",
-   "building_ja": "小林ビル",
-   "floors": "5F",
-   "what_it_sells": "Small, chatty neighbourhood card and oripa shop with singles and sleeves, upstairs on the Suehirocho side of Chuo-dori.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "official_url": "https://shakashakatoreka.myshopify.com/",
-   "note": "Address confirmed on the shop's own Shopify storefront in 2026."
-  },
-  {
-   "id": "card-shop-issei",
-   "name_ja": "カードショップ 一誠",
-   "name_en": "Card Shop Issei",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田4-5-1 リバティー5号館 5F",
-   "building_ja": "リバティー5号館",
-   "floors": "5F",
-   "what_it_sells": "Small upstairs singles shop in the Liberty No.5 building.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Grand opening 2022-11-18. The now-closed トレカの万国 was on 6F of the same building; no 2024+ confirmation found for Issei."
   },
   {
    "id": "card-bank-akihabara",
@@ -2385,45 +1925,6 @@
    "note": "Opened 2023-09-22, tel 050-1808-7913. No later confirmation found."
   },
   {
-   "id": "toreca-space-akihabara",
-   "name_ja": "トレカスペース",
-   "name_en": "Toreca Space",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-12-2",
-   "what_it_sells": "Small card shop off Chuo-dori in 外神田3-chome.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Pre-opened 2023-02-18, grand opening scheduled 2023-04-15. Only a block address is published — no building or floor; do not invent one."
-  },
-  {
-   "id": "garapon-shop-santa",
-   "name_ja": "ガラポンショップ サンタ",
-   "name_en": "Garapon Shop Santa",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-11-5 D・B秋葉原ビル B1F",
-   "building_ja": "D・B秋葉原ビル",
-   "floors": "B1F",
-   "what_it_sells": "Oripa / lottery-draw specialist with a buying desk — you spin for cards rather than buying singles off a wall.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Opened 2023-05-14; no later confirmation."
-  },
-  {
-   "id": "toreca-circuit-akihabara",
-   "name_ja": "トレカ サーキット 秋葉原",
-   "name_en": "Toreca Circuit Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田1-4-11 3F",
-   "floors": "3F",
-   "what_it_sells": "Play-grade singles across Pokemon, One Piece, Union Arena, SDBH and Ride Chemy Trading Cards.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Pre-opened 2023-09-16, grand opening 2023-09-20. Building name not published."
-  },
-  {
    "id": "toreca-no-kyuden",
    "name_ja": "トレカの宮殿",
    "name_en": "Toreca no Kyuden",
@@ -2434,19 +1935,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "Opened 2023-07-22. The directory publishes only '外神田1丁目' and tells readers to check the shop's X account for the exact address — no building or floor available, do not invent one."
-  },
-  {
-   "id": "popsan-shokai-akihabara",
-   "name_ja": "ポプサン商会 秋葉原ポケカ専門店",
-   "name_en": "Popsan Shokai Akihabara",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田4-13-1",
-   "what_it_sells": "Pokemon card specialist aiming for the biggest battle space in Akihabara; buys and sells.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "official_url": "https://www.tiktok.com/@popsan.akb",
-   "note": "Grand opening 2023-06-08. Only a block address published — no building or floor."
   },
   {
    "id": "card-shop-lotus-akihabara",
@@ -2478,20 +1966,6 @@
    "note": "Buy-back only — marginal for a shopping map. Single Navitime source."
   },
   {
-   "id": "toreca-capital-akiba",
-   "name_ja": "トレカ・キャピタル AKIBA",
-   "name_en": "Toreca Capital AKIBA",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田1-2-9 エディオンAKIBA 6F",
-   "building_ja": "エディオンAKIBA",
-   "floors": "6F",
-   "what_it_sells": "Small card counter on the sixth floor of the Edion Akiba store.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "note": "Google's tenant list for the building prints the floor as '1階' but the shop name says 6F — floor unresolved."
-  },
-  {
    "id": "akihabara-x-toreca-kaitori",
    "name_ja": "秋葉原エクストレカ買取店",
    "name_en": "Akihabara X-Toreca Buying Shop",
@@ -2520,20 +1994,6 @@
    "tier": 3,
    "still_open": "confirmed_open",
    "note": "Opened April 2026 after ナカデ電気商会 closed 2026-03-22. Unstaffed — worth flagging on a map as a machine-only spot. カードキングダム秋葉原2号店 is in the same building."
-  },
-  {
-   "id": "shinsoku-akihabara-4",
-   "name_ja": "シンソク 秋葉原4号店",
-   "name_en": "Shinsoku Akihabara No.4",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田（アキバ田代通り沿い、家系らーめん武将家の入るビル 4F、番地未確認）",
-   "floors": "4F",
-   "chain": "shinsoku",
-   "what_it_sells": "Pokemon and One Piece TCG on the fourth floor of a Tashiro-dori building above a ramen shop.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "note": "Pre-opened early May 2026. 番地 not published."
   },
   {
    "id": "shinsoku-akihabara-5",
@@ -2578,21 +2038,6 @@
    "note": "Opened 2022-08-19. Shares the 末広ビル basement with おたちゅう。秋葉原5号店 — easy to confuse."
   },
   {
-   "id": "toreca-lounge-annex-buying-center",
-   "name_ja": "トレカラウンジ別館買取センター",
-   "name_en": "Toreca Lounge Annex Buying Centre",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田4-9-2 千住ビル5 2F",
-   "building_ja": "千住ビル5",
-   "floors": "2F",
-   "chain": "tcg-lounge",
-   "what_it_sells": "Buy-only trading card counter, the annex of TCG LOUNGE at 外神田5-1-3.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Shares the building with ホビーラウンジ (1F) and トレカ秘密基地 (5F). Buy-back only."
-  },
-  {
    "id": "toreca-daimyojin",
    "name_ja": "トレカ大明神",
    "name_en": "Toreca Daimyojin",
@@ -2617,20 +2062,6 @@
    "tier": 3,
    "still_open": "probably_open",
    "note": "Pre-opening as of February 2026, weekends only at that point. Verify current hours."
-  },
-  {
-   "id": "card-shop-yuaou",
-   "name_ja": "カードショップ 遊亜王",
-   "name_en": "Card Shop Yuaou",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田（昭和通り沿い、NJ秋葉原ビル 3F、番地未確認）",
-   "building_ja": "NJ秋葉原ビル",
-   "floors": "3F",
-   "what_it_sells": "Independent card shop above the 'Naze Soba ni Rayu' noodle bar on Showa-dori.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Trading since 2026-03-14, still in trial operation when reported in late April 2026. 番地 not published."
   },
   {
    "id": "toreca-soul-akihabara",
@@ -2674,36 +2105,6 @@
    "note": "Opened around July 2024; only briefly mentioned in the source, so hours, exact address and current status all need checking."
   },
   {
-   "id": "merucard-akihabara-2",
-   "name_ja": "メルカード 秋葉原2号店",
-   "name_en": "Merucard Akihabara No.2",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田3-10-10 白銀会館 2F",
-   "building_ja": "白銀会館",
-   "floors": "2F",
-   "chain": "merucard",
-   "what_it_sells": "Second Merucard outlet on the Suehirocho side selling discounted singles across all main TCGs.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "official_url": "https://merucard.shop-pro.jp/",
-   "note": "Opened 2023-01-20; no later confirmation found."
-  },
-  {
-   "id": "one-ties-toreca-shop",
-   "name_ja": "トレカショップ One Ties",
-   "name_en": "Toreca Shop One Ties",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区神田須田町2-11-8 玉甚ビル B号室 1F",
-   "building_ja": "玉甚ビル",
-   "floors": "1F",
-   "what_it_sells": "Oripa-heavy card shop that also carries scarce titles other Akihabara shops do not stock.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Opened 2023-08-02. 神田須田町 is south of the districts named in the brief but inside the bounding box — flag for the area decision."
-  },
-  {
    "id": "kolo-ya",
    "name_ja": "トレーディングカード専門店 kolo屋",
    "name_en": "kolo-ya",
@@ -2715,21 +2116,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "Opened 2022-10-01, tel 080-9475-2667. 神田須田町 — just outside the named districts but within the bounding box."
-  },
-  {
-   "id": "toreca-yokocho-donki-akihabara",
-   "name_ja": "トレカ横丁 ドン・キホーテ秋葉原店5F",
-   "name_en": "Toreca Yokocho Don Quijote Akihabara 5F",
-   "category": "trading_card",
-   "address_ja": "東京都千代田区外神田4-3-3 ドン・キホーテ秋葉原店 5F",
-   "building_ja": "ドン・キホーテ秋葉原店",
-   "floors": "5F",
-   "chain": "toreca-yokocho",
-   "what_it_sells": "Pokemon-focused Toreca Yokocho counter on the fifth floor of Akihabara Don Quijote.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Opened 2022-11-23. A concession inside Don Quijote (which also hosts the AKB48 Theater) rather than a standalone shopfront; no 2024+ confirmation."
   },
   {
    "id": "toreca-naruryu",
@@ -2815,20 +2201,6 @@
    "note": "NO WEBSITE — the shop only runs X/Instagram accounts (@CHARA_G_MART1 / @CHARA_G_MART2), so the 松崎ビル address is unverified against a primary page. Google merges the two shopfronts into one listing and also carries a separate 弐号店 entry at the same address. FLOOR CONFLICT: OSM node/6331214742 (35.699314,139.770668) tags level 1, which one candidate read as 1F and another as 2F."
   },
   {
-   "id": "cle-cle-akihabara",
-   "name_ja": "Cle-Cle 秋葉原店",
-   "name_en": "Cle-Cle Akihabara",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル 7・8F",
-   "building_ja": "塩田トゥール秋葉原ビル",
-   "floors": "7F-8F",
-   "what_it_sells": "Two upper floors of used anime goods and character merchandise with a buy-back desk.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Navitime-only, single source; 11:00-19:00. Not in OSM and no official page reached — verify before publishing."
-  },
-  {
    "id": "guruka-akihabara",
    "name_ja": "グルカ秋葉原店",
    "name_en": "Guruka Akihabara",
@@ -2872,37 +2244,6 @@
    "note": "OSM-ONLY, two nodes merged: node/12128984839 (35.701779,139.771326, shop=collector, level 6;8, surveyed 2024-08-23) and node/14140844888 (35.701583,139.771378, shop=collector, no level) — possibly two units of the same business. Same building as おたちゅう。秋葉原2号店. Floor numbering assumes OSM level = floor − 1, which is NOT how the Radio Kaikan nodes are tagged, so the 7F/9F reading is uncertain. A good example of an upper-floor tenant invisible from the street."
   },
   {
-   "id": "animegane-akihabara",
-   "name_ja": "アニメコラボメガネ専門店 Animegane",
-   "name_en": "Animegane",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田4丁目8-3 セゾン秋葉原ビル 1階",
-   "building_ja": "セゾン秋葉原ビル",
-   "floors": "1F",
-   "what_it_sells": "Anime and manga collaboration eyewear only — character-model frames sold by pre-order, cases and lens fitting.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "official_url": "https://animegane.jp/",
-   "note": "Address, hours (11:30-19:30, closed Thursdays) and stock read from the shop's own site 2026-09-05. Sister brand to 執事眼鏡 eyemirror. Google files it under メガネ店 so it is easily missed; 'cosplay / character apparel' is an arguable alternative category since the stock is wholly character-licensed. Confirmed trading June 2026 (Aogiri High School collab)."
-  },
-  {
-   "id": "eternal-toys-akihabara",
-   "name_ja": "エターナルトイズAKIHABARA",
-   "name_en": "Eternal Toys Akihabara",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田6-14-12 神田中沢ビル 4階",
-   "building_ja": "神田中沢ビル",
-   "floors": "4F",
-   "chain": "eternaltoys",
-   "what_it_sells": "Second-hand and new anime goods, Nendoroids, figures, dakimakura covers and tapestries, with a strong VTuber/hololive resale corner.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "official_url": "https://eternaltoys.shop-pro.jp/",
-   "note": "Reopened at this address 2026-02-07 after moving from 外神田3-9-8 東洋ビル5F. ADDRESS DOUBT: some listings write the block as 6-12-14 rather than 6-14-12. Sits in 外神田6丁目, north of the 1-4 chome core the brief names, though still inside the bounding box — flag for the area call."
-  },
-  {
    "id": "tokyo-otaku-shop-akihabara",
    "name_ja": "TOKYO OTAKU SHOP",
    "name_en": "TOKYO OTAKU SHOP",
@@ -2918,21 +2259,6 @@
    "note": "Opened 2024-11-22 when the Melonbooks pickup branch reopened after refurbishment. NO 番地 IN THE SOURCE — only the host building is named. Melonbooks 秋葉原1号店 is separately in the dataset but that is a different unit from the 店舗受取館."
   },
   {
-   "id": "yumeoriya-kids-akihabara",
-   "name_ja": "夢織屋キッズ",
-   "name_en": "Yumeoriya Kids",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田 タウンハイツ上野 1F（遊舎工房付近。番地未確認）",
-   "building_ja": "タウンハイツ上野",
-   "floors": "1F",
-   "chain": "yumeoriya",
-   "what_it_sells": "Boys' hobby — tokusatsu hero toys, American toys and robot-anime merchandise; Yumeoriya's third shop.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "note": "Pre-opened around 2026-02-14. ADDRESS IS PARTIAL — the source gives only the building name and the 遊舎工房 landmark, no 丁目-番-号."
-  },
-  {
    "id": "at-home-shop-akihabara",
    "name_ja": "あっとほぉーむショップ秋葉原店",
    "name_en": "at-home Shop Akihabara",
@@ -2946,21 +2272,6 @@
    "still_open": "probably_open",
    "official_url": "https://athomeshop.jp/",
    "note": "FLOOR NOT STATED on the operator's site — the cafe occupies 3F-7F of ミツワビル and the shop's own floor is not published, so the address is building-level only. The cafe itself is already in the dataset as athome-cafe-akihabara-honten; maid_cafe is an arguable alternative category for this counter."
-  },
-  {
-   "id": "aniplex-official-shop-akihabara",
-   "name_ja": "アニプレックス公式SHOP 秋葉原店",
-   "name_en": "Aniplex Official Shop Akihabara",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田4-3-3 ドン・キホーテ秋葉原店内（階層未確認）",
-   "building_ja": "ドン・キホーテ秋葉原店",
-   "chain": "aniplex",
-   "what_it_sells": "Official Aniplex title goods — Demon Slayer, Fate, Sword Art Online and other Aniplex-produced series.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "official_url": "https://www.aniplex.co.jp/",
-   "note": "STATUS DOUBTFUL — it appears on NAVITIME but NOT in the Don Quijote Akihabara official tenant directory read 2026-09-04, so it may have closed or been absorbed. Note also that a different Aniplex outlet, ANIPLEX+ 秋葉原 in Radio Kaikan 1F, is already recorded as closed (2023-06-18) in data/excluded.json — do not conflate the two. Same building as AKB48劇場, already in the dataset."
   },
   {
    "id": "oto-ani-2",
@@ -3007,22 +2318,6 @@
    "note": "OSM-ONLY and BORDERLINE — it is a cafe, not a shop, so it may fall under the out-of-scope 'restaurants' rule; the goods side is what keeps it here. No 番地 in the source, only the host arcade building. Note that GiGO秋葉原1号館 and 4号館 are already recorded as closed in data/excluded.json, so confirm 3号館 is the right host."
   },
   {
-   "id": "lammtarra-epicari-akiba",
-   "name_ja": "ラムタラエピカリアキバ",
-   "name_en": "Lammtarra Epicari Akiba",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田4-3-2",
-   "building_ja": "オーエーシステムプラザ東京本店ビル（Google表記）",
-   "floors": "1F-5F",
-   "chain": "lammtarra",
-   "what_it_sells": "1F sells idol raw photos and idol goods (Nogizaka, Sakurazaka etc.), selected figures, novelty goods and oripa packs; 2F-5F are adult video.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/",
-   "note": "MOSTLY ADULT ABOVE 1F — the shop advertises 100,000 adult titles across 2F-5F. Not adults-only overall (1F is general), so I have not rejected it, but downstream should decide whether to drop it or keep only the 1F idol/figure floor under the R-18 policy. 10:00-22:30, TEL 03-5209-4088. Sandwiched between the Don Quijote building and the Animate building on Chuo-dori. Building name is from a Google listing only."
-  },
-  {
    "id": "recofan-akihabara-seekbase",
    "name_ja": "RECOfan 秋葉原SEEKBASE店",
    "name_en": "RECOfan Akihabara SEEKBASE",
@@ -3035,35 +2330,6 @@
    "tier": 3,
    "still_open": "probably_open",
    "note": "BORDERLINE — primarily a general used-music shop; only the anison/game-soundtrack racks make it subculture retail, hence tier 3. Navitime-only source; 11:00-20:00. Exact SEEKBASE unit number unconfirmed. Shares the arches with BEEP (already in the dataset at 神田練塀町15-1) and まんだらけCoCoo."
-  },
-  {
-   "id": "toppa-base-akiba",
-   "name_ja": "TOPPA!!! BASE AKIBA",
-   "name_en": "TOPPA!!! BASE AKIBA",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田1丁目 JR秋葉原駅構内 ecute秋葉原内（区画番号不明）",
-   "building_ja": "ecute秋葉原（JR秋葉原駅構内）",
-   "chain": "toppa",
-   "what_it_sells": "Idol and anime goods stand inside the station's ecute concourse — pop-up-style title corners and travel-friendly merchandise.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "ADDRESS IS DELIBERATELY VAGUE in the source (外神田1, inside the station) — do not invent a block number. Idol-goods heavy, so 'idol' is an arguable alternative category."
-  },
-  {
-   "id": "little-world-gee-store-akiba",
-   "name_ja": "リトルワールド ジーストア・アキバ店",
-   "name_en": "Little World Gee Store Akiba",
-   "category": "anime_goods",
-   "address_ja": "東京都千代田区外神田1-2-7 オノデン本店ビル 4F ジーストア・アキバ内",
-   "building_ja": "オノデン本店ビル",
-   "floors": "4F",
-   "chain": "little-world",
-   "what_it_sells": "Character goods counter operating inside Gee Store Akiba.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "A concession inside ジーストア・アキバ, which is already in the dataset as gee-store-akiba (same 4F, same building as キュアメイドカフェ) — downstream may prefer to fold this into that record rather than give it a pin. Navitime-only."
   },
   {
    "id": "jungle-akihabara-radio-kaikan",
@@ -3080,34 +2346,6 @@
    "still_open": "unknown",
    "official_url": "https://jungle-scs.co.jp/",
    "note": "OSM-ONLY LEAD, not a row in the raw pool: node/10136702718 at 35.697836,139.772037 (shop=toys, level 7) inside the Radio Kaikan footprint. The Radio Kaikan official floor guide was not read for 7F during this triage, and Jungle's own store page was only checked for 1号店 — confirm the branch exists and get its correct floor before publishing."
-  },
-  {
-   "id": "toy-shop-altria-akihabara",
-   "name_ja": "トイショップ アルトリア",
-   "name_en": "Toy Shop Altria",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区外神田3-14-4 国際ビル 301",
-   "building_ja": "国際ビル",
-   "floors": "3F（301号室）",
-   "what_it_sells": "A back-street upstairs shop selling figures and anime merchandise.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Two raw candidates merged (both are OSM node 4960905947). Chome corrected: both candidates guessed 外神田3丁目 / 4丁目 inconsistently; the coordinates (35.701265,139.771017) plus the Suruga-ya and Akiba-map listings all give 外神田3-14-4 国際ビル301. Still_open is genuinely unknown — the newest source I could read dates from 2016 and one listing hints at a 2019 closure, yet the OSM node persists. Reverse geocoding returns the maid bar メイド投げ放題 テネブラエ at the same address, so ground-level signage will be misleading; needs a site visit."
-  },
-  {
-   "id": "miniature-park-akihabara",
-   "name_ja": "ミニチュアパーク",
-   "name_en": "Miniature Park",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区外神田5-5-2 1F",
-   "floors": "1F",
-   "what_it_sells": "Historical, fantasy and military miniature figure specialist — the realistic 1/35 and 54mm figures nobody else in Akihabara stocks, plus dollhouse-scale miniatures.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "unknown",
-   "official_url": "https://twitter.com/miniature_park",
-   "note": "OSM 35.703889,139.772696, near 2k540 on the Okachimachi side. Short hours (12:00-17:00), closed Sundays, and the owner's X account has announced periods of 休業 — confirm it is trading before mapping."
   },
   {
    "id": "toys-king-tokyo-buyback-center",
@@ -3140,22 +2378,6 @@
    "still_open": "probably_open",
    "official_url": "https://yellowsubmarine.co.jp/",
    "note": "Not separately listed on the official Radio Kaikan floor guide — probably a corner inside イエローサブマリン秋葉原本店★ミント, which is already a dataset record. Verify before creating a separate pin."
-  },
-  {
-   "id": "yellow-submarine-akihabara-scale-shop",
-   "name_ja": "イエローサブマリン 秋葉原スケールショップ",
-   "name_en": "Yellow Submarine Akihabara Scale Shop",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区外神田1-11-5 秋葉原スーパービル 6F",
-   "building_ja": "秋葉原スーパービル",
-   "floors": "6F",
-   "chain": "yellow-submarine",
-   "what_it_sells": "Scale models, military kits, paints and modelling tools.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "official_url": "https://yellowsubmarine.co.jp/",
-   "note": "SINGLE SOURCE (Navitime) and not in the OSM extract. The 秋葉原スーパービル was rebuilt (あみあみ秋葉原店2nd left it in 2024), so this listing may be stale — verify before mapping."
   },
   {
    "id": "mach-kuji-senmonten",
@@ -3211,20 +2433,6 @@
    "note": "OSM only (35.701245,139.771283). Building named 新末広ビル by one lane and 東雲堂ビル by another (MARURU is on 4F of the same stack)."
   },
   {
-   "id": "daiyu-hobby-shop",
-   "name_ja": "大雄ホビーショップ",
-   "name_en": "Daiyu Hobby Shop",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区外神田6-1-5 池上ビル 1F（岩上ビルとする記録もあり）",
-   "building_ja": "池上ビル／岩上ビル（未確定）",
-   "floors": "1F",
-   "what_it_sells": "Old-school independent hobby shop selling plastic kits and toys; 12:00-19:15.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM 35.703222,139.768451 (western edge of the district) against a Navitime address of 外神田6-1-5; building name differs between sources and there is no web presence. Needs a site check."
-  },
-  {
    "id": "tonton-akihabara",
    "name_ja": "とんとん",
    "name_en": "Tonton",
@@ -3249,20 +2457,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "ADDRESS INCOMPLETE — OSM only (35.697205,139.77282), tagged shop=clothes, which is why other lanes may have missed it."
-  },
-  {
-   "id": "doll-studio-sen-akihabara",
-   "name_ja": "ドールスタジオSEN 秋葉原店",
-   "name_en": "Doll Studio SEN Akihabara",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区神田和泉町1-2-1 小森ビル 2F",
-   "building_ja": "小森ビル",
-   "floors": "2F",
-   "what_it_sells": "Doll photography studio and shop for doll owners.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "note": "神田和泉町 is east of the station at the very edge of the bounding box, and this is a studio more than retail — borderline for the map."
   },
   {
    "id": "edion-akiba-neverland",
@@ -3361,22 +2555,6 @@
    "note": "STATUS DOUBTFUL: mononopu.com now hosts an unrelated liquor company and mononopu.jp/.tokyo do not resolve, so the shop's own site appears to be gone. Address is block-level only — OSM way/89183375 塩田トゥール秋葉原 carries 外神田四丁目 block 6 but no house number, and no floor is tagged. Verify it is still trading before publishing."
   },
   {
-   "id": "gigo-collab-cafe-stand-akihabara-2",
-   "name_ja": "GiGOコラボカフェスタンド秋葉原2号館",
-   "name_en": "GiGO Collab Cafe Stand Akihabara No.2",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-15-1 半田ビル2F",
-   "building_ja": "半田ビル",
-   "floors": "2F",
-   "chain": "gigo",
-   "what_it_sells": "Small collab drink stand on the crane-game floor of GiGO No.2, serving themed drinks with print bonuses.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "official_url": "https://www.gigo.co.jp/shops/cafestand-akihabara2",
-   "note": "A counter inside the arcade rather than a separate shopfront — probably better as an attribute of the GiGO秋葉原2号館 arcade record than its own pin. 半田ビル confirmed as OSM way/89023077 (8 storeys) but with no addr tags."
-  },
-  {
    "id": "gigo-collab-cafe-stand-akihabara-3",
    "name_ja": "GiGOコラボカフェスタンド秋葉原3号館",
    "name_en": "GiGO Collab Cafe Stand Akihabara No.3",
@@ -3402,33 +2580,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "ADDRESS NOT ESTABLISHED — OSM-only (node/5181116186, no level tag); the nearest addressed neighbour is ドン・キホーテ at 外神田4-3-3, about 19m away, so only the chome is safe. No official site found and no floor known."
-  },
-  {
-   "id": "pop-at-p-cafe-tokyo",
-   "name_ja": "POP @P CAFE -TOKYO-",
-   "name_en": "POP @P CAFE -TOKYO-",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田（刀剣乱舞2.5茶屋跡地・番地未確認）",
-   "chain": "pop-at-p",
-   "what_it_sells": "Rotating IP collaboration cafe — themed food, drinks and bonus merchandise for whichever title is running.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "confirmed_open",
-   "note": "ADDRESS NOT ESTABLISHED — the only source describes it as opening around March 2026 in the space vacated by 刀剣乱舞2.5茶屋 (closed March 2025), with no street address, building or floor given. Recently opened, so worth re-checking."
-  },
-  {
-   "id": "concafe-land-akihabara",
-   "name_ja": "コンカフェランド",
-   "name_en": "Concafe Land",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-15-13 秋葉原B&Vビル7F",
-   "building_ja": "秋葉原B&Vビル",
-   "floors": "7F",
-   "what_it_sells": "Late-night concept cafe (17:00-01:00) three floors below MAID√MADE in the same station-front building — drinks, cast chat and cheki.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Two raw rows merged. The 17:00-01:00 hours suggest a drinking-led concafe rather than a daytime maid cafe — check it is not a girls-bar before publishing. Same building-name conflict as MAID√MADE (秋葉原B&Vビル vs 秋葉原神田西口NSビル)."
   },
   {
    "id": "myao-myao-akihabara",
@@ -3457,47 +2608,6 @@
    "tier": 3,
    "still_open": "probably_open",
    "note": "Two raw rows merged. Almost certainly the successor tenant to 幽幻飯店, which OSM node/4069513072 puts at level 4 of the same building and explicitly tags 閉店/Closed — 幽幻飯店 is therefore in closed[] rather than merged here. オーク秋葉原ビル is not in the OSM extract."
-  },
-  {
-   "id": "miko-kissa-akibatei",
-   "name_ja": "巫女喫茶 秋葉亭",
-   "name_en": "Miko Kissa Akibatei",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-1 外神田ビル（階数不明）",
-   "building_ja": "外神田ビル",
-   "what_it_sells": "Shrine-maiden (miko) themed cafe instead of the usual maid uniform — Japanese sweets and tea served by cast in hakama.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM theme=miko, hours 12:00-23:00, no level tag — FLOOR UNKNOWN. Address confirmed by OSM way/91529477 外神田ビル (外神田一丁目6-1, 6 storeys). Paired with 足湯喫茶 浪漫亭 in the same building, apparently the same operator's concept cluster."
-  },
-  {
-   "id": "ashiyu-kissa-romantei",
-   "name_ja": "足湯喫茶 浪漫亭",
-   "name_en": "Ashiyu Kissa Romantei",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-1 外神田ビル1F",
-   "building_ja": "外神田ビル",
-   "floors": "1F",
-   "what_it_sells": "Foot-bath cafe with miko-themed cast — you soak your feet in a hot foot bath while being served drinks.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM theme=miko, level=0, hours 12:00-23:00. romantei.jp returns a Sakura Internet 403 placeholder, so the operator site may be gone — verify it is still trading."
-  },
-  {
-   "id": "imouto-maid-cafe-soramica",
-   "name_ja": "妹メイドカフェ ソラミカ",
-   "name_en": "Imouto Maid Cafe Soramica",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-9〜1-10付近 岡光ビル4F（番地未確認）",
-   "building_ja": "岡光ビル",
-   "floors": "4F",
-   "what_it_sells": "'Little sister' concept maid cafe — the cast address you as onii-chan rather than goshujin-sama; drinks, food and cheki.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Four raw rows merged, all citing the same OSM node/9654182669 (35.698759,139.770255, amenity=restaurant, level=3 → 4F). ADDRESS PARTIAL — OSM way/89047129 岡光ビル carries no addr tags at all; sources guessed 外神田1-9 and 外神田1-10 from neighbours. Near 千石電商. Floor recorded as 4F from level=3; two sources reported it as 3F by reading the level tag literally."
   },
   {
    "id": "my-first-maid-akihabara",
@@ -3569,48 +2679,6 @@
    "note": "Three raw rows merged. ADDRESS AND FLOOR BOTH PARTIAL — OSM node/4903113482 has no level tag, and OSM way/89183362 シューマンビル carries only 外神田四丁目 block 6. CHRONOSGATE is on the floor above; 塩田トゥール秋葉原 next door holds もののぷ."
   },
   {
-   "id": "dansou-cafe-akiba-asobikan",
-   "name_ja": "男装カフェ（アキバあそび館6F）",
-   "name_en": "Dansou Cafe",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館6F",
-   "building_ja": "アキバあそび館",
-   "floors": "6F",
-   "what_it_sells": "Dansou (women in men's dress / 'prince') cafe — the female-audience counterpart to a maid cafe, with butler-style service and cheki.",
-   "notability": 2,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "NAME UNCERTAIN: '男装カフェ' in OSM is a generic descriptor and may be a placeholder rather than the shop's trading name. OSM level=5 → 6F (source reported 5F). Building address 外神田1-6-3 comes from NAVITIME's entry for the former アキバ絶対領域+e in the same building; OSM way/91529478 アキバあそび館 (7 storeys) has no addr tags."
-  },
-  {
-   "id": "melt-asleep-akihabara",
-   "name_ja": "メルトアスリープ",
-   "name_en": "Melt Asleep",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田4-4-9 松井ビル2F",
-   "building_ja": "松井ビル",
-   "floors": "2F",
-   "what_it_sells": "Small concept cafe on the Suehirocho idol street — drinks, sweets and cast conversation in a sleepy/dreamy themed room.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Two raw rows merged. Address confirmed by OSM way/89182758 松井ビル at 外神田四丁目4-9 (8 storeys) — note there is a second, unrelated 松井ビル at 外神田三丁目13-5 (OSM way/87148707). ナチュラリア is on the floor below; floor numbering in this building is reported inconsistently across sources."
-  },
-  {
-   "id": "cafe-menu-akihabara",
-   "name_ja": "cafe MENU",
-   "name_en": "cafe MENU",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田3-15-6 小暮末広ビル2F",
-   "building_ja": "小暮末広ビル",
-   "floors": "2F",
-   "what_it_sells": "Concept cafe open 12:00-20:00 in the Kogure Suehiro concafe stack — drinks, light food and cast service.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "Address confirmed by OSM way/89002300 小暮末広ビル (外神田三丁目15-6, 9 storeys). Same stack as LILIAN PICOLE and Cafe Chales. The 2F floor is NAVITIME's; there is no OSM node for this shop."
-  },
-  {
    "id": "cafe-bar-b-cats",
    "name_ja": "Cafe & Bar B-Cats",
    "name_en": "Cafe & Bar B-Cats",
@@ -3623,34 +2691,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "OSM node/2276456238 maid=yes, level=1 → 2F (source reported 1F), check_date 2024-11-20. Address confirmed by OSM way/88982682 竹本ビル (外神田三丁目4-16) 1m away."
-  },
-  {
-   "id": "angel-drops-akihabara",
-   "name_ja": "エンジェルドロップス",
-   "name_en": "Angel Drops",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-7 秋葉原センタービル4F",
-   "building_ja": "秋葉原センタービル",
-   "floors": "4F",
-   "what_it_sells": "Angel-themed concept cafe with winged uniforms, sweets and cheki.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "Address confirmed by OSM way/91529470 秋葉原センタービル (block 6, housenumber 7, 4 storeys) 5m away. OSM level=3 → 4F (source reported 3F); 4F is the building's top floor, which is consistent."
-  },
-  {
-   "id": "nyan-nyan-biyen-akihabara",
-   "name_ja": "娘娘美苑",
-   "name_en": "Nyan Nyan Biyen",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-7 秋葉原センタービル3F",
-   "building_ja": "秋葉原センタービル",
-   "floors": "3F",
-   "what_it_sells": "Chinese-themed concept cafe in the Akihabara Center Building, one floor below Angel Drops.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM amenity=cafe, level=2 → 3F (source reported 2F). IDOLY is also reported on the 2F/3F of this building — one of the two may be a stale tenant record."
   },
   {
    "id": "palace-gate-akihabara",
@@ -3736,20 +2776,6 @@
    "note": "OSM node added 2025 (check_date 2025-06-12), level=2 → 3F — probably a recent opening. Same address caveats as Pastel Maid: only the chome-and-block area is safe."
   },
   {
-   "id": "frapeko-akihabara",
-   "name_ja": "フラペコ",
-   "name_en": "Frapeko",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館1F",
-   "building_ja": "アキバあそび館",
-   "floors": "1F",
-   "what_it_sells": "Ground-floor concept cafe in the Akiba Asobikan concafe tower — a frappe-led drink menu and cast cheki.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM theme=maid, level=0. アキバあそび館 stacks six concafes on floors 1-7; the 外神田1-6-3 building address comes from NAVITIME's listing for the former アキバ絶対領域+e, not from OSM."
-  },
-  {
    "id": "black-cinderella-akihabara",
    "name_ja": "ブラックシンデレラ",
    "name_en": "Black Cinderella",
@@ -3776,20 +2802,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "OSM level=3 → 4F (source reported 3F)."
-  },
-  {
-   "id": "blue-egg-akihabara",
-   "name_ja": "BLUE EGG",
-   "name_en": "BLUE EGG",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館5F",
-   "building_ja": "アキバあそび館",
-   "floors": "5F",
-   "what_it_sells": "Concept cafe in the Akiba Asobikan stack.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM theme=maid, level=4 → 5F (source reported 4F)."
   },
   {
    "id": "maison-de-chou-chou-akihabara",
@@ -3820,20 +2832,6 @@
    "note": "OSM level=3 → 4F (source reported 3F), check_date 2025-05-19. ADDRESS PARTIAL — OSM way/89002305 秋葉原M2ビル carries 外神田三丁目 block 15 but no house number. The building holds at least three concafes (this, ベルベット, Saint Universe)."
   },
   {
-   "id": "velvet-akihabara",
-   "name_ja": "ベルベット",
-   "name_en": "Velvet",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田3-15付近 秋葉原M2ビル5F（番地未確認）",
-   "building_ja": "秋葉原M2ビル",
-   "floors": "5F",
-   "what_it_sells": "Concept cafe in the M2 building stack.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM level=4 → 5F (source reported 4F), check_date 2025-05-19."
-  },
-  {
    "id": "saint-universe-akihabara",
    "name_ja": "Saint Universe",
    "name_en": "Saint Universe",
@@ -3846,34 +2844,6 @@
    "tier": 3,
    "still_open": "unknown",
    "note": "OSM level=5 → 6F (source reported 5F), check_date 2025-05-19."
-  },
-  {
-   "id": "lilian-picole-akihabara",
-   "name_ja": "LILIAN PICOLE ラビリント店",
-   "name_en": "LILIAN PICOLE",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田3-15-6 小暮末広ビル2F",
-   "building_ja": "小暮末広ビル",
-   "floors": "2F",
-   "what_it_sells": "Concept cafe in the Kogure Suehiro building, below cafe MENU and Cafe Chales.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM carries branch='ラビリント店', level=1 → 2F (source reported 1F), check_date 2024-08-23. Address confirmed by OSM way/89002300 小暮末広ビル (外神田三丁目15-6) 3m away. Distinct from リリアンキュキュ in 第2日加石油ビル despite the similar name."
-  },
-  {
-   "id": "cafe-chales-akihabara",
-   "name_ja": "Cafe Chales",
-   "name_en": "Cafe Chales",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田3-15-6 小暮末広ビル5F",
-   "building_ja": "小暮末広ビル",
-   "floors": "5F",
-   "what_it_sells": "Late-opening concept cafe (17:00-24:00) in the Kogure Suehiro building.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "unknown",
-   "note": "OSM level=4 → 5F (source reported 4F), opening_hours Mo-Su 17:00-24:00 — evening-only, so check it is a concept cafe and not a girls-bar before publishing."
   },
   {
    "id": "momonekodou-akihabara",
@@ -4164,20 +3134,6 @@
    "tier": 3,
    "still_open": "probably_open",
    "note": "WEAK EVIDENCE — Google Maps only; TSHビル is not in the OSM extract and no official site was found. Could equally be filed as idol, but it is a concept cafe first."
-  },
-  {
-   "id": "idoly-akihabara",
-   "name_ja": "IDOLY",
-   "name_en": "IDOLY",
-   "category": "maid_cafe",
-   "address_ja": "東京都千代田区外神田1-6-7 秋葉原センタービル2F",
-   "building_ja": "秋葉原センタービル",
-   "floors": "2F",
-   "what_it_sells": "Idol-themed concept cafe with cast performances and cheki.",
-   "notability": 1,
-   "tier": 3,
-   "still_open": "probably_open",
-   "note": "WEAK EVIDENCE — Google Maps only. Building address confirmed by OSM way/91529470 (外神田1-6-7). OSM instead has 娘娘美苑 on this building's 2F/3F, so one of the two records is a stale tenant — check which is currently trading."
   },
   {
    "id": "kimi-no-kanojo-ni-naritai-akihabara",

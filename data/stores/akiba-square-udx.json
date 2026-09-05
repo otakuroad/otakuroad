@@ -1,0 +1,83 @@
+{
+ "id": "akiba-square-udx",
+ "name": {
+  "ko": "아키바 스퀘어",
+  "en": "AKIBA_SQUARE",
+  "ja": "アキバ・スクエア"
+ },
+ "synonyms": [
+  "아키바스퀘어",
+  "UDX 아키바 스퀘어",
+  "아키하바라 UDX 2층 이벤트홀",
+  "AKIBA SQUARE",
+  "Akiba Square UDX",
+  "アキバスクエア",
+  "秋葉原UDX アキバ・スクエア",
+  "UDXアキハバラスペース"
+ ],
+ "category": "idol",
+ "tags": [
+  "event_space",
+  "rental_hall",
+  "anime_event",
+  "game_event",
+  "tcg_event",
+  "exhibition",
+  "pop_up",
+  "idol_event"
+ ],
+ "one_line": {
+  "ko": "애니·게임 전시회와 트레카 이벤트, 팝업숍이 열리는 UDX 2층 대관 이벤트홀",
+  "en": "1,010 sqm rental event hall on UDX 2F used for anime and game exhibitions and pop-ups"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70037,
+  "lng": 139.77261
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-14-1 秋葉原UDX 2F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분, 긴자선 스에히로초역 1번 출구에서 도보 3분. 주오도리 동쪽 아키하바라 UDX 빌딩 2층으로, 음식점가 AKIBA_ICHI와 오피스 로비가 있는 층이다. 실내 1,010㎡ 외에 야외 오픈스페이스 280㎡와 UDX 광장도 같은 이벤트 공간으로 쓰인다.",
+  "en": "Three minutes from the JR Akihabara Electric Town exit, three from Suehirocho exit 1. It is on 2F of the Akihabara UDX building east of Chuo-dori, the same floor as the AKIBA_ICHI restaurant street and the office lobby. Besides the 1,010 sqm indoor hall there is a 280 sqm outdoor open space and the UDX plaza."
+ },
+ "tips": {
+  "ko": [
+   "상설 시설이 아니라 대관 이벤트홀이다. 이벤트가 없는 날은 들어갈 수 없으므로 개최 일정은 각 이벤트 공식 사이트나 티켓 사이트에서 확인할 것.",
+   "실제 개최 예: 2026년 7~8월 '슈타인즈 게이트 15th ANNIVERSARY EXHIBITION', 2026-08-22 '초 카드게임 시장 in UDX', 2025-10 'AKIBA 페스'.",
+   "같은 건물 4층 UDX 갤러리·UDX 시어터, 6층 UDX 컨퍼런스와 묶어 대관하는 대형 이벤트가 많다. 티켓에 적힌 홀 이름과 층을 먼저 확인하면 헤매지 않는다."
+  ],
+  "en": [
+   "This is a rental hall, not a permanent attraction - you can only go in when an event is running, so check the organiser's or ticket site for dates.",
+   "Recent bookings include the STEINS;GATE 15th Anniversary Exhibition (July-August 2026), the Cho Card Game Ichiba card market on 2026-08-22, and AKIBA Fes in October 2025.",
+   "Large events often combine it with UDX Gallery and UDX Theater on 4F or UDX Conference on 6F, so check the hall name and floor printed on your ticket."
+  ]
+ },
+ "official_url": "https://udx-akibaspace.jp/akibasquare/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://udx-akibaspace.jp/akibasquare/",
+  "https://udx-akibaspace.jp/examples/",
+  "https://livepocket.jp/event/search?venue=%E7%A7%8B%E8%91%89%E5%8E%9FUDX%E3%80%80%E3%82%A2%E3%82%AD%E3%83%90%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%EF%BC%882F%EF%BC%89"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,119 @@
+{
+ "id": "bushiroad-store-akihabara-gamers",
+ "name": {
+  "ko": "부시로드 스토어 (아키하바라 게이머즈 본점 내)",
+  "en": "Bushiroad Store (inside AKIHABARA Gamers Main Store)",
+  "ja": "ブシロードストア（AKIHABARAゲーマーズ本店内）"
+ },
+ "synonyms": [
+  "부시로드 스토어",
+  "부시로드스토어",
+  "게이머즈 4층 부시로드",
+  "뱅가드 스토어",
+  "Bushiroad Store",
+  "Bushiroad Store Akihabara",
+  "Vanguard Store",
+  "ブシロードストア",
+  "ブシロードストア AKIHABARAゲーマーズ本店内",
+  "ヴァンガードストア",
+  "バンドリオフィシャルコラボストア"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "bushiroad",
+  "vanguard",
+  "trading_card",
+  "bang_dream",
+  "anime_cd",
+  "blu_ray",
+  "limited_edition",
+  "new"
+ ],
+ "one_line": {
+  "ko": "부시로드 CD·블루레이·서적·굿즈와 뱅가드 트레카를 파는 게이머즈 4층 매장",
+  "en": "Bushiroad CDs, Blu-rays, books and goods plus Vanguard cards on Gamers 4F"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698311,
+  "lng": 139.771682
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビル AKIHABARAゲーマーズ本店4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 11:00 개점으로 1층 서적 매장(10:00)보다 한 시간 늦다. 태풍 등 임시 휴업·시간 변경은 게이머즈 본점 X(@akiba_gema) 공지로 확인.",
+   "en": "Opens at 11:00 on weekdays, an hour later than the 1F bookshop (10:00). Typhoon closures and time changes are posted on the flagship's X account @akiba_gema."
+  },
+  "source_url": "https://www.gamers.co.jp/shop/detail.php?id=25"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 2분, 아키하바라 게이머즈 본점 건물 4층. 1층 서적 매장 입구로 들어가 엘리베이터나 에스컬레이터로 4층까지 올라간다. 부시로드 공식 사이트는 같은 주소의 건물을 '宝田ビル', 게이머즈는 '外神田一丁目ビル'로 적지만 같은 건물이다. 같은 4층에 BanG Dream! 오피셜 콜라보 스토어가 있다.",
+  "en": "Two minutes from the JR Akihabara Electric Town exit, on 4F of the AKIHABARA Gamers flagship. Enter through the 1F bookshop and take the lift or escalator up to 4F. Bushiroad's own site calls the building 宝田ビル and Gamers calls it 外神田一丁目ビル - it is the same block. The BanG Dream! official collab store shares the floor."
+ },
+ "tips": {
+  "ko": [
+   "2026년 8월 1일부터 뱅가드 스토어가 이 층의 부시로드 스토어 안으로 이전해, 뱅가드 상품과 이벤트도 4층에서 취급한다.",
+   "같은 층에 BanG Dream! 오피셜 콜라보 스토어가 병설되어 있다.",
+   "신용카드·교통계 IC·PayPay·Alipay·WeChat Pay·도서카드를 쓸 수 있지만 예약 내금(선금)은 현금만 받는다.",
+   "면세 대응은 공식 페이지에 표기가 비어 있으므로 계산대에서 확인할 것."
+  ],
+  "en": [
+   "Since 1 Aug 2026 the Vanguard Store has been inside this floor's Bushiroad Store, so Vanguard product and events are handled here on 4F.",
+   "The BanG Dream! official collab store shares the same floor.",
+   "Credit cards, transit IC, PayPay, Alipay, WeChat Pay and book cards are accepted, but pre-order deposits are cash only.",
+   "The tax-free line on the official page is left blank, so ask at the register."
+  ]
+ },
+ "official_url": "https://www.gamers.co.jp/shop/detail.php?id=25",
+ "sns": {},
+ "chain": "bushiroad",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gamers.co.jp/shop/detail.php?id=25",
+  "https://bushiroad-creative.com/pages/bushi-store",
+  "https://www.gamers.co.jp/shop/",
+  "https://www.gamers.co.jp/shop/detail.php?id=4",
+  "https://www.gamers.co.jp/shop/detail.php?id=24"
+ ],
+ "osm_id": null
+}

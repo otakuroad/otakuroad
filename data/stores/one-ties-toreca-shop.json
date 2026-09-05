@@ -1,0 +1,116 @@
+{
+ "id": "one-ties-toreca-shop",
+ "name": {
+  "ko": "트레카숍 원타이즈",
+  "en": "Toreca Shop OneTies",
+  "ja": "トレカショップ OneTies"
+ },
+ "synonyms": [
+  "원타이즈",
+  "원티즈",
+  "트레카숍 원타이즈",
+  "OneTies",
+  "One Ties",
+  "OneTies JAPAN",
+  "oneties",
+  "トレカショップOneTies",
+  "ワンタイズ",
+  "トレカショップ One Ties"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "one_piece_card",
+  "tcg_singles",
+  "oripa",
+  "buyback",
+  "english_ok",
+  "overseas_shipping"
+ ],
+ "one_line": {
+  "ko": "원피스 카드 전문점. 싱글·오리파 판매와 매입, 영어 응대와 해외 발송",
+  "en": "One Piece card specialist selling singles and oripa, with buyback and English service"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.695869,
+  "lng": 139.77446
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区神田須田町2-11-8 玉甚ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "19:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 19:00에 닫고 토·일·공휴일만 21:00까지 연다. 정기휴일 안내는 공식 사이트에 없다.",
+   "en": "Weekdays close at 19:00; only Saturdays, Sundays and public holidays run to 21:00. The official site lists no regular closing day."
+  },
+  "source_url": "https://oneties-japan.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "간다강을 건너 남쪽 간다스다초 2초메, 도에이 신주쿠선 이와모토초역에서 도보 1분·JR 아키하바라역에서 도보 5분. 2층이 레트로 PC 가게 One up. 아키하바라점인 타마진(玉甚)빌딩의 1층 노면 점포다.",
+  "en": "South across the Kanda river in Kanda-Sudacho 2-chome, one minute from Iwamotocho on the Toei Shinjuku line and five from JR Akihabara. It is the ground-floor unit of the Tamajin Building, whose 2F is the retro-PC shop One up. Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "취급 타이틀이 원피스 카드 하나뿐이다. 다른 게임 카드는 없다.",
+   "영어 응대 직원이 있고 해외 주문은 인스타그램 DM으로 받는다. 해외 결제는 신용카드·Wise·PayPal.",
+   "평일 13:00~19:00, 주말·공휴일 13:00~21:00으로 평일에 일찍 닫는다.",
+   "2023년 8월 개업. 고물상 허가(제431010058611호)를 받은 정규 매입점이며 우편 매입도 전국에서 받는다."
+  ],
+  "en": [
+   "One Piece cards are the only line carried - no other games at all.",
+   "English-speaking staff are on hand; overseas orders go through Instagram DM, paid by credit card, Wise or PayPal.",
+   "Weekdays 13:00-19:00 and weekends/holidays 13:00-21:00, so it shuts early on weekdays.",
+   "Opened August 2023, licensed as a second-hand dealer (No. 431010058611); mail-in buyback is accepted from anywhere in Japan."
+  ]
+ },
+ "official_url": "https://oneties-japan.com/",
+ "sns": {
+  "x": "https://x.com/ties_HRN1028",
+  "instagram": "https://www.instagram.com/one.ties1028/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://oneties-japan.com/",
+  "https://akihabara-cardmap.com/ja/shop/treca-shop-oneties/"
+ ],
+ "osm_id": null
+}

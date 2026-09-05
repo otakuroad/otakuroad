@@ -1,0 +1,124 @@
+{
+ "id": "akihabara-shukaijo",
+ "name": {
+  "ko": "게임카페 아키하바라 슈카이조",
+  "en": "Game Cafe Akihabara Shukaijo",
+  "ja": "ゲームカフェ 秋葉原集会所"
+ },
+ "synonyms": [
+  "아키하바라 슈카이조",
+  "슈카이조",
+  "아키하바라 집회소",
+  "보드게임 카페 슈카이조",
+  "Akihabara Shukaijo",
+  "Game Cafe Shukaijo",
+  "shukaijo",
+  "秋葉原集会所",
+  "ゲームカフェ秋葉原集会所",
+  "しゅうかいじょ"
+ ],
+ "category": "arcade",
+ "tags": [
+  "board_game",
+  "tcg",
+  "trpg",
+  "play_space",
+  "time_charge",
+  "free_drink",
+  "cafe",
+  "events",
+  "byo_food",
+  "non_smoking"
+ ],
+ "one_line": {
+  "ko": "보드게임 700종을 무료로 빌려주고 TCG·TRPG 자리를 시간제로 파는 게임 카페",
+  "en": "Game cafe charging by time: 700+ board games to borrow free, TCG and TRPG tables"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702613,
+  "lng": 139.770683
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-8-6 イサミヤ第7ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "fri"
+    ],
+    "open": "15:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "목요일 휴무",
+   "en": "Closed on Thursdays"
+  },
+  "note": {
+   "ko": "공식 사이트와 핫페퍼 예약 달력 모두 목요일 휴무로 같다. 1주일 전에 예약하면 영업시간 외(심야·평일 오전) 이용도 가능하며(1시간 +500엔), 임시 시간 변경은 공식 사이트 'お知らせ'에 올라온다.",
+   "en": "The official site and the Hot Pepper booking calendar agree on the Thursday closure. With a week's notice the shop opens outside these hours (late night or weekday morning) for +500 yen an hour; temporary changes are posted under 'お知らせ' on the official site."
+  },
+  "source_url": "https://shukaijo.com/access/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 구라마에바시도리를 따라가다 파출소를 지나 라멘집 '楽'에서 좌회전. 1층이 크레인게임 전문점 '遊技場'인 건물의 3층이 이 가게다. 엘리베이터는 왼쪽에 붙은 이사미야 제7빌딩 쪽에 있으니 그쪽으로 들어간다. 공식 주소는 제7빌딩이지만 핫페퍼에는 같은 가게가 이사미야 제2빌딩 3F로 표기된다.",
+  "en": "From exit 3 of Suehirocho Station follow Kuramaebashi-dori past the police box and turn left at the ramen shop Raku. The cafe is the 3F of the building whose ground floor is the crane-game shop Yugijo; the lift is in the adjoining Isamiya No.7 Building on the left, which is the way in. The official address gives Isamiya No.7 while Hot Pepper lists the same shop as Isamiya No.2 3F."
+ },
+ "tips": {
+  "ko": [
+   "프리드링크 포함 시간 요금제. 평일 1시간 1,400엔·2시간 1,900엔에 2시간 30분부터 상한 2,500엔, 토·일·공휴일은 1시간 2,100엔부터 12시간 6,100엔까지, 휴일 야간(18~22시)은 상한 2,500엔.",
+   "보드게임 700종 이상을 무료로 빌려주므로 빈손으로 가도 된다. 반면 가정용·휴대용 게임기는 직접 가져와야 하며 모니터만 무료 대여한다.",
+   "술과 음식은 팔지 않지만 반입은 자유롭고, 냉장·냉동 보관 서비스가 1그룹 500엔이다. 과자 200엔~, 컵라면 250엔~ 정도만 판매한다.",
+   "혼자 가도 매칭 시스템으로 합석해 놀 수 있다. 결제는 VISA·Mastercard와 PayPay·라쿠텐페이·d페이·au PAY가 되고 전석 금연이다."
+  ],
+  "en": [
+   "Time-based pricing with a free drink bar: weekdays 1,400 yen for an hour, 1,900 for two and a 2,500 yen cap from two and a half hours; weekends and holidays run 2,100 yen for an hour up to 6,100 for twelve, with a 2,500 yen cap on holiday evenings (18:00-22:00).",
+   "Over 700 board games are lent free, so you can turn up empty-handed. Console and handheld games must be your own - only the monitors are free to borrow.",
+   "No alcohol or meals are served but you may bring your own, and the fridge/freezer holds them for 500 yen a group. Only snacks (from 200 yen) and cup noodles (from 250 yen) are sold.",
+   "Solo visitors are matched with other groups. VISA and Mastercard plus PayPay, Rakuten Pay, d-barai and au PAY are accepted, and the whole shop is non-smoking."
+  ]
+ },
+ "official_url": "https://shukaijo.com/",
+ "sns": {
+  "x": "https://x.com/shukaijo"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://shukaijo.com/",
+  "https://shukaijo.com/access/",
+  "https://shukaijo.com/system/",
+  "https://shukaijo.com/faq/",
+  "https://www.hotpepper.jp/strJ000770864/"
+ ],
+ "osm_id": "node/9556174930"
+}

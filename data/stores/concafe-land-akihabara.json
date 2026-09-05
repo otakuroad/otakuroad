@@ -1,0 +1,118 @@
+{
+ "id": "concafe-land-akihabara",
+ "name": {
+  "ko": "콘카페랜드",
+  "en": "Concafe Land",
+  "ja": "コンカフェランド"
+ },
+ "synonyms": [
+  "콘카페랜드",
+  "콘카페 랜드",
+  "키미도키",
+  "와타오시",
+  "Concafe Land",
+  "ConcafeLand",
+  "Cafe&Bar コンカフェランド",
+  "コンカフェランド",
+  "キミドキ",
+  "ワタオシ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "maid",
+  "cafe_bar",
+  "alcohol",
+  "late_night",
+  "karaoke",
+  "time_charge",
+  "omurice"
+ ],
+ "one_line": {
+  "ko": "메이드·여자친구 두 콘셉트 부스가 있는 야간 콘카페. 40분 시간제와 음료 무제한",
+  "en": "Evening concept cafe with maid and girlfriend booths: 40-minute seat charge and drinks"
+ },
+ "building_id": null,
+ "floors": [
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697744,
+  "lng": 139.77232
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-15-13 秋葉原B&Vビル7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "17:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open every day"
+  },
+  "note": {
+   "ko": "공식 사이트 Access에는 '（全日）17:00〜25:00'으로 적혀 있어 실제로는 다음 날 새벽 1시에 닫지만, 표에는 24:00으로 끊어 적었다.",
+   "en": "The official Access page states 17:00-25:00 every day, i.e. closing at 1:00 the next morning; the table caps it at 24:00."
+  },
+  "source_url": "https://concafeland.tokyo/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 남쪽으로 도보 1분, 외신다 1-15 블록의 아키하바라 B&V 빌딩 7층. 같은 건물 10층에 메이드메이드 역앞점이 있으니 엘리베이터에서 층을 확인한다.",
+  "en": "One minute south of JR Akihabara's Electric Town Exit, on 7F of the Akihabara B&V Building in the Sotokanda 1-15 block. MAID MADE Akihabara Ekimae is on 10F of the same building, so check the floor in the lift."
+ },
+ "tips": {
+  "ko": [
+   "요금은 40분 기본요금제로 카운터석 3,000엔, 소파석 6,000엔이며 연장도 40분 단위로 같은 금액이 붙는다. 지명료는 1,000엔이다.",
+   "17:00에 열어 다음 날 새벽 1시까지 하는 야간 매장이라 낮에는 문을 열지 않는다.",
+   "한 층에 '키미도키'(이상적인 여자친구 콘셉트)와 '와타오시'(메이드 콘셉트) 두 부스가 있어 들어갈 때 고른다.",
+   "음료 무제한 코스와 노래방(1,000엔)이 있고 오므라이스·타코야키 같은 간단한 식사 메뉴도 있다.",
+   "결제 수단에 대한 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "The base charge is per 40 minutes: 3,000 yen at the counter, 6,000 yen on a sofa seat, with extensions at the same rate; naming a cast member costs 1,000 yen.",
+   "It opens at 17:00 and runs to 1:00 the next morning, so it is closed during the day.",
+   "One floor holds two booths - Kimidoki (idealised-girlfriend theme) and Wataoshi (maid theme) - and you pick one on arrival.",
+   "There are all-you-can-drink courses and karaoke (1,000 yen), plus light dishes such as omurice and takoyaki.",
+   "No payment methods are stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://concafeland.tokyo/",
+ "sns": {
+  "x": "https://x.com/concafeland",
+  "instagram": "https://www.instagram.com/concafeland/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://concafeland.tokyo/",
+  "https://gjgf300.gorp.jp/",
+  "https://www.pokepara.jp/tokyo/m9/a10034/shop17476/"
+ ],
+ "osm_id": null
+}

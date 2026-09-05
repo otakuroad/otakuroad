@@ -1,0 +1,86 @@
+{
+ "id": "toreca-pocket-center-akihabara",
+ "name": {
+  "ko": "트레카 포켓센터 아키하바라",
+  "en": "Toreca Pocket Center AKIHABARA",
+  "ja": "トレカポケットセンターAKIHABARA"
+ },
+ "synonyms": [
+  "트레카포켓센터",
+  "포켓센터 아키하바라",
+  "트레카 포켓 센터",
+  "포켓센터",
+  "Toreca Pocket Center",
+  "Pocket Center Akihabara",
+  "トレカポケットセンター",
+  "ポケットセンター 秋葉原",
+  "ダイサンビル501"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "singles",
+  "old_back",
+  "supplies",
+  "upper_floor",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드 싱글과 1996년 구판 카드, 해외 서플라이를 파는 5층 매장",
+  "en": "Fifth-floor Pokemon card shop: singles, 1996 old-back cards and overseas supplies"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702284,
+  "lng": 139.771389
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-16-14 ダイサンビル501（5F）",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 북쪽 끝, 긴자선 스에히로초역에 가까운 외신다 3-16 블록의 '다이산 빌딩(ダイサンビル)' 5층 501호. 노면 점포가 아니라 눈에 띄는 간판이 없으므로 건물 입구의 층별 안내에서 501호를 확인하고 엘리베이터로 올라간다.",
+  "en": "At the north end of Chuo-dori near Suehirocho station on the Ginza Line: room 501 on 5F of the Daisan Building in the 3-16 block. It is an upstairs shop with no street-level presence, so check the lobby board for 501 and take the elevator."
+ },
+ "tips": {
+  "ko": [
+   "공식 홈페이지가 없다. 카드숍 디렉터리 '트레카의 지도'는 평일 14:00-20:00, 토·일 13:00-20:00, 공휴일 휴무, 부정기 휴무로 적고 있다. 오전에는 열지 않는다.",
+   "현행 스탠다드 카드뿐 아니라 1996년 구판(旧裏面) 포켓몬 카드와 지난 레귤레이션 카드를 함께 다룬다.",
+   "해외 서플라이(슬리브·플레이매트) 구색이 넓은 편이다.",
+   "듀얼 스페이스는 없다. 문의 전화 050-1808-7913."
+  ],
+  "en": [
+   "There is no official website. The card-shop directory Torecamap lists 14:00-20:00 on weekdays and 13:00-20:00 at weekends, closed on public holidays, with irregular closing days. It does not open in the morning.",
+   "Alongside current standard-legal cards it carries 1996 old-back Pokemon cards and past-regulation stock.",
+   "The range of overseas supplies (sleeves, playmats) is unusually wide for a shop this size.",
+   "There is no duel space. Phone 050-1808-7913."
+  ]
+ },
+ "official_url": null,
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2182",
+  "https://akihabara-cardmap.com/ja/shop/treca-pocket-center-akihabara/",
+  "https://akibatoreka.com/introduce",
+  "https://www.openstreetmap.org/way/94726773"
+ ],
+ "osm_id": null
+}

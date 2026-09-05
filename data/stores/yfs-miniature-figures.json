@@ -1,0 +1,125 @@
+{
+ "id": "yfs-miniature-figures",
+ "name": {
+  "ko": "미니어처 인형 YFS 아키하바라 본점",
+  "en": "YFS Miniature Figures Akihabara Main Store",
+  "ja": "ミニチュア人形のYFS 秋葉原本店"
+ },
+ "synonyms": [
+  "YFS",
+  "YFS 아키하바라",
+  "YFS 아키바 오카치마치점",
+  "미니어처 인형의 YFS",
+  "미니추어 인형 YFS",
+  "와이에프에스",
+  "ミニチュア人形のYFS",
+  "YFSアキバ御徒町本店",
+  "ミニチュア人形のYFS アキバ御徒町店",
+  "ミニチュア フィギュア YFS アキバ御徒町店",
+  "YFS Akiba Okachimachi",
+  "yfs-figure"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "miniature_figure",
+  "railway_model",
+  "n_gauge",
+  "ho_gauge",
+  "z_gauge",
+  "diorama",
+  "architectural_model",
+  "dollhouse",
+  "ball_jointed_doll",
+  "interior_light",
+  "3d_print",
+  "new"
+ ],
+ "one_line": {
+  "ko": "N게이지·HO게이지 철도 모형과 건축 모형용 1/30~1/500 미니어처 인형 전문점",
+  "en": "1/30 to 1/500 miniature people for railway, diorama and architectural models"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.706216,
+  "lng": 139.771844
+ },
+ "street_segment": null,
+ "address_ja": "東京都台東区上野1-10-10 東京閣ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:30"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "18:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화·수요일 휴무",
+   "en": "Closed Tuesdays and Wednesdays"
+  },
+  "note": {
+   "ko": "공식 사이트 안에서도 평일 폐점 시각이 점포안내 페이지 20:30, 사이드바 20:00으로 다르게 적혀 있다. 저녁 늦게 갈 계획이면 X·인스타그램 공지를 먼저 확인. 모형 전시회 출전 기간에는 며칠씩 임시 휴업한다.",
+   "en": "The official site itself gives two weekday closing times - 20:30 on the store-guide page and 20:00 in the sidebar - so check X or Instagram before a late visit. The shop shuts for several days when it exhibits at model conventions."
+  },
+  "source_url": "https://yfs-figure.com/?mode=f3"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아키하바라 중심가에서 주오도리를 따라 북쪽으로 올라간 우에노 방면. JR 오카치마치역, 긴자선 우에노히로코지역, 지요다선 유시마역에서 각각 도보 3분, 히비야선 나카오카치마치역에서 약 6분이라고 공식 점포안내에 적혀 있다. 東京閣ビル 2층이며, 가게 인스타그램은 '우사기야(도라야키집) 옆 건물 2층'이라고 안내한다.",
+  "en": "North of the Akihabara core, up Chuo-dori towards Ueno. The official store guide gives three minutes from JR Okachimachi, Ginza-line Ueno-hirokoji and Chiyoda-line Yushima, and about six minutes from Hibiya-line Naka-okachimachi. It is on 2F of the Tokyokaku Building (東京閣ビル); the shop's Instagram describes it as the second floor of the building next to the Usagiya dorayaki shop."
+ },
+ "tips": {
+  "ko": [
+   "화·수요일 휴무. 평일 13시, 토·일·공휴일 12시 개점이라 오전에는 닫혀 있다.",
+   "1/150(N게이지)·1/87(HO)·1/220(Z) 철도 모형용 인형 외에 1/30~1/500 건축·디자인 모형용 인형, 돌하우스 가구, 구체관절인형, 실내등, 완성 지오라마까지 다룬다.",
+   "가게 안 지정 지오라마에 자기 차량을 올려두고 10분간 촬영할 수 있는 서비스가 있다고 공식 점포안내에 적혀 있다.",
+   "국제철도모형컨벤션 등 전시회 출전 기간에는 여러 날 임시 휴업하므로 공식 사이트 캘린더를 먼저 볼 것."
+  ],
+  "en": [
+   "Closed Tuesdays and Wednesdays; it opens at 13:00 on weekdays and 12:00 at weekends and holidays, so mornings are out.",
+   "Beyond 1/150 (N), 1/87 (HO) and 1/220 (Z) railway figures it carries 1/30-1/500 architectural and design-model people, dollhouse furniture, ball-jointed dolls, interior lighting and finished dioramas.",
+   "The official store guide offers a service where you set your own model train on one of the shop's dioramas and photograph it for ten minutes.",
+   "It closes for several days when exhibiting at shows such as the Japan International Model Railway Convention, so check the calendar on the official site first."
+  ]
+ },
+ "official_url": "https://yfs-figure.com/",
+ "sns": {
+  "x": "https://x.com/yfs_figure",
+  "instagram": "https://www.instagram.com/yfs_figureshop/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://yfs-figure.com/?mode=f3",
+  "https://yfs-figure.com/"
+ ],
+ "osm_id": "node/10803059364"
+}

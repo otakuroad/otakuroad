@@ -1,0 +1,118 @@
+{
+ "id": "akibaoo-akihabara-4",
+ "name": {
+  "ko": "아키바오 4호점",
+  "en": "Akibaoo 4th Store",
+  "ja": "あきばお～四號店"
+ },
+ "synonyms": [
+  "아키바오",
+  "아키바오 4호점",
+  "아키바오 사호점",
+  "아키바오코쿠",
+  "Akibaoo",
+  "Akibaoo 4",
+  "Akibaoo Koku",
+  "あきばお〜四號店",
+  "あきばお～4号店",
+  "あきばおー四號店",
+  "あきばお～こく",
+  "あきばおこく"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "doujin_music",
+  "doujin_game",
+  "doujin_goods",
+  "cosplay_photobook",
+  "figure",
+  "anime_dvd",
+  "touhou",
+  "new"
+ ],
+ "one_line": {
+  "ko": "동인 음악 CD·동인 게임·동인 굿즈와 코스프레 사진집을 파는 지하 매장",
+  "en": "Basement shop for doujin music CDs, doujin games, doujin goods and cosplay photobooks"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699111,
+  "lng": 139.770394
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-10 バウハウスB1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일 11:00-20:00, 토·일·공휴일 10:30-19:30으로 주말이 더 일찍 열고 일찍 닫는다.",
+   "en": "Weekdays 11:00-20:00; Saturdays, Sundays and public holidays 10:30-19:30, so weekends open earlier and close earlier."
+  },
+  "source_url": "https://www.akibaoo.co.jp/static/n/company/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "슈퍼포테이토에서 서쪽으로 한 블록, 주오도리 뒤편 바우하우스 빌딩 지하 1층. 1층 あきばお〜 2호점 안쪽 계단이나 건물 밖 케밥 가게 안쪽 외부 계단으로 내려간다. 건물 엘리베이터는 지하로 내려가지 않는다.",
+  "en": "In the basement of the Bauhaus Building on the back streets west of Chuo-dori, a block from Super Potato. Go down either by the stairs inside Akibaoo No.2 on the ground floor or by the outside staircase behind the kebab stand; the building lift does not serve the basement."
+ },
+ "tips": {
+  "ko": [
+   "건물 엘리베이터로는 지하에 갈 수 없다. 1층 매장 안 계단이나 건물 밖 외부 계단을 이용해야 한다.",
+   "체인 안내문에 '고등학생도 편하게 들를 수 있는 분위기'라고 적혀 있을 만큼 성인 전용 코너를 내세우지 않는 동인 매장이다.",
+   "같은 바우하우스 빌딩 1층은 잡화 중심의 あきばお〜 2호점이라 헷갈리기 쉽다. 동인 상품은 지하 1층이다.",
+   "체인 점포 안내에는 外神田3-1-12 'あきばお〜零' 3층의 참호점(3호점)도 같은 'あきばお〜こく' 이름으로 실려 있어, 방문 전 지점을 확인하는 편이 좋다."
+  ],
+  "en": [
+   "The building lift does not reach the basement; use the stairs inside the ground-floor shop or the outside staircase.",
+   "The chain describes it as a doujin shop relaxed enough for high-school students, so it is not run as an adults-only floor.",
+   "The ground floor of the same Bauhaus Building is Akibaoo No.2, a variety shop - the doujin stock is the basement.",
+   "The chain's store list also carries a No.3 shop on 3F of Akibaoo Zero (Sotokanda 3-1-12) under the same 'Akibaoo Koku' name, so check which branch you mean before going."
+  ]
+ },
+ "official_url": "https://www.akibaoo.co.jp/static/n/company/#42",
+ "sns": {},
+ "chain": "akibaoo",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.akibaoo.co.jp/static/n/company/",
+  "https://www.akibaoo.com/",
+  "https://www.akibaoo.co.jp/"
+ ],
+ "osm_id": null
+}

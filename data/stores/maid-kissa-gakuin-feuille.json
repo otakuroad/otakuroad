@@ -1,0 +1,129 @@
+{
+ "id": "maid-kissa-gakuin-feuille",
+ "name": {
+  "ko": "메이드카페 피유",
+  "en": "Maid Cafe Filles",
+  "ja": "メイド喫茶 Filles（フィーユ）"
+ },
+ "synonyms": [
+  "피유",
+  "필레스",
+  "메이드킷사 피유",
+  "메이드카페 학원 피유",
+  "아키하바라 메이드카페 피유",
+  "Filles",
+  "filles",
+  "Maid Cafe Filles Akihabara",
+  "Akihabara Maid Cafe Gakuin Filles",
+  "メイド喫茶フィーユ",
+  "メイド喫茶学院Filles",
+  "メイド喫茶学院フィーユ",
+  "フィーユ",
+  "秋葉原メイド喫茶フィーユ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "maid_cafe",
+  "counter_seat",
+  "cheki",
+  "costume_rental",
+  "point_card",
+  "no_smoking",
+  "event_day"
+ ],
+ "one_line": {
+  "ko": "카운터석 중심 메이드 카페. 메이드와의 대화, 체키, 여성 손님 메이드복 대여",
+  "en": "Counter-seat maid cafe: talk with the maids, cheki photos, maid-dress loan for women"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701996,
+  "lng": 139.771331
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-16-17 住吉ビル4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 13:00~23:00. 정기휴일은 부정기이며 화요일에 쉬는 주가 많다. 날짜별 영업시간·휴무와 개점 시각 변경은 공식 X(@filles_maidcafe)에 올라온다.",
+   "en": "17:00-23:00 on weekdays and 13:00-23:00 at weekends and public holidays, per the official site. Closing days are irregular and often fall on a Tuesday; day-by-day hours and changed opening times are posted on X (@filles_maidcafe)."
+  },
+  "source_url": "https://filles.jp/store/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 동쪽에 면한 9층짜리 스미요시(住吉) 빌딩 4층으로, 1층 입구에서 엘리베이터를 탄다. 같은 건물 6층이 메이드리밍 본점, 7층이 치요다 레일센터라 층 표시를 확인하고 내린다.",
+  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line and five from the JR Akihabara Electric Town exit. It is on 4F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance. Maidreamin's main store is on 6F and Chiyoda Rail Center on 7F, so check the floor sign."
+ },
+ "tips": {
+  "ko": [
+   "2026년에 창업 20주년을 맞은 노포 메이드카페로, 메이드에게 캐릭터 설정을 두지 않고 카운터석에서 대화하는 방식이 특징이다.",
+   "공식 요금표(2023-08-18 갱신) 기준 첫 방문 60분 1,600엔, 재방문 60분 1,800엔이며 좌석료·음료 1잔·메이드와의 미니게임이 포함된다. 평일에는 90분 세트(첫 방문 2,100엔, 재방문 2,400엔)도 있다.",
+   "여성 손님과 커플은 언제나 1,600엔이고, 점내 한정으로 메이드복을 무료로 빌려 직접 가져온 카메라로 사진을 찍을 수 있다.",
+   "코나페 디렉터리 '카페룬'의 매장 정보에는 VISA·Mastercard와 PayPay 결제 가능, 예약·전세·단체 이용 불가, 전석 금연으로 안내되어 있다.",
+   "평일 개점이 17:00이라 낮에는 문을 열지 않는다. 임시 개점 시간 변경이 잦으므로 방문 전 공식 X 확인이 필요하다."
+  ],
+  "en": [
+   "A long-running maid cafe that reached its 20th anniversary in 2026; the maids are given no character personas and the layout is built around counter seats for conversation.",
+   "The official price page (updated 2023-08-18) lists 1,600 yen for a first 60-minute visit and 1,800 yen afterwards, covering the seat, one drink and a mini-game with a maid; on weekdays there are also 90-minute sets at 2,100 / 2,400 yen.",
+   "Women and couples pay 1,600 yen at any time, and a maid dress can be borrowed free of charge for photos taken inside the shop with your own camera.",
+   "The Caferun concafe directory lists VISA and Mastercard plus PayPay, no reservations, no private hire, no groups, and a fully non-smoking room.",
+   "It opens at 17:00 on weekdays, so it is shut during the day; opening times change often, so check the official X account before going."
+  ]
+ },
+ "official_url": "https://filles.jp/",
+ "sns": {
+  "x": "https://x.com/filles_maidcafe"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://filles.jp/",
+  "https://filles.jp/store/",
+  "https://filles.jp/system/",
+  "https://shop.caferun.jp/shop/6086/",
+  "https://concafego.com/shop/e3b736dc322b9f006f44b9e9/"
+ ],
+ "osm_id": "node/6086147632"
+}

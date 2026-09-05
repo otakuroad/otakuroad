@@ -1,0 +1,89 @@
+{
+ "id": "toreca-break-akihabara",
+ "name": {
+  "ko": "카드숍 트레카브레이크",
+  "en": "Card Shop Toreca Break",
+  "ja": "カードショップ トレカブレイク"
+ },
+ "synonyms": [
+  "트레카브레이크",
+  "트레카 브레이크",
+  "토레카브레이크",
+  "브레이크 아키하바라",
+  "Toreca Break",
+  "Treca Break",
+  "torekabreak",
+  "トレカブレイク",
+  "トレカブレイク 秋葉原店",
+  "秋葉原センタービル602"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "psa",
+  "oripa",
+  "buyback",
+  "singles",
+  "upper_floor"
+ ],
+ "one_line": {
+  "ko": "PSA 감정품과 유희왕 20th 등 고액 컬렉션 카드를 사고파는 6층 매장",
+  "en": "Sixth-floor shop buying and selling PSA slabs and high-value collector cards"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697284,
+  "lng": 139.772697
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル602（6F）",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 남쪽, 외신다 1-16 블록의 '뉴 아키하바라 센터(ニュー秋葉原センター)' 6층 602호. 1·2층의 작은 점포 통로에서는 보이지 않는 상층 점포라 엘리베이터로 6층까지 올라가야 한다. 같은 건물 지하 1층에는 트레카라프텔, 5층에는 트레카데이즈가 있다.",
+  "en": "South of the JR Akihabara Electric Town exit, in the 1-16 block: room 602 on 6F of New Akihabara Center. It is an upper-floor unit invisible from the 1F/2F warren of small shops, so take the elevator to 6F. Toreca Raftel is in the same building on B1F and Toreca Days on 5F."
+ },
+ "tips": {
+  "ko": [
+   "공식 홈페이지가 없고 영업시간 공식 안내도 없다. 아키하바라 카드숍 디렉터리는 월·화·목·금 13:00-20:00, 토·일 12:00-20:00, 수요일 휴무로 적고 있다.",
+   "PSA 감정품과 유희왕 20주년 카드 같은 고액 컬렉션 상품 중심이며 매입에 무게를 둔다. 플레이용 싱글을 찾는다면 다른 매장이 낫다.",
+   "저가부터 고가까지 오리파를 취급한다.",
+   "확인 가능한 연락처는 070-3276-8778, SNS는 X(@torekabreak)뿐이다. 상층 소규모 점포이므로 방문 전 X에서 영업 여부를 확인하는 편이 안전하다."
+  ],
+  "en": [
+   "There is no official website and no official opening hours. The Akihabara card-shop directory lists 13:00-20:00 Mon, Tue, Thu and Fri, 12:00-20:00 at weekends, closed Wednesdays.",
+   "Stock leans to high-value collector material such as PSA slabs and Yu-Gi-Oh 20th-anniversary cards, with an emphasis on buying. For playable singles other shops are a better bet.",
+   "Oripa packs are sold across a wide price range.",
+   "The only contacts found are the phone 070-3276-8778 and X (@torekabreak). It is a small upper-floor unit, so check X before making the trip."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/torekabreak"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-cardmap.com/ja/shop/card-shop-treca-break-6f/",
+  "https://akihabara-cardmap.com/ja/list/pokemon/",
+  "https://www.openstreetmap.org/way/89023315"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,125 @@
+{
+ "id": "rental-box-zaurus-akihabara",
+ "name": {
+  "ko": "렌탈BOX 자우루스",
+  "en": "Rental Box Zaurus",
+  "ja": "レンタルBOX ザウルス"
+ },
+ "synonyms": [
+  "자우루스",
+  "렌탈박스 자우루스",
+  "아키하바라 자우루스",
+  "렌탈 쇼케이스 자우루스",
+  "Rental Box Zaurus",
+  "Rental BOX Zaurus",
+  "Akihabara Zaurus",
+  "zaurus",
+  "レンタルBOX ザウルス",
+  "レンタルボックスザウルス",
+  "秋葉原ザウルス",
+  "ザウルス"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "consignment",
+  "showcase",
+  "used",
+  "new",
+  "model_train",
+  "n_gauge",
+  "trading_card",
+  "pokemon_card",
+  "yugioh",
+  "figure",
+  "character_goods",
+  "sleeve"
+ ],
+ "one_line": {
+  "ko": "개인 출품자가 쇼케이스를 빌려 파는 중고 철도모형·트레카·피규어",
+  "en": "Rental showcase where private sellers list used model trains, trading cards and figures"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701347,
+  "lng": 139.771298
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-6 千住ビル7 2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 홈페이지가 없어 영업시간은 점포 X 계정(@akb_rb_zaurus)과 아키바 트레카 맵 안내를 따른다. 평일·공휴일 11:00-21:00, 토·일 10:00-21:00이며, 오래된 디렉터리에는 아직 10:00-22:00으로 남아 있다.",
+   "en": "There is no official website, so the hours follow the shop's X account (@akb_rb_zaurus) and the Akiba trading-card map: 11:00-21:00 on weekdays and public holidays, 10:00-21:00 on Saturday and Sunday. Older directories still list 10:00-22:00."
+  },
+  "source_url": "https://akibatoreka.com/introduce/1463"
+ },
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 도보 2분, 주오도리 서쪽 千住ビル7(옛 표기 恵光ビル) 2층. 같은 건물 지하가 리버티 1호점, 6층이 아키바호비이고, 옆 신스에히로 빌딩에는 레트로 게임 캠프가 있다. 1층 입구에서 계단이나 엘리베이터로 2층까지 올라간다.",
+  "en": "Two minutes from Suehirocho Station Exit 3, on the west side of Chuo-dori: 2F of Senju Building 7 (older listings call it 恵光ビル / Keiko Building). Liberty No.1 is in the same building's basement and AKIBA-HOBBY on 6F, with Retro Game Camp in the Shin-Suehiro Building next door. Take the stairs or the lift up one floor from the ground-floor entrance."
+ },
+ "tips": {
+  "ko": [
+   "개인이 쇼케이스를 빌려 파는 위탁 매장이라 재고가 수시로 바뀐다. 카드 전문점이 아니므로 직원에게 시세나 상품 상세를 묻기는 어렵다.",
+   "철도모형과 유희왕·포켓몬 싱글, 미개봉 팩, 슬리브가 한 층에 섞여 있어 특정 코너를 찾기보다 전체를 훑어보는 편이 빠르다.",
+   "결제는 현금만 가능한 것으로 안내된다."
+  ],
+  "en": [
+   "It is a consignment showcase rented by private sellers, so the stock changes constantly; the staff are not card specialists and cannot answer detailed price questions.",
+   "Model trains, Yu-Gi-Oh! and Pokemon singles, sealed packs and sleeves are mixed together on one floor, so scan the whole room rather than hunting for a section.",
+   "Listed as cash only."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/akb_rb_zaurus"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibatoreka.com/introduce/1463",
+  "http://www.akiba-scope.net/sp/shop/836.html",
+  "https://map.yahoo.co.jp/v3/place/Kl-SvPmJk3-"
+ ],
+ "osm_id": null
+}

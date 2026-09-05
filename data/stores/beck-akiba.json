@@ -1,0 +1,107 @@
+{
+ "id": "beck-akiba",
+ "name": {
+  "ko": "벡 아키바",
+  "en": "BECK AKIBA",
+  "ja": "BECKアキバ"
+ },
+ "synonyms": [
+  "벡아키바",
+  "베크 아키바",
+  "BECK AKIBA",
+  "BECK-AKIBA",
+  "BECK Akiba Entertainer's Bar & Studio",
+  "ベックアキバ",
+  "日本のBECKアキバ",
+  "BECKアキバ 秋葉原"
+ ],
+ "category": "idol",
+ "tags": [
+  "live_house",
+  "rental_hall",
+  "underground_idol",
+  "anison",
+  "dj_event",
+  "cosplay_event",
+  "jam_session",
+  "rehearsal_studio",
+  "live_stream"
+ ],
+ "one_line": {
+  "ko": "정원 50명 잼세션 바 겸 라이브하우스. 지하아이돌·애니송 DJ 이벤트 대관",
+  "en": "50-seat jam-session bar and live house rented out for idol, anison DJ and cosplay events"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "라이브하우스 겸 잼세션 바(정원 50석). 스테이지·PA·DMX 조명·배신 장비, 대기실 포함",
+   "en": "Live house and jam-session bar, 50 seats, with stage, PA, DMX lighting, streaming gear and a green room"
+  },
+  {
+   "floor": "2F",
+   "ko": "리허설 스튜디오 201·202(밴드용)·203(보컬·피아노 교실용, 전자피아노 2대)",
+   "en": "Rehearsal studios 201 and 202 for bands, and 203 for vocal and piano lessons with two digital pianos"
+  },
+  {
+   "floor": "3F",
+   "ko": "리허설 스튜디오 301(드럼 교실)·302(밴드용)·303(드럼 2대)",
+   "en": "Rehearsal studios 301 for drum lessons, 302 for bands and 303 with two drum kits"
+  }
+ ],
+ "location": {
+  "lat": 35.697827,
+  "lng": 139.776203
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "〒101-0025 東京都千代田区神田佐久間町2-11 第一中利ビル1F〜3F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 1분. 쇼와도리(고속도로 아래 국도)를 건너 소부선 고가 남쪽을 따라 동쪽으로 20초 걷다가 노래방 파세라에서 우회전하면 10초 만에 BECK 간판이 보인다. 도영 신주쿠선 이와모토초역에서는 2분.",
+  "en": "One minute from the JR Akihabara Showa-dori exit. Cross Showa-dori (the highway-covered avenue), follow the south side of the Sobu line viaduct east for about 20 seconds, turn right at karaoke Pasela and the BECK sign is 10 seconds further. Two minutes from Iwamotocho on the Toei Shinjuku line."
+ },
+ "tips": {
+  "ko": [
+   "1층 홀은 상설 영업이 아니라 이벤트·대관이 있는 날에만 연다. 방문 전 공식 사이트의 스케줄 페이지를 확인할 것.",
+   "평일 저녁에는 잼세션 바로 운영된다. 18:00~23:00, 1드링크 포함 1,500엔이면 악기·노래에 참가할 수 있어 여행자도 들어갈 수 있다.",
+   "이벤트는 록·재즈·힙합이 중심이고 지하아이돌 라이브, 아이돌 토크 라이브·악수회, 애니송 DJ, 코스프레 이벤트도 정기적으로 열린다.",
+   "2·3층 리허설 스튜디오는 1인 1시간 600엔부터. 1층 홀 대관은 평일 7,000엔/시간부터다."
+  ],
+  "en": [
+   "The 1F hall is not open every day - it opens for booked events, so check the schedule page on the official site before going.",
+   "On weekday evenings it runs as a jam-session bar, 18:00-23:00, 1,500 yen with one drink, and travellers can join in on vocals or instruments.",
+   "Bookings are mostly rock, jazz and hip-hop, but underground idol lives, idol talk-and-handshake events, anison DJ nights and cosplay events run regularly too.",
+   "The 2F and 3F rehearsal studios start at 600 yen per person per hour; renting the 1F hall starts at 7,000 yen an hour on weekdays."
+  ]
+ },
+ "official_url": "https://beck-akiba.com/",
+ "sns": {
+  "x": "https://x.com/BECK_AKIBA"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://beck-akiba.com/",
+  "https://beck-akiba.com/access.html",
+  "https://beck-akiba.com/fee_1f.html",
+  "https://www.navitime.co.jp/poi?spot=02022-1428425"
+ ],
+ "osm_id": "node/13909726002"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "amastage-akihabara",
+ "name": {
+  "ko": "아마스테이지 아키하바라 본점",
+  "en": "Live Cafe & Bar AMASTAGE Akihabara",
+  "ja": "Live Cafe&Bar AMASTAGE 秋葉原本店"
+ },
+ "synonyms": [
+  "아마스테이지",
+  "아마스테이지 아키바",
+  "AMASTAGE",
+  "AMASTAGE 아키하바라",
+  "Live Cafe&Bar AMASTAGE",
+  "AMASTAGE Akiba",
+  "amastage",
+  "アマステージ",
+  "AMASTAGE秋葉原本店",
+  "アマステージ 秋葉原本店"
+ ],
+ "category": "idol",
+ "tags": [
+  "concept_cafe",
+  "idol_live",
+  "live_bar",
+  "stage",
+  "dance",
+  "basement",
+  "idol_staff",
+  "night"
+ ],
+ "one_line": {
+  "ko": "아이돌 댄스를 좋아하는 여대생 캐스트가 무대에서 공연하는 지하 라이브 카페 겸 바",
+  "en": "Basement live cafe and bar where student cast perform idol dance sets on a small stage"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700875,
+  "lng": 139.769664
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-3-5 ヨシヰビルB1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 8분, 긴자선 스에히로초역에서 도보 5분. 주오도리 서쪽 뒷골목의 소토칸다 3-3 블록으로, 레일웨이 빌딩(포폰데타)에서 동쪽으로 두 채 옆. 지상에 세워진 간판 옆 계단을 지하로 내려가면 입구다.",
+  "en": "Eight minutes from the JR Akihabara Electric Town exit, five from Suehirocho on the Ginza line, on the back street west of Chuo-dori in the Sotokanda 3-3 block, a couple of doors east of the Rail Way Building (Popondetta). Go down the stairs beside the street-level signboard; the entrance is in the basement."
+ },
+ "tips": {
+  "ko": [
+   "지하 1층이고 지상에는 작은 간판만 있어 건물 이름(ヨシヰビル)보다 간판 옆 계단을 찾는 편이 빠르다.",
+   "공식 홈페이지가 없어 영업시간·요금·이벤트는 X(@amastage_akiba)와 인스타그램에서만 공지된다. 방문 전 당일 공지를 확인할 것.",
+   "일본어 안내 위주의 컨셉 카페(콘카페)로, 캐스트 스테이지가 있는 시간대가 정해져 있다."
+  ],
+  "en": [
+   "It is one floor below street level with only a small sign outside; look for the staircase next to the sign rather than the building name (Yoshii Building).",
+   "There is no official website - hours, prices and event days are announced only on X (@amastage_akiba) and Instagram, so check the day's post before going.",
+   "It is a Japanese-language concept cafe (konkafe) with scheduled stage times rather than continuous performance."
+  ]
+ },
+ "official_url": "https://lit.link/amastageakiba",
+ "sns": {
+  "x": "https://x.com/amastage_akiba",
+  "instagram": "https://www.instagram.com/amastage_akiba/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://lit.link/amastageakiba",
+  "https://www.navitime.co.jp/poi?spot=02022-1384854",
+  "https://con-cafe.jp/list/area02/pre08/sub050/36756",
+  "https://home.akihabara.kokosil.net/ja/archives/25006"
+ ],
+ "osm_id": null
+}

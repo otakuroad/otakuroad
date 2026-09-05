@@ -1,0 +1,94 @@
+{
+ "id": "myao-myao-akihabara",
+ "name": {
+  "ko": "먀오먀오",
+  "en": "Myaomyao",
+  "ja": "みゃおみゃお"
+ },
+ "synonyms": [
+  "먀오먀오 아키하바라",
+  "먀오먀오 컨셉카페",
+  "미야오미야오",
+  "myaomyao",
+  "Myao Myao",
+  "Myaomyao Akihabara",
+  "みゃおみゃお",
+  "みゃおみゃお 秋葉原",
+  "みゃおみゃお 秋葉原 コンカフェ&メイドカフェ",
+  "cafe&bar みゃおみゃお",
+  "清楚な子猫ちゃんのcafe&bar みゃおみゃお"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "maid_cafe",
+  "cat_ear",
+  "cheki",
+  "cafe_bar",
+  "alcohol",
+  "late_night",
+  "near_station"
+ ],
+ "one_line": {
+  "ko": "새끼고양이 콘셉트 카페바. 캐스트 접객·체키·음료, 쇼와도리 출구 도보 1분",
+  "en": "Cat-themed concept cafe: cast chat, cheki photos and drinks, by the Showa-dori exit"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697725,
+  "lng": 139.774635
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "東京都千代田区神田佐久間町1-16-1 大橋ビル6F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 1분. 1층이 고고카레(ゴーゴーカレー)인 9층짜리 오하시 빌딩(大橋ビル)의 6층으로, 가게가 직접 '1층 고고카레 건물의 6층'을 표식으로 안내한다. 같은 건물 4층에는 컨셉카페 키미노 카노조니 나리타이(키미카노)가 있다.",
+  "en": "One minute from JR Akihabara's Showa-dori exit. 6F of the nine-storey Ohashi Building, which the shop itself signposts as \"the building with Go Go Curry on the ground floor\". The concept cafe Kimi no Kanojo ni Naritai! is on 4F of the same building."
+ },
+ "tips": {
+  "ko": [
+   "오픈 시간이 날마다 다르다(9월 초 기준 16:00~19:00 사이). 공식 사이트 '출근 예정(出勤予定)' 페이지에 당일 오픈·클로즈 시간과 출근 캐스트가 올라온다.",
+   "공식 사이트에 영업시간표가 따로 없고 시스템·요금 페이지도 이미지로만 되어 있어, 요금은 방문 전 X(@cafebarmyaomyao)로 확인하는 편이 낫다.",
+   "금지 사항이 명확하다. 캐스트 접촉·출퇴근 대기·연락처 요구, 무단 촬영·녹음, 만취 입장, 건물 앞 흡연이 모두 금지이며 캐스트에게 주는 선물도 원칙적으로 받지 않는다(이벤트 꽃·선물은 사전 허가 필요).",
+   "아키하바라 콘카페 대부분이 모여 있는 전기가 출구 쪽이 아니라 반대편 쇼와도리 출구 쪽이므로 동선을 따로 잡아야 한다."
+  ],
+  "en": [
+   "Opening time changes day by day (16:00-19:00 in early September). The official site's 出勤予定 page lists each day's open and close time along with who is working.",
+   "There is no weekly hours table on the official site and the system/price page is image-only, so check pricing via X (@cafebarmyaomyao) before going.",
+   "The house rules are explicit: no touching the cast, no waiting for them outside, no asking for contact details, no photos or recording without permission, no entry while drunk, and no smoking in front of the building. Gifts to cast are refused as a rule (event flowers need prior approval).",
+   "It sits by the Showa-dori exit, on the opposite side of the station from the Electric Town exit where most Akihabara concept cafes cluster."
+  ]
+ },
+ "official_url": "https://www.myaomyao.net/",
+ "sns": {
+  "x": "https://x.com/cafebarmyaomyao",
+  "instagram": "https://www.instagram.com/cafebarmyaomyao/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.myaomyao.net/",
+  "https://www.myaomyao.net/map",
+  "https://www.myaomyao.net/rule",
+  "https://www.myaomyao.net/system",
+  "https://www.myaomyao.net/pages-sitemap.xml",
+  "https://x.com/cafebarmyaomyao"
+ ],
+ "osm_id": null
+}

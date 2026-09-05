@@ -1,0 +1,92 @@
+{
+ "id": "card-shop-hanjo",
+ "name": {
+  "ko": "카드숍 한조 아키하바라",
+  "en": "Card Shop Hanjou Akihabara",
+  "ja": "カードショップはんじょう 秋葉原"
+ },
+ "synonyms": [
+  "한조",
+  "카드숍 한조",
+  "카드샵 한조",
+  "카드숍 한죠",
+  "はんじょう",
+  "カードショップはんじょう",
+  "カードショップはんじょう秋葉原",
+  "Card Shop Hanjo",
+  "Cardshop Hanjou",
+  "cardshophanjou",
+  "hanjou"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "tcg_singles",
+  "oripa",
+  "buyback",
+  "psa",
+  "duel_space",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스 카드 싱글과 오리파, PSA 감정품 매입. 지하 대전석 있음",
+  "en": "Pokemon and One Piece card singles, oripa and PSA buyback, with basement duel seats"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698303,
+  "lng": 139.7715
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-14-1 宝田中央通りビルB1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리 쪽으로 도보 1분. 2층·3층에 메이드리밍이 들어 있는 다카라다 주오도리(宝田中央通り)빌딩의 지하 1층으로, 건물 옆 계단을 내려간다. 2022년 개점 당시의 정크도리 근처 점포에서 이 자리로 옮겨왔다.",
+  "en": "One minute from the JR Akihabara Electric Town exit toward Chuo-dori, in the basement of the Takarada Chuo-dori Building, whose 2F and 3F are Maidreamin branches; take the stairs down at the side of the building. The shop moved here from its original 2022 location near Junk-dori."
+ },
+ "tips": {
+  "ko": [
+   "점주가 스플래툰 프로게이머·유튜버 '한조(はんじょう)' 씨로, 매장 이름이 그대로 점주 이름이다.",
+   "공식 사이트는 '점휴일인 화요일을 제외하고 원칙 13:00~19:00'이라고만 안내한다. 영업시간 단축·연장은 공식 X(@cardshophanjou)에 공지되므로 방문 전 확인.",
+   "포켓몬카드와 원피스카드가 중심이고 오리파·PSA 감정품 매입도 취급한다. 매장 안에 듀얼 스페이스가 있다.",
+   "온라인 주문 상품의 점두 수령은 발송완료 메일 도착 후 7일 이내, 신분증 지참이 필요하며 점두 결제는 불가하다."
+  ],
+  "en": [
+   "The owner is Hanjou, a Splatoon pro player and YouTuber, and the shop simply carries his name.",
+   "The official site only states 'in principle 13:00-19:00, except Tuesday, the shop's closing day'. Shortened or extended hours are posted on X (@cardshophanjou), so check before you go.",
+   "The stock is mostly Pokemon and One Piece singles, with oripa and PSA-graded buyback; there is a duel space inside.",
+   "In-store pickup of online orders runs for seven days after the dispatch email, needs photo ID, and cannot be paid for at the counter."
+  ]
+ },
+ "official_url": "https://www.cardshop-hanjou.jp/",
+ "sns": {
+  "x": "https://x.com/cardshophanjou"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.cardshop-hanjou.jp/info",
+  "https://www.cardshop-hanjou.jp/",
+  "https://www.cardshop-hanjou.jp/page/7",
+  "https://akihabara-cardmap.com/ja/shop/card-shop-hanjo/"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,114 @@
+{
+ "id": "ddr-akiba-honten",
+ "name": {
+  "ko": "D.D.R 아키바 본점",
+  "en": "D.D.R AKIBA Main Store",
+  "ja": "D.D.R AKIBA本店"
+ },
+ "synonyms": [
+  "D.D.R",
+  "DDR 아키바",
+  "다레데모 레이서",
+  "레이싱 시뮬레이터 D.D.R",
+  "DareDemoRacer",
+  "D.D.R Akihabara",
+  "DDR Akiba",
+  "誰でもレーサー",
+  "D.D.R【誰でもレーサー】AKIBA本店",
+  "ディーディーアール"
+ ],
+ "category": "arcade",
+ "tags": [
+  "racing_simulator",
+  "sim_racing",
+  "pay_per_play",
+  "motorsport",
+  "driving_lesson",
+  "walk_in"
+ ],
+ "one_line": {
+  "ko": "레이싱 시뮬레이터 유료 주행장. 10분 1000엔부터, 초보자도 이용 가능",
+  "en": "Pay-per-session racing simulator venue, from 1,000 yen per 10 minutes"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700569,
+  "lng": 139.770554
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-11-2 ロックビル5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://ddr.jp.net/shop/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 한 블록 서쪽 뒷골목, 아키하바라와 스에히로초 중간의 록빌(ロックビル) 5층. 같은 건물 B1~3층이 하드오프 아키하바라 1호점이라 그 간판을 찾은 뒤 엘리베이터로 5층까지 올라가면 된다.",
+  "en": "Fifth floor of the Rock Building on the back street one block west of Chuo-dori, midway between Akihabara and Suehirocho. Hard Off Akihabara Store 1 fills B1F-3F of the same building, so look for its sign and take the lift up to 5F."
+ },
+ "tips": {
+  "ko": [
+   "예약 없이 바로 이용할 수 있고, 30분 단위 전화 예약도 받는다. 시뮬레이터가 다 찼으면 대기해야 한다.",
+   "주행료는 10분 1000엔부터. 30분 이상 주행권은 쉬어 가며 차량과 코스를 바꿔 쓸 수 있다.",
+   "장갑 착용이 필수다. 레이싱 장갑이 좋지만 미끄럽지 않은 가죽 장갑도 가능하고 목장갑은 안 된다. 장갑+슈즈 렌털은 1세트 500엔(1일).",
+   "신발은 운동화까지 허용되며 부츠·구두·샌들·하이힐은 쓸 수 없다.",
+   "15세 이하는 25세 이상 동반이 필요하고, 12세 이하는 19:00까지만 이용할 수 있다.",
+   "여럿이 겨루는 대전 주행은 1인당 500엔 추가, 프로 레이서 1:1 레슨은 예약제로 30분 4000엔에 주행료 3000엔이 붙는다."
+  ],
+  "en": [
+   "No booking needed - walk in and play; phone reservations in 30-minute blocks are also taken. If every rig is busy you will have to wait.",
+   "Driving time starts at 1,000 yen per 10 minutes, and tickets of 30 minutes or more can be split across breaks, cars and courses.",
+   "Gloves are compulsory: racing gloves are preferred, non-slip leather gloves are accepted, cotton work gloves are not. Glove and shoe rental is 500 yen a set per day.",
+   "Trainers are fine, but boots, dress shoes, sandals and heels cannot be used.",
+   "Under-16s need a companion aged 25 or over, and under-13s must finish by 19:00.",
+   "Head-to-head races cost an extra 500 yen per person, and one-to-one lessons with a pro racer are by reservation at 4,000 yen per 30 minutes plus 3,000 yen of driving time."
+  ]
+ },
+ "official_url": "https://ddr.jp.net/",
+ "sns": {
+  "x": "https://x.com/ddr_akihabara"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://ddr.jp.net/",
+  "https://ddr.jp.net/shop/",
+  "https://www.ddr.jp.net/"
+ ],
+ "osm_id": "node/9892845482"
+}

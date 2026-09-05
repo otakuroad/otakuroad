@@ -1,0 +1,91 @@
+{
+ "id": "card-shop-climax",
+ "name": {
+  "ko": "카드숍 CLIMAX",
+  "en": "Card Shop CLIMAX",
+  "ja": "カードショップCLIMAX"
+ },
+ "synonyms": [
+  "카드숍 클라이맥스",
+  "카드샵 CLIMAX",
+  "클라이맥스",
+  "CLIMAX 아키하바라",
+  "가챠폰회관 3층 카드숍",
+  "Card Shop CLIMAX",
+  "Cardshop Climax",
+  "climaxcard",
+  "カードショップCLIMAX",
+  "カードショップクライマックス",
+  "CLIMAX 秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "duel_masters",
+  "weiss_schwarz",
+  "tcg_singles",
+  "singles",
+  "duel_space"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·유희왕 싱글 카드와 24석 무료 듀얼 스페이스",
+  "en": "Pokemon, One Piece and Yu-Gi-Oh singles with a free 24-seat duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701856,
+  "lng": 139.77125
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル3F（秋葉原ガチャポン会館3F）",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목으로 들어가면 왼편에 1층이 가챠폰 회관인 MN빌딩이 있다. 캡슐 기계 옆 건물 입구로 들어가 3층으로 올라간다. JR 아키하바라역에서는 도보 약 5분.",
+  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south on the west side of Chuo-dori and turn right into the first narrow one-way lane; the MN Building, with the Gachapon Kaikan capsule hall on its ground floor, is on the left. Enter beside the capsule machines and go up to 3F. About 5 minutes from JR Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "2025년 5월 말 이 건물 3층으로 이전해 온 점포다. 3층은 2024년 12월 22일 폐점한 트레카원(トレカONE) 자리이므로 옛 지도·디렉터리 표기에 주의.",
+   "포켓몬카드 공식 '포켓몬카드 짐' 등록점이라 공인 대회가 열린다. 무료로 쓸 수 있는 듀얼 스페이스 24석.",
+   "영업시간 정보가 자료마다 어긋난다. 트레카 디렉터리는 11:00-20:00 연중무휴로 적고 있으나 공식 X 프로필은 평일 개점을 더 늦게 안내하므로 방문 전 @climaxcard 확인이 안전하다.",
+   "같은 MN빌딩 4층 토레디아, 6층 트레카바스와 층만 옮겨 시세를 비교할 수 있다."
+  ],
+  "en": [
+   "The shop moved into 3F here at the end of May 2025; the 3F unit was previously Toreca ONE, which closed on 22 December 2024, so older map and directory entries are out of date.",
+   "It is a registered Pokemon Card Gym, so sanctioned tournaments are held here, and the 24-seat duel space is free to use.",
+   "Published hours disagree: a card-shop directory lists 11:00-20:00 daily, while the shop's own X profile gives a later weekday opening, so check @climaxcard before going.",
+   "Tradia on 4F and Torecabirth on 6F of the same MN Building let you compare prices without leaving the building."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/climaxcard",
+  "instagram": "https://www.instagram.com/cardshopclimax/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://map.pokemon-card.com/map/22064",
+  "https://akihabara-cardmap.com/ja/shop/card-shop-climax/",
+  "https://www.akibagacha.com/"
+ ],
+ "osm_id": null
+}

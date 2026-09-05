@@ -1,0 +1,115 @@
+{
+ "id": "cafe-menu-akihabara",
+ "name": {
+  "ko": "카페 메뉴",
+  "en": "cafe MENU",
+  "ja": "cafe MENU"
+ },
+ "synonyms": [
+  "카페 메뉴",
+  "카페메뉴",
+  "카페 MENU",
+  "cafe MENU",
+  "cafeMENU",
+  "cafe MENU 秋葉原",
+  "cafe&bar MENU",
+  "カフェメニュー",
+  "秋葉原MENU",
+  "cafebarMENU"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "collab_cafe",
+  "anime_collab",
+  "game_collab",
+  "limited_menu",
+  "novelty",
+  "reservation",
+  "no_smoking",
+  "power_outlet"
+ ],
+ "one_line": {
+  "ko": "애니·게임 콜라보 카페. 작품별 한정 드링크·푸드와 주문 특전 굿즈",
+  "en": "Collab cafe with rotating anime and game tie-in drinks, food and order-bonus novelties"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70178,
+  "lng": 139.771347
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-6 小暮末広ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "라스트오더 19:30(음식·음료 모두). 콜라보 개최 중에는 12:00·13:30·15:00·16:30·18:00 시작의 시간제 예약으로 운영되는 회차가 있고, 이벤트로 전관 대관하는 날도 있으므로 방문 전 X(@cafebarMENU) 확인이 안전하다.",
+   "en": "Last order 19:30 for both food and drink. While a collaboration is running, seatings are often reservation slots starting 12:00, 13:30, 15:00, 16:30 and 18:00, and the cafe is occasionally taken over for private events, so check X (@cafebarMENU) before going."
+  },
+  "source_url": "https://cafeandbar-menu.owst.jp/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 1~2분, JR 아키하바라역 전기가 출구에서는 도보 8분. 주오도리 서쪽 한 줄 안쪽의 9층짜리 고구레스에히로(小暮末広) 빌딩 2층으로, 1층 엘리베이터로 올라간다. 같은 건물 8층은 오타츄 2호점 트레카관, 7·9층은 PDG 컬렉터스숍이라 층 표시를 보고 내린다.",
+  "en": "One to two minutes from exit 3 of Ginza-line Suehirocho and about eight minutes from the JR Akihabara Electric Town Exit. It is 2F of the nine-storey Kogure Suehiro Building, one row back from the west side of Chuo-dori; take the ground-floor elevator up. Otachu No.2's card floor is on 8F and PDG Collector's Shop on 7F and 9F, so watch the floor buttons."
+ },
+ "tips": {
+  "ko": [
+   "콜라보 작품이 몇 주 단위로 바뀐다. 2026년 8월 26일~9월 16일에는 チラズアート(Chilla's Art) 콜라보가 열리고 있으며, 콜라보 메뉴를 주문하면 노벨티 특전이 붙는다.",
+   "12석뿐인 작은 가게이고 전석 금연, 전 좌석 콘센트가 있다. 예약은 핫페퍼 그루메에서 받는다.",
+   "신용카드(VISA·Mastercard·AMEX·JCB·Diners·Discover·UnionPay)와 교통계 IC·iD·QUICPay·Apple Pay 결제가 가능하다.",
+   "메이드 카페가 아니라 작품 콜라보 전용 카페라 캐스트 접객이나 체키는 없다. 콜라보와 콜라보 사이 준비 기간에는 일반 카페로 영업한다."
+  ],
+  "en": [
+   "The tie-up changes every few weeks; a Chilla's Art collab runs 26 August to 16 September 2026, and ordering from the collab menu comes with a novelty.",
+   "It is a 12-seat room, all non-smoking, with a power outlet at every seat. Bookings are taken through Hot Pepper Gourmet.",
+   "Credit cards (VISA, Mastercard, AMEX, JCB, Diners, Discover, UnionPay) plus transit IC, iD, QUICPay and Apple Pay are accepted.",
+   "This is a collaboration cafe rather than a maid cafe - no cast service or cheki photos - and it runs as a plain cafe between collabs."
+  ]
+ },
+ "official_url": "https://cafeandbar-menu.owst.jp/",
+ "sns": {
+  "x": "https://x.com/cafebarMENU"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cafeandbar-menu.owst.jp/",
+  "https://cafeandbar-menu.owst.jp/map",
+  "https://www.hotpepper.jp/strJ003324302/",
+  "https://collabo-cafe.com/events/collabo/manosaba-cafe-menu-akihabara2025/"
+ ],
+ "osm_id": null
+}

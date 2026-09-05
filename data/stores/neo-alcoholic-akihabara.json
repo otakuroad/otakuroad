@@ -1,0 +1,120 @@
+{
+ "id": "neo-alcoholic-akihabara",
+ "name": {
+  "ko": "네오 알코홀릭",
+  "en": "NEO:ALCOHOLIC",
+  "ja": "NEO:ALCOHOLIC（ネオアルコホリック）"
+ },
+ "synonyms": [
+  "네오알코홀릭",
+  "네오 알코홀릭",
+  "네오아루코호릭쿠",
+  "NEO ALCOHOLIC",
+  "NEO:ALCOHOLIC",
+  "neoalcoholic",
+  "ネオアルコホリック",
+  "ネオアルコ",
+  "NEO:ALCOHOLIC 秋葉原"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "cafe_bar",
+  "alcohol",
+  "late_night",
+  "nurse",
+  "time_charge",
+  "cast_schedule"
+ ],
+ "one_line": {
+  "ko": "근미래 의료시설 콘셉트 콘카페. 간호사풍 캐스트와 칵테일, 40분 시간제",
+  "en": "Near-future medical concept cafe: nurse-styled cast, cocktails, 40-minute seat charge"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.69915,
+  "lng": 139.775172
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "東京都千代田区神田松永町1 松屋ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "18:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 사이트 店舗情報에 18:00-24:00, 연중무휴로 적혀 있다. 임시 휴업과 이벤트일 시간 변경은 공식 사이트 Information과 X(@NEO_ALCOHOLIC)에 공지된다.",
+   "en": "The official shop-info page gives 18:00-24:00 with no regular closing day. Temporary closures and event-day changes are posted in the site's Information feed and on X (@NEO_ALCOHOLIC)."
+  },
+  "source_url": "http://www.neo-alcoholic.com/contact/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 쇼와도리 출구에서 선로 동쪽으로 도보 1~2분 거리인 간다마쓰나가초. 노면 점포가 아니라 마쓰야(松屋) 빌딩 3층이므로 건물 이름을 보고 올라간다.",
+  "en": "In Kanda-Matsunagacho, one to two minutes east of JR Akihabara's Showa-dori exit. It is not a street-level shop: go up to 3F of the Matsuya Building."
+ },
+ "tips": {
+  "ko": [
+   "18:00에 열어 24:00에 닫고 연중무휴다. 낮에는 열지 않으므로 저녁 이후에 간다.",
+   "요금은 40분 3,000엔(연장 40분 3,000엔), ICU VIP석은 40분 6,000엔이며 서비스료 15%와 소비세가 따로 붙는다.",
+   "'고도 테크놀로지 × 의료'를 내건 근미래 병원 콘셉트로 캐스트가 간호사풍 의상을 입고 접객한다.",
+   "당일 출근 캐스트와 이벤트는 공식 사이트 Today·Schedule과 X(@NEO_ALCOHOLIC)에 매일 올라온다.",
+   "지도 핀은 번지(神田松永町1) 기준 근사 위치다. 松屋ビル 간판을 확인하고 들어간다."
+  ],
+  "en": [
+   "Opens 18:00, closes 24:00, no regular holiday; it is shut during the day, so come in the evening.",
+   "The charge is 3,000 yen per 40 minutes (extensions 3,000 per 40 minutes); an ICU VIP seat is 6,000 per 40 minutes, plus a 15% service charge and tax.",
+   "The concept is 'advanced technology x medicine' - a near-future hospital, with cast in nurse-style uniforms.",
+   "The cast working that day and event nights are posted daily on the site's Today/Schedule pages and on X (@NEO_ALCOHOLIC).",
+   "The map pin is a geocode of the block address (Kanda-Matsunagacho 1), so look for the Matsuya Building sign on arrival."
+  ]
+ },
+ "official_url": "http://www.neo-alcoholic.com/",
+ "sns": {
+  "x": "https://x.com/NEO_ALCOHOLIC",
+  "instagram": "https://www.instagram.com/neo_alcoholic/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "http://www.neo-alcoholic.com/",
+  "http://www.neo-alcoholic.com/contact/",
+  "http://www.neo-alcoholic.com/system/",
+  "https://www.pokepara.jp/tokyo/m9/a10034/shop22949/",
+  "https://www.moe-navi.jp/shop/12530/",
+  "https://shop.caferun.jp/shop/12530/",
+  "https://con-cafe.jp/list/area02/pre08/sub050/37791"
+ ],
+ "osm_id": null
+}

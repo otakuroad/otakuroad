@@ -1,0 +1,90 @@
+{
+ "id": "toreca-space-akihabara",
+ "name": {
+  "ko": "트레카 스페이스",
+  "en": "Toreca Space",
+  "ja": "トレカスペース"
+ },
+ "synonyms": [
+  "트레카스페이스",
+  "트레카 스페이스 아키하바라",
+  "토레카 스페이스",
+  "Toreca Space",
+  "Torecaspace",
+  "Trading Card Space",
+  "トレカスペース秋葉原",
+  "『トレカスペース』秋葉原",
+  "torecaspace_akb"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "yugioh",
+  "duel_masters",
+  "one_piece_card",
+  "singles",
+  "sealed",
+  "buyback",
+  "supplies",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "포켓몬·유희왕·듀얼마스터즈·원피스 카드 싱글과 미개봉 팩, 대량 매입",
+  "en": "Pokemon, Yu-Gi-Oh!, Duel Masters and One Piece singles and sealed packs; bulk buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699879,
+  "lng": 139.770459
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-12-15 チチブ電機ビル4F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 한 블록 서쪽 뒷골목, AKIBA 컬처즈존 건너편·벨살레 아키하바라 근처의 치치부전기(チチブ電機) 빌딩 4층. 같은 건물 1층은 아키바노X 주오도리점이다. 엘리베이터가 있지만 그 앞에 계단이 몇 단 있다.",
+  "en": "4F of the Chichibu Denki Building on the back street one block west of Chuo-dori, across from AKIBA Cultures Zone and near Bellesalle Akihabara. Akiba no X occupies the same building's ground floor. There is a lift, but a few steps sit in front of it."
+ },
+ "tips": {
+  "ko": [
+   "디렉터리에 남아 있는 외신다 3-12-2 주소는 옛 자리다. 입주해 있던 건물이 철거되면서 현재의 치치부전기 빌딩 4층으로 이전했다.",
+   "포켓몬카드·유희왕 OCG·듀얼마스터즈·원피스 카드 4개 타이틀을 함께 취급해 여러 타이틀을 한 번에 훑기 좋다.",
+   "박스 단위 대량 반입 매입에 유연하게 대응한다고 소개되어 있다.",
+   "공식 영업시간 페이지가 없다. 디렉터리에는 13:00~20:00·연중무휴로 올라와 있으나 방문 전 공식 X(@torecaspace_akb)를 확인하는 편이 안전하다."
+  ],
+  "en": [
+   "The 3-12-2 address still in older directories is the old site; the shop moved to 4F of the Chichibu Denki Building when its previous building was demolished.",
+   "It carries four titles at once - Pokemon, Yu-Gi-Oh! OCG, Duel Masters and One Piece - so you can check several games in one stop.",
+   "Listings say it handles bulk walk-in buyback, including boxes brought in by the carton.",
+   "There is no official hours page. Directories list 13:00-20:00 with no regular holiday, but check X (@torecaspace_akb) before going."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/torecaspace_akb"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-cardmap.com/ja/shop/trading-card-space/",
+  "https://akibatoreka.com/introduce/2401",
+  "https://torecamap.co.jp/column/akihabara/"
+ ],
+ "osm_id": null
+}

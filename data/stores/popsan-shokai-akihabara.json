@@ -1,0 +1,92 @@
+{
+ "id": "popsan-shokai-akihabara",
+ "name": {
+  "ko": "포푸산 상회 아키하바라 포케카 전문점",
+  "en": "Popsan Shokai Akihabara",
+  "ja": "ポプサン商会 秋葉原ポケカ専門店"
+ },
+ "synonyms": [
+  "포푸산 상회",
+  "포프산 상회",
+  "포푸산 쇼카이",
+  "포푸산상회 아키하바라",
+  "Popsan Shokai",
+  "Popusan Shokai",
+  "Card Shop Popsan Shokai",
+  "ポプサン商会",
+  "ポプサン商会秋葉原店",
+  "カードショップポプサン商会秋葉原店",
+  "ポプサン",
+  "popsan_akb"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "singles",
+  "oripa",
+  "sealed",
+  "supplies",
+  "duel_space",
+  "buyback",
+  "late_night",
+  "gym_battle",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "포켓몬카드 싱글·오리파와 듀얼 스페이스. 심야까지 여는 개인 포케카 전문점",
+  "en": "Pokemon card singles, oripa and duel space; an owner-run shop open until late at night"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701947,
+  "lng": 139.773142
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-13-1 第2日浦ビル",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "소토칸다 4초메, 간다소방서 근처의 제2 히우라(第2日浦) 빌딩. 주오도리에서 동쪽으로 들어간 골목이라 찾기 어려운 편이니 지도를 켜고 가는 편이 좋다. 바로 옆 번지 4-13-2는 KKT 아키하바라 빌딩(호비숍 안코우)이다.",
+  "en": "The Dai-2 Hiura Building in Sotokanda 4-chome, near the Kanda Fire Station. It is on a back street east of Chuo-dori and easy to miss, so navigate with a map; the adjacent lot 4-13-2 is the KKT Akihabara Building (Hobby Shop Ankou)."
+ },
+ "tips": {
+  "ko": [
+   "아키하바라 카드숍 중에서도 늦게까지 여는 편으로, 디렉터리에는 15시부터 자정까지로 올라와 있다. 공식 영업시간 안내가 없으니 X(@popsan_akb)에서 당일 영업을 확인한다.",
+   "점장 1인이 운영하는 개인 상점이라 초보자에게 카드 규제나 덱 상담을 해주는 분위기라고 소개된다.",
+   "점내 듀얼 스페이스가 있고 짐 배틀 등 포켓몬카드 대전 이벤트가 열린다.",
+   "대형 매장 수준의 재고나 매입가를 기대하기보다, 늦은 시간대 대전 환경과 점장과의 대화를 목적으로 가는 쪽이 맞는다."
+  ],
+  "en": [
+   "It stays open notably late for an Akihabara card shop - directories list roughly 15:00 to midnight. No official hours page exists, so check X (@popsan_akb) for the day.",
+   "A one-person owner-run shop; listings say the owner will explain card restrictions and help you look for cards, which suits beginners.",
+   "There is a duel space inside, and Pokemon card events such as gym battles are held there.",
+   "Do not expect big-chain stock levels or buyback rates; the draw is the late-night play environment and the owner's advice."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/popsan_akb"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-cardmap.com/ja/shop/card-shop-popsan-shokai-akihabara-store/",
+  "https://akibatoreka.com/introduce/2498",
+  "https://torecamap.co.jp/column/akihabara/"
+ ],
+ "osm_id": null
+}

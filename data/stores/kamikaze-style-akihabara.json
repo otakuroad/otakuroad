@@ -1,0 +1,117 @@
+{
+ "id": "kamikaze-style-akihabara",
+ "name": {
+  "ko": "카미카제스타일",
+  "en": "KAMIKAZE STYLE",
+  "ja": "カミカゼスタイル"
+ },
+ "synonyms": [
+  "카미카제 스타일",
+  "카미카제스타일 아키하바라점",
+  "카미카제스타일 아키바",
+  "가미카제스타일",
+  "Kamikaze Style",
+  "Kamikaze Style Akihabara",
+  "kamikazestyle",
+  "カミカゼスタイル秋葉原店",
+  "カミカゼスタイル 秋葉原",
+  "KAMIKAZE STYLE 秋葉原店"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "new",
+  "character_apparel",
+  "t_shirt",
+  "anime_collab",
+  "hoodie",
+  "military",
+  "eco_bag"
+ ],
+ "one_line": {
+  "ko": "애니 콜라보 티셔츠·개그 티셔츠와 밀리터리 의류, 에코백을 파는 1층 의류점",
+  "en": "Anime-collaboration and gag T-shirts, hoodies, military wear and eco bags"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70208,
+  "lng": 139.769866
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-6-17 阿出川ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 사이트 표기는 11:00~20:00, 정기휴일 없음. 임시 휴업은 공식 X(@kamikaze_akiba)에 공지된다.",
+   "en": "The official site gives 11:00-20:00 with no regular closing day; temporary closures are posted on X (@kamikaze_akiba)."
+  },
+  "source_url": "https://kamikazestyle.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 3분, 주오도리 두 블록 서쪽의 외신전 3-6번지 블록. 5층짜리 아데가와(阿出川) 빌딩 1층 노면 점포이며, 같은 블록 쇼헤이바시도리 쪽 마루야마 빌딩(1층 신소쿠 매입센터)에서 남동쪽으로 30m 남짓이다. 한 블록 동쪽 잔크도리의 하드오프·호비오프에서도 걸어서 1분.",
+  "en": "Three minutes from exit 3 of Tokyo Metro Suehirocho on the Ginza line, in the 3-6 block two blocks west of Chuo-dori. It is the street-level unit on 1F of the five-storey Adegawa Building, about 30 m southeast of the Maruyama Building (Shinsoku buying centre on its ground floor) on Shohei-bashi-dori. Hard Off and Hobby Off on Junk Street, one block east, are a minute away."
+ },
+ "tips": {
+  "ko": [
+   "애니 콜라보·개그 프린트 티셔츠가 주력이지만 밀리터리 의류와 잡화도 같은 매장에 섞여 있어, 캐릭터 상품만 찾는다면 진열대를 구분해서 보는 편이 빠르다.",
+   "연중무휴 11:00~20:00로 아키하바라 뒷골목 매장치고는 문을 늦게 닫지 않는다. 저녁 방문이면 20시 마감을 감안할 것.",
+   "매장 결제 수단과 면세 대응은 공식 사이트에 표기가 없으므로 현금을 준비하는 편이 안전하다.",
+   "품절된 디자인은 라쿠텐·아마존·야후쇼핑의 공식 온라인 스토어에 남아 있는 경우가 있다."
+  ],
+  "en": [
+   "Anime-collaboration and gag prints are the main line, but military clothing and accessories share the same floor, so scan the racks by type if you only want character items.",
+   "Open every day 11:00-20:00 — late enough for an evening stop, but it does close at 20:00.",
+   "In-store payment methods and tax-free service are not stated on the official site, so bring cash to be safe.",
+   "Sold-out designs are often still available from the shop's official Rakuten, Amazon and Yahoo Shopping stores."
+  ]
+ },
+ "official_url": "https://kamikazestyle.com/",
+ "sns": {
+  "x": "https://x.com/kamikaze_akiba",
+  "instagram": "https://www.instagram.com/kamikazestyle_akiba/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://kamikazestyle.com/",
+  "https://kamikazestyle.com/?mode=sk",
+  "https://kamikazestyle.com/?mode=f2",
+  "https://kamikazestyle.com/?mode=f1",
+  "https://www.openstreetmap.org/node/1916532537"
+ ],
+ "osm_id": "node/1916532537"
+}

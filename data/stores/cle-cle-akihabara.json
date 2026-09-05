@@ -1,0 +1,136 @@
+{
+ "id": "cle-cle-akihabara",
+ "name": {
+  "ko": "쿠루쿠루 아키하바라점",
+  "en": "Cle-Cle Akihabara",
+  "ja": "Cle-Cle秋葉原店"
+ },
+ "synonyms": [
+  "쿠루쿠루",
+  "클레클레 아키하바라점",
+  "Cle-Cle 아키하바라점",
+  "탐탐 중고관",
+  "CleCle",
+  "Cle-Cle",
+  "Cle▷Cle秋葉原店",
+  "CleCle秋葉原店",
+  "クルクル秋葉原店",
+  "クルクル",
+  "Cle-Cle（クルクル）秋葉原店",
+  "CleCle Akihabara",
+  "Kurukuru Akihabara"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "used",
+  "buyback",
+  "model_train",
+  "n_gauge",
+  "ho_gauge",
+  "diecast",
+  "minicar",
+  "bus_collection",
+  "plamodel",
+  "figure",
+  "radio_control",
+  "airsoft",
+  "rental_layout"
+ ],
+ "one_line": {
+  "ko": "탐탐이 운영하는 중고 호비 전문점. 7층 철도모형·다이캐스트, 8층 렌탈 레이아웃",
+  "en": "TamTam's used hobby shop: model trains and die-cast on 7F, rental layouts on 8F"
+ },
+ "building_id": null,
+ "floors": [
+  "7F",
+  "8F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "7F",
+   "ko": "중고 철도모형(N·HO게이지), 버스컬렉션, 다이캐스트 미니카, RC, 프라모델, 피규어, 에어소프트 용품과 매입 카운터",
+   "en": "Used model trains (N and HO gauge), BusCollection, die-cast cars, RC, plastic kits, figures and airsoft gear, plus the buyback counter"
+  },
+  {
+   "floor": "8F",
+   "ko": "렌탈 레이아웃 AKIBA — N게이지 9선·HO게이지 6선, 15량 편성까지 주행 가능",
+   "en": "Rental Layout AKIBA: nine N-gauge and six HO-gauge lines, long enough to run 15-car formations"
+  }
+ ],
+ "location": {
+  "lat": 35.702047,
+  "lng": 139.771955
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル7F・8F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입 접수와 8층 렌탈 레이아웃 예약은 19:00에 마감된다.",
+   "en": "Buyback intake and 8F rental-layout reservations close at 19:00."
+  },
+  "source_url": "https://clecle.me/shop"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽, 스에히로초 교차점 조금 못 미친 塩田トゥール秋葉原 빌딩. 같은 건물 3층은 헬냐숍, 6층은 옐로서브마린 RPG숍이다. 엘리베이터로 7층 매장에 올라가고 렌탈 레이아웃은 한 층 위 8층. 긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 10분.",
+  "en": "The Shioda Tour Akihabara building on the east side of Chuo-dori, just short of the Suehirocho crossing; Hellnya Shop is on 3F and the Yellow Submarine RPG Shop on 6F. Take the lift to the 7F shop, with the rental layout one floor up on 8F. Two minutes from Suehirocho Station on the Ginza line, ten from JR Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "중고 전용 매장으로 진열품은 모두 점포 매입분이며, 매입 접수는 11:00-19:00.",
+   "8층 렌탈 레이아웃은 평일 1시간 1,000엔, 토·일·공휴일 1,300엔이고 예약은 7층 카운터에서 받는다.",
+   "철도모형(N·HO게이지) 비중이 가장 크며, 신품을 찾는다면 같은 회사의 탐탐 아키하바라점(外神田6-14-2)으로 가면 된다.",
+   "현금 외에 신용카드와 PayPay·au PAY·d払い·라쿠텐페이·메르페이 등을 쓸 수 있다."
+  ],
+  "en": [
+   "Everything on the shelves was bought over the counter here; buyback intake runs 11:00-19:00.",
+   "The 8F rental layout is 1,000 yen an hour on weekdays and 1,300 yen at weekends and on public holidays; book at the 7F counter.",
+   "Model trains in N and HO gauge dominate; for new stock go to the same company's TamTam Akihabara at Sotokanda 6-14-2.",
+   "Cash, credit cards and PayPay, au PAY, d-barai, Rakuten Pay and MerPay are accepted."
+  ]
+ },
+ "official_url": "https://clecle.me/",
+ "sns": {
+  "x": "https://x.com/clecleakihabara"
+ },
+ "chain": "tamtam",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://clecle.me/",
+  "https://clecle.me/shop",
+  "https://www.hs-tamtam.jp/shop/clecle-akihabara.html",
+  "https://hobby.watch.impress.co.jp/docs/special/2093379.html"
+ ],
+ "osm_id": null
+}

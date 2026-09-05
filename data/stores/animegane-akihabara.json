@@ -1,0 +1,113 @@
+{
+ "id": "animegane-akihabara",
+ "name": {
+  "ko": "아니메가네",
+  "en": "Animegane",
+  "ja": "アニメコラボメガネ専門店 Animegane"
+ },
+ "synonyms": [
+  "아니메가네",
+  "애니메가네",
+  "아니메가네 아키하바라",
+  "애니 콜라보 안경",
+  "Animegane",
+  "Animegane Akihabara",
+  "anime megane",
+  "eyemirror",
+  "アニメガネ",
+  "アニメコラボメガネ専門店-Animegane-",
+  "アニメコラボ眼鏡専門店 アニメガネ",
+  "執事眼鏡"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "collab_goods",
+  "eyewear",
+  "character_apparel",
+  "new",
+  "made_to_order"
+ ],
+ "one_line": {
+  "ko": "애니·만화 콜라보 안경테를 파는 캐릭터 안경 전문점",
+  "en": "Specialist eyewear shop selling anime and manga collaboration frames"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702594,
+  "lng": 139.772483
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-8-3 セゾン秋葉原ビル1階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:30",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 목요일",
+   "en": "Every Thursday"
+  },
+  "note": {
+   "ko": "공식 사이트에 '2021년 4월 1일부터 당분간 목요일 정기휴일'이라고 안내되어 있다.",
+   "en": "The official site notes that the Thursday closing day has applied 'for the time being' since 1 April 2021."
+  },
+  "source_url": "https://animegane.jp/shop.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 2분, 주오도리 한 블록 동쪽 골목의 세존 아키하바라 빌딩 1층. JR 아키하바라역에서는 도보 5분. 구글 지도에는 안경점으로 분류되어 있어 애니 굿즈로 검색하면 잘 나오지 않는다.",
+  "en": "Two minutes from Suehirocho on the Ginza line, one block east of Chuo-dori, on the ground floor of the Saison Akihabara Building; five minutes from JR Akihabara. Google files it under opticians, so it rarely surfaces in anime-goods searches."
+ },
+ "tips": {
+  "ko": [
+   "취급 작품은 기간 한정 콜라보 중심이라 시기에 따라 바뀐다. 공식 사이트의 Collaboration·News 페이지에서 현재 전개 중인 작품을 먼저 확인하는 편이 좋다.",
+   "목요일 정기휴일이고 영업시간도 11:30-19:30으로 짧다.",
+   "도수 렌즈 요금은 공식 사이트 LensPrice 페이지에 공개되어 있고, 온라인 판매는 자매 브랜드 eyemirror 스토어에서 이루어진다.",
+   "면세와 카드 결제 여부는 공식 안내가 없다."
+  ],
+  "en": [
+   "Stock is built around limited-run collaborations, so titles change; check the Collaboration and News pages on the official site before going.",
+   "Closed on Thursdays, and the day is short at 11:30-19:30.",
+   "Prescription-lens prices are published on the site's LensPrice page, and online sales run through the sister brand eyemirror's store.",
+   "Tax-free and card acceptance are not stated officially."
+  ]
+ },
+ "official_url": "https://animegane.jp/",
+ "sns": {
+  "x": "https://x.com/animegane_akiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://animegane.jp/shop.html",
+  "https://animegane.jp/",
+  "https://eyemirror.jp/"
+ ],
+ "osm_id": "node/4988069835"
+}

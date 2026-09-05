@@ -1,0 +1,118 @@
+{
+ "id": "honeyhoney-akihabara",
+ "name": {
+  "ko": "메이드카페 허니허니 아키하바라점",
+  "en": "Maid Cafe HoneyHoney Akihabara",
+  "ja": "メイドカフェHoneyHoney秋葉原店"
+ },
+ "synonyms": [
+  "허니허니",
+  "허니허니 아키하바라",
+  "하니하니",
+  "메이드카페 허니허니",
+  "HoneyHoney",
+  "HoneyHoney Akihabara",
+  "Honey Honey",
+  "ハニハニ",
+  "ハニーハニー",
+  "メイドカフェHoneyHoney",
+  "HoneyHoney秋葉原店",
+  "ハニーハニー秋葉原店"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "cafe",
+  "meal",
+  "dessert",
+  "alcohol",
+  "omurice",
+  "cheki",
+  "point_card",
+  "free_wifi",
+  "non_smoking",
+  "chain"
+ ],
+ "one_line": {
+  "ko": "직접 만든 오므라이스·케이크와 술을 내는 46석 메이드 카페",
+  "en": "A 46-seat maid cafe serving handmade omurice, cakes and alcohol"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702431,
+  "lng": 139.770483
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-7-12 イサミヤ第8ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "22:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라스트오더 22:00. 개점부터 17:00까지가 카페 타임, 17:00부터가 디너 타임이며 디너 타임에는 오토시(전채) 399엔이 붙는다. 공식 사이트에 정기 휴일 표기는 없다.",
+   "en": "Last order 22:00. Cafe time runs from opening to 17:00 and dinner time from 17:00, when a 399 yen otoshi (appetiser) charge applies. The official site lists no regular closing day."
+  },
+  "source_url": "https://www.honey2.jp/shop-profile"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구로 나와 왼쪽으로 돌아 쿠라마에바시도리를 따라가다가 츠케멘집 '天想伝 楽'에서 좌회전, 직진하면 오른쪽에 보이는 라멘집 '肉汁麺ススム' 위 2층이다. JR 아키하바라역에서는 도보 7분. 같은 이사미야 제8빌딩 3층은 오토코노코 카페 뉴타입.",
+  "en": "From Exit 3 of Suehirocho station on the Ginza line, loop left and follow Kuramaebashi-dori, turn left at the tsukemen shop 'Tensoden Raku' and go straight; the cafe is the 2F above the ramen shop 'Nikujiru-men Susumu' on your right. Seven minutes from JR Akihabara. The otokonoko cafe NEWTYPE is on 3F of the same Isamiya No.8 Building."
+ },
+ "tips": {
+  "ko": [
+   "개점~17:00 카페 타임에는 자릿세가 없고, 17:00부터 디너 타임에는 오토시 399엔이 붙는다. 고등학생 이하와 외국인 관광객은 오토시가 면제된다.",
+   "신용카드와 PayPay 결제가 가능하다.",
+   "스태프가 찍히지 않으면 매장 내부 촬영이 가능하다. 스태프 촬영, 연락처 요구, 선물 전달은 금지.",
+   "46석으로 아키하바라 메이드카페 중에서는 큰 편이지만 좌석 예약은 코스 요리를 주문할 때만 받는다. 혼잡하면 90분 제한이 걸릴 수 있다.",
+   "전 좌석 금연이고 무료 Wi-Fi, 콘센트, 스마트폰 충전기 대여가 있다. 의상 테마 이벤트는 공식 사이트 뉴스와 이벤트 캘린더에 공지된다."
+  ],
+  "en": [
+   "No cover charge during cafe time up to 17:00; from 17:00 a 399 yen otoshi (appetiser) charge applies, waived for high-school students and younger and for foreign tourists.",
+   "Credit cards and PayPay are accepted.",
+   "Photography inside is allowed as long as no staff member is in the frame; photographing staff, asking for contact details and giving presents are all prohibited.",
+   "With about 46 seats it is one of the larger Akihabara maid cafes, but seats can only be reserved with a course meal, and a 90-minute limit may apply when busy.",
+   "All seats are non-smoking, with free Wi-Fi, power outlets and loaner phone chargers. Costume-theme weeks are announced in the site's news and event calendar."
+  ]
+ },
+ "official_url": "https://www.honey2.jp/",
+ "sns": {},
+ "chain": "honeyhoney",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.honey2.jp/",
+  "https://www.honey2.jp/shop-profile",
+  "https://www.honey2.jp/about",
+  "https://www.honey2.jp/menu"
+ ],
+ "osm_id": "node/1916536728"
+}

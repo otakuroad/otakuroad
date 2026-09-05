@@ -1,0 +1,92 @@
+{
+ "id": "shinsoku-akihabara-4",
+ "name": {
+  "ko": "신소쿠 아키하바라 4호점",
+  "en": "Shinsoku Akihabara 4th Store",
+  "ja": "シンソク秋葉原4号店"
+ },
+ "synonyms": [
+  "신소쿠",
+  "신소쿠 4호점",
+  "신소쿠 아키하바라4호점",
+  "카드숍 신소쿠",
+  "シンソク",
+  "シンソク秋葉原4号店",
+  "シンソク 秋葉原4号店",
+  "カードショップシンソク",
+  "Shinsoku",
+  "Shinsoku Akihabara No.4",
+  "Shinsoku Akihabara 4"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "union_arena",
+  "singles",
+  "buyback",
+  "new",
+  "used",
+  "new_shop_2026"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·유희왕 카드 싱글과 매입을 다루는 4층 트레카 매장",
+  "en": "Fourth-floor card shop for Pokemon, One Piece and Yu-Gi-Oh singles, with buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700127,
+  "lng": 139.771962
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原4F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 긴자선 스에히로초역에서 도보 5분. 주오도리 동쪽, 트레이더 아키하바라 본점 빌딩 바로 뒤 골목에 있는 지상 5층 건물 TIT秋葉原의 4층이다. 같은 건물 지하 1층 Like a Doll, 2층 아키바 절대영역 A.D.2045, 3층 매지컬 롤리팝은 모두 콘셉트카페이므로, 카드 매장은 엘리베이터로 4층까지 올라가야 나온다.",
+  "en": "Four minutes from the JR Akihabara Electric Town Exit, five from Suehirocho on the Ginza line. It is 4F of TIT Akihabara, the five-storey building on the lane just behind the Trader Akihabara main store, east of Chuo-dori. B1F (Like a Doll), 2F (Akiba Zettai Ryoiki A.D.2045) and 3F (Magical Lollipop) are all concept cafes, so take the lift past them to 4F for the card shop."
+ },
+ "tips": {
+  "ko": [
+   "2026년 5월 2일 매입 전용으로 선행 오픈해 5월 16일 정식 개점했다. 체인의 아키하바라 6개 점포 가운데 하나이며 매입 취급점 목록에도 올라 있다.",
+   "취급 타이틀은 포켓몬카드·유희왕·원피스카드·크로스스타즈·유니온아리나가 중심이다.",
+   "공식 사이트에 점포별 영업시간이 공개돼 있지 않다(전화 문의는 11:00-21:00). 방문 전 공식 X(@shinsoku_akb4th) 확인 권장.",
+   "카드 매장이 하나뿐인 잡거빌딩이라 1층에 매장 간판이 잘 보이지 않는다. 층별 안내판에서 4층 표기를 확인하고 올라가면 된다."
+  ],
+  "en": [
+   "Pre-opened as a buyback counter on 2 May 2026 and fully opened on 16 May. It is one of the chain's six Akihabara branches and is listed as a buyback location.",
+   "The titles handled are Pokemon, Yu-Gi-Oh, One Piece, Cross Stars and Union Arena.",
+   "No per-store opening hours are published on the official site (phone enquiries 11:00-21:00), so check the shop's X account (@shinsoku_akb4th) before going.",
+   "It is the only card shop in an otherwise concept-cafe building, so there is little signage at street level; check the floor board for 4F and go up."
+  ]
+ },
+ "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+ "sns": {
+  "x": "https://x.com/shinsoku_akb4th"
+ },
+ "chain": "shinsoku",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+  "https://www.cardshop-shinsoku.jp/info",
+  "https://shinsoku-tcg.com/kaitori",
+  "https://shinsoku-tcg.com/"
+ ],
+ "osm_id": null
+}

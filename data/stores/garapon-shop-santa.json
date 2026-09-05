@@ -1,0 +1,84 @@
+{
+ "id": "garapon-shop-santa",
+ "name": {
+  "ko": "가라폰숍 산타",
+  "en": "Garapon Shop Santa",
+  "ja": "ガラポンショップサンタ"
+ },
+ "synonyms": [
+  "가라폰 숍 산타",
+  "가라폰샵 산타",
+  "가라폰 산타",
+  "산타 오리파",
+  "Garapon Shop Santa",
+  "Garapon Santa",
+  "garaponsanta",
+  "ガラポンショップ サンタ",
+  "ガラポンサンタ",
+  "ガラポンショップサンタ 秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "oripa",
+  "lottery",
+  "buyback",
+  "basement",
+  "late_night"
+ ],
+ "one_line": {
+  "ko": "카드 오리파(랜덤 팩) 뽑기와 매입을 하는 지하 매장, 휴대폰 가게 모바일헤드 안",
+  "en": "Oripa random-pack card draws and buyback, in the basement Mobile Head phone shop"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70078,
+  "lng": 139.770573
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-11-5 D・B秋葉原ビルB1F モバイルヘッド内",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 뒷골목, 스루가야 아키하바라 본관 바로 북쪽 옆 건물의 지하 1층. 독립 점포가 아니라 휴대폰 매장 모바일헤드(モバイルヘッド) 안에 들어선 오리파 코너이므로, 간판이 아니라 모바일헤드 입구를 찾아 지하로 내려간다. 만다라케 컴플렉스에서 같은 골목을 북쪽으로 약 50m.",
+  "en": "On the back street west of Chuo-dori, in the basement of the building immediately north of Surugaya Akihabara Honkan. It is not a standalone shop but an oripa counter inside the Mobile Head (モバイルヘッド) phone store, so look for the Mobile Head entrance and go down to B1 rather than for its own sign. About 50 m north of Mandarake Complex along the same street."
+ },
+ "tips": {
+  "ko": [
+   "공식 홈페이지가 없고 공지는 X(@garaponsanta)에서만 나온다. 영업시간·휴무는 공식 안내가 없으므로 방문 전 확인이 필요하다.",
+   "트레카 전문 디렉터리에는 11:00~24:00·부정기 휴무로 올라와 있지만 공식 출처가 아니므로 그대로 믿지 말 것.",
+   "싱글 카드 진열대가 아니라 오리파(랜덤 팩) 뽑기가 중심이며 듀얼 스페이스는 없다. 매입 카운터는 있다."
+  ],
+  "en": [
+   "There is no official website; announcements appear only on X (@garaponsanta). No official hours or holidays are published, so check before going.",
+   "A specialist trading-card directory lists 11:00-24:00 with irregular closures, but that is not an official source - do not rely on it.",
+   "The business is oripa (random-pack) draws rather than singles racks, and there is no duel space; a buyback counter is available."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/garaponsanta"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2213",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001?page=7",
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B03-11-5"
+ ],
+ "osm_id": null
+}

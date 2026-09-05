@@ -1,0 +1,128 @@
+{
+ "id": "lilian-cucu-akihabara",
+ "name": {
+  "ko": "리리안 큐큐",
+  "en": "LILIAN CUCU",
+  "ja": "LILIAN CUCU（リリアンキュキュ）"
+ },
+ "synonyms": [
+  "리리안큐큐",
+  "리리안 큐큐",
+  "리리안 프리안",
+  "LILIAN CUCU",
+  "Lilian CuCu",
+  "LILIAN PLIAN",
+  "リリアンキュキュ",
+  "リリアン キュキュ",
+  "リリアンプリアン",
+  "氷の国のメイドカフェ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cheki",
+  "omurice",
+  "parfait",
+  "alcohol",
+  "card_battle",
+  "idol_show"
+ ],
+ "one_line": {
+  "ko": "얼음나라 콘셉트 메이드 카페 1·2층. 파르페·오므라이스와 체키·카드 배틀",
+  "en": "Ice-kingdom maid cafe on 1F-2F: parfaits, omurice, cheki photos and card battles"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "얼음과 보석을 테마로 한 파티세리 겸 카페·숍",
+   "en": "Ice-and-jewel patisserie: the cafe and shop floor"
+  },
+  {
+   "floor": "2F",
+   "ko": "체키·카드 배틀 등 놀이 중심 어뮤즈먼트 플로어이자 라이브가 열리는 메인 플로어",
+   "en": "Amusement floor for cheki photos and card battles; also the main floor where live shows are held"
+  }
+ ],
+ "location": {
+  "lat": 35.700787,
+  "lng": 139.770516
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-11-5 DB秋葉原ビル1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 기준 10:00-23:00, 라스트오더 22:30이며 22:00 이후에는 심야 요금이 붙는다. 공연 일정과 임시 변경은 공식 EVENT 페이지와 X(@lp_akiba)에 올라온다.",
+   "en": "The official site gives 10:00-23:00 with last orders at 22:30; a late-night rate applies after 22:00. Performance times and temporary changes are posted on the official EVENT page and on X (@lp_akiba)."
+  },
+  "source_url": "https://lilian-plian.com/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 뒷길, 만다라케 컴플렉스에서 북쪽으로 약 50m·아파호텔 옆에 있는 DB 아키하바라 빌딩. 1층 카페는 길에서 바로 들어갈 수 있고 2층이 놀이 플로어다. 같은 건물 4층은 극장 KIRARIZA, 5층은 聖氷女教会로 같은 그룹이 운영한다.",
+  "en": "On the back street west of Chuo-dori, about 50 m north of Mandarake Complex and next to the APA Hotel: the DB Akihabara Building. The 1F cafe opens straight off the street and 2F is the amusement floor; the same group runs the KIRARIZA theatre on 4F and the Seihyojo church floor on 5F."
+ },
+ "tips": {
+  "ko": [
+   "입장 요금은 1시간 2,200엔부터로 음료 무제한과 '유키다마' 10개가 포함되며, 1시간마다 자동 연장된다.",
+   "푸드는 800엔부터, 드링크는 500엔부터이고 오므라이스·파르페·프렌치토스트 같은 메이드 카페 메뉴가 있다.",
+   "4층 KIRARIZA 극장에서 매일 공연이 있고 2층 메인 플로어에서도 라이브가 열린다. 그날 일정은 공식 사이트 EVENT에서 확인한다.",
+   "신용카드와 교통계 IC 결제를 받는다고 공식 사이트에 적혀 있다.",
+   "매장에서는 요금을 '리리'라는 통화 단위로 안내하며 1리리는 1엔이다."
+  ],
+  "en": [
+   "Entry starts at 2,200 yen for one hour, including all-you-can-drink and ten 'yukidama' tokens, and renews automatically every hour.",
+   "Food starts at 800 yen and drinks at 500 yen, with maid-cafe staples such as omurice, parfaits and French toast.",
+   "The KIRARIZA theatre on 4F has daily performances and live shows also run on the 2F main floor; check the official EVENT page for the day's timetable.",
+   "The official site states that credit cards and transit IC payments are accepted.",
+   "Prices are quoted in-store in 'lily', the shop's currency; one lily equals one yen."
+  ]
+ },
+ "official_url": "https://lilian-plian.com/",
+ "sns": {
+  "x": "https://x.com/lp_akiba",
+  "instagram": "https://www.instagram.com/lilian_plian/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://lilian-plian.com/",
+  "https://lilian-plian.com/js/data.js?v=20260904ad",
+  "https://lilian-plian.com/shop/",
+  "https://lit.link/lilianplian"
+ ],
+ "osm_id": "node/9566449973"
+}

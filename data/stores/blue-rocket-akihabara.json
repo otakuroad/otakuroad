@@ -1,0 +1,113 @@
+{
+ "id": "blue-rocket-akihabara",
+ "name": {
+  "ko": "블루로켓 아키하바라점",
+  "en": "Blue Rocket Akihabara",
+  "ja": "Blue Rocket 秋葉原店"
+ },
+ "synonyms": [
+  "블루로켓",
+  "블루 로켓 아키하바라",
+  "부루로케",
+  "Blue Rocket",
+  "BlueRocket Akihabara",
+  "bluerocket",
+  "ブルーロケット",
+  "ブルロケ",
+  "Blue Rocket（ブルロケ）秋葉原店",
+  "横川ビル M2F カードショップ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "psa",
+  "graded_card",
+  "sealed_box",
+  "one_piece_card",
+  "oripa",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "PSA 감정 포켓몬카드와 미개봉 박스를 파는 중2층 소형 전문점",
+  "en": "Small mezzanine shop selling PSA-graded Pokemon cards and sealed boxes; cash only"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699863,
+  "lng": 139.775238
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "〒101-0023 東京都千代田区神田松永町16 横川ビル M2F（中2階）",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "18:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일 휴무",
+   "en": "Closed Tuesdays"
+  },
+  "note": {
+   "ko": "매입 접수는 17:30까지. 공식 X 프로필은 판매 대응이 14시부터라고 안내한다.",
+   "en": "Buyback reception closes at 17:30. The shop's X profile says over-the-counter selling starts at 14:00."
+  },
+  "source_url": "https://bluerocket-tcg.com/access"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 3분. 요도바시 Akiba 앞을 지나 쇼와도리를 따라가면 나오는 요코가와(横川) 빌딩이며, 1층은 같은 회사의 종합 매입점 가이토리 호무라(買取ホムラ), 카드 매장은 1층과 2층 사이 중2층(M2F)이다. 자전거점 르 사이크(Le Cyc) 아키바가 있던 자리.",
+  "en": "Three minutes from the Showa-dori exit of JR Akihabara: walk past Yodobashi Akiba along Showa-dori to the Yokogawa Building. The ground floor is the same company's general buying counter Kaitori Homura; the card shop is on the mezzanine (M2F) between 1F and 2F. This is the former site of the Le Cyc Akiba bicycle shop."
+ },
+ "tips": {
+  "ko": [
+   "문을 여는 시간이 13:00-18:00로 짧고 화요일은 휴무라 다른 카드숍보다 일찍 닫는다.",
+   "취급의 중심은 PSA 감정품과 미개봉 BOX이며, PSA10 확정을 내건 오리파도 매장에서 판다.",
+   "매입은 정규 판매점 구입품만 대상이고, 매입 대금은 현금 지급 또는 주말·공휴일을 제외한 3영업일 이내 계좌이체다(공식 X).",
+   "같은 건물 1층 가이토리 호무라는 스마트폰·카메라·가전까지 받는 종합 매입점이라 카드 외의 정리도 한 번에 가능하다."
+  ],
+  "en": [
+   "Short hours (13:00-18:00) and closed on Tuesdays, so it shuts earlier than most Akihabara card shops.",
+   "Stock centres on PSA-graded cards and sealed boxes, plus in-store oripa packs advertised as guaranteed PSA10.",
+   "Buyback covers only items bought from authorised retailers; payment is cash on the spot or a bank transfer within three business days excluding weekends and holidays (per the shop's X).",
+   "Kaitori Homura on the ground floor of the same building buys phones, cameras and appliances as well, so non-card items can be cleared out in the same trip."
+  ]
+ },
+ "official_url": "https://bluerocket-tcg.com/",
+ "sns": {
+  "x": "https://x.com/BR_akihabara"
+ },
+ "chain": "blue-rocket",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://bluerocket-tcg.com/access",
+  "https://bluerocket-tcg.com/",
+  "https://x.com/BR_akihabara",
+  "https://akihabara-cardmap.com/ja/shop/blue-rocket/",
+  "https://kaitori-homura.com/access"
+ ],
+ "osm_id": null
+}

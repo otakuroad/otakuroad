@@ -1,0 +1,89 @@
+{
+ "id": "wakuwaku-taro-yorozubako",
+ "name": {
+  "ko": "와쿠와쿠타로노 요로즈바코",
+  "en": "Wakuwaku Taro no Yorozubako",
+  "ja": "わくわく太郎のよろず箱"
+ },
+ "synonyms": [
+  "와쿠와쿠타로",
+  "와쿠와쿠 타로의 요로즈바코",
+  "아키바 와쿠타",
+  "Wakuwakutaro",
+  "Wakuwaku Taro",
+  "Yorozubako",
+  "akibawakuta",
+  "わくわく太郎のよろず箱 秋葉原店",
+  "わくわく太郎",
+  "よろず箱"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "tshirt",
+  "apparel",
+  "anime_tshirt",
+  "novelty",
+  "tote_bag",
+  "original_goods"
+ ],
+ "one_line": {
+  "ko": "애니 티셔츠와 일본어 개그 티셔츠 전문점. 토트백·오리지널 프린트도 취급",
+  "en": "T-shirt shop for anime prints and Japanese joke tees, plus tote bags and printing"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697845,
+  "lng": 139.772415
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-15-12 Yビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 남쪽, 아트레 아키하바라 옆 골목의 Y빌딩 1층 노면 점포다. 라디오회관에서 역 쪽으로 한 블록 걸으면 되고, 가게 앞에 티셔츠를 걸어 두어 눈에 띈다.",
+  "en": "A ground-floor shopfront in the Y Building, on the lane beside Atre Akihabara just south of the JR Electric Town Exit - one block from Radio Kaikan towards the station. T-shirts hung outside make it easy to spot."
+ },
+ "tips": {
+  "ko": [
+   "공식 사이트에는 영업시간 안내가 없고, 공식 X 프로필은 12:00~20:00, 인스타그램 프로필은 12:00~19:30으로 서로 다르다. 방문 전 SNS를 확인하는 편이 안전하다.",
+   "코스프레 의상은 취급하지 않는다. 티셔츠·파카·토트백 등 프린트 의류와 잡화만 판다.",
+   "건담·에반게리온·소닉·원피스 같은 라이선스 애니 티셔츠와 일본어 말장난 티셔츠가 섞여 있다.",
+   "같은 상품을 온라인 스토어(wakuwakutaro.stores.jp)에서도 살 수 있다."
+  ],
+  "en": [
+   "The official site lists no hours: the shop's X profile says 12:00-20:00 while its Instagram profile says 12:00-19:30, so check its social accounts before going.",
+   "No cosplay costumes here - only printed apparel and accessories such as T-shirts, hoodies and tote bags.",
+   "Licensed anime tees (Gundam, Evangelion, Sonic, One Piece) sit alongside Japanese-pun novelty shirts.",
+   "The same items are sold through the shop's online store at wakuwakutaro.stores.jp."
+  ]
+ },
+ "official_url": "https://wakuwaku21.co.jp/",
+ "sns": {
+  "x": "https://x.com/akibawakuta",
+  "instagram": "https://www.instagram.com/wakuwakutaro.akiba/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://wakuwaku21.co.jp/",
+  "https://wakuwaku21.co.jp/sample-page/",
+  "https://wakuwaku21.co.jp/contact/",
+  "https://map.yahoo.co.jp/v3/place/N7qUxuOoQZg"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,92 @@
+{
+ "id": "x-toreca-denpa-kaikan",
+ "name": {
+  "ko": "엑스트레카",
+  "en": "Ex-Toreca",
+  "ja": "エクストレカ"
+ },
+ "synonyms": [
+  "엑스트레카",
+  "엑스토레카",
+  "엑스트레카 전파회관",
+  "엑스트레카 자판기 매장",
+  "X-Toreca",
+  "Ex-Toreca",
+  "EXTRECA",
+  "extoreca",
+  "ex-toreca",
+  "エクストレカ",
+  "エクストレカ 秋葉原電波会館",
+  "エクストレカ 自販機店舗",
+  "オリパ自販機 秋葉原電波会館"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "oripa",
+  "vending_machine",
+  "unmanned",
+  "pokemon_card",
+  "one_piece_card",
+  "station_front",
+  "new_shop_2026"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스 트레카 오리파(랜덤팩) 자판기가 늘어선 무인 매장",
+  "en": "Unstaffed shop of oripa (random card pack) vending machines for Pokemon and One Piece TCG"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698557,
+  "lng": 139.771797
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 소부선 고가에 붙은 아키하바라 전파회관(秋葉原電波会館) 1층 모서리 구획. 2026년 3월 22일 실점포를 닫은 전자부품점 나카데전기상회(ナカデ電気商会) 자리이며, 같은 구획에 가챠폰 코너가 등을 맞대고 들어서 있다.",
+  "en": "A minute from JR Akihabara's Electric Town Exit, in the corner unit on 1F of Akihabara Denpa Kaikan, hard against the Sobu line viaduct. It took the space of the electronics-parts shop Nakade Denki Shokai, which shut its physical store on 22 March 2026; a capsule-toy corner backs onto it in the same block."
+ },
+ "tips": {
+  "ko": [
+   "점원이 없는 무인 매장으로, 안에는 오리파(랜덤 카드팩) 자판기만 여러 대 놓여 있다. 카드 단품 구매나 상담은 할 수 없다.",
+   "공식 사이트는 온라인 오리파 서비스만 안내하고 이 자판기 매장의 영업시간·정기휴일을 공개하지 않는다. 방문 시간대는 보장되지 않는다.",
+   "매입은 이 매장이 아니라 같은 브랜드의 별도 점포 '아키하바라 엑스트레카 매입점'(2026년 6월 8일 오픈)에서 받는다.",
+   "같은 전파회관 1층에 카드킹덤 2호점과 피규어숍 마루루가 있어 묶어서 둘러보기 좋다."
+  ],
+  "en": [
+   "It is unstaffed: the unit holds only oripa (random card pack) vending machines, so there is no counter for singles or questions.",
+   "The official site covers the online oripa service only and publishes no hours or closing days for this vending-machine unit, so opening times are not guaranteed.",
+   "Buyback is handled not here but at a separate shop of the same brand, Akihabara Ex-Toreca Kaitori-ten, which opened on 8 June 2026.",
+   "Card Kingdom's 2nd store and the figure shop Maruru are on the same 1F of Denpa Kaikan, so the three can be seen in one stop."
+  ]
+ },
+ "official_url": "https://oripa.ex-toreca.com/",
+ "sns": {
+  "x": "https://x.com/extoreca"
+ },
+ "chain": "x-toreca",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gdm.or.jp/crew/2026/0423/631908",
+  "https://www.gdm.or.jp/crew/2026/0401/628996",
+  "https://oripa.ex-toreca.com/",
+  "https://akiba.reload.co.jp/articles/extreca-akihabara-denpakaikan-open-2026/"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,113 @@
+{
+ "id": "magical-twintail-akihabara",
+ "name": {
+  "ko": "마지컬 트윈테일",
+  "en": "Magical Twintail",
+  "ja": "メイドカフェ マジカルツインテール"
+ },
+ "synonyms": [
+  "매지컬 트윈테일",
+  "마지칼 트윈테일",
+  "메이드카페 마지컬 트윈테일",
+  "트윈테일 메이드카페",
+  "Magical Twintail Akihabara",
+  "magicaltwintail",
+  "マジカルツインテール",
+  "マジツイ",
+  "twintail_akb"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cheki",
+  "omurice",
+  "cafe"
+ ],
+ "one_line": {
+  "ko": "A-FRONT 6·7층 메이드카페. 오무라이스·음료와 체키 촬영, 시간당 귀가료 880엔",
+  "en": "Maid cafe on A-FRONT 6F-7F: omurice, drinks and cheki photos, 880 yen per hour"
+ },
+ "building_id": null,
+ "floors": [
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701025,
+  "lng": 139.772089
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-4-8 A-FRONT 6F・7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "14:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 '아크세스/가게 소개' 페이지는 요일 구분 없이 14:00~22:00으로만 안내한다. 정기휴일 안내는 없다.",
+   "en": "The official access/shop page gives 14:00-22:00 with no day-by-day breakdown, and states no regular closing day."
+  },
+  "source_url": "https://magicaltwintail.com/shop/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역·스에히로초역에서 각각 도보 3분. 1층에 대만 음료점 CoCo都可가 있는 A-FRONT 빌딩이며, 그 옆 입구에서 엘리베이터로 6층에 오른다. 좌석이 6층과 7층 두 층에 나뉘어 있고, 같은 건물 4층은 '七つの大罪', 8층은 래빗 캐슬, 10층은 스위트 캣이라 엘리베이터 층 표시를 확인한다.",
+  "en": "Three minutes from both JR Akihabara and Suehirocho. A-FRONT is the tower with the CoCo Tokka bubble-tea stand at street level; take the lift beside it to 6F. Seating is split over 6F and 7F, and the same building holds The Seven Deadly Sins on 4F, Rabbit Castle on 8F and Sweet Cat on 10F, so check the floor sign."
+ },
+ "tips": {
+  "ko": [
+   "요금은 시간제 귀가료 1시간 880엔(연말연시 990엔)이며 1시간마다 드링크 1잔 주문과 자동 연장이 붙는다.",
+   "현금 외에 신용카드·전자머니·QR 결제를 쓸 수 있다(메르페이는 현재 이용 불가).",
+   "체키(즉석사진)는 1,100엔·2,200엔, 오무라이스 1,760엔 등 메뉴는 공식 사이트에 가격이 공개되어 있다.",
+   "공식 인스타그램 안내로는 6층이 14:00, 7층이 15:00부터 영업하는 날이 있으므로 이른 시간에는 6층부터 이용한다."
+  ],
+  "en": [
+   "The charge is a time-based 880 yen per hour (990 yen over New Year), with one drink per hour and automatic extension.",
+   "Cash, credit cards, e-money and QR payments are accepted; Merpay is currently unavailable.",
+   "Cheki instant photos are 1,100 and 2,200 yen, and food such as the 1,760 yen omurice is priced on the official menu page.",
+   "The shop's Instagram notes days when 6F opens at 14:00 and 7F only from 15:00, so head to 6F early in the day."
+  ]
+ },
+ "official_url": "https://magicaltwintail.com/",
+ "sns": {
+  "x": "https://x.com/twintail_akb",
+  "instagram": "https://www.instagram.com/maidcafe_magicaltwintail/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://magicaltwintail.com/",
+  "https://magicaltwintail.com/shop/",
+  "https://magicaltwintail.com/system/",
+  "https://magicaltwintail.com/menu/",
+  "https://magicaltwintail.com/information/",
+  "https://www.instagram.com/maidcafe_magicaltwintail/"
+ ],
+ "osm_id": "node/9103735017"
+}

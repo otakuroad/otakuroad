@@ -1,0 +1,130 @@
+{
+ "id": "monster-party-akihabara",
+ "name": {
+  "ko": "몬스터파티",
+  "en": "Monster Party",
+  "ja": "Monster Party（モンスターパーティ）"
+ },
+ "synonyms": [
+  "몬스터 파티",
+  "몬스터파티 아키하바라",
+  "몬파",
+  "Monster Party Akihabara",
+  "MonsterParty",
+  "Monsterparty",
+  "モンスターパーティ",
+  "モンスターパーティー",
+  "モンパ",
+  "国際6163ビル コンセプトカフェ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "monster",
+  "sofubi",
+  "goods",
+  "cheki",
+  "free_wifi",
+  "photo_ok",
+  "no_alcohol",
+  "private_hire",
+  "studio_rental"
+ ],
+ "one_line": {
+  "ko": "외눈 몬스터 콘셉트 카페. 논알코올 드링크·가벼운 식사와 소프비 몬스터 인형 판매",
+  "en": "One-eyed monster concept cafe: soft drinks, light food and hand-made sofubi monster toys"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.704975,
+  "lng": 139.77142
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田6-16-3 国際6163ビル401",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일·수요일 정기휴무",
+   "en": "Closed Tuesdays and Wednesdays"
+  },
+  "note": {
+   "ko": "공식 Q&A 기준 월·목·금 17:00-22:00, 토·일·공휴일 15:00-20:00, 화·수 휴무. 홈페이지 상단에는 '평일 17〜22'로만 적혀 있어 화·수 휴무가 드러나지 않으니 주의. 라스트오더는 폐점 1시간 전이며 단축 영업이 있을 수 있고 변경은 공식 X(@hi_monsterparty)에 공지된다.",
+   "en": "The official Q&A gives Mon/Thu/Fri 17:00-22:00, Sat/Sun/holidays 15:00-20:00, closed Tue and Wed; the site's top page only says 'weekdays 17-22' and hides the Tue/Wed closure. Last order is one hour before closing, hours are sometimes shortened, and changes are posted on X (@hi_monsterparty)."
+  },
+  "source_url": "https://www.monsterparty.tokyo/q-a"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 4번 출구에서 주오도리를 따라 우에노 방향(북쪽)으로 걷다가 첫 신호 교차로에서 좌회전, 두 번째 교차로에서 우회전해 약 60m 앞 오른편 건물이다. 1층 햄버거 가게가 표식이고 영업 중에는 건물 입구에 입간판이 나온다. 국제6163빌딩(国際6163ビル) 4층 401호. JR 아키하바라역에서는 도보 20분, 지요다선 유시마역에서 도보 5분.",
+  "en": "From Tokyo Metro Ginza Line Suehirocho exit 4, walk north along Chuo-dori toward Ueno, turn left at the first signalled crossing and right at the second; the building is about 60 m along on the right. The burger shop on the ground floor is the landmark and a sandwich board stands at the entrance while the cafe is open. Kokusai 6163 Building, room 401 on 4F — 20 minutes on foot from JR Akihabara, 5 minutes from Yushima on the Chiyoda Line."
+ },
+ "tips": {
+  "ko": [
+   "화·수요일은 정기휴무. 월·목·금 17:00-22:00, 토·일·공휴일 15:00-20:00이며 라스트오더는 폐점 1시간 전이다.",
+   "차지(입장) 요금과 1드링크 오더제로 운영된다. 90분 단위로 차지가 붙고 이후 60분마다 1오더를 추가한다.",
+   "알코올은 취급하지 않는 논알코올 카페다. 로테이블 3석·하이테이블 3석·카운터 1석뿐인 아주 작은 가게라 혼잡할 수 있다.",
+   "점주가 직접 만드는 소프비(연질 비닐) 몬스터 인형과 굿즈를 매장 한쪽에서 판매하고, 2숏 체키도 찍을 수 있다.",
+   "매장과 캐스트 촬영이 가능하지만 삼각대·플래시 등 큰 장비는 영업 중 금지. 무료 Wi-Fi가 있고 비밀번호는 캐스트에게 물으면 된다.",
+   "2018년 외신다에서 시작해 2022년 아사쿠사로 옮겼다가 다시 아키하바라(오카치마치 쪽)로 돌아온 가게라, 오래된 안내에는 옛 주소가 남아 있다."
+  ],
+  "en": [
+   "Closed Tuesdays and Wednesdays; Mon/Thu/Fri 17:00-22:00, Sat/Sun/holidays 15:00-20:00, last order one hour before closing.",
+   "A table charge plus a one-drink order is required: the charge covers 90 minutes, then one more order every 60 minutes after that.",
+   "No alcohol is served. It is tiny — three low tables, three high tables and a single counter seat — so it fills up fast.",
+   "The owner makes the sofubi (soft-vinyl) monster figures sold in the shop corner, and two-shot cheki photos are available.",
+   "Photos of the room and of the cast are allowed, but tripods and flash rigs are not during business hours. Free Wi-Fi; ask the cast for the password.",
+   "The shop opened in Sotokanda in 2018, moved to Asakusa in 2022 and later returned to Akihabara on the Okachimachi side, so older listings still carry the previous address."
+  ]
+ },
+ "official_url": "https://www.monsterparty.tokyo",
+ "sns": {
+  "x": "https://x.com/hi_monsterparty",
+  "instagram": "https://www.instagram.com/monsterparty.cafe/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.monsterparty.tokyo/access",
+  "https://www.monsterparty.tokyo/q-a",
+  "https://www.monsterparty.tokyo/company",
+  "https://www.monsterparty.tokyo/",
+  "https://www.monsterparty.tokyo/service",
+  "https://maidcafe-guide.com/2025/05/24/maidcafe-guide-monsterparty-20250515/",
+  "https://x.com/hi_monsterparty"
+ ],
+ "osm_id": "node/6572678286"
+}

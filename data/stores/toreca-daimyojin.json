@@ -1,0 +1,120 @@
+{
+ "id": "toreca-daimyojin",
+ "name": {
+  "ko": "트레카 다이묘진 아키하바라점",
+  "en": "Toreca Daimyojin Akihabara",
+  "ja": "トレカ大明神 秋葉原店"
+ },
+ "synonyms": [
+  "트레카 다이묘진",
+  "트레카다이묘진",
+  "토레카 다이묘진",
+  "다이묘진 포켓몬카드",
+  "Toreca Daimyojin",
+  "Toreka Daimyojin",
+  "Treca Daimyojin",
+  "トレカ大明神",
+  "トレカ大明神秋葉原店",
+  "トレカ大明神 秋葉原 ポケモンカード買取店",
+  "tcdaimyoujin"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "buyback",
+  "psa",
+  "vintage",
+  "sealed_box",
+  "singles",
+  "used",
+  "specialist"
+ ],
+ "one_line": {
+  "ko": "포켓몬카드 전문 매입점. PSA 감정품·구판 카드·미개봉 박스 사정",
+  "en": "Pokemon card buying specialist: PSA-graded, old-back vintage cards and sealed boxes"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700782,
+  "lng": 139.768616
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田2-8-12 川崎ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 목요일 정기휴무",
+   "en": "Closed every Thursday"
+  },
+  "note": {
+   "ko": "매입 접수는 평일 13:30~19:30, 토·일·공휴일 12:30~19:30. 폐점은 20:00이지만 19:30 시점에 매입 접수가 없으면 조기 종료하는 경우가 있다고 공식 사이트에 명시되어 있다.",
+   "en": "Buyback is taken 13:30-19:30 on weekdays and 12:30-19:30 on weekends and holidays. Closing is 20:00, but the official site warns the shop may close early if no buyback customer is waiting at 19:30."
+  },
+  "source_url": "https://www.tcdaimyoujin.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 7분, JR 아키하바라역에서 도보 8분, 주오선 오차노미즈역에서 도보 9분(공식 사이트 안내). 소토칸다 2초메 서쪽, 간다묘진 아래 골목의 가와사키(川崎) 빌딩 1층이라 전기가 상점가 중심부에서는 떨어져 있다.",
+  "en": "Seven minutes from Suehirocho on the Ginza line, eight from JR Akihabara and nine from Ochanomizu, per the official site. Ground floor of the Kawasaki Building on a side street in western Sotokanda 2-chome below Kanda Myojin, away from the main electronics blocks."
+ },
+ "tips": {
+  "ko": [
+   "판매보다 매입에 특화된 소규모 전문점이며 취급 타이틀은 포켓몬카드 하나뿐이다. 유희왕·원피스 등 다른 TCG는 다루지 않는다.",
+   "PSA 감정품, 구판(초기 디자인) 카드, 미개봉 BOX, 레어 카드까지 사정 대상으로 명시하고 있다.",
+   "매주 목요일 정기휴무이고 평일(월·화·수·금) 13시, 토·일·공휴일 12시로 개점 시간이 다르다.",
+   "공식 사이트의 고가 매입 리스트가 매일 갱신되므로 가격을 미리 볼 수 있다. 메루카리·BASE 온라인 점포도 함께 운영한다."
+  ],
+  "en": [
+   "A small buyback-focused specialist that handles Pokemon cards only - no Yu-Gi-Oh!, One Piece or other TCGs.",
+   "It explicitly takes PSA-graded cards, old-back (early design) cards, sealed boxes and rare singles.",
+   "Closed every Thursday, and opening time differs: 13:00 on Mon/Tue/Wed/Fri, 12:00 on weekends and holidays.",
+   "The official site refreshes its high-price buyback list daily, so you can check rates before going. The shop also runs Mercari and BASE online stores."
+  ]
+ },
+ "official_url": "https://www.tcdaimyoujin.com/",
+ "sns": {
+  "x": "https://x.com/tcdaimyoujin"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.tcdaimyoujin.com/",
+  "https://akihabara-cardmap.com/ja/shop/toreka-daimyojin-akihabara-pokemon-card-buying-store/"
+ ],
+ "osm_id": null
+}

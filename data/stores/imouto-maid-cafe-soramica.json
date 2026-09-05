@@ -1,0 +1,124 @@
+{
+ "id": "imouto-maid-cafe-soramica",
+ "name": {
+  "ko": "이모토 메이드카페 소라미카",
+  "en": "Imouto Maid Cafe Soramica",
+  "ja": "妹メイドカフェ ソラミカ"
+ },
+ "synonyms": [
+  "소라미카",
+  "여동생 메이드카페 소라미카",
+  "소라미카 아키하바라",
+  "Soramica",
+  "SORA MICA",
+  "Sora Mica",
+  "ソラミカ",
+  "妹メイドカフェソラミカ",
+  "妹メイドカフェ SORA MICA",
+  "imouto_soramica"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "imouto",
+  "maid",
+  "cheki",
+  "home_cooking",
+  "all_you_can_drink"
+ ],
+ "one_line": {
+  "ko": "여동생 콘셉트 메이드카페. 손님을 '오빠'라 부르는 접객과 수제 음식·체키",
+  "en": "Little-sister concept maid cafe: cast call you onii-chan, home-made food and cheki"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698759,
+  "lng": 139.770255
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-9-11 神タワービル4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "fri"
+    ],
+    "open": "14:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "wed"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일·목요일 정기휴무",
+   "en": "Closed Tuesdays and Thursdays"
+  },
+  "note": {
+   "ko": "가게 공식 인스타그램 프로필의 영업시간 표기(【평일】월·금 14시~23시, 수 17시~23시 【휴일】12시~23시 【정기휴무】화·목)를 옮긴 것이다. 당일 오픈·클로즈 시간과 출근 메이드는 공식 X(@sora_mica0708)에 매일 올라온다. OSM에는 아직 22시 마감으로 남아 있다.",
+   "en": "Transcribed from the shop's official Instagram profile (Mon/Fri 14:00-23:00, Wed 17:00-23:00, weekends and holidays 12:00-23:00, closed Tue/Thu). Each day's actual open and close time is posted on X (@sora_mica0708). OSM still records a 22:00 close."
+  },
+  "source_url": "https://www.instagram.com/imouto_soramica/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 2분. 전자부품점 센고쿠덴쇼(千石電商)와 도쿄 레저랜드가 있는 외칸다 1-9 블록의 神タワービル 4층이다. OSM과 일부 지도 앱은 같은 자리의 건물을 岡光ビル(오카미쓰 빌딩)로 표기한다.",
+  "en": "Two minutes from JR Akihabara's Electric Town exit, on the 外神田1-9 block that holds the parts shop Sengoku Densho and Tokyo Leisure Land. 4F of the Kami Tower Building; OSM and some map apps label the same building Okamitsu Building."
+ },
+ "tips": {
+  "ko": [
+   "화요일과 목요일은 정기휴무다. 월·금 14시, 수 17시, 토·일·공휴일 12시로 요일마다 오픈 시간이 다르니 확인하고 간다.",
+   "당일 영업시간과 출근 메이드는 공식 X(@sora_mica0708)에 매일 오전~낮에 공지된다.",
+   "메이드가 그림을 그려 주는 것이 이 가게의 특징으로, 해시태그 #妹はお絵描き大好き 에서 실제 작품을 볼 수 있다.",
+   "공식 홈페이지는 없고 X와 인스타그램만 운영한다. 예약·문의도 그쪽으로 한다."
+  ],
+  "en": [
+   "Closed on Tuesdays and Thursdays. Opening time differs by day - 14:00 on Mon and Fri, 17:00 on Wed, 12:00 at weekends and on public holidays.",
+   "The day's hours and which maids are working are posted on X (@sora_mica0708) every morning or midday.",
+   "The cast drawing pictures for guests is this shop's signature; the hashtag #妹はお絵描き大好き shows the actual drawings.",
+   "There is no official website - only X and Instagram, which are also where enquiries go."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/sora_mica0708",
+  "instagram": "https://www.instagram.com/imouto_soramica/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://x.com/sora_mica0708",
+  "https://www.instagram.com/imouto_soramica/"
+ ],
+ "osm_id": "node/9654182669"
+}

@@ -1,0 +1,127 @@
+{
+ "id": "akiba-guild",
+ "name": {
+  "ko": "아키바 길드",
+  "en": "Akiba Guild",
+  "ja": "アキバギルド"
+ },
+ "synonyms": [
+  "아키바길드",
+  "아키바 기루도",
+  "메이드 카지노 아키바 길드",
+  "Akiba Guild Akihabara",
+  "akibacc",
+  "アキバギルド",
+  "秋葉原 メイドカジノ アキバギルド",
+  "アミューズメントカジノ アキバギルド"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "concept_cafe",
+  "casino",
+  "poker",
+  "blackjack",
+  "roulette",
+  "baccarat",
+  "tournament",
+  "alcohol",
+  "entry_fee"
+ ],
+ "one_line": {
+  "ko": "메이드 딜러와 포커·블랙잭을 즐기는 어뮤즈먼트 카지노 콘셉트 카페",
+  "en": "Amusement casino concept cafe: poker, blackjack and roulette dealt by maids"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699535,
+  "lng": 139.771018
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-11-6 小暮ビル4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "15:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "공식 사이트 기준 평일 15:00~23:00, 토·일·공휴일 11:00~23:00. 정기휴일은 공식 사이트에 명시되어 있지 않고 디렉터리에는 부정기 휴무로 나온다. 이벤트·포커 토너먼트 일정은 공식 사이트 뉴스와 X(@AkibaGuild)에 올라온다.",
+   "en": "15:00-23:00 on weekdays and 11:00-23:00 at weekends and public holidays, per the official site. No fixed closing day is stated officially and directories list it as irregular; event and poker-tournament dates are posted in the site news and on X (@AkibaGuild)."
+  },
+  "source_url": "https://akibacc.com/price-system/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 긴자선 스에히로초역에서 도보 5분. 슈퍼포테이토와 앳홈카페 본점이 있는 주오도리 한 블록 서쪽 뒷골목 블록에 선 고구레(小暮) 빌딩 4층이며, 1층 입구에서 엘리베이터를 탄다. 같은 건물 5~7층은 트레카 전문점 아메니티 드림이다.",
+  "en": "Four minutes from the JR Akihabara Electric Town exit and five from Suehirocho, in the Kogure Building on the back-street block one row west of Chuo-dori that also holds Super Potato and the @home cafe main store. Take the lift from the ground-floor entrance to 4F; Amenity Dream, the trading-card shop, fills 5F-7F of the same building."
+ },
+ "tips": {
+  "ko": [
+   "요금은 입장료 1,000엔에 유기용 칩 구입을 더하는 방식이다. 첫 방문 한정으로 2,000엔=$150, 3,000엔=$300 플랜이 있고, 5,000엔 플랜은 입장료+$400 칩+음료 1잔+기념품을 포함한다.",
+   "칩은 현금으로 바꿀 수 없는 어뮤즈먼트 카지노다. 텍사스 홀덤 포커·바카라·블랙잭·룰렛·크랩스·프로그레시브 포커·대부호를 메이드 딜러가 룰부터 설명해 준다.",
+   "소프트드링크와 주류를 파는 바 카운터가 있어 게임을 하지 않고 쉬어가도 되고, 포커 토너먼트가 정기적으로 열린다.",
+   "공식 요금 안내에 나오는 결제 수단은 현금과 아키하바라 공통 티켓(다른 할인과 병용 불가)이다. 카드 사용 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다.",
+   "2026년에 19주년을 맞은 매장으로 이케부쿠로 길드, 아키하바라 카지노 퀘스트 등 자매점을 함께 운영한다."
+  ],
+  "en": [
+   "You pay a 1,000 yen entry fee plus a chip package: first-timers can take 2,000 yen for $150 or 3,000 yen for $300, and the 5,000 yen plan bundles entry, $400 in chips, a drink and a souvenir.",
+   "Chips cannot be exchanged for cash - it is an amusement casino. Maid dealers explain the rules of Texas hold'em poker, baccarat, blackjack, roulette, craps, progressive poker and daifugo before you play.",
+   "There is a bar counter with soft drinks and alcohol, so you can just sit and rest without gaming, and poker tournaments run regularly.",
+   "The official price page names only cash and Akihabara common tickets (not combinable with other discounts) as payment; card acceptance is not stated, so bring cash.",
+   "The shop reached its 19th anniversary in 2026 and its operator also runs sister venues such as Ikebukuro Guild and Akihabara Casino Quest."
+  ]
+ },
+ "official_url": "https://akibacc.com/",
+ "sns": {
+  "x": "https://x.com/AkibaGuild",
+  "instagram": "https://www.instagram.com/akiba_guild/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibacc.com/",
+  "https://akibacc.com/price-system/",
+  "https://akibacc.com/games/",
+  "https://shop.caferun.jp/shop/7203/",
+  "https://concafego.com/shop/f91dfeac40e94cbffab02c59/",
+  "https://cafecon.jp/a02/a0201/a020101/a02010101/"
+ ],
+ "osm_id": "node/2263796306"
+}

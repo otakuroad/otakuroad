@@ -1,0 +1,113 @@
+{
+ "id": "daiyu-hobby-shop",
+ "name": {
+  "ko": "다이유 호비숍",
+  "en": "Daiyu Hobby Shop",
+  "ja": "大雄ホビーショップ"
+ },
+ "synonyms": [
+  "다이유호비숍",
+  "다이유 하비숍",
+  "다이유 호비 숍",
+  "大雄ホビーショップ",
+  "大雄ホビー",
+  "大雄株式会社",
+  "Daiyu Hobby",
+  "daiyu-hobby"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "used",
+  "toy_gun",
+  "model_gun",
+  "gas_gun",
+  "air_gun",
+  "electric_gun",
+  "custom_parts",
+  "buyback",
+  "plamodel"
+ ],
+ "one_line": {
+  "ko": "총기 모형 수집가를 위한 중고 모델건·가스건·전동건과 커스텀 부품 전문점",
+  "en": "Used model guns, gas and electric airsoft guns and custom parts for toy-gun collectors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703222,
+  "lng": 139.768451
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田6-1-5 岩上ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun"
+    ],
+    "open": "12:00",
+    "close": "19:15"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 월요일 휴무",
+   "en": "Closed every Monday"
+  },
+  "note": {
+   "ko": "공휴일 영업 여부는 공식 안내에 적혀 있지 않다. 연말연시·하계·임시 휴업은 공식 사이트 '新着情報'에 공지된다.",
+   "en": "The official page does not say whether it opens on public holidays. Year-end, summer and temporary closures are posted under 新着情報 on the official site."
+  },
+  "source_url": "https://daiyu-hobby.com/pages/about"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 약 10분. 공식 안내는 '전기가의 소란을 빠져나온 뒷골목 빌딩 1층'이라고 표현하며, 주오도리에서 서쪽으로 들어간 岩上ビル 1층이다. 도쿄메트로 긴자선 스에히로초역에서는 300m 남짓으로 더 가깝다.",
+  "en": "About ten minutes on foot from JR Akihabara Station. The shop's own page calls it the ground floor of a back-street building past the bustle of Electric Town - the Iwakami Building (岩上ビル), west of Chuo-dori. Suehirocho station on the Ginza line is closer, roughly 300 m away."
+ },
+ "tips": {
+  "ko": [
+   "월요일 휴무이고 영업시간이 12:00-19:15로 짧다. 이른 오후에 맞춰 가는 편이 안전하다.",
+   "전 상품이 매입한 중고품이라 재고가 매번 다르다. 공식 안내에 따르면 매장에 500정 이상을 메이커·형번별로 진열해 두고 있다.",
+   "커스텀·스페어·리페어 부품 구비량이 아키하바라에서 손꼽힌다고 공식 안내에 적혀 있다. 부품만 보러 가도 좋다.",
+   "취급 품목은 모델건·가스건·에어건·전동건과 부품·정크품, 무가동 실총, 미조립 프라모델이다. 해외 반출은 나라마다 규제가 다르니 구입 전에 확인할 것.",
+   "매입은 점두·택배·출장 세 가지 방식을 받으며 당일 감정·당일 현금 지급을 내걸고 있다.",
+   "점포 결제 수단에 대한 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "Closed Mondays, and the 12:00-19:15 window is short - aim for early afternoon.",
+   "Everything on the shelves was bought in second-hand, so stock changes constantly; the official page says over 500 guns are displayed, sorted by maker and model number.",
+   "The shop claims one of Akihabara's largest selections of custom, spare and repair parts, so it is worth a visit for parts alone.",
+   "Stock covers model guns, gas, air and electric guns, parts and junk items, deactivated real firearms and unbuilt plastic kits. Export rules differ by country, so check before buying.",
+   "Buy-back is offered in three ways - in store, by post and by home visit - with same-day appraisal and same-day cash payment.",
+   "No in-store payment methods are stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://daiyu-hobby.com/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://daiyu-hobby.com/pages/about",
+  "https://daiyu-hobby.com/"
+ ],
+ "osm_id": "node/4970231996"
+}

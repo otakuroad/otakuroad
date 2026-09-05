@@ -1,0 +1,125 @@
+{
+ "id": "fullcomp-akihabara",
+ "name": {
+  "ko": "풀콤프 아키하바라점",
+  "en": "Fullcomp Akihabara",
+  "ja": "フルコンプ秋葉原店"
+ },
+ "synonyms": [
+  "풀콤프",
+  "풀 콤프",
+  "훌콤프",
+  "풀콤프 아키하바라",
+  "풀콤프 센주빌딩점",
+  "Fullcomp",
+  "Fullcomp Akiba",
+  "Full Comp Akihabara",
+  "fullcomp akihabara",
+  "フルコンプ",
+  "フルコンプ秋葉原",
+  "フルコンプ 千住ビル"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "used",
+  "new",
+  "pokemon_card",
+  "one_piece_card",
+  "duel_masters",
+  "gundam_card",
+  "dragon_ball_super",
+  "booster_pack",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·건담·듀얼마스터즈 싱글카드와 팩을 팔고 매입하는 4층 매장",
+  "en": "4F card shop selling and buying Pokemon, One Piece, Gundam and Duel Masters singles"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701341,
+  "lng": 139.771294
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-6 千住ビル4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 안내는 '平日13時～21時/土日祝11時～21時 年中無休'. 같은 체인의 라디오회관점(10:00-20:00)과 시간이 다르므로 주의.",
+   "en": "The official page states weekdays 13:00-21:00, weekends and holidays 11:00-21:00, open year-round. The chain's Radio Kaikan branch keeps different hours (10:00-20:00)."
+  },
+  "source_url": "https://fullcomp.jp/akihabara/access/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽에 면한 세로형 잡거빌딩 千住ビル 4층. 긴자선 스에히로초역에서 미쓰비시UFJ은행 쪽 출구로 나와 주오도리를 아키하바라 방면으로 내려가면 3-14-6 건물이 나온다. JR 아키하바라역 전기가 출구에서는 도보 5분. 같은 건물 1층은 리버티 1호점, 3층은 TOYGER TCG, 6층은 AKIBA-HOBBY이며 매장 입구는 건물 측면이다.",
+  "en": "On 4F of the Senju Building, a stacked tenant block on the west side of Chuo-dori. From Suehirocho Station (Ginza Line) leave by the Mitsubishi UFJ Bank exit and walk down Chuo-dori toward Akihabara to number 3-14-6; from the JR Akihabara Electric Town exit it is a five-minute walk. Liberty No.1 is on 1F, TOYGER TCG on 3F and AKIBA-HOBBY on 6F, and the entrance is on the side of the building."
+ },
+ "tips": {
+  "ko": [
+   "같은 체인의 라디오회관 9층 점포와는 별개 매장이다. 전화번호(03-5256-2652)와 영업시간이 다르며, 이쪽이 밤 21시까지로 더 늦게까지 연다.",
+   "매입은 공식 사이트의 買取 리스트에 실린 카드만 받는다고 안내하므로, 팔 계획이라면 포켓몬·원피스·듀얼마스터즈·건담 카드 리스트를 미리 확인하는 편이 좋다.",
+   "면세·카드 결제 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "A separate shop from the chain's Radio Kaikan 9F branch: different phone number (03-5256-2652) and hours, and this one stays open until 21:00.",
+   "The official site says buyback covers only cards on its published lists, so check the Pokemon, One Piece, Duel Masters and Gundam lists before bringing cards to sell.",
+   "Tax-free and card acceptance are not stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://fullcomp.jp/akihabara/access/",
+ "sns": {
+  "x": "https://x.com/fullcompaki"
+ },
+ "chain": "fullcomp",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://fullcomp.jp/akihabara/access/",
+  "https://fullcomp.jp/akihabara/",
+  "https://fullcomp.jp/",
+  "https://fullcomp.jp/radiokaikan/access/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+ ],
+ "osm_id": null
+}

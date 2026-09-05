@@ -1,0 +1,120 @@
+{
+ "id": "little-world-onoden",
+ "name": {
+  "ko": "리틀월드 지스토어·아키바점",
+  "en": "Little World GEE!STORE Akiba",
+  "ja": "リトルワールド ジーストア・アキバ店"
+ },
+ "synonyms": [
+  "리틀월드",
+  "리틀 월드",
+  "리틀월드 아키하바라",
+  "리틀월드 오노덴",
+  "리틀월드 지스토어 아키바",
+  "Little World",
+  "Little World Akihabara",
+  "Little World Gee Store Akiba",
+  "LittleworldDoll",
+  "リトルワールド",
+  "リトルワールド秋葉原",
+  "リトルワールド ジーストア・アキバ",
+  "little-world.net"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "doll",
+  "azone",
+  "obitsu",
+  "doll_body",
+  "doll_clothes",
+  "wig",
+  "doll_accessory",
+  "made_to_order",
+  "photo_space",
+  "new"
+ ],
+ "one_line": {
+  "ko": "아조네·오비츠 돌 소체와 인형 옷·가발·소품을 파는 돌 전문점. 촬영 공간 병설",
+  "en": "Doll specialty shop: Azone and Obitsu doll bodies, doll clothes, wigs and a photo space"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698334,
+  "lng": 139.770894
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-2-7 オノデン本店4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "정기휴일 없음(연시 및 연 2회 재고조사 휴업)",
+   "en": "No fixed closing day; closed at New Year and for stocktaking twice a year"
+  },
+  "note": {
+   "ko": "공식 점포 안내 기준 아키바점은 10:00-20:00으로, 같은 오노덴 본관 4층의 지스토어·아키바와 시간이 같다(나고야·오사카 등 다른 지점은 11:00 개점). 같은 층 큐어메이드카페만 11:00 개점이다.",
+   "en": "The official shop list gives 10:00-20:00 for the Akiba branch, the same as GEE!STORE Akiba on the same Onoden 4F (the Nagoya and Osaka branches open at 11:00). Only the Cure Maid Cafe on the same floor opens later, at 11:00."
+  },
+  "source_url": "https://www.little-world.net/shop.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 도보 2분, 파란 EDION 건물 바로 북쪽의 오노덴 본관. 엘리베이터로 4층에 올라가면 코스파의 지스토어·아키바 매장이 층 전체를 쓰고, 리틀월드는 그 안의 돌 전문 코너다. 같은 4층 안쪽에 큐어메이드카페가 있다.",
+  "en": "Two minutes south of JR Akihabara's Electric Town Exit along Chuo-dori, in the Onoden main building just north of the blue EDION building. Take the lift to 4F, which is COSPA's GEE!STORE Akiba; Little World is the doll section inside it, with the Cure Maid Cafe further back on the same floor."
+ },
+ "tips": {
+  "ko": [
+   "아조네 계열 돌과 오비츠 소체, 인형 옷·가발·소품이 주력이라 완성 피규어 매장과는 재고 성격이 다르다.",
+   "인형 촬영용 배경 세트가 있고 테마가 매달 바뀐다. 매장에서 산 인형이든 가져온 인형이든 그 자리에서 찍을 수 있다.",
+   "인형 옷 오더(주문 제작) 상담도 받는다.",
+   "전화 03-3526-6877. 면세·카드 결제 여부는 공식 안내가 없으므로 카운터에서 확인."
+  ],
+  "en": [
+   "Its stock is Azone-line dolls, Obitsu bodies, doll clothing, wigs and accessories, not finished anime figures.",
+   "There is a photo backdrop set whose theme changes monthly; you can shoot a doll you just bought or one you brought with you.",
+   "The shop also takes made-to-order enquiries for doll outfits.",
+   "Phone 03-3526-6877. Tax-free and card acceptance are not stated officially, so ask at the counter."
+  ]
+ },
+ "official_url": "https://www.little-world.net/",
+ "sns": {
+  "x": "https://x.com/LittleworldDoll"
+ },
+ "chain": "little-world",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.little-world.net/",
+  "https://www.little-world.net/shop.html",
+  "https://www.geestore.com/geenet/geestore/akiba"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,123 @@
+{
+ "id": "card-shop-issei",
+ "name": {
+  "ko": "카드숍 잇세이",
+  "en": "Card Shop Issei",
+  "ja": "カードショップ 一誠"
+ },
+ "synonyms": [
+  "잇세이",
+  "카드숍 잇세이",
+  "카드샵 잇세이",
+  "이세이",
+  "Issei",
+  "Isei",
+  "Card Shop Issei",
+  "cardshopisei",
+  "一誠",
+  "カードショップ一誠",
+  "カードショップ 一誠 秋葉原",
+  "リバティー5号館5F",
+  "外神田4-5-1"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "duel_space",
+  "weiss_schwarz",
+  "gundam_card_game",
+  "vanguard",
+  "one_piece_card",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "바이스슈발츠·건담 카드게임 싱글과 24석 무료 듀얼 스페이스",
+  "en": "Weiss Schwarz, Gundam Card Game and other TCG singles with a free 24-seat duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701481,
+  "lng": 139.771895
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-5-1 リバティー5号館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "19:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 19:00에 닫아 주말(20:00)보다 한 시간 이르다. 카드숍 디렉터리에는 평일 14:00-19:00, 부정기 휴무로 올라 있어 공식 안내와 다르므로 늦은 오후 방문이 안전하다.",
+   "en": "Weekdays close at 19:00, an hour earlier than weekends. Card-shop directories list 14:00-19:00 on weekdays and irregular closing days, which disagrees with the official page, so a late-afternoon visit is safest."
+  },
+  "source_url": "https://cardshopisei.com/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 전기가 출구에서 도보 5분. 주오도리 동쪽 보도의 리버티 5호관(1층이 리버티 아키하바라 5호점인 9층 건물) 오른쪽 건물 입구로 들어가 엘리베이터로 5층에 올라간다.",
+  "en": "One minute from Ginza-line Suehirocho, five from the JR Electric Town exit. Use the entrance on the right-hand side of the Liberty No.5 building (the nine-storey block on the east side of Chuo-dori whose 1F is Liberty Akihabara Store 5) and take the elevator to 5F."
+ },
+ "tips": {
+  "ko": [
+   "취급 타이틀은 바이스슈발츠·바이스슈발츠 로제·Z/X·원피스 카드게임·건담 카드게임·뱅가드·유니온아레나 중심으로, 포켓몬·유희왕 전문점과는 결이 다르다.",
+   "24석 듀얼 스페이스는 무료이며 각 타이틀 대회가 열린다.",
+   "매입은 점두 매입만 받고 온라인 매입은 없다.",
+   "전화 문의는 03-6772-7288."
+  ],
+  "en": [
+   "The line-up centres on Weiss Schwarz and Weiss Schwarz Rose, Z/X, One Piece Card Game, Gundam Card Game, Vanguard and Union Arena rather than Pokemon or Yu-Gi-Oh.",
+   "The 24-seat duel space is free and hosts tournaments for those titles.",
+   "Buyback is in-store only; there is no mail-in service.",
+   "Phone: 03-6772-7288."
+  ]
+ },
+ "official_url": "https://cardshopisei.com/",
+ "sns": {
+  "x": "https://x.com/cardshopisei"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cardshopisei.com/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85",
+  "https://cardshopisei.com/",
+  "https://x.com/cardshopisei",
+  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2221",
+  "https://akibatoreka.com/introduce/2324",
+  "https://www.openstreetmap.org/way/89182732"
+ ],
+ "osm_id": null
+}

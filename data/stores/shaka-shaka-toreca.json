@@ -1,0 +1,97 @@
+{
+ "id": "shaka-shaka-toreca",
+ "name": {
+  "ko": "카드숍 샤카샤카트레카",
+  "en": "Card Shop Shakashaka Toreca",
+  "ja": "カードショップ シャカシャカトレカ"
+ },
+ "synonyms": [
+  "샤카샤카트레카",
+  "샤카샤카 트레카",
+  "샤카샤카토레카",
+  "카드숍 샤카샤카트레카",
+  "Shakashaka Toreca",
+  "Shaka Shaka Toreca",
+  "Card Shop Shaka Shaka Toreca",
+  "shakashakatoreka",
+  "シャカシャカトレカ",
+  "カードショップシャカシャカトレカ",
+  "しゃかしゃかトレカ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "vanguard",
+  "digimon_card",
+  "shadowverse_evolve",
+  "build_divide",
+  "battle_spirits",
+  "oripa",
+  "singles",
+  "duel_space",
+  "tournament",
+  "buyback",
+  "sleeve",
+  "playmat",
+  "used"
+ ],
+ "one_line": {
+  "ko": "뱅가드·디지몬·섀도우버스 EVOLVE 싱글과 오리파, 28석 듀얼 스페이스",
+  "en": "Vanguard, Digimon and Shadowverse EVOLVE singles and oripa, plus a 28-seat duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702468,
+  "lng": 139.771997
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-7-2 小林ビル5階",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 스에히로초 방면, 1층이 빈티지 완구점 玩具古今東西(Toys GOLDEN☆AGE)인 6층짜리 고바야시(小林) 빌딩의 5층. 바로 남쪽 옆 건물이 e☆이어폰 아키하바라 본점이다.",
+  "en": "On the Suehirocho stretch of Chuo-dori, 5F of the six-storey Kobayashi Building whose ground floor is the vintage toy shop Toys GOLDEN☆AGE; the e-earphone flagship is in the next building south."
+ },
+ "tips": {
+  "ko": [
+   "공식 사이트(Shopify)에는 영업시간 안내가 없다. 일본어 카드숍 디렉터리(akibatoreka·torecamap)는 평일 12:00-21:00, 토·일·공휴일 11:00-21:00, 연중무휴로 적고 있으나 공식 확인은 아니다.",
+   "뱅가드·디지몬 카드게임·섀도우버스 EVOLVE·빌디바이드·배틀 스피리츠 중심의 대전 위주 매장으로, 포켓몬·유희왕 싱글을 노린다면 다른 매장이 낫다.",
+   "디렉터리 기준 28석 듀얼 스페이스가 있고 취급 타이틀별 대회가 열린다. 평일은 무료, 토·일·공휴일은 구매 조건이 붙는다고 안내된다.",
+   "문의 03-5289-3125. 온라인 스토어 결제 수단(카드·대금상환·계좌이체 등)은 공표되어 있으나 매장 카드 결제 가능 여부는 공식 안내가 없다."
+  ],
+  "en": [
+   "The official Shopify storefront publishes no hours. Japanese card-shop directories (akibatoreka, torecamap) give 12:00-21:00 on weekdays, 11:00-21:00 on weekends and holidays, no regular closing day, but that is unconfirmed.",
+   "Stock leans to play formats - Vanguard, Digimon Card Game, Shadowverse EVOLVE, Build Divide and Battle Spirits - so go elsewhere for Pokemon or Yu-Gi-Oh singles.",
+   "Directories list a 28-seat duel space and tournaments for the titles it carries, free on weekdays with a purchase condition at weekends and on holidays.",
+   "Phone 03-5289-3125. Payment methods are published for the online store only; in-store card acceptance is not stated."
+  ]
+ },
+ "official_url": "https://shakashakatoreka.myshopify.com/",
+ "sns": {
+  "x": "https://x.com/shakashakatorek"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://shakashakatoreka.myshopify.com/",
+  "https://shakashakatoreka.myshopify.com/policies/legal-notice",
+  "https://shakashakatoreka.myshopify.com/pages/%E3%81%94%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85",
+  "https://akibatoreka.com/introduce/1153",
+  "https://torecamap.co.jp/column/akihabara/"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,123 @@
+{
+ "id": "pricinha-akihabara",
+ "name": {
+  "ko": "푸리시냐",
+  "en": "Pricinha",
+  "ja": "ぷりしーにゃ"
+ },
+ "synonyms": [
+  "푸리시냐 아키하바라",
+  "프리시냐",
+  "고양이귀 폴리스 콘카페",
+  "Pricinha Akihabara",
+  "pricinha",
+  "ぷりしーにゃ",
+  "プリシーニャ",
+  "秋葉原コンカフェ ぷりしーにゃ",
+  "猫耳ポリス"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "cheki",
+  "darts",
+  "cat_ear",
+  "police",
+  "alcohol",
+  "time_charge",
+  "late_night",
+  "small_shop"
+ ],
+ "one_line": {
+  "ko": "고양이귀 폴리스 콘셉트 카페. 40분 음료 무제한 세트와 체키·다트",
+  "en": "Cat-ear police concept cafe: 40-minute all-you-can-drink sets, cheki photos, darts"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702625,
+  "lng": 139.770678
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-8-5 イサミヤ第2ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "sun",
+     "hol"
+    ],
+    "open": "16:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "fri",
+     "sat"
+    ],
+    "open": "16:30",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 01:00(25:00)까지 영업하지만 표에는 24:00으로 끊어 표기했다. 당일 영업·임시 휴업 정보는 공식 X(@pricinha_akiba)에 올라온다.",
+   "en": "Fridays, Saturdays and the eve of a public holiday actually run to 01:00 the next morning (25:00); the table caps them at 24:00. Same-day and temporary changes are posted on X (@pricinha_akiba)."
+  },
+  "source_url": "https://pricinha-akb.com/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 1분, 외신다 3-8-5 이사미야 제2빌딩 2층. 1층이 크레인게임 전문점 '遊技場'인 좁은 건물이며, 3층에는 보드게임 카페 아키하바라 슈카이조가 들어 있다.",
+  "en": "One minute from Suehirocho Station on the Ginza line, on the 2F of the Isamiya No.2 Building at Sotokanda 3-8-5. It is the narrow building whose ground floor is the crane-game shop Yugijo, with the board-game cafe Akihabara Shukaijo on 3F."
+ },
+ "tips": {
+  "ko": [
+   "기본 요금은 40분 음료 무제한 2,200엔(세금 포함)에 서비스료 10% 별도, 캐스트 드링크는 1,100엔부터다.",
+   "다트는 1게임 100엔, 던지기 무제한 1,000엔이며 캐스트와 함께 던지면 캐스트 1명·1게임당 500엔이 더 붙는다.",
+   "카운터석 18석뿐이고 예약을 받지 않는다. 전석 금연이며 흡연은 가게 문 앞 공간에서 한다.",
+   "신용카드와 QR 결제가 되고, 1인 평균 예산은 5,000엔 정도다."
+  ],
+  "en": [
+   "The base set is 40 minutes of all-you-can-drink for 2,200 yen including tax, plus a 10% service charge; cast drinks start at 1,100 yen.",
+   "Darts cost 100 yen a game or 1,000 yen for unlimited throws, with 500 yen more per cast per game if a cast plays with you.",
+   "There are only 18 counter seats and no reservations. The interior is non-smoking; the smoking space is outside the door.",
+   "Credit cards and QR payments are accepted, and the listed average spend is about 5,000 yen a person."
+  ]
+ },
+ "official_url": "https://pricinha-akb.com/",
+ "sns": {
+  "x": "https://x.com/pricinha_akiba",
+  "instagram": "https://www.instagram.com/pricinha_akb/"
+ },
+ "chain": "minette",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://pricinha-akb.com/",
+  "https://pricinha-akb.com/access/",
+  "https://pricinha-akb.com/system/",
+  "https://shop.caferun.jp/shop/7625/"
+ ],
+ "osm_id": "node/9556174931"
+}
