@@ -21,3 +21,6 @@ android/*.apk
 android/*.aab
 android/*.idsig
 android/.gradle/
+android/build/
+android/local.properties
+android/manifest-checksum.txt

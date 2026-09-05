@@ -18,11 +18,38 @@ instead of tens.
 
 ## Building
 
-Needs JDK 17 and the Android SDK. `npm run android:build` at the repo root wraps the steps.
+Needs JDK 17 and the Android SDK. Bubblewrap generates the Gradle project; Gradle then builds it
+and the Android build tools sign it. The split matters because `bubblewrap build` prompts
+interactively and cannot be scripted reliably — piping answers into it once wrote the literal
+string `y` into the app's version name.
 
 ```bash
-npx @bubblewrap/cli build          # from android/, produces app-release-signed.apk and app-release-bundle.aab
+export ANDROID_HOME=~/.otakuroad-android/sdk
+export JAVA_HOME=~/.otakuroad-android/jdk/Contents/Home
+
+# 1. regenerate the Gradle project after editing twa-manifest.json (interactive, answer "y")
+npx @bubblewrap/cli update
+
+# 2. build, from android/
+./gradlew --no-daemon assembleRelease bundleRelease
+
+# 3. align and sign
+BT=$ANDROID_HOME/build-tools/36.1.0
+$BT/zipalign -p -f 4 app/build/outputs/apk/release/app-release-unsigned.apk otakuroad-<version>.apk
+$BT/apksigner sign --ks android.keystore --ks-key-alias otakuroad \
+  --ks-pass "pass:$(cat keystore-password.txt)" --key-pass "pass:$(cat keystore-password.txt)" \
+  otakuroad-<version>.apk
+cp app/build/outputs/bundle/release/app-release.aab otakuroad-<version>.aab
 ```
+
+After `bubblewrap update`, check `app/build.gradle` still carries the `versionCode` and
+`versionName` you meant — that is the file the build actually reads, not `twa-manifest.json`.
+
+## Releasing a new version
+
+Bump `appVersionCode` (must increase) and `appVersionName` in `twa-manifest.json`, regenerate,
+rebuild, sign. Nothing else changes: the app is a window onto the live site, so shipping data or UI
+fixes needs no new APK at all — only a change to the app's own shell does.
 
 ## The signing key
 

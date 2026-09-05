@@ -1,0 +1,63 @@
+{
+  "packageId": "dev.otakuroad.map",
+  "host": "otakuroad.pages.dev",
+  "name": "otakuroad — 아키하바라 서브컬처 매장 지도",
+  "launcherName": "otakuroad",
+  "display": "standalone",
+  "themeColor": "#1F2328",
+  "themeColorDark": "#1F2328",
+  "navigationColor": "#1F2328",
+  "navigationColorDark": "#1F2328",
+  "navigationDividerColor": "#1F2328",
+  "navigationDividerColorDark": "#1F2328",
+  "backgroundColor": "#F4F5F7",
+  "enableNotifications": false,
+  "startUrl": "/ko/",
+  "iconUrl": "https://otakuroad.pages.dev/icon-512.png",
+  "maskableIconUrl": "https://otakuroad.pages.dev/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "otakuroad"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "지금 영업중",
+      "shortName": "영업중",
+      "url": "/ko/?open=1",
+      "chosenIconUrl": "https://otakuroad.pages.dev/icon-192.png"
+    },
+    {
+      "name": "트레카 매장",
+      "shortName": "트레카",
+      "url": "/ko/?c=trading_card",
+      "chosenIconUrl": "https://otakuroad.pages.dev/icon-192.png"
+    },
+    {
+      "name": "English map",
+      "shortName": "English",
+      "url": "/en/",
+      "chosenIconUrl": "https://otakuroad.pages.dev/icon-192.png"
+    }
+  ],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://otakuroad.pages.dev/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://otakuroad.pages.dev/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "displayOverride": [],
+  "appVersion": "y"
+}
