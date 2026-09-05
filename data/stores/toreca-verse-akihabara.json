@@ -24,7 +24,6 @@
   "lorcana",
   "xross_stars",
   "pokemon_card",
-  "one_piece_card",
   "duel_masters",
   "singles",
   "sealed_box",
@@ -55,21 +54,21 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "주오도리에 면한 아키하바라 가챠폰 회관(MN빌딩) 6층. 1층 가챠폰 매장 안쪽 엘리베이터로 올라간다. 도쿄메트로 스에히로초역 바로 앞이고 JR 아키하바라역에서는 도보 6분.",
-  "en": "6F of Akihabara Gachapon Kaikan (the MN Building) on Chuo-dori; take the lift at the back of the ground-floor capsule-toy hall. It is right at Suehirocho station, six minutes' walk from JR Akihabara."
+  "ko": "아키하바라 가챠폰 회관(MN빌딩) 6층. 1층 가챠폰 매장 안쪽 엘리베이터로 올라간다. 가게 안내로는 도쿄메트로 스에히로초역 바로 앞이고 JR 아키하바라역에서는 도보 6분이다.",
+  "en": "6F of Akihabara Gachapon Kaikan (the MN Building); take the lift at the back of the ground-floor capsule-toy hall. The shop's own directions put it right at Suehirocho station and six minutes' walk from JR Akihabara."
  },
  "tips": {
   "ko": [
    "2025년까지 있던 마치다(町田) 빌딩 2층 주소가 지도 앱과 OSM에 아직 남아 있다. 현재 위치는 가챠폰 회관 6층이다.",
-   "명탐정 코난 카드·디즈니 로카나·하이큐 바보카 등 신규 타이틀에 강하고, 신탄 미개봉 박스를 카톤 단위로 들여놓는다.",
+   "명탐정 코난 카드·디즈니 로카나·하이큐 바보카·듀얼마스터즈·크로스타 같은 신규 타이틀에 강하고, 신탄 미개봉 박스를 카톤 단위로 들여놓는다.",
    "공식 영업시간 안내가 웹에 없고 X 고정 게시물로만 공지되므로 방문 전 @toreka_birth 확인이 필요하다.",
-   "PSA 감정품 매입은 전용 창구(공식 LINE)에서만 받는다."
+   "PSA 감정품 매입은 전용 창구에서만 받는다. 공식 사이트는 공식 LINE으로, 공식 X는 전용 계정 @torecabirth_psa로 안내한다."
   ],
   "en": [
    "The old address on 2F of the Machida Building is still on map apps and OSM; the shop is now on 6F of Gachapon Kaikan.",
-   "Strong on newer titles - Detective Conan TCG, Disney Lorcana, Haikyu Babo Card - and it stocks new sets by the carton.",
+   "Strong on newer titles - Detective Conan TCG, Disney Lorcana, Haikyu Babo Card, Duel Masters, XROSS STARS - and it stocks new sets by the carton.",
    "No opening hours are published on the web; they are announced only in the pinned post on X, so check @toreka_birth first.",
-   "PSA-graded buyback is handled through a dedicated channel (the shop's official LINE), not at the counter."
+   "PSA-graded buyback goes through a dedicated channel only: the website points to the shop's official LINE and its X bio to a separate account, @torecabirth_psa."
   ]
  },
  "official_url": "https://www.torecabirth.jp/",
@@ -79,13 +78,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.torecabirth.jp/info",
   "https://www.torecabirth.jp/",
   "https://x.com/toreka_birth",
   "https://x.com/birth_netshop",
-  "https://akihabara-cardmap.com/ja/shop/card-shop-tracaverse/"
+  "https://akihabara-cardmap.com/ja/shop/card-shop-tracaverse/",
+  "https://web.archive.org/web/20250612190344/https://www.torecabirth.jp/info"
  ],
  "osm_id": null
 }

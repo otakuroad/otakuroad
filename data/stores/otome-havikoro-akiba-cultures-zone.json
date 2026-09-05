@@ -23,6 +23,7 @@
  "category": "anime_goods",
  "tags": [
   "otome",
+  "bl",
   "badge",
   "acrylic_stand",
   "rubber_strap",
@@ -61,7 +62,10 @@
     "close": "20:30"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open every day"
+  },
   "note": {
    "ko": "건물 안내판의 11:00~21:00은 층마다 다르며, 3F 매장은 20:30에 닫는다.",
    "en": "The building advertises 11:00-21:00, but that varies by floor: the 3F shops close at 20:30."
@@ -70,7 +74,7 @@
  },
  "tax_free": null,
  "payment": "unknown",
- "secondhand": null,
+ "secondhand": "both",
  "adult_content": {
   "level": "none",
   "floors": []
@@ -84,14 +88,14 @@
  },
  "tips": {
   "ko": [
-   "여성향(오토메) 작품 굿즈 수가 많아 이타바(痛バ) 꾸미기용 뱃지·아크릴·러버 굿즈를 한 곳에서 모으기 좋다.",
-   "굿즈 매입(買取)도 받는다. 같은 3층의 하비코로 카드숍 買賊王(트레카)과는 계산대가 다르다.",
-   "전화 문의는 03-6206-9145이며 같은 층 오레요메점과 번호를 함께 쓴다."
+   "여성향(오토메) 작품 굿즈 수가 많아 이타바(痛バ) 꾸미기용 뱃지·아크릴·러버 굿즈를 한 곳에서 모으기 좋다. 소녀만화·오토메게임·BL 굿즈도 함께 다룬다.",
+   "굿즈 매입(買取)도 받으며 매입과 판매 모두 영업시간 안에만 처리한다. 같은 3층의 하비코로 카드숍 買賊王(트레카)과는 계산대가 다르다.",
+   "전화 문의는 03-6206-9145이며 같은 하비코로 계열의 오레요메점·카와이이점과 번호를 함께 쓴다."
   ],
   "en": [
-   "Heavy on women's-title merchandise, so badges, acrylic stands and rubber goods for decorating an ita-bag can be gathered in one place.",
-   "It also buys goods. The Havikoro card shop Kaizokuoh on the same 3F has its own register for trading cards.",
-   "The phone number 03-6206-9145 is shared with the Oreyome shop on the same floor."
+   "Heavy on women's-title merchandise, so badges, acrylic stands and rubber goods for decorating an ita-bag can be gathered in one place; shojo manga, otome-game and BL goods are stocked as well.",
+   "It also buys goods, and both buying and selling are handled only within opening hours. The Havikoro card shop Kaizokuoh on the same 3F has its own register for trading cards.",
+   "The phone number 03-6206-9145 is shared with the Oreyome and Kawaii shops of the same Havikoro group."
   ]
  },
  "official_url": "https://ec.havikorotoy.com/pages/store",
@@ -101,12 +105,14 @@
  "chain": "havikoro",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.akibacultureszone.com/shop/30",
   "https://www.akibacultureszone.com/shop/",
   "https://ec.havikorotoy.com/pages/store",
-  "https://ec.havikorotoy.com/"
+  "https://ec.havikorotoy.com/",
+  "https://ec.havikorotoy.com/ja/pages/store",
+  "https://ec.havikorotoy.com/ja/pages/company"
  ],
  "osm_id": "node/10137302417"
 }

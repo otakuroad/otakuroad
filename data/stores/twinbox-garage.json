@@ -75,12 +75,12 @@
  "tips": {
   "ko": [
    "지하 1층 TwinBox AKIHABARA보다 작은 방으로, 단독 라이브·발매 이벤트·팬 미팅에 주로 쓰인다.",
-   "드링크대가 별도로 붙으며 2025년 11월 1일부터 요금이 개정됐다. 외부 음료 반입 금지.",
+   "드링크대가 별도로 붙으며 2025년 11월 1일 개정으로 일률 700엔이 됐다. 외부 음료 반입 금지.",
    "1층이라 길에 바로 면해 있다. 개연 전후로 노상에 몰려 서 있지 말라는 안내가 있으니 주의."
   ],
   "en": [
    "Smaller than TwinBox AKIHABARA downstairs, and used mainly for solo lives, release events and fan meetings.",
-   "A drink fee applies on top of the ticket, revised from 1 November 2025; outside drinks are not allowed.",
+   "A drink fee applies on top of the ticket, a flat 700 yen since the revision of 1 November 2025; outside drinks are not allowed.",
    "Being on the ground floor it opens straight onto the street, and the venue asks people not to crowd the pavement before or after shows."
   ]
  },
@@ -89,10 +89,11 @@
  "chain": "twinbox",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://twinbox.info/",
-  "https://www.twinbox.info/about"
+  "https://www.twinbox.info/about",
+  "https://www.twinbox.info/blog/5405e96c281"
  ],
  "osm_id": "node/5230307084",
  "photo": {

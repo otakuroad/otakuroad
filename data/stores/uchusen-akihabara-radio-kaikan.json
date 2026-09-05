@@ -107,13 +107,15 @@
  "chain": "uchusen",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "http://www.uchusen.co.jp/hpgen/HPB/shop/shopguide.html",
   "http://www.uchusen.co.jp/hpgen/HPB/categories/49069.html",
   "http://www.uchusen.co.jp/",
   "https://akihabara-radiokaikan.co.jp/shoplist/uchusen/",
-  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://www.uchusen.co.jp/hpgen/HPB/entries/11.html",
+  "https://akihabara-radiokaikan.co.jp/access/"
  ],
  "osm_id": "node/10136695217"
 }

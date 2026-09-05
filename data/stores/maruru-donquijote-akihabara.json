@@ -97,11 +97,12 @@
  "chain": "maruru",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=10180",
   "https://www.gdm.or.jp/crew/2023/1101/512491",
-  "https://www.gdm.or.jp/crew/2026/0311/626132"
+  "https://www.gdm.or.jp/crew/2026/0311/626132",
+  "https://www.donki.com/store/shop_detail.php?shop_id=98"
  ],
  "osm_id": null
 }

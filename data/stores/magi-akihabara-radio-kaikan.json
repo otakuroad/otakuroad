@@ -33,6 +33,7 @@
   "weiss_schwarz",
   "hololive",
   "gundam_card",
+  "lycee",
   "lorcana"
  ],
  "one_line": {
@@ -87,17 +88,17 @@
  },
  "tips": {
   "ko": [
-   "트레카 전용 중고 거래 앱 magi가 운영하는 실매장으로 2023년 3월 개점. 중고 싱글 판매와 매입만 하며 위탁판매는 받지 않는다.",
-   "구판 포켓몬카드(구 뒷면)·구 디지몬카드·무시킹처럼 다른 매장에서 잘 안 보이는 물건이 강점이다.",
+   "트레카·게임·스니커즈 전용 중고 거래 앱 magi가 운영하는 실매장으로 2023년 3월 개점. 중고 싱글 판매와 매입만 하며 위탁판매는 받지 않는다.",
+   "구판 포켓몬카드(구 뒷면)·구 디지몬카드·무시킹·갓슈벨처럼 다른 매장에서 잘 안 보이는 물건이 강점이다.",
    "판매는 12:00부터, 매입 접수는 18:00까지. 오전에 라디오회관에 도착했다면 다른 층부터 도는 편이 좋다.",
-   "현금 외에 신용카드·은련·PayPay·iD·QUICPay·교통계 IC·라쿠텐Edy·nanaco·WAON 등 결제 수단이 넓다.",
+   "현금 외에 신용카드·은련·PayPay·메르페이·iD·QUICPay·교통계 IC·라쿠텐Edy·nanaco·WAON·PREMO·J-Debit까지 결제 수단이 넓다.",
    "소토칸다 3-14-9의 '카드숍 magi 아키하바라점' 및 그 별관과는 다른 매장이다."
   ],
   "en": [
-   "The bricks-and-mortar shop of the magi trading-card resale app, open since March 2023. It sells and buys used singles but does not take consignment items.",
-   "Its strength is stock other shops rarely carry: old-back Pokemon cards, old Digimon cards, Mushiking and similar vintage sets.",
+   "The bricks-and-mortar shop of magi, the resale app for trading cards, games and sneakers, open since March 2023. It sells and buys used singles but does not take consignment items.",
+   "Its strength is stock other shops rarely carry: old-back Pokemon cards, old Digimon cards, Mushiking and Zatch Bell.",
    "Sales start at 12:00 and the buy desk closes at 18:00, so if you reach Radio Kaikan in the morning, do the other floors first.",
-   "Besides cash it takes credit cards, UnionPay, PayPay, iD, QUICPay, transit IC, Rakuten Edy, nanaco and WAON.",
+   "Besides cash it takes credit cards, UnionPay, PayPay, MerPay, iD, QUICPay, transit IC, Rakuten Edy, nanaco, WAON, PREMO and J-Debit.",
    "It is a different shop from Cardshop magi Akihabara at Sotokanda 3-14-9 and that shop's annex."
   ]
  },
@@ -108,12 +109,13 @@
  "chain": "magi",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://cardshopmagi.com/shop/magi-radio/",
   "https://akihabara-radiokaikan.co.jp/shoplist/magi-%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://akihabara-radiokaikan.co.jp/shop-list/"
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://akihabara-radiokaikan.co.jp/access/"
  ],
  "osm_id": null
 }

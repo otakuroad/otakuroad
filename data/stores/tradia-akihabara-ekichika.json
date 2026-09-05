@@ -25,14 +25,14 @@
   "pokemon_card",
   "duel_masters",
   "one_piece_card",
-  "weiss_schwarz",
   "singles",
   "sealed",
+  "sleeve",
   "buyback"
  ],
  "one_line": {
-  "ko": "역 앞 3층의 실전용 싱글카드 매장. 유희왕·포켓몬·듀얼마스터즈 중심",
-  "en": "Third-floor shop by the station for Yu-Gi-Oh, Pokemon and Duel Masters play singles"
+  "ko": "역 앞 3층의 실전용 싱글카드 매장. 포켓몬·유희왕·원피스·듀얼마스터즈 4개 타이틀",
+  "en": "Third-floor shop by the station for Pokemon, Yu-Gi-Oh, One Piece and Duel Masters play singles"
  },
  "building_id": "akiba1131-building",
  "floors": [
@@ -65,18 +65,15 @@
     "close": "21:00"
    }
   ],
-  "regular_holiday": {
-   "ko": "연중무휴",
-   "en": "Open year-round"
-  },
+  "regular_holiday": null,
   "note": {
-   "ko": "매입 접수는 폐점 15분 전까지. 평일은 13시 개점으로 토·일·공휴일(11시)보다 늦다.",
-   "en": "Buyback reception closes 15 minutes before the shop. Weekdays open at 13:00, later than the 11:00 weekend and holiday opening."
+   "ko": "매입 접수는 폐점 15분 전까지. 평일은 13시 개점으로 토·일·공휴일(11시)보다 늦다. 정기휴일 안내는 없지만 재고 정리 등으로 임시휴업하는 날이 있어 방문 전 점포 X(@toreca_tradia2)를 확인하는 편이 좋다.",
+   "en": "Buyback reception closes 15 minutes before the shop. Weekdays open at 13:00, later than the 11:00 weekend and holiday opening. No regular closing day is published, but the shop shuts occasionally for stocktaking, so check its X account (@toreca_tradia2) first."
   },
   "source_url": "https://www.toreca-tradia.com/shop/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "both",
  "adult_content": {
   "level": "none",
@@ -92,30 +89,33 @@
  "tips": {
   "ko": [
    "2022년 9월 10일 '트레카 전문점 토레디아'에서 '빔스 아키하바라 에키치카점'으로 바뀌었다가 다시 토레디아 이름으로 돌아왔다. 옛 간판·디렉터리 표기(ビームス)로 검색해도 같은 곳이다.",
-   "가챠폰 회관 4층의 토레디아 아키하바라 본점과 같은 회사이며, 두 곳을 함께 돌면 찾는 타이틀의 재고를 만나기 쉽다.",
-   "컬렉션용 고액 카드보다 덱을 굴리는 실전 카드를 한 장 단위로 보충하는 데 맞는 매장이다.",
-   "2026년 9월 현재 이 지점 전용 X 계정(@beems_cardshop4·@tradia_akiba)은 모두 삭제되어 공지는 회사 공식 사이트에서만 확인된다."
+   "가챠폰 회관 4층의 토레디아 아키하바라 본점과 같은 회사이며, 두 곳을 함께 돌면 찾는 타이틀의 재고를 만나기 쉽다. 본점은 평일·토 11~20시, 일·공휴일 11~19시로 시간이 다르다.",
+   "컬렉션용 고액 카드보다 덱을 굴리는 실전 카드를 한 장 단위로 보충하는 데 맞는 매장이다. 공식 취급 타이틀은 포켓몬·유희왕·원피스·듀얼마스터즈 네 가지다.",
+   "지점 전용 X 계정은 @toreca_tradia2(빔스 시절 계정을 그대로 개명한 것)이며 임시휴업·재고 공지가 여기에 올라온다. 본점 계정은 @toreca_tradia."
   ],
   "en": [
    "Renamed from Tradia to Beems Akihabara Ekichika on 10 September 2022 and later back to Tradia; older signs and directory entries saying ビームス point to this same shop.",
-   "It shares an operator with Tradia Akihabara Honten on 4F of the Gachapon Kaikan, so visiting both raises the chance of finding a given title.",
-   "Stock leans towards practical deck cards bought one at a time rather than high-value collector pieces.",
-   "As of September 2026 the branch's own X accounts (@beems_cardshop4, @tradia_akiba) are both gone, so notices appear only on the company website."
+   "It shares an operator with Tradia Akihabara Honten on 4F of the Gachapon Kaikan, so visiting both raises the chance of finding a given title; the main shop keeps different hours, 11:00-20:00 on weekdays and Saturdays and 11:00-19:00 on Sundays and holidays.",
+   "Stock leans towards practical deck cards bought one at a time rather than high-value collector pieces. The four titles listed officially are Pokemon, Yu-Gi-Oh, One Piece and Duel Masters.",
+   "The branch does have its own X account, @toreca_tradia2 (its Beems-era account, simply renamed); temporary closures and stock notices are posted there. The main shop posts as @toreca_tradia."
   ]
  },
  "official_url": "https://www.toreca-tradia.com/shop/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/toreca_tradia2"
+ },
  "chain": "tradia",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.toreca-tradia.com/shop/",
   "https://www.toreca-tradia.com/",
   "https://akihabara-cardmap.com/ja/shop/tradia-akihabara-station-nearby-store/",
   "https://akibatoreka.com/introduce/2267",
   "https://akibatoreka.com/introduce/1107",
-  "https://www.cardshopbeems.jp/shop/"
+  "https://www.cardshopbeems.jp/shop/",
+  "https://www.toreca-tradia.com/products/"
  ],
  "osm_id": "way/80511949"
 }

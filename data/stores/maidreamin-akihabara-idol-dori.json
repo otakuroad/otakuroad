@@ -82,8 +82,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 3분. 주오도리 서쪽 편 공익 소토칸다 제1빌딩(共益外神田第1ビル) 4층으로, 2·3층 스루가야 아키하바라 프라모델관과 5층 마론노카쿠레가가 같은 건물에 있다. 1층 메이드카페 옆 통로의 엘리베이터로 4층에 오른다.",
-  "en": "Two minutes from Ginza-line Suehirocho and three from JR Akihabara, on 4F of the Kyoei Sotokanda No.1 Building on the west side of Chuo-dori — the same building as Surugaya's Plastic Model Store (2F-3F) and Maron no Kakurega (5F). Take the lift in the passage beside the ground-floor maid cafe up to 4F."
+  "ko": "긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 3분. 주오도리변 공익 소토칸다 제1빌딩(共益外神田第1ビル) 4층으로, 1·지하1층 카드숍 신소쿠 아키하바라 3호점, 2·3층 스루가야 아키하바라 프라모델관, 5층 마론노카쿠레가, 8층 마이퍼스트메이드가 같은 건물에 있다. 1층 카드숍 옆 통로의 엘리베이터로 4층에 오른다.",
+  "en": "Two minutes from Ginza-line Suehirocho and three from JR Akihabara, on 4F of the Kyoei Sotokanda No.1 Building along Chuo-dori - the same building as Card Shop Shinsoku Akihabara 3 (1F and B1F), Surugaya's Plastic Model Store (2F-3F), Maron no Kakurega (5F) and MyFirstMaid (8F). Take the lift in the passage beside the ground-floor card shop up to 4F."
  },
  "tips": {
   "ko": [
@@ -109,14 +109,17 @@
  "chain": "maidreamin",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://maidreamin.com/shop/detail.html?id=3",
   "https://maidreamin.com/shop/",
   "https://akiba.or.jp/store/s191",
   "https://maron-no-kakurega.com/?mode=f2",
   "https://www.openstreetmap.org/node/2266530197",
-  "https://www.openstreetmap.org/way/89182756"
+  "https://www.openstreetmap.org/way/89182756",
+  "https://maidreamin.com/information/detail.html?id=15882",
+  "https://api.fxtwitter.com/idol_maidreamin",
+  "https://shinsoku-tcg.com/store-plans/akihabara-unification"
  ],
  "osm_id": "node/2266530197"
 }

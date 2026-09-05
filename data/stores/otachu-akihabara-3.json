@@ -66,10 +66,13 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
   "note": {
-   "ko": "공식 안내는 전일 11:00-20:00. 같은 건물 아래층의 카드킹덤·호비랜드 포치와 영업시간이 다르다.",
-   "en": "The official page lists 11:00-20:00 every day, different from Card Kingdom and Hobby Land Pochi on the lower floors of the same building."
+   "ko": "체인 공식 점포 페이지에 연중무휴 11:00~20:00으로 실려 있다. 같은 건물 아래층의 카드킹덤·호비랜드 포치와 영업시간이 다르다.",
+   "en": "The chain's official store page lists it as open year-round, 11:00-20:00, different from Card Kingdom and Hobby Land Pochi on the lower floors of the same building."
   },
   "source_url": "https://otachu-akiba.com/3go/"
  },
@@ -91,12 +94,12 @@
   "ko": [
    "아키하바라에서 가면라이더만 다루는 매장이라 DX 변신벨트·CSM 같은 완품 중고를 한자리에서 비교할 수 있다.",
    "현금 외에 VISA·Master·JCB·AMEX·Diners·Discover·은련 카드, 교통계 IC(Suica·PASMO)와 iD·Edy·QUICPay·nanaco·WAON, PayPay·Alipay가 모두 된다.",
-   "매입도 받는다. 같은 계열의 4호점(외신다 1-15-9 6층)은 건담·건프라 전문점이라 함께 돌아보기 좋다."
+   "매입도 받는다. 같은 계열의 4호점(외신다 1-15-9 이치고 아키하바라 에키마에 빌딩 7층)은 건담·건프라 전문점이라 함께 돌아보기 좋다."
   ],
   "en": [
    "The only Kamen-Rider-only shop in Akihabara, so complete used DX henshin belts and CSM sets can be compared side by side.",
    "Besides cash it takes VISA, Mastercard, JCB, AMEX, Diners, Discover and UnionPay, transit IC (Suica/PASMO), iD, Edy, QUICPay, nanaco, WAON, PayPay and Alipay.",
-   "It also buys items in. The sibling No.4 store (1-15-9, 6F) is a Gundam and Gunpla specialist and pairs well with a visit here."
+   "It also buys items in. The sibling No.4 store (1-15-9, 7F of the Ichigo Akihabara Ekimae Building) is a Gundam and Gunpla specialist and pairs well with a visit here."
   ]
  },
  "official_url": "https://otachu-akiba.com/3go/",
@@ -106,12 +109,15 @@
  "chain": "otachu",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://otachu-akiba.com/3go/",
   "https://otachu-akiba.com/3go/payment/",
   "https://otachu-akiba3.com/",
-  "https://otachu-akiba.com/4go/"
+  "https://otachu-akiba.com/4go/",
+  "https://otachu.jp/shop/akihabara3/",
+  "https://otachu-akiba.com/3go/access/",
+  "https://otachu-akiba.com/3go/about/"
  ],
  "osm_id": null
 }

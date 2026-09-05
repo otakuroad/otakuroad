@@ -23,6 +23,10 @@
  "tags": [
   "tcg_singles",
   "sealed_pack",
+  "pokemon_card",
+  "one_piece_card",
+  "dragon_ball_card",
+  "yugioh",
   "station_front",
   "new_shop_2026"
  ],
@@ -62,7 +66,7 @@
   },
   "source_url": "https://cardkingdom.jp/stores/akihabara-2/"
  },
- "tax_free": null,
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": null,
  "adult_content": {
@@ -78,14 +82,16 @@
  },
  "tips": {
   "ko": [
-   "매일 13:00 개점으로 오전에는 닫혀 있다. 오전부터 카드를 보려면 도보 2분 거리의 카드킹덤 아키하바라 역앞점(외신다 1-14-7 아키하바라 노무라 빌딩)을 먼저 들르면 된다.",
-   "공식 점포 페이지에는 취급 타이틀·전화번호·정기휴일 안내가 없다. 재고와 임시 휴업은 점포 X(@ck_akihabara2nd)에서 확인.",
+   "매일 13:00 개점으로 오전에는 닫혀 있다. 오전부터 카드를 보려면 도보 2분 거리의 카드킹덤 아키하바라 역앞점(외신다 1-14-7 아키하바라 노무라 빌딩, 1층은 10:00 개점)을 먼저 들르면 된다.",
+   "취급 타이틀은 포켓몬 카드·원피스 카드·드래곤볼 카드·유희왕 네 가지이며, 점포 X 계정에 면세(TAX FREE) 대응이라고 적혀 있다.",
+   "공식 점포 페이지에는 전화번호·정기휴일 안내가 없다. 재고와 임시 휴업은 점포 X(@ck_akihabara2nd)에서 확인.",
    "역앞점과 이름이 비슷하니 지도에서 전파회관(1-14-3)과 노무라 빌딩(1-14-7)을 구분해 찾는다."
   ],
   "en": [
-   "It opens at 13:00 every day, so it is shut all morning; for cards earlier, start at Card Kingdom Akihabara Ekimae two minutes away (Sotokanda 1-14-7, Akihabara Nomura Building).",
-   "The official store page gives no product list, phone number or closing day; stock and temporary closures go on the shop's X account (@ck_akihabara2nd).",
-   "The two branches have near-identical names — check whether your map is pointing at Denpa Kaikan (1-14-3) or the Nomura Building (1-14-7)."
+   "It opens at 13:00 every day, so it is shut all morning; for cards earlier, start at Card Kingdom Akihabara Ekimae two minutes away (Sotokanda 1-14-7, Akihabara Nomura Building), whose 1F opens at 10:00.",
+   "The titles handled are Pokemon, One Piece, Dragon Ball and Yu-Gi-Oh cards, and the shop's own X account states that it is tax-free.",
+   "The official store page gives no phone number or closing day; stock and temporary closures go on the shop's X account (@ck_akihabara2nd).",
+   "The two branches have near-identical names - check whether your map is pointing at Denpa Kaikan (1-14-3) or the Nomura Building (1-14-7)."
   ]
  },
  "official_url": "https://cardkingdom.jp/stores/akihabara-2/",
@@ -95,7 +101,7 @@
  "chain": "card-kingdom",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://cardkingdom.jp/stores/akihabara-2/",
   "https://cardkingdom.jp/",

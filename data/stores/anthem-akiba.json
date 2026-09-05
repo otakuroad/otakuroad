@@ -79,13 +79,13 @@
  },
  "tips": {
   "ko": [
-   "입장 시 전원 드링크대 700엔이 별도로 붙는다.",
+   "입장 시 전원 드링크대 700엔이 별도로 붙는다. 전자머니는 쓸 수 없고, 재입장은 되지만 그때마다 드링크대를 다시 낸다.",
    "입장할 때 사진이 있는 신분증으로 연령 확인을 하며, 도쿄도 조례에 따라 22시 이후에는 18세 미만이 입장할 수 없다.",
    "무대 뒤에 가로 7m×세로 2m LED 월이 있어 DJ·아니클럽 이벤트의 영상 연출이 큰 편이다.",
    "이벤트 대관도 받는 공간이라 날마다 성격이 다르다. 아니송 DJ 이벤트인지 밴드 라이브인지 스케줄에서 먼저 확인."
   ],
   "en": [
-   "Everyone pays a separate 700 yen drink charge on entry.",
+   "Everyone pays a separate 700 yen drink charge on entry; electronic money cannot be used for it, and re-entry is allowed but the charge applies again each time.",
    "Photo ID is checked at the door, and under-18s cannot enter after 22:00 under Tokyo regulations.",
    "A 7 m by 2 m LED wall behind the stage gives DJ and anime-club nights heavy visuals.",
    "The room is also rented out, so the programme changes daily; check the schedule to see whether it is an anisong DJ night or a band show."
@@ -94,16 +94,18 @@
  "official_url": "https://anthemakiba.com/",
  "sns": {
   "x": "https://x.com/anthemakiba",
-  "instagram": "https://www.instagram.com/anthemakiba"
+  "instagram": "https://www.instagram.com/anthemakiba",
+  "tiktok": "https://www.tiktok.com/@anthem_akiba"
  },
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://anthemakiba.com/",
   "https://anthemakiba.com/about",
-  "https://anthemakiba.com/rental"
+  "https://anthemakiba.com/rental",
+  "https://anthemakiba.com/access"
  ],
  "osm_id": null
 }

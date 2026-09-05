@@ -106,13 +106,17 @@
  "chain": "otachu",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://otachu-akiba.com/4go/",
   "https://otachu-akiba.com/4go/access/",
   "https://otachu-akiba.com/4go/item/",
   "https://otachu-akiba.com/4go/akihabara-gundam-specialty-shop-language-english/",
-  "https://otachu-akiba.com/"
+  "https://otachu-akiba.com/",
+  "https://otachu-akiba.com/4go/payment/",
+  "https://otachu-akiba.com/4go/about/",
+  "https://otachu-akiba.com/4go/%ea%b1%b4%eb%8b%b4%ec%a0%84%eb%ac%b8%ec%a0%90korean/",
+  "https://hobby.watch.impress.co.jp/docs/special/2030245.html"
  ],
  "osm_id": "node/14063086301"
 }

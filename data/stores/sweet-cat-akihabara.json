@@ -82,15 +82,15 @@
  "tips": {
   "ko": [
    "평일 17:00, 토·일·공휴일 15:00 개점이라 낮에는 문을 열지 않는다.",
-   "공식 사이트가 밝힌 예산대는 1인 1,000~3,000엔이며, 요금표와 시스템은 이미지로만 게시되어 있다.",
+   "2026년 7월 13일에 문을 연 신규 매장이다.",
    "제복은 프로듀스 브랜드인 의류 브랜드 HONEY MEW(ハニーミュー) 디자인이다.",
-   "결제 수단 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다."
+   "요금표와 결제 수단 안내가 공식 사이트에 이미지 외에는 없으므로 현금을 준비하는 편이 안전하다."
   ],
   "en": [
    "Opens at 17:00 on weekdays and 15:00 at weekends and holidays, so it is shut during the day.",
-   "The official site gives a budget of 1,000-3,000 yen per person; the price list and system are posted only as images.",
+   "The shop opened on 13 July 2026.",
    "The uniforms are designed by HONEY MEW, the clothing brand that produced the cafe.",
-   "No payment methods are stated officially, so bring cash to be safe."
+   "The official site posts prices only as images and names no payment methods, so bring cash to be safe."
   ]
  },
  "official_url": "https://akiba-maidcafe.co.jp/sweetcat/",
@@ -100,11 +100,12 @@
  "chain": "yukimi",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akiba-maidcafe.co.jp/sweetcat/",
   "https://akiba-maidcafe.co.jp/",
-  "https://akiba-maidcafe.co.jp/en/"
+  "https://akiba-maidcafe.co.jp/en/",
+  "https://prtimes.jp/main/html/rd/p/000000004.000138894.html"
  ],
  "osm_id": "way/89182765"
 }

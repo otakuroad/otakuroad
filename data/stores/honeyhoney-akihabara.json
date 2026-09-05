@@ -104,12 +104,13 @@
  "chain": "honeyhoney",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.honey2.jp/",
   "https://www.honey2.jp/shop-profile",
   "https://www.honey2.jp/about",
-  "https://www.honey2.jp/menu"
+  "https://www.honey2.jp/menu",
+  "https://www.honey2.jp/news"
  ],
  "osm_id": "node/1916536728"
 }

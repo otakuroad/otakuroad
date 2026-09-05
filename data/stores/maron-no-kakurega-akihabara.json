@@ -65,10 +65,13 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "정기휴일 없음. 연말연시 등 부정기 휴무는 있다",
+   "en": "No regular closing day; irregular closures such as the year-end and New Year period"
+  },
   "note": {
-   "ko": "공식 사이트는 11:00~20:00만 안내하고 정기휴일은 적어 두지 않았다. 매입 접수는 개점부터 폐점 1시간 전(19:00)까지다. 일부 일본 디렉터리는 수요일 휴무(공휴일이면 변동) 또는 매월 셋째 수요일 휴무로 적고 있어, 방문 전 공식 X(@maron_akiba)를 확인하는 편이 안전하다.",
-   "en": "The official site gives only 11:00-20:00 and lists no regular closing day; buyback is taken from opening until 19:00, an hour before closing. Some Japanese directories list a Wednesday (or third-Wednesday) closure, so check the shop's X account (@maron_akiba) before going."
+   "ko": "공식 사이트는 11:00~20:00만 안내하고 정기휴일은 적어 두지 않았다. 매입 접수는 개점부터 폐점 1시간 전(19:00)까지다. 정기휴일 없음은 가게 공식 X 프로필 표기를 따랐다.",
+   "en": "The official site gives only 11:00-20:00 and lists no closing day; buyback is taken from opening until 19:00, an hour before closing. The 'no regular closing day' comes from the shop's own X profile."
   },
   "source_url": "https://maron-no-kakurega.com/?mode=f2"
  },
@@ -91,13 +94,13 @@
    "아케이드 게임 카드가 주력이다. WCCF·FOOTISTA·FGO 아케이드·함대컬렉션 아케이드·건담 아스널 베이스·영걸대전·아이돌마스터 투어스·삼국지대전·전국대전·LoV 등 다른 곳에서 찾기 어려운 타이틀이 모여 있다.",
    "포켓몬 카드·유희왕·UNION ARENA·드림오더 같은 일반 TCG와 슬리브 등 서플라이도 함께 판다.",
    "매입 접수는 19:00까지로 영업 종료보다 1시간 이르다. 우편 매입도 받는다.",
-   "정기휴일 표기가 자료마다 달라 방문 전 공식 X(@maron_akiba) 확인을 권한다. 결제 수단은 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+   "가게 공식 X는 정기휴일 없음(연말연시 등만 부정기 휴무)이라고 적고 있다. 결제 수단은 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
   ],
   "en": [
    "Arcade game cards are the speciality: WCCF, FOOTISTA, FGO Arcade, KanColle Arcade, Gundam Arsenal Base, Eiketsu Taisen, iDOLM@STER Tours, Sangokushi Taisen, Sengoku Taisen and Lord of Vermilion, which are hard to find elsewhere in the district.",
-   "Regular TCGs — Pokemon, Yu-Gi-Oh, UNION ARENA, Dream Order — and card supplies such as sleeves are stocked too.",
+   "Regular TCGs - Pokemon, Yu-Gi-Oh, UNION ARENA, Dream Order - and card supplies such as sleeves are stocked too.",
    "The buyback counter closes at 19:00, an hour before the shop; postal buyback is also accepted.",
-   "Sources disagree about the weekly closing day, so check the shop's X account (@maron_akiba) first. No payment methods are stated for the shop itself, so bring cash."
+   "The shop's own X account states there is no regular closing day, only irregular closures such as the year-end. No payment methods are stated for the shop itself, so bring cash."
   ]
  },
  "official_url": "https://maron-no-kakurega.com/?mode=f2",
@@ -107,13 +110,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://maron-no-kakurega.com/?mode=f2",
   "https://maron-no-kakurega.com/",
   "https://akibatoreka.com/introduce/1151",
   "https://akihabara-information.com/introduce/1151",
-  "https://www.openstreetmap.org/way/89182756"
+  "https://www.openstreetmap.org/way/89182756",
+  "https://api.fxtwitter.com/maron_akiba"
  ],
  "osm_id": null
 }

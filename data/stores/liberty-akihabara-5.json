@@ -26,23 +26,32 @@
   "blind_bag",
   "pokemon_card",
   "figure",
+  "character_goods",
   "plastic_model",
-  "chogokin",
-  "minicar",
-  "model_train",
   "tax_free",
   "buyback"
  ],
  "one_line": {
-  "ko": "가챠폰·복주머니와 포켓몬 카드 자판기, 중고 피규어·프라모델·미니카를 파는 1층 매장",
-  "en": "Gachapon, blind bags and Pokemon card machines plus used figures and models, on 1F"
+  "ko": "1층은 중고 애니 피규어·굿즈, 2층은 가챠폰·쿠지가챠·포켓몬카드 가챠 전용 층",
+  "en": "Used anime figures and goods on 1F, with a whole 2F floor of gachapon, kuji gacha and Pokemon-card gacha machines"
  },
  "building_id": "liberty-5gokan",
  "floors": [
   "1F",
   "2F"
  ],
- "floor_guide": [],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "중고 애니 피규어·굿즈 판매 층",
+   "en": "Sales floor for used anime figures and character goods"
+  },
+  {
+   "floor": "2F",
+   "ko": "가챠폰·쿠지가챠·포켓몬카드 가챠 전용 층",
+   "en": "Dedicated floor of gachapon, kuji gacha and Pokemon-card gacha machines"
+  }
+ ],
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田4-5-1 リバティー5号館1F・2F",
@@ -84,8 +93,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "주오도리 동쪽 보도, 스루가야 애니메·호비관이 들어 있는 KHK빌딩 바로 남쪽 9층 건물의 1층이다. 긴자선 스에히로초역 1번 출구에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 7분. 보도 쪽에 가챠폰 기계가 늘어서 있어 눈에 잘 띈다.",
-  "en": "Ground floor of the nine-story building immediately south of the KHK Building (Surugaya Anime & Hobby) on the east sidewalk of Chuo-dori. Three minutes from Ginza-line Suehirocho exit 1, seven from JR Akihabara's Electric Town Exit; rows of gachapon machines on the pavement make it easy to spot."
+  "ko": "주오도리 동쪽 보도, 스루가야 애니메·호비관이 들어 있는 KHK빌딩 바로 남쪽 9층 건물의 1층과 2층이다. 가게 안내로는 JR 아키하바라역에서 도보 5분, 긴자선 스에히로초역에서 도보 2분. 보도 쪽에 가챠폰 기계가 늘어서 있어 눈에 잘 띈다.",
+  "en": "Floors 1 and 2 of the nine-story building immediately south of the KHK Building (Surugaya Anime & Hobby) on the east sidewalk of Chuo-dori. The shop's own directions give five minutes from JR Akihabara and two from Ginza-line Suehirocho; rows of gachapon machines on the pavement make it easy to spot."
  },
  "tips": {
   "ko": [
@@ -102,17 +111,22 @@
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/Liberty5_akiba"
+ },
  "chain": "liberty",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.liberty-shop.co.jp/visit/",
   "https://akihabara.kokosil.net/ja/place/00001c0000000000000200000034073a",
   "https://akibatoreka.com/introduce/2077",
   "https://www.openstreetmap.org/way/89182732",
-  "https://www.openstreetmap.org/way/89182761"
+  "https://www.openstreetmap.org/way/89182761",
+  "https://x.com/Liberty5_akiba",
+  "https://www.liberty-shop.co.jp/visit/lp-ja-v2.html",
+  "https://liberty-kaitori.com/shop"
  ],
  "osm_id": "way/89182732"
 }

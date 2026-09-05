@@ -39,7 +39,30 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田3-6-1 丸山ビル1F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:30",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "영업시간은 공식 사이트가 아니라 점포 공식 X 프로필(@shinsoku_akb_KC)에 적힌 11:30~19:30 기준이다. 매입 최종 접수는 19:00에 끝난다. 요일별 구분은 안내돼 있지 않다.",
+   "en": "The 11:30-19:30 hours come from the shop's own X profile (@shinsoku_akb_KC), not the chain website; the last buyback intake is at 19:00 and no separate weekday/weekend times are given."
+  },
+  "source_url": "https://x.com/shinsoku_akb_KC"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": null,
@@ -57,13 +80,13 @@
  "tips": {
   "ko": [
    "매입 전용 점포라 진열·판매 상품이 없다. 카드를 사려면 주오도리 쪽 신소쿠 3호점(共益外神田ビル 1F·B1F)이나 6호점(新末広ビル 1F·2F)으로 간다.",
-   "포켓몬카드·원피스카드·유희왕·드래곤볼·바이스슈바르츠와 PSA 감정품을 대면 매입한다. 개인실(VIP룸)이 있어 고액 거래도 통로에 노출되지 않는다.",
-   "2026년 7월 1일 개점. 공식 사이트에 점포 영업시간이 공개돼 있지 않으므로 공식 X(@shinsoku_akb_KC)에서 확인한다."
+   "공식 X는 매입 대상으로 PSA 감정품과 미개봉 박스를 앞세운다. 포켓몬카드·원피스카드·유희왕·드래곤볼·바이스슈바르츠도 체인 공통 취급 품목이다. 완전 개인실(VIP룸)이 있어 고액 거래도 통로에 노출되지 않는다.",
+   "2026년 7월 1일 개점. 영업시간 11:30~19:30(최종 접수 19:00)은 공식 사이트가 아니라 공식 X(@shinsoku_akb_KC) 프로필 기준이므로 방문 전에 확인한다."
   ],
   "en": [
    "Buyback only - there is nothing on the shelves to buy. For cards, use Shinsoku's 3rd store (Kyoeki Sotokanda Bldg 1F/B1F) or 6th store (Shin-Suehiro Bldg 1F/2F) on Chuo-dori.",
-   "They take Pokemon, One Piece, Yu-Gi-Oh, Dragon Ball and Weiss Schwarz cards plus PSA-graded slabs over the counter, with a private VIP room for larger deals.",
-   "Opened 1 July 2026. No store hours are published on the official site, so check the shop's X account (@shinsoku_akb_KC)."
+   "The shop's X leads with PSA-graded cards and sealed boxes as what it buys; Pokemon, One Piece, Yu-Gi-Oh, Dragon Ball and Weiss Schwarz are chain-wide categories. A fully private VIP room keeps larger deals off the shop floor.",
+   "Opened 1 July 2026. The 11:30-19:30 hours (last intake 19:00) come from the shop's X profile (@shinsoku_akb_KC) rather than the chain site, so check there before you go."
   ]
  },
  "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",
@@ -73,13 +96,14 @@
  "chain": "shinsoku",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://shinsoku-tcg.com/store-plans/akihabara-unification",
   "https://shinsoku-tcg.com/kaitori",
   "https://www.cardshop-shinsoku.jp/info",
   "https://www.cardshop-shinsoku.jp/help",
-  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2120629.html"
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2120629.html",
+  "https://x.com/shinsoku_akb_KC"
  ],
  "osm_id": "node/1916487617"
 }

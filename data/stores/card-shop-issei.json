@@ -67,8 +67,8 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "평일은 19:00에 닫아 주말(20:00)보다 한 시간 이르다. 카드숍 디렉터리에는 평일 14:00-19:00, 부정기 휴무로 올라 있어 공식 안내와 다르므로 늦은 오후 방문이 안전하다.",
-   "en": "Weekdays close at 19:00, an hour earlier than weekends. Card-shop directories list 14:00-19:00 on weekdays and irregular closing days, which disagrees with the official page, so a late-afternoon visit is safest."
+   "ko": "평일은 19:00에 닫아 주말(20:00)보다 한 시간 이르다. 공식 사이트 점포안내는 평일 13:00 개점이라고 하지만 가게 공식 X 프로필에는 평일 14:00 개점으로 적혀 있어 두 안내가 어긋나므로, 평일에는 14시 이후에 가는 편이 안전하다.",
+   "en": "Weekdays close at 19:00, an hour earlier than weekends. The official store page gives a 13:00 weekday opening while the shop's own X profile says 14:00, so on weekdays it is safest to arrive after 14:00."
   },
   "source_url": "https://cardshopisei.com/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85"
  },
@@ -89,15 +89,15 @@
  "tips": {
   "ko": [
    "취급 타이틀은 바이스슈발츠·바이스슈발츠 로제·Z/X·원피스 카드게임·건담 카드게임·뱅가드·유니온아레나 중심으로, 포켓몬·유희왕 전문점과는 결이 다르다.",
-   "24석 듀얼 스페이스는 무료이며 각 타이틀 대회가 열린다.",
+   "듀얼 스페이스는 무료이며 각 타이틀 대회가 열린다. 좌석 수는 공식 사이트가 24석, 공식 X 프로필이 최대 32석으로 서로 다르게 안내한다.",
    "매입은 점두 매입만 받고 온라인 매입은 없다.",
-   "전화 문의는 03-6772-7288."
+   "전화는 03-6772-7288이지만 공식 X는 판매 상황·매입가·판매가를 전화로는 답할 수 없다고 안내한다."
   ],
   "en": [
    "The line-up centres on Weiss Schwarz and Weiss Schwarz Rose, Z/X, One Piece Card Game, Gundam Card Game, Vanguard and Union Arena rather than Pokemon or Yu-Gi-Oh.",
-   "The 24-seat duel space is free and hosts tournaments for those titles.",
+   "The duel space is free and hosts tournaments for those titles; the official page says 24 seats while the shop's X profile advertises up to 32.",
    "Buyback is in-store only; there is no mail-in service.",
-   "Phone: 03-6772-7288."
+   "Phone: 03-6772-7288, though the shop's X account says stock, buyback prices and selling prices cannot be answered by phone."
   ]
  },
  "official_url": "https://cardshopisei.com/",
@@ -107,14 +107,15 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://cardshopisei.com/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85",
   "https://cardshopisei.com/",
   "https://x.com/cardshopisei",
   "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2221",
   "https://akibatoreka.com/introduce/2324",
-  "https://www.openstreetmap.org/way/89182732"
+  "https://www.openstreetmap.org/way/89182732",
+  "https://api.fxtwitter.com/cardshopisei"
  ],
  "osm_id": null
 }

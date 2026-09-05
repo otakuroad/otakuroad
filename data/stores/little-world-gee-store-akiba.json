@@ -78,7 +78,7 @@
   "source_url": "https://www.little-world.net/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -112,7 +112,7 @@
  "chain": "little-world",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.geestore.com/geenet/geestore/akiba",
   "https://www.little-world.net/",

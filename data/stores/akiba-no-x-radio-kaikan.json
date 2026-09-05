@@ -68,8 +68,8 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "건물 개관 시간(10:00~20:00)과 동일. 연말연시에는 단축 영업하는 해가 있어 라디오회관 공지 확인",
-   "en": "Same as the building's 10:00-20:00. Year-end and New Year hours are sometimes shortened; check the Radio Kaikan notices"
+   "ko": "건물 개관 시간(10:00~20:00)과 동일. 매입 접수는 10:00~19:00이고 프라이즈 경품은 18:00까지만 받는다. 연말연시에는 단축 영업하는 해가 있어 라디오회관 공지 확인",
+   "en": "Same as the building's 10:00-20:00. The buyback desk takes items 10:00-19:00, and prize goods only until 18:00. Year-end and New Year hours are sometimes shortened; check the Radio Kaikan notices"
   },
   "source_url": "https://www.x-jpn.co.jp/store/store-51/"
  },
@@ -104,7 +104,7 @@
  "chain": "akiba-x",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.x-jpn.co.jp/store/store-51/",
   "https://www.x-jpn.co.jp/",

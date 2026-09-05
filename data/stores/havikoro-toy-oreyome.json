@@ -62,8 +62,8 @@
   "source_url": "https://www.akibacultureszone.com/shop/1246"
  },
  "tax_free": null,
- "payment": "unknown",
- "secondhand": null,
+ "payment": "cash_only",
+ "secondhand": "both",
  "adult_content": {
   "level": "none",
   "floors": []
@@ -78,11 +78,13 @@
  "tips": {
   "ko": [
    "같은 3층의 오토메 아키하바라점(여성향)과 짝을 이루는 남성향 매장이다.",
-   "입고 소식은 X(@havikorotoy_cz4)에 올라온다."
+   "입고 소식은 X(@havikorotoy_cz4)에 올라온다.",
+   "매입 접수는 11:00~19:30이며 상황에 따라 더 일찍 마감된다. 결제는 현금만 받는다."
   ],
   "en": [
    "It is the men's-market counterpart to the Otome Akihabara shop on the same 3F.",
-   "New arrivals are announced on X (@havikorotoy_cz4)."
+   "New arrivals are announced on X (@havikorotoy_cz4).",
+   "The buyback counter takes items 11:00-19:30 and can close earlier on busy days; the shop is cash-only."
   ]
  },
  "official_url": "https://www.akibacultureszone.com/shop/1246",
@@ -92,11 +94,14 @@
  "chain": "havikoro",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.akibacultureszone.com/shop/1246",
   "https://www.akibacultureszone.com/shop/",
-  "https://ec.havikorotoy.com/"
+  "https://ec.havikorotoy.com/",
+  "https://ec.havikorotoy.com/pages/store",
+  "https://yuso-kaitori.havikorotoy.com/store-information",
+  "https://api.fxtwitter.com/havikorotoy_cz4"
  ],
  "osm_id": null
 }

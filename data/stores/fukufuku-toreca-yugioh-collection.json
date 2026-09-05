@@ -63,8 +63,8 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "공식 점포 페이지에 정기휴일 표기가 없다. 매입 접수는 20:00 마감으로 안내된다.",
-   "en": "The official store page lists no regular closing day. Buyback reception is listed as closing at 20:00."
+   "ko": "공식 점포 페이지와 체인 점포 목록에 정기휴일 표기가 없다.",
+   "en": "Neither the official store page nor the chain's store list gives a regular closing day."
   },
   "source_url": "https://fukufukutoreka.com/description_detail_yugioh_collection"
  },
@@ -85,13 +85,15 @@
  "tips": {
   "ko": [
    "취급 상품이 유희왕 컬렉션 카드와 슬리브·서플라이 중심이라 플레이용 싱글은 종류가 적다.",
-   "매입 접수는 20:00에 끝나므로 폐점 시각(21:00)에 맞춰 가면 매입이 안 된다.",
-   "전화 문의는 03-6206-0085."
+   "평일은 13:00, 토·일·공휴일은 10:00에 문을 열어 여는 시각이 다르다. 닫는 시각은 21:00으로 같다.",
+   "공식 사이트에는 전화번호가 없다. 문의는 후쿠후쿠 트레카 포털의 문의 폼으로 받는다.",
+   "같은 신린빌딩 1층에도 같은 체인의 컬렉션 카드 전문점이 있어 유희왕과 포켓몬 카드를 함께 볼 수 있다."
   ],
   "en": [
    "Stock is Yu-Gi-Oh! collector cards plus sleeves and supplies, so playable singles are limited.",
-   "Buyback reception ends at 20:00, an hour before the 21:00 closing time.",
-   "Phone enquiries: 03-6206-0085."
+   "Opening time differs by day - 13:00 on weekdays, 10:00 at weekends and on public holidays - while closing is 21:00 throughout.",
+   "No phone number is published on the official site; enquiries go through the contact form on the Fukufuku Toreka portal.",
+   "The same chain's Collection Card store on 1F of the same Kambayashi Building stocks Yu-Gi-Oh! and Pokemon cards."
   ]
  },
  "official_url": "https://fukufukutoreka.com/description_detail_yugioh_collection",
@@ -101,12 +103,14 @@
  "chain": "fukufuku-toreca",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://fukufukutoreka.com/description_detail_yugioh_collection",
   "https://fukufukutoreka.com/",
   "https://www.fukufuku-toreka.com/",
-  "https://akibatoreka.com/introduce/1099"
+  "https://akibatoreka.com/introduce/1099",
+  "https://fukufuku-toreka.com/shop/",
+  "https://fukufukutoreka.com/contact"
  ],
  "osm_id": null
 }

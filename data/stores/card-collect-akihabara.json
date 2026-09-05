@@ -39,7 +39,30 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）B1F トレカモーール秋葉原1号店内",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "영업시간은 매장 공식 X 계정(@cardcollect_CK) 프로필과 게시글 기준. 체인 공식 사이트 점포 페이지에는 시간 표기가 없고, 요일별 차이도 안내되지 않는다.",
+   "en": "Hours as stated on the shop's own X account (@cardcollect_CK), in its profile and its daily posts; the chain's store page gives no hours, and no day-by-day variation is announced."
+  },
+  "source_url": "https://x.com/cardcollect_CK"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -57,29 +80,32 @@
  "tips": {
   "ko": [
    "PSA 감정품·구판(구라) 카드·미개봉 박스 매입에 강한 점포로, 현장 현금 지급과 우편 매입을 함께 운영한다.",
-   "공식 점포 안내에 영업시간이 적혀 있지 않다. 일본 디렉터리는 12:00-19:30으로 적지만 방문 전 X(@cardcollect_) 확인을 권한다.",
-   "외신다 4-5-5 三滝館에 있던 '카드코레크트 아키하바라 본점'과는 다른 점포다."
+   "영업시간은 12:00-19:30. 체인 공식 점포 안내에는 시간이 없고 매장 X 계정(@cardcollect_CK) 프로필과 매일 올라오는 영업 안내에만 적혀 있으니 방문 전 확인하는 편이 좋다.",
+   "이 매장의 X 계정은 @cardcollect_CK로 바뀌었다. @cardcollect_는 외신다 4-5-5 아키바 미타키칸 1층에 2026년 9월 하순 프리오픈 예정인 '본점' 계정이므로 헷갈리지 말 것.",
+   "같은 체인의 2호점(HANARE, @cardcollect_HNR)은 아키하바라역에서 도보 6분 거리의 별개 점포로 12:00-20:00 영업한다."
   ],
   "en": [
    "Strong on PSA-graded cards, old-back vintage Pokemon cards and sealed boxes, with on-the-spot cash payment plus a mail-in buyback service.",
-   "The official store page gives no hours; Japanese directories say 12:00-19:30, but check X (@cardcollect_) before going.",
-   "This is not the former Card Collect Akihabara main store at Sotokanda 4-5-5 Mitakikan."
+   "Open 12:00-19:30. The chain's store page gives no hours at all - the times appear only on the shop's X account (@cardcollect_CK), in its profile and its daily opening posts, so check there before going.",
+   "The shop's X account is now @cardcollect_CK. Do not confuse it with @cardcollect_, which is the separate main store at Sotokanda 4-5-5 Akiba Mitakikan 1F, due to pre-open in late September 2026.",
+   "The chain's second Akihabara shop (HANARE, @cardcollect_HNR) is a different place about six minutes' walk from the station, open 12:00-20:00."
   ]
  },
  "official_url": "https://cardcollect.jp/",
  "sns": {
-  "x": "https://x.com/cardcollect_"
+  "x": "https://x.com/cardcollect_CK"
  },
  "chain": "card-collect",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://cardcollect.jp/pages/map",
   "https://www.cardcollect.jp/",
   "https://akihabara-cardmap.com/ja/shop/card-collect/",
   "https://torecamap.co.jp/column/akihabara/",
-  "https://prtimes.jp/main/html/rd/p/000000002.000152399.html"
+  "https://prtimes.jp/main/html/rd/p/000000002.000152399.html",
+  "https://x.com/cardcollect_CK"
  ],
  "osm_id": null
 }

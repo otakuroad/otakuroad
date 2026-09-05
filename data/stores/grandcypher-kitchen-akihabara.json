@@ -68,7 +68,7 @@
   "source_url": "https://www.pasela.co.jp/paselabo_shop/grandcypher-kitchen/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -94,11 +94,13 @@
   ]
  },
  "official_url": "https://www.pasela.co.jp/paselabo_shop/grandcypher-kitchen/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/GBFG_Kitchen"
+ },
  "chain": "pasela",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.pasela.co.jp/paselabo_shop/grandcypher-kitchen/",
   "https://www.pasela.co.jp/shop/akiba_multi/",

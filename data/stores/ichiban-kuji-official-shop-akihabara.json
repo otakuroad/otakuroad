@@ -97,12 +97,13 @@
  "chain": "ichiban-kuji",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/akihabara/",
   "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/",
   "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/",
-  "https://1kuji.com/"
+  "https://1kuji.com/",
+  "https://bandainamco-am.co.jp/game_center/loc/akihabara/"
  ],
  "osm_id": "node/12131327476"
 }

@@ -63,12 +63,12 @@
    }
   ],
   "regular_holiday": {
-   "ko": "연중무휴",
-   "en": "Open year-round"
+   "ko": "정기 휴일은 없지만 1월 1일은 쉰다",
+   "en": "No regular closing day, but the shop is shut on 1 January"
   },
   "note": {
-   "ko": "공식 페이지는 '平日 / 日祝'만 구분하므로 토요일 20:00 마감은 Akihabara Shopping Info 기준. 임시 변경은 공식 사이트 첫 화면과 X(@PORDAKIHABARA)에 날짜별로 공지된다.",
-   "en": "The official page splits its hours into weekdays and Sundays/holidays only, so the Saturday 20:00 close comes from Akihabara Shopping Info. Day-by-day changes are posted on the shop's front page and X (@PORDAKIHABARA)."
+   "ko": "공식 페이지는 '平日 / 日祝日'만 구분한다. 토요일 20:00 마감은 공식 연말연시 공지의 '3일(토) 11:00~20:00' 안내로 확인된다. 임시 변경은 공식 사이트 첫 화면과 X(@PORDAKIHABARA)에 날짜별로 공지된다.",
+   "en": "The official page splits its hours into weekdays and Sundays/holidays only; the Saturday 20:00 close is confirmed by the shop's own New Year notice, which lists the 3rd (Sat) at 11:00-20:00. Day-by-day changes are posted on the shop's front page and X (@PORDAKIHABARA)."
   },
   "source_url": "https://www.pord.co.jp/shop.php"
  },
@@ -83,8 +83,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목 왼편 MN빌딩 1층. 같은 층 가챠폰 회관의 캡슐 기계 줄이 골목에서 바로 보이는 표식이다.",
-  "en": "MN Building 1F, on the left about 20 m into the first narrow lane south of Ginza-line Suehirocho Station exit 3 off Chuo-dori. The row of Gachapon Kaikan capsule machines on the same floor is visible from the lane."
+  "ko": "아키하바라 가챠폰 회관(MN빌딩) 1층 안쪽에 있다. 가챠폰 회관 안내로는 긴자선 스에히로초역에서 도보 2분, JR 아키하바라역 전기가 출구에서 도보 7분. 1층 캡슐토이 기계 사이를 지나 안쪽으로 들어가면 쇼케이스가 늘어서 있다.",
+  "en": "At the back of the ground floor of Akihabara Gachapon Kaikan (the MN Building). The Kaikan's own directions give two minutes from Ginza-line Suehirocho and seven from JR Akihabara's Electric Town Exit; walk in past the capsule-toy machines on 1F and the showcases are at the rear."
  },
  "tips": {
   "ko": [
@@ -107,12 +107,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.pord.co.jp/",
   "https://www.pord.co.jp/shop.php",
   "https://akihabara-information.com/introduce/2863",
-  "https://www.akibagacha.com/"
+  "https://www.akibagacha.com/",
+  "https://x.com/PORDAKIHABARA"
  ],
  "osm_id": "node/11825056123"
 }

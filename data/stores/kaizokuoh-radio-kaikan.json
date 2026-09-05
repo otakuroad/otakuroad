@@ -20,18 +20,17 @@
  "category": "trading_card",
  "tags": [
   "singles",
-  "sealed",
+  "arcade_card",
+  "aikatsu",
+  "kids_card_game",
+  "character_goods",
   "sleeve",
   "playmat",
-  "buyback",
-  "yugioh",
-  "one_piece_card",
-  "weiss_schwarz",
-  "vanguard"
+  "buyback"
  ],
  "one_line": {
-  "ko": "트레카 싱글·팩과 캐릭터 슬리브·플레이매트를 갖춘 카드 매장, 매일 매입",
-  "en": "TCG singles and packs with a wide range of character sleeves and playmats; daily buyback"
+  "ko": "아이카츠·프리티 시리즈·아이프리 등 여아용 카드가 주력인 카드 매장, 매일 매입",
+  "en": "Card shop specialising in girls' arcade-card titles such as Aikatsu, Pretty Series and Aipri; daily buyback"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -58,10 +57,13 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "연중무휴(빌딩 휴관일 제외)",
+   "en": "Open year-round except building closure days"
+  },
   "note": {
-   "ko": "라디오회관 건물은 10:00 개관이지만 이 매장은 11:00 오픈. 임시 영업시간 변경은 라디오회관 공지에 '2F カードショップ買賊王 ラジオ会館店'로 게시된다.",
-   "en": "The building opens at 10:00 but this shop opens at 11:00. Temporary hour changes are posted on the Radio Kaikan site as '2F カードショップ買賊王 ラジオ会館店' notices."
+   "ko": "판매는 11:00~20:00으로 건물 개관(10:00)보다 1시간 늦고, 매입 접수는 12:00~19:00이다. 상황에 따라 매입이 조기 종료되며 공지는 X(@kaizoku_card3)에 올라온다.",
+   "en": "Sales run 11:00-20:00, an hour later than the building's 10:00 opening, and the buyback desk takes items 12:00-19:00. Buyback can end early, with notices posted on X (@kaizoku_card3)."
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%ab%e3%83%bc%e3%83%89%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e8%b2%b7%e8%b3%8a%e7%8e%8b%e3%80%80%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
  },
@@ -81,29 +83,36 @@
  },
  "tips": {
   "ko": [
-   "카드 자체보다 캐릭터 슬리브·동인 슬리브·플레이매트 재고가 넓은 편이라 서플라이를 찾을 때 들를 만하다.",
-   "취급 메이커는 코나미·반다이·부시로드 계열이며 매입은 상시 진행한다.",
-   "야후 쇼핑 온라인 점포는 현재 닫혀 있어 재고를 미리 확인할 수 없다.",
-   "AKIBA 컬처즈존 3층에도 같은 이름의 카이조쿠오 카운터가 있으니 혼동하지 않도록 한다."
+   "취급 타이틀이 아이카츠 시리즈·프리티 시리즈·아이프리·프리큐어 같은 여아용 카드에 몰려 있다. 유희왕·포켓몬·원피스 카드는 같은 회사의 AKIBA 컬처즈존점(3F) 담당이다.",
+   "매입 접수는 12:00~19:00이고 상황에 따라 조기 종료되므로 X(@kaizoku_card3) 공지를 먼저 확인하는 편이 좋다.",
+   "라디오회관 안내에는 취급 메이커가 코나미·반다이·부시로드로 적혀 있고, 트레카 각종과 카드 서플라이(슬리브·플레이매트)도 함께 판다.",
+   "라디오회관 안내에 사이트로 걸린 야후 쇼핑 점포(asimani)는 지금 404라 재고를 미리 확인할 수 없다.",
+   "AKIBA 컬처즈존 3층에도 같은 이름의 카이조쿠오 매장이 있으니 혼동하지 않도록 한다. 공식 안내도 두 점포의 취급 타이틀이 다르다고 못박는다."
   ],
   "en": [
-   "Its range of character sleeves, doujin sleeves and playmats is wider than the card stock itself, so it is worth a stop for supplies.",
-   "Titles come mainly from Konami, Bandai and Bushiroad, and the buyback counter runs every day.",
-   "Its Yahoo Shopping storefront is offline, so you cannot check stock in advance.",
-   "A Kaizokuoh counter with the same name also operates on 3F of AKIBA Cultures Zone; do not confuse the two."
+   "The titles are almost all girls' arcade-card series - Aikatsu, Pretty Series, Onegai/Himitsu no Aipri and Precure. Yu-Gi-Oh!, Pokemon and One Piece cards are handled by the company's AKIBA Cultures Zone branch on 3F.",
+   "The buyback desk runs 12:00-19:00 and can close early, so check the shop's X account (@kaizoku_card3) before bringing cards in.",
+   "Radio Kaikan lists its makers as Konami, Bandai and Bushiroad, and it also sells assorted cards and card supplies such as sleeves and playmats.",
+   "The Yahoo Shopping storefront linked from the Radio Kaikan page (asimani) now returns 404, so you cannot check stock in advance.",
+   "A Kaizokuoh shop with the same name also operates on 3F of AKIBA Cultures Zone; the official site stresses that the two branches carry different titles."
   ]
  },
- "official_url": null,
- "sns": {},
+ "official_url": "https://www.kaizokuo.online/",
+ "sns": {
+  "x": "https://x.com/kaizoku_card3"
+ },
  "chain": "kaizokuoh",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%ab%e3%83%bc%e3%83%89%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e8%b2%b7%e8%b3%8a%e7%8e%8b%e3%80%80%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
   "https://akihabara-radiokaikan.co.jp/shop-list/",
-  "https://yuso-kaitori.havikorotoy.com/store-information"
+  "https://yuso-kaitori.havikorotoy.com/store-information",
+  "https://www.kaizokuo.online/store.html",
+  "https://www.kaizokuo.online/",
+  "https://akihabara-radiokaikan.co.jp/access/"
  ],
  "osm_id": null
 }

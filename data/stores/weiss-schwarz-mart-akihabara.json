@@ -63,8 +63,8 @@
    "en": "Closed Tuesdays and Wednesdays"
   },
   "note": {
-   "ko": "공식 안내는 12:00-20:00, 화·수 정기휴무 한 줄뿐이며 공휴일용 별도 시간은 명시되어 있지 않다. 같은 건물 1F·3~5F 카드킹덤(10:00~21:00, 연중무휴)과 시간이 크게 다르므로 화·수에 오면 이 층만 닫혀 있다.",
-   "en": "The official page states only 12:00-20:00 with Tuesday and Wednesday closed, and gives no separate public-holiday hours. Card Kingdom on 1F and 3F-5F of the same building runs 10:00-21:00 daily, so on a Tuesday or Wednesday this floor alone is shut."
+   "ko": "공식 안내는 12:00-20:00, 화·수 정기휴무 한 줄뿐이며 공휴일용 별도 시간은 명시되어 있지 않다. 같은 건물 카드킹덤은 정기휴일이 없고 1F만 10:00에 열며 3~5F는 평일 12:00, 토·일·공휴일 10:00 개점이라 시간대가 다르다. 화·수에 오면 2층만 닫혀 있다.",
+   "en": "The official page states only 12:00-20:00 with Tuesday and Wednesday closed, and gives no separate public-holiday hours. Card Kingdom in the same building has no closing day but opens 1F at 10:00 and 3F-5F at 12:00 on weekdays (all floors from 10:00 at weekends and on holidays), so on a Tuesday or Wednesday this floor alone is shut."
   },
   "source_url": "https://bushiroad.com/wsmart/"
  },
@@ -103,12 +103,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://bushiroad.com/wsmart/",
   "https://cardkingdom.jp/akihabaraekimae/",
   "https://ws-tcg.com/",
-  "https://www.openstreetmap.org/node/11197684822"
+  "https://www.openstreetmap.org/node/11197684822",
+  "https://cardkingdom.jp/stores/akihabara-ekimae/"
  ],
  "osm_id": "node/11197684822"
 }

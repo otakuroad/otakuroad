@@ -120,12 +120,14 @@
  "chain": "toygroup",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://crown-tiara.com/",
   "https://crown-tiara.com/access",
   "https://crown-tiara.com/system",
-  "https://crown-tiara.com/notes"
+  "https://crown-tiara.com/notes",
+  "https://crown-tiara.com/menu",
+  "https://crown-tiara.com/news"
  ],
  "osm_id": "node/4937999262"
 }

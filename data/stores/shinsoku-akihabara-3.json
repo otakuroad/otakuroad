@@ -44,8 +44,31 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル B1F・1F",
- "hours": null,
- "tax_free": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:30",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "체인 공식 점포 안내(혼잡 상황 페이지) 기준 매일 11:30~19:30이고 매입 접수는 11:30~19:00까지다. 공식 X 프로필에는 아직 11:00~20:30으로 적혀 있으나 매일 올라오는 개점 안내와 점포 안내 모두 11:30~19:30이다.",
+   "en": "11:30-19:30 every day on the chain's own store list, with buyback reception until 19:00. The shop's X profile still says 11:00-20:30, but the store list and its daily opening posts both give 11:30-19:30."
+  },
+  "source_url": "https://shinsoku-tcg.com/stores/congestion"
+ },
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": "both",
  "adult_content": {
@@ -62,14 +85,18 @@
  "tips": {
   "ko": [
    "2026년 5월 2일 선행 오픈(판매만), 5월 20일 정식 개점한 체인의 기함점. 노면 1층이라 계단·엘리베이터 없이 바로 들어갈 수 있다.",
-   "매입 상담용 개인실(VIP룸)이 있어 고액 카드 거래도 통로에서 하지 않는다.",
-   "공식 사이트에 영업시간이 없고 일본 트레카 디렉터리에는 13:00-19:00으로 올라와 있다. 방문 전 공식 X(@shinsoku_akb3rd) 확인 권장.",
+   "1층이 판매 플로어, 지하 1층이 매입 플로어다. 매입 상담용 개인실(VIP룸)이 있어 고액 카드 거래도 통로에서 하지 않는다.",
+   "공식 점포 안내 기준 영업시간은 11:30~19:30, 매입 접수는 11:30~19:00이다. 공식 X 프로필의 11:00~20:30 표기는 오래된 값이니 방문 전 @shinsoku_akb3rd의 당일 개점 안내를 확인하는 편이 좋다.",
+   "매입 대상은 포켓몬카드·원피스카드·유희왕·드래곤볼·바이스슈발츠의 싱글, BOX, 미개봉품, PSA 감정품이다.",
+   "면세 판매를 내걸고 있어 여권을 챙기면 소비세를 면제받을 수 있다.",
    "같은 주오도리 블록에 리버티 4·5호점, 스루가야 애니메호비관 등 카드·굿즈 매장이 몰려 있어 함께 돌기 좋다."
   ],
   "en": [
    "The chain's flagship: a sales-only pre-opening on 2 May 2026, full opening on 20 May. Being street level, you walk straight in with no stairs or lift.",
-   "There is a private VIP room for buyback appraisals, so high-value deals are not done in an open aisle.",
-   "The official site lists no hours; Japanese card directories show 13:00-19:00, so check the shop's X account (@shinsoku_akb3rd) first.",
+   "1F is the sales floor and B1F the buyback floor; there is a private VIP room for appraisals, so high-value deals are not done in an open aisle.",
+   "The official store list gives 11:30-19:30, with buyback reception until 19:00. The 11:00-20:30 in the shop's X profile is stale, so check @shinsoku_akb3rd's daily opening post before going.",
+   "Buyback covers Pokemon, One Piece, Yu-Gi-Oh, Dragon Ball and Weiss Schwarz - singles, boxes, sealed items and PSA-graded cards.",
+   "It advertises tax-free sales, so bring a passport to have the consumption tax taken off.",
    "Liberty's 4th and 5th stores and Surugaya's anime and hobby building are on the same Chuo-dori block, so they combine well in one walk."
   ]
  },
@@ -80,12 +107,15 @@
  "chain": "shinsoku",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://shinsoku-tcg.com/store-plans/akihabara-unification",
   "https://shinsoku-tcg.com/kaitori",
   "https://www.cardshop-shinsoku.jp/info",
-  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2649"
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2649",
+  "https://shinsoku-tcg.com/stores/congestion",
+  "https://api.fxtwitter.com/shinsoku_akb3rd",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2089533356707119512&token=a"
  ],
  "osm_id": null
 }

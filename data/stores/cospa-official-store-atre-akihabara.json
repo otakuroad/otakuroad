@@ -10,13 +10,20 @@
   "코스파 공식 스토어",
   "코스파 아키하바라",
   "코스파 아트레",
+  "코스파 트래블링 데포",
+  "코스파 트래블링 데포 아트레 아키하바라",
   "COSPA Official Store",
   "Cospa Akihabara",
   "cospa atre",
+  "COSPA Traveling Depot",
+  "Cospa Traveling Depot in Atre Akihabara",
   "コスパ オフィシャルストア",
   "コスパ アトレ秋葉原店",
   "COSPA",
-  "コスパティオ"
+  "コスパティオ",
+  "コスパ・トラベリング・デポ in アトレ秋葉原",
+  "コスパ・トラベリング・デポ",
+  "トラベリングデポ"
  ],
  "category": "cosplay",
  "tags": [
@@ -63,8 +70,8 @@
    "en": "Closes when Atre Akihabara 1 closes"
   },
   "note": {
-   "ko": "아트레 공식 점포 페이지 기준 10:00-21:00으로 건물 영업시간과 같다. 코스파 공식 점포 목록에는 영업시간이 실려 있지 않다.",
-   "en": "10:00-21:00 on Atre's shop page, the same as the building. COSPA's own shop list does not publish hours for this location."
+   "ko": "아트레 공식 점포 페이지와 코스파 공식 점포 페이지 모두 10:00-21:00으로 건물 영업시간과 같다. 코스파 쪽에 아트레 아키하바라 영업시간에 준한다고 적혀 있어 건물이 임시 휴관하면 함께 쉰다.",
+   "en": "Both Atre's shop page and COSPA's own store page give 10:00-21:00, the same as the building. COSPA's page states the hours follow Atre Akihabara's, so the shop also closes on the building's closure days."
   },
   "source_url": "https://www.atre.co.jp/akihabara/shop/9311/"
  },
@@ -96,17 +103,21 @@
    "Tax-free and card acceptance are not stated officially, so ask at the counter."
   ]
  },
- "official_url": "https://www.cospa.com/special/shoplist/",
+ "official_url": "https://www.cospa.com/special/shoplist/list/atre.html",
  "sns": {},
  "chain": "cospa",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.cospa.com/special/shoplist/",
   "https://www.atre.co.jp/akihabara/shop/9311/",
   "https://www.atre.co.jp/akihabara/floorguide/27/114/",
-  "https://www.cospa.com/cospa/"
+  "https://www.cospa.com/cospa/",
+  "https://www.cospa.com/special/shoplist/list/atre.html",
+  "https://www.cospa.com/event/id/27602",
+  "https://www.atre.co.jp/akihabara/access/",
+  "https://www.atre.co.jp/akihabara/news/7463"
  ],
  "osm_id": null
 }

@@ -92,7 +92,7 @@
   },
   "source_url": "https://cardkingdom.jp/stores/akihabara-ekimae/"
  },
- "tax_free": null,
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": "both",
  "adult_content": {
@@ -137,7 +137,8 @@
   "https://akibatoreka.com/introduce/1114",
   "https://akihabara-information.com/introduce/1115",
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2241",
-  "https://akihabara.kokosil.net/ja/place/00001c00000000000002000000340704"
+  "https://akihabara.kokosil.net/ja/place/00001c00000000000002000000340704",
+  "https://x.com/ck_akihabara"
  ],
  "osm_id": "node/2276977429",
  "photo": {

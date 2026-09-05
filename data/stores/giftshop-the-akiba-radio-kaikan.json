@@ -94,11 +94,12 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.nodacorp.jp/shoplist/the_akiba/",
   "https://akihabara-radiokaikan.co.jp/shoplist/the-akiba/",
-  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/access/"
  ],
  "osm_id": null,
  "photo": {

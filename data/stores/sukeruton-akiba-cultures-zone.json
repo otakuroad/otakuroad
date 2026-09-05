@@ -70,8 +70,8 @@
   "source_url": "https://www.akibacultureszone.com/shop/35"
  },
  "tax_free": null,
- "payment": "unknown",
- "secondhand": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
  "adult_content": {
   "level": "none",
   "floors": []
@@ -87,26 +87,31 @@
   "ko": [
    "AKIBA 컬처즈존에서 유일한 철도모형·스케일모델 전문점으로, 같은 층의 캐릭터 굿즈 매장들과는 취급 품목이 전혀 다르다.",
    "N게이지가 주력이고 HO게이지와 B트레인 쇼티도 취급한다. 스케일모델은 전투기·전차·함선 키트와 미니카 트레이딩 피규어 중심.",
-   "3F 전체가 20:30에 닫히므로 5F 앳홈카페(22:00)와 같은 시간대로 생각하면 안 된다."
+   "3F 전체가 20:30에 닫히므로 5F 앳홈카페(22:00)와 같은 시간대로 생각하면 안 된다.",
+   "매입에 힘을 쏟는 가게로 점두 매입 접수는 11:00~19:45이며, 매입표는 공식 블로그(scaleton.livedoor.blog)에 품번별로 올라온다."
   ],
   "en": [
    "The only railway- and scale-model specialist in AKIBA Cultures Zone; the neighbouring counters on the same floor sell character goods instead.",
    "N gauge is the main line, with HO gauge and B-Train Shorty as well; scale models run to aircraft, tank and warship kits plus minicar trading figures.",
-   "All of 3F shuts at 20:30, unlike @home cafe on 5F which runs to 22:00."
+   "All of 3F shuts at 20:30, unlike @home cafe on 5F which runs to 22:00.",
+   "It is a serious buyback shop: the in-store buying counter takes items 11:00-19:45 and the price list is posted by part number on the official blog (scaleton.livedoor.blog)."
   ]
  },
- "official_url": "https://www.akibacultureszone.com/shop/35",
+ "official_url": "https://scaleton.havikorotoy.com/",
  "sns": {
   "x": "https://x.com/scaletonakiba"
  },
- "chain": null,
+ "chain": "havikoro",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.akibacultureszone.com/shop/35",
   "https://www.akibacultureszone.com/shop/",
-  "https://ec.havikorotoy.com/pages/store"
+  "https://ec.havikorotoy.com/pages/store",
+  "https://scaleton.havikorotoy.com/",
+  "https://scaleton.havikorotoy.com/faq.html",
+  "https://scaleton.livedoor.blog/"
  ],
  "osm_id": "node/8762203405"
 }

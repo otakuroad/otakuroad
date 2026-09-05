@@ -86,13 +86,13 @@
  "tips": {
   "ko": [
    "3층 1호점과 서로 다른 작품을 동시에 전개한다. 이름이 같으니 2F인지 3F인지로 구분한다.",
-   "전개 작품이 수 주 단위로 바뀌므로 특정 작품 굿즈가 목적이라면 아트레 공식 점포 페이지에서 현재 작품을 먼저 확인한다.",
+   "전개 기간이 작품마다 크게 달라 몇 주짜리도 있고 반년을 넘기는 것도 있다. 특정 작품 굿즈가 목적이라면 반다이남코 크로스 스토어 개최 정보나 아트레 공식 점포 페이지에서 현재 작품과 기간을 먼저 확인한다.",
    "같은 2층에 반다이남코 크로스 스토어와 아이돌마스터 오피셜숍이 있어 굿즈 매장을 한 번에 돌 수 있다.",
    "아트레 JRE POINT 대상 점포라 스이카·JRE 카드 결제가 가능하다. 면세 표시는 없다."
   ],
   "en": [
    "It runs a different title from the No.1 unit on 3F at the same time; the floor (2F vs 3F) is what tells them apart.",
-   "Titles rotate every few weeks, so check the current collaboration on Atre's shop page before coming for a specific series.",
+   "Run lengths vary a lot by title - some last a few weeks, others more than half a year - so check the current title and its dates on the Cross Store's event notice or Atre's shop page before coming for a specific series.",
    "The BANDAI NAMCO Cross Store and the iDOLM@STER Official Shop are on the same 2F, so the goods shops can be done in one pass.",
    "A JRE POINT member shop on Atre's directory, so Suica and JRE CARD work. No tax-free mark is shown."
   ]
@@ -104,12 +104,17 @@
  "chain": "charapop",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.atre.co.jp/akihabara/shop/5656/",
   "https://www.atre.co.jp/akihabara/floorguide/27/113/",
   "https://www.atre.co.jp/akihabara/floorguide/27/114/",
-  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/"
+  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/",
+  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20250628.html",
+  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20240529.html",
+  "https://bandainamco-am.co.jp/crossstore/event/",
+  "https://www.atre.co.jp/akihabara/access/",
+  "https://www.atre.co.jp/akihabara/news/7463"
  ],
  "osm_id": null
 }

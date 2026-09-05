@@ -661,6 +661,14 @@
    "date": "2026-03-31",
    "note": "Closed 2026-03-31: a cast member's own X profile reads 「3月31日をもって閉店、卒業します」, and the 3F room at 外神田3-8-3 第4針谷ビル has housed the concept cafe つきのうらがわ since May 2026 (its own X bio). The operator YUKIMI's site still shows a stale page for the cafe.",
    "source_url": "https://api.fxtwitter.com/jc__sakura"
+  },
+  {
+   "name_ja": "magi秋葉原店別館",
+   "name_en": "magi Akihabara Annex",
+   "reason": "closed",
+   "date": "2026-07-20",
+   "note": "Relocating, destination unannounced: the shop's own X (@magipoke_Akiba) announced the move on 2026-07-16 and a final day at エトランゼ18秋葉原 5F of 2026-07-20; as of 2026-09-06 no new address has been published and the chain's store page is stale. Remove this entry and add a fresh record once the new location opens.",
+   "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2077606244177842667&token=a"
   }
  ]
 }

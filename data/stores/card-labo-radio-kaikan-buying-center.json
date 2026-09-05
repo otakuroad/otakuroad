@@ -101,12 +101,13 @@
  "chain": "card-labo",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.c-labo.jp/shop/kaitoricenter/",
   "https://akihabara-radiokaikan.co.jp/shoplist/card-labo-2-2/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
-  "https://akihabara-radiokaikan.co.jp/shop-list/"
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://www.c-labo.jp/shop/radiohonten/"
  ],
  "osm_id": "node/5866051361"
 }

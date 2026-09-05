@@ -22,12 +22,11 @@
   "maid_cafe",
   "cheki",
   "time_charge",
-  "ground_floor",
   "event_day"
  ],
  "one_line": {
-  "ko": "1층 길가 왕도 메이드 카페. 60분 차지제 식사·음료와 체키 촬영",
-  "en": "Street-level classic maid cafe with a 60-minute charge: meals, drinks and cheki photos"
+  "ko": "8층 왕도 메이드 카페. 60분 차지제 식사·음료와 체키 촬영",
+  "en": "Eighth-floor classic maid cafe with a 60-minute charge: meals, drinks and cheki photos"
  },
  "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
@@ -81,8 +80,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 3분. 주오도리 서쪽 편 공익 소토칸다 제1빌딩(共益外神田第1ビル) 1층의 길가 매장이라 계단이나 엘리베이터를 탈 필요가 없다. 같은 건물 2·3층은 스루가야 아키하바라 프라모델관, 4층은 메이드리밍 아이돌도리점이고, 위층으로 가는 엘리베이터는 이 매장 옆 통로에 있다.",
-  "en": "Two minutes from Ginza-line Suehirocho and three from JR Akihabara, at street level on 1F of the Kyoei Sotokanda No.1 Building on the west side of Chuo-dori, so there are no stairs or lifts to take. Surugaya's Akihabara Plastic Model Store is on 2F-3F and Maidreamin Idol-dori on 4F of the same building; the lift up to them is in the passage beside this cafe."
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 3분. 주오도리변 공익 소토칸다 제1빌딩(共益外神田第1ビル) 8층이라 건물 옆 통로의 엘리베이터로 올라가야 한다. 같은 건물 1·지하1층은 카드숍 신소쿠 아키하바라 3호점, 2·3층은 스루가야 아키하바라 프라모델관, 4층은 메이드리밍 아이돌도리점, 5층은 마론노카쿠레가다.",
+  "en": "Two minutes from Ginza-line Suehirocho and three from JR Akihabara, on 8F of the Kyoei Sotokanda No.1 Building along Chuo-dori, so you have to take the lift in the passage beside the building. The same building holds Card Shop Shinsoku Akihabara 3 on 1F and B1F, Surugaya's Akihabara Plastic Model Store on 2F-3F, Maidreamin Idol-dori on 4F and Maron no Kakurega on 5F."
  },
  "tips": {
   "ko": [
@@ -90,14 +89,16 @@
    "공식 요금 페이지(system.html)는 현재 서버 오류로 금액이 표시되지 않으므로 정확한 차지 금액은 매장이나 공식 X에서 확인해야 한다.",
    "주의사항 페이지에 따르면 메이드를 촬영·녹음할 수 없고 음식·음료와 점내 장식만 촬영할 수 있으며, 옆자리에 앉는 접대 행위는 하지 않는 메이드 카페다.",
    "연중무휴지만 평일은 15:00, 토·일·공휴일은 12:00 개점이라 오전에는 문을 열지 않는다.",
-   "같은 건물 4층 메이드리밍 아이돌도리점과 헷갈리기 쉬우니 1층 길가 입구로 들어간다."
+   "같은 건물 1층에 있던 '마이퍼스트메이드 1층점'은 2025년 2월 말로 폐점했고 그 자리는 카드숍 신소쿠가 쓰고 있다. 남은 매장은 8층뿐이니 노면에서 찾지 말고 엘리베이터를 탄다.",
+   "같은 건물 4층 메이드리밍 아이돌도리점과 헷갈리기 쉽다."
   ],
   "en": [
    "It bills itself as an 'ohdo' (orthodox) maid cafe; the official price page states only a budget of about 3,500 yen per person and a charge billed in 60-minute blocks.",
    "That price page (system.html) currently fails with a server error and shows no figures, so confirm the charge at the shop or on the official X account.",
    "Per the house rules page, the maids may not be photographed or recorded - only food, drinks and the decor - and there is no hostess-style seating alongside guests.",
    "It is open year-round but opens at 15:00 on weekdays and 12:00 at weekends and holidays, so it is shut in the morning.",
-   "It is easy to confuse with Maidreamin Idol-dori on 4F of the same building; this one is the ground-floor shop on the street."
+   "The ground-floor branch, MyFirstMaid 1F, closed at the end of February 2025 and Card Shop Shinsoku now occupies the space; only the 8F cafe is left, so take the lift rather than looking for it at street level.",
+   "It is easy to confuse with Maidreamin Idol-dori on 4F of the same building."
   ]
  },
  "official_url": "https://myfirstmaid.com/",
@@ -108,13 +109,17 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://myfirstmaid.com/",
   "https://myfirstmaid.com/access.html",
   "https://myfirstmaid.com/notes.html",
   "https://myfirstmaid.com/system.html",
-  "https://myfirstmaid.com/news.html"
+  "https://myfirstmaid.com/news.html",
+  "https://api.fxtwitter.com/MyFirstMaid",
+  "https://cdn.syndication.twimg.com/tweet-result?id=1889560415597895953&token=a",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/1670976.html",
+  "https://maron-no-kakurega.com/?mode=f2"
  ],
  "osm_id": "node/10682517092"
 }

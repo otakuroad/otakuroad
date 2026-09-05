@@ -120,12 +120,13 @@
  "chain": "hobbyland-pochi",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://hobbyland-pochi.net/pages/store.php/?store=1",
   "https://hobbyland-pochi.net/pages/store.php",
   "https://hobbyland-pochi.net/",
-  "http://www.akiba-scope.net/sp/shop/276.html"
+  "http://www.akiba-scope.net/sp/shop/276.html",
+  "https://hobbyland-pochi.net/estimate"
  ],
  "osm_id": "node/9007044267"
 }
