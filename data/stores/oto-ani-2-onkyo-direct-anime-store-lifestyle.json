@@ -69,7 +69,7 @@
   "source_url": "https://onkyoanime-lifestyle.com/about"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -87,13 +87,13 @@
    "월요일 정기 휴무. 월요일이 공휴일이면 그날은 영업하고 다음 날 화요일에 쉰다.",
    "이어폰·헤드폰과 귀 본뜨기 커스텀 IEM은 1호점이 본거지이고, 이 2호점은 콜라보 일본술·와인, 의류, 액세서리, 손목시계 같은 라이프스타일 상품이 중심이다.",
    "음악 진동으로 숙성시킨 'Matured by ONKYO' 일본술·와인은 매장에서 시음해 볼 수 있다.",
-   "면세와 결제 수단에 대한 공식 안내가 없으므로 현금을 함께 준비하는 편이 안전하다."
+   "현금 외에 신용카드(Visa·Mastercard·JCB·아멕스·다이너스·디스커버·은련), 교통계 IC 등 전자머니, PayPay·d払い·라쿠텐페이·Alipay·WeChat Pay 같은 QR 결제를 쓸 수 있다. 면세 안내는 공식적으로 없다."
   ],
   "en": [
    "Closed on Mondays; when a Monday is a public holiday the shop trades that day and closes on the Tuesday instead.",
    "Earphones, headphones and ear-moulded custom IEMs belong to the No.1 store; this second shop leads with collaboration sake and wine, apparel, accessories and watches.",
    "The 'Matured by ONKYO' sake and wine, aged with music vibration, can be tasted in the shop.",
-   "Neither tax-free service nor accepted payment methods are stated officially, so carry some cash."
+   "Cash, credit cards (Visa, Mastercard, JCB, Amex, Diners, Discover, UnionPay), transport IC and other e-money, and QR payments such as PayPay, d-barai, Rakuten Pay, Alipay and WeChat Pay are all accepted; tax-free service is not stated officially."
   ]
  },
  "official_url": "https://onkyoanime-lifestyle.com/",
@@ -103,12 +103,13 @@
  "chain": "onkyo-direct",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://onkyoanime-lifestyle.com/about",
   "https://onkyoanime-lifestyle.com/",
   "https://onkyoanime.com/about",
-  "https://www.openstreetmap.org/way/175405172"
+  "https://www.openstreetmap.org/way/175405172",
+  "https://api.fxtwitter.com/ONKYO_ANIME_2"
  ],
  "osm_id": null
 }

@@ -84,13 +84,13 @@
  "tips": {
   "ko": [
    "평일은 18:00, 토·일·공휴일은 17:00 개점이라 낮에는 문을 열지 않는다.",
-   "요금은 30분 300엔의 시간 차지에 드링크 약 1,700엔, 푸드 600~2,000엔이 더해지는 방식이다.",
+   "요금은 30분 300엔의 시간 차지에 음료 무한리필 1,700엔(소프트드링크 또는 칵테일 등)과 푸드 600~2,000엔이 더해지는 방식이다.",
    "오무라이스·카레·피자 같은 식사와 칵테일을 함께 내는 카페 바 형태다.",
    "결제 수단 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다."
   ],
   "en": [
    "Opens at 18:00 on weekdays and 17:00 at weekends and holidays, so it is shut during the day.",
-   "Pricing is a 300 yen per 30 minutes time charge plus drinks around 1,700 yen and food from 600 to 2,000 yen.",
+   "Pricing is a 300 yen per 30 minutes time charge plus a 1,700 yen all-you-can-drink plan (soft drinks, or cocktails for the same price) and food from 600 to 2,000 yen.",
    "It works as a cafe bar, serving omurice, curry and pizza alongside cocktails.",
    "No payment methods are stated officially, so bring cash to be safe."
   ]
@@ -102,10 +102,11 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://sevendeadly.moe/index.html",
-  "https://x.com/seven_akiba"
+  "https://x.com/seven_akiba",
+  "https://api.fxtwitter.com/seven_akiba"
  ],
  "osm_id": "way/89182765"
 }

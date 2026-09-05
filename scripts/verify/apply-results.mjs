@@ -57,7 +57,7 @@ for (const f of readdirSync(resultsDir).filter((x) => x.endsWith('.json')).sort(
       const entry = {
         name_ja: store.name.ja,
         name_en: store.name.en,
-        reason: r.closure.state === 'merged' ? 'merged' : r.closure.state === 'moved_out_of_akiba' ? 'moved_out_of_akiba' : 'closed',
+        reason: ['merged', 'moved_out_of_akiba', 'adult_only'].includes(r.closure.state) ? r.closure.state : 'closed',
         ...(r.closure.date ? { date: r.closure.date } : {}),
         note: [r.notes, r.closure.successor_note].filter(Boolean).join(' ').slice(0, 600),
         source_url: r.closure.evidence_url,

@@ -56,8 +56,7 @@
      "tue",
      "wed",
      "thu",
-     "sun",
-     "hol"
+     "sun"
     ],
     "open": "10:00",
     "close": "20:00"
@@ -73,8 +72,8 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "공식 표기는 10:00-20:00, 금·토·공휴일 전날은 21:00까지. 공휴일 당일 시간은 따로 안내되어 있지 않다.",
-   "en": "The official page states 10:00-20:00, extended to 21:00 on Fridays, Saturdays and the day before a public holiday. Hours on the holiday itself are not stated."
+   "ko": "공식 표기는 10:00-20:00이고 금·토·공휴일 전날은 21:00까지다. 공휴일 당일 시간은 공식 안내가 없어 규칙에서 뺐고, 그날의 요일 시간이 적용된다.",
+   "en": "The official page states 10:00-20:00, extended to 21:00 on Fridays, Saturdays and the day before a public holiday. Hours on the holiday itself are not stated anywhere official, so no holiday rule is given and the weekday hours apply."
   },
   "source_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/"
  },
@@ -112,11 +111,13 @@
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/Lammtarra_akiba"
+ },
  "chain": "lammtarra",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/",
   "https://www.lammtarra.com/shop_list/",

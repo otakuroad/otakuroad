@@ -45,8 +45,31 @@
  },
  "street_segment": "chuo_dori",
  "address_ja": "東京都千代田区外神田3-14-8 新末広ビルB 1F・2F",
- "hours": null,
- "tax_free": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "영업시간은 공식 사이트가 아니라 점포 공식 X 프로필(@shinsoku_akb6th)에 적힌 12:00~20:00 기준이다. 요일별 구분은 안내돼 있지 않다.",
+   "en": "The 12:00-20:00 hours come from the shop's own X profile (@shinsoku_akb6th), not the chain website; no separate weekday/weekend times are given."
+  },
+  "source_url": "https://x.com/shinsoku_akb6th"
+ },
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": "both",
  "adult_content": {
@@ -57,19 +80,21 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "주오도리 서쪽 면, JR 아키하바라역에서 도보 5분·긴자선 스에히로초역에서 도보 2분. 레트로 게임 캠프가 들어선 신스에히로 빌딩(新末広ビル)의 B동 노면 1층이며, 매장은 1층과 2층을 쓴다.",
-  "en": "On the west side of Chuo-dori, five minutes from JR Akihabara and two from Suehirocho. It is the B wing of the Shin-Suehiro Building - the same building as Retro Game Camp - at street level, using 1F and 2F."
+  "ko": "주오도리 서쪽 면, JR 아키하바라역에서 도보 5분·긴자선 스에히로초역에서 도보 2분. 문을 닫은 '산코 아키하바라 총본점(サンコー秋葉原総本店)' 자리에 들어선 노면 1층 매장이며, 신스에히로 빌딩(新末広ビル) 1층과 2층을 쓴다.",
+  "en": "On the west side of Chuo-dori, five minutes from JR Akihabara and two from Suehirocho. It took over the street-level site of the closed Sanko Akihabara Sohonten and uses 1F and 2F of the Shin-Suehiro Building."
  },
  "tips": {
   "ko": [
    "2026년 8월 10일 개점한 체인 최초의 판매 전용 점포로, 이곳에서는 매입을 하지 않는다. 카드를 팔 계획이라면 도보 5분 거리의 신소쿠 매입센터(丸山ビル 1F)나 3호점으로 간다.",
    "특별 제작 쇼케이스에 고액 싱글을 진열해 두어 실물을 보고 고르기 좋다.",
-   "공식 사이트에 영업시간이 공개돼 있지 않으므로 공식 X(@shinsoku_akb6th)에서 확인한다."
+   "면세 판매를 하는 매장이다. 여권을 챙겨 가면 좋다.",
+   "영업시간 12:00~20:00은 공식 X(@shinsoku_akb6th) 프로필 기준이며 공식 사이트에는 나와 있지 않다. 임시 변경도 X에 올라온다."
   ],
   "en": [
    "Opened 10 August 2026 as the chain's first sales-only store - it does not buy cards. To sell, use the Shinsoku buyback centre (Maruyama Bldg 1F) or the 3rd store, both a few minutes away.",
    "High-value singles are laid out in custom-built showcases, so you can look before you buy.",
-   "No opening hours are published on the official site, so check the shop's X account (@shinsoku_akb6th)."
+   "The shop advertises tax-free sales, so bring your passport.",
+   "The 12:00-20:00 hours come from the shop's X profile (@shinsoku_akb6th); the chain site does not publish them, and short-notice changes are posted on X."
   ]
  },
  "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",
@@ -79,11 +104,14 @@
  "chain": "shinsoku",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://shinsoku-tcg.com/store-plans/akihabara-unification",
   "https://shinsoku-tcg.com/kaitori",
-  "https://www.cardshop-shinsoku.jp/info"
+  "https://www.cardshop-shinsoku.jp/info",
+  "https://api.fxtwitter.com/shinsoku_akb6th",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2134854.html",
+  "https://x.com/shinsoku_akb6th"
  ],
  "osm_id": null
 }

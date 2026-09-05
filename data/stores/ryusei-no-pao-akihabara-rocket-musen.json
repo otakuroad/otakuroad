@@ -92,8 +92,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 4분, 주오도리 뒤 한 블록. '로켓 아마추어무선 본관 빌딩(ロケットアマチュア無線本館ビル)' 1~3층 전체를 쓴다. JR 고가 아래 무란AKIBA 본점과 오락실 도쿄 레저랜드 사이 블록이다.",
-  "en": "Four minutes west of JR Akihabara's Electric Town Exit, a block behind Chuo-dori. It takes the whole of 1F-3F of the Rocket Amateur Radio Honkan building, on the block between Mulan AKIBA under the JR viaduct and the Tokyo Leisure Land arcade."
+  "ko": "JR 아키하바라역 전기가 출구에서 오차노미즈 방면으로 도보 3분. '로켓 아마추어무선 본관 빌딩(ロケットアマチュア無線本館ビル)' 1~3층 전체를 쓴다. JR 고가 아래 무란AKIBA 본점과 오락실 도쿄 레저랜드 사이 블록이다.",
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, walking towards Ochanomizu. It takes the whole of 1F-3F of the Rocket Amateur Radio Honkan building, on the block between Mulan AKIBA under the JR viaduct and the Tokyo Leisure Land arcade."
  },
  "tips": {
   "ko": [
@@ -116,13 +116,15 @@
  "chain": "ryusei-no-pao",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://pao-toreka.com/shop.html",
   "https://pao-toreka.com/",
   "https://akihabara-cardmap.com/ja/list/",
   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B01-4-6",
-  "https://www.openstreetmap.org/node/2388114580"
+  "https://www.openstreetmap.org/node/2388114580",
+  "https://pao-toreka.com/shop/akiba.html",
+  "https://api.fxtwitter.com/PAOtoreka_akiba"
  ],
  "osm_id": null
 }

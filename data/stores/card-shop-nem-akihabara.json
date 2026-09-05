@@ -106,19 +106,21 @@
  },
  "official_url": "https://www.nemcard.com/",
  "sns": {
-  "x": "https://x.com/nemcardakiba"
+  "x": "https://x.com/nemcardakiba00"
  },
  "chain": "nem",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.nemcard.com/view/page/shop",
   "https://www.nemcard.com/",
   "https://akihabara-cardmap.com/ja/shop/card-shop-nem-akihabara-station-front-store/",
   "https://akihabara-cardmap.com/ja/shop/merged-into-akihabara-station-front-store-card-shop-nem-akihabara/",
   "https://akibatoreka.com/introduce/2495",
-  "https://www.nippo-bldg.jp/building/detail/1566/"
+  "https://www.nippo-bldg.jp/building/detail/1566/",
+  "https://www.nemcard.com/view/page/akiba",
+  "https://api.fxtwitter.com/nemcardakiba00"
  ],
  "osm_id": null
 }

@@ -47,7 +47,30 @@
  },
  "street_segment": "suehirocho",
  "address_ja": "東京都千代田区外神田3-15-6 小暮末広ビル9F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트에는 영업시간 안내가 없고 공식 X(@PDGcollectors) 프로필에만 13:00-20:00으로 적혀 있다. 매입 접수는 19시까지. 정기 휴일 안내는 없다.",
+   "en": "The official website lists no hours; only the shop's X profile (@PDGcollectors) gives 13:00-20:00. The buyback counter takes items until 19:00. No regular closing day is stated."
+  },
+  "source_url": "https://x.com/PDGcollectors"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -64,13 +87,15 @@
  },
  "tips": {
   "ko": [
-   "공식 사이트에 영업시간 안내가 없다. 방문 전 공식 X(@PDGcollectors)를 확인하는 편이 안전하다.",
+   "공식 사이트에는 영업시간 안내가 없다. 공식 X(@PDGcollectors) 프로필에 13:00-20:00, 매입 접수 19시까지로만 적혀 있으니 방문 전 확인하는 편이 안전하다.",
    "구판(旧裏面)·레전드 시리즈 등 포켓몬 컬렉터 카드와 감정품 중심이라 현행 대회용 싱글은 적다.",
+   "우편(택배) 매입은 현재 일시 중지 상태다. 위탁 판매는 계속 받는다.",
    "3호점은 옆 건물(외신다 3-15-7 아사노 빌딩) 1층으로 별개 점포이며, 주소가 3-15-7이면 여기가 아니다."
   ],
   "en": [
-   "The official site lists no opening hours; check the shop's X account (@PDGcollectors) before going.",
+   "The official site lists no opening hours; the shop's X profile (@PDGcollectors) gives only 13:00-20:00 with buyback until 19:00, so check before going.",
    "The stock is collector-grade Pokemon - old-back cards, Legend-series and graded slabs - rather than current tournament singles.",
+   "Mail-in buyback is currently suspended; consignment sales are still accepted.",
    "The 3rd store is a separate shop on the ground floor of the Asano Building next door at 3-15-7, so an address ending 3-15-7 is not this one."
   ]
  },
@@ -80,14 +105,15 @@
  },
  "chain": "pdg",
  "priority": 3,
- "confidence": "high",
- "verified_at": "2026-09-05",
+ "confidence": "medium",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://pdg-collectorsshop.com/",
   "https://pdg-collectorsshop.com/about/",
   "https://akibatoreka.com/introduce/2708",
   "https://akihabara-cardmap.com/ja/shop/pdg-collectors-shop/",
-  "https://torecamap.co.jp/column/akihabara/"
+  "https://torecamap.co.jp/column/akihabara/",
+  "https://x.com/PDGcollectors"
  ],
  "osm_id": "node/12128984839"
 }

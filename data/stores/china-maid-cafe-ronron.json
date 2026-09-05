@@ -88,13 +88,13 @@
  "tips": {
   "ko": [
    "평일 17:00, 토·일·공휴일 15:00 개점이라 낮에는 문을 열지 않는다.",
-   "공식 사이트가 밝힌 예산대는 1인 1,000~3,000엔이고, 요금표와 시스템은 이미지로만 게시되어 있어 현장에서 확인해야 한다.",
+   "공식 사이트가 밝힌 예산대는 1시간에 2,000G(엔)으로 드링크 1잔＋체키 1장＋차지 기준이다. 차지는 1시간에 남성 1,100G·여성 500G이고, 세트 메뉴는 여성 4,100G·남성 4,600G부터다.",
    "결제 수단 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다.",
    "같은 운영사(주식회사 YUKIMI)의 자매점이 아키하바라에 5곳 더 있다."
   ],
   "en": [
    "Opens at 17:00 on weekdays and 15:00 at weekends and holidays, so it is shut during the day.",
-   "The official site gives a budget of 1,000-3,000 yen per person; the price list and system are posted only as images, so check them on site.",
+   "The official guide budget is 2,000G (yen) per hour, covering one drink, one cheki and the charge; the charge itself is 1,100G for men and 500G for women per hour, and set menus start at 4,100G for women and 4,600G for men.",
    "No payment methods are stated officially, so bring cash to be safe.",
    "Five more sister cafes in Akihabara are run by the same company, YUKIMI Inc."
   ]
@@ -106,11 +106,12 @@
  "chain": "yukimi",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akiba-maidcafe.co.jp/ronron/",
   "https://akiba-maidcafe.co.jp/",
-  "https://akiba-maidcafe.co.jp/en/"
+  "https://akiba-maidcafe.co.jp/en/",
+  "https://akiba-maidcafe.co.jp/ronron/img/system.png"
  ],
  "osm_id": "node/11042181488"
 }

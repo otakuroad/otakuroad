@@ -117,10 +117,11 @@
  "chain": "sootang",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.sootang.jp/pages/store-akihabara",
-  "https://www.instagram.com/sootanghobby_akihabara/"
+  "https://www.instagram.com/sootanghobby_akihabara/",
+  "https://api.fxtwitter.com/SOOTANG_AKIBA"
  ],
  "osm_id": null
 }

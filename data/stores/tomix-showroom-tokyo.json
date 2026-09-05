@@ -40,13 +40,13 @@
  "floor_guide": [
   {
    "floor": "1F",
-   "ko": "환영 보드와 '토믹스 레가시 스타지오'(철도모형 TOMIX 소개 패널·영상), 자택 취미방을 재현한 'DEN룸'",
-   "en": "Welcome board, the TOMIX Legacy Studio intro panels and video, and the DEN Room recreating a modeller's home hobby space"
+   "ko": "환영 보드와 '토믹스 레가시 스타지오'(철도모형 TOMIX 소개 패널·프로젝터 영상, 실제 풍경을 재현한 디오라마, 과거 제품 아카이브 전시)",
+   "en": "Welcome board and the TOMIX Legacy Studio: intro panels and projector video, a scenic diorama and an archive of past products"
   },
   {
    "floor": "2F",
-   "ko": "폭 4,535mm 대형 디오라마, 신제품 코너, 공장 직송 최신 제품 샘플, 플레이어즈 존, 초보자용 '처음 만나는 토믹스' 코너, 플레이 테이블·촬영 스튜디오",
-   "en": "The 4,535mm-wide diorama, new-product cases, factory-direct samples, the Players' Zone, a beginners' corner and a play table doubling as a photo studio"
+   "ko": "자택 취미방을 재현한 'DEN룸', 폭 4,535mm 대형 디오라마, 신제품 코너, 공장 직송 최신 제품 샘플, 플레이어즈 존, 초보자용 '처음 만나는 토믹스' 코너, 플레이 테이블·촬영 스튜디오",
+   "en": "The DEN Room recreating a modeller's home hobby space, the 4,535mm-wide diorama, new-product cases, factory-direct samples, the Players' Zone, a beginners' corner and a play table doubling as a photo studio"
   }
  ],
  "location": {
@@ -118,15 +118,17 @@
  },
  "official_url": "https://www.tomixworld.jp/",
  "sns": {
+  "x": "https://x.com/tateishi_kaede",
   "instagram": "https://www.instagram.com/tomix_show_room_tokyo/"
  },
  "chain": "tomix",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.tomixworld.jp/",
-  "https://www.tomytec.co.jp/tomix/"
+  "https://www.tomytec.co.jp/tomix/",
+  "https://prtimes.jp/main/html/rd/p/000000007.000155222.html"
  ],
  "osm_id": "node/12953576379"
 }

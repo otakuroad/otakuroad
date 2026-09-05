@@ -88,29 +88,31 @@
   "ko": [
    "유메오리야 3호점으로, 1호점(간다스다초·헤이세이 레트로 애니/게임)과 2호점(여아 완구 '夢織屋きゅ〜と')은 취급 상품이 전혀 다르다.",
    "신품과 중고를 함께 취급하고 매입도 받는다.",
-   "12:00-20:00 연중무휴지만 소형 점포이므로 임시 휴업은 공식 X 계정(@yumeoriya_hobby)에 공지된다.",
+   "12:00-20:00 연중무휴이며, 베이블레이드X 대회 같은 이벤트의 사전 추첨 정보는 공식 X 계정(@yumeoriya_kids)에 공지된다.",
    "면세와 카드 결제 여부는 공식 안내가 없다."
   ],
   "en": [
    "This is Yumeoriya's No.3 shop; No.1 (Kanda-Sudacho, Heisei retro anime and games) and No.2 (girls' toys, Yumeoriya Cute) carry completely different stock.",
    "It handles both new and used items and also buys goods in.",
-   "Open 12:00-20:00 year-round, but it is a small shop and temporary closures are posted on the official X account (@yumeoriya_hobby).",
+   "Open 12:00-20:00 year-round; advance-lottery details for events such as the Beyblade X tournaments are posted on the official X account (@yumeoriya_kids).",
    "Tax-free and card acceptance are not stated officially."
   ]
  },
  "official_url": "https://www.yumeoriya.jp/store-information3/",
  "sns": {
-  "x": "https://x.com/yumeoriya_hobby",
+  "x": "https://x.com/yumeoriya_kids",
   "instagram": "https://www.instagram.com/yumeoriya_hobby/"
  },
  "chain": "yumeoriya",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.yumeoriya.jp/store-information3/",
   "https://www.yumeoriya.jp/store/",
-  "https://www.yumeoriya.jp/"
+  "https://www.yumeoriya.jp/",
+  "https://www.yumeoriya.jp/purchase-order/",
+  "https://api.fxtwitter.com/yumeoriya_kids"
  ],
  "osm_id": null
 }

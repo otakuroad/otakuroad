@@ -72,7 +72,7 @@
  },
  "tax_free": null,
  "payment": "unknown",
- "secondhand": "used",
+ "secondhand": "both",
  "adult_content": {
   "level": "none",
   "floors": []
@@ -88,28 +88,32 @@
   "ko": [
    "사쿠라대전, 두근두근 메모리얼, Key·Leaf·교토애니메이션, 디지캐럿 등 헤이세이 초·중기 작품에 특화되어 있다.",
    "판매만 아니라 매입도 하므로 같은 시대 굿즈를 정리하려는 경우에도 쓸 수 있다.",
-   "2025년 9월 10일 문을 연 신생 점포이고 매장이 작아 재고 회전이 빠르다.",
+   "지금 매장은 2025년 10월 4일 문을 연 1호점 신관(新館)이고, 구관은 2025년 11월 24일 영업을 끝냈다.",
    "같은 브랜드의 2호점(夢織屋きゅ〜と, 여아 완구)과 3호점(夢織屋キッズ, 남아 완구)은 취급 상품이 전혀 다르다."
   ],
   "en": [
    "Specialises in early-to-mid Heisei titles: Sakura Wars, Tokimeki Memorial, Key, Leaf, Kyoto Animation, Di Gi Charat.",
    "It buys as well as sells, so it also works if you are clearing out goods from the same era.",
-   "It opened on 10 September 2025 and the room is small, so stock turns over quickly.",
+   "The shop here is the No.1 branch's new building, open since 4 October 2025; the old building traded for the last time on 24 November 2025.",
    "Sister shops No.2 (Yumeoriya Cute, girls' toys) and No.3 (Yumeoriya Kids, boys' toys) carry completely different stock."
   ]
  },
  "official_url": "https://www.yumeoriya.jp/",
  "sns": {
+  "x": "https://x.com/yumeoriya_hobby",
   "instagram": "https://www.instagram.com/yumeoriya_hobby/"
  },
  "chain": "yumeoriya",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.yumeoriya.jp/store/",
   "https://map.yahoo.co.jp/v3/place/Heu_ipLzUgA/map",
-  "https://www.instagram.com/yumeoriya_hobby/"
+  "https://www.instagram.com/yumeoriya_hobby/",
+  "https://www.yumeoriya.jp/purchase-order/",
+  "https://api.fxtwitter.com/yumeoriya_hobby",
+  "https://cdn.syndication.twimg.com/tweet-result?id=1971590599615844822&token=a"
  ],
  "osm_id": null
 }

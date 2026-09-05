@@ -85,14 +85,14 @@
  },
  "tips": {
   "ko": [
-   "리버티 지점 중 유일한 공식 이치반쿠지 취급점으로, 새 로트가 매주 들어온다.",
+   "공식 안내가 '一番くじ 실시점'으로 내세우는 지점이라 새 로트가 매주 들어온다. 다만 이치반쿠지 취급 자체는 리버티 전 지점 공통으로 안내된다.",
    "면세 대응 지점이며 여권 원본과 한 점포 5,500엔(세금 포함) 이상 구매가 조건이다.",
    "층수는 공식 안내에 없다. 건물 정면 저층 간판을 보고 들어가면 된다."
   ],
   "en": [
-   "This is the only Liberty branch that is an official Ichiban Kuji outlet, and new lots arrive weekly.",
+   "The official guide bills this branch as the Ichiban Kuji outlet and says new lots arrive weekly here, though the chain lists Ichiban Kuji as sold at every Liberty branch.",
    "It is tax-free like the rest of the chain: original passport, 5,500 yen or more (tax included) in this branch.",
-   "The floor is not published officially — look for the Liberty signage on the lower floors of the building."
+   "The floor is not published officially - look for the Liberty signage on the lower floors of the building."
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",
@@ -100,7 +100,7 @@
  "chain": "liberty",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://liberty-kaitori.com/shop",
   "https://www.liberty-shop.co.jp/visit/",

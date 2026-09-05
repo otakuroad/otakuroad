@@ -109,12 +109,14 @@
  "chain": "maidreamin",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://maidreamin.com/shop/detail.html?id=7",
   "https://maidreamin.com/shop/",
   "https://maidreamin.com/first/charge.html",
-  "https://global.maidreamin.com/"
+  "https://global.maidreamin.com/",
+  "https://maidreamin.com/information/detail.html?id=17753",
+  "https://x.com/skd_maidreamin"
  ],
  "osm_id": "node/2261286702"
 }

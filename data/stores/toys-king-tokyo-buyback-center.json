@@ -114,13 +114,14 @@
  "chain": "toysking",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.toysking.jp/shop-tokyo.html",
   "https://toysking.sakura.ne.jp/api_tenpo/data/message.json",
   "https://www.toysking.jp/",
   "https://www.toysking.jp/archive/shop.html",
-  "https://toysking.sakura.ne.jp/api_area/tempolist_o2.js"
+  "https://toysking.sakura.ne.jp/api_area/tempolist_o2.js",
+  "https://web.archive.org/web/20250301000000/https://toysking.sakura.ne.jp/api_tenpo/data/message.json"
  ],
  "osm_id": null
 }

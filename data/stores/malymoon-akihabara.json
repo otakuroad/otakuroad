@@ -64,8 +64,8 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "공식 개점 공지와 매장 목록 모두 11:00-20:00만 표기하고 정기휴무일은 밝히지 않는다.",
-   "en": "The official opening announcement and shop list both give 11:00-20:00 and state no regular holiday."
+   "ko": "공식 개점 공지와 매장 공식 X 프로필 모두 11:00-20:00으로 적고 정기휴무일은 밝히지 않는다.",
+   "en": "The official opening announcement and the shop's own X profile both give 11:00-20:00 and state no regular holiday."
   },
   "source_url": "https://www.malymoon-costume.com/view/news/20241002195233"
  },
@@ -103,11 +103,12 @@
  "chain": "malymoon",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://malymoon-costume.com/",
   "https://www.malymoon-costume.com/view/news/20241002195233",
-  "https://malymoon-costume.com/view/page/shoplist"
+  "https://malymoon-costume.com/view/page/shoplist",
+  "https://x.com/malymoon__akiba"
  ],
  "osm_id": "node/12535723701"
 }

@@ -97,14 +97,15 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://magicaltwintail.com/",
   "https://magicaltwintail.com/shop/",
   "https://magicaltwintail.com/system/",
   "https://magicaltwintail.com/menu/",
   "https://magicaltwintail.com/information/",
-  "https://www.instagram.com/maidcafe_magicaltwintail/"
+  "https://www.instagram.com/maidcafe_magicaltwintail/",
+  "https://api.fxtwitter.com/twintail_akb"
  ],
  "osm_id": "node/9103735017"
 }

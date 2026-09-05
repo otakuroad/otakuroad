@@ -42,7 +42,35 @@
  },
  "street_segment": "ura_dori",
  "address_ja": "東京都千代田区外神田3-10-6 ホープビル5F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 화요일(화요일이 공휴일이면 영업)",
+   "en": "Closed every Tuesday, except when the Tuesday is a public holiday"
+  },
+  "note": null,
+  "source_url": "https://x.com/treren_akiba"
+ },
  "tax_free": null,
  "payment": "unknown",
  "secondhand": null,
@@ -60,13 +88,13 @@
  "tips": {
   "ko": [
    "일반 카드숍이 아니라 개인 출품자가 쇼케이스 한 칸을 빌려 파는 위탁 매장이라, 진열 내용이 수시로 바뀌고 같은 카드라도 케이스마다 가격이 다르다.",
-   "공식 영업시간 안내는 없다. 카드숍 디렉터리 토레카맵 기준 평일 13:00-20:00, 토·일·공휴일 11:00-20:00, 부정기 휴무.",
+   "영업시간은 매장 공식 X 프로필에 나와 있다. 평일 13:00-20:00, 토·일·공휴일 11:00-20:00이고 화요일이 정기휴무다(화요일이 공휴일이면 영업).",
    "듀얼 스페이스(플레이 공간)는 없다.",
    "포켓몬 카드 전문점 닌닌(소토칸다 3-8-7 후지빌 2층)과 같은 회사가 2025년에 연 매장이다."
   ],
   "en": [
    "Not a normal card shop: individual sellers rent a single showcase, so the stock changes constantly and the same card can carry different prices from case to case.",
-   "No official hours are published. The directory Torecamap lists 13:00-20:00 on weekdays and 11:00-20:00 on weekends and holidays, with irregular closing days.",
+   "The shop's own X profile states the hours: 13:00-20:00 on weekdays, 11:00-20:00 at weekends and on public holidays, closed on Tuesdays unless the Tuesday is a holiday.",
    "There is no duel space.",
    "Opened in 2025 by the company behind the Pokemon-card shop Nin-Nin at Sotokanda 3-8-7, Fuji Bldg 2F."
   ]
@@ -78,13 +106,14 @@
  "chain": "ninnin",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://nin-nin-pokeka.jp/",
   "https://nin-nin-pokeka.jp/news",
   "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2200",
   "https://x.com/treren_akiba",
-  "https://www.openstreetmap.org/way/88982663"
+  "https://www.openstreetmap.org/way/88982663",
+  "https://api.fxtwitter.com/treren_akiba"
  ],
  "osm_id": null
 }

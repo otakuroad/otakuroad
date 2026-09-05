@@ -25,8 +25,10 @@
   "pokemon_card",
   "one_piece_card",
   "yugioh",
-  "mtg",
+  "union_arena",
+  "gundam_card",
   "weiss_schwarz",
+  "dragon_ball_card",
   "singles",
   "oripa",
   "sealed",
@@ -55,7 +57,6 @@
     "days": [
      "mon",
      "tue",
-     "wed",
      "thu",
      "fri"
     ],
@@ -72,10 +73,13 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
+  "regular_holiday": {
+   "ko": "수요일",
+   "en": "Closed Wednesdays"
+  },
   "note": {
-   "ko": "공식 사이트 점포 안내에는 정기 휴일이 적혀 있지 않지만, 매장 X 계정(@sunrise_akiba) 프로필에는 수요일 정기 휴일로 나온다. 방문 전 X 확인 권장. 매입 접수는 19:30 마감.",
-   "en": "The official store list gives no regular closing day, but the shop's X profile (@sunrise_akiba) states Wednesdays. Check X before going. Buyback intake closes at 19:30."
+   "ko": "공식 사이트 점포 안내에는 정기 휴일이 적혀 있지 않지만, 매장 X 계정(@sunrise_akiba) 프로필에 정기휴일 수요일로 나오고 2025년 11월 게시글에서도 수요일을 점휴일이라고 안내했다. 매입 접수는 19:30 마감.",
+   "en": "The chain store list gives no closing day, but the shop's own X profile (@sunrise_akiba) states Wednesdays and a November 2025 post called that Wednesday a store holiday. Buyback intake closes at 19:30."
   },
   "source_url": "https://tcgsunrise.com/"
  },
@@ -96,13 +100,13 @@
  "tips": {
   "ko": [
    "오사카 니혼바시 본점을 시작으로 히로시마·후쿠오카·나가노·효고 등에 지점을 둔 체인의 도쿄 매장이다.",
-   "포켓몬 카드·원피스 카드·유희왕 외에 매직 더 개더링, 바이스 슈발츠, 드래곤볼 슈퍼 카드게임까지 취급 폭이 넓다.",
+   "포켓몬 카드·원피스 카드·유희왕 OCG 외에 유니온 아레나, 건담 카드게임, 바이스 슈발츠, 드래곤볼 카드게임까지 취급 폭이 넓다.",
    "가격표와 상태 표기를 카드마다 붙여 두어 처음 오는 사람도 고르기 쉽다는 평이 많다.",
    "점두 매입 외에 우편(택배) 매입과 LINE 매입 상담도 받는다."
   ],
   "en": [
    "The Tokyo branch of a chain that started at Osaka Nipponbashi and now runs shops in Hiroshima, Fukuoka, Nagano and Hyogo.",
-   "Beyond Pokemon, One Piece and Yu-Gi-Oh it also stocks Magic: The Gathering, Weiss Schwarz and Dragon Ball Super Card Game.",
+   "Beyond Pokemon, One Piece and Yu-Gi-Oh OCG it also stocks Union Arena, the Gundam Card Game, Weiss Schwarz and Dragon Ball card games.",
    "Prices and condition grades are labelled card by card, which makes it easy for first-timers to browse.",
    "As well as counter buyback it accepts mail-in buyback and LINE valuation requests."
   ]
@@ -114,12 +118,13 @@
  "chain": "toreca-sunrise",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://tcgsunrise.com/",
   "https://akibatoreka.com/introduce/2405",
   "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2244",
-  "https://akihabara-cardmap.com/ja/shop/treca-sunrise-tokyo-akihabara-store/"
+  "https://akihabara-cardmap.com/ja/shop/treca-sunrise-tokyo-akihabara-store/",
+  "https://api.fxtwitter.com/sunrise_akiba"
  ],
  "osm_id": null
 }

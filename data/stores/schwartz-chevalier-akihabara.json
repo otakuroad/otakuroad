@@ -122,14 +122,16 @@
  "chain": "ring-o",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://ring-o.co.jp/business/cafe/%e7%94%b7%e8%a3%85%e5%96%ab%e8%8c%b6%e3%80%8eschwartz-chevalier%e3%80%8f",
   "https://ring-o.co.jp/",
   "https://akiba-maid.biz/shop/s_c",
   "https://akiba-maid.biz/",
   "https://web.archive.org/web/20260104180722/https://tabelog.com/tokyo/A1311/A131101/13248898/",
-  "https://x.com/SC_AKIBA"
+  "https://x.com/SC_AKIBA",
+  "https://lit.link/Schwartz_Chevalier",
+  "https://syndication.twitter.com/srv/timeline-profile/screen-name/SC_AKIBA"
  ],
  "osm_id": "node/5051208712"
 }

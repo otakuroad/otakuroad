@@ -646,6 +646,21 @@
    "reason": "merged",
    "note": "Duplicate record of マッハ ラジオ会館店 (mach-radio-kaikan): Radio Kaikan has exactly one Mach unit on 1F, and both shoplist slugs (くじ専門店マッハ秋葉原ラジオ会館店 and マッハ-ラジオ会館店) render the same page with the same phone, X account and 11:00-20:00 hours. Merged 2026-09-06.",
    "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%E3%81%8F%E3%81%98%E5%B0%82%E9%96%80%E5%BA%97%E3%83%9E%E3%83%83%E3%83%8F%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8%E5%BA%97/"
+  },
+  {
+   "name_ja": "アリババ秋葉原店",
+   "name_en": "Alibaba Akihabara",
+   "reason": "adult_only",
+   "note": "Adult-only: the shop's own blog (linked as 公式 from the Lammtarra store page, active daily through 2026-09) carries nothing but adult-video releases and 18+ events; the 'Nogizaka46 idol CD' framing came from a site-wide feed repeated on every Lammtarra store page. Now signed as ラムタラ昭和通り口店(アリババ秋葉原店). Excluded under the 2026-09-04 decision not to publish adult-only stores.",
+   "source_url": "http://blog.livedoor.jp/alibaba_akiba/archives/60032379.html"
+  },
+  {
+   "name_ja": "#大人なのに女児服着てるカフェ",
+   "name_en": "Otona nanoni Jojifuku Kiteru Cafe",
+   "reason": "closed",
+   "date": "2026-03-31",
+   "note": "Closed 2026-03-31: a cast member's own X profile reads 「3月31日をもって閉店、卒業します」, and the 3F room at 外神田3-8-3 第4針谷ビル has housed the concept cafe つきのうらがわ since May 2026 (its own X bio). The operator YUKIMI's site still shows a stale page for the cafe.",
+   "source_url": "https://api.fxtwitter.com/jc__sakura"
   }
  ]
 }

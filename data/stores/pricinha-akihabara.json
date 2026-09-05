@@ -112,12 +112,13 @@
  "chain": "minette",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://pricinha-akb.com/",
   "https://pricinha-akb.com/access/",
   "https://pricinha-akb.com/system/",
-  "https://shop.caferun.jp/shop/7625/"
+  "https://shop.caferun.jp/shop/7625/",
+  "https://x.com/pricinha_akiba"
  ],
  "osm_id": "node/9556174931"
 }

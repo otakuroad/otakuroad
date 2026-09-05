@@ -76,8 +76,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "주오도리의 주황색 'Hey' 간판 건물 바로 옆, 히로세 본사빌딩 2호관 1층. Hey 본점(外神田1-10-5)과는 다른 건물이므로 크레인게임만 찾는다면 이쪽, 슈팅·격투·음악게임이라면 옆 Hey 2~4층으로 간다.",
-  "en": "The ground floor of Hirose Honsha Building No.2, in the lot right next to the orange 'Hey' sign on Chuo-dori. It is a separate building from Hey itself (Sotokanda 1-10-5): come here for crane games, and go next door to Hey's 2F-4F for shooting, fighting and rhythm games."
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 2분. 주황색 대형 간판이 걸린 Hey 본점(外神田1-10-5 히로세 본사빌딩) 바로 옆 구획에 있는 '히로세 본사빌딩 2호관(廣瀬本社ビル2号館)' 1층이다. 주오도리에서 한 블록 안쪽 뒷길이라 큰길에서는 바로 보이지 않는다. 크레인게임만 찾는다면 이쪽, 슈팅·격투·음악게임이라면 옆 Hey 본점으로 간다.",
+  "en": "Two minutes from JR Akihabara's Electric Town Exit. Look for the giant orange Hey sign (Sotokanda 1-10-5, Hirose Honsha Building) and take the adjoining lot: Hey2 is the ground floor of Hirose Honsha Building No.2. It sits on the back street a block in from Chuo-dori, so it is not visible from the main road. Come here for crane games, and go next door to Hey itself for shooting, fighting and rhythm games."
  },
  "tips": {
   "ko": [
@@ -98,10 +98,12 @@
  "chain": "taito",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.taito.co.jp/gc/topics/47369",
-  "https://www.taito.co.jp/store"
+  "https://www.taito.co.jp/store",
+  "https://www.taito.co.jp/store/00001703",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2132981.html"
  ],
  "osm_id": null
 }

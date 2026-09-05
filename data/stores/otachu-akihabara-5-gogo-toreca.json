@@ -67,12 +67,12 @@
    }
   ],
   "regular_holiday": {
-   "ko": "부정기 휴무(不定休)",
-   "en": "Irregular closing days (不定休)"
+   "ko": "연중무휴",
+   "en": "Open year-round"
   },
   "note": {
-   "ko": "정기 휴일은 정해져 있지 않다. 대회 일정과 임시 휴업은 공식 사이트의 대회 이벤트 스케줄과 X(@otachu_akiba0)에서 확인.",
-   "en": "There is no fixed closing day. Tournament dates and temporary closures are listed on the official site's event schedule and on X (@otachu_akiba0)."
+   "ko": "체인 공식 점포 페이지에 연중무휴 11:00~20:00으로 실려 있다. 대회 일정과 임시 휴업은 공식 사이트의 대회 이벤트 스케줄과 X(@otachu_akiba0)에서 확인.",
+   "en": "The chain's official store page lists it as open year-round, 11:00-20:00. Tournament dates and temporary closures are listed on the official site's event schedule and on X (@otachu_akiba0)."
   },
   "source_url": "https://otachu-akiba.com/1gocard/"
  },
@@ -113,14 +113,16 @@
  "chain": "otachu",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://otachu-akiba.com/1gocard/",
   "https://otachu-akiba.com/1gocard/access/",
   "https://otachu-akiba.com/",
   "https://torecamap.co.jp/tokyo/akihabara/otachu_akiba5gouten/",
   "https://otachu.jp/shop/akihabara0/",
-  "https://x.com/otachu_akiba0"
+  "https://x.com/otachu_akiba0",
+  "https://otachu-akiba1.com/",
+  "https://otachu-akiba.com/1gocard/concept/"
  ],
  "osm_id": null
 }

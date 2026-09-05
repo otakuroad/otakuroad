@@ -55,24 +55,29 @@
      "tue",
      "wed",
      "thu",
-     "fri",
-     "sat",
-     "sun",
-     "hol"
+     "sun"
     ],
     "open": "10:00",
-    "close": "22:30"
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "fri",
+     "sat"
+    ],
+    "open": "10:00",
+    "close": "21:00"
    }
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "공식 점포 페이지에는 '開店時間 10:00~22:30' 한 가지만 적혀 있고 요일별 차이나 정기휴일 안내는 없다.",
-   "en": "The official shop page states a single '10:00-22:30' with no per-day variation and no closing day."
+   "ko": "점포 공식 사이트 FAQ 기준 월~목·일요일 10:00-20:00, 금·토·공휴일 전날 10:00-21:00이며 연중무휴다. 체인 점포 목록에 남아 있는 10:00-22:30은 오래된 값이다. 공휴일 당일 시간은 안내가 없어 그날의 요일 시간이 적용된다.",
+   "en": "The store's own site states 10:00-20:00 Monday to Thursday and Sunday, and 10:00-21:00 on Fridays, Saturdays and the day before a public holiday, open year-round. The 10:00-22:30 still shown on the chain store list is out of date. Hours on the holiday itself are not stated, so the weekday hours apply."
   },
-  "source_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/"
+  "source_url": "https://www.lammtarra-epixis-akiba.com/adult/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "both",
  "adult_content": {
   "level": "floor",
@@ -94,25 +99,29 @@
   "ko": [
    "일반 상품은 1층뿐이고 2~5층은 성인 영상물 전용 층(공식 안내 기준 총 재고 약 10만 편)이다. 미성년자나 가족 동반이면 1층만 이용한다.",
    "1층은 노기자카·사쿠라자카 계열을 중심으로 한 아이돌 생사진·굿즈 판매와 매입이 중심이고, 엄선 피규어와 잡화도 함께 놓인다.",
-   "면세와 카드 결제 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다.",
+   "신용·직불카드, 전자머니(iD·QUICPay·라쿠텐Edy·교통계), PayPay 등 바코드 결제, 은련카드를 쓸 수 있다고 점포 공식 사이트가 안내한다. 면세 여부는 안내가 없다.",
    "같은 람타라 계열의 아키하바라점(外神田1-13-3)·메디아월드아키바(1-15-2)와는 다른 매장이다."
   ],
   "en": [
    "Only 1F is general stock; 2F-5F are adult-video floors (the shop advertises about 100,000 titles). With minors or family, stay on 1F.",
    "1F centres on buying and selling idol bromides and idol goods (Nogizaka and Sakurazaka groups above all), with selected figures and novelty items alongside.",
-   "Tax-free and card acceptance are not stated officially, so bring cash to be safe.",
+   "The store's own site says credit and debit cards, e-money (iD, QUICPay, Rakuten Edy and transit IC), barcode payments such as PayPay, and UnionPay are all accepted. Tax-free is not mentioned.",
    "This is a different shop from the group's Lammtarra Akihabara (Sotokanda 1-13-3) and Lammtarra Media World Akiba (1-15-2)."
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/epixis_akiba_av"
+ },
  "chain": "lammtarra",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/",
-  "https://www.lammtarra.com/shop_list/"
+  "https://www.lammtarra.com/shop_list/",
+  "https://www.lammtarra-epixis-akiba.com/",
+  "https://www.lammtarra-epixis-akiba.com/adult/"
  ],
  "osm_id": "way/89182736"
 }

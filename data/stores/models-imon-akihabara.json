@@ -72,13 +72,13 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "평일은 20:30까지, 토·일·공휴일은 19:00까지로 폐점 시간이 다르다. 연말연시 단축 영업이나 8월 JAM 국제철도모형컨벤션 기간의 임시 휴업은 공식 사이트 공지로 안내된다.",
-   "en": "Closes at 20:30 on weekdays but 19:00 on weekends and public holidays. Shortened new-year hours and closures during the August JAM railway-model convention are announced on the official site."
+   "ko": "평일은 20:30까지, 토·일·공휴일은 19:00까지로 폐점 시간이 다르다.",
+   "en": "Closes at 20:30 on weekdays but 19:00 on weekends and public holidays."
   },
   "source_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -88,21 +88,21 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 건너 소부선 고가를 따라 서쪽으로 도보 3~4분. GiGO 5호관과 도쿄 라디오 데파트를 지나 한 블록 더 간 6층짜리 우치다 빌딩(内田ビル)이며, 1층 전자부품점 HAMADA와 센고쿠전상이 표식이다. 1층 매장 옆 좁은 입구로 들어가 엘리베이터나 계단으로 3층.",
-  "en": "From JR Akihabara's Electric Town exit, cross Chuo-dori and follow the street along the Sobu-line viaduct west for 3-4 minutes. Past GiGO No.5 and the Tokyo Radio Department Store, the six-storey Uchida Building is marked by the parts shops HAMADA and Sengoku Densho on its ground floor. Take the narrow entrance beside them and the lift or stairs to 3F."
+  "ko": "JR 아키하바라역 전기가 개찰구가 가장 가깝다. 전기가 북쪽 출구로 나와 좌회전해 아트레를 따라 걷다가 주오도리를 건넌 뒤, 마쓰모토키요시와 게임센터 사이의 길로 들어가 소부선 고가를 따라 서쪽으로 3~4분 걸으면 KFC 대각선 맞은편 건물이 우치다 빌딩(内田ビル)이다. 1층 전자부품점 하마다전자(浜田電子)가 표식이며, 하마다전자와 나사 전문점 네지노 니시카와(ネジの西川) 사이의 입구로 들어가 엘리베이터나 계단으로 3층에 올라간다.",
+  "en": "The Electric Town ticket gate at JR Akihabara is the closest. Take the Electric Town north exit, turn left, follow Atre and cross Chuo-dori, then take the street between Matsumoto Kiyoshi and the game arcade and follow the Sobu-line viaduct west for 3-4 minutes; the Uchida Building is the one diagonally opposite the KFC. The parts shop Hamada Denshi on the ground floor is the landmark, and the entrance is between Hamada Denshi and the screw shop Neji no Nishikawa - take the lift or the stairs to 3F."
  },
  "tips": {
   "ko": [
    "같은 3층에 중고·위탁·아웃렛 전문 MONTA가 붙어 있어 신품과 중고를 한 번에 볼 수 있다.",
    "아키하바라점은 N게이지 차량·키트·부품과 16번 플라스틱 제품이 중심이며, 16번 키트·정경용품은 거의 없다. 진열은 N 완성품 세트를 편성 그대로 전시한다.",
    "평일은 20:30까지 열지만 토·일·공휴일은 19:00에 닫으므로 주말 늦은 방문은 피하는 편이 좋다.",
-   "결제 수단과 면세 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+   "현금과 자사 IMON'S 카드 외에 일반 신용카드와 전자머니로도 계산할 수 있다. 편의점 결제만 온라인 통신판매 전용이다."
   ],
   "en": [
    "MONTA, the used, consignment and outlet shop, shares the same 3F, so you can check new and second-hand stock in one visit.",
    "The Akihabara branch centres on N-gauge trains, kits and parts plus 16-ban plastic models; 16-ban kits and scenery are barely stocked. Finished N-gauge sets are displayed as full train formations.",
    "It stays open to 20:30 on weekdays but closes at 19:00 on weekends and holidays, so avoid a late weekend visit.",
-   "Payment methods and tax-free are not stated officially, so bring cash to be safe."
+   "Besides cash and the shop's own IMON'S card, ordinary credit cards and e-money are accepted; only konbini payment is web-order-only."
   ]
  },
  "official_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP",
@@ -110,13 +110,15 @@
  "chain": "models-imon",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP",
   "https://www.imon.co.jp/pages/shopinfo",
   "https://www.imon.co.jp/models/shopinfo.mbr/list",
   "https://www.imon.co.jp/MONTA/",
-  "https://www.imon.co.jp/MODELS/MONTATOP.MBR/HTML"
+  "https://www.imon.co.jp/MODELS/MONTATOP.MBR/HTML",
+  "https://www.imon.co.jp/pages/pointcard",
+  "https://imons.watson.jp/board/imonbbs"
  ],
  "osm_id": "node/1915189422",
  "photo": {

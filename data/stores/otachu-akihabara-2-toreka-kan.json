@@ -66,12 +66,12 @@
    }
   ],
   "regular_holiday": {
-   "ko": "부정기 휴무(不定休)",
-   "en": "Irregular closing days (不定休)"
+   "ko": "연중무휴",
+   "en": "Open year-round"
   },
   "note": {
-   "ko": "정기 휴일은 정해져 있지 않다. 임시 휴업·시간 변경은 X(@otachu2go)에 공지된다.",
-   "en": "There is no fixed closing day. Temporary closures and changed hours are posted on X (@otachu2go)."
+   "ko": "체인 공식 점포 페이지에 연중무휴 11:00~20:00으로 실려 있다. 임시 휴업·시간 변경은 공식 사이트 공지와 X(@otachu2go)에 올라온다.",
+   "en": "The chain's official store page lists it as open year-round, 11:00-20:00. Temporary closures and changed hours are posted in the site's news feed and on X (@otachu2go)."
   },
   "source_url": "https://otachu-akiba.com/2go/"
  },
@@ -110,7 +110,7 @@
  "chain": "otachu",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://otachu-akiba.com/2go/",
   "https://otachu-akiba.com/2go/access/",
@@ -118,7 +118,8 @@
   "https://otachu-akiba.com/",
   "https://torecamap.co.jp/tokyo/akihabara/otachu_akiba2gouten/",
   "https://otachu.jp/shop/akihabara2/",
-  "https://x.com/otachu2go"
+  "https://x.com/otachu2go",
+  "https://otachu-akiba.com/2go/about/"
  ],
  "osm_id": "node/5051279064"
 }

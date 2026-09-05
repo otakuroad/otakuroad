@@ -44,18 +44,18 @@
  "floor_guide": [
   {
    "floor": "1F",
-   "ko": "신품·중고 층. 게임, CD, DVD, 호비 피규어, 만화",
-   "en": "New and used floor: games, CDs, DVDs, hobby figures and manga"
+   "ko": "애니메이션·게임·아이돌 등 일반 층",
+   "en": "General floor: anime, games, idol goods and so on"
   },
   {
    "floor": "2F",
-   "ko": "중고 층. 아이돌 이미지 DVD, 성인 DVD, PC 게임 (성인 대상)",
-   "en": "Used floor: idol image DVDs, adult DVDs and PC games (18+)"
+   "ko": "중고·2차원 층 (R-18)",
+   "en": "Used and 2D floor (R-18)"
   },
   {
    "floor": "3F",
-   "ko": "신품 층. 아이돌 이미지 DVD, 성인 DVD, 성인 굿즈 (성인 대상)",
-   "en": "New floor: idol image DVDs, adult DVDs and adult goods (18+)"
+   "ko": "성인 상품·이벤트 층 (R-18)",
+   "en": "Adult goods and event floor (R-18)"
   }
  ],
  "location": {
@@ -73,25 +73,20 @@
      "wed",
      "thu",
      "fri",
-     "sat"
+     "sat",
+     "sun",
+     "hol"
     ],
     "open": "10:00",
     "close": "21:00"
-   },
-   {
-    "days": [
-     "sun"
-    ],
-    "open": "10:00",
-    "close": "20:00"
    }
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "공식 표기는 10:00-22:30이지만 현재 단축 영업 중으로 월~토 21:00, 일요일 20:00 폐점. 공휴일은 별도 안내가 없다.",
-   "en": "The official listing says 10:00-22:30, but the shop is currently on shortened hours: 21:00 Monday to Saturday and 20:00 on Sunday. Public holidays are not stated."
+   "ko": "점포 공식 사이트 기준 연중무휴 10:00-21:00이다. 매입 접수는 19:00에 끝나고 매주 월요일은 1층 매입 카운터만 쉰다(월요일이 공휴일이면 다음 화요일). 체인 점포 목록의 10:00-22:30과 '일요일 20:00 단축 영업' 표기는 오래된 값이다.",
+   "en": "The store's own site gives 10:00-21:00 every day, year-round. Buyback reception ends at 19:00 and the 1F buyback counter alone closes on Mondays (the following Tuesday when that Monday is a public holiday). The 10:00-22:30 and the 'Sunday 20:00 shortened hours' still shown on the chain store list are out of date."
   },
-  "source_url": "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E6%9C%AC%E5%BA%97/"
+  "source_url": "https://e-mulan.com/top/?page_id=189"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -113,24 +108,31 @@
  "tips": {
   "ko": [
    "일반 이용객이 볼 곳은 1층뿐이며 2·3층은 성인 매장이다. 미성년자·가족 동반이면 1층에서 마친다.",
-   "단축 영업 중이라 공식 표기(22:30)보다 일찍 닫는다. 월~토 21:00, 일 20:00.",
-   "매입도 하는 리사이클숍이라 1층 재고는 신품과 중고가 섞여 있다."
+   "연중무휴 10:00-21:00이다. 매입 접수는 19:00에 끝나고, 매주 월요일은 1층 매입 카운터만 쉰다(월요일이 공휴일이면 다음 화요일).",
+   "매입도 하는 리사이클숍이라 1층 재고는 신품과 중고가 섞여 있다.",
+   "3층은 성인 매장이면서 이벤트 층이라 배우 출연 이벤트가 열린다."
   ],
   "en": [
    "Only 1F is general-audience; 2F and 3F are adult floors, so finish on 1F with minors or family.",
-   "Shortened hours mean it closes earlier than the advertised 22:30 - 21:00 Monday to Saturday, 20:00 on Sunday.",
-   "It is a buy-and-sell recycle shop, so the 1F stock mixes new and used items."
+   "Open 10:00-21:00 every day, year-round. Buyback reception ends at 19:00 and the 1F buyback counter alone closes on Mondays (the following Tuesday when that Monday is a public holiday).",
+   "It is a buy-and-sell recycle shop, so the 1F stock mixes new and used items.",
+   "3F doubles as the event floor, where performer appearances are held."
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E6%9C%AC%E5%BA%97/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/mulanakiba"
+ },
  "chain": "lammtarra",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E6%9C%AC%E5%BA%97/",
-  "https://www.lammtarra.com/shop_list/"
+  "https://www.lammtarra.com/shop_list/",
+  "https://e-mulan.com/top/",
+  "https://e-mulan.com/top/?page_id=189",
+  "https://e-mulan.com/top/?p=28016"
  ],
  "osm_id": "node/4972933429"
 }

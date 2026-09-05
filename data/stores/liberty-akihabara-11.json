@@ -66,7 +66,10 @@
    "ko": "연중무휴",
    "en": "Open year-round"
   },
-  "note": null,
+  "note": {
+   "ko": "매입(買取) 접수는 18:00까지만 받고, 판매 매장은 20:30까지 열려 있다.",
+   "en": "The buyback counter only takes items until 18:00; the shop floor stays open until 20:30."
+  },
   "source_url": "https://liberty-kaitori.com/shop"
  },
  "tax_free": true,
@@ -96,16 +99,20 @@
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/akiba_liberty11",
+  "instagram": "https://www.instagram.com/akihabara_liberaty11/"
+ },
  "chain": "liberty",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://liberty-kaitori.com/shop",
   "https://www.liberty-shop.co.jp/visit/",
   "https://www.liberty-shop.co.jp/visit/lp-ja-v2.html",
-  "https://akibatoreka.com/introduce/2077"
+  "https://akibatoreka.com/introduce/2077",
+  "https://x.com/akiba_liberty11"
  ],
  "osm_id": "node/10773296810"
 }

@@ -90,29 +90,34 @@
  "tips": {
   "ko": [
    "간판이 눈에 잘 띄지 않고 문이 닫혀 있는 경우가 많지만, 안내문이 붙은 문을 그냥 열고 들어가면 된다.",
-   "2021년 8월 AKIBA 컬처즈존에서 간다스다초로 이전했다. 옛 주소를 안내하는 지도가 아직 남아 있으니 주의.",
+   "2021년 7월 AKIBA 컬처즈존에서 간다스다초로 이전해 7월 21일 정식 개점했다. 옛 주소를 안내하는 지도가 아직 남아 있으니 주의.",
    "판매 고지일이 아니어도 상품과 전시품은 늘 진열돼 있고, 구경만 해도 괜찮다고 안내하고 있다.",
    "매장에 전화기가 없어 고정 전화는 울리지 않는다. 연락은 070-6467-9902.",
    "나카노 브로드웨이점과 두 곳 체제이며, 추첨 판매 상품의 매장 수령은 아키하바라점만 가능한 경우가 있다."
   ],
   "en": [
-   "The signage is easy to miss and the door is often shut — just open the door with the notices on it and go in.",
-   "The shop moved here from AKIBA Cultures Zone in August 2021; maps still showing the old address are out of date.",
+   "The signage is easy to miss and the door is often shut - just open the door with the notices on it and go in.",
+   "The shop left AKIBA Cultures Zone in July 2021 and formally opened here on 21 July; maps still showing the old address are out of date.",
    "Even when there is no release on, stock and display pieces are always out, and the shop says browsing without buying is fine.",
    "There is no telephone in the shop, so the landline never rings; use 070-6467-9902 instead.",
    "The chain also has a Nakano Broadway branch, and some lottery items can only be collected at the Akihabara shop."
   ]
  },
  "official_url": "http://www.one-up.org/shop-guide.htm",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/Oneuptoy",
+  "instagram": "https://www.instagram.com/oneuptoy/"
+ },
  "chain": "one-up",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "http://www.one-up.org/shop-guide.htm",
   "http://oneup-blog.jugem.jp/?eid=5637",
-  "http://oneup-blog.jugem.jp/"
+  "http://oneup-blog.jugem.jp/",
+  "http://www.one-up.org/",
+  "http://oneup-blog.jugem.jp/?eid=5614"
  ],
  "osm_id": null
 }

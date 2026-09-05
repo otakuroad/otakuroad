@@ -43,7 +43,7 @@
   "lng": 139.773225
  },
  "street_segment": "suehirocho",
- "address_ja": "東京都千代田区神田練塀町13-1 SEEKBASE内 1区画（1-5）",
+ "address_ja": "東京都千代田区神田練塀町13-1 SEEKBASE AKI-OKA MANUFACTURE",
  "hours": {
   "rules": [
    {
@@ -61,12 +61,15 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
-  "note": {
-   "ko": "SEEKBASE 점포 안내에 12:00~20:00으로만 표기되어 있고 정기 휴무 표기는 없다(같은 1호동의 2nd BASE·오디오 미진코는 수요일 휴무).",
-   "en": "The SEEKBASE directory lists 12:00-20:00 with no regular closing day (neighbours 2nd BASE and Audio Mijinko in the same building 1 close on Wednesdays)."
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
   },
-  "source_url": "https://www.jrtk.jp/seekbase/shop/"
+  "note": {
+   "ko": "만다라케 공식 점포 페이지에 12:00~20:00, 연중무휴로 적혀 있다. 매입 접수는 폐점 30분 전인 19:30까지다.",
+   "en": "Mandarake's own store page gives 12:00-20:00, open year-round. Buyback intake closes 30 minutes early, at 19:30."
+  },
+  "source_url": "https://www.mandarake.co.jp/dir/cco/"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -84,24 +87,28 @@
  },
  "tips": {
   "ko": [
-   "만다라케 아키하바라 2호점으로, 소프트비닐 인형(소프비) 한 장르만 다룬다. 만화·굿즈 전반은 컴플렉스, 트레카·게임은 컴플렉스2로 가야 한다.",
-   "이벤트 한정·작가 소량 생산 소프비의 매입과 판매를 함께 한다. 만다라케 공식 사이트에는 이 점포의 전용 페이지가 없어 SEEKBASE 안내가 가장 정확한 정보원이다."
+   "만다라케 아키하바라 2호점으로, 소프트비닐 인형(소프비) 한 장르만 다룬다. 괴수·특촬·애니 캐릭터부터 인디·작가계까지, 빈티지와 현행품·창작 소프비를 함께 취급한다.",
+   "매입은 소프비와 디자이너스 토이만 받고 접수는 폐점 30분 전인 19:30까지다. 만화나 다른 장르 토이를 팔려면 만다라케 컴플렉스로 가야 한다."
   ],
   "en": [
-   "Mandarake's second Akihabara shop, devoted to soft-vinyl (sofubi) figures only. For manga and general goods go to the Complex; for cards and games, Complex 2.",
-   "It both sells and buys event-exclusive and small-run artist sofubi. Mandarake's own site has no page for this branch, so the SEEKBASE directory is the most reliable source."
+   "Mandarake's second Akihabara shop, devoted to soft-vinyl (sofubi) figures only - kaiju, tokusatsu and anime characters through to indie and artist pieces, vintage and current alike.",
+   "It buys sofubi and designer toys only, and buyback intake stops 30 minutes before closing, at 19:30. For manga or other genres you have to go to Mandarake Complex."
   ]
  },
- "official_url": "https://www.jrtk.jp/seekbase/shop/",
- "sns": {},
+ "official_url": "https://www.mandarake.co.jp/dir/cco/",
+ "sns": {
+  "x": "https://x.com/mandarakecocoo"
+ },
  "chain": "mandarake",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.jrtk.jp/seekbase/shop/",
   "https://www.jrtk.jp/seekbase/",
-  "https://www.mandarake.co.jp/shop/"
+  "https://www.mandarake.co.jp/shop/",
+  "https://www.mandarake.co.jp/dir/cco/",
+  "https://x.com/mandarakecocoo"
  ],
  "osm_id": null
 }
