@@ -1,0 +1,93 @@
+{
+ "id": "radio-kaikan",
+ "name": {
+  "ko": "아키하바라 라디오회관",
+  "en": "Akihabara Radio Kaikan",
+  "ja": "秋葉原ラジオ会館"
+ },
+ "location": {
+  "lat": 35.697882,
+  "lng": 139.77195
+ },
+ "address_ja": "東京都千代田区外神田1-15-16",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F",
+  "10F"
+ ],
+ "hours_note": {
+  "ko": "건물 기준 영업시간 10:00–20:00. B1F 긴자 라이온은 평일 12:00–22:30, 토 11:30–22:30, 일·공휴일 11:30–21:30(라스트오더 마감 30분 전). 매장별로 개점 시간과 중고 매입 접수 시간이 다르므로 각 매장 카드에서 확인.",
+  "en": "Building hours 10:00–20:00. B1F Ginza Lion: weekdays 12:00–22:30, Sat 11:30–22:30, Sun/holidays 11:30–21:30 (last order 30 min before close). Individual shops set their own opening and buyback-counter hours; check each store card."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)로 나오면 광장 건너편 정면에 보이는 10층 건물이 라디오회관. 도보 1분 이내. 1F 정면 입구로 들어가 에스컬레이터나 엘리베이터로 올라간다. 쓰쿠바 익스프레스 A1 출구 도보 3분, 히비야선 2·3번 출구 도보 5분.",
+  "en": "Leave JR Akihabara by the Electric Town Exit (電気街口); the 10-storey building straight ahead across the plaza is Radio Kaikan, under a minute away. Enter at the 1F front entrance and take the escalators or elevators up. Tsukuba Express exit A1 is 3 min, Hibiya Line exits 2/3 are 5 min."
+ },
+ "floor_guide_url": "https://akihabara-radiokaikan.co.jp/floor-guide/",
+ "official_url": "https://akihabara-radiokaikan.co.jp/",
+ "uncurated_floors": [
+  {
+   "floor": "B1F",
+   "ko": "긴자 라이온 비어홀(음식점)",
+   "en": "Ginza Lion beer hall (restaurant)"
+  },
+  {
+   "floor": "1F",
+   "ko": "트레카·쿠지 매장(호비스테이션·후쿠후쿠 트레카·쿠지 전문점 마하)·카드라보 매입센터·기념품숍 The AkiBa·안경점 OWNDAYS·패밀리마트",
+   "en": "Trading-card and kuji shops (Hobby Station, Fukufuku Toreka, kuji specialist Mach), Card Labo buyback counter, gift shop The AkiBa, OWNDAYS eyewear, FamilyMart"
+  },
+  {
+   "floor": "2F",
+   "ko": "소형 트레카·완구 매장(호비스테이션 역전점·카드숍 카이조쿠오·하비코로 완구)·렌탈 쇼케이스 아스톱·토모카 전기 프로숍(음향기기)",
+   "en": "Small trading-card and toy shops (Hobby Station Ekimae, Card Shop Kaizokuou, Havikoro Toy), Astop rental showcases, Tomoca Electric pro-audio shop"
+  },
+  {
+   "floor": "4F",
+   "ko": "아미아미 라디오회관점(신품 피규어·프라모델 소매 매장)",
+   "en": "AmiAmi Radio Kaikan branch (new figures and model kits)"
+  },
+  {
+   "floor": "7F",
+   "ko": "돌 매장(아존 레이블숍·DOLK)·정글 아키하바라 2호점(중고 피규어·완구)·트레카 파크 AKIBA 라지관점",
+   "en": "Doll shops (Azone Label Shop, DOLK), Jungle Akihabara No.2 used figures and toys, Treca Park AKIBA cards"
+  },
+  {
+   "floor": "8F",
+   "ko": "볼크스 돌 포인트 아키하바라(돌피 등 돌)·볼크스 호비 스퀘어 아키하바라(프라모델·공구·도료)",
+   "en": "Volks Doll Point Akihabara (Dollfie and other dolls) and Volks Hobby Square Akihabara (model kits, tools, paints)"
+  },
+  {
+   "floor": "10F",
+   "ko": "이벤트 스페이스(전시·팝업 행사장, 상설 매장 없음)",
+   "en": "Event space for exhibitions and pop-ups; no permanent shops"
+  }
+ ],
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/access/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://akihabara-radiokaikan.co.jp/information/",
+  "https://akihabara-radiokaikan.co.jp/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%89%e3%81%97%e3%82%93%e3%81%b0%e3%82%93%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
+  "https://visit-chiyoda.tokyo/app/spot/detail/441",
+  "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8"
+ ],
+ "osm_id": "way/47127856",
+ "photo": {
+  "url": "/photos/radio-kaikan.jpg",
+  "kind": "exterior",
+  "credit": "Stephen Kelly from San Francisco, CA, USA · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_Radio_Kaikan_Shopping_Building_(53416976349).jpg",
+  "taken_on": "2023-10-18"
+ }
+}

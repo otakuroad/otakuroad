@@ -1,0 +1,189 @@
+{
+ "id": "amiami-akihabara-figure-tower",
+ "name": {
+  "ko": "아미아미 아키하바라 피규어타워점",
+  "en": "AmiAmi Akihabara Figure Tower",
+  "ja": "あみあみ秋葉原フィギュアタワー店"
+ },
+ "synonyms": [
+  "아미아미 피규어타워",
+  "아미아미 피규어 타워",
+  "아미아미 타워",
+  "아미아미 아키바",
+  "amiami figure tower",
+  "AmiAmi Akihabara Figure Tower Store",
+  "amiami tower",
+  "amiami akiba",
+  "あみあみフィギュアタワー",
+  "フィギュアタワー店",
+  "あみあみ秋葉原店"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "scale_figure",
+  "bishoujo",
+  "nendoroid",
+  "figma",
+  "shfiguarts",
+  "gundam",
+  "tokusatsu",
+  "american_comics",
+  "prize_figure",
+  "trading_figure",
+  "gacha",
+  "doll",
+  "vtuber",
+  "pokemon",
+  "used",
+  "new",
+  "event_space",
+  "pop_up_shop",
+  "tax_free"
+ ],
+ "one_line": {
+  "ko": "8층 건물 전체가 피규어 전문 매장. 신작·미소녀·가동·로봇 피규어를 층별로 나눠 신품과 중고를 판매",
+  "en": "Eight floors of figures only: bishoujo, action, robot and tokusatsu, new and used"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "신작·미니 피규어: 신작, 트레이딩 피규어, 식완, 캡슐토이, 메디콤토이, POP UP PARADE, 루캅(LookUp). 계산대·매입 접수",
+   "en": "New releases and mini figures: trading figures, candy toys, capsule toys, Medicom Toy, POP UP PARADE, Look Up. Cashier and buyback counter"
+  },
+  {
+   "floor": "2F",
+   "ko": "대표 애니·게임 피규어: 원피스, 하츠네 미쿠, 에반게리온, 포켓몬, 몬스터헌터, VTuber, 점프 작품",
+   "en": "Popular anime and game figures: One Piece, Hatsune Miku, Evangelion, Pokémon, Monster Hunter, VTubers, Shonen Jump series"
+  },
+  {
+   "floor": "3F",
+   "ko": "가동 피규어: 넨도로이드, figma, S.H.Figuarts, 드래곤볼, 세인트 세이야, 죠죠, 파이널 판타지, 아존 돌",
+   "en": "Action figures: Nendoroid, figma, S.H.Figuarts, Dragon Ball, Saint Seiya, JoJo, Final Fantasy, Azone dolls"
+  },
+  {
+   "floor": "4F",
+   "ko": "로봇·특촬·아메코믹 피규어: 건담, 로봇 작품, 가면라이더, 울트라맨, 고질라, 아메코믹, 실사 영화, 컬렉션 케이스",
+   "en": "Robots, tokusatsu and American comics: Gundam, robot series, Kamen Rider, Ultraman, Godzilla, US comics, live-action films, display cases"
+  },
+  {
+   "floor": "5F",
+   "ko": "애니 미소녀 피규어: 리제로, 코노스바, 전생했더니 슬라임이었던 건, 5등분의 신부, 오버로드",
+   "en": "Anime bishoujo figures: Re:Zero, KonoSuba, That Time I Got Reincarnated as a Slime, The Quintessential Quintuplets, Overlord"
+  },
+  {
+   "floor": "6F",
+   "ko": "앱 게임 미소녀 피규어: 아이돌마스터, 러브라이브, 우마무스메, Fate, 벽람항로, 블루 아카이브, NIKKE, 원신",
+   "en": "Mobile-game bishoujo figures: The Idolmaster, Love Live!, Umamusume, Fate series, Azur Lane, Blue Archive, NIKKE, Genshin Impact"
+  },
+  {
+   "floor": "7F",
+   "ko": "오리지널 미소녀 피규어: 일러스트레이터 오리지널 계열과 성인용(섹시) 코너. 계산대",
+   "en": "Original-character bishoujo figures: illustrator originals plus an adult (18+) corner. Cashier"
+  },
+  {
+   "floor": "8F",
+   "ko": "이벤트 플로어: 기간 한정 팝업 스토어·특별 기획 판매",
+   "en": "Event floor: limited-time pop-up shops and special sales"
+  }
+ ],
+ "location": {
+  "lat": 35.697927,
+  "lng": 139.77155
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-15-3",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "정기 휴무 없음",
+   "en": "No regular closing day"
+  },
+  "note": {
+   "ko": "1F 피규어 매입 접수는 11:30–18:30. 임시 휴업·시간 변경은 X @amiami_akiba에 공지",
+   "en": "Buyback counter on 1F takes items 11:30–18:30. Temporary closures and hour changes are posted on X @amiami_akiba"
+  },
+  "source_url": "https://realstore.amiami.jp/shop/shop2.html"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "7F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 라디오회관을 왼쪽에 두고 서쪽으로 약 100m 걸어 주오도리 사거리에서 왼쪽(남쪽)으로 꺾는다. 주오도리 동쪽 인도에서 모퉁이 건물 바로 다음(남쪽)에 서 있는, 주황색 amiami 간판이 붙은 8층 건물이며 모퉁이 건물 자체가 아니다. 조금 더 남쪽에 GiGO 2호관과 람타라가 있고, 계산대와 매입 카운터는 1F. 게이머즈 본점은 사거리 건너 북동쪽 블록.",
+  "en": "From the JR Electric Town exit walk west about 100 m with Radio Kaikan on your left, then turn left (south) onto Chuo-dori. On the east side of the street it is the 8-floor building with the orange amiami sign, the next lot south of the corner building — not the corner itself. GiGO No.2 and Lammtarra are a little further south; the cashier and buyback counter are on 1F. Gamers' main store is diagonally across the crossing to the northeast."
+ },
+ "tips": {
+  "ko": [
+   "면세(Japan Tax-free Shop) 가능. 여권 지참. 계산대는 공식 플로어 가이드 기준 1F와 7F",
+   "신용카드(JCB·VISA·Master·Diners·Discover 등), PayPay·Alipay·WeChat Pay·d払い 등 QR 결제, 교통계 IC카드 모두 사용 가능. 단 Alipay는 성인 상품 결제 불가",
+   "중고 피규어는 신품과 같은 매대에 섞여 있으며 선반의 노란 테이프로 구분(2024년 개점 취재 기준)",
+   "피규어 매입은 1F 카운터에서 11:30–18:30 접수, 본인 확인 서류(여권 등) 필요. 8F 팝업 일정은 X @amiami_a_event 참고"
+  ],
+  "en": [
+   "Tax-free (Japan Tax-free Shop) with your passport; the official floor guide marks cashiers on 1F and 7F",
+   "Credit cards (JCB, VISA, Mastercard, Diners, Discover), QR payments (PayPay, Alipay, WeChat Pay, d-barai) and transit IC cards are all accepted — Alipay cannot be used for adult products",
+   "Used figures share shelves with new stock and are marked with yellow tape (as reported at the 2024 opening)",
+   "Figure buyback is at the 1F counter 11:30–18:30 and needs photo ID such as a passport; 8F pop-up schedules are posted on X @amiami_a_event"
+  ]
+ },
+ "official_url": "https://realstore.amiami.jp/shop/shop2.html",
+ "sns": {
+  "x": "https://x.com/amiami_akiba"
+ },
+ "chain": "amiami",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://realstore.amiami.jp/shop/shop2.html",
+  "https://web.archive.org/web/20260828020211/https://realstore.amiami.jp/shop/shop2.html",
+  "https://realstore.amiami.jp/en/shop/shop2.html",
+  "https://realstore.amiami.jp/",
+  "https://realstore.amiami.jp/info/tentoukaitori_260310.html",
+  "https://realstore.amiami.jp/info/akihabara_anniversary2026_260717.html",
+  "https://realstore.amiami.jp/info/eigyoujikanhenkou_260626.html",
+  "https://news.amiami.jp/topics/2024/04/423233.html",
+  "https://news.amiami.jp/topics/2024/07/433372.html",
+  "https://hobby.watch.impress.co.jp/docs/news/1609505.html",
+  "https://toshoken.com/news/28389",
+  "https://akiba.reload.co.jp/spots/amiami-akihabara-figure-tower/",
+  "https://www.playablejapan.com/ja/articles/akihabara-figures-2026-guide",
+  "https://www.openstreetmap.org/way/89023081"
+ ],
+ "osm_id": "way/89023081"
+}

@@ -1,0 +1,114 @@
+{
+ "id": "bushiroad-creative-store-akihabara",
+ "name": {
+  "ko": "부시로드 크리에이티브 스토어 아키하바라 본점",
+  "en": "Bushiroad Creative Store Akihabara Honten",
+  "ja": "ブシロードクリエイティブストア 秋葉原本店"
+ },
+ "synonyms": [
+  "부시로드 크리에이티브 스토어",
+  "부시로드 스토어",
+  "부시카프",
+  "Bushiroad Creative Store",
+  "BCRS Akihabara",
+  "ブシロードクリエイティブストア",
+  "ブシカプ",
+  "ブシロード",
+  "アニメイト秋葉原ANNEX 5F"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "capsule_toy",
+  "gacha",
+  "character_goods",
+  "popup_shop",
+  "new",
+  "bushiroad"
+ ],
+ "one_line": {
+  "ko": "부시로드 직영점. 캡슐토이 브랜드 '부시카프'와 기발매 굿즈, POP UP 숍",
+  "en": "Bushiroad's own store: 'Bushicap!' capsule toys, past-release goods and POP UP shops"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700502,
+  "lng": 139.771723
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-3-2 アニメイト秋葉原ANNEX 5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "토·일·공휴일은 20:00에 닫아 평일보다 1시간 이르다. 애니메이트 ANNEX 건물과 같은 시간대이며 변경될 수 있다.",
+   "en": "Closes at 20:00 on weekends and holidays, an hour earlier than weekdays. Same as the animate ANNEX building; hours may change."
+  },
+  "source_url": "https://bushiroad-creative.com/bcrsakihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽에 파란 animate 간판 건물 세 채가 나란히 있고, 그중 가장 북쪽(돈키호테 쪽)이 애니메이트 아키하바라 ANNEX. 엘리베이터로 5F에 올라간다.",
+  "en": "Three blue 'animate' buildings stand in a row on the east side of Chuo-dori; the northernmost one (toward Don Quijote) is the animate Akihabara ANNEX. Take the lift to 5F."
+ },
+ "tips": {
+  "ko": [
+   "2025년 8월 1일 문을 연 부시로드 크리에이티브의 첫 직영 점포다.",
+   "상설 매장이면서 POP UP 숍 회장으로도 쓰이므로 방문 전 공식 X(@bushi_store)에서 개최 중인 기획을 확인하면 좋다.",
+   "같은 ANNEX 건물 B1~1F는 캡슐토이 전문 층 'POP @P CAPSULE -AKIHABARA-'다."
+  ],
+  "en": [
+   "Bushiroad Creative's first directly run shop, opened 1 August 2025.",
+   "It doubles as a POP UP shop venue, so check the official X account (@bushi_store) for what is running before you go.",
+   "B1-1F of the same ANNEX building is the capsule-toy floor 'POP @P CAPSULE -AKIHABARA-'."
+  ]
+ },
+ "official_url": "https://bushiroad-creative.com/bcrsakihabara/",
+ "sns": {
+  "x": "https://x.com/bushi_store"
+ },
+ "chain": "bushiroad",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://bushiroad-creative.com/bcrsakihabara/",
+  "https://bushiroad-creative.com/storelist/",
+  "https://www.animate.co.jp/shop/akihabara/",
+  "https://x.com/bushi_store"
+ ],
+ "osm_id": null
+}

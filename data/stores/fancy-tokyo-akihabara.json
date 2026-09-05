@@ -1,0 +1,88 @@
+{
+ "id": "fancy-tokyo-akihabara",
+ "name": {
+  "ko": "팬시 도쿄",
+  "en": "Fancy Tokyo",
+  "ja": "ファンシー東京"
+ },
+ "synonyms": [
+  "팬시도쿄",
+  "팬시 도쿄 아키하바라",
+  "Fancy Tokyo Akihabara",
+  "FANCY TOKYO",
+  "ファンシー東京 秋葉原",
+  "秋葉原ファンシー東京",
+  "東京ホビーセンター ファンシー東京"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "popmart",
+  "blind_box",
+  "sofubi",
+  "sticker",
+  "squishy",
+  "tamagotchi",
+  "heisei_revival",
+  "plush",
+  "crane_game",
+  "character_goods"
+ ],
+ "one_line": {
+  "ko": "POP MART 블라인드박스와 스티커·스퀴시·다마고치를 파는 팬시 잡화점",
+  "en": "POP MART blind boxes, stickers, squishies and Tamagotchi goods in a fancy-goods shop"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702826,
+  "lng": 139.770806
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-8-7 一光ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "구라마에바시도리 남쪽 면, 스에히로초 교차로에서 서쪽으로 한두 블록 걸으면 나오는 1층 점포. 케이블·커넥터 전문점이던 '컴퓨에이스 아키하바라점'이 2025년 8월 폐점한 자리에 그대로 들어와 있어, 예전 점포를 알던 사람은 위치를 바로 찾을 수 있다.",
+  "en": "A ground-floor unit on the south side of Kuramaebashi-dori, a block or two west of the Suehirocho crossing. It took over the premises of CompuAce Akihabara, the cable and connector shop that closed in August 2025, so the storefront is easy to place if you knew the old shop."
+ },
+ "tips": {
+  "ko": [
+   "애니 굿즈 매장이 아니라 POP MART 블라인드박스, 스티커, 스퀴시, 다마고치, 헤이세이 복고 잡화를 다루는 '팬시' 계열 매장이다.",
+   "피규어·굿즈 판매와 매입을 하는 도쿄호비센터(東京ホビーセンター)의 계열 점포다.",
+   "미니 크레인 게임 코너가 있어 어린이·초보자도 경품을 노려볼 수 있다.",
+   "2026년 4~5월에 문을 연 신규 점포로 공식 영업시간 안내가 없다. 5월 초 취재 시점에는 간판도 아직 걸리지 않은 상태였으니, 방문 전 공식 X(@fancy_tokyo_)나 인스타그램 확인이 좋다."
+  ],
+  "en": [
+   "Not an anime goods shop - the stock is POP MART blind boxes, stickers, squishies, Tamagotchi and Heisei-revival sundries.",
+   "It is run by Tokyo Hobby Center, the Akihabara figure and goods chain.",
+   "A mini crane game corner makes it workable for children and first-timers.",
+   "A new shop opened around April-May 2026 with no published hours; a 2 May 2026 report found it still had no signboard, so check its X (@fancy_tokyo_) or Instagram first."
+  ]
+ },
+ "official_url": "https://www.instagram.com/fanshy_tokyo/",
+ "sns": {
+  "x": "https://x.com/fancy_tokyo_",
+  "instagram": "https://www.instagram.com/fanshy_tokyo/"
+ },
+ "chain": "tokyo-hobby-center",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2107406.html",
+  "https://akiba.reload.co.jp/articles/fancy-tokyo-akihabara-open-compuace-site-2026/"
+ ],
+ "osm_id": null
+}

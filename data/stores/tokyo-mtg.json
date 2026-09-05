@@ -1,0 +1,118 @@
+{
+ "id": "tokyo-mtg",
+ "name": {
+  "ko": "도쿄 MTG",
+  "en": "Tokyo MTG",
+  "ja": "東京MTG"
+ },
+ "synonyms": [
+  "도쿄MTG",
+  "토쿄MTG",
+  "도쿄 매직 더 개더링",
+  "TokyoMTG",
+  "Tokyo MTG Akihabara",
+  "Tokyo MTG Iwamotocho",
+  "東京MTG秋葉原店",
+  "とうきょうMTG",
+  "東京エムティージー"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "mtg",
+  "singles",
+  "sealed",
+  "oripa",
+  "duel_space",
+  "tournaments",
+  "buyback",
+  "card_art",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "매직 더 개더링 싱글과 미개봉 팩, 36석 대전 공간을 갖춘 MTG 전문점",
+  "en": "Magic: The Gathering singles, sealed product and a 36-seat play space"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.696128,
+  "lng": 139.775034
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "東京都千代田区神田岩本町1-1 岩本町ビル5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일",
+   "en": "Tuesdays"
+  },
+  "note": {
+   "ko": "매입 접수는 개점부터 20:00까지, 월요일(공휴일 제외)은 16:00-20:00만 받는다. 플레이 스페이스는 월·수·목·금 15:00부터, 토·일·공휴일은 11:00부터 개방. 임시 휴업이 있어 공식 사이트는 구글 영업시간을 최신 정보로 안내한다.",
+   "en": "Buyback runs from opening to 20:00, and on Mondays (except public holidays) only 16:00-20:00. The play space opens at 15:00 Mon/Wed/Thu/Fri and 11:00 on weekends and holidays. Temporary closures happen; the shop points to its Google listing as the most current hours."
+  },
+  "source_url": "https://tokyomtg.com/content.html?p=storeintro"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 4분, 히비야선 아키하바라역에서 도보 2분, 신주쿠선 이와모토초역 A6 출구 바로 앞의 이와모토초빌딩 5층. 소토칸다 2초메(외신전 2-2-3)에서 이곳으로 이전했으므로 지도 앱이나 예전 안내에 남아 있는 옛 주소로 가지 않도록 주의.",
+  "en": "Iwamotocho Building 5F: four minutes from JR Akihabara's Showa-dori exit, two from Hibiya-line Akihabara, and right outside exit A6 of Shinjuku-line Iwamotocho. The shop relocated here from Sotokanda 2-2-3, so ignore the old address that map apps and older guides still show."
+ },
+ "tips": {
+  "ko": [
+   "매직 더 개더링만 다루는 전문점으로, 다른 TCG는 취급하지 않는다.",
+   "화요일 정기 휴일. 아키하바라 중심부의 다른 카드숍과 묶어 돌 때 요일을 확인할 것.",
+   "플레이 스페이스 이용은 대회 참가 또는 평일 2,000엔·토일공휴일 3,000엔 이상 구매, 혹은 이용료(평일 500엔, 토일공휴일 1,000엔) 조건이다.",
+   "MTG 일러스트 원화·판화·아트 프린트를 파는 코너가 있고 아티스트 초청 이벤트도 거의 매달 열린다.",
+   "이전 작업 때문에 웹 매입(택배 매입)은 현재 중단 상태다."
+  ],
+  "en": [
+   "A Magic: The Gathering specialist - no other card games are stocked.",
+   "Closed on Tuesdays, so check the day if you are combining it with card shops in central Akihabara.",
+   "Play space is free with tournament entry or a purchase (2,000 yen weekdays, 3,000 yen weekends and holidays); otherwise it costs 500 yen on weekdays and 1,000 yen at weekends.",
+   "There is a gallery corner selling MTG original art, prints and art prints, with artist events held most months.",
+   "Mail-in buyback is currently suspended because of the relocation."
+  ]
+ },
+ "official_url": "https://tokyomtg.com/content.html?p=storeintro",
+ "sns": {
+  "x": "https://x.com/TokyoMTG"
+ },
+ "chain": "tokyo-mtg",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://tokyomtg.com/content.html?p=storeintro",
+  "https://tokyomtg.com/",
+  "https://mtg-jp.com/events/shop/0006936/",
+  "https://akibatoreka.com/introduce/2402"
+ ],
+ "osm_id": null
+}

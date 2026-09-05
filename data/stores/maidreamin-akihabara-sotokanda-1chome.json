@@ -1,0 +1,120 @@
+{
+ "id": "maidreamin-akihabara-sotokanda-1chome",
+ "name": {
+  "ko": "메이드리밍 아키하바라 소토칸다 1초메점",
+  "en": "Maidreamin Akihabara Sotokanda 1-Chome Store",
+  "ja": "めいどりーみん 秋葉原 外神田一丁目店"
+ },
+ "synonyms": [
+  "메이드리밍",
+  "메이드리밍 소토칸다 1초메점",
+  "메이드리밍 외신전 1초메점",
+  "메이드리밍 잇초메",
+  "Maidreamin Sotokanda 1-chome",
+  "maidreamin Akihabara Sotokanda 1-Chome Store",
+  "めいどりーみん秋葉原外神田一丁目店",
+  "秋葉原外神田一丁目店",
+  "外神田一丁目店",
+  "いっちょめ",
+  "メイドリーミン"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "omurice",
+  "cheki",
+  "no_smoking",
+  "free_wifi",
+  "hyper_event"
+ ],
+ "one_line": {
+  "ko": "주오도리 서쪽 뒷골목 2층의 56석 지점. 오므라이스·음료와 메이드 체키 촬영",
+  "en": "56-seat branch on 2F of a back street west of Chuo-dori: omurice, drinks and cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699072,
+  "lng": 139.770493
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-10 バウハウス2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue"
+    ],
+    "open": "11:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "월·화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점. 폐점은 매일 23:00.",
+   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily."
+  },
+  "source_url": "https://maidreamin.com/shop/detail.html?id=7"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 2분. 주오도리 한 블록 서쪽 뒷골목, 코토부키야 아키하바라관 맞은편의 바우하우스(バウハウス) 빌딩 2층으로 1층은 할인점이다.",
+  "en": "Two minutes from JR Akihabara, on the back street one block west of Chuo-dori. It is 2F of the Bauhaus Building across from Kotobukiya Akihabara; a discount store occupies the ground floor."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1인 1시간 입장료 880엔 + 1주문, 연장 1시간 880엔. HYPER 이벤트 시간대는 1시간 3,800엔 음료 무제한.",
+   "56석으로 아키하바라 메이드리밍 지점 중 넓은 편이라 일행이 많을 때 쓰기 좋다. 월·화 11:30, 그 외 10:30 개점.",
+   "전 좌석 금연, 무료 Wi-Fi와 휴대폰 충전 가능. 주요 신용카드와 PayPay·au PAY·라쿠텐페이·은련카드 결제 가능."
+  ],
+  "en": [
+   "880 yen per person per hour plus one order, 880 yen per extension; HYPER slots are 3,800 yen an hour with free drinks.",
+   "At 56 seats it is one of the roomier Akihabara branches, which helps with a larger group. Opens 11:30 Mon-Tue, 10:30 otherwise.",
+   "No smoking, free Wi-Fi and phone charging. Major credit cards plus PayPay, au PAY, Rakuten Pay and UnionPay are accepted."
+  ]
+ },
+ "official_url": "https://maidreamin.com/shop/detail.html?id=7",
+ "sns": {
+  "x": "https://x.com/skd_maidreamin",
+  "instagram": "https://www.instagram.com/skd_maidreamin/"
+ },
+ "chain": "maidreamin",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://maidreamin.com/shop/detail.html?id=7",
+  "https://maidreamin.com/shop/",
+  "https://maidreamin.com/first/charge.html",
+  "https://global.maidreamin.com/"
+ ],
+ "osm_id": "node/2261286702"
+}

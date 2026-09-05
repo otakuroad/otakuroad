@@ -1,0 +1,109 @@
+{
+ "id": "akiba-zettai-ryoiki-ad2045",
+ "name": {
+  "ko": "아키바 절대영역 A.D.2045",
+  "en": "Akiba Zettai Ryoiki A.D.2045",
+  "ja": "アキバ絶対領域 A.D.2045"
+ },
+ "synonyms": [
+  "아키바 절대영역 AD2045",
+  "아키바 절대영역 4호점",
+  "아키바 젯타이료이키 A.D.2045",
+  "절대영역 A.D.2045",
+  "Akiba Zettai Ryoiki AD2045",
+  "Akiba Zettai Ryouiki A.D.2045",
+  "Akiba Absolute Area A.D.2045",
+  "akibazettai",
+  "アキバ絶対領域 A.D.2045",
+  "アキバ絶対領域AD2045",
+  "メイドカフェ アキバ絶対領域 A.D.2045",
+  "絶対領域 A.D.2045"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cyberpunk",
+  "hologram",
+  "neon",
+  "open_year_round"
+ ],
+ "one_line": {
+  "ko": "사이버펑크 콘셉트 메이드카페. 식사·음료와 네온 무대, CG 캐릭터 홀로그램 영상",
+  "en": "Cyberpunk-themed maid cafe with food, drinks, a neon stage and CG hologram videos"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700211,
+  "lng": 139.772015
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 점포 안내 기준 요일 구분 없이 12:00~22:00, 연중무휴. 같은 건물의 다른 두 매장보다 훨씬 일찍 연다.",
+   "en": "12:00-22:00 every day with no regular closing day, per the official shop page; much earlier than the other two cafes in the building."
+  },
+  "source_url": "https://akibazettai.com/shop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 동쪽, 트레이더 아키하바라 본점 빌딩 바로 뒤 골목에 있는 지상 5층 건물 TIT秋葉原의 2층. 지하 1층 Like a Doll, 3층 매지컬 롤리팝과 같은 건물이다.",
+  "en": "Three minutes from JR Akihabara's Electric Town Exit. TIT Akihabara is the five-storey building on the back street just east of the Trader Akihabara main-store building; this shop is on 2F, above Like a Doll in the basement and below Magical Lollipop on 3F."
+ },
+ "tips": {
+  "ko": [
+   "12:00~22:00 연중무휴로, 같은 건물의 다른 두 콘셉트 카페(15:00·17:00 개점)보다 일찍 열어 낮에도 이용할 수 있다.",
+   "'아키바 절대영역'은 소토칸다 3-1-1 1호점, A.D.1912, +e까지 네 곳이 있으므로 주소가 TIT秋葉原 2F인지 확인할 것."
+  ],
+  "en": [
+   "Open 12:00-22:00 daily, so it is the only one of the three cafes in this building that is open in the daytime.",
+   "There are four Akiba Zettai Ryoiki branches; make sure the address reads TIT Akihabara 2F rather than one of the Sotokanda 3-chome shops."
+  ]
+ },
+ "official_url": "https://akibazettai.com/shop/",
+ "sns": {},
+ "chain": "akiba-zettai",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibazettai.com/shop/",
+  "https://akibazettai.com/",
+  "https://www.homes.co.jp/archive/b-42429373/"
+ ],
+ "osm_id": "node/6517856033"
+}

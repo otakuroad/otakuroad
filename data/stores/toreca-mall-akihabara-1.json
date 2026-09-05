@@ -1,0 +1,131 @@
+{
+ "id": "toreca-mall-akihabara-1",
+ "name": {
+  "ko": "트레카모올 아키하바라 1호점",
+  "en": "Toreca Mall Akihabara No.1",
+  "ja": "トレカモーール秋葉原1号店"
+ },
+ "synonyms": [
+  "트레카모올",
+  "트레카모루",
+  "트레카몰",
+  "토레카모루 아키하바라 1호점",
+  "트레카모올 5F",
+  "라오쿠스 지하 트레카몰",
+  "Toreca Maall",
+  "TORECAMAALL Akihabara 1st Store",
+  "Treca Mall Akihabara",
+  "トレカモーール",
+  "トレカモーール(5F)",
+  "トレカモール",
+  "トレカモーール秋葉原一号店",
+  "ラオックス秋葉原本店B1Fトレカモール"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "union_arena",
+  "singles",
+  "sealed_box",
+  "oripa",
+  "psa",
+  "buyback",
+  "duel_space",
+  "card_mall",
+  "crane_game"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·유희왕 싱글과 미개봉 박스를 파는 트레카 전문점이 모인 몰",
+  "en": "Mall of card specialty shops selling Pokemon, One Piece and Yu-Gi-Oh singles and boxes"
+ },
+ "building_id": "edion-akiba",
+ "floors": [
+  "B1F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "약 80평. 신소쿠·카드컬렉트·만다이트레카·카드숍 나베·오리파크 등 싱글 판매와 매입 창구 중심",
+   "en": "About 80 tsubo. Shinsoku, Card Collect, Mandai Toreca, Card Shop Nabe and Oripark - singles and buyback counters"
+  },
+  {
+   "floor": "5F",
+   "ko": "약 111평. TCG Revival·카이토리토반·Starriverse·MERO·퀘스트트레카·포케도·바쿠소쿠카이토리 1minutes와 크레인게임 코너 HAO 아키하바라, 배틀 스페이스",
+   "en": "About 111 tsubo. TCG Revival, Kaitori Toban, Starriverse, MERO, Quest Toreca, Pokedo and Bakusoku Kaitori 1minutes, plus the HAO Akihabara crane-game corner and a battle space"
+  }
+ ],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）B1F・5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "11:00-19:00은 2026년 3월 5층 오픈 때 운영사가 공식 발표한 5층 영업시간이다. B1층과 입점 점포마다 영업시간이 달라(11:30-19:30, 12:00-19:30 등) 방문 전 각 점포 X 계정 확인이 필요하다.",
+   "en": "11:00-19:00 is the 5F time the operator announced when the 5F floor opened in March 2026. B1F and individual booths keep different hours (11:30-19:30, 12:00-19:30 and so on), so check each shop's X account first."
+  },
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점)이다. 가전 매장과는 별개로 카드 매장만 B1층과 5층에 모여 있고, 지하는 정면 입구 안쪽 계단·에스컬레이터로, 5층은 엘리베이터로 올라간다.",
+  "en": "From JR Akihabara's Electric Town Exit walk one to two minutes south along Chuo-dori to the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). The card shops are separate from the electronics floors: B1F down the stairs or escalator just inside the main entrance, 5F by elevator."
+ },
+ "tips": {
+  "ko": [
+   "B1층은 싱글 판매와 매입 창구 중심이고, 5층은 배틀 스페이스와 크레인게임 코너 HAO 아키하바라가 함께 있다.",
+   "매입 창구가 여러 점포에 나뉘어 있어 같은 카드를 점포별로 값 비교해 팔 수 있다.",
+   "B1층은 2024년 11월, 5층은 2026년 3월 오픈으로 입점 점포가 자주 바뀐다."
+  ],
+  "en": [
+   "B1F is singles and buyback counters; 5F adds a battle space and the HAO Akihabara crane-game corner.",
+   "Several separate buyback counters mean you can compare offers on the same card without leaving the floor.",
+   "B1F opened in November 2024 and 5F in March 2026; the tenant line-up changes often."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/toreca_maall"
+ },
+ "chain": "toreca-mall",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
+  "https://prtimes.jp/main/html/rd/p/000000002.000152399.html",
+  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/",
+  "https://akihabara-cardmap.com/en/shop/torecamaall-akihabara-2nd-store/",
+  "https://akiba.reload.co.jp/articles/trecamoor-laox-akihabara-expansion-2026/",
+  "https://search.edion.com/e_store/spot/detail?code=0000004762",
+  "https://akiba.or.jp/store/s126"
+ ],
+ "osm_id": null
+}

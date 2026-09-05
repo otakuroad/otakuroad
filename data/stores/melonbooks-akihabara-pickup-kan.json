@@ -1,0 +1,127 @@
+{
+ "id": "melonbooks-akihabara-pickup-kan",
+ "name": {
+  "ko": "멜론북스 아키하바라 점포수취관",
+  "en": "Melonbooks Akihabara Pickup Store (TOKYO OTAKU SHOP)",
+  "ja": "メロンブックス秋葉原店舗受取館"
+ },
+ "synonyms": [
+  "멜론북스 수취관",
+  "멜론북스 아키하바라 수취관",
+  "멜론북스 도쿄 오타쿠 숍",
+  "도쿄 오타쿠 숍",
+  "メロンブックス秋葉原店舗受取館",
+  "メロンブックス受取館",
+  "TOKYO OTAKU SHOP",
+  "Melonbooks Akihabara Uketori-kan",
+  "Melonbooks Pickup Akihabara"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "new",
+  "doujinshi",
+  "doujin_music",
+  "doujin_game",
+  "goods",
+  "pickup_counter",
+  "exclusive_goods",
+  "gallery",
+  "event_space",
+  "tax_free"
+ ],
+ "one_line": {
+  "ko": "B1층 통판 상품 수령 카운터와 1층 한정 굿즈 매장으로 이뤄진 멜론북스 TOKYO OTAKU SHOP",
+  "en": "Melonbooks online-order pickup on B1F and exclusive goods on 1F (TOKYO OTAKU SHOP)"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "수취관 — 멜론북스 통판 상품 매장 수령 전용 카운터, 이벤트 스페이스",
+   "en": "Uketori-kan: the counter for picking up Melonbooks online orders, plus an event space"
+  },
+  {
+   "floor": "1F",
+   "ko": "TOKYO OTAKU SHOP — 이곳에서만 파는 한정 굿즈 매장",
+   "en": "TOKYO OTAKU SHOP: goods sold only at this store"
+  }
+ ],
+ "location": {
+  "lat": 35.698263,
+  "lng": 139.770391
+ },
+ "street_segment": "denkigai",
+ "address_ja": "〒101-0021 東京都千代田区外神田1丁目3番7号 鈴木ビルB1F・1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "공식 정기휴무 없음",
+   "en": "No regular holiday listed"
+  },
+  "note": {
+   "ko": "공식 안내는 전일 12:00–20:30. 일부 지도에는 20:00 마감으로 남아 있다",
+   "en": "The official page gives 12:00-20:30 every day; some maps still show a 20:00 close"
+  },
+  "source_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=58"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 2분 거리의 스즈키 빌딩. 지상 1층이 TOKYO OTAKU SHOP 매장이고, 통판 수령 카운터는 계단으로 내려가는 지하 1층에 따로 있다.",
+  "en": "The Suzuki Building, two minutes west of the JR Akihabara Electric Town exit. The 1F street-level shop is TOKYO OTAKU SHOP; the online-order pickup counter is downstairs on B1F."
+ },
+ "tips": {
+  "ko": [
+   "동인지 신간을 직접 고르려면 이곳이 아니라 1호점(外神田1-10-5 廣瀬빌딩 B1F)으로 가야 한다",
+   "건물 전체가 멜론북스 그룹으로 2층은 PC게임 본관(우리보잣카 아키하바라점), 3~5층은 Akiba Melon Gallery 전시 층이다",
+   "면세 대응 매장이며 현금 외 신용카드(VISA·Master·JCB·AMEX 등)와 전자화폐를 쓸 수 있다",
+   "통판 상품의 매장 수령은 B1F 전용 카운터에서만 처리된다"
+  ],
+  "en": [
+   "To browse new doujinshi go to the 1st Store instead (Hirose Bldg B1F, Sotokanda 1-10-5)",
+   "The whole building is Melonbooks Group: 2F is the PC-game main floor (Uribou Zakka Akihabara), 3F-5F the Akiba Melon Gallery exhibition floors",
+   "Tax-free, and cash, credit cards (VISA, Mastercard, JCB, AMEX and more) and e-money are accepted",
+   "Online orders can only be collected at the dedicated B1F counter"
+  ]
+ },
+ "official_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=58",
+ "sns": {
+  "x": "https://x.com/melon_akiba"
+ },
+ "chain": "melonbooks",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.melonbooks.co.jp/shop/shop.php?wp_id=58",
+  "https://www.melonbooks.co.jp/help/tpl.php?cid=329"
+ ],
+ "osm_id": "node/10137209517"
+}

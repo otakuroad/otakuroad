@@ -1,0 +1,113 @@
+{
+ "id": "blister-comics-akihabara",
+ "name": {
+  "ko": "블리스터 코믹스",
+  "en": "BLISTER comics",
+  "ja": "ブリスターコミックス"
+ },
+ "synonyms": [
+  "블리스터코믹스",
+  "브리스터 코믹스",
+  "아메코미 전문점 블리스터",
+  "ブリスターコミックス",
+  "ブリスター",
+  "BLISTER",
+  "Blister Comics",
+  "BLISTER_comics"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "new",
+  "american_comics",
+  "marvel",
+  "dc",
+  "image_comics",
+  "idw",
+  "dark_horse",
+  "variant_cover",
+  "tpb",
+  "translated_comics",
+  "comic_supplies"
+ ],
+ "one_line": {
+  "ko": "마블·DC 등 미국 코믹 최신호와 변형 표지, 번역판, 보관용품을 파는 아메코미 전문점",
+  "en": "American comics specialist: Marvel/DC floppies, variant covers, TPBs and storage supplies"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700569,
+  "lng": 139.772038
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-3-10 ミナミビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 13:00 개점으로 토·일·공휴일(11:00)보다 두 시간 늦다",
+   "en": "Weekdays open at 13:00, two hours later than weekends and public holidays (11:00)"
+  },
+  "source_url": "https://blistercomics.jp/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 애니메이트 뒤편(동쪽) 한 블록 안, 외신다 4-3-10 미나미 빌딩 1층 노면 매장. JR 전기가 출구에서 도보 4분, 긴자선 스에히로초역에서 도보 4분.",
+  "en": "One block east of Chuo-dori behind animate, a street-level shop on the 1F of the Minami Building at Sotokanda 4-3-10. Four minutes from the JR Electric Town exit and four from Suehirocho station."
+ },
+ "tips": {
+  "ko": [
+   "매주 신간(店舗発売) 입하 리스트를 공식 사이트 첫 화면에 올리고 PREVIEWS 원서 예약도 받는다",
+   "원서 리프뿐 아니라 일본어 번역판과 코믹 보관용 박스·슬리브도 함께 판다",
+   "면세·카드 결제 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다"
+  ],
+  "en": [
+   "The weekly in-store release list is posted on the front page of the official site, and PREVIEWS pre-orders are taken",
+   "Besides English floppies it stocks Japanese translated editions and comic boxes, bags and boards",
+   "Neither tax-free nor card acceptance is stated on the official site, so bring cash to be safe"
+  ]
+ },
+ "official_url": "https://blistercomics.jp/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://blistercomics.jp/"
+ ],
+ "osm_id": "node/5181116182"
+}

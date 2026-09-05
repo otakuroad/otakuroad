@@ -1,0 +1,195 @@
+{
+ "id": "gamers-akihabara-honten",
+ "name": {
+  "ko": "아키하바라 게이머즈 본점",
+  "en": "AKIHABARA Gamers Main Store",
+  "ja": "AKIHABARAゲーマーズ本店"
+ },
+ "synonyms": [
+  "게이머즈",
+  "게이머즈 본점",
+  "아키바 게이머즈",
+  "게이머즈 아키하바라",
+  "Gamers",
+  "Gamers Akihabara",
+  "Akihabara Gamers Honten",
+  "AKIHABARA Gamers",
+  "ゲーマーズ本店",
+  "ゲーマーズ",
+  "アニブロゲーマーズ",
+  "Anibro Gamers",
+  "akiba_gema"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "manga",
+  "light_novel",
+  "anime_cd",
+  "blu_ray",
+  "love_live",
+  "hololive",
+  "vtuber",
+  "bang_dream",
+  "bushiroad",
+  "ensemble_stars",
+  "vanguard",
+  "trading_card",
+  "popup_store",
+  "idol_goods",
+  "penlight",
+  "limited_edition",
+  "new",
+  "event_space"
+ ],
+ "one_line": {
+  "ko": "신간 만화·라노벨, 애니 CD·BD, 러브라이브·홀로라이브·부시로드 굿즈를 B1F~7F에 층별로 갖춘 매장",
+  "en": "New manga, light novels, anime CDs/BDs and Love Live!, hololive, Bushiroad goods on B1F-7F"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "7F",
+   "ko": "팝업 스토어·캐릭터 굿즈 (기간 한정 스토어, 굿즈 수납용품)",
+   "en": "Pop-up stores and character goods (limited-time shops, goods storage supplies)"
+  },
+  {
+   "floor": "6F",
+   "ko": "이벤트 스페이스 (이벤트 개최 시에만 입장 가능)",
+   "en": "Event space (entry only during events)"
+  },
+  {
+   "floor": "5F",
+   "ko": "러브라이브! 스쿨 아이돌 스페이스·게임 소프트·캐릭터 굿즈 (홀로라이브·아이마스·프로세카 코너)",
+   "en": "Love Live! School Idol Space, game software, character goods (hololive, Idolmaster, Project Sekai corners)"
+  },
+  {
+   "floor": "4F",
+   "ko": "부시로드 스토어·BanG Dream! 오피셜 콜라보 스토어 (2026년 8월 1일 뱅가드 스토어가 이곳으로 이전)",
+   "en": "Bushiroad Store and BanG Dream! official collab store (Vanguard Store relocated here on 1 Aug 2026)"
+  },
+  {
+   "floor": "3F",
+   "ko": "영상·음악 소프트(애니·성우·게임)와 코믹스·소설·화집",
+   "en": "Anime, seiyuu and game CDs/Blu-rays plus comics, novels and art books"
+  },
+  {
+   "floor": "2F",
+   "ko": "앙상블 스타즈!! 스토어 (혼잡 예상일은 사전 입장 예약 추첨제)",
+   "en": "Ensemble Stars!! Store (advance entry reservation by lottery on busy days)"
+  },
+  {
+   "floor": "1F",
+   "ko": "신간 코믹스·라노벨·잡지·사진집·화집, 구간(既刊) 전용 코너, 펜라이트, 수납 커버·파일",
+   "en": "New comics, light novels, magazines, photo books and art books; a back-catalog corner, penlights, book covers and files"
+  },
+  {
+   "floor": "B1F",
+   "ko": "카드라보 AKIHABARA 게이머즈 B1점 (트레카 판매·매입, 대전 스페이스 28석)",
+   "en": "Card Labo AKIHABARA Gamers B1 (trading card sales and buyback, 28-seat duel space)"
+  }
+ ],
+ "location": {
+  "lat": 35.698311,
+  "lng": 139.771682
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "표기 시간은 1F 기준. 평일 3F~7F는 11:00~21:00, 토·일·공휴일은 1F와 3F~7F 모두 10:00~21:00. 2F 앙상블 스타즈!! 스토어는 매일 11:00~21:00, B1F 카드라보는 평일 11:00~20:00·토·일·공휴일 10:00~20:00(매입 접수 12:00~18:30). 태풍 등 임시 휴업·시간 변경은 X @akiba_gema 공지",
+   "en": "Times shown are for 1F. On weekdays 3F-7F run 11:00-21:00; on Sat, Sun and holidays 1F and 3F-7F both run 10:00-21:00. The 2F Ensemble Stars!! Store is 11:00-21:00 daily and B1F Card Labo is 11:00-20:00 on weekdays, 10:00-20:00 on weekends and holidays (buyback desk 12:00-18:30). Typhoon closures and time changes are posted on X @akiba_gema"
+  },
+  "source_url": "https://www.gamers.co.jp/shop/detail.php?id=4"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 개찰을 나와 왼쪽(정면은 아트레), 정면의 GiGO 아키하바라 4호관을 보며 역 건물 밖으로 나와 오른쪽으로 꺾는다. 왼편 라디오회관·오른편 아트레를 보며 직진하면 파친코 에스파스 니타쿠 맞은편에 큰 게이머즈 간판이 붙은 건물이 있다. 1F 서적 매장 입구로 들어가 엘리베이터·계단으로 위층 이동, 카드라보는 B1F.",
+  "en": "Leave the JR Akihabara Electric Town ticket gate and turn left (Atre is straight ahead), then step out of the station past the GiGO Akihabara 4 arcade and turn right. Walk straight with Radio Kaikan on your left and Atre on your right; Gamers is the building with the large signboard opposite the Espas Nittaku pachinko hall. Enter through the 1F bookshop and take the lift or stairs up; Card Labo is on B1F."
+ },
+ "tips": {
+  "ko": [
+   "2F 앙상블 스타즈!! 스토어는 혼잡이 예상되는 날 사전 입장 예약(추첨)제로 바뀌므로 방문 전 X @ensemble_store 공지 확인.",
+   "6F 이벤트 스페이스는 이벤트 개최 시에만 입장 가능.",
+   "층마다 영업시간이 달라 평일에 3F~7F가 목적이면 11:00 이후·21:00 이전에 방문(22:00까지 여는 곳은 1F뿐).",
+   "신용카드·교통계 IC·PayPay·Alipay·WeChat Pay·도서카드 사용 가능하지만 예약 내금은 현금만 받음. 공식 페이지에 면세 대응 안내가 없으므로 면세는 계산대에서 확인할 것."
+  ],
+  "en": [
+   "The 2F Ensemble Stars!! Store switches to advance entry reservation (by lottery) on days it expects crowds - check X @ensemble_store before you go.",
+   "The 6F event space admits visitors only during events.",
+   "Floor hours differ: on weekdays go up between 11:00 and 21:00 for 3F-7F; only 1F stays open until 22:00.",
+   "Credit cards, transit IC, PayPay, Alipay, WeChat Pay and book cards are accepted, but pre-order deposits are cash only. The official page lists no tax-free service, so ask at the register."
+  ]
+ },
+ "photo": {
+  "url": "/photos/gamers-akihabara-honten.jpg",
+  "kind": "exterior",
+  "credit": "Aimaimyi · CC BY-SA 3.0 · Wikimedia Commons",
+  "license": "CC BY-SA 3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_-24.jpg",
+  "taken_on": "2011-10-09"
+ },
+ "official_url": "https://www.gamers.co.jp/shop/detail.php?id=4",
+ "sns": {
+  "x": "https://x.com/akiba_gema"
+ },
+ "chain": "gamers",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.gamers.co.jp/shop/detail.php?id=4",
+  "https://www.gamers.co.jp/corner/cc/howto_access_akihabara/cd/587/",
+  "https://www.gamers.co.jp/shop/",
+  "https://www.gamers.co.jp/shop/detail.php?id=24",
+  "https://www.gamers.co.jp/shop/detail.php?id=25",
+  "https://www.gamers.co.jp/shop/detail.php?id=7",
+  "https://www.c-labo.jp/shop/akibagema/",
+  "https://www.animate-onlineshop.jp/corner/cc/ensemble_stars_store/cd/2573/",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2052657.html",
+  "https://www.openstreetmap.org/node/5858930187",
+  "https://commons.wikimedia.org/wiki/File:Akihabara_-24.jpg"
+ ],
+ "osm_id": "node/5858930187"
+}

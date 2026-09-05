@@ -1,0 +1,103 @@
+{
+ "id": "game-panic-akihabara",
+ "name": {
+  "ko": "게임패닉 아키하바라",
+  "en": "GAME PANIC Akihabara",
+  "ja": "ゲームパニック秋葉原"
+ },
+ "synonyms": [
+  "게임패닉",
+  "게임 패닉",
+  "게임패닉 아키하바라점",
+  "레저랜 게임패닉",
+  "GAME PANIC",
+  "Game Panic Akihabara",
+  "GP秋葉原",
+  "ゲームパニック",
+  "ゲーパニ",
+  "レジャラン"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "prize",
+  "rhythm_game",
+  "video_game",
+  "late_night"
+ ],
+ "one_line": {
+  "ko": "주오도리 오락실. 크레인게임 프라이즈, 음악게임, 비디오게임을 밤 24시까지",
+  "en": "Chuo-dori arcade: crane-game prizes, rhythm games and video cabinets, open until midnight"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698757,
+  "lng": 139.771531
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-13-1 Akihabara ex",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "운영사 레저랜(レジャラン) 공식 점포 페이지 기준 매일 10:00~24:00. 정기휴무는 공식 안내가 없다.",
+   "en": "Daily 10:00-24:00 on the operator's (Leisurelan) official store page. No regular closing day is stated."
+  },
+  "source_url": "https://www.leisurelan.co.jp/store/gpakiba.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분(쓰쿠바 익스프레스 아키하바라역에서 5분). 주오도리 동쪽 보도를 따라 라디오센터에서 북쪽으로 조금 올라간 'Akihabara ex' 건물이며, 노란 바탕의 GAME PANIC 간판이 표식이다.",
+  "en": "One minute from the JR Akihabara Electric Town exit (five from Tsukuba Express Akihabara). On the east sidewalk of Chuo-dori just north of the Radio Center, in the 'Akihabara ex' building under the yellow GAME PANIC sign."
+ },
+ "tips": {
+  "ko": [
+   "밤 24시까지 열어 아키하바라에서 늦게까지 놀 수 있는 오락실 중 하나다.",
+   "설치 장르는 공식 안내상 프라이즈(크레인게임)·음악게임·비디오게임 세 가지다.",
+   "신규 프라이즈 입하와 이벤트는 공식 X(@GP_AKIBA)에 올라온다."
+  ],
+  "en": [
+   "Open until midnight, one of the later-closing arcades in Akihabara.",
+   "The official listing gives three genres on site: prize (crane) games, rhythm games and video cabinets.",
+   "New prize stock and events are posted on the official X account (@GP_AKIBA)."
+  ]
+ },
+ "official_url": "https://www.leisurelan.co.jp/store/gpakiba.html",
+ "sns": {
+  "x": "https://x.com/GP_AKIBA"
+ },
+ "chain": "game-panic",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.leisurelan.co.jp/store/gpakiba.html"
+ ],
+ "osm_id": "node/6241716988"
+}

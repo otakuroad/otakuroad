@@ -1,0 +1,126 @@
+{
+ "id": "sootang-hobby-akihabara",
+ "name": {
+  "ko": "수탕호비 아키하바라점",
+  "en": "SOOTANG HOBBY AKIHABARA",
+  "ja": "スータンホビー秋葉原店"
+ },
+ "synonyms": [
+  "수탕호비",
+  "수탕 하비",
+  "수탕호비 아키하바라",
+  "SOOTANG HOBBY",
+  "SOOTANG HOBBY AKIHABARA",
+  "sootang",
+  "スータンホビー",
+  "スータンホビー秋葉原",
+  "SOOTANG HOBBY 秋葉原店"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gunpla",
+  "plastic_model",
+  "character_model",
+  "military_model",
+  "railway_model",
+  "mini_4wd",
+  "rc",
+  "bishoujo_figure",
+  "robot_figure",
+  "doll",
+  "plush",
+  "trading_card",
+  "tools",
+  "new"
+ ],
+ "one_line": {
+  "ko": "건프라·캐릭터 프라모델과 미소녀·로봇 피규어, 공구를 파는 홍콩계 호비 매장",
+  "en": "Hong Kong chain hobby floor: gunpla, character kits, bishoujo and robot figures, tools"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700474,
+  "lng": 139.771168
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-13-9 田中恒産ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴(연말연시 제외)",
+   "en": "Open year-round except the New Year period"
+  },
+  "note": {
+   "ko": "평일은 12:00, 토·일·공휴일은 11:00 개점으로 오픈 시각이 다르다.",
+   "en": "Opens at 12:00 on weekdays and 11:00 on weekends and public holidays."
+  },
+  "source_url": "https://www.sootang.jp/pages/store-akihabara"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽, 소프맵 AKIBA(외신다 3-13-12) 바로 북쪽에 붙은 다나카코산 빌딩(田中恒産ビル) 2층. 도쿄메트로 스에히로초역 1·3번 출구에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 5분이다.",
+  "en": "On 2F of the Tanaka Kosan Building, immediately north of Sofmap AKIBA (Sotokanda 3-13-12) on the west side of Chuo-dori. Three minutes from Suehirocho station exits 1/3, five minutes from JR Akihabara's Electric Town Exit."
+ },
+ "tips": {
+  "ko": [
+   "평일 12:00, 토·일·공휴일 11:00 개점이라 오전에 가면 헛걸음할 수 있다.",
+   "신용카드(VISA·Master·JCB·AMEX·Diners·Discover·UnionPay), 교통계 IC카드, iD·nanaco·WAON·Edy·QUICPay, PayPay·au PAY·메르페이·라쿠텐페이·WeChat Pay·Alipay+까지 받는다.",
+   "면세 여부는 공식 페이지에 안내가 없으므로 카운터에서 확인해야 한다.",
+   "일본 내 점포는 이곳과 오모테산도점 두 곳뿐이다."
+  ],
+  "en": [
+   "Weekdays open at 12:00 and weekends/holidays at 11:00, so a morning visit can be wasted.",
+   "Cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), transit IC, iD/nanaco/WAON/Edy/QUICPay and QR payments (PayPay, au PAY, Merpay, Rakuten Pay, WeChat Pay, Alipay+) are all accepted.",
+   "Tax-free is not mentioned on the official page, so ask at the counter.",
+   "The chain has only two Japanese branches: this one and Omotesando."
+  ]
+ },
+ "official_url": "https://www.sootang.jp/pages/store-akihabara",
+ "sns": {
+  "x": "https://x.com/SOOTANG_AKIBA",
+  "instagram": "https://www.instagram.com/sootanghobby_akihabara/"
+ },
+ "chain": "sootang",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.sootang.jp/pages/store-akihabara",
+  "https://www.instagram.com/sootanghobby_akihabara/"
+ ],
+ "osm_id": null
+}

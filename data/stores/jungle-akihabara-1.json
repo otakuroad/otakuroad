@@ -1,0 +1,121 @@
+{
+ "id": "jungle-akihabara-1",
+ "name": {
+  "ko": "정글 아키하바라 1호점",
+  "en": "JUNGLE Akihabara No.1",
+  "ja": "ジャングル 秋葉原1号店"
+ },
+ "synonyms": [
+  "정글",
+  "정글 아키하바라",
+  "정글 1호점",
+  "엔터테인먼트 호비숍 정글",
+  "JUNGLE",
+  "Jungle Akihabara 1",
+  "Entertainment Hobby Shop JUNGLE",
+  "ジャングル",
+  "ジャングル秋葉原1号店",
+  "ジャングル秋葉原"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "used",
+  "buyback",
+  "figure",
+  "chogokin",
+  "sofubi",
+  "tokusatsu",
+  "robot_figure",
+  "retro_toy",
+  "minicar",
+  "plastic_model",
+  "toy_gun"
+ ],
+ "one_line": {
+  "ko": "중고 초합금 로봇·소프비·특촬 완구·피규어를 매입·판매하는 1층 매장",
+  "en": "Street-level shop buying and selling used chogokin robots, sofubi and tokusatsu toys"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701639,
+  "lng": 139.770634
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-9-2 末広ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "평일은 12:00, 토·일·공휴일은 11:00 개점이다.",
+   "en": "Opens at 12:00 on weekdays and 11:00 at weekends and public holidays."
+  },
+  "source_url": "https://jungle-scs.co.jp/?page_id=21"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 한 블록 서쪽 뒷길, 소토칸다 3-9-2 스에히로 빌딩 1층 노면 점포. 같은 건물 지하 1층은 おたちゅう。아키하바라 5호점(트레카)이다.",
+  "en": "On the back street one block west of Chuo-dori, at street level in the Suehiro Building, Sotokanda 3-9-2. Otachu Akihabara No.5 (trading cards) is in the same building's basement."
+ },
+ "tips": {
+  "ko": [
+   "마징가·울트라맨 등 옛 반다이·포피 계열 초합금과 소프비가 강점이다.",
+   "라디오회관 7층의 JUNGLE AKIBA(구 2호점)와는 별개 매장으로, 이쪽은 1층 노면점이라 들어가기 쉽다.",
+   "매입 상담은 오사카 본사의 전용 다이얼(06-6645-6663)이나 LINE 감정으로도 받는다."
+  ],
+  "en": [
+   "Strong on old Bandai/Popy chogokin and sofubi — Mazinger, Ultraman and similar.",
+   "A separate shop from JUNGLE AKIBA on 7F of Radio Kaikan; this one is at street level and easy to walk into.",
+   "Buy-back enquiries also go through the chain's Osaka dedicated line (06-6645-6663) or LINE appraisal."
+  ]
+ },
+ "official_url": "https://jungle-scs.co.jp/?page_id=21",
+ "sns": {
+  "x": "https://x.com/jungle_akiba1g"
+ },
+ "chain": "jungle",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://jungle-scs.co.jp/?page_id=21",
+  "https://jungle-scs.co.jp/"
+ ],
+ "osm_id": "node/4069489662"
+}

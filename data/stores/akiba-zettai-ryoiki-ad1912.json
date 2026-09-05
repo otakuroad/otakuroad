@@ -1,0 +1,110 @@
+{
+ "id": "akiba-zettai-ryoiki-ad1912",
+ "name": {
+  "ko": "아키바 절대영역 A.D.1912",
+  "en": "Akiba Zettai Ryoiki A.D.1912",
+  "ja": "アキバ絶対領域 A.D.1912"
+ },
+ "synonyms": [
+  "아키바 절대영역 AD1912",
+  "절대영역 1912",
+  "아키바 절대영역 2호점",
+  "Akiba Zettai Ryoiki AD1912",
+  "AD1912",
+  "アキバ絶対領域 AD1912",
+  "アキバ絶対領域 2号店",
+  "カワイイメイドカフェ アキバ絶対領域 A.D.1912"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "cafe",
+  "bar",
+  "dessert",
+  "time_charge",
+  "alcohol"
+ ],
+ "one_line": {
+  "ko": "'클래식×카오스' 콘셉트 2호점 메이드 카페. 식사·디저트와 메이드 서빙",
+  "en": "Second branch, 'classical x chaos' theme: meals, desserts and maid table service"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699931,
+  "lng": 139.769927
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-1-15 箸勝ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 店舗紹介 페이지 기준으로 4개 지점 모두 12:00-22:00 동일하다.",
+   "en": "Per the official shop page, all four branches keep the same 12:00-22:00 hours."
+  },
+  "source_url": "https://akibazettai.com/shop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "1호점(오바야시 빌딩)에서 같은 길을 동쪽으로 약 50m 간 하시카츠(箸勝) 빌딩 2층. 1층은 주방용품점 하시카츠 본점이고, 매장은 계단으로 2층에 올라간다.",
+  "en": "About 50 m east of the first branch along the same street, on 2F of the Hashikatsu Building. The ground floor is the kitchenware shop Hashikatsu; take the stairs up to 2F."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1인 880엔 / 60분 1드링크 오더제이며, 연장하려면 음료를 추가 주문한다.",
+   "1호점과 도보 1분 거리라 한 지점이 만석이면 다른 쪽으로 옮기기 쉽다.",
+   "결제 수단에 대한 공식 안내가 없으므로 현금을 준비해 가는 편이 안전하다."
+  ],
+  "en": [
+   "880 yen per person for 60 minutes with a one-drink order; extending requires another drink.",
+   "It is a minute's walk from the first branch, so it is easy to switch if one is full.",
+   "No payment methods are stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://akibazettai.com/shop/",
+ "sns": {
+  "x": "https://x.com/akibazettai"
+ },
+ "chain": "akiba-zettai",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibazettai.com/shop/",
+  "https://akibazettai.com/",
+  "https://akibazettai.com/system/",
+  "https://akibazettai.com/staff/"
+ ],
+ "osm_id": "node/6517857691"
+}

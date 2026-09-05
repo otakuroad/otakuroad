@@ -1,0 +1,119 @@
+{
+ "id": "maidreamin-akihabara-denkigaiguchi-ekimae",
+ "name": {
+  "ko": "메이드리밍 아키하바라 전기가출구 역앞점",
+  "en": "Maidreamin Akihabara Electric Town-exit Store",
+  "ja": "めいどりーみん 秋葉原 電気街口駅前店"
+ },
+ "synonyms": [
+  "메이드리밍",
+  "메이드리밍 전기가출구 역앞점",
+  "메이드리밍 아키하바라 역앞점",
+  "Maidreamin Denkigaiguchi Ekimae",
+  "maidreamin Akihabara Electric Town-exit Store",
+  "めいどりーみん秋葉原電気街口駅前店",
+  "秋葉原電気街口駅前店",
+  "電気街口駅前店",
+  "メイドリーミン"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "omurice",
+  "cheki",
+  "no_smoking",
+  "free_wifi",
+  "hyper_event",
+  "near_station"
+ ],
+ "one_line": {
+  "ko": "전기가 출구에서 도보 1분, 45석. 오므라이스·음료와 메이드 체키 촬영",
+  "en": "45-seat branch a minute from the Electric Town exit: omurice, drinks and cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698303,
+  "lng": 139.7715
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-14-1 宝田中央通りビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue"
+    ],
+    "open": "11:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "월·화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점. 폐점은 매일 23:00.",
+   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily."
+  },
+  "source_url": "https://maidreamin.com/shop/detail.html?id=4"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 주오도리에 면한 7층짜리 다카라다 주오도리(宝田中央通り) 빌딩 3층. 같은 빌딩 2층에 메이드리밍 중앙통(中央通り)점이 따로 있으므로 3층까지 올라가야 하며, 옆 블록의 다른 건물 '宝田ビル'(外神田1-14-7)과도 헷갈리기 쉽다.",
+  "en": "One minute from the JR Akihabara Electric Town exit, on 3F of the seven-storey Takarada Chuo-dori Building facing Chuo-dori. A separate Maidreamin (Chuo-dori branch) sits on 2F of the same building, so go up to 3F; do not confuse the building with the nearby Takarada Building at 1-14-7."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1인 1시간 입장료 880엔 + 1주문, 연장 1시간 880엔. HYPER 이벤트 시간대는 1시간 3,800엔 음료 무제한.",
+   "45석으로 이 배치의 역 앞 지점 중에서는 큰 편이지만, 관광 성수기에는 대기가 생긴다. 월·화 11:30, 그 외 10:30 개점.",
+   "전 좌석 금연, 무료 Wi-Fi와 휴대폰 충전 가능. 주요 신용카드와 PayPay·au PAY·라쿠텐페이·은련카드 결제 가능."
+  ],
+  "en": [
+   "880 yen per person per hour plus one order, 880 yen per extension; HYPER slots are 3,800 yen an hour with free drinks.",
+   "At 45 seats it is the larger of the two branches in this building, but queues form in peak tourist season. Opens 11:30 Mon-Tue, 10:30 otherwise.",
+   "No smoking, free Wi-Fi and phone charging. Major credit cards plus PayPay, au PAY, Rakuten Pay and UnionPay are accepted."
+  ]
+ },
+ "official_url": "https://maidreamin.com/shop/detail.html?id=4",
+ "sns": {
+  "x": "https://x.com/ekim_maidreamin",
+  "instagram": "https://www.instagram.com/ekim_maidreamin/"
+ },
+ "chain": "maidreamin",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://maidreamin.com/shop/detail.html?id=4",
+  "https://maidreamin.com/shop/",
+  "https://maidreamin.com/first/charge.html",
+  "https://global.maidreamin.com/"
+ ],
+ "osm_id": null
+}

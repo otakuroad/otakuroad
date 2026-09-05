@@ -1,0 +1,120 @@
+{
+ "id": "hobby-shop-ankou-akihabara",
+ "name": {
+  "ko": "호비숍 안코우 아키하바라점",
+  "en": "HOBBY SHOP ANKOU Akihabara",
+  "ja": "HOBBY SHOPあんこう AKIHABARA店"
+ },
+ "synonyms": [
+  "호비숍 안코우",
+  "안코우",
+  "호비 숍 안코우",
+  "HOBBY SHOP ANKOU",
+  "hobby shop ANKOU",
+  "hobbyshop ANKOU",
+  "ANKOU Akihabara",
+  "Emeraude",
+  "HOBBY SHOPあんこう",
+  "あんこう 秋葉原",
+  "ホビーショップあんこう"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "gunpla",
+  "pokemon_card",
+  "one_piece",
+  "sticker",
+  "used",
+  "buyback",
+  "new_shop"
+ ],
+ "one_line": {
+  "ko": "애니 피규어와 포켓몬·원피스 카드, 건프라를 파는 중고 중심 소형 호비숍",
+  "en": "Small hobby shop for anime figures, Pokemon and One Piece cards and Gunpla, mostly used"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701956,
+  "lng": 139.773032
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-13-2 KKT秋葉原ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 X 계정 프로필 기준 평일 13:00, 토·일·공휴일 12:00 개점. 2026년 초에는 11:00 개점으로 안내된 적이 있고 구글·여행 사이트에는 아직 11:00으로 남아 있으니 방문 전 공식 X를 확인한다.",
+   "en": "Weekday 13:00 and weekend/holiday 12:00 opening come from the shop's own X profile. An 11:00 opening was announced in early 2026 and still shows on Google and travel sites, so check the official X before going."
+  },
+  "source_url": "https://x.com/hobby_anko_akb"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 3분, JR 아키하바라역에서 도보 6분. 주오도리에서 한 블록 동쪽, 1971년에 지어진 5층짜리 KKT 아키하바라 빌딩의 1층 노면 점포다.",
+  "en": "Three minutes from Suehirocho station on the Ginza line and six from JR Akihabara. A street-level unit on the ground floor of the five-storey KKT Akihabara Building, one block east of Chuo-dori."
+ },
+ "tips": {
+  "ko": [
+   "2025년 12월 13일 프리오픈한 작은 신생 매장이라 재고 회전이 빠르고, 입고는 공식 X와 인스타그램에 올라온다.",
+   "고물상 허가를 갖춘 중고 취급점으로 매입도 받는다. 원피스 피규어와 입체 스티커(본본 드롭) 재고가 두껍다.",
+   "면세·카드 결제 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "A small shop that pre-opened on 13 December 2025, so stock turns over fast; new arrivals are posted on its X and Instagram.",
+   "It holds a second-hand dealer licence and buys items in, and carries deep stock of One Piece figures and 3D 'bonbon drop' stickers.",
+   "Tax-free and card acceptance are not stated anywhere official, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://online.emeraude.shop/",
+ "sns": {
+  "x": "https://x.com/hobby_anko_akb",
+  "instagram": "https://www.instagram.com/hobby_anko_akihabara/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://x.com/hobby_anko_akb",
+  "https://online.emeraude.shop/",
+  "https://akiba-asterisk.blog.jp/archives/59636068.html",
+  "https://akiba-asterisk.blog.jp/archives/59618134.html",
+  "https://www.openstreetmap.org/node/13959236918"
+ ],
+ "osm_id": "node/13959236918"
+}

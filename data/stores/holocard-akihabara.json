@@ -1,0 +1,92 @@
+{
+ "id": "holocard-akihabara",
+ "name": {
+  "ko": "호로카드 아키하바라점",
+  "en": "Holocard Akihabara",
+  "ja": "ホロカード秋葉原店"
+ },
+ "synonyms": [
+  "호로카드",
+  "호로카드 아키하바라",
+  "호로라이브 카드샵",
+  "ホロカード",
+  "ホロカード秋葉原店",
+  "holocard",
+  "Holocard Akiba",
+  "hololive card shop",
+  "트레카라이저스 아키하바라점",
+  "トレカライザス秋葉原店",
+  "Toreca Rises Akihabara"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "hololive",
+  "vtuber",
+  "weiss_schwarz",
+  "hololive_ocg",
+  "re_verse",
+  "oripa",
+  "buyback",
+  "character_goods"
+ ],
+ "one_line": {
+  "ko": "호로라이브 전문 트레카 매장. 바이스슈바르츠·호로라이브 OCG 싱글과 오리파, 굿즈",
+  "en": "Hololive-only card shop: Weiss Schwarz and hololive OCG singles, oripa packs and goods"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702163,
+  "lng": 139.769574
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-6-1 丸山ビル6F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 4분, 쇼헤이바시도리(昌平橋通り) 변 丸山ビル 6층. JR 아키하바라역에서는 도보 9분으로 주오도리 상점가에서 한 블록 서쪽으로 벗어나 있다. 1층 신소쿠 매입센터 옆 입구로 들어가 엘리베이터를 탄다.",
+  "en": "Four minutes from Suehirocho Station on the Ginza line, on 6F of the Maruyama Building on Shohei-bashi-dori; about nine minutes from JR Akihabara, one block west of the Chuo-dori shopping strip. Enter beside Shinsoku's ground-floor buyback counter and take the elevator."
+ },
+ "tips": {
+  "ko": [
+   "6층까지는 엘리베이터로 올라간다. 같은 丸山ビル 3층은 메이드카페 크라운티아라, 1층은 신소쿠(シンソク) 매입 카운터다.",
+   "공식 사이트에 영업시간이 공개돼 있지 않으므로 방문 전 공식 X(@holocard_akiba)에서 당일 영업시간과 입하 정보를 확인하는 편이 좋다.",
+   "2023년 8월부터 이 자리에 있던 트레카라이저스 아키하바라점이 2025년 3월 호로카드로 바뀌었다. 오래된 지도·디렉터리에는 아직 옛 이름이 남아 있다."
+  ],
+  "en": [
+   "Take the elevator to 6F; the same Maruyama Building has the maid cafe CrownTiara on 3F and Shinsoku's buyback counter on 1F.",
+   "No opening hours are published on the official site, so check the shop's X account (@holocard_akiba) for the day's hours and new stock before going.",
+   "The unit was Toreca Rises Akihabara from August 2023 until it became Holocard in March 2025; older maps and directories still show the old name."
+  ]
+ },
+ "official_url": "https://holocard.jp/",
+ "sns": {
+  "x": "https://x.com/holocard_akiba"
+ },
+ "chain": "holocard",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://holocard.jp/",
+  "https://torecarises.com/",
+  "https://maps.app.goo.gl/oZyicecptPKQ9xCZ9",
+  "https://vtuber-matomeruyon.blog.jp/archives/28274724.html",
+  "https://note.com/kanzawaryo/n/n6506d80d9103",
+  "https://akibatoreka.com/introduce/2665",
+  "https://map.yahoo.co.jp/v3/place/Y1KG6TUXTbg"
+ ],
+ "osm_id": null
+}

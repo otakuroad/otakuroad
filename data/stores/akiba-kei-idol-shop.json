@@ -1,0 +1,89 @@
+{
+ "id": "akiba-kei-idol-shop",
+ "name": {
+  "ko": "아키바계 아이돌 숍",
+  "en": "Akiba-kei Idol Shop",
+  "ja": "アキバ系アイドルショップ"
+ },
+ "synonyms": [
+  "아키바계 아이돌숍",
+  "아키바계 아이돌샵",
+  "아이돌 숍 아키바",
+  "아키바 아이돌 숍",
+  "가챠가챠 숍 아키하바라",
+  "Akiba-kei Idol Shop",
+  "Akiba System Idol Shop",
+  "Akiba Idol Shop",
+  "アキバ系アイドルショップ",
+  "アキバ系アイドル",
+  "秋葉原M2ビル",
+  "小暮末広ビル"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "idol_goods",
+  "bromide",
+  "gacha",
+  "capsule_toy",
+  "plush",
+  "seiyuu",
+  "poster",
+  "new"
+ ],
+ "one_line": {
+  "ko": "아이돌 생사진·굿즈와 가챠폰 기기가 늘어선 주오도리변 1층 매장",
+  "en": "Ground-floor shop of idol bromides, idol goods and rows of gachapon machines"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701784,
+  "lng": 139.771377
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-6 秋葉原M2ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 도보 1분, 주오도리 서쪽 면의 1층 매장이라 길에서 바로 들어간다. 오래된 안내에는 '고구레스에히로 빌딩'으로 적혀 있지만 현재 표기는 아키하바라 M2 빌딩이며, 같은 건물 위층에 오타츄 2호점(트레카관)이 있다.",
+  "en": "One minute from exit 3 of Ginza-line Suehirocho, a ground-floor unit on the west side of Chuo-dori that you walk straight into. Older listings call the building Kogure Suehiro Building; it is now signed as Akihabara M2 Building, with Otachu No.2 (trading cards) on an upper floor."
+ },
+ "tips": {
+  "ko": [
+   "가게 이름과 달리 지금은 가챠폰(캡슐토이) 기기가 매장을 가득 채우고 있고, 아이돌 생사진과 굿즈는 벽면 코너에 모여 있다.",
+   "공식 홈페이지가 없고 X(@akibakeiidol)에만 입하 정보를 올린다. 문의는 받지 않는다고 안내되어 있다.",
+   "일본 지역 정보 사이트에는 평일 11:00-21:00, 토·일·공휴일 10:00-21:00으로 실려 있지만 공식 확인은 되지 않으므로 시간을 넉넉히 잡는 편이 좋다."
+  ],
+  "en": [
+   "Despite the name, gachapon (capsule toy) machines now fill most of the floor; the idol bromides and goods are gathered in the wall corners.",
+   "There is no official website - stock updates go only to X (@akibakeiidol), which states that enquiries are not accepted.",
+   "Japanese directories list 11:00-21:00 on weekdays and 10:00-21:00 on weekends and holidays, but this is not confirmed by the shop itself, so allow some slack."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/akibakeiidol"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.akiba-scope.net/shop/872.html",
+  "https://asobit-project.com/gachagacha/idolshop-gacha/",
+  "http://akibamap.info/archives/51333984.html"
+ ],
+ "osm_id": "node/5051279065"
+}

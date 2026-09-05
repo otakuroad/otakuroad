@@ -1,0 +1,108 @@
+{
+ "id": "gigo-collab-cafe-akihabara-3",
+ "name": {
+  "ko": "GiGO 콜라보 카페 아키하바라 3호관",
+  "en": "GiGO Collab Cafe Akihabara Building 3",
+  "ja": "GiGOコラボカフェ秋葉原3号館"
+ },
+ "synonyms": [
+  "기고 콜라보 카페 3호관",
+  "GiGO 콜라보카페 아키하바라 3호관",
+  "GiGO 콜라보 카페",
+  "콜라보 카페 아키하바라",
+  "GiGO Collab Cafe Akihabara 3",
+  "GiGO Collabo Cafe Akihabara",
+  "GIGOコラボカフェ",
+  "GiGOコラボカフェ秋葉原3号館",
+  "ギーゴコラボカフェ秋葉原3号館"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "collab_cafe",
+  "anime_collab",
+  "game_collab",
+  "limited_goods",
+  "coaster"
+ ],
+ "one_line": {
+  "ko": "애니·게임 콜라보 카페. 드링크 주문 시 코스터 특전과 한정 굿즈 판매",
+  "en": "Rotating anime and game collaboration cafe with drink-bonus coasters and limited goods"
+ },
+ "building_id": null,
+ "floors": [
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699268,
+  "lng": 139.770935
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-11-11 外神田1丁目ビルディング6F・7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "20:10"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라스트오더 19:40. 콜라보 교체 기간에는 임시 휴업하는 날이 있으므로 공식 X(@GiGOcafe_aki3)에서 확인.",
+   "en": "Last order 19:40. The cafe closes on some days between collaborations, so check the official X account @GiGOcafe_aki3."
+  },
+  "source_url": "https://www.gigo.co.jp/shops/cafe-akihabara3"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에 면한 GiGO 아키하바라 3호관 건물 엘리베이터로 6·7층. 공식 매장 주소는 6-7F이고, 3호관 층 안내에는 7층 테넌트로 적혀 있다. 6층은 RETRO:G 레트로 기판 층과 붙어 있다.",
+  "en": "Take the elevator inside the GiGO Akihabara Building 3 on Chuo-dori up to 6F-7F. The cafe's own address says 6-7F while the arcade's floor guide lists it as a 7F tenant; 6F adjoins the RETRO:G retro cabinet floor."
+ },
+ "tips": {
+  "ko": [
+   "콜라보 작품은 몇 달 단위로 바뀐다. 2026년 9월 기준 '러브라이브! 시리즈 오피셜 카드게임 2026'(2026-07-11~11-08).",
+   "같은 층에 별도 매장인 GiGO 콜라보 카페 스탠드가 있어 착석 없이 음료와 특전만 받을 수도 있다.",
+   "메이드 카페가 아니라 작품 콜라보 카페다. 착석·주문 방식과 특전 배포 조건은 콜라보마다 다르다."
+  ],
+  "en": [
+   "The tie-up changes every few months; as of September 2026 it is the Love Live! Series Official Card Game 2026 collab (11 Jul - 8 Nov 2026).",
+   "A separate GiGO Collab Cafe Stand on the same floor sells the drinks and bonuses without a table.",
+   "This is a title tie-up cafe, not a maid cafe; seating rules and how bonuses are handed out change with each collaboration."
+  ]
+ },
+ "official_url": "https://www.gigo.co.jp/shops/cafe-akihabara3",
+ "sns": {
+  "x": "https://x.com/GiGOcafe_aki3"
+ },
+ "chain": "gigo",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gigo.co.jp/shops/cafe-akihabara3",
+  "https://www.gigo.co.jp/shops/cafestand-akihabara3",
+  "https://www.gigo.co.jp/shops/akihabara3",
+  "https://contents.gendagigo.jp/retrog"
+ ],
+ "osm_id": "node/6019003687"
+}

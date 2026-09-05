@@ -1,0 +1,120 @@
+{
+ "id": "tcg-gate-akihabara-honten",
+ "name": {
+  "ko": "TCG GATE 아키하바라 본점",
+  "en": "TCG GATE Akihabara Main Store",
+  "ja": "TCG GATE（トレカゲート）秋葉原本店"
+ },
+ "synonyms": [
+  "TCG 게이트",
+  "TCG게이트",
+  "트레카게이트",
+  "트레카 게이트",
+  "TCG GATE 아키하바라",
+  "TCG GATE",
+  "TCG GATE Akihabara",
+  "Toreca Gate",
+  "tcggate",
+  "トレカゲート",
+  "TCG GATE 秋葉原店",
+  "トレカゲート秋葉原本店",
+  "虎ビルのTCG GATE"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "tcg_singles",
+  "psa",
+  "graded_card",
+  "promo_card",
+  "vintage_card",
+  "sealed_box",
+  "buyback",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드 전문점. PSA 감정 카드·구판·프로모·미개봉 박스 판매와 매입",
+  "en": "Pokemon card specialist: PSA-graded, old-back, promo cards and sealed boxes"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.7026,
+  "lng": 139.772014
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-7-3 虎ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무(不定休)",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "매일 12:00-20:00이며 매입 접수는 19:00까지다. 공식 사이트에 정기휴일 표기는 없고 카드숍 디렉터리는 부정기 휴무로 적는다.",
+   "en": "12:00-20:00 every day, with buyback taken until 19:00. The official site lists no fixed closing day; card-shop directories record it as irregular."
+  },
+  "source_url": "https://www.tcg-gate.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "공식 안내로 도쿄메트로 긴자선 스에히로초역에서 도보 약 1분, JR 아키하바라역 전기가 출구에서는 도보 약 5분. 주오도리변 도라(虎) 빌딩 2층이며, 1층 노면에는 쿠지 전문점 마하 스에히로초점이 들어와 있다.",
+  "en": "The official site gives about one minute from Suehirocho station (Tokyo Metro Ginza line) and about five minutes from JR Akihabara's Electric Town Exit. It is 2F of the Tora Building on Chuo-dori; the kuji shop Mach Suehirocho occupies the ground floor."
+ },
+ "tips": {
+  "ko": [
+   "포켓몬 카드에 특화된 매장으로 PSA10 감정 카드, 구판(旧裏) 카드, 프로모, 미개봉 BOX 등 고액대 상품 비중이 높다.",
+   "매입 접수는 19:00까지로 영업 종료보다 1시간 빠르다. 매입은 점두 접수만 받는다.",
+   "듀얼 스페이스(플레이 공간)는 없다. 대회나 자유 대전이 목적이면 다른 매장을 찾아야 한다.",
+   "정기휴일이 부정기이므로 공식 X(@tcg__gate)에서 휴무 공지를 확인하고 가는 편이 안전하다."
+  ],
+  "en": [
+   "A Pokemon-card specialist, weighted toward high-value stock: PSA 10 slabs, old-back cards, promos and sealed boxes.",
+   "Buyback closes at 19:00, an hour before the shop, and is taken in store only.",
+   "There is no duel space, so go elsewhere if you want to play or enter tournaments.",
+   "Closing days are irregular; check the shop's X account (@tcg__gate) before making the trip."
+  ]
+ },
+ "official_url": "https://www.tcg-gate.com/",
+ "sns": {
+  "x": "https://x.com/tcg__gate",
+  "instagram": "https://www.instagram.com/tcg_gate/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.tcg-gate.com/",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2626"
+ ],
+ "osm_id": null
+}

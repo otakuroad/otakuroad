@@ -1,0 +1,87 @@
+{
+ "id": "trading-card-shop-yk-akihabara",
+ "name": {
+  "ko": "트레카숍 YK 아키하바라점",
+  "en": "Trading Card Shop YK Akihabara",
+  "ja": "トレカショップYK 秋葉原店"
+ },
+ "synonyms": [
+  "트레카숍 YK",
+  "트레카샵 YK",
+  "YK 아키하바라",
+  "와이케이",
+  "トレカショップYK",
+  "トレカショップワイケー",
+  "トレカショップYK秋葉原店",
+  "Toreca Shop YK",
+  "Trading Card Shop YK",
+  "akiba_yk"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "old_back_pokemon",
+  "collection_card",
+  "singles",
+  "oripa",
+  "sealed",
+  "buyback",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드 컬렉션 중심 1층 매장. 구판 카드와 오리파 판매, 카드 매입",
+  "en": "Ground-floor Pokemon card shop for collectors: old-back cards, oripa and buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700583,
+  "lng": 139.769406
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-3 第2ナガシマビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에서 서쪽으로 두 블록 들어간 쇼헤이바시도리(昌平橋通り) 변, 소토칸다 3-2의 第2ナガシマビル 1층 도로변 매장. JR 아키하바라역 전기가 출구에서 도보 7분, 긴자선 스에히로초역에서 도보 5분 거리다.",
+  "en": "A street-level shop on 1F of the Dai-2 Nagashima Building on Shoheibashi-dori, two blocks west of Chuo-dori in Sotokanda 3-2. About seven minutes from the JR Electric Town Exit and five from Suehirocho."
+ },
+ "tips": {
+  "ko": [
+   "포켓몬 카드 중에서도 컬렉션용(구 뒷면 포함) 위주라 플레이용 덱 파츠를 찾는 매장은 아니다.",
+   "공식 홈페이지가 없다. 秋葉原トレカマップ 기준 영업시간은 평일 13:00-20:00, 토·일·공휴일 12:00-20:00, 수요일 정기휴무, 매입 접수 14:00-19:00이며 방문 전 X(@akiba_yk) 확인 권장.",
+   "2023년 11월 3일 개점한 작은 매장으로 대전 공간은 없다."
+  ],
+  "en": [
+   "Stock is collector-grade Pokemon cards including old-back (kyuurimen) cards, not deck parts for play.",
+   "There is no official website. The Akihabara Toreka Map directory lists 13:00-20:00 on weekdays, 12:00-20:00 on weekends and holidays, closed Wednesdays, buyback 14:00-19:00 - check X (@akiba_yk) before going.",
+   "It opened on 2023-11-03 and is a small shop with no duel space."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/akiba_yk"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibatoreka.com/introduce/2733",
+  "https://x.com/akiba_yk"
+ ],
+ "osm_id": null
+}

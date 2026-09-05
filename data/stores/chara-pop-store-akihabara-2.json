@@ -1,0 +1,113 @@
+{
+ "id": "chara-pop-store-akihabara-2",
+ "name": {
+  "ko": "캐라팝 스토어 2호점",
+  "en": "CharaPop Store No.2",
+  "ja": "キャラポップストア 2号店"
+ },
+ "synonyms": [
+  "캐라팝 스토어",
+  "캐라팝스토어",
+  "캬라팝 스토어",
+  "캐릭터팝 스토어",
+  "캐라팝 아키하바라 2호점",
+  "아트레 아키하바라 캐라팝",
+  "CharaPop Store",
+  "CharaPop Store Akihabara No.2",
+  "Chara Pop Store 2",
+  "charapop",
+  "キャラポップストア",
+  "キャラポップストア秋葉原2号店",
+  "キャラポップ",
+  "アトレ秋葉原 キャラポップストア"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "character_goods",
+  "collaboration",
+  "limited_goods",
+  "popup",
+  "anime",
+  "game",
+  "jre_point"
+ ],
+ "one_line": {
+  "ko": "애니·게임 타이틀 한정 콜라보 굿즈를 파는 2층 팝업 매장",
+  "en": "2F pop-up shop selling limited collaboration goods for one anime or game title at a time"
+ },
+ "building_id": "atre-akihabara-1",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-17-6 アトレ秋葉原1 2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "아트레 아키하바라1 전체 영업시간(10:00-21:00)과 같다. 아트레 공식 안내에 '일부 점포는 영업시간이 다르다'고 적혀 있으므로 점포 페이지를 확인하는 편이 안전하다.",
+   "en": "Same 10:00-21:00 as atre Akihabara 1 overall. atre states that some shops keep different hours, so check the shop page before a special trip."
+  },
+  "source_url": "https://www.atre.co.jp/akihabara/shop/5656/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 개찰구에 붙어 있는 역 빌딩 아트레 아키하바라1의 2층. 2층은 '컬처 & 굿즈' 층으로 반다이남코 Cross Store, 아이돌마스터 오피셜숍, 산세이도 서점과 같은 층이다. 3층에 이름이 같은 1호점이 따로 있으므로 층으로 구분한다.",
+  "en": "On 2F of atre Akihabara 1, the JR station building at the Electric Town ticket gates. 2F is the 'culture & goods' floor, shared with BANDAI NAMCO Cross Store, the iDOLM@STER official shop and Books Sanseido. An identically named No.1 store sits on 3F, so go by the floor."
+ },
+ "tips": {
+  "ko": [
+   "3층에 같은 브랜드의 1호점이 있고 두 매장이 서로 다른 작품을 동시에 전개한다. 이름이 같으니 2F/3F로 구분한다.",
+   "전개 작품이 교체되는 콜라보 매장이므로, 특정 작품 굿즈가 목적이라면 방문 전 아트레 공식 점포 페이지에서 현재 작품을 확인한다.",
+   "역 빌딩 안이라 10:00에 열어 주변 아키하바라 전문점(대개 11:00-12:00)보다 이르다. 아침 일정에 넣기 좋다.",
+   "JRE POINT 적립 대상 점포. 면세·카드 결제는 공식 안내가 없으므로 카운터에서 확인."
+  ],
+  "en": [
+   "The same brand's No.1 store is on 3F and the two units run different titles at the same time; the floor (2F vs 3F) is what tells them apart.",
+   "The title on show rotates, so check the current collaboration on atre's shop page before coming for a specific series.",
+   "Inside the station building it opens at 10:00, earlier than most Akihabara specialty shops (usually 11:00-12:00) — good for a morning stop.",
+   "A JRE POINT store. Tax-free and card acceptance are not stated officially, so ask at the counter."
+  ]
+ },
+ "official_url": "https://www.atre.co.jp/akihabara/shop/5656/",
+ "sns": {},
+ "chain": "charapop",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.atre.co.jp/akihabara/shop/5656/",
+  "https://www.atre.co.jp/akihabara/floorguide/27/113/",
+  "https://www.atre.co.jp/akihabara/floorguide/27/114/",
+  "https://www.atre.co.jp/akihabara/shop/5686/",
+  "https://www.atre.co.jp/akihabara/access/",
+  "https://bandainamco-am.co.jp/chara_shop/"
+ ],
+ "osm_id": null
+}

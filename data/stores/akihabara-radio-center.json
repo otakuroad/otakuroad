@@ -1,0 +1,95 @@
+{
+ "id": "akihabara-radio-center",
+ "name": {
+  "ko": "아키하바라 라디오 센터",
+  "en": "Akihabara Radio Center",
+  "ja": "秋葉原ラジオセンター"
+ },
+ "synonyms": [
+  "라디오 센터",
+  "라디오센터",
+  "아키하바라 라디오센터",
+  "Radio Center",
+  "Akihabara Radio Center",
+  "秋葉原ラジオセンター",
+  "ラジオセンター"
+ ],
+ "category": "electronics",
+ "tags": [
+  "electronic_parts",
+  "vacuum_tube",
+  "amateur_radio",
+  "diy",
+  "showa_retro",
+  "landmark"
+ ],
+ "one_line": {
+  "ko": "고가 아래 1~2층에 전자부품·무선기기 매대가 모인 부품 상가",
+  "en": "Parts market under the JR viaduct: electronic components and ham radio counters on 1F-2F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "볼륨·콘덴서·스위치(三栄電波, 東邦無線), 변압기·전원(春日無線変圧器, 東栄変成器), 전선·배선기구(山長通商), 공구(つかさ無線), 아마추어 무선기(山本無線). 카드게임을 파는 작은 매대 カベの店도 이 층",
+   "en": "Volumes, capacitors and switches (San-ei Denpa, Toho Musen), transformers and power supplies (Kasuga Musen Henatsuki, Toei Henseiki), wire and wiring parts (Yamacho Tsusho), tools (Tsukasa Musen) and amateur radio (Yamamoto Musen). The small card-game stall Kabe no Mise is on this floor too"
+  },
+  {
+   "floor": "2F",
+   "ko": "일본제 라디오용·오디오용 진공관과 바리콘(池之谷ラジオ), 아마추어 무선·소전력 트랜시버(山本無線CQ-1), 레트로 가전 위탁판매 렌털 쇼케이스(山本無線E-BOX店)",
+   "en": "Japanese radio and audio vacuum tubes and variable capacitors (Ikenoya Radio), amateur radio and low-power transceivers (Yamamoto Musen CQ-1) and a rental showcase of consigned retro electronics (Yamamoto Musen E-BOX)"
+  }
+ ],
+ "location": {
+  "lat": 35.698485,
+  "lng": 139.771662
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-14-2 秋葉原ラジオセンター",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구를 나오면 바로 앞, 소부선 고가에 붙어 있는 낮은 상가 구역이다. 공식 안내도 '역을 나오면 바로 있는 라디오센터'라고 적는다. 관리사무소는 3층에 있다.",
+  "en": "Right in front of you as you leave the JR Akihabara Electric Town exit, the low arcade built against the Sobu line viaduct; the official site calls it 'the Radio Center right as you leave the station'. The management office is on 3F."
+ },
+ "tips": {
+  "ko": [
+   "매대 대부분이 10:00~18:30 영업이고 12/30~1/3 전후에 문을 닫는 곳이 많다. 건물 전체의 공통 영업시간 안내는 없다.",
+   "전자부품·무선기기 전문이라 애니·게임 상품은 없지만, 1층에 카드게임을 파는 작은 매대(カベの店)가 하나 있다.",
+   "이름이 비슷한 東京ラジオデパート(외신다 1-10-11)와 라디오회관(외신다 1-15-16)과 헷갈리기 쉽다. 세 곳은 서로 다른 건물이다."
+  ],
+  "en": [
+   "Most counters run 10:00-18:30 and many close around 30 December to 3 January; there is no single building-wide opening time.",
+   "It is a parts and radio market with no anime or game retail, though one small stall on 1F (Kabe no Mise) sells trading card games.",
+   "Do not confuse it with Tokyo Radio Department Store (Sotokanda 1-10-11) or Radio Kaikan (Sotokanda 1-15-16); all three are separate buildings."
+  ]
+ },
+ "official_url": "http://www.radiocenter.jp/",
+ "sns": {},
+ "chain": null,
+ "priority": 2,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "http://www.radiocenter.jp/",
+  "http://www.radiocenter.jp/map/",
+  "http://www.radiocenter.jp/shop/sh00.html",
+  "http://www.radiocenter.jp/shop/sh53.htm",
+  "http://www.radiocenter.jp/shop/sh48.htm",
+  "http://www.radiocenter.jp/shop/sh59.htm"
+ ],
+ "osm_id": "way/90839642"
+}

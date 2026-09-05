@@ -1,0 +1,91 @@
+{
+ "id": "card-land-akihabara",
+ "name": {
+  "ko": "카드랜드 아키하바라점",
+  "en": "Card Land Akihabara",
+  "ja": "カードランド秋葉原店"
+ },
+ "synonyms": [
+  "카드랜드",
+  "카드란도",
+  "Cardland Akihabara",
+  "Card Land",
+  "cardland",
+  "カードランド",
+  "カードランド秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "singles",
+  "digimon_card",
+  "battle_spirits",
+  "shadowverse_evolve",
+  "vanguard",
+  "yugioh",
+  "gundam_card_game",
+  "gundam_war",
+  "retro_tcg",
+  "duel_space",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "디지몬·배틀스피리츠 싱글과 건담워 등 서비스 종료 TCG를 파는 카드 전문점",
+  "en": "Singles for Digimon, Battle Spirits and Vanguard, plus discontinued retro TCGs"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699562,
+  "lng": 139.769312
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-6-1 外神田ビル3F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 약 6분, 간다묘진시타(神田明神下) 교차로 옆 6층짜리 '外神田ビル' 3층. 같은 건물 2층은 철도모형점 레일마이스터다.",
+  "en": "About six minutes west of the JR Akihabara Electric Town Exit, on 3F of the six-storey Sotokanda Building beside the Kanda-Myojinshita crossing; the model-train shop Rail Meister is on 2F."
+ },
+ "tips": {
+  "ko": [
+   "매장 결제는 현금과 PayPay만 받는다. 신용카드·계좌이체는 공식 온라인 주문 전용이다.",
+   "듀얼 스페이스 18석이 있고 300엔 이상 구매하면 이용할 수 있다.",
+   "서비스가 끝난 건담워·구 디지몬카드·크루세이드 같은 레트로 TCG를 다루는 드문 가게다.",
+   "공식 사이트에 영업시간 안내가 없다. 일본 카드숍 디렉터리는 화요일 정기휴무에 평일·토 12:00-20:00, 일요일 12:00-18:00으로 안내하므로 방문 전 X(@cardland_akiba)를 확인하는 편이 좋다."
+  ],
+  "en": [
+   "At the counter only cash and PayPay are accepted; credit cards and bank transfer apply to the official online shop.",
+   "There is an 18-seat duel space, free to use with a purchase of 300 yen or more.",
+   "It is one of the few shops still handling retired TCGs such as Gundam War, the old Digimon card game and Crusade.",
+   "No official opening hours are published; Japanese card-shop directories list Tue closed, 12:00-20:00 weekdays and Saturday, 12:00-18:00 Sunday, so check X (@cardland_akiba) first."
+  ]
+ },
+ "official_url": "https://www.cardland-kamata.com/",
+ "sns": {
+  "x": "https://x.com/cardland_akiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.cardland-kamata.com/info",
+  "https://www.cardland-kamata.com/",
+  "https://tcg.build-divide.com/official/store_search/57",
+  "https://digimoncard.com/products/shop/shoplist.php?pref=8&municipal=%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
+  "https://akibatoreka.com/introduce/1086"
+ ],
+ "osm_id": "way/91529477"
+}

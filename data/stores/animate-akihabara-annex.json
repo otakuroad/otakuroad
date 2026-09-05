@@ -1,0 +1,167 @@
+{
+ "id": "animate-akihabara-annex",
+ "name": {
+  "ko": "애니메이트 아키하바라 ANNEX",
+  "en": "animate Akihabara ANNEX",
+  "ja": "アニメイト秋葉原ANNEX"
+ },
+ "synonyms": [
+  "애니메이트 아키하바라 아넥스",
+  "애니메이트 ANNEX",
+  "애니메이트 아키하바라 별관",
+  "애니메이트 3호관",
+  "아니메이토 아키하바라 아넥스",
+  "animate Akihabara Annex",
+  "Animate Akiba ANNEX",
+  "アニメイト秋葉原 ANNEX",
+  "アニメイト秋葉原アネックス",
+  "POP @P CAPSULE -AKIHABARA-"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "new",
+  "gacha",
+  "capsule_toy",
+  "goods",
+  "game_goods",
+  "only_shop",
+  "event_space",
+  "collab_cafe",
+  "tax_free",
+  "vtuber"
+ ],
+ "one_line": {
+  "ko": "B1F·1F 캡슐토이 전용 층, 2·3F 게임 작품 굿즈, 4~7F 오피셜 숍·기간 한정 행사",
+  "en": "Capsule-toy floors on B1F-1F, game-title goods on 2F-3F, pop-up official shops on 4F-7F"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "캡슐토이 특화 층 'POP @P CAPSULE -AKIHABARA-'",
+   "en": "Capsule-toy floor, POP @P CAPSULE -AKIHABARA-"
+  },
+  {
+   "floor": "1F",
+   "ko": "캡슐토이 특화 층. UDX 쪽 입구는 애니메이트 카페 그라테+ 아키하바라 ANNEX",
+   "en": "Capsule-toy floor; the UDX-side entrance is animate Cafe Gratte+ Akihabara ANNEX"
+  },
+  {
+   "floor": "2F",
+   "ko": "게임 작품 중심 캐릭터 굿즈",
+   "en": "Character goods, mainly game titles"
+  },
+  {
+   "floor": "3F",
+   "ko": "게임 작품 중심 캐릭터 굿즈",
+   "en": "Character goods, mainly game titles"
+  },
+  {
+   "floor": "4F",
+   "ko": "오피셜 숍·기간 한정 행사",
+   "en": "Official shops and limited-run events"
+  },
+  {
+   "floor": "5F",
+   "ko": "오피셜 숍·기간 한정 행사",
+   "en": "Official shops and limited-run events"
+  },
+  {
+   "floor": "6F",
+   "ko": "오피셜 숍·기간 한정 행사",
+   "en": "Official shops and limited-run events"
+  },
+  {
+   "floor": "7F",
+   "ko": "오피셜 숍·기간 한정 행사",
+   "en": "Official shops and limited-run events"
+  }
+ ],
+ "location": {
+  "lat": 35.700502,
+  "lng": 139.771723
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-3-1 アニメイト秋葉原ANNEX",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "1호관·2호관은 전 요일 10:00~21:00이지만 ANNEX만 토·일·공휴일 20:00 마감. 1F UDX 쪽 애니메이트 카페 그라테+는 평일 12:00~20:00(L.O. 19:30), 토·일·공휴일 11:00~19:00(L.O. 18:30). 전화 접수 10:00~20:00.",
+   "en": "Buildings 1 and 2 run 10:00-21:00 every day, but the ANNEX closes at 20:00 on weekends and holidays. The Gratte+ cafe on the UDX side of 1F runs 12:00-20:00 on weekdays (LO 19:30) and 11:00-19:00 on weekends and holidays (LO 18:30). Phone desk 10:00-20:00."
+  },
+  "source_url": "https://www.animate.co.jp/shop/akihabara/"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽에 파란 animate 간판 건물 세 채가 남쪽부터 2호관(서적)·1호관·ANNEX 순으로 늘어서 있고, ANNEX가 가장 북쪽(돈키호테 쪽)이다. JR 전기가 출구에서 도보 5~6분. 카페 그라테+를 이용하려면 건물 뒤 UDX 쪽 입구로 들어가야 한다.",
+  "en": "Three blue 'animate' buildings stand in a row on the east side of Chuo-dori: from the south, Building 2 (books), Building 1, then the ANNEX, which is the northernmost, towards Don Quijote. Five to six minutes from the JR Electric Town exit. For the Gratte+ cafe use the UDX-side entrance at the back."
+ },
+ "tips": {
+  "ko": [
+   "2026년 8월 8일 리뉴얼 오픈으로 B1F·1F가 캡슐토이 전용 층 'POP @P CAPSULE -AKIHABARA-'가 되고 2·3F에 게임 작품 굿즈가 들어왔다.",
+   "4~7F는 오피셜 숍과 기간 한정 행사로 내용이 수시로 바뀐다. 방문 전 공식 X(@animateakiba) 확인 권장.",
+   "면세 대응. 신용카드·교통계 IC·PayPay·Alipay·WeChat Pay 등 대부분의 결제 수단을 쓸 수 있다.",
+   "만화·라노베는 이 건물이 아니라 남쪽 2호관, 작품별 굿즈 본진은 가운데 1호관이다."
+  ],
+  "en": [
+   "After the 8 August 2026 refit, B1F and 1F became the capsule-toy floor 'POP @P CAPSULE -AKIHABARA-' and game-title character goods moved onto 2F-3F.",
+   "Floors 4-7 hold official shops and limited-run events whose line-up changes constantly; check the shop's X account (@animateakiba) before going.",
+   "Tax-free is available, and credit cards, transit IC cards, PayPay, Alipay and WeChat Pay are all accepted.",
+   "Manga and light novels are in Building 2 to the south; the main title-by-title goods floors are in Building 1 in the middle."
+  ]
+ },
+ "official_url": "https://www.animate.co.jp/shop/akihabara/",
+ "sns": {
+  "x": "https://x.com/animateakiba"
+ },
+ "chain": "animate",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.animate.co.jp/shop/akihabara/",
+  "https://www.animate.co.jp/shop/akihabara/floor/"
+ ],
+ "osm_id": "node/1996594184"
+}

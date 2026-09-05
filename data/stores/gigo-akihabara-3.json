@@ -1,0 +1,165 @@
+{
+ "id": "gigo-akihabara-3",
+ "name": {
+  "ko": "GiGO 아키하바라 3호관",
+  "en": "GiGO Akihabara Building 3",
+  "ja": "GiGO秋葉原3号館"
+ },
+ "synonyms": [
+  "기고 아키하바라 3호관",
+  "GiGO 3호관",
+  "기고 3호관",
+  "세가 아키하바라 3호관",
+  "GiGO Akihabara 3",
+  "GiGO Akiba 3",
+  "GIGO3号館",
+  "ギーゴ秋葉原3号館",
+  "セガ秋葉原3号館",
+  "gigo akihabara3"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "music_game",
+  "rhythm_game",
+  "maimai",
+  "chunithm",
+  "beatmania_iidx",
+  "sound_voltex",
+  "taiko",
+  "ddr",
+  "retro_arcade",
+  "gun_game",
+  "print_club",
+  "card_game",
+  "gacha"
+ ],
+ "one_line": {
+  "ko": "크레인 게임·리듬게임·레트로 기판을 층별로 갖춘 주오도리의 대형 오락실",
+  "en": "Six-floor arcade on Chuo-dori: crane games, rhythm games, a RETRO:G retro floor"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "크레인 게임(프라이즈)",
+   "en": "Crane and prize machines"
+  },
+  {
+   "floor": "2F",
+   "ko": "크레인 게임(프라이즈)",
+   "en": "Crane and prize machines"
+  },
+  {
+   "floor": "3F",
+   "ko": "크레인 게임과 콜라보 캠페인 경품",
+   "en": "Crane games and collaboration campaign prizes"
+  },
+  {
+   "floor": "4F",
+   "ko": "태고의 달인 등 음악 게임",
+   "en": "Taiko no Tatsujin and other music games"
+  },
+  {
+   "floor": "5F",
+   "ko": "리듬게임 중심 층: maimai DX·CHUNITHM·beatmania IIDX·SOUND VOLTEX·GITADORA·jubeat·DDR WORLD",
+   "en": "The main rhythm-game floor: maimai DX, CHUNITHM, beatmania IIDX, SOUND VOLTEX, GITADORA, jubeat, DDR WORLD"
+  },
+  {
+   "floor": "6F",
+   "ko": "RETRO:G 레트로 아케이드 기판과 건슈팅·다트",
+   "en": "RETRO:G retro arcade cabinets plus gun games and darts"
+  }
+ ],
+ "location": {
+  "lat": 35.699257,
+  "lng": 139.770979
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-11-11 外神田1丁目ビルディング1F〜6F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "같은 건물 7층 GiGO 콜라보 카페는 10:30-20:10(라스트오더 19:40)로 오락실과 영업시간이 다르다.",
+   "en": "The GiGO collab cafe on 7F of the same building runs 10:30-20:10 with last order at 19:40, unlike the arcade floors."
+  },
+  "source_url": "https://www.gigo.co.jp/shops/akihabara3"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 3분. 오락실 HEY 바로 북쪽, 주오도리 서쪽 편에 있는 파란 GiGO 간판 건물(외신다 1초메 빌딩)이다. 뒷골목 한 블록 안쪽이 슈퍼포테이토·멜론북스.",
+  "en": "Three minutes north of the JR Akihabara Electric Town Exit along Chuo-dori. It is the blue GiGO-signed building (Sotokanda 1-chome Building) on the west side of Chuo-dori, immediately north of the Hey arcade; Super Potato and Melonbooks are one block behind it."
+ },
+ "tips": {
+  "ko": [
+   "층 구성은 1~3층 크레인 게임, 4~5층 음악·리듬 게임, 6층 RETRO:G 레트로 기판, 7층 콜라보 카페. 배치는 종종 바뀌므로 엘리베이터 옆 층 안내를 확인하는 편이 좋다.",
+   "6층 RETRO:G는 옛 아케이드 기판을 모아둔 코너로, 아키하바라와 오사카 두 곳에만 있다.",
+   "아키하바라 GiGO 중 음악 게임이 있는 곳은 여기뿐이다. 영걸대전·함대컬렉션 아케이드 같은 대형 카드게임은 5호관에 있다.",
+   "교통계 IC·PayPay·Alipay·WeChat Pay·d払い 등 전자결제와 외화 환전기를 쓸 수 있다. 신용카드 직접 결제는 공식 안내에 없으므로 현금이나 IC 카드를 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "Layout runs 1F-3F crane games, 4F-5F music and rhythm games, 6F the RETRO:G retro cabinets and 7F the collab cafe. Floors get reshuffled, so check the board by the elevator.",
+   "RETRO:G on 6F is a corner of vintage arcade cabinets; only Akihabara and Osaka have one.",
+   "This is the only GiGO in Akihabara with music games. The big arcade card games (Eiketsu Taisen, KanColle Arcade) are at Building 5 instead.",
+   "Transit IC cards, PayPay, Alipay, WeChat Pay and d-barai are accepted and there is a currency exchange machine. Direct credit-card payment is not stated officially, so bring cash or an IC card."
+  ]
+ },
+ "official_url": "https://www.gigo.co.jp/shops/akihabara3",
+ "sns": {
+  "x": "https://x.com/GiGO_Akiba_3"
+ },
+ "chain": "gigo",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gigo.co.jp/shops/akihabara3",
+  "https://www.gigo.co.jp/shops/akihabara3/games",
+  "https://www.gigo.co.jp/shops/cafe-akihabara3",
+  "https://www.gigo.co.jp/shops/cafestand-akihabara3",
+  "https://contents.gendagigo.jp/retrog",
+  "https://www.gigo.co.jp/games/maimai?area=13",
+  "https://www.ddr-navi.jp/shop/?id=17042312441300",
+  "https://2dera.net/iidx_map/index.php?s=2505",
+  "https://gmc-m.jimdofree.com/store/t-chiyoda/gigo%E7%A7%8B%E8%91%89%E5%8E%9F3%E5%8F%B7%E9%A4%A8/",
+  "https://prize-lab.com/game-center/akiba/",
+  "https://akibatoreka.com/introduce/1707"
+ ],
+ "osm_id": "way/89181581"
+}

@@ -1,0 +1,193 @@
+{
+ "id": "volks-akihabara-hobby-tengoku-2",
+ "name": {
+  "ko": "볼크스 아키하바라 호비천국2",
+  "en": "Volks Akihabara Hobby Tengoku 2",
+  "ja": "ボークス秋葉原ホビー天国2"
+ },
+ "synonyms": [
+  "볼크스",
+  "보크스",
+  "볼크스 호비천국",
+  "호비천국2",
+  "호비 천국 2",
+  "호비텐고쿠2",
+  "호비텐2",
+  "볼크스 아키하바라",
+  "Volks",
+  "VOLKS",
+  "Volks Hobby Tengoku 2",
+  "Hobby Tengoku 2",
+  "Hobby Heaven 2",
+  "Volks Akihabara Hobby Heaven 2",
+  "ボークス",
+  "ホビー天国2",
+  "秋葉原ホビー天国2",
+  "ホビ天2",
+  "HT2"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gunpla",
+  "plamo",
+  "paint_tools",
+  "vallejo",
+  "figure",
+  "tcg",
+  "ichiban_kuji",
+  "used",
+  "new",
+  "rental_case",
+  "event_space",
+  "photo_space",
+  "miniature",
+  "garage_kit",
+  "tax_free"
+ ],
+ "one_line": {
+  "ko": "건프라·도료·공구부터 PVC 피규어·트레카까지 7층 호비 빌딩, 6·7F는 애니 팝업 이벤트홀",
+  "en": "Seven floors: Gunpla, paints and tools, PVC figures, TCG; anime pop-up events on 6F–7F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "렌탈 케이스(개인 위탁 진열장)·트렌드 상품·캐릭터 굿즈, 팝업 특설 코너",
+   "en": "Rental showcases (owner-consigned items), trend items, character goods, pop-up corner"
+  },
+  {
+   "floor": "2F",
+   "ko": "캐릭터 굿즈·컬렉션 피규어(식완·박스 피규어·캔배지)",
+   "en": "Character goods and collection figures (shokugan, box figures, can badges)"
+  },
+  {
+   "floor": "3F",
+   "ko": "도료·공구·재료·미니어처, 스페인 수성 도료 파레호(Vallejo) 직수입",
+   "en": "Paints, tools and materials, miniatures; directly imported Vallejo acrylics"
+  },
+  {
+   "floor": "4F",
+   "ko": "건프라 등 캐릭터 프라모델·완성품 토이, 볼크스 오리지널(F.S.S. IMS·브로커즈·캬라구민), 고객 작품 상설 전시, 로봇 모형 무료 촬영 스페이스(매일 12:00~18:00)",
+   "en": "Gunpla and character plastic kits, finished action toys, Volks originals (F.S.S. IMS, V.L.O.C.K.ers, Chara-gumin), permanent customer model display, free robot-model photo space (daily 12:00-18:00)"
+  },
+  {
+   "floor": "5F",
+   "ko": "PVC 피규어·토이·트레이딩 카드, 피규어·TCG 중고 매입 카운터",
+   "en": "PVC figures, toys, trading cards, used buy-back counter for figures and TCG"
+  },
+  {
+   "floor": "6F",
+   "ko": "이벤트 홀(애니 팝업숍·성우 캐스트 이벤트)",
+   "en": "Event hall (anime pop-up shops, voice-cast events)"
+  },
+  {
+   "floor": "7F",
+   "ko": "이벤트 홀",
+   "en": "Event hall"
+  }
+ ],
+ "location": {
+  "lat": 35.70006,
+  "lng": 139.771681
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4丁目2-10",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "6·7F 이벤트홀은 행사마다 기간·시간이 다름(2026년 팝업은 대부분 평일 11:00~19:00, 주말·공휴일 10:00~19:00). 4F 무료 촬영 스페이스는 매일 12:00~18:00, 이벤트 개최 시 중단.",
+   "en": "The 6F-7F event halls run on event-specific dates and hours (2026 pop-ups are mostly weekdays 11:00-19:00, weekends and holidays 10:00-19:00). The free 4F photo space runs daily 12:00-18:00 and pauses during events."
+  },
+  "source_url": "https://hobby.volks.co.jp/shop/hobbytengoku2/"
+ },
+ "tax_free": true,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽 보도. 빅카메라 AKIBA가 정면에 보이는 사거리를 건너 빅카메라를 지나면 바로 금색 외벽의 7층 건물이다. 북쪽 옆집이 트레이더 아키하바라 본점, 애니메이트 1호관과 돈키호테는 그보다 더 북쪽. 1F 정면 입구로 들어가 엘리베이터나 계단으로 올라간다.",
+  "en": "East sidewalk of Chuo-dori. Cross the intersection where Bic Camera AKIBA faces you, pass Bic Camera, and the seven-floor building with the gold facade is right there; Trader Akihabara's main store is the next door north, with animate 1st Building and Don Quijote further on. Enter at the 1F front and take the elevator or stairs."
+ },
+ "tips": {
+  "ko": [
+   "볼크스 공식 면세 대응 매장(2022년 11월 재개). 단기 체류 여행자 대상이므로 여권을 지참한다.",
+   "6·7F 팝업숍·캐스트 이벤트는 행사마다 기간·시간이 다르고 혼잡 시 입장 제한이 걸리므로 공식 X·SR뉴스 블로그를 먼저 확인한다.",
+   "TCG를 취급하는 볼크스 점포는 이곳뿐이다. 싱글 카드·서플라이는 5F, 피규어·TCG 중고 매입도 같은 5F 카운터에서 받는다.",
+   "돌피(Dollfie Dream·Super Dollfie)는 이 건물이 아니라 라디오회관 8F 돌포인트 아키하바라·호비스퀘어 아키하바라에서 취급한다."
+  ],
+  "en": [
+   "An official Volks tax-free store (resumed November 2022); it is for short-term visitors, so bring your passport.",
+   "Pop-up shops and cast events on 6F-7F run on event-specific dates and hours and may cap entry when crowded; check the official X account or SR News blog first.",
+   "This is the only Volks store that carries TCG: singles and card supplies are on 5F, and the used buy-back counter for figures and TCG is on the same floor.",
+   "Dollfie Dream and Super Dollfie are not sold here; go to Doll Point Akihabara / Hobby Square Akihabara on Radio Kaikan 8F."
+  ]
+ },
+ "official_url": "https://hobby.volks.co.jp/shop/hobbytengoku2/",
+ "sns": {
+  "x": "https://x.com/vs_hobbytengoku"
+ },
+ "chain": "volks",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://hobby.volks.co.jp/shop/hobbytengoku2/",
+  "https://hobby.volks.co.jp/shop/hobbytengoku2/floor.html",
+  "https://www.volks.co.jp/cs/shop/",
+  "https://www.volks.co.jp/cs/news/20221117_01.html",
+  "https://www.volks.co.jp/blog_sr/akiba2/",
+  "https://www.volks.co.jp/blog_sr/akiba2/shop/",
+  "https://www.volks.co.jp/blog_sr/akiba2/2025/06/16/028560.html",
+  "https://www.animate.co.jp/shop/akihabara/",
+  "https://www.openstreetmap.org/node/10138932617"
+ ],
+ "osm_id": "node/10138932617",
+ "photo": {
+  "url": "/photos/volks-akihabara-hobby-tengoku-2.jpg",
+  "kind": "exterior",
+  "credit": "正和 · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Volks_Akihabara_Hobby_Tengoku_2.JPG",
+  "taken_on": "2015"
+ }
+}

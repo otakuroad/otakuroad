@@ -1,0 +1,119 @@
+{
+ "id": "maidreamin-akihabara-chuo-dori",
+ "name": {
+  "ko": "메이드리밍 아키하바라 주오도리점",
+  "en": "Maidreamin Akihabara Chuo-dori Store",
+  "ja": "めいどりーみん 秋葉原 中央通り店"
+ },
+ "synonyms": [
+  "메이드리밍",
+  "메이드리밍 주오도리점",
+  "메이드리밍 아키하바라 주오도리점",
+  "Maidreamin Chuo-dori",
+  "maidreamin Akihabara Chuo-dori Store",
+  "めいどりーみん秋葉原中央通り店",
+  "秋葉原中央通り店",
+  "中央通り店",
+  "メイドリーミン"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "omurice",
+  "cheki",
+  "no_smoking",
+  "free_wifi",
+  "hyper_event",
+  "near_station"
+ ],
+ "one_line": {
+  "ko": "주오도리 빌딩 2층의 31석 지점. 오므라이스·음료와 메이드 체키 촬영",
+  "en": "31-seat branch on 2F of a Chuo-dori building: omurice, drinks and cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698303,
+  "lng": 139.7715
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-14-1 宝田中央通りビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue"
+    ],
+    "open": "11:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "월·화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점. 폐점은 매일 23:00.",
+   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily."
+  },
+  "source_url": "https://maidreamin.com/shop/detail.html?id=5"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 주오도리에 면한 다카라다 주오도리(宝田中央通り) 빌딩 2층. 한 층 위 3층은 같은 체인의 전기가출구 역앞점이라 층을 잘못 올라가기 쉽다.",
+  "en": "One minute from the JR Akihabara Electric Town exit, on 2F of the Takarada Chuo-dori Building on Chuo-dori. The chain's Electric Town-exit branch is one floor above on 3F, so it is easy to walk into the wrong one."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1인 1시간 입장료 880엔 + 1주문, 연장 1시간 880엔. HYPER 이벤트 시간대는 1시간 3,800엔 음료 무제한.",
+   "31석으로 이 건물 두 지점 중 작은 쪽이다. 월·화 11:30, 그 외 10:30 개점이며 연중무휴.",
+   "전 좌석 금연, 무료 Wi-Fi와 휴대폰 충전 가능. 주요 신용카드와 PayPay·au PAY·라쿠텐페이·은련카드 결제 가능."
+  ],
+  "en": [
+   "880 yen per person per hour plus one order, 880 yen per extension; HYPER slots are 3,800 yen an hour with free drinks.",
+   "With 31 seats it is the smaller of the two branches in this building. Opens 11:30 Mon-Tue, 10:30 otherwise, year-round.",
+   "No smoking, free Wi-Fi and phone charging. Major credit cards plus PayPay, au PAY, Rakuten Pay and UnionPay are accepted."
+  ]
+ },
+ "official_url": "https://maidreamin.com/shop/detail.html?id=5",
+ "sns": {
+  "x": "https://x.com/chuo_maidreamin",
+  "instagram": "https://www.instagram.com/chuo_maidreamin/"
+ },
+ "chain": "maidreamin",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://maidreamin.com/shop/detail.html?id=5",
+  "https://maidreamin.com/shop/",
+  "https://maidreamin.com/first/charge.html",
+  "https://global.maidreamin.com/"
+ ],
+ "osm_id": null
+}

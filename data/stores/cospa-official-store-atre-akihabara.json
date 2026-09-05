@@ -1,0 +1,112 @@
+{
+ "id": "cospa-official-store-atre-akihabara",
+ "name": {
+  "ko": "코스파 오피셜 스토어 아트레 아키하바라",
+  "en": "COSPA Official Store Atre Akihabara",
+  "ja": "コスパ オフィシャルストア アトレ秋葉原"
+ },
+ "synonyms": [
+  "코스파 오피셜 스토어",
+  "코스파 공식 스토어",
+  "코스파 아키하바라",
+  "코스파 아트레",
+  "COSPA Official Store",
+  "Cospa Akihabara",
+  "cospa atre",
+  "コスパ オフィシャルストア",
+  "コスパ アトレ秋葉原店",
+  "COSPA",
+  "コスパティオ"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "apparel",
+  "tshirt",
+  "hoodie",
+  "character_goods",
+  "licensed",
+  "anime",
+  "game",
+  "new"
+ ],
+ "one_line": {
+  "ko": "애니·게임 공식 라이선스 티셔츠와 후드, 잡화를 파는 코스파 직영 3층 매장",
+  "en": "COSPA's own store for licensed anime and game T-shirts, hoodies and accessories"
+ },
+ "building_id": "atre-akihabara-1",
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-17-6 アトレ秋葉原1 3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "아트레 아키하바라1 휴관일에 준함",
+   "en": "Closes when Atre Akihabara 1 closes"
+  },
+  "note": {
+   "ko": "아트레 공식 점포 페이지 기준 10:00-21:00으로 건물 영업시간과 같다. 코스파 공식 점포 목록에는 영업시간이 실려 있지 않다.",
+   "en": "10:00-21:00 on Atre's shop page, the same as the building. COSPA's own shop list does not publish hours for this location."
+  },
+  "source_url": "https://www.atre.co.jp/akihabara/shop/9311/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아트레 아키하바라1 3층. 스타벅스·세이조이시이·3COINS가 있는 생활 잡화 층이며, 같은 층 안쪽에 캐라팝 스토어 1호점이 있다. 전화 03-5289-3891.",
+  "en": "On 3F of Atre Akihabara 1, the everyday-goods floor with Starbucks, Seijo Ishii and 3COINS; the CharaPop Store No.1 space is on the same floor. Phone 03-5289-3891."
+ },
+ "tips": {
+  "ko": [
+   "연간 2,500점 이상을 만드는 코스파의 직영점으로, 판매 중심은 캐릭터 티셔츠·후드·저지 같은 아파렐과 잡화다.",
+   "풀 코스튬 라인(코스파티오)은 이 매장이 아니라 오노덴 건물의 지스토어 쪽에서 취급한다.",
+   "아키하바라의 코스파 계열 거점은 이곳과 오노덴 지스토어 두 곳뿐이다.",
+   "면세·카드 결제는 공식 안내가 없으므로 카운터에서 확인한다."
+  ],
+  "en": [
+   "A directly-run store for COSPA, which produces over 2,500 licensed items a year — mostly character T-shirts, hoodies and jerseys plus small goods.",
+   "Full costumes (the COSPATIO line) are not here; they are handled at the Gee!Store side in the Onoden building.",
+   "These two — this shop and the Onoden Gee!Store — are the only COSPA-group locations in Akihabara.",
+   "Tax-free and card acceptance are not stated officially, so ask at the counter."
+  ]
+ },
+ "official_url": "https://www.cospa.com/special/shoplist/",
+ "sns": {},
+ "chain": "cospa",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.cospa.com/special/shoplist/",
+  "https://www.atre.co.jp/akihabara/shop/9311/",
+  "https://www.atre.co.jp/akihabara/floorguide/27/114/",
+  "https://www.cospa.com/cospa/"
+ ],
+ "osm_id": null
+}

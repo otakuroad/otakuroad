@@ -1,0 +1,108 @@
+{
+ "id": "taito-station-akihabara-tozai-tsuro",
+ "name": {
+  "ko": "타이토 스테이션 아키하바라 동서자유통로점",
+  "en": "TAITO STATION Akihabara East-West Free Passage",
+  "ja": "タイトーステーション 秋葉原東西自由通路店"
+ },
+ "synonyms": [
+  "타이토 스테이션 동서자유통로점",
+  "타이토스테이션 동서자유통로점",
+  "타이스테 동서자유통로",
+  "타이토 스테이션 아키하바라역",
+  "Taito Station Akihabara East-West Free Passage",
+  "Taito Station Akihabara Tozai Jiyu Tsuro",
+  "Taito Station Akiba EW",
+  "タイトーステーション秋葉原東西自由通路店",
+  "タイトーステーション 秋葉原東西自由通路店",
+  "タイステ秋葉原東西自由通路店",
+  "秋葉原東西自由通路店"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "prize",
+  "taito",
+  "cashless",
+  "free_wifi"
+ ],
+ "one_line": {
+  "ko": "JR 아키하바라역 동서자유통로 안의 소형 오락실. 타이토 프라이즈 크레인게임 중심",
+  "en": "Small arcade inside the JR Akihabara station free passage, mostly Taito prize crane games"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.69813,
+  "lng": 139.773121
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区神田佐久間町1-6-1外 秋葉原駅東西自由通路内",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 페이지 본문과 구조화 데이터 모두 전 요일·공휴일 10:00-23:30으로 같다.",
+   "en": "The official page body and its schema.org data both give 10:00-23:30 on every day including public holidays."
+  },
+  "source_url": "https://www.taito.co.jp/store/00002208"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구·중앙개찰구에서 도보 0분. 개찰구 밖 동서자유통로(전기가 출구 쪽과 쇼와도리 출구 쪽을 잇는 통로) 안에 있으며, 같은 자리에 크레페 가게 피코크레페가 함께 들어와 있다. 주오도리의 대형 점포 타이토 스테이션 아키하바라점(외신다 4-2-2)과는 다른 곳이다.",
+  "en": "Zero minutes from JR Akihabara's Electric Town Exit and Central Gate. It sits in the east-west free passage outside the ticket gates, the corridor linking the Electric Town side to the Showa-dori side, sharing the spot with the crepe stand PICO CREPE. This is not the big Taito Station on Chuo-dori (Sotokanda 4-2-2)."
+ },
+ "tips": {
+  "ko": [
+   "프라이즈(경품) 크레인게임 중심의 작은 점포라 층 이동 없이 몇 분 만에 둘러볼 수 있다.",
+   "무료 Wi-Fi와 캐시리스 결제를 지원한다고 공식 페이지에 표기되어 있다.",
+   "10:00-23:30 연중무휴라 열차 시간 사이에 잠깐 들르기 좋다."
+  ],
+  "en": [
+   "A compact prize-crane-game spot: no floors to climb, a few minutes to look through.",
+   "The official page lists free Wi-Fi and cashless payment as available services.",
+   "Open 10:00-23:30 every day, so it works as a short stop between trains."
+  ]
+ },
+ "official_url": "https://www.taito.co.jp/store/00002208",
+ "sns": {
+  "x": "https://x.com/Taito_AkibaEW"
+ },
+ "chain": "taito",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.taito.co.jp/store/00002208",
+  "https://www.taito.co.jp/en/store/00002208"
+ ],
+ "osm_id": "node/11871381160"
+}

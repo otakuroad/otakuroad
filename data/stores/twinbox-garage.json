@@ -1,0 +1,101 @@
+{
+ "id": "twinbox-garage",
+ "name": {
+  "ko": "트윈박스 개러지",
+  "en": "TwinBox GARAGE",
+  "ja": "TwinBox GARAGE"
+ },
+ "synonyms": [
+  "트윈박스 가레지",
+  "트윈박스 1층",
+  "TwinBox GARAGE",
+  "Twin Box Garage",
+  "TwinBoxGARAGE",
+  "ツインボックスガレージ",
+  "Box'R AKIBAビル1階"
+ ],
+ "category": "idol",
+ "tags": [
+  "idol_live",
+  "underground_idol",
+  "live_venue",
+  "cheki",
+  "event_space"
+ ],
+ "one_line": {
+  "ko": "단독 공연·발매 이벤트에 쓰이는 1층 소규모 아이돌 라이브 공간",
+  "en": "Small ground-floor idol live room used for solo shows and release events"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700395,
+  "lng": 139.770114
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-12 Box'R AKIBAビル1階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 아크세스란의 15:00~22:00은 시설 기준 시간이며, 실제 입장은 공연별 개장·개연 시간에 따른다.",
+   "en": "The 15:00-22:00 in the access section of the official site is the venue's own window; entry follows each show's door and start times."
+  },
+  "source_url": "https://twinbox.info/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "BOX'R AKIBA 빌딩 1층, 길에서 바로 들어가는 작은 라이브 공간. 지하 1층의 TwinBox AKIHABARA와 입구가 같은 건물이라 티켓에 적힌 방 이름(AKIHABARA인지 GARAGE인지)을 꼭 확인한다.",
+  "en": "A small live room on the ground floor of the BOX'R AKIBA building, entered straight from the street. It shares the building with TwinBox AKIHABARA in the basement, so check whether your ticket says AKIHABARA or GARAGE."
+ },
+ "tips": {
+  "ko": [
+   "지하 1층 TwinBox AKIHABARA보다 작은 방으로, 단독 라이브·발매 이벤트·팬 미팅에 주로 쓰인다.",
+   "드링크대가 별도로 붙으며 2025년 11월 1일부터 요금이 개정됐다. 외부 음료 반입 금지.",
+   "1층이라 길에 바로 면해 있다. 개연 전후로 노상에 몰려 서 있지 말라는 안내가 있으니 주의."
+  ],
+  "en": [
+   "Smaller than TwinBox AKIHABARA downstairs, and used mainly for solo lives, release events and fan meetings.",
+   "A drink fee applies on top of the ticket, revised from 1 November 2025; outside drinks are not allowed.",
+   "Being on the ground floor it opens straight onto the street, and the venue asks people not to crowd the pavement before or after shows."
+  ]
+ },
+ "official_url": "https://twinbox.info/",
+ "sns": {},
+ "chain": "twinbox",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://twinbox.info/",
+  "https://www.twinbox.info/about"
+ ],
+ "osm_id": "node/5230307084"
+}

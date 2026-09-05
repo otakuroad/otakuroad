@@ -1,0 +1,82 @@
+{
+ "id": "shinsoku-akihabara-2",
+ "name": {
+  "ko": "신소쿠 아키하바라 2호점",
+  "en": "Shinsoku Akihabara 2nd Store",
+  "ja": "シンソク秋葉原2号店"
+ },
+ "synonyms": [
+  "신소쿠",
+  "신소쿠 2호점",
+  "신소쿠 아키하바라2호점",
+  "Shinsoku Akihabara No.2",
+  "Shinsoku",
+  "シンソク",
+  "シンソク秋葉原2号店",
+  "シンソク 秋葉原2号店",
+  "カードショップシンソク"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "singles",
+  "buyback",
+  "oripa",
+  "card_mall"
+ ],
+ "one_line": {
+  "ko": "원피스카드·포켓몬카드 싱글과 매입 중심의 지하 트레카모올 입점 점포",
+  "en": "One Piece and Pokemon card singles and buyback, inside the B1F Toreca Mall"
+ },
+ "building_id": "edion-akiba",
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）B1F トレカモーール秋葉原1号店内",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 지하 1층 트레카모올 안. 1층 정면 입구 안쪽 계단·에스컬레이터로 내려가면 카드 점포가 늘어선 플로어이고, 그중 한 부스다.",
+  "en": "Inside the B1F Toreca Mall of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Take the stairs or escalator down just inside the ground-floor entrance; the shop is one booth on the card floor."
+ },
+ "tips": {
+  "ko": [
+   "공식 사이트에 이 지점의 영업시간 안내가 없고 일본 디렉터리마다 11:00-19:00과 11:00-19:30으로 갈리므로 X(@shinsoku_akb2nd)에서 확인하는 편이 안전하다.",
+   "신소쿠는 2026년 아키하바라에 3호점 이후 신규 점포를 연달아 열고 있어 지점 번호를 착각하기 쉽다."
+  ],
+  "en": [
+   "The official site does not list this branch's hours and Japanese directories disagree (11:00-19:00 vs 11:00-19:30), so check X (@shinsoku_akb2nd) before going.",
+   "Shinsoku has been opening one Akihabara branch after another through 2026, so it is easy to confuse the branch numbers."
+  ]
+ },
+ "official_url": "https://shinsoku-tcg.com/",
+ "sns": {
+  "x": "https://x.com/shinsoku_akb2nd"
+ },
+ "chain": "shinsoku",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2219",
+  "https://prtimes.jp/main/html/rd/p/000000002.000152399.html",
+  "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+  "https://shinsoku-tcg.com/",
+  "https://www.cardshop-shinsoku.jp/",
+  "https://akihabara-cardmap.com/ja/shop/trekamall-akihabara-1/"
+ ],
+ "osm_id": null
+}

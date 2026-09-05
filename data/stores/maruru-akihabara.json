@@ -1,0 +1,82 @@
+{
+ "id": "maruru-akihabara",
+ "name": {
+  "ko": "마루루 아키하바라점",
+  "en": "Figure Shop MARURU Akihabara",
+  "ja": "フィギュア ショップ MARURU 秋葉原店"
+ },
+ "synonyms": [
+  "마루루",
+  "피규어숍 마루루",
+  "MARURU 아키하바라점",
+  "마루루 아키하바라",
+  "MARURU",
+  "Figure Shop MARURU",
+  "MARURU Akihabara",
+  "フィギュアショップMARURU",
+  "フィギュア ショップ MARURU",
+  "マルル",
+  "おもちゃのMARURU"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "anime_figure",
+  "buyback",
+  "dragon_ball",
+  "one_piece"
+ ],
+ "one_line": {
+  "ko": "애니 피규어를 팔고 매입도 하는 주오도리 1층 소형 매장",
+  "en": "Small street-level figure shop on Chuo-dori that both sells and buys anime figures"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702033,
+  "lng": 139.771423
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-16-16 フリージア神田ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 보도를 스에히로초 방향으로 올라가다 잔파라(じゃんぱら) 아키하바라 5호점 바로 옆. 2024년 6월까지 '코로복쿠루 무료 흡연소'가 있던 프리지아 간다 빌딩 1층 노면 점포로, 피규어가 가득 쌓인 유리창이 표식이다.",
+  "en": "On the west sidewalk of Chuo-dori heading toward Suehirocho, immediately beside Janpara Akihabara No.5. It is the 1F street-front unit of the Freesia Kanda Building, where the Korobokkuru free smoking space stood until June 2024; the window stacked with figures is the marker."
+ },
+ "tips": {
+  "ko": [
+   "판매만 하는 곳이 아니라 피규어 매입(買取)도 한다. 2024년 8월 정식 개점 전에는 매입부터 먼저 시작했다.",
+   "공식 영업시간을 안내하는 페이지가 없으므로 방문 전 공식 X(@akihabaramaruru)를 확인하는 편이 안전하다."
+  ],
+  "en": [
+   "It buys figures as well as selling them; buyback started before the full opening in August 2024.",
+   "No page lists official opening hours, so check the shop's X account (@akihabaramaruru) before going."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/akihabaramaruru"
+ },
+ "chain": "maruru",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gdm.or.jp/crew/2024/0814/550946",
+  "https://www.gdm.or.jp/crew/2026/0311/626132"
+ ],
+ "osm_id": "node/12848165629"
+}

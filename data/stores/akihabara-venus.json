@@ -1,0 +1,85 @@
+{
+ "id": "akihabara-venus",
+ "name": {
+  "ko": "아키하바라 비너스",
+  "en": "Akihabara Venus",
+  "ja": "秋葉原Venus"
+ },
+ "synonyms": [
+  "아키바 비너스",
+  "비너스 아키하바라",
+  "아키하바라 베누스",
+  "Akiba Venus",
+  "Venus Akihabara",
+  "Cafe Bar & Event Space Venus",
+  "秋葉原ヴィーナス",
+  "ヴィーナス秋葉原",
+  "秋葉原SILビル6F"
+ ],
+ "category": "idol",
+ "tags": [
+  "idol_live",
+  "live_house",
+  "event_space",
+  "cafe_bar",
+  "dj",
+  "led_vision",
+  "rental_venue",
+  "band"
+ ],
+ "one_line": {
+  "ko": "LED 비전과 VJ 설비를 갖춘 150명 규모 아이돌 라이브하우스 겸 카페바",
+  "en": "150-capacity idol live house and cafe bar with LED walls and VJ equipment"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701312,
+  "lng": 139.77186
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-4-3 秋葉原SILビル6F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 동쪽 소토칸다 4초메의 아키하바라 SIL 빌딩 6층으로, 1층 입구에서 엘리베이터를 탄다.",
+  "en": "Three minutes from Ginza-line Suehirocho and five from the JR Akihabara Electric Town Exit. Take the lift from the ground-floor entrance of the Akihabara SIL Building in Sotokanda 4-chome, east of Chuo-dori, up to 6F."
+ },
+ "tips": {
+  "ko": [
+   "2025년 7월 말에 문을 연 신생 라이브하우스로, 수용 인원 150명에 LED 비전과 VJ 설비를 갖췄다.",
+   "대관 전용이라 고정 영업시간이 없다. 공연 일정과 티켓은 공식 X(@2025AkibaVenus)나 주최 측 안내에서 확인한다.",
+   "같은 운영사가 소토칸다 6초메에서 운영하는 아키하바라 Galaxy(B1F)와 이름·용도가 비슷해 헷갈리기 쉬우니 주소를 확인하고 간다."
+  ],
+  "en": [
+   "A new live house opened in late July 2025, with a capacity of 150, LED screens and VJ equipment.",
+   "It is rental-only with no fixed opening hours - check the official X account (@2025AkibaVenus) or the organiser for dates and tickets.",
+   "The same operator runs Akihabara Galaxy (B1F) in Sotokanda 6-chome, which is easy to confuse with this venue, so check the address before setting out."
+  ]
+ },
+ "official_url": "https://galaxy-group.jp/venus_akihabara/",
+ "sns": {
+  "x": "https://x.com/2025AkibaVenus"
+ },
+ "chain": "galaxy-group",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://galaxy-group.jp/venus_akihabara/",
+  "https://galaxy-group.jp/akihabara/"
+ ],
+ "osm_id": null
+}

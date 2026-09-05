@@ -1,0 +1,112 @@
+{
+ "id": "card-labo-radio-kaikan-buying-center",
+ "name": {
+  "ko": "카드라보 아키하바라 라디오회관 매입센터",
+  "en": "Card Labo Akihabara Radio Kaikan Buying Center",
+  "ja": "カードラボ 秋葉原ラジオ会館買取センター"
+ },
+ "synonyms": [
+  "카드라보 매입센터",
+  "카드라보 라디오회관 매입센터",
+  "카드라보 1층",
+  "카드라보 카이토리센터",
+  "카드라보 중고 전문점",
+  "Card Labo Buying Center",
+  "Card Labo Kaitori Center",
+  "c-labo kaitori center",
+  "カードラボ買取センター",
+  "カードラボ 秋葉原ラジオ会館買取センター",
+  "カードラボ ラジオ会館店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "buyback",
+  "used",
+  "tcg_singles",
+  "yugioh",
+  "pokemon_card",
+  "one_piece_card",
+  "weiss_schwarz",
+  "union_arena",
+  "gundam_card",
+  "oripa",
+  "card_gacha"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬 중심 트레카 매입 전용 카운터, 중고 싱글과 오리파·카드 가챠 판매",
+  "en": "Buyback counter for Yu-Gi-Oh and Pokemon cards, also selling used singles and card gacha"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수는 11:00~18:30으로 영업시간보다 짧다. 같은 건물 9F 카드라보 본점(매입 12:00~18:45)과는 접수 시간이 다르다.",
+   "en": "The buyback desk runs 11:00-18:30, shorter than the shop's hours, and differs from the 12:00-18:45 desk at the Card Labo main store on 9F."
+  },
+  "source_url": "https://www.c-labo.jp/shop/kaitoricenter/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 1F, 정면 입구로 들어가 오른쪽 구획. 같은 1F의 호비스테이션·후쿠후쿠 트레카·마하와 나란히 있으며, 카운터 세 개가 늘어선 곳이 매입 접수대다.",
+  "en": "On 1F of Radio Kaikan, in the section to the right of the front entrance, next to Hobby Station, Fukufuku Toreka and Mach. The row of three desks is the buyback counter."
+ },
+ "tips": {
+  "ko": [
+   "카드라보의 중고·매입 특화 점포다. 매입 카운터가 세 개로 늘어 대기가 짧고, 팔기만 할 거라면 9F 본점보다 여기가 빠르다.",
+   "매입 접수는 11:00~18:30. 마감 직전에는 감정 대기가 길어질 수 있다.",
+   "판매 쪽은 유희왕·포켓몬 중심의 특가 중고 싱글, 오리파, 카드 가챠가 중심이라 신품 팩을 찾는다면 9F 본점으로.",
+   "면세·카드 결제 안내는 공식 페이지에 없으므로 카운터에서 확인."
+  ],
+  "en": [
+   "Card Labo's used-and-buyback branch. With three buy desks the queue moves fast, so it beats the 9F main store if you only want to sell.",
+   "The buy desk takes cards 11:00-18:30; appraisal queues get long just before it closes.",
+   "On the selling side it is discounted used singles (mostly Yu-Gi-Oh and Pokemon), oripa and card gacha; for sealed new product go up to the 9F main store.",
+   "Tax-free and card payment are not stated on the official page, so ask at the counter."
+  ]
+ },
+ "official_url": "https://www.c-labo.jp/shop/kaitoricenter/",
+ "sns": {},
+ "chain": "card-labo",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.c-labo.jp/shop/kaitoricenter/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/card-labo-2-2/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/"
+ ],
+ "osm_id": "node/5866051361"
+}

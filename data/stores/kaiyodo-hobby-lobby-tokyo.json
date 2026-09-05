@@ -1,0 +1,115 @@
+{
+ "id": "kaiyodo-hobby-lobby-tokyo",
+ "name": {
+  "ko": "카이요도 호비로비 도쿄",
+  "en": "Kaiyodo Hobby Lobby Tokyo",
+  "ja": "海洋堂ホビーロビー東京"
+ },
+ "synonyms": [
+  "카이요도",
+  "카이요우도",
+  "해양당",
+  "호비로비",
+  "카이요도 직영점",
+  "카이요도 호비로비",
+  "Kaiyodo",
+  "Kaiyōdō",
+  "Hobby Lobby Tokyo",
+  "HLT",
+  "海洋堂",
+  "ホビーロビー東京",
+  "海洋堂 Hobby Lobby Tokyo"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "revoltech",
+  "sofubi",
+  "gacha",
+  "capsule_toy",
+  "shokugan",
+  "new"
+ ],
+ "one_line": {
+  "ko": "조형 메이커 카이요도 직영점. 리볼텍·캡슐Q·소프비·채색 완성품 신작을 취급",
+  "en": "Kaiyodo's own shop: Revoltech, Capsule Q gacha figures, sofubi and painted statues"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라디오회관 공식 매장 페이지 기준 11:00~20:00. 카이요도 자체 매장 페이지는 2014년 이후 갱신이 없는 상태로 평일 12:00~20:00 / 토·일·공휴일 11:00~19:00을 계속 표기하고 있어, 11시대와 19시 이후 방문은 확인 권장",
+   "en": "11:00–20:00 per Radio Kaikan's official shop page. Kaiyodo's own shop page, unchanged since 2014, still lists weekdays 12:00–20:00 and Sat/Sun/holidays 11:00–19:00, so confirm before arriving before noon or after 19:00"
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/kaiyodo/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 전기가 출구 정면의 라디오회관 1F로 들어가 에스컬레이터나 엘리베이터로 5F. 같은 층에 라신방·magi·우주선·아키바노엑스·돌리테리아가 있고, 리볼텍·소프비가 진열된 카이요도 로고 매장이 목적지",
+  "en": "Enter Radio Kaikan (facing the JR Denkigai exit) and take the escalator or elevator to 5F. It shares the floor with Lashinbang, magi, Uchusen, Akiba no X and Dolly Teria; look for the Kaiyodo logo and the Revoltech / sofubi display."
+ },
+ "tips": {
+  "ko": [
+   "영업시간 표기가 두 공식 페이지에서 다르다. 라디오회관 페이지는 11:00~20:00, 카이요도 자체 페이지(2014년 이후 미갱신)는 평일 12:00 개점. 11시대 방문은 헛걸음 가능성을 감안",
+   "같은 5F에 우주선(12:00~19:30)·아키바노엑스·magi가 모여 있어 피규어를 한 층에서 비교할 수 있다",
+   "면세와 카드 결제 안내가 어느 공식 페이지에도 없으니 계산대에서 확인",
+   "신제품 입고와 매장 한정품 정보는 X 계정 @HobbyLobbyTokyo에 올라온다"
+  ],
+  "en": [
+   "The two official pages disagree on hours: Radio Kaikan lists 11:00–20:00 while Kaiyodo's own page (untouched since 2014) says 12:00 on weekdays, so allow for that before noon",
+   "Uchusen (12:00–19:30), Akiba no X and magi share the same 5F, so figures can be compared on one floor",
+   "Neither official page mentions tax-free service or card payment; ask at the counter",
+   "New arrivals and shop exclusives are posted on X (@HobbyLobbyTokyo)"
+  ]
+ },
+ "photo": null,
+ "official_url": "https://kaiyodo.co.jp/kaiyodo_HB/TK_topics/index.html",
+ "sns": {
+  "x": "https://x.com/HobbyLobbyTokyo"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "medium",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/kaiyodo/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/access/",
+  "https://kaiyodo.co.jp/kaiyodo_HB/TK_topics/index.html",
+  "https://kaiyodo.co.jp/company/",
+  "https://kaiyodo.co.jp/news/"
+ ],
+ "osm_id": "node/10136695117"
+}

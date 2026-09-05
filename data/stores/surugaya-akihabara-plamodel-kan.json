@@ -1,0 +1,132 @@
+{
+ "id": "surugaya-akihabara-plamodel-kan",
+ "name": {
+  "ko": "스루가야 아키하바라 프라모델관",
+  "en": "Surugaya Akihabara Plastic Model Store",
+  "ja": "駿河屋 秋葉原プラモデル館"
+ },
+ "synonyms": [
+  "스루가야 프라모델관",
+  "스루가야 아키바 프라모델관",
+  "슈루가야 프라모델관",
+  "스루가야 플라모델관",
+  "駿河屋秋葉原プラモデル館",
+  "駿河屋 プラモデル館",
+  "Surugaya Akihabara Plamodel Kan",
+  "Suruga-ya Akihabara Plastic Model Kan",
+  "Surugaya Plamodel",
+  "Suruga-ya"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "new",
+  "used",
+  "plastic_model",
+  "gunpla",
+  "scale_model",
+  "paint",
+  "modeling_tool",
+  "hobby_magazine",
+  "trading_figure",
+  "shokugan",
+  "buyback",
+  "free_wifi"
+ ],
+ "one_line": {
+  "ko": "2·3층에 신품·중고 프라모델과 도료·공구, 프라모 잡지·트레이딩 피규어·식완",
+  "en": "New and used plastic model kits on two floors, plus paints, tools, magazines and shokugan"
+ },
+ "building_id": null,
+ "floors": [
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701219,
+  "lng": 139.771779
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-4-2 共益外神田第1ビル 2階・3階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "평일 11:00, 토·일·공휴일 10:00 개점. 공식 점포 페이지는 이 시간표를 코로나 대응에 따른 '당분간' 단축 영업으로 안내하고 있어 원래 시간(평일 10:00 개점)으로 되돌아갈 수 있다. 2층과 3층은 전화번호가 따로 있다.",
+   "en": "Opens 11:00 on weekdays and 10:00 at weekends and on public holidays. The official page still presents these as temporary Covid-era hours, so the earlier weekday 10:00 opening could return. 2F and 3F have separate phone numbers."
+  },
+  "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 주오도리를 따라 남쪽으로 도보 2~3분, 주오도리 서쪽 편의 8층짜리 공익 소토칸다 제1빌딩(共益外神田第1ビル)이다. 1층이 메이드카페 마이퍼스트메이드라 길에서는 메이드카페처럼 보이지만, 건물 입구 옆 층별 안내에 駿河屋 간판이 있고 계단·엘리베이터로 2층에 오르면 매장이다. 2층과 3층이 각각 별도 매장처럼 계산대를 따로 둔다.",
+  "en": "Two to three minutes south of Ginza-line Suehirocho station along Chuo-dori, in the eight-storey Kyoei Sotokanda No.1 Building on the west side. The ground floor is the My First Maid cafe, so the street frontage reads as a maid cafe; look for the 駿河屋 panel on the floor board by the entrance and take the stairs or lift to 2F. 2F and 3F each have their own register."
+ },
+ "tips": {
+  "ko": [
+   "평일은 11:00, 토·일·공휴일은 10:00 개점이라 아침 일정에 넣을 때 요일을 확인한다.",
+   "취급 품목은 프라모델 전반과 도료·공구·프라모 잡지, 트레이딩 피규어와 식완이다.",
+   "매입은 프라모델과 프라모델 잡지만 받는다. 피규어·애니 잡화는 스루가야 아키하바라 본관, 게임은 게임관 등 아키하바라 다른 스루가야 점포로 나눠 가져가야 한다.",
+   "매입에는 회원증이 필요하고 신분증은 매회 제시해야 한다. 매장 내 무료 Wi-Fi가 있다.",
+   "같은 건물 4층은 메이드리밍 아이돌도리점, 5층은 아케이드 카드 전문점 마론노카쿠레가다."
+  ],
+  "en": [
+   "Opens 11:00 on weekdays but 10:00 on Saturdays, Sundays and public holidays — check the day before planning an early visit.",
+   "The range is plastic model kits of all kinds plus paints, tools, modelling magazines, trading figures and shokugan.",
+   "Buyback here covers only plastic models and modelling magazines; figures and anime goods go to Surugaya's Akihabara Main Store and games to the Game Store.",
+   "Selling needs a member card, and photo ID every time. Free Wi-Fi is available in the shop.",
+   "Maidreamin Idol-dori is on 4F of the same building and the arcade-card shop Maron no Kakurega on 5F."
+  ]
+ },
+ "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html",
+ "sns": {
+  "x": "https://x.com/surugaya_akiba5"
+ },
+ "chain": "surugaya",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html",
+  "https://web.archive.org/web/20251215185447/https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html",
+  "https://web.archive.org/web/20260304022416/https://www.suruga-ya.jp/feature/shoplist/tokyo.html",
+  "https://maron-no-kakurega.com/?mode=f2",
+  "https://hjweb.jp/shop/12581/",
+  "https://www.openstreetmap.org/node/5923650396",
+  "https://www.openstreetmap.org/way/89182756"
+ ],
+ "osm_id": "node/5923650396"
+}

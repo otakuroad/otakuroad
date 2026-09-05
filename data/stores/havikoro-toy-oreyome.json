@@ -1,0 +1,102 @@
+{
+ "id": "havikoro-toy-oreyome",
+ "name": {
+  "ko": "하비코로 완구 오레요메점",
+  "en": "Havikoro Toy Oreyome",
+  "ja": "ハビコロ玩具 オレヨメ店"
+ },
+ "synonyms": [
+  "하비코로 완구",
+  "하비코로 오레요메",
+  "오레요메점",
+  "Havikoro Toy",
+  "Habikoro Toy Oreyome",
+  "ハビコロ玩具",
+  "ハビコロ",
+  "オレヨメ店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "character_goods",
+  "bishoujo",
+  "seiyuu",
+  "figure",
+  "prize_figure",
+  "tapestry",
+  "anime_goods"
+ ],
+ "one_line": {
+  "ko": "미소녀 애니·게임 굿즈와 여성 성우 굿즈를 파는 하비코로 완구 매장",
+  "en": "Bishojo anime and game merch plus female voice-actor goods, from Havikoro Toy"
+ },
+ "building_id": "akiba-cultures-zone",
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE 3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물 전체 안내는 11:00~21:00이지만 3층 점포는 20:30 마감.",
+   "en": "The building lists 11:00-21:00, but the 3F shops close at 20:30."
+  },
+  "source_url": "https://www.akibacultureszone.com/shop/1246"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "1층 라신방 입구로 들어가 3층으로. 같은 층에 하비코로 완구 계열 매장이 세 곳 있으므로, 여성향 굿즈의 오토메 아키하바라점이 아니라 미소녀 캐릭터 굿즈가 걸린 쪽이 오레요메점이다.",
+  "en": "Up to 3F from the 1F Lashinbang entrance. Three Havikoro Toy shops share the floor: Oreyome is the side hung with bishojo character goods, not the Otome Akihabara shop that carries women's-market merch."
+ },
+ "tips": {
+  "ko": [
+   "같은 3층의 오토메 아키하바라점(여성향)과 짝을 이루는 남성향 매장이다.",
+   "입고 소식은 X(@havikorotoy_cz4)에 올라온다."
+  ],
+  "en": [
+   "It is the men's-market counterpart to the Otome Akihabara shop on the same 3F.",
+   "New arrivals are announced on X (@havikorotoy_cz4)."
+  ]
+ },
+ "official_url": "https://www.akibacultureszone.com/shop/1246",
+ "sns": {
+  "x": "https://x.com/havikorotoy_cz4"
+ },
+ "chain": "havikoro",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.akibacultureszone.com/shop/1246",
+  "https://www.akibacultureszone.com/shop/",
+  "https://ec.havikorotoy.com/"
+ ],
+ "osm_id": null
+}

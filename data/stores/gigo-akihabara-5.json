@@ -1,0 +1,124 @@
+{
+ "id": "gigo-akihabara-5",
+ "name": {
+  "ko": "GiGO 아키하바라 5호관",
+  "en": "GiGO Akihabara Building 5",
+  "ja": "GiGO秋葉原5号館"
+ },
+ "synonyms": [
+  "기고 아키하바라 5호관",
+  "GiGO 5호관",
+  "기고 5호관",
+  "세가 아키하바라 5호관",
+  "GiGO Akihabara 5",
+  "GiGO Akiba 5",
+  "GIGO5号館",
+  "ギーゴ秋葉原5号館",
+  "セガ秋葉原5号館",
+  "GiGO秋葉原5号店",
+  "gigo akihabara5"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "card_game",
+  "eiketsu_taisen",
+  "kancolle_arcade",
+  "gundam_arsenal_base",
+  "idolmaster_tours",
+  "mahjong",
+  "gacha",
+  "event_space"
+ ],
+ "one_line": {
+  "ko": "영걸대전·함대컬렉션 등 아케이드 카드게임과 크레인 게임 중심 오락실",
+  "en": "Arcade card games such as Eiketsu Taisen and KanColle Arcade, plus crane games"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698752,
+  "lng": 139.770659
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-10-1 吉葉無線ビル1F〜5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "5층 이벤트 공간 Akib@ko는 10:00-21:00으로 오락실과 시간이 다르며, 대관 행사가 있는 날에만 연다.",
+   "en": "Akib@ko, the event space on 5F, runs 10:00-21:00 and only opens on days it is booked for an event."
+  },
+  "source_url": "https://www.gigo.co.jp/shops/akihabara5"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리에서 한 블록 서쪽으로 들어간 전자부품 골목으로, 도쿄 라디오 데파트 바로 옆이다. 1층 길가의 GiGO 타이야키 매점이 표식.",
+  "en": "Three minutes from the JR Akihabara Electric Town Exit, one block west of Chuo-dori in the electronics-parts lane right beside the Tokyo Radio Depart. The GiGO taiyaki stand at street level is the landmark."
+ },
+ "tips": {
+  "ko": [
+   "4층에 영걸대전이 있고, 함대컬렉션 아케이드·건담 아세널 베이스·아이돌마스터 TOURS·마작격투구락부 UNION·카드 커넥트 등 대형 아케이드 카드게임이 이 지점에 모여 있다.",
+   "5층은 대관 이벤트 공간 Akib@ko로, 성우·애니 이벤트나 물판 행사가 열릴 때만 개방된다.",
+   "1층에 GiGO 타이야키 매점이 있어 게임 중간에 간식을 살 수 있다.",
+   "리듬게임은 이 지점에 없다. 도보 1분 거리의 3호관으로 가면 된다."
+  ],
+  "en": [
+   "Eiketsu Taisen is on 4F, and this is the Akihabara GiGO that gathers the big arcade card games: KanColle Arcade, Gundam Arsenal Base, iDOLM@STER TOURS, MJ UNION and Card Connect.",
+   "5F is Akib@ko, a rental event space that opens only for booked seiyuu/anime events and goods sales.",
+   "A GiGO taiyaki stand sits at street level on 1F for a snack between games.",
+   "There are no rhythm games here; Building 3 is a minute's walk away."
+  ]
+ },
+ "official_url": "https://www.gigo.co.jp/shops/akihabara5",
+ "sns": {
+  "x": "https://x.com/GiGO_akiba_5"
+ },
+ "chain": "gigo",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gigo.co.jp/shops/akihabara5",
+  "https://www.gigo.co.jp/shops/akihabara5/games",
+  "https://www.gigo.co.jp/games/eiketsu-taisen?area=13",
+  "https://tempo.gendagigo.jp/akibako/",
+  "https://prize-lab.com/game-center/akiba/",
+  "https://tama-game-retro.blog.jp/archives/89667265.html"
+ ],
+ "osm_id": "node/7656396948"
+}

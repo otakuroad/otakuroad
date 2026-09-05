@@ -1,0 +1,112 @@
+{
+ "id": "oto-ani-1-onkyo-direct-anime-store",
+ "name": {
+  "ko": "온쿄 다이렉트 애니메 스토어 1호점",
+  "en": "ONKYO DIRECT ANIME STORE (Oto-Ani No.1)",
+  "ja": "ONKYO DIRECT ANIME STORE／音アニ1号店"
+ },
+ "synonyms": [
+  "온아니",
+  "온아니 1호점",
+  "온쿄 애니 스토어",
+  "온쿄 다이렉트 애니메 스토어",
+  "ONKYO DIRECT ANIME STORE",
+  "Oto-Ani",
+  "Onani 1",
+  "音アニ",
+  "音アニ1号店",
+  "オンアニ",
+  "オンキヨー ダイレクト アニメ ストア"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "new",
+  "audio",
+  "earphone",
+  "headphone",
+  "custom_iem",
+  "anime_collab",
+  "acrylic_stand",
+  "can_badge",
+  "clear_file",
+  "wireless_charger"
+ ],
+ "one_line": {
+  "ko": "애니 콜라보 이어폰·헤드폰과 커스텀 IEM을 파는 ONKYO 직영 오디오 매장",
+  "en": "ONKYO's own shop for anime-collab earphones, headphones and custom in-ear monitors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701721,
+  "lng": 139.771384
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-7 関根ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 월요일(공휴일이면 영업하고 다음 화요일 휴무)",
+   "en": "Closed Mondays; open when Monday is a public holiday and closed the following Tuesday instead"
+  },
+  "note": null,
+  "source_url": "https://onkyoanime.com/about"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2분, 주오도리 동쪽 소토칸다 3-15의 세키네(関根) 빌딩 1층. 아키하바라 가챠폰 회관에서 주오도리를 따라 남쪽으로 한 블록 내려온 자리다. JR 아키하바라역에서는 도보 10분.",
+  "en": "Two minutes from Suehirocho on the Tokyo Metro Ginza line, on the ground floor of the Sekine Building in Sotokanda 3-15, east of Chuo-dori — one block south of the Akihabara Gachapon Kaikan. About ten minutes from JR Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "아키하바라에서 드물게 월요일 정기휴무. 월요일이 공휴일이면 영업하고 대신 다음 화요일에 쉰다.",
+   "이어폰·헤드폰 외에 오더메이드 커스텀 IEM(귀형 채취 후 제작)과 교체 케이블·케이스 등 액세서리도 다룬다.",
+   "술(음악 숙성 사케)과 의류·시계는 이곳이 아니라 주오도리의 2호점 '음아니 라이프스타일'에서 취급한다."
+  ],
+  "en": [
+   "Closed on Mondays, which is unusual in Akihabara; when Monday is a holiday it opens and closes the next Tuesday instead.",
+   "Beyond earphones and headphones it handles made-to-order custom IEMs plus cases and replacement cables.",
+   "Music-matured sake, apparel and watches are at the No.2 shop (Oto-Ani Lifestyle) on Chuo-dori, not here."
+  ]
+ },
+ "official_url": "https://onkyoanime.com/",
+ "sns": {
+  "x": "https://x.com/ONKYO_ANIME"
+ },
+ "chain": "onkyo-direct",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://onkyoanime.com/about",
+  "https://onkyoanime.com/",
+  "https://onkyoanime-lifestyle.com/"
+ ],
+ "osm_id": "node/12128984838"
+}

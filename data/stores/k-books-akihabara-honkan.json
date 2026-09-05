@@ -1,0 +1,147 @@
+{
+ "id": "k-books-akihabara-honkan",
+ "name": {
+  "ko": "케이북스 아키하바라 본관",
+  "en": "K-BOOKS Akihabara Honkan",
+  "ja": "K-BOOKS秋葉原本館"
+ },
+ "synonyms": [
+  "케이북스",
+  "케이북스 아키하바라",
+  "케이북스 본관",
+  "케이북스 멘즈관",
+  "K-BOOKS 아키하바라 본관",
+  "K북스",
+  "K-BOOKS 아키바",
+  "K-BOOKS 아키하바라 멘즈관",
+  "ケイブックス",
+  "ケイ・ブックス",
+  "K-BOOKS秋葉原MEN'S館",
+  "K-BOOKS Akihabara Hon-Kan",
+  "K-BOOKS Akihabara Main Store",
+  "K-BOOKS Akihabara MEN'S-kan",
+  "K-BOOKS Akiba",
+  "kbooks"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "used",
+  "buyback",
+  "doujinshi",
+  "r18",
+  "vtuber",
+  "idol_goods",
+  "seiyuu",
+  "love_live",
+  "ensemble_stars",
+  "project_sekai",
+  "bishoujo_game",
+  "touhou",
+  "tapestry",
+  "dakimakura",
+  "figure"
+ ],
+ "one_line": {
+  "ko": "중고 캐릭터 굿즈·피규어와 성우·VTuber 굿즈. 같은 층 MEN'S관은 R-18 동인지",
+  "en": "Used character goods, figures and seiyuu/VTuber merch; R-18 doujinshi in the MEN'S-kan"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "3F",
+   "ko": "본관: 중고 캐릭터 굿즈·피규어·성우/VTuber 굿즈 | MEN'S관: 남성향 R-18 동인지·미소녀 게임·태피스트리",
+   "en": "Honkan: used character goods, figures, seiyuu/VTuber merch | MEN'S-kan: men's R-18 doujinshi, bishoujo games, tapestries"
+  }
+ ],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:30",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라디오회관 건물은 10:00 개관이지만 K-BOOKS는 평일 12:00 오픈. 개장 공사·법정 점검에 따른 임시 휴업과 시간 변경이 잦으므로 라디오회관 공지(3F K-BOOKS) 확인",
+   "en": "The building opens at 10:00 but K-BOOKS opens at 12:00 on weekdays. Temporary closures and shortened hours (renovation work, statutory building inspections) are posted as '3F K-BOOKS' notices on the Radio Kaikan site"
+  },
+  "source_url": "https://www.k-books.co.jp/shop/akihabara_honkan"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "3F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 바로 앞의 라디오회관 건물. 1F 정면 입구로 들어가 에스컬레이터나 엘리베이터로 3F에 오르면 층 전체가 K-BOOKS이며, 왼쪽이 본관, 안쪽 별도 입구가 남성향 MEN'S관.",
+  "en": "Radio Kaikan is the building directly in front of JR Akihabara's Electric Town Exit. Enter on 1F and take the escalator or elevator to 3F; the whole floor is K-BOOKS — the Honkan on one side, the men's MEN'S-kan through its own entrance."
+ },
+ "tips": {
+  "ko": [
+   "평일은 12:00 오픈으로 주말·공휴일(11:30)보다 늦게 문을 연다. 건물 자체는 10:00 개관이므로 시간 착오 주의.",
+   "같은 3F의 MEN'S관은 남성향 R-18 동인지·미소녀 게임 매장으로 계산대가 따로 있고 연령 확인을 요구한다. 미성년자·가족 동반이면 본관 쪽만 이용.",
+   "신용카드(JCB·VISA·Master·AMEX·UnionPay), 교통계 IC카드, PayPay·Alipay·WeChat Pay 등 QR 결제 가능. 면세 안내는 공식 사이트에 없으므로 카운터에서 확인.",
+   "매입(買取)은 굿즈·피규어·애니 CD/영상물 위주. 성인향 상품·게임 소프트·아이돌(3차원) 굿즈·일반 서적·동인 상품은 매입 대상 외이며, 18세 미만은 별도 조건 확인."
+  ],
+  "en": [
+   "Opens at 12:00 on weekdays and 11:30 on weekends and holidays; the building itself opens at 10:00, so do not arrive early.",
+   "The MEN'S-kan on the same 3F is an 18+ area for men's doujinshi and bishoujo games, with its own register and an age check. With kids in tow, stay on the Honkan side.",
+   "Credit cards (JCB, VISA, Mastercard, AMEX, UnionPay), transit IC cards and QR payments (PayPay, Alipay, WeChat Pay) are accepted. Tax-free is not advertised on the official site, so ask at the counter.",
+   "Buyback covers goods, figures and anime CDs/video; adult items, game software, real-life idol goods, general books and doujin items are not accepted, and under-18s face extra conditions."
+  ]
+ },
+ "official_url": "https://www.k-books.co.jp/shop/akihabara_honkan",
+ "sns": {
+  "x": "https://x.com/kbooksofficial"
+ },
+ "chain": "k-books",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.k-books.co.jp/shop/akihabara_honkan",
+  "https://www.k-books.co.jp/shop/akihabara_mens",
+  "https://www.k-books.co.jp/shop/",
+  "https://www.k-books.co.jp/en/",
+  "https://www.k-books.co.jp/contents/payment.php",
+  "https://www.k-books.co.jp/contents/purchase.php",
+  "https://www.k-books.co.jp/shop/sns.php",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/k-books/",
+  "https://akihabara-radiokaikan.co.jp/access/",
+  "https://akihabara-radiokaikan.co.jp/information/",
+  "https://akihabara-radiokaikan.co.jp/29549/",
+  "https://akihabara-radiokaikan.co.jp/29035/",
+  "https://ja.wikipedia.org/wiki/K-BOOKS"
+ ],
+ "osm_id": "node/3099886373"
+}

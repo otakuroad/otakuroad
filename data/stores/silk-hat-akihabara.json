@@ -1,0 +1,182 @@
+{
+ "id": "silk-hat-akihabara",
+ "name": {
+  "ko": "실크햇 아키하바라",
+  "en": "Silk Hat Akihabara",
+  "ja": "シルクハット秋葉原"
+ },
+ "synonyms": [
+  "실크햇",
+  "실크해트",
+  "실크햇 아키바",
+  "실크햇 아키하바라점",
+  "シルクハット",
+  "シルクハット秋葉原",
+  "SILKHAT",
+  "SILK HAT AKIBA",
+  "Silkhat Akiba",
+  "SILKHAT_Akiba",
+  "구 GiGO 아키하바라 1호관",
+  "구 세가 아키하바라 1호관",
+  "GiGO秋葉原1号館跡"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "rhythm_game",
+  "video_game",
+  "gundam",
+  "bemani",
+  "darts",
+  "kids_card_game",
+  "ichiban_kuji"
+ ],
+ "one_line": {
+  "ko": "크레인게임 4개 층·리듬게임 2개 층·카드게임의 9층 오락실, 건담 EXVS2 58대",
+  "en": "Nine-floor arcade: 4 floors of crane games, 2 of rhythm games, 58 Gundam EXVS2 units"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "비디오게임 — 건담 EXVS2 인피니트 부스트 58대(일본 최대급, 시간제 대여 예약)",
+   "en": "Video games: 58 Gundam Extreme Versus 2 Infinite Boost cabinets (largest bank in Japan; time-slot rental)"
+  },
+  {
+   "floor": "1F",
+   "ko": "크레인게임 — 인형·잡화 경품",
+   "en": "Crane games: plush and character-goods prizes"
+  },
+  {
+   "floor": "2F",
+   "ko": "크레인게임 — 인형·잡화 경품, 경품과 함께 찍는 포토 스팟",
+   "en": "Crane games: plush and goods prizes, plus a photo spot for shooting with your prize"
+  },
+  {
+   "floor": "3F",
+   "ko": "크레인게임 — 피규어 경품(신작부터 정번까지), 포토 스팟",
+   "en": "Crane games: figure prizes from new releases to standards, plus a photo spot"
+  },
+  {
+   "floor": "4F",
+   "ko": "크레인게임 — 피규어 경품(신작부터 정번까지)",
+   "en": "Crane games: figure prizes from new releases to standards"
+  },
+  {
+   "floor": "5F",
+   "ko": "카드게임 — 건담 아스널 베이스, 오레카배틀2, 포켓몬 프렌다, 히미츠노 아이프리, 아이프리 버스",
+   "en": "Card games: Gundam Arsenal Base, Oreca Battle 2, Pokemon Frenda, Himitsu no Aipri, Aipri Verse"
+  },
+  {
+   "floor": "6F",
+   "ko": "리듬게임(세가·반다이남코 계열) — 태고의 달인, CHUNITHM, maimai 디럭스, 온게키, 드럼매니아·기타프릭스 아레나 모델",
+   "en": "Rhythm games (Sega and Bandai Namco titles): Taiko no Tatsujin, CHUNITHM, maimai DX, Ongeki, DrumMania and GuitarFreaks Arena Model"
+  },
+  {
+   "floor": "7F",
+   "ko": "리듬게임(코나미 BEMANI) — beatmania IIDX 라이트닝 모델 13대(배신 대응 기체 포함), SOUND VOLTEX 발키리 모델 9대",
+   "en": "Rhythm games (Konami BEMANI): 13 beatmania IIDX Lightning Model cabinets (one streaming-ready), 9 SOUND VOLTEX Valkyrie Model"
+  },
+  {
+   "floor": "8F",
+   "ko": "BEMANI STUDIO(배신용 부스) · 다트 DARTSLIVE3 8대 · 이치방쿠지 등 캐릭터 쿠지와 굿즈 판매",
+   "en": "BEMANI STUDIO (streaming booth), darts (8 DARTSLIVE3), Ichiban Kuji character lotteries and goods"
+  }
+ ],
+ "location": {
+  "lat": 35.698711,
+  "lng": 139.771024
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-10-9",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "None (open year-round)"
+  },
+  "note": {
+   "ko": "전 층 같은 시간에 열고 닫는다. 전화 문의 접수는 평일 10:00~17:00만.",
+   "en": "All floors keep the same hours; phone inquiries are taken weekdays 10:00-17:00 only."
+  },
+  "source_url": "https://am.silkhat-entertainment.co.jp/shop/akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open",
+  "note": {
+   "ko": "2025-11-22 개업. 2025-08-31 폐관한 GiGO 아키하바라 1호관(구 세가 1호관, 1992년 하이테크랜드 세가 신토쿠로 개점) 자리다.",
+   "en": "Opened 2025-11-22 in the former GiGO Akihabara No.1 building (ex-Sega No.1, a game centre since 1992), which closed on 2025-08-31."
+  },
+  "effective_date": "2025-11-22"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 보도, 소프맵 AKIBA 어뮤즈먼트관에서 남쪽으로 20~30m 내려간 흰색 9층(B1F~8F) 건물. JR 아키하바라역 전기가 출구에서 도보 3분이고, 건물 바로 뒤(서쪽)가 도쿄 라디오 데파트다. 2025년 8월까지 GiGO 아키하바라 1호관이던 자리.",
+  "en": "On the west pavement of Chuo-dori, 20-30 m south of Sofmap AKIBA Amusement-kan: a white nine-floor building (B1F-8F), three minutes from the JR Akihabara Denkigai Exit, with Tokyo Radio Depart immediately behind it to the west. It was GiGO Akihabara No.1 until August 2025."
+ },
+ "tips": {
+  "ko": [
+   "B1F 건담 EXVS2 인피니트 부스트 58대와 8F BEMANI STUDIO는 공식 예약 사이트(airrsv)에서 시간제 대여를 받는다. 접수 기간이 아니면 예약 메뉴가 열리지 않는다.",
+   "크레인게임은 1~2F가 인형·잡화, 3~4F가 피규어 경품이고, 경품과 함께 찍는 포토 스팟은 2~3F에 있다.",
+   "리듬게임은 6F가 태고의 달인·CHUNITHM·maimai·온게키, 7F가 beatmania IIDX와 SOUND VOLTEX로 나뉘어 있다.",
+   "10:00~24:00 연중무휴지만 결제 수단과 면세 여부는 공식 페이지에 표기가 없으니 동전과 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "The 58 Gundam EXVS2 Infinite Boost cabinets on B1F and the 8F BEMANI STUDIO take time-slot bookings through the official reservation site (airrsv); the menu only opens during a booking period.",
+   "Crane games run 1F-2F for plush and goods and 3F-4F for figures; the photo spots where you shoot with your prize are on 2F and 3F.",
+   "Rhythm games are split: 6F has Taiko no Tatsujin, CHUNITHM, maimai and Ongeki, 7F has beatmania IIDX and SOUND VOLTEX.",
+   "Open 10:00-24:00 all year, but payment methods and tax-free status are not stated on the official page, so bring coins and cash."
+  ]
+ },
+ "official_url": "https://am.silkhat-entertainment.co.jp/shop/akihabara/",
+ "sns": {
+  "x": "https://x.com/SILKHAT_Akiba",
+  "instagram": "https://www.instagram.com/silkhat_akihabara/"
+ },
+ "chain": "silk-hat",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://am.silkhat-entertainment.co.jp/shop/akihabara/",
+  "https://am.silkhat-entertainment.co.jp/",
+  "https://airrsv.net/SILK-AKIBA/calendar",
+  "https://prtimes.jp/main/html/rd/p/000000007.000136099.html",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2063401.html",
+  "https://www.4gamer.net/games/999/G999905/20250715010/"
+ ],
+ "osm_id": "node/1915127703",
+ "photo": null
+}

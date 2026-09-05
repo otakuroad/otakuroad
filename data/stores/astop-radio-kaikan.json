@@ -1,0 +1,113 @@
+{
+ "id": "astop-radio-kaikan",
+ "name": {
+  "ko": "아스톱 라디오회관점",
+  "en": "Rental Showcase ASTOP Radio Kaikan",
+  "ja": "レンタルショーケース アストップ ラジオ会館店"
+ },
+ "synonyms": [
+  "아스톱",
+  "아스톱 라디오회관",
+  "렌탈 쇼케이스 아스톱",
+  "렌탈 쇼케이스 아스톱 라디오회관점",
+  "ASTOP",
+  "A-STOP",
+  "ASTOP Radio Kaikan",
+  "Astop Akiba",
+  "アストップ",
+  "アツトップ",
+  "レンタルショーケース アストップ",
+  "アストップ ラジオ会館店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "consignment",
+  "showcase",
+  "figure",
+  "prize_figure",
+  "trading_card",
+  "idol_goods",
+  "minicar",
+  "game_soft",
+  "used"
+ ],
+ "one_line": {
+  "ko": "개인이 위탁한 피규어·굿즈·트레카·미니카를 진열한 렌탈 쇼케이스 매장",
+  "en": "Rental showcase of collector-consigned figures, goods, trading cards and minicars"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물 개관은 10:00이지만 이 매장은 10:30 오픈. 임시 영업시간 변경은 라디오회관 공지에 '2F レンタルショーケース アストップ ラジオ会館店'로 게시된다.",
+   "en": "The building opens at 10:00 but this shop opens at 10:30. Temporary hour changes are posted on the Radio Kaikan site as '2F レンタルショーケース アストップ ラジオ会館店' notices."
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/astop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 2층. 유리 쇼케이스가 벽면을 채운 구역이 이 매장이며, 같은 층에 하비코로 완구 라디오회관점, 호비스테이션 아키하바라 역전점, 카드숍 카이조쿠오, 토모카 전기 프로숍이 있다.",
+  "en": "Radio Kaikan 2F. This is the area walled with glass display cases; Havikoro Toy, Hobby Station Ekimae, Card Shop Kaizokuoh and the Tomoca Electric pro shop share the floor."
+ },
+ "tips": {
+  "ko": [
+   "케이스마다 주인이 다른 위탁 판매라 가격과 재고가 제각각이고 회전이 빠르다. 찾는 물건이 있으면 한 번에 훑어보는 편이 좋다.",
+   "취급 품목은 피규어·소프비·봉제인형·캐릭터 굿즈·트레카·미니카·게임기와 소프트까지 폭이 넓다.",
+   "같은 회사가 AKIBA 컬처즈존 4층과 아키하바라 라디오센터에도 쇼케이스 매장을 운영하므로 이름만 보고 헷갈리기 쉽다."
+  ],
+  "en": [
+   "Each case has a different owner, so prices and stock vary case by case and turn over fast; scan the whole room in one pass.",
+   "Items range widely: figures, sofubi, plush, character goods, trading cards, minicars and game consoles and software.",
+   "The same company runs showcase shops on 4F of AKIBA Cultures Zone and in Akihabara Radio Center, which are easy to confuse with this one."
+  ]
+ },
+ "official_url": "https://www.astop.co.jp/radio",
+ "sns": {
+  "x": "https://x.com/Astop_Akiba"
+ },
+ "chain": "astop",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/astop/",
+  "https://www.astop.co.jp/radio",
+  "https://www.astop.co.jp/radio/en/",
+  "https://www.astop.co.jp/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/"
+ ],
+ "osm_id": "node/10136676018"
+}

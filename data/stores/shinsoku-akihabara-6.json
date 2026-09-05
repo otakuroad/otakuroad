@@ -1,0 +1,89 @@
+{
+ "id": "shinsoku-akihabara-6",
+ "name": {
+  "ko": "신소쿠 아키하바라 6호점",
+  "en": "Shinsoku Akihabara 6th Store",
+  "ja": "シンソク秋葉原6号店"
+ },
+ "synonyms": [
+  "신소쿠",
+  "신소쿠 6호점",
+  "신소쿠 아키하바라6호점",
+  "카드숍 신소쿠",
+  "シンソク",
+  "シンソク秋葉原6号店",
+  "シンソク 秋葉原6号店",
+  "カードショップシンソク",
+  "Shinsoku",
+  "Shinsoku Akihabara No.6",
+  "Shinsoku Akihabara 6"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "singles",
+  "sealed_box",
+  "showcase",
+  "new",
+  "used",
+  "new_shop_2026"
+ ],
+ "one_line": {
+  "ko": "매입 없이 판매만 하는 2개 층 매장. 포켓몬·원피스 카드 싱글과 미개봉 박스",
+  "en": "Sales-only two-floor card store on Chuo-dori; Pokemon and One Piece singles and boxes"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70121,
+  "lng": 139.77128
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-8 新末広ビルB 1F・2F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 면, JR 아키하바라역에서 도보 5분·긴자선 스에히로초역에서 도보 2분. 레트로 게임 캠프가 들어선 신스에히로 빌딩(新末広ビル)의 B동 노면 1층이며, 매장은 1층과 2층을 쓴다.",
+  "en": "On the west side of Chuo-dori, five minutes from JR Akihabara and two from Suehirocho. It is the B wing of the Shin-Suehiro Building - the same building as Retro Game Camp - at street level, using 1F and 2F."
+ },
+ "tips": {
+  "ko": [
+   "2026년 8월 10일 개점한 체인 최초의 판매 전용 점포로, 이곳에서는 매입을 하지 않는다. 카드를 팔 계획이라면 도보 5분 거리의 신소쿠 매입센터(丸山ビル 1F)나 3호점으로 간다.",
+   "특별 제작 쇼케이스에 고액 싱글을 진열해 두어 실물을 보고 고르기 좋다.",
+   "공식 사이트에 영업시간이 공개돼 있지 않으므로 공식 X(@shinsoku_akb6th)에서 확인한다."
+  ],
+  "en": [
+   "Opened 10 August 2026 as the chain's first sales-only store - it does not buy cards. To sell, use the Shinsoku buyback centre (Maruyama Bldg 1F) or the 3rd store, both a few minutes away.",
+   "High-value singles are laid out in custom-built showcases, so you can look before you buy.",
+   "No opening hours are published on the official site, so check the shop's X account (@shinsoku_akb6th)."
+  ]
+ },
+ "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+ "sns": {
+  "x": "https://x.com/shinsoku_akb6th"
+ },
+ "chain": "shinsoku",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+  "https://shinsoku-tcg.com/kaitori",
+  "https://www.cardshop-shinsoku.jp/info"
+ ],
+ "osm_id": null
+}

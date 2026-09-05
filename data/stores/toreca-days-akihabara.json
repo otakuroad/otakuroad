@@ -1,0 +1,84 @@
+{
+ "id": "toreca-days-akihabara",
+ "name": {
+  "ko": "트레카데이즈 아키하바라점",
+  "en": "Toreca Days Akihabara",
+  "ja": "トレカデイズ秋葉原店"
+ },
+ "synonyms": [
+  "트레카데이즈",
+  "트레카 데이즈",
+  "토레카데이즈",
+  "트레카데이즈 아키하바라",
+  "Toreca Days",
+  "Toreca Days Akihabara",
+  "torekadays",
+  "トレカデイズ",
+  "トレカデイズ秋葉原店 (5F)",
+  "秋葉原センタービル501のトレカデイズ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "buyback",
+  "online_buyback",
+  "upper_floor"
+ ],
+ "one_line": {
+  "ko": "빌딩 5층 501호실의 소규모 트레카 매장, 점두·온라인 매입 창구",
+  "en": "Small fifth-floor room-501 card shop with in-store and online buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697429,
+  "lng": 139.772403
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-16-10 秋葉原センタービル501（5F）",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 남쪽, 소프맵이 있는 외신다 1-16 블록의 사무실형 빌딩 5층 501호실. 노면 점포가 아니라 간판이 거의 없으므로 건물 입구의 층별 안내판에서 501호를 확인하고 엘리베이터로 올라간다.",
+  "en": "South of JR Akihabara station, in the 1-16 block that also holds a Sofmap branch: room 501 on 5F of an office building. It is not a street-level shop and barely signposted, so check the lobby board for 501 and take the elevator."
+ },
+ "tips": {
+  "ko": [
+   "공식 영업시간 안내는 없다. 카드숍 디렉터리 토레카맵은 평일 13:00-20:00, 토·일·공휴일 13:00-19:30, 부정기 휴무로 적고 있다. 오전에는 열지 않는다.",
+   "점두 매입과 온라인 매입을 함께 받는다. 듀얼 스페이스(플레이 공간)는 없다.",
+   "지도 핀은 외신다 1-16 블록 기준의 근사 위치다. 건물명(秋葉原センタービル)과 501호실 번호로 찾는 편이 확실하다.",
+   "임시 휴업과 재고는 공식 X(@TDakb01)에 올라온다."
+  ],
+  "en": [
+   "No official hours are published. The card-shop directory Torecamap lists 13:00-20:00 on weekdays and 13:00-19:30 on weekends and holidays, with irregular closing days. It does not open in the morning.",
+   "It takes both in-store and online buyback; there is no duel space.",
+   "The map pin is approximate, placed from the 1-16 block; look for the building name 秋葉原センタービル and room 501.",
+   "Temporary closures and stock go up on the shop's X account (@TDakb01)."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/TDakb01"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2152",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/?page=6"
+ ],
+ "osm_id": null
+}

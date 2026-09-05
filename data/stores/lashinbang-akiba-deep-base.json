@@ -1,0 +1,119 @@
+{
+ "id": "lashinbang-akiba-deep-base",
+ "name": {
+  "ko": "라신방 AKIBA DEEP BASE",
+  "en": "Lashinbang AKIBA DEEP BASE",
+  "ja": "らしんばんAKIBA DEEP BASE"
+ },
+ "synonyms": [
+  "라신방 아키바 딥베이스",
+  "라신방 딥베이스",
+  "라신방 아키하바라 3호점",
+  "딥베이스",
+  "らしんばん AKIBA DEEP BASE",
+  "らしんばんアキバディープベース",
+  "AKIBA DEEP BASE",
+  "Lashinbang Deep Base",
+  "Lashinbang Akihabara 3"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "used",
+  "buyback",
+  "doujinshi",
+  "doujin_rom",
+  "doujin_goods",
+  "bishoujo_game",
+  "figure",
+  "tapestry",
+  "r18",
+  "tax_free",
+  "cash_only"
+ ],
+ "one_line": {
+  "ko": "중고 남성향 동인지·동인 ROM과 미소녀 게임·피규어·태피스트리를 파는 라신방 3호점",
+  "en": "Used men's doujinshi, doujin ROMs, bishoujo games, figures and tapestries; cash only"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701325,
+  "lng": 139.771861
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-4-3 秋葉原SILビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "No regular holiday"
+  },
+  "note": {
+   "ko": "판매는 전일 11:00–21:00, 매입 접수는 11:00–18:00",
+   "en": "Sales floor 11:00-21:00 every day; the buyback counter takes items 11:00-18:00"
+  },
+  "source_url": "https://www.lashinbang.com/store/196/"
+ },
+ "tax_free": true,
+ "payment": "cash_only",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "3F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽, 스루가야 프라모델관에서 북쪽으로 한 블록 간 秋葉原SIL 빌딩 3층. 긴자선 스에히로초역 1번 출구에서 도보 3분, JR 전기가 출구에서 도보 7분이며 엘리베이터로 3층까지 올라간다.",
+  "en": "3F of the Akihabara SIL Building on the east side of Chuo-dori, a block north of Surugaya's plastic-model store. Three minutes from Suehirocho exit 1, seven from the JR Electric Town exit; take the lift to 3F."
+ },
+ "tips": {
+  "ko": [
+   "결제는 엔화 현금만 가능하며 카드는 받지 않는다(애니메이트 포인트는 사용 가능). 면세는 대응한다",
+   "남성향 동인지·미소녀 게임·성인 대상 피규어와 코믹 비중이 높아 매장에서 연령 확인을 받을 수 있다",
+   "매입 접수는 11:00–18:00이며 남성 동인지·동인 ROM·미소녀 게임·성인향 피규어/코믹·테레카 등만 취급. 그 외 품목은 신관이나 라디오회관점으로",
+   "아키하바라 라신방 3호점으로, 일반 캐릭터 굿즈는 신관(AKIBA 컬처즈존)·라디오회관점 쪽이 넓다"
+  ],
+  "en": [
+   "Yen cash only - no cards (animate points are accepted). Tax-free is available",
+   "The stock leans heavily to men's doujinshi, bishoujo games and 18+ figures and comics, so expect an age check",
+   "Buyback runs 11:00-18:00 and covers only men's doujinshi, doujin ROMs, bishoujo games, adult figures and comics and phone cards; anything else goes to the Shinkan or Radio Kaikan branch",
+   "This is Lashinbang's third Akihabara shop; for general character goods the Shinkan (AKIBA Cultures Zone) and Radio Kaikan stores are larger"
+  ]
+ },
+ "official_url": "https://www.lashinbang.com/store/196/",
+ "sns": {
+  "x": "https://x.com/lashin_akiba3"
+ },
+ "chain": "lashinbang",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.lashinbang.com/store/196/",
+  "https://api.lashinbang.com/api/get_store",
+  "https://www.lashinbang.com/store/"
+ ],
+ "osm_id": null
+}

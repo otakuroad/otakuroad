@@ -1,0 +1,119 @@
+{
+ "id": "busou-shouten-akihabara",
+ "name": {
+  "ko": "부소쇼텐",
+  "en": "Busou Shouten",
+  "ja": "武装商店"
+ },
+ "synonyms": [
+  "무장상점",
+  "부소 쇼텐",
+  "부소상점",
+  "아키하바라 무기점",
+  "Busou Shoten",
+  "Busoushouten",
+  "Akihabara weapon shop",
+  "ぶそうしょうてん",
+  "武装商店 秋葉原"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "prop",
+  "replica_sword",
+  "japanese_sword",
+  "iaido",
+  "model_gun",
+  "denix",
+  "armor",
+  "shuriken",
+  "bokken",
+  "new"
+ ],
+ "one_line": {
+  "ko": "코스프레어와 소품 수집가용 모조 도검·서양 검·도끼·비발사 총 모형 전문점",
+  "en": "Replica swords, axes and non-firing gun models for cosplayers and prop collectors"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701694,
+  "lng": 139.771364
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-7 麻野ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일 휴무(화요일이 공휴일이면 영업하고 다음 날 수요일에 대체 휴무)",
+   "en": "Closed Tuesdays; if the Tuesday is a public holiday the shop opens and closes the next Wednesday instead"
+  },
+  "note": {
+   "ko": "평일·토·일·공휴일 모두 12:00-19:30으로 같다. 공식 사이트 '店舗案内' 페이지와 첫 화면에 같은 시간이 적혀 있다.",
+   "en": "Same 12:00-19:30 on weekdays, weekends and public holidays; the official shop-guide page and the top page both state these hours."
+  },
+  "source_url": "https://busou.sakura.ne.jp/guide.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽, 아파호텔 바로 북쪽에 붙은 5층짜리 아사노(麻野) 빌딩 3층. 북쪽 옆 건물은 고구레스에히로 빌딩(PDG 본점)이므로 3-15-7 번지를 확인하고 들어간다. 공식 사이트는 거리 변화가 심해 지도를 내렸다고 안내한다.",
+  "en": "Third floor of the five-storey Asano Building on the west side of Chuo-dori, immediately north of the APA Hotel. The next building north is the Kogure Suehiro Building, so check the 3-15-7 address. The shop's own site says it removed its map because the street changes too fast."
+ },
+ "tips": {
+  "ko": [
+   "화요일 정기휴무. 화요일이 공휴일이면 그날은 영업하고 다음 수요일에 쉰다.",
+   "취급품은 미술도·이아이 연습도 같은 모조 도검, DENIX의 비발사 총·검 모형, 목도·수리검·시코미즈에·철선 등이며 진검은 없다.",
+   "JCB·AMEX·VISA·Master·Diners 카드를 쓸 수 있지만 매장 결제에 한한다.",
+   "소수 인원으로 운영해 전화를 못 받을 때가 많고, 공식 안내도 메일 문의를 권한다."
+  ],
+  "en": [
+   "Closed on Tuesdays; when the Tuesday is a public holiday it stays open and closes the following Wednesday.",
+   "Stock is replica blades (display and iaido practice swords), DENIX non-firing sword and gun models, bokken, shuriken, sword canes and iron fans - no live blades.",
+   "JCB, AMEX, VISA, Mastercard and Diners Club are accepted, but in-store only.",
+   "The shop is run by a very small team and often cannot answer the phone; its own site asks you to email instead."
+  ]
+ },
+ "official_url": "https://busou.sakura.ne.jp/",
+ "sns": {
+  "x": "https://x.com/busou"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://busou.sakura.ne.jp/guide.html",
+  "https://busou.sakura.ne.jp/top.html",
+  "https://busou.sakura.ne.jp/menu.html",
+  "https://busou3.sakura.ne.jp/shop/",
+  "https://busou3.sakura.ne.jp/shop/help/tradelaw",
+  "https://tokyolucci.jp/busoushouten-akihabara",
+  "https://entermedia-akiba.com/busousyouten/"
+ ],
+ "osm_id": "node/5225758714"
+}

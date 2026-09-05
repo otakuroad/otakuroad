@@ -1,0 +1,171 @@
+{
+ "id": "mandarake-complex-2",
+ "name": {
+  "ko": "만다라케 컴플렉스2",
+  "en": "Mandarake Complex 2",
+  "ja": "まんだらけコンプレックス2"
+ },
+ "synonyms": [
+  "만다라케 컴플렉스 2",
+  "만다라케 콤플렉스2",
+  "만다라케 2호관",
+  "만다라케 컴플렉스투",
+  "Mandarake Complex2",
+  "Mandarake CMP2",
+  "Mandarake Akihabara Complex 2",
+  "まんだらけ コンプレックス2",
+  "まんだらけコンプレックス２",
+  "コンプレックス2",
+  "コンプ2"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "trading_card",
+  "game_software",
+  "cd_dvd",
+  "capsule_toy",
+  "minicar",
+  "model_train",
+  "r18",
+  "tokusatsu",
+  "shokugan"
+ ],
+ "one_line": {
+  "ko": "중고 트레카·게임·CD/DVD·소형 완구·철도 굿즈를 9개 층에 나눠 파는 만다라케 2호점",
+  "en": "Used cards, games, CDs/DVDs, micro and vehicle toys and railway goods on nine floors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "입구·트레이딩 카드",
+   "en": "Entrance and trading cards"
+  },
+  {
+   "floor": "2F",
+   "ko": "트레이딩 카드",
+   "en": "Trading cards"
+  },
+  {
+   "floor": "3F",
+   "ko": "게임 소프트·게임기",
+   "en": "Video games and consoles"
+  },
+  {
+   "floor": "4F",
+   "ko": "CD·DVD·블루레이",
+   "en": "CDs, DVDs and Blu-ray"
+  },
+  {
+   "floor": "5F",
+   "ko": "CD·DVD·블루레이",
+   "en": "CDs, DVDs and Blu-ray"
+  },
+  {
+   "floor": "6F",
+   "ko": "미크로 — 소형 완구·식완·캡슐토이",
+   "en": "Micro: small toys, shokugan and capsule toys"
+  },
+  {
+   "floor": "7F",
+   "ko": "탈것 완구(미니카·모형차)",
+   "en": "Vehicle toys"
+  },
+  {
+   "floor": "8F",
+   "ko": "철도 굿즈",
+   "en": "Railway goods"
+  },
+  {
+   "floor": "9F",
+   "ko": "킨쇼보(禁書房) — 성인용 상품, 18세 미만 입장 불가",
+   "en": "Kinshobo: adult material, 18+ only"
+  }
+ ],
+ "location": {
+  "lat": 35.70002,
+  "lng": 139.770477
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-12-2",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입 접수는 이 건물에서 하지 않는다. 약 40m 북쪽 만다라케 컴플렉스(外神田3-11-12) 1층 매입 카운터를 이용.",
+   "en": "No buyback here: items are taken at the 1F buyback counter of the original Mandarake Complex (外神田3-11-12), about 40 m north."
+  },
+  "source_url": "https://www.mandarake.co.jp/dir/cmp2/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "9F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "기존 만다라케 컴플렉스(검은 8층 건물)에서 잔크도리를 따라 남쪽으로 한 골목 건너, 예전 킷친지로 외칸다점·라멘 교스케 자리에 2025년 8월 세워진 새 9층 건물. 이름이 거의 같은 두 건물이 40m 거리에 마주 보고 있으므로 간판의 '2'를 확인할 것. JR 아키하바라 전기가 출구에서 도보 4분.",
+  "en": "A new nine-storey building put up in August 2025 on the old Kitchen Jiro / Kyosuke ramen site, one lane south of the original all-black Mandarake Complex on Junk Street. The two near-identically named buildings face each other about 40 m apart, so check for the '2' on the sign. Four minutes from the JR Akihabara Electric Town exit."
+ },
+ "tips": {
+  "ko": [
+   "2025년 8월 30일 개점. 기존 컴플렉스에 있던 트레이딩 카드·게임·CD/DVD·철도 굿즈 매장이 이쪽으로 옮겨왔다.",
+   "매입(買取)은 이 건물에서 받지 않는다. 팔 물건이 있으면 컴플렉스 1층 카운터(폐점 30분 전 마감)로.",
+   "9층 킨쇼보는 성인용 매장이라 18세 미만은 들어갈 수 없다. 1~8층은 연령 제한이 없다.",
+   "12:00 개점으로 아키하바라의 다른 가게보다 늦게 문을 연다. 연중무휴."
+  ],
+  "en": [
+   "Opened 30 August 2025; the trading-card, game, CD/DVD and railway-goods departments moved here from the original Complex.",
+   "Buyback is not handled in this building — take items to the 1F counter of the original Complex (closes 30 minutes before the shop).",
+   "The 9F Kinshobo is an adults-only floor; under-18s cannot enter. Floors 1-8 have no age restriction.",
+   "It opens at 12:00, later than most Akihabara shops, and is open every day of the year."
+  ]
+ },
+ "official_url": "https://www.mandarake.co.jp/dir/cmp2/",
+ "sns": {},
+ "chain": "mandarake",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.mandarake.co.jp/dir/cmp2/",
+  "https://www.mandarake.co.jp/shop/"
+ ],
+ "osm_id": null
+}

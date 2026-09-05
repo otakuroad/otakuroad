@@ -1,0 +1,94 @@
+{
+ "id": "shinsoku-akihabara-3",
+ "name": {
+  "ko": "신소쿠 아키하바라 3호점",
+  "en": "Shinsoku Akihabara 3rd Store",
+  "ja": "シンソク秋葉原3号店"
+ },
+ "synonyms": [
+  "신소쿠",
+  "신소쿠 3호점",
+  "신소쿠 아키하바라3호점",
+  "카드숍 신소쿠",
+  "シンソク",
+  "シンソク秋葉原3号店",
+  "シンソク 秋葉原3号店",
+  "カードショップシンソク",
+  "Shinsoku",
+  "Shinsoku Akihabara No.3",
+  "Shinsoku Akihabara 3"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "singles",
+  "sealed_box",
+  "psa",
+  "buyback",
+  "new",
+  "used",
+  "new_shop_2026"
+ ],
+ "one_line": {
+  "ko": "주오도리 노면 1층·B1층 점포. 포켓몬·원피스 카드 싱글과 매입",
+  "en": "Street-level 1F/B1F card shop on Chuo-dori; Pokemon and One Piece singles and buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701228,
+  "lng": 139.771854
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル 1F・B1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽 면, 긴자선 스에히로초역에서 도보 2분·JR 아키하바라역에서 도보 6분. 스루가야 프라모델관(2·3층)과 메이드리밍 아이돌도리점(4층)이 들어선 共益外神田第1ビル 1층 노면 점포이며, 매장은 1층과 지하 1층 두 층을 쓴다.",
+  "en": "On the east side of Chuo-dori, two minutes from Suehirocho Station and six from JR Akihabara. It is the street-level unit of the Kyoeki Sotokanda No.1 Building, the one with Surugaya's plastic-model store on 2F-3F and Maidreamin Idol-dori on 4F; the shop uses 1F and B1F."
+ },
+ "tips": {
+  "ko": [
+   "2026년 5월 2일 선행 오픈(판매만), 5월 20일 정식 개점한 체인의 기함점. 노면 1층이라 계단·엘리베이터 없이 바로 들어갈 수 있다.",
+   "매입 상담용 개인실(VIP룸)이 있어 고액 카드 거래도 통로에서 하지 않는다.",
+   "공식 사이트에 영업시간이 없고 일본 트레카 디렉터리에는 13:00-19:00으로 올라와 있다. 방문 전 공식 X(@shinsoku_akb3rd) 확인 권장.",
+   "같은 주오도리 블록에 리버티 4·5호점, 스루가야 애니메호비관 등 카드·굿즈 매장이 몰려 있어 함께 돌기 좋다."
+  ],
+  "en": [
+   "The chain's flagship: a sales-only pre-opening on 2 May 2026, full opening on 20 May. Being street level, you walk straight in with no stairs or lift.",
+   "There is a private VIP room for buyback appraisals, so high-value deals are not done in an open aisle.",
+   "The official site lists no hours; Japanese card directories show 13:00-19:00, so check the shop's X account (@shinsoku_akb3rd) first.",
+   "Liberty's 4th and 5th stores and Surugaya's anime and hobby building are on the same Chuo-dori block, so they combine well in one walk."
+  ]
+ },
+ "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+ "sns": {
+  "x": "https://x.com/shinsoku_akb3rd"
+ },
+ "chain": "shinsoku",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+  "https://shinsoku-tcg.com/kaitori",
+  "https://www.cardshop-shinsoku.jp/info",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2649"
+ ],
+ "osm_id": null
+}

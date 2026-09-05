@@ -1,0 +1,117 @@
+{
+ "id": "popondetta-akiba-reuse",
+ "name": {
+  "ko": "포폰데타 아키바 리유스점",
+  "en": "Popondetta Akiba Reuse",
+  "ja": "ポポンデッタ あきばリユース店"
+ },
+ "synonyms": [
+  "포폰데타 리유스",
+  "포폰데타 아키바",
+  "포폰데타 중고점",
+  "Popondetta Akiba Reuse Store",
+  "Popondetta Reuse",
+  "popondetta",
+  "ポポンデッタ",
+  "ポポンデッタあきばリユース店",
+  "あきばリユース店",
+  "ガチャポン会館2F"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "model_train",
+  "n_gauge",
+  "ho_gauge",
+  "geocolle",
+  "b_train_shorty",
+  "rental_layout",
+  "used",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "가챠폰 회관 2층의 중고 전용 철도모형 매장. 시간당 300엔 레일 레이아웃",
+  "en": "Used-only model railway shop above Gachapon Kaikan, with a 300 yen an hour rental layout"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701853,
+  "lng": 139.771228
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-15-5 MNビル2F（秋葉原ガチャポン会館2F）",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "월~토 20:00, 일요일과 공휴일은 19:00에 닫는다. 도보 3분 거리의 아키하바라점(소토칸다 3-3-3)과는 영업시간이 다르다.",
+   "en": "Closes at 20:00 Monday to Saturday and 19:00 on Sundays and holidays — different from the Akihabara main store three minutes away."
+  },
+  "source_url": "https://www.popondetta.com/akibareuse/index.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목 왼편의 MN빌딩 2층. 1층이 가챠폰 회관이라 골목에서 캡슐 기계 줄이 바로 보인다. 캡슐 기계 옆 건물 입구로 들어가 올라간다.",
+  "en": "2F of the MN Building, whose ground floor is Akihabara Gachapon Kaikan. From exit 3 of Suehirocho station walk about 90 m south along the west pavement of Chuo-dori and turn into the first one-way lane on the right; the rows of capsule machines are visible from the lane, and the building entrance is beside them."
+ },
+ "tips": {
+  "ko": [
+   "포폰데타 체인에서 중고만 취급하는 매장 중 가장 넓다. 신품을 찾는다면 도보 3분 거리의 아키하바라점으로 간다.",
+   "레일 레이아웃은 4선·시간당 300엔이며 예약과 좌석 지정을 받지 않는다. 대여 차량이 없어 자기 차량을 가져가야 한다.",
+   "재고 문의는 인건비를 이유로 받지 않는다고 공식 안내되어 있다.",
+   "각종 카드를 쓸 수 있지만 상품권은 받지 않는다."
+  ],
+  "en": [
+   "The largest used-only floor in the Popondetta chain; for new stock go to the Akihabara main store three minutes away.",
+   "The rental layout has four tracks at 300 yen an hour, with no reservations or seat choice, and no trains to hire — bring your own.",
+   "The shop states it does not answer stock enquiries, to keep staffing costs down.",
+   "Cards are accepted but gift vouchers are not."
+  ]
+ },
+ "official_url": "https://www.popondetta.com/akibareuse/index.html",
+ "sns": {},
+ "chain": "popondetta",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.popondetta.com/akibareuse/index.html",
+  "https://www.popondetta.com/akihabara/index.html",
+  "https://www.popondetta.com/",
+  "https://www.openstreetmap.org/node/11779681421"
+ ],
+ "osm_id": "node/11779681421"
+}

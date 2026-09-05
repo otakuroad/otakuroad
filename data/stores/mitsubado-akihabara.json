@@ -1,0 +1,106 @@
+{
+ "id": "mitsubado-akihabara",
+ "name": {
+  "ko": "코스프레숍 미츠바도",
+  "en": "Cosplay Shop Mitsubado",
+  "ja": "コスプレショップみつば堂"
+ },
+ "synonyms": [
+  "미츠바도",
+  "미쓰바도",
+  "미츠바당",
+  "코스프레 숍 미츠바도",
+  "Mitsubado",
+  "Mitsuba-do",
+  "Mitubado",
+  "みつば堂",
+  "コスプレショップ みつば堂",
+  "コスプレショップみつば堂"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "used",
+  "buyback",
+  "costume",
+  "cosplay",
+  "photo_service",
+  "anime",
+  "game"
+ ],
+ "one_line": {
+  "ko": "애니·게임 코스프레 의상 중고 판매와 매입 전문점. 의상 대여·메이크업 촬영 체험도 운영",
+  "en": "Used anime and game cosplay costumes, bought and sold, plus costume-rental photo service"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702229,
+  "lng": 139.770919
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-8-15 佐藤ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연말연시 외 무휴",
+   "en": "Open all year except the New Year period"
+  },
+  "note": null,
+  "source_url": "https://www.mitubado.com/access"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리 서쪽 뒷길의 사토(佐藤)빌딩 1층 길가 매장이며, 공식 안내대로 메이드복 전문점 캔디프루츠(KT빌딩) 대각선 맞은편이다.",
+  "en": "One minute from Suehirocho Station on the Ginza Line, five minutes from JR Akihabara. A street-level unit on the ground floor of the Sato Building on the back street west of Chuo-dori; as the shop's own directions say, it is diagonally opposite the maid-uniform shop Candy Fruit in the KT Building."
+ },
+ "tips": {
+  "ko": [
+   "2023년 5월 23일 지금 자리로 이전했고, 재고를 약 1,000점 규모로 공식 안내한다.",
+   "점포에서 코스프레 의상 매입도 접수한다. 고물상 허가번호를 사이트에 공개하고 있다.",
+   "2026년 3월부터 프로 메이크업과 의상 대여를 묶은 '손 안 대고 코스프레 촬영' 서비스를 시작했다."
+  ],
+  "en": [
+   "The shop moved to this address on 23 May 2023 and states a stock of about 1,000 items.",
+   "It also buys costumes over the counter; the antique-dealer licence number is published on the site.",
+   "Since March 2026 it runs a hands-free cosplay photo service bundling professional make-up with costume rental."
+  ]
+ },
+ "official_url": "https://www.mitubado.com/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.mitubado.com/",
+  "https://www.mitubado.com/access"
+ ],
+ "osm_id": "way/88984275"
+}

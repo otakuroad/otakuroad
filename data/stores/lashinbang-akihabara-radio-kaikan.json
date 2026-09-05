@@ -1,0 +1,112 @@
+{
+ "id": "lashinbang-akihabara-radio-kaikan",
+ "name": {
+  "ko": "라신방 아키하바라 라디오회관점",
+  "en": "Lashinbang Akihabara Radio Kaikan",
+  "ja": "らしんばん秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "라신방 라디오회관",
+  "라신방 라디오회관점",
+  "라신방 아키하바라 라지관",
+  "라신반",
+  "라싱방",
+  "Lashinbang Radio Kaikan",
+  "Lashinbang Akihabara Radio Kaikan",
+  "Rashinban Radio Kaikan",
+  "らしんばん",
+  "らしんばん秋葉原ラジオ会館店",
+  "らしんばんラジ館店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "buyback",
+  "figure",
+  "character_goods",
+  "acrylic_stand",
+  "cd_dvd",
+  "game_soft",
+  "doujinshi",
+  "comic"
+ ],
+ "one_line": {
+  "ko": "중고 애니 캐릭터 굿즈·피규어·디스크·게임 소프트와 매입 카운터",
+  "en": "Used anime character goods, figures, discs and game software, with a buyback counter"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입(買取) 접수는 11:45~18:00으로 판매 시간보다 짧고, 신작·준신작 위주로 받는다.",
+   "en": "The buyback counter runs only 11:45-18:00 and focuses on recent and near-new items."
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%89%e3%81%97%e3%82%93%e3%81%b0%e3%82%93%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 5층. 카이요도 호비로비 도쿄, 아키바노엑스 라지관점, 우주선, magi와 같은 층이다. 역 전기가 출구에서 도보 1분인 라디오회관 안이라 AKIBA 컬처즈존의 라신방 신관과는 다른 점포다.",
+  "en": "Radio Kaikan 5F, sharing the floor with Kaiyodo Hobby Lobby Tokyo, Akiba no X, Uchusen and magi. It is a separate shop from the Lashinbang Shinkan in AKIBA Cultures Zone."
+ },
+ "tips": {
+  "ko": [
+   "2024년 8월 8일 개점. 같은 자리에 있던 TRIO 라디오회관점과 IN·PuLse는 폐점했으므로 옛 정보를 보고 찾아가지 않도록 한다.",
+   "매입 접수는 11:45~18:00이며 신작·준신작 중심이라 오래된 굿즈는 받지 않는 경우가 있다.",
+   "캐릭터 굿즈·피규어 외에 블루레이/DVD/CD, 서적·동인지, 게임 소프트와 하드도 취급한다.",
+   "아키하바라의 라신방은 두 곳이며, 매장이 더 큰 신관은 AKIBA 컬처즈존 1~2층에 있다."
+  ],
+  "en": [
+   "It opened on 2024-08-08 over the former TRIO and IN・PuLse units, both now closed — do not follow older listings for this floor.",
+   "Buyback is 11:45-18:00 only and is aimed at recent and near-new stock, so older goods may be turned away.",
+   "Alongside character goods and figures it handles Blu-ray/DVD/CD, books and doujinshi, and game software and hardware.",
+   "Akihabara has two Lashinbang shops; the larger Shinkan is on 1F-2F of AKIBA Cultures Zone."
+  ]
+ },
+ "official_url": "https://www.lashinbang.com/store/156/",
+ "sns": {
+  "x": "https://x.com/lb_akibaradikan"
+ },
+ "chain": "lashinbang",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%89%e3%81%97%e3%82%93%e3%81%b0%e3%82%93%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://kaztsu.com/lashinbang-akihabara-radio/"
+ ],
+ "osm_id": null
+}

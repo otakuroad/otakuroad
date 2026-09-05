@@ -1,0 +1,121 @@
+{
+ "id": "maidreamin-akihabara-honten",
+ "name": {
+  "ko": "메이드리밍 아키하바라 본점",
+  "en": "Maidreamin Akihabara Head Store",
+  "ja": "めいどりーみん 秋葉原 本店"
+ },
+ "synonyms": [
+  "메이드리밍",
+  "메이드리밍 본점",
+  "메이드리밍 아키하바라 본점",
+  "메이드리밍 혼텐",
+  "Maidreamin",
+  "Maidreamin Akihabara Honten",
+  "maidreamin Akihabara Head Store",
+  "めいどりーみん",
+  "めいどりーみん秋葉原本店",
+  "秋葉原本店",
+  "メイドリーミン"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "omurice",
+  "cheki",
+  "no_smoking",
+  "free_wifi",
+  "hyper_event"
+ ],
+ "one_line": {
+  "ko": "메이드 카페 체인 본점, 36석. 오므라이스·음료와 메이드 체키 촬영",
+  "en": "The chain's 36-seat flagship maid cafe: omurice, drinks and cheki photos with maids"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701982,
+  "lng": 139.771337
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-16-17 住吉ビル6階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue"
+    ],
+    "open": "11:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "월·화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점. 폐점은 매일 23:00.",
+   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily."
+  },
+  "source_url": "https://maidreamin.com/shop/detail.html?id=1"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리 동쪽에 면한 9층짜리 스미요시(住吉) 빌딩 6층으로, 1층 입구에서 엘리베이터를 탄다.",
+  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line, five minutes from JR Akihabara. It is on 6F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1인 1시간 입장료 880엔 + 1드링크 이상 주문이고, 연장도 1시간 880엔이다. HYPER 이벤트 시간대는 1시간 3,800엔 음료 무제한.",
+   "월·화요일은 11:30 개점으로 다른 요일(10:30)보다 한 시간 늦다.",
+   "전 좌석 금연이며 무료 Wi-Fi와 휴대폰 충전이 가능하다. VISA·Mastercard·JCB·AMEX·다이너스와 PayPay·au PAY·라쿠텐페이·은련카드 결제 가능."
+  ],
+  "en": [
+   "Charge is 880 yen per person per hour plus at least one drink or dish; each extra hour is another 880 yen. During HYPER slots it is 3,800 yen an hour with free drinks.",
+   "Monday and Tuesday open at 11:30, an hour later than the other days (10:30).",
+   "No smoking throughout, with free Wi-Fi and phone charging. VISA, Mastercard, JCB, AMEX, Diners plus PayPay, au PAY, Rakuten Pay and UnionPay are accepted."
+  ]
+ },
+ "official_url": "https://maidreamin.com/shop/detail.html?id=1",
+ "sns": {
+  "x": "https://x.com/head_maidreamin",
+  "instagram": "https://www.instagram.com/head_maidreamin/"
+ },
+ "chain": "maidreamin",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://maidreamin.com/shop/detail.html?id=1",
+  "https://maidreamin.com/shop/",
+  "https://maidreamin.com/first/charge.html",
+  "https://global.maidreamin.com/",
+  "https://akiba.or.jp/store/s189"
+ ],
+ "osm_id": "node/4428508790"
+}

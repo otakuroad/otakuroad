@@ -1,0 +1,127 @@
+{
+ "id": "lammtarra-media-world-akiba",
+ "name": {
+  "ko": "람타라 미디어월드 아키바",
+  "en": "Lammtarra Media World Akiba",
+  "ja": "ラムタラメディアワールドアキバ"
+ },
+ "synonyms": [
+  "람타라",
+  "람타라 미디어월드",
+  "람타라 메디아월드 아키바",
+  "미디어월드 아키바",
+  "Lammtarra",
+  "Lammtarra Media World",
+  "Lamtarra Media World Akiba",
+  "ラムタラ メディアワールド アキバ",
+  "ラムタラメディアワールド秋葉原",
+  "メディアワールドアキバ",
+  "MEDIA WORLD AKIBA"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "dvd",
+  "blu_ray",
+  "anime_dvd",
+  "cd",
+  "game",
+  "figure",
+  "discount",
+  "tax_free",
+  "r18"
+ ],
+ "one_line": {
+  "ko": "B1~1층은 애니 DVD·게임·피규어 할인 판매, 2층 위는 성인 DVD 층인 6층 매장",
+  "en": "Discount anime DVDs, games and figures on B1F-1F; adult DVD floors from 2F up"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697757,
+  "lng": 139.77143
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-15-2 ミオス本館ビル B1F～5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sun"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 페이지 표기는 '10:00~22:00, 일요일은 21시까지'. 공휴일 영업시간은 따로 안내되어 있지 않다.",
+   "en": "The official page states 10:00-22:00, Sundays until 21:00. Public-holiday hours are not stated separately."
+  },
+  "source_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AD%E3%83%90/"
+ },
+ "tax_free": true,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "2F",
+   "3F",
+   "4F",
+   "5F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 주오도리 쪽 미오스(ミオス) 본관 빌딩. 아미아미 아키하바라 피규어타워 바로 옆이며, 지하 1층부터 5층까지 전체가 매장이다.",
+  "en": "One minute from the JR Akihabara Electric Town exit, in the Mios Honkan Building toward Chuo-dori, right next to the AmiAmi Akihabara Figure Tower. The shop fills the whole building from B1F to 5F."
+ },
+ "tips": {
+  "ko": [
+   "공식 페이지에 5,000엔 이상 구매 시 면세 안내가 있다.",
+   "일반 애니 DVD·게임·피규어는 B1층과 1층에 모여 있고 2층부터 위는 성인 DVD 층이다. 미성년자나 가족 동반이면 아래 두 층만 이용한다.",
+   "일요일은 21:00에 닫아 다른 요일보다 한 시간 이르다."
+  ],
+  "en": [
+   "The official page advertises tax-free on purchases over 5,000 yen.",
+   "The general anime DVD, game and figure stock sits on B1F and 1F; 2F and above are adult DVD floors, so stay on the lower two floors with minors or family.",
+   "Sunday closing is 21:00, an hour earlier than the rest of the week."
+  ]
+ },
+ "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AD%E3%83%90/",
+ "sns": {
+  "x": "https://x.com/LammPromotion"
+ },
+ "chain": "lammtarra",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AD%E3%83%90/",
+  "https://www.lammtarra.com/shop_list/",
+  "https://www.ekiten.jp/shop_25437/"
+ ],
+ "osm_id": "node/14110162101"
+}

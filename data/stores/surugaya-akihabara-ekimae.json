@@ -1,0 +1,137 @@
+{
+ "id": "surugaya-akihabara-ekimae",
+ "name": {
+  "ko": "스루가야 아키하바라 역앞점",
+  "en": "Surugaya Akihabara Ekimae",
+  "ja": "駿河屋 秋葉原駅前店"
+ },
+ "synonyms": [
+  "스루가야 역앞점",
+  "스루가야 아키바 역앞점",
+  "스루가야 아키하바라 에키마에점",
+  "스루가야 아키하바라 역전점",
+  "슈루가야 역앞점",
+  "스루가야 야마모토무센 빌딩",
+  "駿河屋秋葉原駅前店",
+  "駿河屋 駅前店",
+  "山本無線ビル",
+  "Surugaya Akihabara Ekimae Store",
+  "Suruga-ya Akihabara Ekimae",
+  "Surugaya Ekimae",
+  "Suruga-ya"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "buyback",
+  "retro_game",
+  "current_gen_game",
+  "figure",
+  "doujinshi",
+  "doujin_cd",
+  "anime_cd",
+  "game_cd",
+  "illustration_book",
+  "setting_material_book",
+  "gravure_video",
+  "cosplay_rom",
+  "free_wifi"
+ ],
+ "one_line": {
+  "ko": "레트로·현행 게임과 피규어, 동인지·애니 CD를 4개 층에서 파는 중고 매장",
+  "en": "Used retro and current games, figures, doujinshi and anime CDs on four floors"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697719,
+  "lng": 139.772147
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-15-15 山本無線ビル B1階～3階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 점포 페이지 기준 평일 11:00, 토·일·공휴일 10:00 개점이다. 정기 휴일 표기는 공식 페이지에 없다. 개점 당시의 10:00~22:00(연중무휴), 금·토·공휴일 전날의 심야 영업, OSM의 09:00~22:00 표기는 모두 옛 정보다.",
+   "en": "The official store page gives 11:00 on weekdays and 10:00 on Saturdays, Sundays and public holidays, and lists no regular closing day. The opening-era 10:00-22:00 year-round hours, the old Friday/Saturday late-night closing and OSM's 09:00-22:00 are all out of date."
+  },
+  "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 출구 앞 라디오회관을 지나 남동쪽으로 20~30m 내려간 소토칸다 1-15-15의 야마모토무센 빌딩(山本無線ビル)이며, 지하 1층부터 3층까지 파란 駿河屋 간판이 걸려 있다. 바로 동쪽에 붙은 건물이 리버티 2·6호점이다.",
+  "en": "One minute from JR Akihabara's Electric Town Exit. Pass Radio Kaikan in front of the exit and carry on 20-30 m southeast to Sotokanda 1-15-15, the Yamamoto Musen Building (山本無線ビル), which carries blue 駿河屋 signs from B1F up to 3F. The building right next door to the east holds Liberty stores 2 and 6."
+ },
+ "tips": {
+  "ko": [
+   "평일은 11:00, 토·일·공휴일은 10:00 개점이다. 여행 사이트와 지도에 남아 있는 09:00 개점·22:00 폐점은 옛 정보이므로 이른 아침에 가면 헛걸음한다.",
+   "취급 품목은 레트로·현행 게임, 피규어, 애니·게임·동인 CD, 동인지, 일러스트집·설정자료집, 그라비아 영상, 코스프레 ROM이다. 철도모형·프라모델·트레카는 아키하바라의 다른 스루가야 지점으로 가야 한다.",
+   "성인 상품 전용 X 계정(@surugaya_st_ad)을 따로 운영하고 예전 공식 안내에는 성인향 잡화·영상물이 취급 품목에 있었다. 연령 제한 코너가 있을 수 있으니 아이와 함께라면 참고한다.",
+   "이 지점 매입 대상은 판매 품목과 같은 범위다. 그 외 장르는 전 장르를 받는 스루가야 아키하바라 매입센터로 가져가면 되고, 매입에는 회원증과 매회 신분증이 필요하다.",
+   "매장 내 무료 Wi-Fi가 있고, 온라인으로 미리 견적을 받아 그대로 들고 오는 O2O '안심 반입' 매입도 받는다."
+  ],
+  "en": [
+   "Opens 11:00 on weekdays and 10:00 at weekends and on public holidays; the 09:00-22:00 hours still shown on travel sites and maps are obsolete, so an early-morning visit is wasted.",
+   "The range is retro and current games, figures, anime/game/doujin CDs, doujinshi, illustration and setting-material books, gravure video and cosplay ROMs. For model trains, plastic kits or trading cards go to another Surugaya branch in Akihabara.",
+   "The store runs a separate X account for adult goods (@surugaya_st_ad) and an older official listing included adult goods and video, so expect an age-restricted corner if you have children with you.",
+   "Buyback here covers the same range the shop sells; other genres go to the Surugaya Akihabara Buying Center, which takes all genres. Selling needs a member card and photo ID every time.",
+   "Free Wi-Fi in store, and the O2O 'anshin' service lets you get an online quote first and bring the items straight to the counter."
+  ]
+ },
+ "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html",
+ "sns": {
+  "x": "https://x.com/surugaya_st"
+ },
+ "chain": "surugaya",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html",
+  "https://web.archive.org/web/20260223212903/https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html",
+  "https://www.suruga-ya.co.jp/ja/shop",
+  "https://www.suruga-ya.co.jp/ja/node/797",
+  "https://www.suruga-ya.co.jp/ja/node/2478",
+  "https://web.archive.org/web/20260531142701/https://www.suruga-ya.jp/feature/realstore/akihabara_tb/index.html",
+  "https://web.archive.org/web/20240531215328/https://www.suruga-ya.jp/feature/akihabara/index.html",
+  "https://www.openstreetmap.org/node/5923650913"
+ ],
+ "osm_id": "node/5923650913"
+}

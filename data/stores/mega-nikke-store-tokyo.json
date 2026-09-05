@@ -1,0 +1,118 @@
+{
+ "id": "mega-nikke-store-tokyo",
+ "name": {
+  "ko": "메가 니케 스토어 도쿄",
+  "en": "MEGA NIKKE STORE TOKYO",
+  "ja": "MEGA NIKKE STORE TOKYO"
+ },
+ "synonyms": [
+  "메가니케스토어",
+  "메가 니케 스토어",
+  "니케 공식 스토어",
+  "승리의 여신 니케 스토어",
+  "MEGA NIKKE STORE",
+  "Mega Nikke Store Tokyo",
+  "メガニケストア トウキョウ",
+  "メガニケストア",
+  "勝利の女神：NIKKE ストア",
+  "POP@P SPACE -AKIHABARA-"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "nikke",
+  "game_goods",
+  "acrylic_stand",
+  "figure",
+  "apparel",
+  "official_store",
+  "new",
+  "cards_ok"
+ ],
+ "one_line": {
+  "ko": "게임 '승리의 여신: 니케' 공식 상설 스토어. 아크릴·피규어·의류 판매",
+  "en": "Official permanent store for the game NIKKE: acrylic stands, figures and apparel"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698634,
+  "lng": 139.76945
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-4-3 POP@P SPACE -AKIHABARA- 2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "15:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 15:00에야 문을 열고 20:00에 닫으며, 토·일·공휴일은 12:00~19:00으로 더 일찍 열고 일찍 닫는다.",
+   "en": "On weekdays it does not open until 15:00 and closes at 20:00; on weekends and holidays it runs 12:00-19:00, opening and closing earlier."
+  },
+  "source_url": "https://algernonproduct.co.jp/meganikke-store/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 5~7분으로, 전기가 북쪽 출구를 나와 아트레1을 왼쪽에 두고 직진한 뒤 교차로를 건너 JR 고가 아래를 따라 서쪽으로 간다. 오른쪽에 녹지가 보이는 고가 밑에 캐릭터 태피스트리가 걸린 POP@P SPACE 입구가 있고, 안쪽 계단으로 2층에 올라간다.",
+  "en": "Five to seven minutes from JR Akihabara: leave by the Electric Town North Exit, walk past Atre 1 on your left, cross at the intersection and follow the JR viaduct west. With greenery on your right, the POP@P SPACE entrance appears under the overpass with character tapestries hung outside; take the interior stairs to 2F."
+ },
+ "tips": {
+  "ko": [
+   "현금 외에 신용카드, QR 결제, 애니메이트페이를 쓸 수 있다고 공식 사이트에 안내되어 있다.",
+   "혼잡할 때는 입점 정리권 배포나 추첨을 하므로 공식 X(@MEGANIKKESTORE)를 확인할 것.",
+   "전매 목적 구매는 거절하며 상품별 구매 수량 제한이 걸릴 수 있다.",
+   "POP@P SPACE는 여러 IP 팝업이 함께 들어가는 건물이라 같은 층·다른 구획의 매장은 수시로 바뀐다."
+  ],
+  "en": [
+   "The official site lists cash, credit cards, QR payments and animate Pay as accepted.",
+   "Entry tickets or a lottery are used when it is crowded, so check the official X account (@MEGANIKKESTORE).",
+   "Purchases for resale are refused, and per-item purchase limits may apply.",
+   "POP@P SPACE is a shared pop-up venue, so the other units in the building change from season to season."
+  ]
+ },
+ "official_url": "https://algernonproduct.co.jp/meganikke-store/",
+ "sns": {
+  "x": "https://x.com/MEGANIKKESTORE"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://algernonproduct.co.jp/meganikke-store/",
+  "https://market.algernonproduct.co.jp/blog/2024/08/07/174837",
+  "https://map.yahoo.co.jp/v3/place/j8ETyfS7aik"
+ ],
+ "osm_id": null
+}

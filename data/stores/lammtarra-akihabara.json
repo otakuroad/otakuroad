@@ -1,0 +1,127 @@
+{
+ "id": "lammtarra-akihabara",
+ "name": {
+  "ko": "람타라 아키하바라점",
+  "en": "Lammtarra Akihabara",
+  "ja": "ラムタラ秋葉原店"
+ },
+ "synonyms": [
+  "람타라",
+  "람타라 아키하바라",
+  "람타라 마가미빌딩점",
+  "Lammtarra",
+  "LAMMTARRA Akihabara",
+  "Lamtarra Akihabara",
+  "ラムタラ",
+  "ラムタラ秋葉原",
+  "ラムタラ 秋葉原店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "dvd",
+  "blu_ray",
+  "anime_dvd",
+  "game",
+  "figure",
+  "idol_dvd",
+  "discount",
+  "event_space",
+  "r18"
+ ],
+ "one_line": {
+  "ko": "1층은 애니·아이돌 DVD와 게임 소프트 할인 판매, 2층 위는 성인 DVD 층",
+  "en": "1F discount anime and idol DVDs and game software; adult DVD floors from 2F up"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.69891,
+  "lng": 139.771558
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-13-3 真神ビル 1F～6F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "fri",
+     "sat"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 표기는 10:00-20:00, 금·토·공휴일 전날은 21:00까지. 공휴일 당일 시간은 따로 안내되어 있지 않다.",
+   "en": "The official page states 10:00-20:00, extended to 21:00 on Fridays, Saturdays and the day before a public holiday. Hours on the holiday itself are not stated."
+  },
+  "source_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "2F",
+   "3F",
+   "4F",
+   "5F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리로 나와 도보 2분, 길가의 마가미(真神) 빌딩. 람타라 그룹이 아키하바라에서 처음 연 매장이며 1층 입구에서 바로 들어간다.",
+  "en": "Two minutes from the JR Akihabara Electric Town exit along Chuo-dori, in the Magami Building on the street front. This is the Lammtarra group's original Akihabara shop; the entrance is straight in on 1F."
+ },
+ "tips": {
+  "ko": [
+   "일반 상품(애니·아이돌 DVD, 게임 소프트, 피규어, 잡화)은 1층에 모여 있고 2층부터 위는 성인 DVD 층이다.",
+   "금·토·공휴일 전날은 21:00까지, 그 외 요일은 20:00에 닫는다.",
+   "6층은 이벤트 공간으로 배우 출연 이벤트가 열린다.",
+   "층별 구성은 오래된 아키하바라 정보 사이트 기록에 근거하므로 현장 층 안내판을 확인하는 편이 좋다."
+  ],
+  "en": [
+   "The general stock - anime and idol DVDs, game software, figures and character goods - is on 1F; 2F and above are adult DVD floors.",
+   "Closing is 21:00 on Fridays, Saturdays and the day before a holiday, 20:00 otherwise.",
+   "6F is an event space used for appearances by performers.",
+   "The floor split comes from an older Akihabara guide site, so check the floor board at the entrance."
+  ]
+ },
+ "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/",
+ "sns": {},
+ "chain": "lammtarra",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/",
+  "https://www.lammtarra.com/shop_list/",
+  "https://lammaki1f.blog.jp/",
+  "http://akibamap.info/archives/17203371.html"
+ ],
+ "osm_id": "way/216931509"
+}

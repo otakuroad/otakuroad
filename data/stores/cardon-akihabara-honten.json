@@ -1,0 +1,127 @@
+{
+ "id": "cardon-akihabara-honten",
+ "name": {
+  "ko": "카돈 아키하바라 본점",
+  "en": "Cardon Akihabara Main Store",
+  "ja": "カードン 秋葉原本店"
+ },
+ "synonyms": [
+  "카돈",
+  "카드온",
+  "카돈 아키하바라",
+  "카돈 본점",
+  "Cardon",
+  "cardon",
+  "Cardon Akihabara",
+  "カードン",
+  "カードン秋葉原本店",
+  "カードンアキハバラホンテン"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "singles",
+  "oripa",
+  "sealed",
+  "supplies",
+  "buyback",
+  "duel_space",
+  "tournament",
+  "out_of_print",
+  "pokemon_card",
+  "yugioh",
+  "rush_duel",
+  "magic_the_gathering",
+  "duel_masters",
+  "one_piece_card",
+  "weiss_schwarz",
+  "vanguard",
+  "digimon_card",
+  "battle_spirits",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "지하 2층 종합 트레카 매장. 절판 카드 포함 싱글 매매와 40석 무료 대전석",
+  "en": "B2F all-title card shop: singles including out-of-print, buyback, 40 free duel seats"
+ },
+ "building_id": null,
+ "floors": [
+  "B2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699565,
+  "lng": 139.768944
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田2-4-4 第一電波ビル 地下2階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "09:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 사이트 기준 연중무휴 9:00-22:00으로 아키하바라 트레카 매장 중 가장 이르게 열고 가장 늦게 닫는다. 일부 트레카 디렉터리에는 12:00-21:00 같은 옛 시간이 남아 있다.",
+   "en": "The official store page gives 9:00-22:00 year-round, the earliest opening and latest closing among Akihabara card shops. Some card directories still list older hours such as 12:00-21:00."
+  },
+  "source_url": "https://cardon.jp/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "공식 안내로 JR 아키하바라역 전기가 출구에서 도보 7분, 오차노미즈역에서 도보 5분. 주오도리에서 서쪽으로 벗어난 소토칸다 2-4-4 다이이치덴파(第一電波) 빌딩이며, 도로변 입구에서 계단으로 지하 2층까지 내려간다.",
+  "en": "The official page gives seven minutes from the JR Akihabara Electric Town Exit and five from Ochanomizu. It is the Dai-ichi Denpa Building at Sotokanda 2-4-4, west of Chuo-dori; take the street-level stairs down two levels to B2F."
+ },
+ "tips": {
+  "ko": [
+   "9:00에 열고 22:00에 닫는다. 아침 일찍이나 밤늦게 트레카를 볼 수 있는 거의 유일한 매장이다.",
+   "지하 2층까지 계단으로 내려가는 구조라 간판을 놓치기 쉽다. 큰 짐이 있으면 불편하다.",
+   "40석 대전석은 조건 없이 무료로 쓸 수 있다.",
+   "절판·구판 카드까지 취급하는 종합점이라 마이너 타이틀 싱글을 찾을 때 들러볼 만하다."
+  ],
+  "en": [
+   "Open 9:00 to 22:00 - about the only Akihabara card shop you can browse early in the morning or late at night.",
+   "The shop is two levels underground down a staircase, so the entrance sign is easy to miss and awkward with luggage.",
+   "The 40-seat duel space is free with no purchase condition.",
+   "It carries out-of-print and older cards across many titles, which makes it worth a stop for minor-title singles."
+  ]
+ },
+ "official_url": "https://cardon.jp/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85",
+ "sns": {
+  "x": "https://x.com/cardon_tcg"
+ },
+ "chain": "cardon",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cardon.jp/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85",
+  "https://cardon.jp/",
+  "https://akibatoreka.com/introduce/2454"
+ ],
+ "osm_id": "node/11237596134"
+}

@@ -1,0 +1,147 @@
+{
+ "id": "amenity-dream-akihabara",
+ "name": {
+  "ko": "아메니티드림 아키하바라점",
+  "en": "Amenity Dream Akihabara",
+  "ja": "アメニティードリーム秋葉原店"
+ },
+ "synonyms": [
+  "아메니티 드림",
+  "아메드리",
+  "아메니티드림 아키바",
+  "Amenity Dream",
+  "AD Akihabara",
+  "アメニティードリーム",
+  "アメニティードリーム 秋葉原店",
+  "アメドリ",
+  "amenitydream"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "mtg",
+  "pokemon_card",
+  "yugioh",
+  "rush_duel",
+  "duel_masters",
+  "weiss_schwarz",
+  "vanguard",
+  "battle_spirits",
+  "wixoss",
+  "digimon_card",
+  "shadowverse_evolve",
+  "lycee_overture",
+  "tcg_singles",
+  "buyback",
+  "duel_space",
+  "tournament",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "MTG·포켓몬·유희왕·듀얼마스터즈 싱글과 팩, 152석 듀얼 스페이스의 3개 층",
+  "en": "MTG, Pokemon, Yu-Gi-Oh and Duel Masters singles across three floors; 152 duel seats"
+ },
+ "building_id": null,
+ "floors": [
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "5F",
+   "ko": "유희왕·뱅가드·버디파이트·바이스슈발츠·Re버스·듀얼마스터즈·Lycee Overture 싱글과 관련 서플라이, 24석 듀얼 스페이스",
+   "en": "Yu-Gi-Oh, Vanguard, Buddyfight, Weiss Schwarz, Re-birth, Duel Masters and Lycee Overture singles and supplies, plus a 24-seat duel space"
+  },
+  {
+   "floor": "6F",
+   "ko": "매직 더 개더링·배틀 스피리츠·Z/X·파이어 엠블렘 0(사이퍼)·WIXOSS·포켓몬 카드·디지몬 카드 싱글과 관련 서플라이",
+   "en": "Magic: The Gathering, Battle Spirits, Z/X, Fire Emblem 0 Cipher, WIXOSS, Pokemon and Digimon singles and supplies"
+  },
+  {
+   "floor": "7F",
+   "ko": "128석 대형 듀얼 스페이스. 공인 대회와 이벤트가 열리는 층",
+   "en": "The big 128-seat duel space where sanctioned tournaments and events are held"
+  }
+ ],
+ "location": {
+  "lat": 35.699487,
+  "lng": 139.771012
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-11-6 小暮ビル5〜7階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입 접수는 평일 20:00, 토·일·공휴일 19:00까지로 영업시간보다 짧다",
+   "en": "Buyback intake closes earlier than the shop: 20:00 on weekdays, 19:00 on weekends and public holidays"
+  },
+  "source_url": "https://amenitydream.co.jp/shop/tokyo-akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 한 블록 서쪽 뒷골목, 슈퍼포테이토·앳홈카페 본점과 같은 외신다 1-11 블록의 小暮ビル 5~7층. 엘리베이터로 5층 또는 6층에서 내려 매장에 들어가고, 7층은 대전 전용 층이다.",
+  "en": "On the back street one block west of Chuo-dori, in the Kogure Building on the same Sotokanda 1-11 block as Super Potato and the @home cafe main store. Take the elevator to 5F or 6F for the shop floors; 7F is play space only."
+ },
+ "tips": {
+  "ko": [
+   "층마다 취급 타이틀이 갈린다. MTG·포켓몬·디지몬·WIXOSS는 6층, 유희왕·뱅가드·듀얼마스터즈·바이스슈발츠는 5층.",
+   "듀얼 스페이스가 5층 24석 + 7층 128석으로 합계 152석이라 아키하바라에서 손꼽히는 규모다. 이용 조건은 날에 따라 달라 점두 확인이 필요하다.",
+   "13개 이상 타이틀의 공인·비공인 대회를 상시 개최한다. 대회일에는 7층이 가득 차고 매장도 붐빈다.",
+   "평일은 12:00~21:00로 밤 9시까지 열지만 주말·공휴일은 11:00~20:00로 한 시간 일찍 닫는다."
+  ],
+  "en": [
+   "The floors split by title: MTG, Pokemon, Digimon and WIXOSS on 6F; Yu-Gi-Oh, Vanguard, Duel Masters and Weiss Schwarz on 5F.",
+   "With 24 seats on 5F and 128 on 7F, its 152-seat play space is one of the largest in Akihabara; conditions of use vary by day, so ask at the counter.",
+   "Sanctioned and unsanctioned tournaments run constantly across more than a dozen titles; on tournament days 7F fills up and the shop floors get busy.",
+   "Weekdays run 12:00-21:00, but weekends and public holidays close an hour earlier at 20:00."
+  ]
+ },
+ "official_url": "https://amenitydream.co.jp/shop/tokyo-akihabara/",
+ "sns": {
+  "x": "https://x.com/amenity_akiba"
+ },
+ "chain": "amenity-dream",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://amenitydream.co.jp/shop/tokyo-akihabara/",
+  "https://akibatoreka.com/introduce/1106"
+ ],
+ "osm_id": "node/11181831637"
+}

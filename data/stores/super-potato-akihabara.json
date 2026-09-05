@@ -1,0 +1,162 @@
+{
+ "id": "super-potato-akihabara",
+ "name": {
+  "ko": "슈퍼포테이토 아키하바라점",
+  "en": "Super Potato Akihabara",
+  "ja": "スーパーポテト秋葉原店"
+ },
+ "synonyms": [
+  "슈퍼포테이토",
+  "슈퍼포테토",
+  "수퍼포테이토",
+  "슈퍼 포테이토",
+  "슈퍼포테이토 레트로관",
+  "스파포테",
+  "Super Potato",
+  "Super Potato Akiba",
+  "Super Potato Retro-kan",
+  "superpotato",
+  "スーパーポテト",
+  "スーパーポテト レトロ館",
+  "スーパーポテト秋葉原店（レトロ館）",
+  "スパポテ"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "famicom",
+  "super_famicom",
+  "game_boy",
+  "nintendo_64",
+  "mega_drive",
+  "sega_saturn",
+  "pc_engine",
+  "neo_geo",
+  "wonderswan",
+  "playstation",
+  "retro_arcade",
+  "dagashi",
+  "game_goods",
+  "game_soundtrack"
+ ],
+ "one_line": {
+  "ko": "3·4층은 패미컴·메가드라이브 등 중고 레트로 게임 소프트와 본체, 5층은 레트로 오락실과 다가시 매점",
+  "en": "Used retro game software and consoles on 3F-4F; retro arcade and dagashi stall on 5F"
+ },
+ "building_id": null,
+ "floors": [
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "3F",
+   "ko": "닌텐도·세가 계열 레트로 본체와 소프트(패미컴·슈퍼패미컴·게임보이·N64·메가드라이브)",
+   "en": "Nintendo and Sega retro hardware and software (Famicom, Super Famicom, Game Boy, N64, Mega Drive)"
+  },
+  {
+   "floor": "4F",
+   "ko": "플레이스테이션·PC엔진·원더스완 등 소프트, 공략본·설정자료집·게임 사운드트랙 CD·DVD, 비매품 전시 코너",
+   "en": "PlayStation, PC Engine and WonderSwan software; guidebooks, art books, soundtrack CDs and DVDs; a not-for-sale display corner"
+  },
+  {
+   "floor": "5F",
+   "ko": "레트로 오락실(1플레이 100엔부터), 다가시 매점, 휴식 공간",
+   "en": "Retro arcade (from 100 yen a play), dagashi snack stall and rest space"
+  }
+ ],
+ "location": {
+  "lat": 35.699371,
+  "lng": 139.770741
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-11-2 北林ビル3F・4F・5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "평일·토·일·공휴일 모두 11:00-20:00으로 같다. 토·일·공휴일 10:00 개점은 2022-02-15부터 없어졌지만 일부 여행 사이트에는 아직 남아 있다. 임시 휴업·시간 변경은 공식 X(@PotatoAkiba)에 공지된다.",
+   "en": "Same 11:00-20:00 on weekdays, weekends and public holidays. The old 10:00 weekend/holiday opening ended on 2022-02-15 but still appears on some travel sites. Temporary closures and changes are posted on X (@PotatoAkiba)."
+  },
+  "source_url": "https://www.superpotato.com/shop/akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 주오도리 한 블록 서쪽 뒷골목. AKIBA 컬처즈존 남동쪽의 기타바야시(北林) 빌딩으로, 외벽 위쪽 팩맨·마리오 도트 그래픽 간판이 표식이다. 1층은 무선 부품점 후지무센전기이고, 매장 입구는 그 오른쪽 좁은 통로의 노란 '레트로게임 スーパーポテト 入口' 간판. 계단이나 엘리베이터로 3층부터 올라간다.",
+  "en": "Four minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori. The Kitabayashi Building just southeast of AKIBA Cultures Zone, marked by the Pac-Man and Mario pixel-art panels high on the facade. The ground floor is the radio-parts shop Fuji Musen Denki; the shop entrance is the narrow doorway to its right under the yellow 'レトロゲーム スーパーポテト 入口' sign. Stairs or the elevator lead up from 3F."
+ },
+ "tips": {
+  "ko": [
+   "5층 레트로 오락실은 1플레이 100엔부터. 아무것도 사지 않고 쉬어가도 되며 같은 층에 다가시(옛날 과자) 매점이 있다.",
+   "3층은 닌텐도·세가 계열, 4층은 플레이스테이션·PC엔진 계열과 공략본·사운드트랙 CD 중심이라 찾는 기종에 맞춰 층을 고르면 빠르다.",
+   "층 이동은 좁은 계단 외에 엘리베이터도 쓸 수 있다.",
+   "면세·카드 결제 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "The 5F retro arcade starts at 100 yen a play; you can rest there without buying anything, and a dagashi (old-style candy) stall is on the same floor.",
+   "3F is the Nintendo and Sega floor, 4F is PlayStation and PC Engine plus guidebooks and soundtrack CDs, so pick the floor that matches the system you want.",
+   "Besides the narrow stairs, an elevator runs between the floors.",
+   "Tax-free and card acceptance are not stated on the official page, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://www.superpotato.com/shop/akihabara/",
+ "sns": {
+  "x": "https://x.com/PotatoAkiba",
+  "instagram": "https://www.instagram.com/superpotatoakihabara/"
+ },
+ "chain": "super-potato",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.superpotato.com/shop/akihabara/",
+  "https://www.superpotato.com/",
+  "https://www.superpotato.com/shop/",
+  "https://www.superpotato.com/news/",
+  "http://superpotatoakiba.jp/?page_id=10",
+  "http://superpotatoakiba.jp/?page_id=12",
+  "https://visit-chiyoda.tokyo/app/spot/detail/819",
+  "https://www.4gamer.net/games/999/G999905/20251225022/",
+  "https://livejapan.com/ja/in-tokyo/in-pref-tokyo/in-akihabara/spot-lj0002139/",
+  "https://www.wowu.travel/spots/super-potato-akihabara?locale=ja",
+  "https://narita-akihabara.jp/ja/entertainment/post-000132",
+  "https://akihabara-bc.jp/akihabara-superpotato/"
+ ],
+ "osm_id": "node/2276977432",
+ "photo": {
+  "url": "/photos/super-potato-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "iqremix (IQRemix from Canada) · CC BY-SA 2.0 · Wikimedia Commons",
+  "license": "CC BY-SA 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_-_Super_Potato_Retro_Game_Shop.jpg",
+  "taken_on": "2015-04-13"
+ }
+}

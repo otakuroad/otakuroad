@@ -1,0 +1,109 @@
+{
+ "id": "eldorado-pokemon-kan",
+ "name": {
+  "ko": "엘도라도 포켓몬관",
+  "en": "Eldorado Pokemon-kan",
+  "ja": "エルドラード ポケモン館"
+ },
+ "synonyms": [
+  "엘도라도",
+  "엘도라도 아키하바라",
+  "레트로카드 전문점 엘도라도",
+  "Eldorado",
+  "El Dorado Akihabara",
+  "ELDORADO",
+  "エルドラード",
+  "エルドラード 秋葉原店",
+  "レトロカード専門店エルドラード ポケモン館",
+  "イサミヤ第3ビル2F"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "retro",
+  "used",
+  "buyback",
+  "collection",
+  "old_back"
+ ],
+ "one_line": {
+  "ko": "구판 뒷면·VS·Web·카드e 등 옛 포켓몬 카드만 다루는 레트로 전문점",
+  "en": "Vintage Pokemon cards only: old-back, VS, Web and Card-e era singles, plus buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701369,
+  "lng": 139.770584
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-10-5 イサミヤ第3ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "요일과 상관없이 13:00-20:00. 자매점인 유희왕·듀얼마스터즈관(外神田3-15-6 小暮末広ビル4F)은 평일 14:00, 주말 13:00 개점으로 시간이 다르다.",
+   "en": "13:00-20:00 every day. The sister shop, the Yu-Gi-Oh and Duel Masters branch (Sotokanda 3-15-6, Kogure Suehiro Building 4F), opens at 14:00 on weekdays and 13:00 at weekends."
+  },
+  "source_url": "https://eldorado.base.ec/about"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 개찰에서 도보 약 7분, 주오도리 서쪽 뒷골목의 이사미야 제3빌딩 2층.",
+  "en": "About seven minutes from the JR Akihabara Electric Town gate, on 2F of the Isamiya No.3 Building on the back street west of Chuo-dori."
+ },
+ "tips": {
+  "ko": [
+   "최신 팩·현행 카드는 취급하지 않고 1996-2001년경 구판 포켓몬 카드에 특화되어 있다.",
+   "유희왕·듀얼마스터즈·데이터카드다스는 같은 회사의 별도 점포(유희왕·듀얼마스터즈관)에서 취급한다.",
+   "운영사는 주식회사 무겐(株式会社むげん). 2025년 12월 6일 개점."
+  ],
+  "en": [
+   "No current-set packs: the shop is specialised in Pokemon cards from roughly 1996-2001.",
+   "Yu-Gi-Oh, Duel Masters and Data Carddass are handled by the same company's other shop, the Yu-Gi-Oh and Duel Masters branch.",
+   "Run by Mugen Co., Ltd.; opened 6 December 2025."
+  ]
+ },
+ "official_url": "https://eldorado.base.ec/about",
+ "sns": {
+  "x": "https://x.com/eldorado_card_2"
+ },
+ "chain": "eldorado",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://eldorado.base.ec/about",
+  "https://eldorado-card.com/",
+  "https://prtimes.jp/main/html/rd/p/000000002.000172578.html",
+  "https://x.com/eldorado_card_2"
+ ],
+ "osm_id": null
+}

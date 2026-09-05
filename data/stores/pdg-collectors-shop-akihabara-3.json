@@ -1,0 +1,85 @@
+{
+ "id": "pdg-collectors-shop-akihabara-3",
+ "name": {
+  "ko": "PDG 컬렉터스숍 아키하바라 3호점",
+  "en": "PDG Collector's Shop Akihabara 3rd Store",
+  "ja": "PDG collector's shop 秋葉原3号店"
+ },
+ "synonyms": [
+  "PDG 컬렉터스숍",
+  "PDG 컬렉터즈샵",
+  "피디지 컬렉터스숍",
+  "PDG 3호점",
+  "PDG collector's shop",
+  "PDG Akihabara",
+  "PDG Collectors Shop",
+  "PDGcollectors",
+  "ピーディージー"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "graded_card",
+  "psa",
+  "vintage",
+  "sealed",
+  "used",
+  "buyback",
+  "oripa"
+ ],
+ "one_line": {
+  "ko": "PSA 등급 포켓몬 카드와 구판 싱글·미개봉 박스를 다루는 컬렉터용 트레카 매장",
+  "en": "Graded Pokemon cards, vintage singles and sealed boxes for collectors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701694,
+  "lng": 139.771334
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-7 麻野ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 아사노(麻野) 빌딩 1층 노면 점포. 같은 건물 3층은 무기 모형점 부소쇼텐이고, 북쪽 옆 고구레스에히로 빌딩 9층에 PDG 본점, 7층에 2호점이 따로 있으니 층과 건물을 확인한다.",
+  "en": "Ground-floor shop in the Asano Building on the west side of Chuo-dori. The replica-weapon shop Busou Shouten is on 3F of the same building, and PDG's main store (9F) and 2nd store (7F) are in the Kogure Suehiro Building next door to the north."
+ },
+ "tips": {
+  "ko": [
+   "영업시간이 공식 사이트에 공개돼 있지 않다. 방문 전 X(@PDGcollectors_3)를 확인하는 편이 안전하다.",
+   "본점·2호점은 같은 3-15 구역의 다른 건물(고구레스에히로 빌딩) 고층이라 주소가 3-15-6이면 다른 점포다."
+  ],
+  "en": [
+   "Opening hours are not published on the official site; check X (@PDGcollectors_3) before going.",
+   "The main store and 2nd store are on upper floors of a different building in the same block - if the address reads 3-15-6, that is not this shop."
+  ]
+ },
+ "official_url": "https://pdg-collectorsshop.com/",
+ "sns": {
+  "x": "https://x.com/PDGcollectors_3"
+ },
+ "chain": "pdg",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://pdg-collectorsshop.com/",
+  "https://pdg-collectorsshop.com/about/",
+  "https://akibatoreka.com/introduce/2708",
+  "https://magi.camp/blogs/608523638"
+ ],
+ "osm_id": null
+}

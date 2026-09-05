@@ -1,0 +1,110 @@
+{
+ "id": "tokyo-leisure-land-akihabara",
+ "name": {
+  "ko": "도쿄 레저랜드 아키하바라점",
+  "en": "Tokyo Leisure Land Akihabara",
+  "ja": "東京レジャーランド秋葉原店"
+ },
+ "synonyms": [
+  "도쿄레저랜드",
+  "도쿄 레저랜드",
+  "도쿄 레저랜드 아키하바라 1호점",
+  "레저랜드 아키하바라",
+  "Tokyo Leisure Land",
+  "Leisure Land Akihabara",
+  "東京レジャーランド",
+  "東京レジャーランド秋葉原1号店",
+  "レジャーランド秋葉原"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "prize",
+  "purikura",
+  "medal_game",
+  "music_game",
+  "arcade_card",
+  "gundam_arsenal_base",
+  "late_night"
+ ],
+ "one_line": {
+  "ko": "크레인 게임과 프리쿠라, 메달·음악 게임을 밤 23시 55분까지 여는 오락실",
+  "en": "Arcade with crane games, purikura, medal and music games, open until 23:55"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698753,
+  "lng": 139.770117
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-9-5",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:55"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "운영사 야마자키야 공식 점포 안내 기준 10:00-23:55, 연중무휴. 여행 사이트에는 24:55 폐점으로 남아 있는 경우가 있다.",
+   "en": "10:00-23:55 year-round per the operator Yamazakiya's official store listing; some travel sites still show a 24:55 closing time."
+  },
+  "source_url": "https://www.yamazakiya.co.jp/shop/syutoken/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 주오도리 한 블록 서쪽 소토칸다 1-9 골목의 여러 층짜리 오락실. 밤 23시 55분까지 불이 켜져 있어 늦은 시간에도 찾기 쉽다.",
+  "en": "Four minutes from the JR Akihabara Electric Town exit, a multi-floor arcade on the Sotokanda 1-9 back street one block west of Chuo-dori; its lights stay on until 23:55."
+ },
+ "tips": {
+  "ko": [
+   "10:00-23:55 연중무휴로 아키하바라에서 가장 늦게까지 여는 오락실 중 하나다.",
+   "건담 아스날 베이스 등 아케이드 카드 게임 대수가 많아 대기 없이 앉을 확률이 높다.",
+   "운영사 야마자키야는 아키하바라에 이 매장과 돈키호테 건물 안의 2호점 두 곳만 두고 있다."
+  ],
+  "en": [
+   "Open 10:00-23:55 every day, one of the latest-closing arcades in Akihabara.",
+   "It runs a large bank of arcade card cabinets such as Gundam Arsenal Base, so waits are usually short.",
+   "Operator Yamazakiya has only two Akihabara halls: this one and the No.2 inside the Don Quijote building."
+  ]
+ },
+ "official_url": "https://www.yamazakiya.co.jp/shop/syutoken/",
+ "sns": {
+  "x": "https://x.com/llakihabara"
+ },
+ "chain": "tokyo-leisure-land",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.yamazakiya.co.jp/shop/syutoken/",
+  "https://www.yamazakiya.co.jp/shop/",
+  "https://www.yamazakiya.co.jp/"
+ ],
+ "osm_id": "node/10137268617"
+}

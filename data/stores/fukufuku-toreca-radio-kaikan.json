@@ -1,0 +1,116 @@
+{
+ "id": "fukufuku-toreca-radio-kaikan",
+ "name": {
+  "ko": "후쿠후쿠 트레카 아키하바라 라디오회관점",
+  "en": "Fukufuku Toreka Akihabara Radio Kaikan",
+  "ja": "福福トレカ秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "후쿠후쿠 트레카",
+  "후쿠후쿠트레카",
+  "후쿠후쿠 트레카 라디오회관",
+  "후쿠후쿠 트레카 라지관점",
+  "Fukufuku Toreka",
+  "Fukufuku Toreca",
+  "Fukufuku Toreka Radio Kaikan",
+  "福福トレカ",
+  "福福トレカ秋葉原ラジオ会館店",
+  "ふくふくトレカ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "singles",
+  "sealed",
+  "oripa",
+  "yugioh",
+  "pokemon_card",
+  "duel_masters",
+  "weiss_schwarz",
+  "shadowverse_evolve",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬·듀얼마스터즈 등 트레카 싱글과 팩, 오리파와 매입 카운터",
+  "en": "TCG singles, packs and oripa (Yu-Gi-Oh!, Pokemon, Duel Masters) plus a card buyback desk"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입(買取) 접수는 19:00 마감으로 판매보다 1시간 빠르다. 연말연시·임시 영업시간 변경은 라디오회관 공지에 '1F 福福トレカ秋葉原ラジオ会館店'로 게시된다.",
+   "en": "The buyback desk closes at 19:00, an hour before the shop. Year-end and temporary hour changes are posted on the Radio Kaikan site as '1F 福福トレカ秋葉原ラジオ会館店' notices."
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e7%a6%8f%e7%a6%8f%e3%83%88%e3%83%ac%e3%82%ab%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 1층. 정면 입구로 들어서면 카드 쇼케이스가 늘어선 층이고, 호비스테이션과 쿠지 전문점 마하 사이에 이 매장이 있다. 같은 층 안쪽에 카드라보 매입센터와 패밀리마트가 있다.",
+  "en": "Radio Kaikan 1F. Enter at the front and the ground floor is a row of card counters — this shop sits between Hobby Station and the kuji shop Mach, with Card Labo's buyback centre and a FamilyMart further in."
+ },
+ "tips": {
+  "ko": [
+   "매입 접수는 10:00~19:00으로 판매 마감보다 1시간 빠르다.",
+   "취급 타이틀은 유희왕 OCG·포켓몬 카드·듀얼마스터즈·바이스슈발츠·샤도우버스 에볼브 등이고 오리파도 판다.",
+   "2022년 8월 개점한 1층 소형 점포다. 같은 체인의 秋葉原店은 外神田1-9-8 기무라 빌딩 2~4층에 따로 있고 매장이 훨씬 크다.",
+   "개점 당시 소개에는 현금 결제만 가능하다고 되어 있으므로 카드 결제 여부는 계산대에서 확인하는 편이 안전하다."
+  ],
+  "en": [
+   "The buyback desk runs 10:00-19:00, closing an hour before the shop.",
+   "Titles handled include Yu-Gi-Oh! OCG, Pokemon, Duel Masters, Weiss Schwarz and Shadowverse Evolve, plus oripa packs.",
+   "It is a small 1F counter that opened in August 2022; the chain's larger 秋葉原店 is a separate shop at Sotokanda 1-9-8, Kimura Building 2F-4F.",
+   "A directory listing from its opening says cash only, so check at the register before relying on a card."
+  ]
+ },
+ "official_url": "https://www.fukufuku-toreka.com/",
+ "sns": {
+  "x": "https://x.com/Fukufuku_radiok"
+ },
+ "chain": "fukufuku-toreca",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/%e7%a6%8f%e7%a6%8f%e3%83%88%e3%83%ac%e3%82%ab%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://akihabara-radiokaikan.co.jp/information/",
+  "https://www.fukufuku-toreka.com/",
+  "https://akibatoreka.com/introduce/2242"
+ ],
+ "osm_id": "node/10136715917"
+}

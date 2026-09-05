@@ -1,0 +1,94 @@
+{
+ "id": "toreca-verse-akihabara",
+ "name": {
+  "ko": "카드숍 트레카바스 아키하바라",
+  "en": "Card Shop Torecabirth Akihabara",
+  "ja": "カードショップ トレカバース 秋葉原"
+ },
+ "synonyms": [
+  "트레카바스",
+  "트레카버스",
+  "트레카바스 아키하바라",
+  "카드숍 트레카버스",
+  "Torecabirth",
+  "Toreca Birth",
+  "Torecaverse",
+  "Card Shop Tracaverse",
+  "トレカバース",
+  "トレカバース秋葉原店",
+  "カードショップトレカバース秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "conan_card",
+  "lorcana",
+  "xross_stars",
+  "pokemon_card",
+  "one_piece_card",
+  "duel_masters",
+  "singles",
+  "sealed_box",
+  "psa",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "코난 카드·로카나 등 신규 타이틀 싱글과 미개봉 박스, 포켓몬카드",
+  "en": "Detective Conan TCG, Lorcana and other new titles: singles and sealed boxes"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701856,
+  "lng": 139.77125
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル6F（秋葉原ガチャポン会館6F）",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에 면한 아키하바라 가챠폰 회관(MN빌딩) 6층. 1층 가챠폰 매장 안쪽 엘리베이터로 올라간다. 도쿄메트로 스에히로초역 바로 앞이고 JR 아키하바라역에서는 도보 6분.",
+  "en": "6F of Akihabara Gachapon Kaikan (the MN Building) on Chuo-dori; take the lift at the back of the ground-floor capsule-toy hall. It is right at Suehirocho station, six minutes' walk from JR Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "2025년까지 있던 마치다(町田) 빌딩 2층 주소가 지도 앱과 OSM에 아직 남아 있다. 현재 위치는 가챠폰 회관 6층이다.",
+   "명탐정 코난 카드·디즈니 로카나·하이큐 바보카 등 신규 타이틀에 강하고, 신탄 미개봉 박스를 카톤 단위로 들여놓는다.",
+   "공식 영업시간 안내가 웹에 없고 X 고정 게시물로만 공지되므로 방문 전 @toreka_birth 확인이 필요하다.",
+   "PSA 감정품 매입은 전용 창구(공식 LINE)에서만 받는다."
+  ],
+  "en": [
+   "The old address on 2F of the Machida Building is still on map apps and OSM; the shop is now on 6F of Gachapon Kaikan.",
+   "Strong on newer titles - Detective Conan TCG, Disney Lorcana, Haikyu Babo Card - and it stocks new sets by the carton.",
+   "No opening hours are published on the web; they are announced only in the pinned post on X, so check @toreka_birth first.",
+   "PSA-graded buyback is handled through a dedicated channel (the shop's official LINE), not at the counter."
+  ]
+ },
+ "official_url": "https://www.torecabirth.jp/",
+ "sns": {
+  "x": "https://x.com/toreka_birth"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.torecabirth.jp/info",
+  "https://www.torecabirth.jp/",
+  "https://x.com/toreka_birth",
+  "https://x.com/birth_netshop",
+  "https://akihabara-cardmap.com/ja/shop/card-shop-tracaverse/"
+ ],
+ "osm_id": null
+}

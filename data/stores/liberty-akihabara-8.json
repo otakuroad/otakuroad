@@ -1,0 +1,110 @@
+{
+ "id": "liberty-akihabara-8",
+ "name": {
+  "ko": "리버티 아키하바라 8호점",
+  "en": "Liberty Akihabara Store 8",
+  "ja": "リバティー 秋葉原8号店"
+ },
+ "synonyms": [
+  "리버티",
+  "리버티 8호점",
+  "리버티 8호관",
+  "리버티 아키하바라 8호점",
+  "Liberty",
+  "Liberty Akihabara 8",
+  "Liberty Akihabara No.8",
+  "AKIBA LIBERTY",
+  "リバティー",
+  "リバティー秋葉原8号店",
+  "リバティー秋葉原8号館",
+  "リバティービル"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "figure",
+  "prize_figure",
+  "gacha",
+  "capsule_toy",
+  "anime_goods",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "리버티 빌딩 1층의 중고 애니 피규어 매장, 가챠폰 코너 병설",
+  "en": "Liberty Building 1F: used anime figures with a gachapon corner"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702335,
+  "lng": 139.771906
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-7-1 リバティービル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://liberty-kaitori.com/shop"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽, 스에히로초역 쪽으로 올라가는 구간에 리버티가 통째로 쓰는 리버티 빌딩이 있고 그 1층. 이 건물은 리버티 본사 주소이기도 하며, 2층은 11호점, 3층은 프라이즈 매입 센터다.",
+  "en": "On the east side of Chuo-dori toward Suehirocho, on the ground floor of the Liberty Building, which the chain occupies outright. It is also the company's registered address; Store 11 is on 2F and the prize buyback centre on 3F."
+ },
+ "tips": {
+  "ko": [
+   "2층 11호점(건프라·미니카)과 이어지므로 두 층을 한 번에 보는 게 효율적이다.",
+   "3층 프라이즈 매입 센터는 11:00-17:00이고 접수 수량이 차면 그날 마감한다.",
+   "면세와 카드·교통계 IC·QR 결제는 전 지점 공통."
+  ],
+  "en": [
+   "Store 11 (Gunpla and minicars) is directly upstairs, so the two floors are best seen together.",
+   "The prize buyback centre on 3F runs 11:00-17:00 and stops taking items once its daily quota is full.",
+   "Tax-free plus card, transit IC and QR payment work here as at every branch."
+  ]
+ },
+ "official_url": "https://www.liberty-shop.co.jp/visit/",
+ "sns": {},
+ "chain": "liberty",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://liberty-kaitori.com/shop",
+  "https://www.liberty-shop.co.jp/visit/",
+  "https://www.liberty-shop.co.jp/visit/lp-ja-v2.html",
+  "https://akibatoreka.com/introduce/2077"
+ ],
+ "osm_id": "node/10773296809"
+}

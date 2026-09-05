@@ -1,0 +1,124 @@
+{
+ "id": "hobbyland-akihabara",
+ "name": {
+  "ko": "호비랜드 아키하바라",
+  "en": "HOBBYLAND Akihabara",
+  "ja": "HOBBYLAND秋葉原"
+ },
+ "synonyms": [
+  "호비랜드",
+  "호비랜드 아키바",
+  "하비랜드 아키하바라",
+  "HOBBYLAND",
+  "HOBBYLAND@AKIHABARA",
+  "Hobbyland Akiba",
+  "HOBBYLAND秋葉原店",
+  "ホビーランド秋葉原",
+  "ホビーランド 秋葉原"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gunpla",
+  "plastic_model",
+  "character_model",
+  "scale_model",
+  "car_model",
+  "robot_model",
+  "model_tools",
+  "model_paint",
+  "import_kit",
+  "new"
+ ],
+ "one_line": {
+  "ko": "1층은 건프라와 도료·공구, 2층은 자동차·로봇 프라모델을 파는 프라모델점",
+  "en": "Gunpla with paints and tools on 1F, car and robot model kits on 2F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "절반은 건프라, 나머지 절반은 도료·접착제·니퍼 등 제작용 공구 코너",
+   "en": "Half the floor is Gunpla, the other half is paints, glue, nippers and other modelling tools"
+  },
+  {
+   "floor": "2F",
+   "ko": "자동차 프라모델과 건담 이외의 로봇 프라모델, 해외 한정 키트",
+   "en": "Car model kits and non-Gundam robot kits, plus overseas-limited kits"
+  }
+ ],
+ "location": {
+  "lat": 35.702193,
+  "lng": 139.770428
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-7-14 1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 웹사이트가 없어 개점 보도(AKIBA PC Hotline!)와 공식 X 프로필에 적힌 11:00-20:00을 따랐다. 정기 휴일 안내가 없으므로 방문 전 X(@Hobbyland_akiba) 확인 권장.",
+   "en": "The shop has no website; 11:00-20:00 comes from the AKIBA PC Hotline! opening report and the shop's own X profile. No closing day is announced, so check X (@Hobbyland_akiba) before going."
+  },
+  "source_url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1524429.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 스에히로초역 3번 출구에서 도보 2분, 주오도리 한 블록 서쪽 '잔크도리'(ジャンク通り) 중간. 길 건너편이 하드오프·호비오프라서 그 맞은편 건물 1층 유리문을 보면 된다. 슈퍼포테이토 방향에서 북쪽으로 걸어 올라오면 오른편.",
+  "en": "Two minutes from Tokyo Metro Suehirocho exit 3, halfway along 'Junk Street' one block west of Chuo-dori. Hard Off and Hobby Off face it from across the street, so aim for those and cross over to the ground-floor glass front opposite."
+ },
+ "tips": {
+  "ko": [
+   "1층 안쪽 절반이 도료·공구 코너라 건프라 자체 재고보다 제작 용품을 보러 오는 손님이 많다. 도색 도구를 한 번에 사려면 편하다.",
+   "2층은 자동차·로봇 프라모델 층이고, 해외 한정 키트가 섞여 있어 일본 국내 유통이 없는 물건이 나올 때가 있다.",
+   "2023년 개점 당시에는 현금 전용이었고 지금은 지도 서비스에 PayPay 표기가 있다. 카드 가능 여부는 확인된 바 없으니 현금을 준비하는 편이 안전하다.",
+   "바로 맞은편이 하드오프·호비오프라 중고와 신품을 한 번에 비교할 수 있다."
+  ],
+  "en": [
+   "The inner half of 1F is paints and tools, and most customers are there for supplies rather than the Gunpla stock itself - handy if you want to buy a whole painting kit at once.",
+   "2F is the car and robot kit floor and mixes in overseas-limited kits that never reach normal Japanese retail.",
+   "It opened in 2023 as cash-only and map listings now show PayPay; card acceptance is unconfirmed, so bring cash.",
+   "Hard Off and Hobby Off are directly across the street, so you can compare used and new stock in one stop."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/Hobbyland_akiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/1524429.html",
+  "https://note.com/phakchi_tbtb/n/n00c624999666"
+ ],
+ "osm_id": null
+}

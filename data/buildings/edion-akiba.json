@@ -1,0 +1,89 @@
+{
+ "id": "edion-akiba",
+ "name": {
+  "ko": "에디온 AKIBA",
+  "en": "EDION AKIBA",
+  "ja": "エディオンAKIBA"
+ },
+ "location": {
+  "lat": 35.697989,
+  "lng": 139.770973
+ },
+ "address_ja": "東京都千代田区外神田1-2-9",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "에디온 AKIBA 매장은 연중무휴 10:00–20:00이지만, 같은 건물 라옥스 아키하바라 본점 쪽은 10:30–19:30(1F만 20:00)으로 다르다. B1F·5F 트레카모올의 개별 점포는 대체로 11:00–19:30 사이에서 제각각이고, 7F 에디온 법인영업부 도쿄지점(평일 9:30–18:30)은 사무실이라 일반 손님 대상이 아니다.",
+  "en": "The EDION AKIBA store runs 10:00–20:00 year-round, while the Laox Akihabara main-store side of the same building runs 10:30–19:30 (1F until 20:00). Shops inside the B1F and 5F trading-card malls set their own hours, mostly between 11:00 and 19:30, and the 7F EDION corporate-sales Tokyo branch (weekdays 9:30–18:30) is an office, not a shop."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 주오도리를 따라 남쪽 만세이바시 교차로 방향으로 도보 2~3분, 오노덴 바로 남쪽에 파란 EDION 간판과 파란 차양이 이어지는 큰 건물이다. 가전 매장(1~6F)은 EDION 간판 아래 정면 입구로 들어가고, B1F·5F 트레카모올과 2F 캐릭터 굿즈는 같은 건물의 라옥스 아키하바라 본점 쪽 입구에서 엘리베이터를 탄다.",
+  "en": "From JR Akihabara's Electric Town Exit (電気街口) walk south along Chuo-dori toward the Manseibashi crossing, 2–3 minutes; it is the large building under the blue EDION signs and blue awning immediately south of Onoden. The electronics floors (1F–6F) are entered under the EDION sign, while the B1F and 5F trading-card malls and the 2F character-goods floor are reached from the Laox Akihabara main-store entrance of the same building."
+ },
+ "floor_guide_url": null,
+ "official_url": "https://search.edion.com/e_store/spot/detail?code=0000004762",
+ "uncurated_floors": [
+  {
+   "floor": "1F",
+   "ko": "에디온 쪽은 완구(호비·피규어)·조리가전·화장품·기념품과 면세 카운터, 라옥스 쪽은 브랜드 시계 Watch.와 주얼리 저우다푸(周大福)",
+   "en": "On the EDION side, toys (hobby and figures), cooking appliances, cosmetics, souvenirs and the tax-free counter; on the Laox side, the Watch. brand-watch shop and Chow Tai Fook jewellery"
+  },
+  {
+   "floor": "2F",
+   "ko": "라옥스 쪽은 캐릭터 굿즈·호비 굿즈·스포츠 용품·가챠폰 코너, 에디온 쪽은 시계 매장 WATCH SQUARE·애플 제품·게임기·이어폰·이미용 가전",
+   "en": "The Laox side is character goods, hobby goods, sports items and a gachapon corner; the EDION side is the WATCH SQUARE watch section, Apple products, game consoles, earphones and personal-care appliances"
+  },
+  {
+   "floor": "3F",
+   "ko": "에디온 쪽은 조리가전·면세품과 주류 매장(위스키·와인·일본술), 라옥스 쪽은 이미용 가전·화장품·건강보조식품·생활가전",
+   "en": "The EDION side has cooking appliances, duty-free goods and the liquor shop (whisky, wine, sake); the Laox side has beauty appliances, cosmetics, supplements and home appliances"
+  },
+  {
+   "floor": "4F",
+   "ko": "에디온 쪽은 TV·오디오·PC·프린터·디지털 카메라, 라옥스 쪽은 드러그스토어와 2026년 4월 문을 연 Japan Culture ZONE",
+   "en": "The EDION side has TVs, audio, computers, printers and cameras; the Laox side has a drugstore and the Japan Culture ZONE that opened in April 2026"
+  },
+  {
+   "floor": "6F",
+   "ko": "에디온이 직접 운영하는 미니욘쿠 서킷과 관련 상품 코너, 그 옆의 트레카 매장 트레카 캐피탈 AKIBA(무료 듀얼 스페이스 있음)",
+   "en": "EDION's own Mini 4WD circuit and parts corner, with the TreCapital AKIBA trading-card shop and its free duel space alongside it"
+  },
+  {
+   "floor": "7F",
+   "ko": "에디온 법인영업부 도쿄지점과 라옥스 글로벌 리테일링 본사가 들어선 사무실 층으로 매장은 없다",
+   "en": "Office floor housing the EDION corporate sales Tokyo branch and the Laox Global Retailing head office; no shops"
+  },
+  {
+   "floor": "8F",
+   "ko": "손님용 플로어 안내에 나오지 않는 층. 공개된 안내는 B1F~6F 매장과 7F 사무실까지만 다룬다",
+   "en": "Not covered by any shopper-facing floor guide; published guides stop at the B1F-6F shops and the 7F offices"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://search.edion.com/e_store/spot/detail?code=0000004762",
+  "https://my.edion.jp/search/detail.php?sc=04762&tp=1",
+  "https://www.edion.co.jp/business/b2b/outline",
+  "https://laox-globalretailing.co.jp/laox_store/stores/akihabara/",
+  "https://laox-globalretailing.co.jp/profile/",
+  "https://akiba.or.jp/store/s126",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2020858.html",
+  "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
+  "https://akihabara-cardmap.com/ja/guide/area/denkigai-guchi/",
+  "https://akihabara-cardmap.com/ja/shop/treca-capital-edion-akiba/",
+  "https://livejapan.com/ja/in-tokyo/in-pref-tokyo/in-akihabara/spot-lj0000679/",
+  "https://x.com/ta_i7/status/1931201580440973727",
+  "https://x.com/ta_i7/status/2032678510599508330",
+  "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9"
+ ],
+ "osm_id": "node/1915175459"
+}

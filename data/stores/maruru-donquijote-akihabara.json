@@ -1,0 +1,107 @@
+{
+ "id": "maruru-donquijote-akihabara",
+ "name": {
+  "ko": "마루루 아키하바라 주오도리 3호점",
+  "en": "Omocha no MARURU Akihabara Chuo-dori 3rd Store",
+  "ja": "おもちゃのMARURU 秋葉原中央通り3号店"
+ },
+ "synonyms": [
+  "마루루",
+  "오모차노 마루루",
+  "마루루 돈키호테점",
+  "마루루 3호점",
+  "MARURU 돈키호테",
+  "おもちゃのMARURU",
+  "おもちゃのMARURU 秋葉原店",
+  "MARURU 3号店",
+  "Omocha no MARURU",
+  "MARURU Don Quijote Akihabara",
+  "MARURU",
+  "マルル"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "anime_figure",
+  "dragon_ball",
+  "one_piece",
+  "naruto",
+  "sailor_moon",
+  "tourist_friendly"
+ ],
+ "one_line": {
+  "ko": "돈키호테 1층 노면 매장. 드래곤볼·원피스·나루토·세일러문 피규어",
+  "en": "Dragon Ball, One Piece, Naruto and Sailor Moon figures in a 1F unit of Don Quijote"
+ },
+ "building_id": "don-quijote-akihabara",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-3-3 ドン・キホーテ秋葉原店1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "돈키호테 아키하바라점 본체는 24시간 영업이지만 이 테넌트는 11:00-20:00만 영업한다.",
+   "en": "Don Quijote Akihabara itself trades 24 hours, but this tenant unit only opens 11:00-20:00."
+  },
+  "source_url": "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=10180"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "돈키호테 아키하바라점 1층에서 주오도리에 면한 바깥쪽 점포 구획에 있다. 돈키호테 매장 내부가 아니라 보도에서 바로 들어가는 작은 노면 점포이며, 2022~2023년 호비숍 '야샤도(夜叉堂)'가 있던 자리다.",
+  "en": "In the outward-facing shop space on the Chuo-dori side of Don Quijote Akihabara's 1F. You enter it straight from the pavement rather than from inside the store; it took over the unit the hobby shop Yashado held in 2022-23."
+ },
+ "tips": {
+  "ko": [
+   "매장이 아주 좁아 피규어가 벽면까지 빽빽하게 진열돼 있다. 외국인 관광객을 주 고객으로 하는 구성이다.",
+   "돈키호테는 24시간이지만 이 매장은 20:00에 닫으므로 야간 방문 시 주의."
+  ],
+  "en": [
+   "The unit is tiny and packed to the walls with figures, with a line-up aimed mainly at overseas visitors.",
+   "Don Quijote never closes, but this shop shuts at 20:00, so do not count on a late-night visit."
+  ]
+ },
+ "official_url": "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=10180",
+ "sns": {},
+ "chain": "maruru",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=10180",
+  "https://www.gdm.or.jp/crew/2023/1101/512491",
+  "https://www.gdm.or.jp/crew/2026/0311/626132"
+ ],
+ "osm_id": null
+}

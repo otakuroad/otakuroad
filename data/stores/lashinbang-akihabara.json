@@ -1,0 +1,152 @@
+{
+ "id": "lashinbang-akihabara",
+ "name": {
+  "ko": "라신방 아키하바라점 신관",
+  "en": "Lashinbang Akihabara Shinkan",
+  "ja": "らしんばん秋葉原店新館"
+ },
+ "synonyms": [
+  "라신반",
+  "라싱방",
+  "라신방 아키하바라",
+  "라신방 신관",
+  "라신방 AKIBA Flags",
+  "라신방 아키바 플래그스",
+  "らしんばん秋葉原店",
+  "らしんばん秋葉原店新館",
+  "らしんばん AKIBA Flags",
+  "Lashinbang Akihabara",
+  "Lashinbang AKIBA Flags",
+  "Rashinban Akihabara"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "figure",
+  "prize_figure",
+  "character_goods",
+  "comic",
+  "bl",
+  "cd_dvd",
+  "game_soft",
+  "plush",
+  "buyback",
+  "tax_free"
+ ],
+ "one_line": {
+  "ko": "애니·게임 팬용 중고 피규어·캐릭터 굿즈·BL 코믹·CD/BD. 매입 접수는 2F",
+  "en": "Used figures, character goods, BL comics and anime CDs/BDs; buyback counter on 2F"
+ },
+ "building_id": "akiba-cultures-zone",
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "피규어 판매 전용층(로봇·미소녀·괴수·아메토이). 리뉴얼 준비로 휴업 중, 9월 18일 재오픈",
+   "en": "Figure sales-only floor (robots, bishojo, kaiju, US toys); closed for renewal work, reopens 18 Sep"
+  },
+  {
+   "floor": "2F",
+   "ko": "Blu-ray·DVD·CD, 코믹·BL 코믹/소설·화집, 캐릭터 굿즈·프라이즈 피규어·인형, 가정용 게임 소프트. 매입 카운터",
+   "en": "Blu-ray/DVD/CD, comics and BL comics/novels, character goods, prize figures, plush, console games; buyback counter"
+  }
+ ],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "〒101-0021 東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE 1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open daily"
+  },
+  "note": {
+   "ko": "매입 접수는 2F에서 11:00~18:00. 1F는 리뉴얼 준비로 휴업 중이고 9월 18일 리뉴얼 오픈일에 다시 열린다. 그동안 2F는 정상 영업",
+   "en": "Buyback desk on 2F, 11:00–18:00. 1F is closed for renewal work and reopens on the 18 Sep renewal day; 2F trades as usual"
+  },
+  "source_url": "https://www.lashinbang.com/store/13/"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open",
+  "note": {
+   "ko": "2026년 9월 18일 리뉴얼 오픈과 함께 점명이 '라신방 AKIBA Flags'로 바뀐다. 준비 기간 중 1F 휴업, 2F는 정상 영업",
+   "en": "Renewal opening on 18 Sep 2026 under the new name 'Lashinbang AKIBA Flags'; 1F is closed during preparations while 2F stays open"
+  },
+  "effective_date": "2026-09-18"
+ },
+ "how_to_find": {
+  "ko": "AKIBA 컬처즈 존 건물 1·2층. 주오도리에서 한 블록 서쪽 뒷길을 북쪽으로 걸으면 코토부키야 아키하바라관 바로 다음 건물이 이곳이고, 길 건너 북쪽 대각선에 만다라케 컴플렉스가 보인다. 길가의 파란 라신방 간판이 표시이며, 1F 휴업 중에는 건물 입구로 들어가 2F로 올라간다.",
+  "en": "Floors 1–2 of the AKIBA Cultures Zone building. From Chuo-dori take the back street one block west and walk north; it is the next building past Kotobukiya Akihabara, with Mandarake Complex diagonally across to the north. Look for the blue Lashinbang signboard at street level; while 1F is closed, enter the building and go up to 2F."
+ },
+ "tips": {
+  "ko": [
+   "2026-09-18 리뉴얼 오픈과 함께 점명이 '라신방 AKIBA Flags'로 바뀐다. 그 전까지 1F는 휴업이고 2F만 영업한다.",
+   "매입 접수는 2F에서 11:00~18:00까지만 받는다. 판매 영업은 21:00까지.",
+   "남성향 동인지·미소녀 게임·성인용 피규어는 2026년 6월 26일 문을 연 '라신방 AKIBA DEEP BASE'(외신다 4-4-3 아키하바라 SIL빌딩 3F, 현금 전용)로 나뉘어 나갔다.",
+   "면세 대응 매장. 신용카드·QR 결제·교통계 IC 등 전자결제를 쓸 수 있다."
+  ],
+  "en": [
+   "Renewal opening as 'Lashinbang AKIBA Flags' on 18 Sep 2026; until then 1F is closed and only 2F is trading.",
+   "Buyback is accepted on 2F from 11:00 to 18:00 only; sales run until 21:00.",
+   "Men's doujinshi, bishojo games and adult figures moved to Lashinbang AKIBA DEEP BASE (Sotokanda 4-4-3, Akihabara SIL Bldg 3F, cash only), opened 26 Jun 2026.",
+   "Tax-free shop; credit cards, QR-code payments and transit IC e-money are accepted."
+  ]
+ },
+ "official_url": "https://www.lashinbang.com/store/13/",
+ "sns": {
+  "x": "https://x.com/lashin_akiba2"
+ },
+ "chain": "lashinbang",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.lashinbang.com/store/13/",
+  "https://api.lashinbang.com/api/get_store?id=13",
+  "https://api.lashinbang.com/api/get_store?id=196",
+  "https://www.lashinbang.com/news/10403/",
+  "https://api.lashinbang.com/api/get_news?id=10403",
+  "https://api.lashinbang.com/api/get_news?id=10174",
+  "https://www.akibacultureszone.com/shop/3574",
+  "https://www.akibacultureszone.com/en/shop/3574",
+  "https://www.akibacultureszone.com/shop/",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2136836.html",
+  "https://akiba.keizai.biz/headline/4002/",
+  "https://www.atpress.ne.jp/news/127704",
+  "https://commons.wikimedia.org/wiki/File:Lashinbang_Akihabara_Store_20171225.jpg"
+ ],
+ "osm_id": "node/5875271651",
+ "photo": {
+  "url": "/photos/lashinbang-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "MiNe · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Lashinbang_Akihabara_Store_20171225.jpg",
+  "taken_on": "2017-12-25"
+ }
+}

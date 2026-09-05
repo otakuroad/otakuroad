@@ -1,0 +1,118 @@
+{
+ "id": "one-up-akihabara",
+ "name": {
+  "ko": "One up. 아키하바라점",
+  "en": "One up. Akihabara",
+  "ja": "One up. 秋葉原店（シン・アキバ）"
+ },
+ "synonyms": [
+  "원업",
+  "원업 아키하바라",
+  "원업 신아키바",
+  "원 업",
+  "One up.",
+  "One up",
+  "Oneup",
+  "One-Up",
+  "One up. Akihabara",
+  "One up.秋葉原店",
+  "シン・アキバ",
+  "ワンナップ"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "sofubi",
+  "art_toy",
+  "designer_toy",
+  "kaiju",
+  "indie_figure",
+  "artist_goods",
+  "vag",
+  "gacha",
+  "new"
+ ],
+ "one_line": {
+  "ko": "일본·해외 작가의 소프비와 아트 토이·괴수 완구를 파는 2층 소형 매장",
+  "en": "Indie sofubi, art toys and kaiju figures from Japanese and overseas artists"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.695869,
+  "lng": 139.77446
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区神田須田町2-11-8 玉甚ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연말연시를 제외하고 기본 무휴",
+   "en": "Basically open year-round except the New Year holidays"
+  },
+  "note": {
+   "ko": "임시 휴업과 이벤트 출점에 따른 변경은 공식 블로그에 공지된다.",
+   "en": "Temporary closures and days out at events are announced on the shop's official blog."
+  },
+  "source_url": "http://www.one-up.org/shop-guide.htm"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도에이 신주쿠선 이와모토초역 A2 출구로 나와 왼쪽으로 나간 뒤 뒤를 돌아보면 보이는 거리로 30초. JR 아키하바라역 전기가 출구에서는 세가를 오른쪽에 두고 직진→신호를 건너 좌회전→'덴구' 간판 앞에서 우회전해 '간다 후레아이바시'를 건너면 4~5분. 1층에 이자카야(대개 닫혀 있음)가 있는 검은 건물이며, 이자카야를 왼쪽으로 돌면 계단 입구가 있다. 2층에 올라가면 검은 문 세 개 중 One up. 로고가 붙은 문이 매장 입구다.",
+  "en": "Thirty seconds from exit A2 of Iwamotocho station on the Toei Shinjuku line — go out, turn left and look back. From the JR Akihabara Electric Town exit it is 4-5 minutes: keep Sega on your right, cross the lights, turn left, then turn right just before the 'Tengu' sign and cross the Kanda Fureai footbridge. Look for the black building with an izakaya (usually shut) on the ground floor; the stairs are round its left side, and on 2F the entrance is the one of three black doors carrying the One up. logo."
+ },
+ "tips": {
+  "ko": [
+   "간판이 눈에 잘 띄지 않고 문이 닫혀 있는 경우가 많지만, 안내문이 붙은 문을 그냥 열고 들어가면 된다.",
+   "2021년 8월 AKIBA 컬처즈존에서 간다스다초로 이전했다. 옛 주소를 안내하는 지도가 아직 남아 있으니 주의.",
+   "판매 고지일이 아니어도 상품과 전시품은 늘 진열돼 있고, 구경만 해도 괜찮다고 안내하고 있다.",
+   "매장에 전화기가 없어 고정 전화는 울리지 않는다. 연락은 070-6467-9902.",
+   "나카노 브로드웨이점과 두 곳 체제이며, 추첨 판매 상품의 매장 수령은 아키하바라점만 가능한 경우가 있다."
+  ],
+  "en": [
+   "The signage is easy to miss and the door is often shut — just open the door with the notices on it and go in.",
+   "The shop moved here from AKIBA Cultures Zone in August 2021; maps still showing the old address are out of date.",
+   "Even when there is no release on, stock and display pieces are always out, and the shop says browsing without buying is fine.",
+   "There is no telephone in the shop, so the landline never rings; use 070-6467-9902 instead.",
+   "The chain also has a Nakano Broadway branch, and some lottery items can only be collected at the Akihabara shop."
+  ]
+ },
+ "official_url": "http://www.one-up.org/shop-guide.htm",
+ "sns": {},
+ "chain": "one-up",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "http://www.one-up.org/shop-guide.htm",
+  "http://oneup-blog.jugem.jp/?eid=5637",
+  "http://oneup-blog.jugem.jp/"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,129 @@
+{
+ "id": "cure-maid-cafe",
+ "name": {
+  "ko": "큐어메이드카페",
+  "en": "Cure Maid Café",
+  "ja": "キュアメイドカフェ"
+ },
+ "synonyms": [
+  "큐어메이드 카페",
+  "큐어 메이드 카페",
+  "큐어메이드",
+  "큐어메이드까페",
+  "오노덴 4층 메이드카페",
+  "지스토어 아키바 메이드카페",
+  "Cure Maid Cafe",
+  "CURE MAID CAFÉ",
+  "Curemaid Cafe",
+  "curemaid",
+  "curemaidcafe",
+  "キュアメイドカフェ",
+  "キュアメイド",
+  "キュアメイドカフェ オノデンビル4F"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "cafe_collab",
+  "tea",
+  "curry",
+  "classical",
+  "no_moe",
+  "cospa",
+  "oldest"
+ ],
+ "one_line": {
+  "ko": "2001년 개업한 최초의 상설 메이드카페. 모에 연출 없이 홍차·카레·케이크를 파는 조용한 찻집",
+  "en": "First permanent maid cafe (2001); a quiet classical tearoom with tea, curry and cake."
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698346,
+  "lng": 139.770851
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-2-7 オノデンビル4F ジーストア・アキバ内",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴 (연 2회 재고조사 휴업)",
+   "en": "None, apart from two stocktaking closures a year"
+  },
+  "note": {
+   "ko": "요일·공휴일 구분 없이 같은 시간. 음식 라스트오더 19:00, 음료 라스트오더 19:30. 같은 층의 지스토어 아키바는 10:00~20:00로 카페보다 한 시간 일찍 연다. 2026년 10월 5~6일은 재고조사 휴업, 9월 14일은 촬영으로 16:00 마감(음식 LO 15:00·음료 LO 15:30)처럼 하루짜리 단축 영업이 종종 있으니 공식 뉴스 페이지를 먼저 볼 것.",
+   "en": "Same hours every day including public holidays; last order 19:00 for food, 19:30 for drinks. Gee!Store Akiba on the same floor opens an hour earlier, 10:00-20:00. Closed 5-6 October 2026 for stocktaking, and single days are cut short for filming or events (14 September 2026 closes at 16:00, food LO 15:00 / drink LO 15:30), so check the official news page first."
+  },
+  "source_url": "https://www.curemaid.jp/information"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 약 2분. 라디오회관 앞을 지나 주오도리를 건너면 바로 앞이 'オノデン(오노덴)' 간판을 단 가전 양판점 오노덴 본관이고, 그 4층이다. 1층 매장으로 들어가 건물 엘리베이터로 4F에 올라가면 굿즈·코스프레 숍 지스토어 아키바 안이며, 카페 입구와 정리권 발권 태블릿은 그 안쪽에 있다. 2020년까지 쓰던 옛 주소(외신다 3-15-5 지스토어 6층)로 가지 않도록 주의.",
+  "en": "About two minutes west of the JR Akihabara Electric Town Exit: pass Radio Kaikan, cross Chuo-dori, and the electronics store under the オノデン (Onoden) sign is straight ahead - the cafe is on its 4F. Enter the 1F shop floor and take the building lift to 4F, where you step out inside the Gee!Store Akiba goods and cosplay shop; the cafe entrance and the numbered-ticket tablet are at the back of it. Do not use the pre-2020 address in Sotokanda 3-15-5."
+ },
+ "tips": {
+  "ko": [
+   "혼잡할 때는 정리권제로 바뀐다. 건물 근처에서 LINE의 matoca 미니앱으로 10:30부터, 매장 앞 태블릿으로 11:00부터(콜라보 첫날 등은 10:30부터) 발권하며 정리권 1장당 최대 4명까지 입장",
+   "좌석 예약은 유효기간 내 '서포터 카드' 소지자 한정. 2일 전까지, 1인당 주 1회, 최대 4명, 11:00~19:00 사이 30분 단위로 받고 혼잡 시 이용 시간은 90분 제한",
+   "'모에' 접객 없이 조용한 찻집처럼 운영되는 것이 이 가게의 성격. 빅토리안 롱스커트 메이드복 접객에 홍차, 제휴 메뉴인 '챔피언 카레', 오므라이스와 케이크가 대표 메뉴",
+   "애니·게임 콜라보 카페를 연중 진행해 기간 중에는 콜라보 메뉴와 특전 굿즈가 중심이 된다. 같은 4층에 음료 구입자용 이트인 공간 'ENTAS CURE TERRACE'가 있고 콘센트와 USB 포트를 쓸 수 있다"
+  ],
+  "en": [
+   "When it is busy the cafe switches to numbered tickets: from 10:30 through the matoca mini-app on LINE while you are near the building, or from 11:00 at the tablet by the entrance (10:30 on some collab launch days). One ticket admits up to 4 people",
+   "Seat reservations are for holders of a valid Supporter Card only: at least 2 days ahead, once a week per person, up to 4 people, in 30-minute slots between 11:00 and 19:00, with a 90-minute limit when the cafe is busy",
+   "The point of this place is that it skips the 'moe' service and runs like a quiet tearoom: Victorian long-skirt uniforms, a long tea list, the tie-up Champion Curry, omurice and cakes",
+   "Anime and game collaboration cafes run year-round and take over the menu and bonus goods while they last. The same floor has ENTAS CURE TERRACE, an eat-in space with power sockets and USB ports for customers who buy a drink"
+  ]
+ },
+ "official_url": "https://www.curemaid.jp/",
+ "sns": {
+  "x": "https://x.com/curemaidcafe",
+  "instagram": "https://www.instagram.com/curemaidcafe_official/"
+ },
+ "chain": null,
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.curemaid.jp/",
+  "https://www.curemaid.jp/information",
+  "https://www.curemaid.jp/information/reservation",
+  "https://www.curemaid.jp/news",
+  "https://www.curemaid.jp/news/260825__01/",
+  "https://www.curemaid.jp/news/240603__02/",
+  "https://www.curemaid.jp/menu/",
+  "https://www.curemaid.jp/collab_cafe",
+  "https://www.curemaid.jp/entas_cureterrace",
+  "https://www.geestore.com/geenet/geestore/akiba",
+  "https://www.onoden.co.jp/",
+  "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%96%E3%83%AA%E3%82%A8%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0"
+ ],
+ "osm_id": "node/9202133069"
+}

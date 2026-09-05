@@ -1,0 +1,117 @@
+{
+ "id": "toreca-rises-akihabara-ekimae",
+ "name": {
+  "ko": "트레카라이자스 아키하바라 역앞점",
+  "en": "Toreca Rises Akihabara Ekimae",
+  "ja": "トレカライザス秋葉原駅前店"
+ },
+ "synonyms": [
+  "트레카라이자스",
+  "트레카 라이자스",
+  "라이자스",
+  "트레카라이자스 아키하바라",
+  "트레카라이자스 역앞점",
+  "Toreca Rises",
+  "Toreca Rises Akihabara",
+  "Toreca Risers Akihabara Ekimae",
+  "TorecaRises",
+  "torecarises",
+  "トレカライザス",
+  "トレカライザス 秋葉原駅前店",
+  "ライザス秋葉原駅前"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "oripa",
+  "pokemon_card",
+  "psa_graded",
+  "singles",
+  "buyback",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드 오리파와 PSA 감정 카드를 파는 지하 1층 트레카 매장, 현금 매입 카운터 병설",
+  "en": "B1F card shop selling Pokemon oripa packs and PSA-graded singles; cash buyback desk"
+ },
+ "building_id": "edion-akiba",
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-9 エディオンAKIBA（旧ラオックス秋葉原本店）B1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "19:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "영업시간은 매장 공식 X 계정 프로필 표기 기준. 에디온 AKIBA 건물은 10:00에 열지만 이 매장은 평일 12:00, 토·일·공휴일 11:00 개점이다.",
+   "en": "Hours as stated on the shop's own official X profile. The EDION AKIBA building opens at 10:00, but this shop opens at 12:00 on weekdays and 11:00 on weekends and holidays."
+  },
+  "source_url": "https://x.com/RisesAkibaST"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리 쪽으로 도보 1분. 옛 라옥스 아키하바라 본점 건물인 에디온 AKIBA의 지하 1층이며, 1층 입구에서 지하로 내려가면 카드숍이 늘어선 통로가 나오고 그중 한 곳이다.",
+  "en": "One minute from the JR Akihabara Electric Town Exit toward Chuo-dori. It sits on B1F of EDION AKIBA, the former Laox Akihabara main store: go down from the ground-floor entrance to the basement aisle lined with card shops, of which this is one."
+ },
+ "tips": {
+  "ko": [
+   "평일은 12:00, 토·일·공휴일은 11:00 개점이고 폐점은 19:00으로 이른 편이다. 건물(에디온 10:00 개점)보다 늦게 여니 시간 착오에 주의.",
+   "오리파(랜덤 팩)와 PSA 감정 카드가 주력이라 특정 싱글 카드를 찾는다면 같은 지하 1층의 다른 카드숍(신소쿠 2호점, 오리파크, 카드콜렉트 등)도 같이 둘러보는 편이 빠르다.",
+   "매입은 전액 현금 지급을 내세운다. 다만 구매 시 카드 결제 가능 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "Opens at 12:00 on weekdays and 11:00 on weekends and holidays, and closes early at 19:00 - later than the building itself, which opens at 10:00.",
+   "The stock leans to oripa (random packs) and PSA-graded cards, so if you are hunting a specific single, walk the rest of the B1F card aisle (Shinsoku No.2, Oripark, Card Collect and others) as well.",
+   "Buyback is advertised as paid entirely in cash; card acceptance for purchases is not stated anywhere official, so bring cash."
+  ]
+ },
+ "official_url": "https://torecarises.com/",
+ "sns": {
+  "x": "https://x.com/RisesAkibaST"
+ },
+ "chain": "toreca-rises",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://torecarises.com/",
+  "https://x.com/RisesAkibaST",
+  "https://akiba.or.jp/store/s126",
+  "https://search.edion.com/e_store/spot/detail?code=0000004762",
+  "https://akihabara-cardmap.com/ja/guide/area/denkigai-guchi/",
+  "https://akibatoreka.com/introduce/2665"
+ ],
+ "osm_id": null
+}

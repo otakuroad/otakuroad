@@ -1,0 +1,144 @@
+{
+ "id": "grand-pirates-akihabara",
+ "name": {
+  "ko": "그랜드파이레츠",
+  "en": "Grand Pirates",
+  "ja": "グランドパイレーツ"
+ },
+ "synonyms": [
+  "그랜드 파이레츠",
+  "그랜드파이러츠",
+  "그랜드 파이러츠",
+  "해적 메이드카페 그랜드파이레츠",
+  "Grand Pirates",
+  "GRAND PIRATES",
+  "Grand Pirates Cafe & Bar",
+  "grand-pirates",
+  "グランドパイレーツ",
+  "海賊メイドカフェ グランドパイレーツ",
+  "秋葉原の海賊メイドカフェ",
+  "グラパイ",
+  "토이그룹",
+  "TOYGROUP"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "pirate",
+  "cheki",
+  "omurice",
+  "alcohol",
+  "late_night",
+  "events",
+  "english_info"
+ ],
+ "one_line": {
+  "ko": "해적선 콘셉트 메이드카페. 지하 선실형 매장에서 오므라이스·햄버그스테이크와 체키",
+  "en": "Pirate-ship maid cafe in a basement: omurice, hamburg steak, cocktails and cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699345,
+  "lng": 139.769869
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-4 銭谷ビル地下1階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "24:00"
+   },
+   {
+    "days": [
+     "sat"
+    ],
+    "open": "12:00",
+    "close": "24:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울에는 특별 연장 영업이 있고, 이벤트일에는 개점 시각이 앞당겨지므로 공식 사이트 News를 확인한다.",
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours and event days can open earlier, both announced in the site's News."
+  },
+  "source_url": "https://grand-pirates.com/access"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "공식 안내 기준 JR 아키하바라역·긴자선 스에히로초역에서 각각 도보 약 4분. 주오도리 서쪽 뒷골목의 6층짜리 제니야(銭谷) 빌딩 지하 1층으로, 계단을 내려가면 배 화물칸을 본뜬 매장이 나온다. 같은 건물 3층은 메이드리밍 아키하바라 AKIBA라 층 표시를 확인한다.",
+  "en": "About four minutes from JR Akihabara and four from Suehirocho by the shop's own directions. Take the stairs down to B1F of the six-storey Zeniya Building on the back street west of Chuo-dori; the room is fitted out as a ship's hold. Maidreamin Akihabara AKIBA is on 3F of the same building, so check the floor sign."
+ },
+ "tips": {
+  "ko": [
+   "요금은 60분 차지 1,000엔(세금 포함 1,100엔)과 음료 1잔 주문제. 60분이 지나면 30분마다 500엔(550엔)이 자동 연장된다. 매장에서는 금액을 'G' 단위로 안내한다.",
+   "평일은 17:00, 토·일·공휴일은 12:00 개점. 금요일·토요일과 공휴일 전날은 다음 날 05:00까지 영업한다.",
+   "혼잡할 때는 자리 이동·합석이나 90분제를 요청받을 수 있다.",
+   "캐스트 촬영·녹음, 연락처 묻기, 입·출 대기는 금지. 음식·음료와 매장 장식은 촬영해도 된다.",
+   "공식 사이트 System·Notes 페이지에 영어 안내가 있어 방문 전에 요금과 규칙을 확인할 수 있다."
+  ],
+  "en": [
+   "1,000 yen (1,100 with tax) for the first 60 minutes plus a one-drink order, then 500 yen (550) automatically every 30 minutes. Prices are quoted in-store in 'G'.",
+   "Opens 17:00 on weekdays and 12:00 on Saturdays, Sundays and holidays; Fridays, Saturdays and the eve of a holiday run to 05:00 the next morning.",
+   "When it is busy you may be asked to change seats, share a table, or accept a 90-minute limit.",
+   "Photographing or recording the cast, asking for their contact details and waiting outside for them are forbidden; food, drinks and the decor may be photographed.",
+   "The System and Notes pages carry English versions of the charges and house rules."
+  ]
+ },
+ "official_url": "https://grand-pirates.com/",
+ "sns": {
+  "x": "https://twitter.com/GrandPirates_tw",
+  "instagram": "https://www.instagram.com/gps_meta"
+ },
+ "chain": "toygroup",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://grand-pirates.com/",
+  "https://grand-pirates.com/access",
+  "https://grand-pirates.com/system",
+  "https://grand-pirates.com/menu",
+  "https://grand-pirates.com/notes",
+  "https://toygroup.jp/"
+ ],
+ "osm_id": "node/2277871454"
+}

@@ -1,0 +1,145 @@
+{
+ "id": "snkrdunk-tcg-akihabara",
+ "name": {
+  "ko": "스니단 트레카 아키하바라점",
+  "en": "SNKRDUNK TCG AKIHABARA",
+  "ja": "スニダントレカ秋葉原店"
+ },
+ "synonyms": [
+  "스니단",
+  "스니커덩크",
+  "스니단 트레카",
+  "스니단 아키하바라",
+  "SNKRDUNK",
+  "SNKRDUNK TCG",
+  "Snkrdunk Trading Card Akihabara",
+  "スニダン",
+  "スニーカーダンク",
+  "スニダントレカ",
+  "SNKRDUNK TCG AKIHABARA"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "tcg_singles",
+  "singles",
+  "graded_card",
+  "psa",
+  "buyback",
+  "duel_space",
+  "showcase",
+  "sealed",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스 싱글 판매와 매입, 3층 대전석과 5층 PSA 감정 접수 창구",
+  "en": "Pokemon and One Piece singles and buyback; play space on 3F, PSA grading desk on 5F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "판매 플로어. 포켓몬 카드를 중심으로 감정을 거친 싱글 카드를 쇼케이스에 진열",
+   "en": "Sales floor: authenticated singles, mostly Pokemon, laid out in display cases"
+  },
+  {
+   "floor": "2F",
+   "ko": "매입 접수 카운터(11:00~19:00)",
+   "en": "Buyback reception counter (11:00-19:00)"
+  },
+  {
+   "floor": "3F",
+   "ko": "플레이 스페이스(32석)",
+   "en": "Play space (32 seats)"
+  },
+  {
+   "floor": "5F",
+   "ko": "PSA Lounge Tokyo. PSA JAPAN의 그레이딩 신청 접수·계정 개설 지원·완료 카드 수령 창구로, 화·수 휴무에 11:00~14:00 / 15:00~19:30(최종 접수 18:30) 운영",
+   "en": "PSA Lounge Tokyo, PSA Japan's grading intake desk (account setup, submissions, card pickup); closed Tue-Wed, open 11:00-14:00 and 15:00-19:30, last intake 18:30"
+  }
+ ],
+ "location": {
+  "lat": 35.69829,
+  "lng": 139.77158
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-14-1 外神田一丁目ビル 中央棟1F〜3F・5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입 접수는 11:00~19:00. 5층 PSA Lounge Tokyo는 화·수 휴무에 11:00~14:00 / 15:00~19:30로 매장과 다르다. 임시 휴업은 점포 X(@snkrdunk_akiba) 공지",
+   "en": "Buyback intake runs 11:00-19:00. PSA Lounge Tokyo on 5F keeps different hours (11:00-14:00 and 15:00-19:30, closed Tue and Wed). Temporary closures are posted on X (@snkrdunk_akiba)"
+  },
+  "source_url": "https://snkrdunk.com/store/tradingcard-akihabara"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 개찰구에서 도보 30초. 게이머즈 본점과 같은 외신다 1초메 빌딩 블록의 중앙동이며, 층마다 역할이 달라 사는 것은 1층, 파는 것은 2층, 대전은 3층이다.",
+  "en": "Thirty seconds from the ticket gates at JR Akihabara's Electric Town exit, in the central wing of the same Sotokanda 1-chome Building block as Gamers. Each floor has one job: buy on 1F, sell on 2F, play on 3F."
+ },
+ "tips": {
+  "ko": [
+   "온라인 마켓플레이스 스니단(스니커덩크)의 트레카 실점포로 2023년 7월 1일 개점했다. 진열품은 진위 감정을 거친 카드가 중심이다.",
+   "매입은 싱글 50종·1종당 20장(최대 1,000장), PSA10은 합계 50장, 박스는 12박스까지 상한이 있다. 개별 감정 희망분과 최저보증 희망분을 미리 나눠 가면 빠르다.",
+   "5층 PSA Lounge Tokyo에서 PSA JAPAN 그레이딩을 직접 신청하고 완료된 카드를 받을 수 있다. 매장과 휴무일·영업시간이 다르므로 주의.",
+   "대기 인원이 많거나 현금이 부족하면 접수 시간 내에도 신규 매입 접수를 중단하는 경우가 있고, 공지는 X로 나간다."
+  ],
+  "en": [
+   "This is the physical trading-card store of the SNKRDUNK marketplace, opened on 1 July 2023; stock is mostly cards that have passed its authentication.",
+   "Buyback caps: 50 kinds of singles at 20 copies each (1,000 cards), 50 PSA 10 slabs, and 12 sealed boxes. Sort your cards into individually-appraised and minimum-guarantee piles before you queue.",
+   "PSA Lounge Tokyo on 5F takes PSA Japan grading submissions and hands back finished cards, but its opening days and hours differ from the shop.",
+   "When the queue is long or the till runs low, new buyback intake can stop before the posted cut-off; notices go out on X."
+  ]
+ },
+ "official_url": "https://snkrdunk.com/store/tradingcard-akihabara",
+ "sns": {
+  "x": "https://x.com/snkrdunk_akiba"
+ },
+ "chain": "snkrdunk",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://snkrdunk.com/store/tradingcard-akihabara",
+  "https://snkrdunk.com/store",
+  "https://snkrdunk.com/departments/hobby",
+  "https://akibatoreka.com/introduce/2520"
+ ],
+ "osm_id": "node/11878410229"
+}

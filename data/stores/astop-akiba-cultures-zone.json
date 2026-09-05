@@ -1,0 +1,104 @@
+{
+ "id": "astop-akiba-cultures-zone",
+ "name": {
+  "ko": "아스톱 AKIBA 컬처즈존점",
+  "en": "ASTOP AKIBA Cultures ZONE",
+  "ja": "アストップ AKIBAカルチャーズZONE店"
+ },
+ "synonyms": [
+  "아스톱",
+  "아스톱 컬처즈존",
+  "렌탈 쇼케이스 아스톱",
+  "ASTOP",
+  "A-STOP",
+  "Astop Akiba",
+  "アストップ",
+  "レンタルショーケース アストップ",
+  "アストップ秋葉原"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "consignment",
+  "showcase",
+  "figure",
+  "trading_card",
+  "idol_goods",
+  "used",
+  "prize_figure"
+ ],
+ "one_line": {
+  "ko": "개인이 위탁한 피규어·트레카·아이돌 굿즈를 진열하는 렌탈 쇼케이스",
+  "en": "Rental showcase of collector-consigned figures, trading cards and idol goods"
+ },
+ "building_id": "akiba-cultures-zone",
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE 4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물 전체 안내는 11:00~21:00이지만 4층 점포는 20:30 마감.",
+   "en": "The building lists 11:00-21:00, but the 4F shops close at 20:30."
+  },
+  "source_url": "https://www.akibacultureszone.com/shop/33"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "1층 라신방 입구로 들어가 4층으로 올라가면 유리 쇼케이스가 늘어선 매장이 이곳이며, 같은 층 안쪽은 이벤트·팝업 공간 카루팝이다.",
+  "en": "From the 1F Lashinbang entrance go up to 4F; the room of glass showcases is this shop, with the event and pop-up space Culpop sharing the floor."
+ },
+ "tips": {
+  "ko": [
+   "케이스마다 주인이 다른 위탁 판매라 재고와 가격이 제각각이고 회전이 빠르다. 찾는 물건이 있으면 한 번에 훑어보는 편이 좋다.",
+   "라디오회관 2층에도 같은 회사의 쇼케이스 매장이 있어 둘을 혼동하기 쉽다."
+  ],
+  "en": [
+   "Each case belongs to a different owner, so stock and prices vary case by case and turn over fast; scan the whole room in one pass.",
+   "The same company runs another showcase shop on Radio Kaikan 2F, which is easy to confuse with this one."
+  ]
+ },
+ "official_url": "https://www.astop.co.jp/zone",
+ "sns": {
+  "x": "https://x.com/Astop_Akiba"
+ },
+ "chain": "astop",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.astop.co.jp/zone",
+  "https://www.astop.co.jp/",
+  "https://www.akibacultureszone.com/shop/33",
+  "https://www.akibacultureszone.com/shop/"
+ ],
+ "osm_id": "node/2272548381"
+}

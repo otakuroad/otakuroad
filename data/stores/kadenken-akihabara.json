@@ -1,0 +1,121 @@
+{
+ "id": "kadenken-akihabara",
+ "name": {
+  "ko": "카덴노 켄짱",
+  "en": "Kaden no Ken-chan",
+  "ja": "家電のケンちゃん"
+ },
+ "synonyms": [
+  "카덴노 켄짱",
+  "가전의 켄짱",
+  "켄짱",
+  "카덴켄",
+  "Kaden no Ken-chan",
+  "Kaden no Ken chan",
+  "kadenken",
+  "家電のケンちゃん",
+  "ケンちゃん",
+  "東京ラジオデパート 家電のケンちゃん"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "new",
+  "retro_pc",
+  "pc98",
+  "msx",
+  "famicom",
+  "retro_console",
+  "doujin_hardware",
+  "parts",
+  "mac"
+ ],
+ "one_line": {
+  "ko": "PC-98·MSX 등 레트로 PC와 게임기 부품, 동인 하드웨어를 파는 라디오데파트 1층 매장",
+  "en": "Radio Depart stall selling retro PC and console hardware, parts and doujin hardware kits"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698781,
+  "lng": 139.770902
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-10-11 東京ラジオデパート1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "thu",
+     "fri"
+    ],
+    "open": "12:30",
+    "close": "19:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일·수요일 정기휴무",
+   "en": "Closed Tuesdays and Wednesdays"
+  },
+  "note": {
+   "ko": "화·수요일은 정기휴무라 공휴일이라도 문을 열지 않는다. 1월 1~3일 휴무이며 그 밖에 부정기 휴무가 있고, 임시 휴업은 X(@kadenken)에 공지된다.",
+   "en": "Closed every Tuesday and Wednesday, public holidays included. Also shut 1-3 January, with occasional irregular closures announced on X (@kadenken)."
+  },
+  "source_url": "https://www.kadenken.com/view/guide"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 고가선을 따라 도보 2분, 전자부품 상가인 도쿄 라디오데파트(외신다1-10-11) 1층 안쪽의 작은 점포다. 건물 자체는 B1층~3층에 약 36개 부품점이 들어선 곳이라 층 안내판에서 점포명을 확인하고 들어가면 빠르다.",
+  "en": "Two minutes from the JR Akihabara Electric Town exit along the elevated railway, inside the Tokyo Radio Depart electronics-parts arcade (1-10-11). It is a small unit on the ground floor; the building packs about 36 parts shops into B1F-3F, so check the directory board on the way in."
+ },
+ "tips": {
+  "ko": [
+   "화요일과 수요일은 쉬고, 평일(월·목·금)은 12:30 개점으로 주말·공휴일(11:00)보다 늦게 연다.",
+   "PC-98·PC-88·MSX 같은 레트로 PC와 패미컴~플레이스테이션 세대 소프트, SPFM 같은 동인 하드웨어와 개조 키트, 구형 Mac 보수 부품을 함께 다룬다.",
+   "통신판매 재고와 매장 재고가 따로 관리되어 온라인 주문의 매장 수령이나 취소 후 재주문은 받지 않는다.",
+   "X(@kadenken)에서 공지되는 '점포 한정 상품'은 통신판매로는 살 수 없고 매장에서만 구할 수 있다."
+  ],
+  "en": [
+   "Closed Tuesday and Wednesday; on the weekdays it does open (Mon, Thu, Fri) the shutter goes up at 12:30, later than the 11:00 weekend and holiday opening.",
+   "Stock covers retro PCs such as PC-98, PC-88 and MSX, software from the Famicom to PlayStation era, doujin hardware and mod kits like SPFM, and spare parts for vintage Macs.",
+   "Web stock and shop stock are tracked separately, so the shop does not do in-store pickup for online orders.",
+   "The 'shop-only' items announced on X (@kadenken) cannot be bought by mail order - you have to come in."
+  ]
+ },
+ "official_url": "https://www.kadenken.com/",
+ "sns": {
+  "x": "https://x.com/kadenken"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.kadenken.com/",
+  "https://www.kadenken.com/view/guide",
+  "https://www.tokyoradiodepart.co.jp/shop.html"
+ ],
+ "osm_id": "node/10183630256"
+}

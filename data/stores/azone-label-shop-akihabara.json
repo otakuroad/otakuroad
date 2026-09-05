@@ -1,0 +1,113 @@
+{
+ "id": "azone-label-shop-akihabara",
+ "name": {
+  "ko": "아존 레이블숍 아키하바라",
+  "en": "AZONE Labelshop AKIHABARA",
+  "ja": "アゾンレーベルショップ秋葉原"
+ },
+ "synonyms": [
+  "아존",
+  "아존 레이블숍",
+  "아존 레이블샵",
+  "아존 아키하바라",
+  "아존 인터내셔널",
+  "AZONE",
+  "Azone Label Shop",
+  "Azone Labelshop Akihabara",
+  "アゾン",
+  "アゾンレーベルショップ",
+  "レーベルショップ秋葉原",
+  "アゾンインターナショナル"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "doll",
+  "azone",
+  "pureneemo",
+  "picconeemo",
+  "assault_lily",
+  "doll_clothes",
+  "doll_accessory",
+  "integrity_toys",
+  "official_store",
+  "new"
+ ],
+ "one_line": {
+  "ko": "아존 직영 돌 매장. 15~50cm 퓨어니모 등 돌 본체와 각 사이즈 의상·소품",
+  "en": "Azone's own doll store: 15-50cm Pureneemo dolls, outfits and accessories in every size"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물은 10:00 개관이지만 매장은 11:00 오픈. 연말연시·임시 휴업은 라디오회관 공지(7F 아존)에 올라온다",
+   "en": "The building opens at 10:00 but the shop opens at 11:00. New Year and temporary closures are posted as '7F Azone' notices on the Radio Kaikan site"
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/azone-labelshop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 7F는 돌 전용 층으로, 엘리베이터에서 내리면 DOLK·정글 아키하바라 2호점과 함께 아존 직영 매장이 있다.",
+  "en": "7F of Radio Kaikan is the doll floor; step out of the elevator and the Azone-run shop is there alongside DOLK and Jungle Akihabara No.2."
+ },
+ "tips": {
+  "ko": [
+   "아존 인터내셔널 직영점이라 신제품 예약과 샘플 전시가 가장 빠르다. 발매 예정품 실물을 보고 예약할 수 있다.",
+   "돌 본체뿐 아니라 1/12 피코니모부터 1/3까지 사이즈별 의상·아이 체인지·소품을 따로 살 수 있다.",
+   "인티그리티 토이즈 등 해외 컬렉션 돌도 취급한다."
+  ],
+  "en": [
+   "As Azone International's own shop it gets pre-orders and sample displays first: you can see an upcoming release in person before ordering.",
+   "Besides the dolls themselves it stocks outfits, eyes and small parts by size, from 1/12 Picconeemo up to 1/3.",
+   "Imported collection dolls such as Integrity Toys are also stocked."
+  ]
+ },
+ "official_url": "http://azoneakiba.blog45.fc2.com/",
+ "sns": {
+  "x": "https://x.com/ls_akihabara"
+ },
+ "chain": "azone",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/azone-labelshop/",
+  "http://azoneakiba.blog45.fc2.com/",
+  "https://www.azone-int.co.jp/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://hjweb.jp/shop/8940/"
+ ],
+ "osm_id": null
+}

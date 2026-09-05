@@ -1,0 +1,82 @@
+{
+ "id": "toreca-kingdom-akihabara",
+ "name": {
+  "ko": "트레카킹덤 아키하바라점",
+  "en": "Toreca Kingdom Akihabara",
+  "ja": "トレカキングダム 秋葉原店"
+ },
+ "synonyms": [
+  "트레카킹덤",
+  "트레카 킹덤",
+  "토레카킹덤",
+  "트레카킹덤 아키하바라",
+  "トレカキングダム",
+  "トレカキングダム秋葉原店",
+  "Toreca Kingdom",
+  "japan-toreca",
+  "株式会社ジンギ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "duel_masters",
+  "dragon_ball_card",
+  "singles",
+  "sealed",
+  "buyback",
+  "mail_order"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스 카드 통신판매와 매입을 하는 사무실 빌딩 6층 트레카 업체",
+  "en": "6F office-floor card dealer: Pokemon and One Piece singles, mail order and buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699554,
+  "lng": 139.774646
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "東京都千代田区神田松永町10-1 長谷川ビル6F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 2분, 요도바시 Akiba 바로 북쪽 블록의 7층짜리 하세가와(長谷川) 빌딩 6층. 도로에 면한 매장이 아니라 사무실 층이므로 엘리베이터로 올라가야 한다.",
+  "en": "Two minutes from the JR Akihabara Showa-dori Exit, in the seven-storey Hasegawa Building on the block immediately north of Yodobashi Akiba, on 6F. It is an office floor rather than a street-level shop, so take the lift up."
+ },
+ "tips": {
+  "ko": [
+   "통신판매(shop.japan-toreca.com)와 매입이 본업이고, 매장 방문 영업시간이 공식적으로 공개되어 있지 않다. 秋葉原トレカマップ 등 아키하바라 카드숍 디렉터리에도 실려 있지 않으므로 헛걸음할 수 있다.",
+   "방문 전 운영사(주식회사 진기)에 매장 이용 가능 여부를 문의하는 편이 안전하다."
+  ],
+  "en": [
+   "The business is mail order (shop.japan-toreca.com) and buyback; no walk-in opening hours are published, and it is absent from the Akihabara card-shop directories, so a visit may not be possible.",
+   "Contact the operator (Jingi Co., Ltd.) before going to confirm that the office accepts walk-in customers."
+  ]
+ },
+ "official_url": "https://shop.japan-toreca.com/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "low",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://shop.japan-toreca.com/",
+  "https://shop.japan-toreca.com/policies/legal-notice"
+ ],
+ "osm_id": "node/12908845943"
+}

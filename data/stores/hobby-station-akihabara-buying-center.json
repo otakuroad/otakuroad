@@ -1,0 +1,115 @@
+{
+ "id": "hobby-station-akihabara-buying-center",
+ "name": {
+  "ko": "호비스테이션 아키하바라 매입센터",
+  "en": "Hobby Station Akihabara Buying Center",
+  "ja": "ホビーステーション秋葉原買取センター"
+ },
+ "synonyms": [
+  "호비스테이션 매입센터",
+  "호비스테 매입센터",
+  "호비스테이션 아키하바라 카이토리센터",
+  "호비스테이션 1층 매입",
+  "Hobby Station Akihabara Buying Centre",
+  "Hobby Station Akihabara Buyback Center",
+  "hbst Akihabara Kaitori Center",
+  "ホビステ秋葉原買取センター",
+  "ホビーステーション 秋葉原買取センター",
+  "秋葉原買取センター"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "buyback",
+  "tcg_singles",
+  "new",
+  "used",
+  "pokemon_card",
+  "yugioh",
+  "duel_masters",
+  "weiss_schwarz",
+  "one_piece_card",
+  "hololive",
+  "gundam_card",
+  "lycee_overture",
+  "xross_stars"
+ ],
+ "one_line": {
+  "ko": "포켓몬·유희왕·원피스 등 TCG 매입 창구 겸 싱글 카드 판매점",
+  "en": "Ground-floor TCG buyback counter and singles shop for Pokemon, Yu-Gi-Oh and One Piece"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698687,
+  "lng": 139.770776
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-10-11 森ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴 (定休日 無)",
+   "en": "Open year-round (no regular holiday)"
+  },
+  "note": null,
+  "source_url": "https://www.hbst.net/shop/1/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "호비스테이션 아키하바라 본점과 같은 모리(森) 빌딩의 1층 길가 점포. 주오도리 서쪽 실크햇 뒤편 골목, 전자부품 상가 도쿄 라디오 데파트 바로 남쪽이다. 카드를 팔러 왔다면 1층, 사러 왔다면 2층 본점으로 올라가면 된다.",
+  "en": "The street-level unit on 1F of the same Mori Building as the Hobby Station main store, on the back lane behind Silk Hat west of Chuo-dori and just south of the Tokyo Radio Depart. Selling cards happens here on 1F; buying happens upstairs in the 2F main store."
+ },
+ "tips": {
+  "ko": [
+   "매입 대상 타이틀은 듀얼마스터즈, 유희왕, 포켓몬 카드게임, 바이스슈발츠, 리세 오버추어, 프리미엄 서플라이, 기동전사 건담 아스날 베이스, 원피스, Xross Stars, 홀로라이브 공식 카드게임.",
+   "스태프 출근 상황에 따라 매입 매수 제한이나 일시 중단이 있을 수 있다고 공식 페이지에 안내되어 있다. 대량 매입은 시간 여유를 두는 편이 좋다.",
+   "매입 창구지만 레어 카드와 노멀 카드 판매도 함께 한다. 듀얼 스페이스와 더 넓은 싱글 재고는 같은 건물 2층 본점에 있다."
+  ],
+  "en": [
+   "Titles bought here: Duel Masters, Yu-Gi-Oh!, Pokemon Card Game, Weiss Schwarz, Lycee Overture, Premium Supply, Mobile Suit Gundam Arsenal Base, One Piece, Xross Stars and hololive OFFICIAL CARD GAME.",
+   "The official page warns that per-title quantity limits or temporary suspension of buyback can apply depending on staffing, so allow extra time for a large sale.",
+   "Despite the name it also sells rare and normal singles; the duel space and the deeper singles stock are in the 2F main store of the same building."
+  ]
+ },
+ "official_url": "https://www.hbst.net/shop/1/",
+ "sns": {
+  "x": "https://x.com/akiba5f"
+ },
+ "chain": "hobby-station",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hbst.net/shop/1/",
+  "https://www.hbst.net/shop/",
+  "https://www.hbst.net/shop/19/"
+ ],
+ "osm_id": null
+}

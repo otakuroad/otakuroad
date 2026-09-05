@@ -1,0 +1,106 @@
+{
+ "id": "card-shop-alpaca-akihabara",
+ "name": {
+  "ko": "카드숍 알파카 아키하바라점",
+  "en": "Card Shop Alpaca Akihabara",
+  "ja": "カードショップあるぱか 秋葉原店"
+ },
+ "synonyms": [
+  "알파카",
+  "카드숍 알파카",
+  "아루파카",
+  "Card Shop Alpaca",
+  "alpaca",
+  "あるぱか",
+  "カードショップあるぱか",
+  "アルパカ 秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "buyback",
+  "singles",
+  "sealed_box",
+  "small_shop"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드 싱글과 미개봉 BOX를 파는 소규모 카드숍, 매입 창구 운영",
+  "en": "Small Pokemon-card shop selling singles and sealed boxes, with a buyback counter"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699196,
+  "lng": 139.768875
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田2-3-7 アーバンファーストビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "수요일 휴무",
+   "en": "Closed Wednesdays"
+  },
+  "note": {
+   "ko": "평일·토·일·공휴일 모두 13:00-20:00으로 같고, 매입 접수는 19:00에 마감된다.",
+   "en": "Same 13:00-20:00 on weekdays, weekends and holidays; the buyback counter closes at 19:00."
+  },
+  "source_url": "https://x.com/cardshop_alpaca"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아키하바라 전기가 출구에서 서쪽으로 약 5분, 전자상가에서 벗어난 쇼헤이바시도리 쪽 뒷길. 오리오스펙이 든 나리타빌딩(外神田2-3-6) 바로 남쪽 건물 1층 노면 점포다.",
+  "en": "About five minutes west of the Electric Town exit, off the electronics blocks toward Shoheibashi-dori. It is the street-level unit on 1F of the building just south of the Narita Building (Sotokanda 2-3-6, home of OLIOSPEC)."
+ },
+ "tips": {
+  "ko": [
+   "수요일은 정기 휴무이므로 주중에 갈 때 주의.",
+   "매입은 포켓몬 카드 BOX 고가 매입을 내세우며, 접수 마감이 폐점보다 1시간 이른 19:00이다."
+  ],
+  "en": [
+   "Closed on Wednesdays, so check the day if you visit midweek.",
+   "Buyback focuses on sealed Pokemon card boxes and stops at 19:00, an hour before closing."
+  ]
+ },
+ "official_url": "https://tcg-alpaca.shop/",
+ "sns": {
+  "x": "https://x.com/cardshop_alpaca"
+ },
+ "chain": "alpaca",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://x.com/cardshop_alpaca",
+  "https://tcg-alpaca.shop/",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2742",
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B02-3-7"
+ ],
+ "osm_id": null
+}

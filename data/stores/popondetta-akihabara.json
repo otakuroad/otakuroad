@@ -1,0 +1,157 @@
+{
+ "id": "popondetta-akihabara",
+ "name": {
+  "ko": "포폰데타 아키하바라점",
+  "en": "Popondetta Akihabara",
+  "ja": "ポポンデッタ 秋葉原店"
+ },
+ "synonyms": [
+  "포폰데타",
+  "포폰뎃타",
+  "포폰데타 아키하바라",
+  "포폰데타 철도모형",
+  "Popondetta",
+  "Popondetta Akihabara Store",
+  "popondetta",
+  "ポポンデッタ",
+  "ポポンデッタ秋葉原店",
+  "ポポンデッタ秋葉原買取センター",
+  "Rail Way BLD"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "model_train",
+  "n_gauge",
+  "ho_gauge",
+  "z_gauge",
+  "o_gauge",
+  "b_train_shorty",
+  "geocolle",
+  "diorama",
+  "rental_layout",
+  "used",
+  "new",
+  "buyback",
+  "kato",
+  "tomix",
+  "greenmax"
+ ],
+ "one_line": {
+  "ko": "B1~4층 철도모형 전문점. 신품 N게이지와 1량 단위 중고, 2층 유료 레일 레이아웃",
+  "en": "Five-floor model railway shop: new N gauge, used sold by the carriage, 2F rental layout"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "HO게이지 일본형 차량과 각 게이지 해외형 차량, 지오라마 용품, 고서·중고 철도 잡화",
+   "en": "Japanese HO gauge, foreign-prototype models in all gauges, diorama supplies, old books and used railway goods"
+  },
+  {
+   "floor": "1F",
+   "ko": "입구와 매입 카운터. B트레인쇼티·철도/버스 컬렉션 낱개 판매, 각사 레일·스트럭처·스타터 세트",
+   "en": "Entrance and buyback counter; B-Train Shorty and railway/bus collections sold singly, plus track, structures and starter sets"
+  },
+  {
+   "floor": "2F",
+   "ko": "유료 레일 레이아웃 12선과 철도 굿즈(티셔츠·문구·잡화)",
+   "en": "Twelve-track paid rental layout and railway goods (T-shirts, stationery, sundries)"
+  },
+  {
+   "floor": "3F",
+   "ko": "KATO·TOMIX·MICROACE·그린맥스 등 신품 N게이지 차량과 ASSY 파츠, 예약 상품 수령",
+   "en": "New N gauge from KATO, TOMIX, MICROACE and Greenmax, ASSY parts and reservation pickup"
+  },
+  {
+   "floor": "4F",
+   "ko": "중고 N게이지 차량·주변기기·컬렉션 시리즈. 1량 단위로도 판다",
+   "en": "Used N gauge stock, accessories and collection series, sold by the single carriage"
+  }
+ ],
+ "location": {
+  "lat": 35.700854,
+  "lng": 139.769525
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-3-3 Rail Way BLD B1F〜4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "10:00",
+    "close": "20:30"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일만 20:30까지, 토·일·공휴일은 20:00에 닫는다. 5층은 사무실이라 들어갈 수 없다.",
+   "en": "Open until 20:30 on weekdays and 20:00 on Saturdays, Sundays and public holidays. 5F is office space and closed to visitors."
+  },
+  "source_url": "https://www.popondetta.com/akihabara/index.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아키하바라 UDX 서쪽, 주오도리에서 두 블록 서쪽 골목의 'Rail Way BLD'. 건물 이름 그대로 철도모형 전용 빌딩이라 1층 입구에 전차 모양 자판기가 서 있다. 층 이동은 오른쪽 통로의 계단과 엘리베이터.",
+  "en": "The 'Rail Way BLD' on the back street two blocks west of Chuo-dori, just west of Akihabara UDX. The whole building is model trains; a train-shaped vending machine stands at the 1F entrance. Stairs and a lift to the other floors are down the passage on the right."
+ },
+ "tips": {
+  "ko": [
+   "2층 레일 레이아웃은 20분 체험 800엔(종일), 60분 평일 800엔·토일공휴일 1200엔. 토·일·공휴일은 2시간 대기가 흔해 2주 이내 전화 예약이 가능하다.",
+   "19시부터는 레이아웃 조명을 야경 모드로 바꿔 운전할 수 있다.",
+   "4층 중고 층에서는 신품으로는 팔지 않는 1량 단위 판매를 한다.",
+   "매입 카운터는 B1에서 1층으로 옮겨 왔다. 차로 대량 반입하기 편하고 택배·출장 매입도 받는다.",
+   "각종 신용카드와 PayPay를 쓸 수 있다."
+  ],
+  "en": [
+   "The 2F rental layout is 800 yen for a 20-minute trial, or 60 minutes at 800 yen on weekdays and 1,200 yen at weekends and holidays; two-hour waits are common at weekends, and phone bookings are taken up to two weeks ahead.",
+   "From 19:00 the layout switches to night-scene lighting.",
+   "The 4F used floor sells single carriages, which the new-stock floors do not.",
+   "The buyback counter moved from B1 to 1F, so it is easy to bring a big load by car; postal and home-visit buying are also offered.",
+   "Credit cards and PayPay are accepted."
+  ]
+ },
+ "official_url": "https://www.popondetta.com/akihabara/index.html",
+ "sns": {},
+ "chain": "popondetta",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.popondetta.com/akihabara/index.html",
+  "https://www.popondetta.com/",
+  "https://www.popondetta.com/akibareuse/index.html",
+  "https://www.openstreetmap.org/node/2276456261"
+ ],
+ "osm_id": "node/2276456261"
+}

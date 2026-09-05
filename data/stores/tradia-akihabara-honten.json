@@ -1,0 +1,135 @@
+{
+ "id": "tradia-akihabara-honten",
+ "name": {
+  "ko": "토레디아 아키하바라 본점",
+  "en": "Tradia Akihabara Main Store",
+  "ja": "トレカ専門店トレーディア秋葉原本店"
+ },
+ "synonyms": [
+  "토레디아",
+  "토레디아 아키하바라",
+  "트레이디아",
+  "트라디아",
+  "가챠폰회관 4층 카드숍",
+  "빔스 아키하바라 본점",
+  "카드숍 빔스",
+  "Tradia",
+  "Tradia Akihabara",
+  "Toreca Tradia",
+  "Card Shop Beems",
+  "Beems Akihabara",
+  "トレーディア",
+  "トレカ専門店トレーディア",
+  "トレーディア秋葉原本店",
+  "カードショップビームス",
+  "カードショップビームス秋葉原本店",
+  "ビームス"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "yugioh",
+  "duel_masters",
+  "rush_duel",
+  "one_piece_card",
+  "singles",
+  "sealed",
+  "buyback",
+  "duel_space",
+  "used"
+ ],
+ "one_line": {
+  "ko": "듀얼 스페이스를 갖춘 트레카 전문점. 포켓몬·유희왕 싱글과 팩, 매입",
+  "en": "Trading card shop with duel space: Pokemon and Yu-Gi-Oh singles, sealed packs, buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701876,
+  "lng": 139.77123
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル4F（秋葉原ガチャポン会館4F）",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "토요일은 평일과 같은 20:00 마감이고 19:00 마감은 일요일·공휴일뿐. 매입 접수는 폐점 15분 전까지.",
+   "en": "Saturday closes at 20:00 like weekdays; only Sunday and public holidays close at 19:00. Buyback counter closes 15 minutes before the shop."
+  },
+  "source_url": "https://www.toreca-tradia.com/shop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목으로 들어가면 왼편에 1층이 가챠폰 회관인 MN빌딩이 있다. 캡슐 기계 옆 건물 입구로 들어가 4층으로 올라간다.",
+  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south on the west side of Chuo-dori and turn right into the first narrow one-way lane; the MN Building, with the Gachapon Kaikan capsule hall on its ground floor, is on the left. Enter beside the capsule machines and go up to 4F."
+ },
+ "tips": {
+  "ko": [
+   "2021년 2월 듀얼 스페이스를 갖춘 넓은 점포로 옮기면서 '카드숍 빔스'에서 '트레카 전문점 토레디아'로 이름이 바뀌었다. 옛 간판·지도 표기(ビームス)로 검색해도 같은 곳이다.",
+   "매입 접수는 폐점 15분 전에 마감되므로 매각하려면 여유 있게 방문할 것.",
+   "같은 MN빌딩 3층에도 카드숍(트레카원)이 있어 한 건물에서 시세를 비교할 수 있다.",
+   "아키하바라역 쪽에는 같은 회사의 '토레디아 아키하바라 에키치카점'(외간다 1-13-1, 평일 13:00-21:00)이 따로 있다."
+  ],
+  "en": [
+   "The shop moved to this larger space with a duel area in February 2021 and renamed itself from Card Shop Beems to Tradia; older signage and map listings still say ビームス.",
+   "The buyback counter closes 15 minutes before the shop, so come early if you are selling.",
+   "Another card shop (Toreca ONE) sits on 3F of the same MN Building, so you can compare prices without leaving the building.",
+   "The same company runs a second branch near the station, Tradia Akihabara Ekichika (Sotokanda 1-13-1, weekdays 13:00-21:00)."
+  ]
+ },
+ "official_url": "https://www.toreca-tradia.com/",
+ "sns": {
+  "x": "https://x.com/toreca_tradia"
+ },
+ "chain": "tradia",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.toreca-tradia.com/",
+  "https://www.toreca-tradia.com/shop/",
+  "https://www.toreca-tradia-pk.com/hpgen/HPB/entries/9.html",
+  "https://www.toreca-tradia-dm.com/hpgen/HPB/entries/1.html",
+  "https://www.cardshopbeems.jp/shop/",
+  "https://torecamap.co.jp/column/akihabara/",
+  "https://www.akibagacha.com/"
+ ],
+ "osm_id": "node/11779681423"
+}

@@ -1,0 +1,127 @@
+{
+ "id": "toyger-tcg-akihabara",
+ "name": {
+  "ko": "토이거 TCG 아키하바라",
+  "en": "TOYGER TCG Akihabara",
+  "ja": "TOYGER TCG"
+ },
+ "synonyms": [
+  "토이거",
+  "토이거 TCG",
+  "토이거 티씨지",
+  "TOYGER",
+  "TOYGER TCG",
+  "Toyger TCG Akihabara",
+  "秋葉原 TOYGER TCG",
+  "トイガー",
+  "トイガーTCG",
+  "toygertcg"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "tcg_singles",
+  "singles",
+  "supplies",
+  "sleeve",
+  "playmat",
+  "psa",
+  "buyback",
+  "duel_space",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스 트레카 싱글과 자체 브랜드 슬리브·플레이매트, 24시까지 영업",
+  "en": "Pokemon and One Piece singles plus TOYGER's own sleeves and playmats; open until midnight"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701341,
+  "lng": 139.771294
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-6 千住ビル7 3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "15:00",
+    "close": "24:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수는 22:00까지. 공식 통판 사이트에는 점포 영업시간 안내가 없고, 개점 시 점포 X(@TOYGER_TCG)·인스타그램이 공지한 시간을 카드숍 디렉터리가 그대로 싣고 있다. 방문 전 X 확인 권장",
+   "en": "Buyback desk closes at 22:00. The online-shop site carries no store hours; these are the times the shop announced on X (@TOYGER_TCG) and Instagram at opening and that card-shop directories repeat, so check X before going"
+  },
+  "source_url": "https://www.bear.cool/board-game/place/5963/info"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3b 출구에서 도보 2분, JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 서쪽에 면한 千住ビル 3층이며, 1층은 리버티 1호점, 4층은 풀콤프 아키하바라점, 6층은 AKIBA-HOBBY가 들어선 세로형 잡거빌딩이다. 지도 앱과 OSM은 같은 건물을 恵光ビル로 표기하기도 한다. 2024년 8월 폐점한 겟츄야 아키바점 자리.",
+  "en": "Two minutes from exit 3b of Suehirocho Station (Ginza Line) and five from the JR Akihabara Electric Town exit. It is on 3F of the Senju Building on the west side of Chuo-dori, a stacked tenant block with Liberty No.1 on 1F, Fullcomp Akihabara on 4F and AKIBA-HOBBY on 6F; some maps and OSM label the same building Keiko Building. The unit is the former Getchu-ya Akiba, which closed in August 2024."
+ },
+ "tips": {
+  "ko": [
+   "24:00까지 영업해 아키하바라 카드숍 중 가장 늦게까지 열려 있다. 평일은 15:00에야 문을 열므로 낮에는 헛걸음 주의.",
+   "무료 대전 스페이스가 있고 개점 당시 24석, 이후 최대 28석으로 안내됐다. 플레이매트도 비치.",
+   "TCG 서플라이 브랜드 TOYGER의 직영점이라 자사 슬리브·덱케이스·플레이매트를 현물로 골라 살 수 있다.",
+   "점포 X 계정(@TOYGER_TCG) 프로필에는 면세 판매와 신용카드·전자머니·교통계 IC·QR 결제 대응이 적혀 있으나 공식 웹페이지 안내는 없다."
+  ],
+  "en": [
+   "Open until midnight, the latest-closing card shop in Akihabara. On weekdays it does not open until 15:00, so do not go in the daytime.",
+   "There is a free play space, announced as 24 seats at opening and later as up to 28; playmats are provided.",
+   "It is the direct store of the TCG supply brand TOYGER, so you can pick its sleeves, deck cases and playmats off the shelf.",
+   "The shop's X profile (@TOYGER_TCG) advertises tax-free sales and credit card, e-money, transit IC and QR payment, but no official web page states this."
+  ]
+ },
+ "official_url": "https://toygertcg.com/",
+ "sns": {
+  "x": "https://x.com/TOYGER_TCG",
+  "instagram": "https://www.instagram.com/toyger_tcg/"
+ },
+ "chain": "toyger",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://toygertcg.com/",
+  "https://toygertcg.com/pages/transaction_notation",
+  "https://toygertcg.com/policies/terms-of-service",
+  "https://toyger.shop/",
+  "https://entermedia-akiba.com/toyger-tcg/",
+  "https://www.bear.cool/board-game/place/5963/info",
+  "https://www.fullcomp.jp/akihabara/"
+ ],
+ "osm_id": null
+}

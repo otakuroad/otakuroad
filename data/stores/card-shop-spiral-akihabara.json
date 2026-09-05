@@ -1,0 +1,154 @@
+{
+ "id": "card-shop-spiral-akihabara",
+ "name": {
+  "ko": "카드숍 스파이럴 아키하바라점",
+  "en": "Card Shop Spiral Akihabara",
+  "ja": "カードショップすぱいらる秋葉原店"
+ },
+ "synonyms": [
+  "스파이럴",
+  "카드숍 스파이럴",
+  "카드샵 스파이럴",
+  "스파이럴 아키하바라",
+  "카드숍 스파이럴 아키하바라 2층",
+  "스파이라루",
+  "Card Shop Spiral",
+  "Spiral Akihabara",
+  "card-spiral",
+  "すぱいらる",
+  "すぱいらる 秋葉原店",
+  "カードショップすぱいらる",
+  "カードショップ すぱいらる 秋葉原 2F",
+  "カードショップすぱいらる秋葉原2",
+  "カードショップ すぱいらる 秋葉原駅前店",
+  "スパイラル秋葉原店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "yugioh",
+  "pokemon_card",
+  "one_piece_card",
+  "duel_masters",
+  "gundam_card",
+  "shadowverse_evolve",
+  "singles",
+  "oripa",
+  "duel_space",
+  "tournament",
+  "buyback",
+  "supplies",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "3층은 유희왕·포켓몬 싱글, 2층은 원피스·듀얼마스터즈와 무료 대전석 32석",
+  "en": "Yu-Gi-Oh and Pokemon singles on 3F; One Piece and Duel Masters with 32 duel seats on 2F"
+ },
+ "building_id": null,
+ "floors": [
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "2F",
+   "ko": "듀얼마스터즈·원피스 카드·건담 카드게임·섀도우버스 에볼브 플레이용 싱글과 오리파, 무료 대전석 32석(원피스·포켓몬 공식 대회 개최)",
+   "en": "Duel Masters, One Piece, Gundam Card Game and Shadowverse Evolve play singles and oripa, plus a free 32-seat duel space hosting official One Piece and Pokemon events"
+  },
+  {
+   "floor": "3F",
+   "ko": "유희왕 OCG(일본판·해외판)와 포켓몬 카드 싱글·컬렉션 카드, 신탄 팩, 슬리브·덱케이스·플레이매트 등 서플라이, 매입 카운터",
+   "en": "Yu-Gi-Oh OCG (Japanese and overseas) and Pokemon card singles and collector cards, new-set packs, sleeves, deck cases and playmats, and the buyback counter"
+  }
+ ],
+ "location": {
+  "lat": 35.701541,
+  "lng": 139.770442
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-5-14 関根ビル2F・3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "표시된 시간은 3층 기준. 2층은 한 시간 이른 21:00에 닫고(공식 X @card_spiral_2 안내), 2층 대전석은 20:40까지 쓸 수 있다. 매입 접수는 폐점 30분~1시간 전에 마감된다.",
+   "en": "These are the 3F hours. The 2F floor closes an hour earlier at 21:00 (per its own X account @card_spiral_2) and its duel seats are usable until about 20:40. Buyback intake stops 30-60 minutes before closing."
+  },
+  "source_url": "https://ameblo.jp/card-spiral/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 한 블록 서쪽 정크도리(ジャンク通り)에 있는 세키네(関根) 빌딩. 도쿄메트로 스에히로초역 3번 출구에서 도보 2분, JR 아키하바라역 전기가 출구에서 도보 6분. 1층은 노란 간판의 잡화점 아키바오~ 8호점이고, 그 옆 공용 출입구에서 계단이나 엘리베이터로 2층·3층에 올라간다.",
+  "en": "The Sekine Building on Junk-dori, one block west of Chuo-dori: two minutes from Suehirocho station exit 3, six minutes from JR Akihabara's Electric Town Exit. The ground floor is the yellow-signed variety store Akibaoo No.8; use the shared entrance beside it and take the stairs or lift to 2F and 3F."
+ },
+ "tips": {
+  "ko": [
+   "타이틀별로 층이 나뉜다. 유희왕·포켓몬은 3층, 원피스·듀얼마스터즈·건담 카드게임은 2층이므로 목적에 맞는 층으로 바로 올라가면 된다.",
+   "2층 대전석 32석은 무료이고 이용 조건이 없다. 원피스·포켓몬 공식 대회도 여기서 열린다.",
+   "3층이 22:00까지 열어 주변 카드숍보다 늦게까지 영업한다. 다만 2층은 21:00에 닫는다.",
+   "현금·신용카드·유니온페이(은련카드) 결제가 가능하다. 매입 시세는 공식 블로그(ameblo.jp/card-spiral)의 포켓몬 카드 매입표에서 미리 확인할 수 있다.",
+   "구 '아키하바라 역앞점'(外神田1-4-11 3F)은 이 건물 2층으로 통합되었으므로 옛 주소로 가지 말 것."
+  ],
+  "en": [
+   "The floors are split by title: Yu-Gi-Oh and Pokemon on 3F, One Piece, Duel Masters and the Gundam Card Game on 2F, so go straight to the floor you want.",
+   "The 32 duel seats on 2F are free with no conditions, and official One Piece and Pokemon tournaments run there.",
+   "3F stays open until 22:00, later than most card shops nearby; note that 2F shuts at 21:00.",
+   "Cash, credit cards and UnionPay are accepted. Buyback rates for Pokemon cards are posted in advance on the shop's blog at ameblo.jp/card-spiral.",
+   "The former 'Akihabara Ekimae' branch at Sotokanda 1-4-11 3F was merged into this building's 2F, so do not go to the old address."
+  ]
+ },
+ "official_url": "https://www.card-spiral.jp/",
+ "sns": {
+  "x": "https://x.com/card_spiral"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://ameblo.jp/card-spiral/",
+  "https://ameblo.jp/card-spiral/entrylist.html",
+  "http://spiralup.info/cardshop.html",
+  "https://www.card-spiral.jp/",
+  "https://www.card-spiral.jp/info",
+  "https://akibatoreka.com/introduce/1139",
+  "https://akibatoreka.com/introduce/2656",
+  "https://akibatoreka.com/introduce/2285",
+  "https://www.cardshopbeems.jp/review/cardshop-spiral/",
+  "https://p.akibaoo.co.jp/static/n/company/"
+ ],
+ "osm_id": "node/1916530504"
+}

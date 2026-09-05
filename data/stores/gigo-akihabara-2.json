@@ -1,0 +1,115 @@
+{
+ "id": "gigo-akihabara-2",
+ "name": {
+  "ko": "GiGO 아키하바라 2호관",
+  "en": "GiGO Akihabara Building 2",
+  "ja": "GiGO秋葉原2号館"
+ },
+ "synonyms": [
+  "기고 아키하바라 2호관",
+  "GiGO 2호관",
+  "기고 2호관",
+  "GiGO Akihabara 2",
+  "GiGO Akiba 2",
+  "GIGO2号館",
+  "ギーゴ秋葉原2号館",
+  "gigo akihabara2"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "prize",
+  "collab_cafe"
+ ],
+ "one_line": {
+  "ko": "한다 빌딩 1~2층이 전부 크레인 게임인 프라이즈 전문 오락실",
+  "en": "Two floors of nothing but crane games, with a GiGO collab cafe stand on 2F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "크레인 게임(프라이즈)",
+   "en": "Crane and prize machines"
+  },
+  {
+   "floor": "2F",
+   "ko": "크레인 게임과 신상 경품 쇼케이스, GiGO 콜라보 카페 스탠드",
+   "en": "Crane games, a showcase of upcoming prizes, and the GiGO collab cafe stand"
+  }
+ ],
+ "location": {
+  "lat": 35.697745,
+  "lng": 139.771449
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-15-1 半田ビル1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://www.gigo.co.jp/shops/akihabara2"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 남쪽으로 나와 주오도리를 따라 만세바시 방향으로 도보 2분. 라디오회관에서 남쪽으로 내려가면 아미아미 피규어타워 근처, 람타라 메디아월드와 같은 한다 빌딩 저층에 있다.",
+  "en": "Two minutes from the south side of the JR Akihabara Electric Town Exit, walking down Chuo-dori toward Manseibashi. It is in the lower floors of the Handa Building near the AmiAmi Figure Tower, in the same building as Lammtarra Media World, south of Radio Kaikan."
+ },
+ "tips": {
+  "ko": [
+   "GiGO 매장은 1~2층 두 층뿐이라 규모가 작다. 아키하바라 GiGO 중 가장 역에서 가깝다.",
+   "공식 안내에 올라온 게임 종류가 크레인 게임 하나뿐이다. 음악 게임은 3호관, 아케이드 카드게임은 5호관으로 가야 한다.",
+   "2층에 GiGO 콜라보 카페 스탠드가 붙어 있어 진행 중인 콜라보 음료를 테이크아웃할 수 있다."
+  ],
+  "en": [
+   "Only two floors, so it is the smallest of the Akihabara GiGOs — and the closest one to the station.",
+   "Crane games are the only game type listed officially; go to Building 3 for music games and Building 5 for arcade card games.",
+   "A GiGO collab cafe stand on 2F sells the current tie-up drinks to take away."
+  ]
+ },
+ "official_url": "https://www.gigo.co.jp/shops/akihabara2",
+ "sns": {
+  "x": "https://x.com/GiGO_akiba_2"
+ },
+ "chain": "gigo",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gigo.co.jp/shops/akihabara2",
+  "https://www.gigo.co.jp/shops/cafestand-akihabara3",
+  "https://prize-lab.com/game-center/akiba/"
+ ],
+ "osm_id": "node/11017003645"
+}

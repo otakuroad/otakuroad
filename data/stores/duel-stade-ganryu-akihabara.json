@@ -1,0 +1,116 @@
+{
+ "id": "duel-stade-ganryu-akihabara",
+ "name": {
+  "ko": "듀얼 스타드 간류 아키하바라점",
+  "en": "Duel Stade Ganryu Akihabara",
+  "ja": "Duel Stade Ganryu 秋葉原店"
+ },
+ "synonyms": [
+  "간류",
+  "듀얼스타드",
+  "듀얼 스타드 간류",
+  "Duel Stade",
+  "Ganryu",
+  "ガンリュウ",
+  "トレカ専門店 ガンリュウ",
+  "デュエルスタッドガンリュウ",
+  "デュエルスタッドガンリュウ 秋葉原店",
+  "オノデン本館B1F"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "yugioh",
+  "one_piece_card",
+  "duel_masters",
+  "singles",
+  "duel_space",
+  "buyback",
+  "basement"
+ ],
+ "one_line": {
+  "ko": "포켓몬·유희왕·원피스·듀얼마스터즈 싱글과 66석 듀얼 스페이스를 갖춘 지하 카드숍",
+  "en": "Basement card shop: Pokemon, Yu-Gi-Oh, One Piece and Duel Masters singles, 66 play seats"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698346,
+  "lng": 139.770969
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-2-7 オノデン秋葉原本館B1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 13:00에 열어 주말·공휴일(10:00)보다 늦다. 부정기 휴무가 있으므로 공식 X(@Ganryu_6610) 확인.",
+   "en": "Opens at 13:00 on weekdays, later than the 10:00 weekend and holiday opening. Irregular closures happen, so check the official X account (@Ganryu_6610)."
+  },
+  "source_url": "https://x.com/Ganryu_6610"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리와 전기가 사거리 북서쪽 모퉁이의 큰 'オノデン' 간판 가전 빌딩(오노덴 본관) 지하 1층. 1~3층은 오노덴 가전 매장이라 밖에서는 보이지 않고, 4층에는 지스토어 아키바가 있다.",
+  "en": "B1 of the Onoden Main Building, the electronics store under the big オノデン sign on the north-west corner of the Chuo-dori crossing. Floors 1-3 are Onoden's own electronics shop so nothing shows from the street; Gee!Store Akiba is on 4F of the same building."
+ },
+ "tips": {
+  "ko": [
+   "운영사는 원더구(WonderGOO)를 운영하는 주식회사 REXT로, 공식 사이트의 트레카 점포 목록에 실려 있다.",
+   "듀얼 스페이스가 66석으로 넓어 대회·프리 플레이에 쓰기 좋다.",
+   "평일 개점이 13:00으로 늦으므로 오전 방문은 주말·공휴일에만 가능하다."
+  ],
+  "en": [
+   "Operated by REXT, Inc., the company behind WonderGOO, and listed on its official TCG store page.",
+   "The duel space seats 66, so there is room for events and casual play.",
+   "Weekday opening is 13:00, so a morning visit only works at weekends and on holidays."
+  ]
+ },
+ "official_url": "https://www.wonder.co.jp/tcg/",
+ "sns": {
+  "x": "https://x.com/Ganryu_6610"
+ },
+ "chain": "duel-stade",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.wonder.co.jp/tcg/",
+  "https://x.com/Ganryu_6610",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2183"
+ ],
+ "osm_id": "node/10855816863"
+}

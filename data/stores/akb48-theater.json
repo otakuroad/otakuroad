@@ -1,0 +1,92 @@
+{
+ "id": "akb48-theater",
+ "name": {
+  "ko": "AKB48 극장",
+  "en": "AKB48 Theater",
+  "ja": "AKB48劇場"
+ },
+ "synonyms": [
+  "AKB 극장",
+  "AKB48 시어터",
+  "에이케이비 극장",
+  "AKB48 게키조",
+  "AKB48 Theatre",
+  "AKB Theater",
+  "AKB48 Gekijou",
+  "AKB48 gekijo",
+  "akb48劇場",
+  "돈키호테 8층 극장",
+  "秋葉原ミナミビル8F"
+ ],
+ "category": "idol",
+ "tags": [
+  "akb48",
+  "idol_live",
+  "theater",
+  "ticket_lottery",
+  "e_ticket",
+  "no_photo"
+ ],
+ "one_line": {
+  "ko": "AKB48 멤버가 상시 공연하는 250명 규모 전용 극장. 티켓은 사전 온라인 추첨제",
+  "en": "AKB48's own 250-capacity theater with regular shows; tickets by online lottery."
+ },
+ "building_id": "don-quijote-akihabara",
+ "floors": [
+  "8F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-3-3 ドン・キホーテ秋葉原 8F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에 면한 돈키호테 아키하바라점(구 미나미 빌딩) 최상층 8F. 1F 주오도리 쪽 입구로 들어가 엘리베이터로 8F까지 올라가면 극장 로비와 입장 대기 공간이 나온다. 같은 건물 5F는 메이드카페, 6~7F는 오락실이므로 층 표시를 확인하고 8F에서 내린다.",
+  "en": "Top floor (8F) of the Don Quijote Akihabara building (the former Minami Building) on Chuo-dori. Enter on 1F from the Chuo-dori side and take the elevator up to 8F, where the theater lobby and waiting area are. The same building has a maid cafe on 5F and an arcade on 6F-7F, so check the floor indicator and get off at 8F."
+ },
+ "tips": {
+  "ko": [
+   "티켓은 AKB48 티켓센터(akb48.zaiko.io)에서 온라인 추첨으로만 신청한다. 일반 신청은 공연 약 5일 전 16:00 마감, 당첨자만 지정 기간에 온라인 결제한다. 당일권 판매는 없다",
+   "요금은 공연에 따라 4,100~4,300엔 균일로 남녀·학생 구분이 없고, 로비 관람 티켓은 1,800엔. 2024년 리뉴얼 이후 극장 창구 현금 판매는 폐지됐다",
+   "입장 시 여권 등 사진이 있는 본인확인 서류가 필요하며, 입장 순서는 개연 30분 전 정리번호 추첨회로 정해진다. 전석 자유석(착석·스탠딩)이다",
+   "극장 안 사진·영상·녹음은 전면 금지이고 로비에서는 모니터를 제외한 정지 화면 촬영만 가능. 가방류 반입이 안 되므로 로비 유료 코인로커를 쓰고, 입구에서 금속탐지 검사를 받는다"
+  ],
+  "en": [
+   "Tickets are only available by online lottery at the AKB48 Ticket Center (akb48.zaiko.io). General applications close about 5 days before the show at 16:00 JST, and winners pay online within a set window. There are no same-day tickets",
+   "Prices are a flat 4,100-4,300 yen depending on the performance, with no separate men's, women's or student rate; a lobby-viewing ticket is 1,800 yen. Cash sales at the theater counter ended with the 2024 renovation",
+   "Bring photo ID (passport etc.) for the entry check. Entry order is drawn from ticket serial numbers about 30 minutes before curtain, and all seats and standing spots are unreserved",
+   "No photos, video or audio recording inside the theater; still photos are allowed in the lobby only, excluding monitors. Bags may not be taken in, so use the paid lobby coin lockers, and expect a metal-detector check at the door"
+  ]
+ },
+ "official_url": "https://www.akb48.co.jp/theater/",
+ "sns": {},
+ "chain": null,
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.akb48.co.jp/theater/",
+  "https://www.akb48.co.jp/theater/faq",
+  "https://www.akb48.co.jp/theater/ticket/",
+  "https://www.akb48.co.jp/theater/rule/",
+  "https://www.akb48.co.jp/news/detailpage/479385453",
+  "https://akb48.zaiko.io/",
+  "https://akb48.zaiko.io/e/reset-sep11-1830",
+  "https://akb48.zaiko.io/e/2026-0919-1200",
+  "https://akb48.zaiko.io/e/tewo-0909",
+  "https://www.donki.com/store/shop_detail.php?shop_id=98",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=32",
+  "https://ja.wikipedia.org/wiki/AKB48%E5%8A%87%E5%A0%B4"
+ ],
+ "osm_id": "node/4879949024"
+}

@@ -1,0 +1,116 @@
+{
+ "id": "kvclab-akihabara",
+ "name": {
+  "ko": "KVC랩",
+  "en": "KVC lab.",
+  "ja": "KVC lab.（アーケードゲーム基板専門店）"
+ },
+ "synonyms": [
+  "KVClab",
+  "KVClab.",
+  "KVC lab",
+  "케이브이시라보",
+  "KVC 랩",
+  "아케이드 기판 KVC랩",
+  "KVClab. WebShop",
+  "アーケード基板 KVClab.",
+  "けーぶいしーらぼ",
+  "株式会社夕凪堂",
+  "Yunagidou",
+  "kvclab"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "arcade_pcb",
+  "jamma",
+  "retro_game",
+  "arcade_parts",
+  "control_panel",
+  "video_converter",
+  "exa_arcadia",
+  "used",
+  "buyback",
+  "consignment"
+ ],
+ "one_line": {
+  "ko": "아케이드 기판·컨트롤 박스·레버·버튼·영상 변환기를 파는 기판 소유자용 전문점",
+  "en": "Arcade PCBs, control boxes, levers, buttons and video converters for arcade board owners"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698664,
+  "lng": 139.768652
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田2-1-16 昌平橋中央ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "thu",
+     "sat",
+     "sun"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "월·수·금요일 정기휴무",
+   "en": "Closed Monday, Wednesday and Friday"
+  },
+  "note": {
+   "ko": "영업일은 화·목·토·일 나흘뿐이다. 공휴일 영업 여부는 공식 안내가 없고, 임시 휴업과 여름·연말 휴업은 공식 X(@KVClab)와 사이트 공지에 올라온다.",
+   "en": "Open only four days a week (Tue, Thu, Sat, Sun). Public-holiday opening is not stated; temporary and seasonal closures are posted on the site and on X (@KVClab)."
+  },
+  "source_url": "https://kvc.jp/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 서쪽으로 도보 4분, 쇼헤이바시(昌平橋) 교차로에 면한 쇼헤이바시추오빌딩 2층. 2022년 7월 도쿄라디오데파트에서 이곳으로 이전했다. 전자상가 중심부에서 떨어진 소토칸다 2초메 강가 블록이다.",
+  "en": "Four minutes west of JR Akihabara Station, on 2F of the Shoheibashi Chuo Building facing the Shoheibashi crossing. The shop moved here from Tokyo Radio Depart in July 2022, so it sits in the Sotokanda 2-chome riverside block away from the main Electric Town strip."
+ },
+ "tips": {
+  "ko": [
+   "월·수·금요일은 정기휴무다. 화·목·토·일 11:00-19:00만 여니 요일을 확인하고 가야 한다.",
+   "JAMMA 아케이드 기판 외에 컨트롤 박스, 산와·세이미츠 레버와 버튼, 하네스, RGB 영상 변환기를 함께 판다.",
+   "매입(買取)과 위탁 판매도 받는다.",
+   "일부 사이트에는 '외신다빌딩(外神田ビル) 2F'로 적혀 있지만 공식 표기는 쇼헤이바시추오빌딩 2F다."
+  ],
+  "en": [
+   "Closed Monday, Wednesday and Friday; it opens only Tue, Thu, Sat and Sun, 11:00-19:00, so check the day before going.",
+   "Besides JAMMA arcade PCBs it stocks control boxes, Sanwa and Seimitsu levers and buttons, harnesses and RGB video converters.",
+   "The shop also buys stock (kaitori) and takes items on consignment.",
+   "Some listings give the building as 'Sotokanda Building 2F'; the official address is Shoheibashi Chuo Building 2F."
+  ]
+ },
+ "official_url": "https://kvc.jp/",
+ "sns": {
+  "x": "https://x.com/KVClab"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://kvc.jp/",
+  "https://kvclab.com/",
+  "https://kvclab.com/shopbrand/ACPCB/",
+  "http://yunagidou.co.jp/"
+ ],
+ "osm_id": "node/5026473705"
+}

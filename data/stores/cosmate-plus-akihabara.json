@@ -1,0 +1,109 @@
+{
+ "id": "cosmate-plus-akihabara",
+ "name": {
+  "ko": "코스메이트 플러스",
+  "en": "COSMATE PLUS",
+  "ja": "コスメイトプラス"
+ },
+ "synonyms": [
+  "코스메이트",
+  "코스메이트플러스",
+  "코스메이트 플러스 아키하바라",
+  "코스메이트+",
+  "COSMATE PLUS",
+  "Cosmate Plus",
+  "cosplus",
+  "コスメイト+PLUS",
+  "コスメイトPLUS",
+  "コスメイトプラス"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "costume",
+  "school_uniform",
+  "sailor_uniform",
+  "swimsuit",
+  "leotard",
+  "large_size",
+  "new"
+ ],
+ "one_line": {
+  "ko": "세일러복·스쿨수영복·레오타드·메이드복 등 코스튬 전문점. S~5L 큰 사이즈까지 취급",
+  "en": "Costume shop for sailor suits, school swimsuits, leotards and maid wear, sizes S to 5L"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699322,
+  "lng": 139.769805
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-3 野水ビル5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "실매장 영업시간 11:00-20:00은 공식 톱페이지의 안내 배너 기준이며 자매점 발키리&프티슈와 공통이다. 정기휴무일 안내는 없고, 전화 접수 시간은 12:00-19:00으로 따로 표기된다.",
+   "en": "The 11:00-20:00 shop hours come from the notice banner on the official top page and are shared with the sister shop Walkure & Petitche. No regular holiday is stated; the phone desk is listed separately as 12:00-19:00."
+  },
+  "source_url": "https://www.cosplus.jp/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "공식 안내로 JR 아키하바라역 전기가 출구에서 도보 3~4분, 오차노미즈역에서 5~6분. 주오도리 서쪽 뒷골목의 노미즈(野水)빌딩 5층으로, 같은 건물 1층에서는 매장이 보이지 않으니 층수를 확인하고 올라갈 것.",
+  "en": "The shop states three to four minutes from JR Akihabara's Electric Town Exit and five to six from Ochanomizu. It is on the fifth floor of the Nomizu Building on the back streets west of Chuo-dori, invisible from street level, so go up by floor number."
+ },
+ "tips": {
+  "ko": [
+   "실물을 직접 보고 살 수 있는 실매장이라고 공식 사이트가 안내한다. 온라인 게재 상품 중 일부는 주문 상품이므로 점두 재고는 문의 필요.",
+   "같은 회사의 자매점 '발키리&프티슈'는 18세 미만·고등학생 입장 불가이므로 주의.",
+   "두 실매장 공통으로 쓸 수 있는 스탬프 카드를 발행료·연회비 없이 발행한다.",
+   "영업시간은 공식 톱페이지 배너 이미지로만 안내되고 정기휴무일 표기가 없어, 먼 길이라면 전화(12:00-19:00) 확인이 안전하다."
+  ],
+  "en": [
+   "The official site stresses this is a real shop where you can see the goods; some items listed online are special-order, so ask about in-store stock.",
+   "The company's sister shop Walkure & Petitche next door in Akihabara does not admit under-18s or high-school students.",
+   "A stamp card usable at both physical shops is issued free of charge.",
+   "Hours are published only as a banner image with no regular holiday listed, so for a long trip call the shop (phone desk 12:00-19:00) first."
+  ]
+ },
+ "official_url": "https://www.cosplus.jp/",
+ "sns": {},
+ "chain": "cosmate",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.cosplus.jp/",
+  "https://www.cosplus.jp/html/page3.html",
+  "https://www.cosplus.jp/new/2026-08-20-142400.html"
+ ],
+ "osm_id": "node/7925074088"
+}

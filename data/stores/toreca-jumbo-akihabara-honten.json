@@ -1,0 +1,85 @@
+{
+ "id": "toreca-jumbo-akihabara-honten",
+ "name": {
+  "ko": "트레카점보 아키하바라 본점",
+  "en": "Toreca Jumbo Akihabara Main Store",
+  "ja": "トレカジャンボ秋葉原本店"
+ },
+ "synonyms": [
+  "트레카점보",
+  "트레카 점보",
+  "트레이딩카드 점보",
+  "Toreca Jumbo",
+  "Treca Jumbo",
+  "Trading Card Jumbo",
+  "JUMBO",
+  "トレカジャンボ",
+  "トレカジャンボ 秋葉原本店",
+  "トレーディングカードジャンボ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "singles",
+  "buyback",
+  "showcase"
+ ],
+ "one_line": {
+  "ko": "포켓몬카드·원피스카드 싱글을 사고파는 쇼케이스 중심 소형 매장",
+  "en": "Pokemon and One Piece card singles bought and sold in a small showcase shop"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70151,
+  "lng": 139.770706
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-9-10 町田ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에서 한 블록 서쪽 뒷골목, 소토칸다 3-9-10 마치다(町田) 빌딩 1층 노면 매장. 지하에 오타츄 5호점이 있는 스에히로 빌딩 바로 옆이며 JR 아키하바라역에서 도보 5분.",
+  "en": "A street-level unit on 1F of the Machida Building at Sotokanda 3-9-10, on the back street one block west of Chuo-dori, beside the Suehiro Building whose basement holds Otachu No.5. Five minutes from JR Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "영업시간 정보가 엇갈린다. 공식 X 프로필은 '19:00경까지, 화·수요일 정기휴무'라고 적고 일본 트레카 디렉터리는 12:00-20:00 연중무휴로 싣는다. 방문 전 @jumboakiba 확인이 안전하다.",
+   "공식 X에서 부정기적으로 고액 매입 캠페인을 알린다. 매입 목적이라면 타이밍을 맞추면 유리하다.",
+   "대전 공간이 없어 플레이보다 매매 목적의 방문에 맞는다.",
+   "매장이 좁고 쇼케이스 위주라 짧은 시간에 훑어보기 좋다."
+  ],
+  "en": [
+   "Hours are inconsistent: the shop's X profile says it closes around 19:00 and shuts on Tuesdays and Wednesdays, while Japanese card directories list 12:00-20:00 with no closing day. Check @jumboakiba before going.",
+   "Irregular high-price buyback campaigns are announced on X, so sellers can time a visit to one.",
+   "There is no play space; the shop suits buying and selling rather than playing.",
+   "The floor is small and showcase-based, so it takes only a few minutes to look through."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/jumboakiba"
+ },
+ "chain": "toreca-jumbo",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://x.com/jumboakiba",
+  "https://akihabara-cardmap.com/ja/shop/treca-jumbo-akihabara-main-store/"
+ ],
+ "osm_id": "node/12697812024"
+}

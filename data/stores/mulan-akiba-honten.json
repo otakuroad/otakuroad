@@ -1,0 +1,136 @@
+{
+ "id": "mulan-akiba-honten",
+ "name": {
+  "ko": "무란 AKIBA 본점",
+  "en": "Mulan AKIBA Main Store",
+  "ja": "買取販売市場ムーランAKIBA本店"
+ },
+ "synonyms": [
+  "무란",
+  "뮬란",
+  "무란 아키바 본점",
+  "무란 본점",
+  "Mulan",
+  "Mulan AKIBA",
+  "Mulan Akihabara",
+  "ムーラン",
+  "ムーランAKIBA本店",
+  "ムーラン秋葉原本店",
+  "買取販売市場ムーラン"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "new",
+  "buyback",
+  "game",
+  "cd",
+  "dvd",
+  "figure",
+  "manga",
+  "recycle_shop",
+  "r18"
+ ],
+ "one_line": {
+  "ko": "1층은 신품·중고 게임·CD·DVD·피규어·만화, 2~3층은 성인 매장인 리사이클숍",
+  "en": "1F new and used games, CDs, DVDs, figures and comics; 2F-3F are adult floors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "신품·중고 층. 게임, CD, DVD, 호비 피규어, 만화",
+   "en": "New and used floor: games, CDs, DVDs, hobby figures and manga"
+  },
+  {
+   "floor": "2F",
+   "ko": "중고 층. 아이돌 이미지 DVD, 성인 DVD, PC 게임 (성인 대상)",
+   "en": "Used floor: idol image DVDs, adult DVDs and PC games (18+)"
+  },
+  {
+   "floor": "3F",
+   "ko": "신품 층. 아이돌 이미지 DVD, 성인 DVD, 성인 굿즈 (성인 대상)",
+   "en": "New floor: idol image DVDs, adult DVDs and adult goods (18+)"
+  }
+ ],
+ "location": {
+  "lat": 35.698663,
+  "lng": 139.769811
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-4-21 JR高架下 1F～3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sun"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 표기는 10:00-22:30이지만 현재 단축 영업 중으로 월~토 21:00, 일요일 20:00 폐점. 공휴일은 별도 안내가 없다.",
+   "en": "The official listing says 10:00-22:30, but the shop is currently on shortened hours: 21:00 Monday to Saturday and 20:00 on Sunday. Public holidays are not stated."
+  },
+  "source_url": "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E6%9C%AC%E5%BA%97/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "2F",
+   "3F"
+  ]
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 5분, 주오도리 서쪽 소부선 고가 아래(JR高架下) 점포열에 있다. 같은 이름의 주오도리 호비관과는 다른 매장이다.",
+  "en": "Five minutes from the JR Akihabara Electric Town exit, in the shop row under the Sobu Line viaduct west of Chuo-dori. It is a different shop from the Chuo-dori Hobby Kan of the same name."
+ },
+ "status": {
+  "state": "open"
+ },
+ "tips": {
+  "ko": [
+   "일반 이용객이 볼 곳은 1층뿐이며 2·3층은 성인 매장이다. 미성년자·가족 동반이면 1층에서 마친다.",
+   "단축 영업 중이라 공식 표기(22:30)보다 일찍 닫는다. 월~토 21:00, 일 20:00.",
+   "매입도 하는 리사이클숍이라 1층 재고는 신품과 중고가 섞여 있다."
+  ],
+  "en": [
+   "Only 1F is general-audience; 2F and 3F are adult floors, so finish on 1F with minors or family.",
+   "Shortened hours mean it closes earlier than the advertised 22:30 - 21:00 Monday to Saturday, 20:00 on Sunday.",
+   "It is a buy-and-sell recycle shop, so the 1F stock mixes new and used items."
+  ]
+ },
+ "official_url": "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E6%9C%AC%E5%BA%97/",
+ "sns": {},
+ "chain": "lammtarra",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E6%9C%AC%E5%BA%97/",
+  "https://www.lammtarra.com/shop_list/"
+ ],
+ "osm_id": "node/4972933429"
+}

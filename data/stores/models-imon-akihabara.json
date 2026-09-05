@@ -1,0 +1,122 @@
+{
+ "id": "models-imon-akihabara",
+ "name": {
+  "ko": "모델스 이몬 아키하바라점",
+  "en": "Models IMON Akihabara",
+  "ja": "Models IMON 秋葉原店"
+ },
+ "synonyms": [
+  "모델스 이몬",
+  "모델즈 이몬",
+  "이몬 아키하바라",
+  "이몬 철도모형",
+  "Models IMON",
+  "MODELS IMON Akihabara",
+  "IMON",
+  "モデルス イモン",
+  "モデルスイモン秋葉原店",
+  "井門",
+  "鉄道模型 Models IMON 秋葉原"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "railway_model",
+  "n_gauge",
+  "ho_gauge",
+  "model_kit",
+  "parts",
+  "book",
+  "dvd",
+  "new"
+ ],
+ "one_line": {
+  "ko": "N게이지 차량·키트·부품과 16번 플라스틱 완성품, 철도 서적·DVD를 갖춘 철도모형 전문점",
+  "en": "Railway model shop for N-gauge trains, kits, parts, 16-ban plastic models, books and DVDs"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698733,
+  "lng": 139.770394
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-9-9 内田ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "10:00",
+    "close": "20:30"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "평일은 20:30까지, 토·일·공휴일은 19:00까지로 폐점 시간이 다르다. 연말연시 단축 영업이나 8월 JAM 국제철도모형컨벤션 기간의 임시 휴업은 공식 사이트 공지로 안내된다.",
+   "en": "Closes at 20:30 on weekdays but 19:00 on weekends and public holidays. Shortened new-year hours and closures during the August JAM railway-model convention are announced on the official site."
+  },
+  "source_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 건너 소부선 고가를 따라 서쪽으로 도보 3~4분. GiGO 5호관과 도쿄 라디오 데파트를 지나 한 블록 더 간 6층짜리 우치다 빌딩(内田ビル)이며, 1층 전자부품점 HAMADA와 센고쿠전상이 표식이다. 1층 매장 옆 좁은 입구로 들어가 엘리베이터나 계단으로 3층.",
+  "en": "From JR Akihabara's Electric Town exit, cross Chuo-dori and follow the street along the Sobu-line viaduct west for 3-4 minutes. Past GiGO No.5 and the Tokyo Radio Department Store, the six-storey Uchida Building is marked by the parts shops HAMADA and Sengoku Densho on its ground floor. Take the narrow entrance beside them and the lift or stairs to 3F."
+ },
+ "tips": {
+  "ko": [
+   "같은 3층에 중고·위탁·아웃렛 전문 MONTA가 붙어 있어 신품과 중고를 한 번에 볼 수 있다.",
+   "아키하바라점은 N게이지 차량·키트·부품과 16번 플라스틱 제품이 중심이며, 16번 키트·정경용품은 거의 없다. 진열은 N 완성품 세트를 편성 그대로 전시한다.",
+   "평일은 20:30까지 열지만 토·일·공휴일은 19:00에 닫으므로 주말 늦은 방문은 피하는 편이 좋다.",
+   "결제 수단과 면세 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "MONTA, the used, consignment and outlet shop, shares the same 3F, so you can check new and second-hand stock in one visit.",
+   "The Akihabara branch centres on N-gauge trains, kits and parts plus 16-ban plastic models; 16-ban kits and scenery are barely stocked. Finished N-gauge sets are displayed as full train formations.",
+   "It stays open to 20:30 on weekdays but closes at 19:00 on weekends and holidays, so avoid a late weekend visit.",
+   "Payment methods and tax-free are not stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP",
+ "sns": {},
+ "chain": "models-imon",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP",
+  "https://www.imon.co.jp/pages/shopinfo",
+  "https://www.imon.co.jp/models/shopinfo.mbr/list",
+  "https://www.imon.co.jp/MONTA/",
+  "https://www.imon.co.jp/MODELS/MONTATOP.MBR/HTML"
+ ],
+ "osm_id": "node/1915189422"
+}

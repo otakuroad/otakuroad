@@ -1,0 +1,119 @@
+{
+ "id": "warhammer-store-cafe-tokyo",
+ "name": {
+  "ko": "워해머 스토어 & 카페 도쿄",
+  "en": "Warhammer Store & Café Tokyo",
+  "ja": "ウォーハンマーストア＆カフェ 東京"
+ },
+ "synonyms": [
+  "워해머",
+  "워해머 스토어",
+  "워해머 카페",
+  "워해머 아키하바라",
+  "게임즈 워크숍",
+  "Warhammer",
+  "Warhammer Store and Cafe Tokyo",
+  "Warhammer Akihabara",
+  "Games Workshop",
+  "ウォーハンマー",
+  "ウォーハンマーストア",
+  "ゲームズワークショップ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "miniature",
+  "wargame",
+  "warhammer_40000",
+  "age_of_sigmar",
+  "model_kit",
+  "paint",
+  "play_space",
+  "cafe",
+  "new",
+  "beginner_friendly"
+ ],
+ "one_line": {
+  "ko": "워해머 40,000·에이지 오브 지그마 미니어처와 도료를 파는 공식 직영점, 카페 병설",
+  "en": "Games Workshop's own store: Warhammer 40,000 and Age of Sigmar miniatures, paints, a café"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699612,
+  "lng": 139.770126
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-7-5 フロントプレイス秋葉原1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일과 주말·공휴일의 개점 시각이 다르다(평일 12:00, 토·일·공휴일 10:00). 시간은 공식 X(@WHSCafeTokyo)에 공지된다.",
+   "en": "Opening time differs on weekdays (12:00) and weekends/holidays (10:00). Changes are posted on the official X account (@WHSCafeTokyo)."
+  },
+  "source_url": "https://x.com/WHSCafeTokyo"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 뒷골목, AKIBA 컬처즈존(外神田1-7-6) 서쪽 옆에 있는 오피스 빌딩 프론트플레이스 아키하바라의 1층 노면 점포.",
+  "en": "On the back street west of Chuo-dori, in the office building Front Place Akihabara just west of AKIBA Cultures Zone (Sotokanda 1-7-6); the shop is at street level on 1F."
+ },
+ "tips": {
+  "ko": [
+   "게임즈 워크숍 직영점이라 워해머 신품만 취급하며 중고 거래·매입은 하지 않는다.",
+   "공식 X 계정에 따르면 무료 체험(무료 미니어처 배포·룰 안내)을 상시 운영한다.",
+   "문의 전화 03-6381-0855."
+  ],
+  "en": [
+   "A Games Workshop-run store: new Warhammer product only, no used trading or buyback.",
+   "The official X account says free trial sessions (free miniature and rules intro) run on an ongoing basis.",
+   "Phone 03-6381-0855."
+  ]
+ },
+ "official_url": "https://warhammer.jp/how-to-buy/",
+ "sns": {
+  "x": "https://x.com/WHSCafeTokyo"
+ },
+ "chain": "games-workshop",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://warhammer.jp/how-to-buy/",
+  "https://x.com/WHSCafeTokyo"
+ ],
+ "osm_id": "node/10284195656"
+}

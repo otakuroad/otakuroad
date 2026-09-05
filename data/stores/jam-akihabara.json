@@ -1,0 +1,112 @@
+{
+ "id": "jam-akihabara",
+ "name": {
+  "ko": "잼 아키하바라",
+  "en": "JAM Akihabara",
+  "ja": "JAM Akihabara"
+ },
+ "synonyms": [
+  "잼 아키바",
+  "JAM 아키하바라",
+  "JAM 아키바",
+  "잼 메이드카페",
+  "JAM",
+  "JAM Akiba",
+  "jam-akiba",
+  "ジャム秋葉原",
+  "JAM秋葉原",
+  "ジャムアキハバラ",
+  "山口ビルB1"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "collab_cafe",
+  "character_menu",
+  "dessert",
+  "curry",
+  "point_card",
+  "basement"
+ ],
+ "one_line": {
+  "ko": "게임·애니 콜라보 카페를 자주 여는 지하 1층 순수 메이드 카페",
+  "en": "Basement pure maid cafe that regularly runs game and anime collaboration cafes"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700383,
+  "lng": 139.769942
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-13 山口ビルB1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular holidays"
+  },
+  "note": {
+   "ko": "라스트 오더 20:30. 90분 1오더제이며 만석일 때는 90분 시간제로 운영된다. 정기 휴일 대신 부정기 휴무이므로 방문 전 공식 사이트 NEWS를 확인한다.",
+   "en": "Last order 20:30. One order per 90 minutes, and seating is capped at 90 minutes when the cafe is full. There is no fixed closing day - holidays are irregular, so check the NEWS page before going."
+  },
+  "source_url": "https://jam-akiba.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리 한 블록 서쪽 뒷골목을 따라 북쪽으로 도보 6분. 소토칸다 3초메의 야마구치(山口) 빌딩 지하 1층으로, 라이브하우스가 늘어선 블록에 있어 이웃한 ZEST·Box'R와 헷갈리기 쉽다. 계단으로 지하 1층까지 내려간다.",
+  "en": "Six minutes north from the JR Akihabara Electric Town Exit along the back street one block west of Chuo-dori, in the basement of the Yamaguchi Building in Sotokanda 3-chome. The block is a row of live houses, so it is easy to mix up with ZEST and Box'R next door; take the stairs down to B1F."
+ },
+ "tips": {
+  "ko": [
+   "90분 1오더제이며 만석일 때는 90분 시간제가 적용된다. 라스트 오더는 20:30.",
+   "1,000엔당 1포인트가 쌓이고 20포인트로 굿즈와 교환할 수 있다.",
+   "미소녀 게임·애니 콜라보 카페가 자주 열려 기간 한정 메뉴와 특전이 바뀐다. 일정은 공식 사이트 NEWS에서 확인한다.",
+   "라이브하우스가 아니라 순수 메이드 카페다. 아이돌 공연을 기대하고 가면 안 된다."
+  ],
+  "en": [
+   "One order per 90 minutes, and a 90-minute limit when the cafe is full; last order is 20:30.",
+   "One point per 1,000 yen spent, and 20 points can be exchanged for merchandise.",
+   "Collaboration cafes with bishoujo games and anime run often, changing the limited-time menu and bonus items; dates are posted on the NEWS page.",
+   "It is a plain maid cafe, not a live house - do not come expecting idol performances."
+  ]
+ },
+ "official_url": "https://jam-akiba.com/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://jam-akiba.com/",
+  "https://jam-akiba.com/about/"
+ ],
+ "osm_id": "node/2952193647"
+}

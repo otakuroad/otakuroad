@@ -1,0 +1,125 @@
+{
+ "id": "maidreamin-akihabara-idol-dori",
+ "name": {
+  "ko": "메이드리밍 아키하바라 아이돌도리점",
+  "en": "Maidreamin Akihabara Idol-dori",
+  "ja": "めいどりーみん 秋葉原アイドル通り店"
+ },
+ "synonyms": [
+  "메이드리밍 아이돌도리",
+  "메이드리밍 아키바",
+  "메이도리밍",
+  "めいどりーみん アイドル通り店",
+  "めいどりーみん秋葉原アイドル通り店",
+  "Maidreamin Idol Street",
+  "Maidreamin Idol-dori",
+  "maidreamin akihabara"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "cheki",
+  "omurice",
+  "live_stage",
+  "hourly_charge",
+  "free_wifi",
+  "no_smoking",
+  "reservation"
+ ],
+ "one_line": {
+  "ko": "시간당 880엔 차지의 메이드 카페, 오므라이스·체키와 메이드 라이브 무대",
+  "en": "Maid cafe with an 880 yen hourly charge, omurice, cheki photos and live song slots"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70123,
+  "lng": 139.771815
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-4-2 共益外神田第一ビル4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "mon",
+     "tue"
+    ],
+    "open": "11:30",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "월요일과 화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점, 마감은 매일 23:00이다. 요금은 1시간 880엔(1드링크 이상 주문), 연장 1시간 880엔이다.",
+   "en": "Mondays and Tuesdays open at 11:30; every other day and public holidays open at 10:30, all closing at 23:00. The charge is 880 yen an hour with one order, and 880 yen for each extension."
+  },
+  "source_url": "https://maidreamin.com/shop/detail.html?id=3"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 3분. 주오도리 서쪽 편 공익 소토칸다 제1빌딩(共益外神田第1ビル) 4층으로, 2·3층 스루가야 아키하바라 프라모델관과 5층 마론노카쿠레가가 같은 건물에 있다. 1층 메이드카페 옆 통로의 엘리베이터로 4층에 오른다.",
+  "en": "Two minutes from Ginza-line Suehirocho and three from JR Akihabara, on 4F of the Kyoei Sotokanda No.1 Building on the west side of Chuo-dori — the same building as Surugaya's Plastic Model Store (2F-3F) and Maron no Kakurega (5F). Take the lift in the passage beside the ground-floor maid cafe up to 4F."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1시간 880엔 차지에 1주문 이상이 기본이고, 연장도 1시간 880엔이다. 음식·음료 값은 별도다.",
+   "46석 규모이며 전석 금연이고 흡연 공간이 따로 있다. 휴대폰 충전과 무료 Wi-Fi를 쓸 수 있다.",
+   "VISA·Mastercard·JCB·AMEX·다이너스와 PayPay·au Pay·라쿠텐페이·유니온페이(은련) 결제가 된다.",
+   "월·화는 11:30 개점으로 다른 요일(10:30)보다 늦다. 공식 사이트에서 좌석 예약이 가능하다.",
+   "지점별 이벤트(생일 이벤트, 점포 대항 기획 등)가 자주 열리므로 공식 지점 X(@idol_maidreamin)에서 일정을 확인하면 좋다."
+  ],
+  "en": [
+   "A charge of 880 yen an hour applies with a minimum of one order, and extensions cost 880 yen an hour; food and drinks are extra.",
+   "46 seats, entirely non-smoking with a separate smoking area; phone charging and free Wi-Fi are available.",
+   "VISA, Mastercard, JCB, AMEX and Diners cards are taken, as are PayPay, au Pay, Rakuten Pay and UnionPay.",
+   "Mondays and Tuesdays open at 11:30 rather than 10:30. Seats can be reserved through the official site.",
+   "This branch runs frequent events (maid birthdays, inter-branch contests); the branch X account @idol_maidreamin posts the schedule."
+  ]
+ },
+ "official_url": "https://maidreamin.com/shop/detail.html?id=3",
+ "sns": {
+  "x": "https://x.com/idol_maidreamin",
+  "instagram": "https://www.instagram.com/idol_maidreamin/"
+ },
+ "chain": "maidreamin",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://maidreamin.com/shop/detail.html?id=3",
+  "https://maidreamin.com/shop/",
+  "https://akiba.or.jp/store/s191",
+  "https://maron-no-kakurega.com/?mode=f2",
+  "https://www.openstreetmap.org/node/2266530197",
+  "https://www.openstreetmap.org/way/89182756"
+ ],
+ "osm_id": "node/2266530197"
+}

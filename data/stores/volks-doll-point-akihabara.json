@@ -1,0 +1,122 @@
+{
+ "id": "volks-doll-point-akihabara",
+ "name": {
+  "ko": "볼크스 돌포인트 아키하바라",
+  "en": "VOLKS Doll Point Akihabara",
+  "ja": "ボークス ドールポイント秋葉原"
+ },
+ "synonyms": [
+  "볼크스 돌포인트",
+  "돌포인트 아키하바라",
+  "돌포 아키하바라",
+  "볼크스 라디오회관 8층",
+  "볼크스 돌 포인트",
+  "Volks Doll Point",
+  "Doll Point Akihabara",
+  "Dolpo Akihabara",
+  "ボークスドールポイント秋葉原",
+  "ドールポイント秋葉原",
+  "ドルポ秋葉原"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "doll",
+  "super_dollfie",
+  "dollfie_dream",
+  "ball_jointed_doll",
+  "doll_clothes",
+  "wig",
+  "doll_care",
+  "new",
+  "limited_item",
+  "photo_space"
+ ],
+ "one_line": {
+  "ko": "슈퍼돌피·돌피드림 구체관절인형과 위그·눈·의상, 케어 용품 판매",
+  "en": "Super Dollfie and Dollfie Dream ball-jointed dolls, wigs, eyes, outfits and care goods"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "8F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館8F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴(건물 휴관일 제외)",
+   "en": "Open year-round except building closure days"
+  },
+  "note": {
+   "ko": "평일은 11:00, 토·일·공휴일은 10:00 개점. 같은 8F의 호비스퀘어와 시간이 같으며, 사원 연수·리뉴얼로 임시 휴업하는 날이 있어 라디오회관 공지(8F 볼크스)를 확인",
+   "en": "Opens 11:00 on weekdays and 10:00 at weekends and holidays, the same as Hobby Square on the same 8F. Occasional whole-day closures for staff training or renovation are posted as '8F Volks' notices on the Radio Kaikan site"
+  },
+  "source_url": "https://dollfie.volks.co.jp/shop/dolpo/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 8F 전체가 볼크스이며, 엘리베이터에서 내려 한쪽이 돌포인트(인형), 반대쪽이 호비스퀘어(모형)다. 인형을 찾는다면 돌피 쇼케이스와 촬영 부스가 있는 쪽으로.",
+  "en": "The whole 8F of Radio Kaikan is Volks: step off the elevator and Doll Point (dolls) is on one side, Hobby Square (model kits) on the other. For dolls, head towards the Dollfie showcases and photo booths."
+ },
+ "tips": {
+  "ko": [
+   "볼크스 공식 DD 플래그십 스토어로, 머리·바디·위그·눈을 조합해 그 자리에서 인형을 완성하는 'DD 드림초이스' 서비스가 있다.",
+   "돌피 오너를 위한 셀프케어 데스크(파츠 장착·위그 손질 도구 무료 이용), 촬영 스페이스, DD 뮤지엄 전시가 있어 구매하지 않아도 둘러볼 수 있다.",
+   "아키하바라 한정 상품이 따로 있으니 온라인에서 못 본 물건을 노려볼 만하다.",
+   "외신다 4-2-10의 볼크스 아키하바라 호비천국2와는 다른 매장이다."
+  ],
+  "en": [
+   "Volks' official Dollfie Dream flagship: the 'DD Dream Choice' service lets you combine head, body, wig and eyes and take the finished doll home the same day.",
+   "A self-care desk (free tools for fitting parts and grooming wigs), photo spaces and the DD Museum display mean you can look around without buying.",
+   "There are Akihabara-only limited items you will not find in the online store.",
+   "It is a different shop from Volks Akihabara Hobby Tengoku 2 at Sotokanda 4-2-10."
+  ]
+ },
+ "official_url": "https://dollfie.volks.co.jp/shop/dolpo/",
+ "sns": {},
+ "chain": "volks",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://dollfie.volks.co.jp/shop/dolpo/",
+  "https://www.volks.co.jp/radikan/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/volks-doll-point/",
+  "https://akihabara-radiokaikan.co.jp/floor/8f/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/information/"
+ ],
+ "osm_id": null
+}

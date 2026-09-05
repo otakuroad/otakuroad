@@ -1,0 +1,80 @@
+{
+ "id": "gachagacha-shop-akihabara",
+ "name": {
+  "ko": "가챠가챠숍 아키하바라점",
+  "en": "Gachagacha Shop Akihabara",
+  "ja": "ガチャガチャショップ秋葉原店"
+ },
+ "synonyms": [
+  "가챠가챠 숍",
+  "가챠가챠숍",
+  "가차가차숍 아키하바라",
+  "가챠가챠샵",
+  "Gachagacha Shop",
+  "Gacha Gacha Shop Akihabara",
+  "gachagachashop",
+  "ガチャガチャショップ",
+  "ガチャガチャショップ秋葉原",
+  "前里ビル ガチャガチャ"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gacha",
+  "capsule_toy",
+  "new"
+ ],
+ "one_line": {
+  "ko": "인접한 두 점포에 캡슐토이 기계를 늘어놓은 스에히로초 쪽 가챠 전문점",
+  "en": "Capsule-toy specialist filling two adjacent units with gachapon machines near Suehirocho"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702192,
+  "lng": 139.771888
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-6-3 前里ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 주오도리를 따라 아키하바라역 방향으로 조금 내려간 동쪽 편 1층. 나란히 붙은 두 개 점포를 함께 쓰며 가게 밖 보도까지 캡슐토이 기계가 늘어서 있어 멀리서도 눈에 띈다.",
+  "en": "Ground floor on the east side of Chuo-dori, just south of Ginza-line Suehirocho Station. It occupies two adjacent units and the capsule-toy machines spill out onto the pavement, so it is easy to spot."
+ },
+ "tips": {
+  "ko": [
+   "영업시간을 밝힌 공식 안내가 없고 지도 서비스마다 11:00-21:00과 12:00-20:00으로 엇갈리므로, 이른 아침이나 늦은 밤 방문은 피하는 편이 안전하다.",
+   "소토칸다 3-15-5의 아키하바라 가챠폰 회관과는 다른 가게다. 이름이 비슷해 혼동하기 쉽다.",
+   "캡슐토이 기계는 동전 투입식이므로 100엔짜리 동전을 준비하면 편하다."
+  ],
+  "en": [
+   "No official opening hours are published and map services disagree (11:00-21:00 vs 12:00-20:00), so avoid very early or very late visits.",
+   "This is not the Akihabara Gachapon Kaikan at Sotokanda 3-15-5, despite the similar name.",
+   "The machines are coin operated, so bring 100-yen coins."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/gachagachashopA"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://asobit-project.com/gachagacha/gachagachashop-akihabara/"
+ ],
+ "osm_id": "node/4963027560"
+}

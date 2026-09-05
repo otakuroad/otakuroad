@@ -1,0 +1,125 @@
+{
+ "id": "toreca-sunrise-tokyo-akihabara",
+ "name": {
+  "ko": "트레카 선라이즈 도쿄 아키하바라점",
+  "en": "Toreca Sunrise Tokyo Akihabara",
+  "ja": "トレカSunrise 東京秋葉原店"
+ },
+ "synonyms": [
+  "트레카선라이즈",
+  "토레카 선라이즈",
+  "선라이즈 아키하바라",
+  "카드숍 선라이즈",
+  "Toreca Sunrise",
+  "Treca Sunrise",
+  "TCG Sunrise",
+  "Sunrise Akihabara",
+  "tcgsunrise",
+  "トレカサンライズ",
+  "トレカsunrise東京秋葉原店",
+  "トレカSunrise秋葉原店",
+  "サンライズ 秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "mtg",
+  "weiss_schwarz",
+  "singles",
+  "oripa",
+  "sealed",
+  "buyback",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·유희왕 싱글 카드와 오리파를 파는 1층 카드 전문점",
+  "en": "Pokemon, One Piece and Yu-Gi-Oh singles and oripa packs in a ground-floor card shop"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700553,
+  "lng": 139.770729
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-11-2 ロック2ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 점포 안내에는 정기 휴일이 적혀 있지 않지만, 매장 X 계정(@sunrise_akiba) 프로필에는 수요일 정기 휴일로 나온다. 방문 전 X 확인 권장. 매입 접수는 19:30 마감.",
+   "en": "The official store list gives no regular closing day, but the shop's X profile (@sunrise_akiba) states Wednesdays. Check X before going. Buyback intake closes at 19:30."
+  },
+  "source_url": "https://tcgsunrise.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 6분, 긴자선 스에히로초역에서 도보 5분. 주오도리 서쪽 뒷골목의 스루가야 아키하바라 본관과 만다라케 컴플렉스 사이 골목으로 들어가면 나오는 록2빌딩(ロック2ビル) 1층 노면 점포다. 같은 3-11-2 번지에 이름이 비슷한 록빌딩(ロックビル)이 나란히 있으므로 건물을 확인할 것.",
+  "en": "Six minutes from JR Akihabara's Electric Town Exit, five from Ginza-line Suehirocho. Take the back lane between Surugaya Akihabara Honkan and Mandarake Complex, west of Chuo-dori; the shop is at street level in the Lock 2 Building. A similarly named Lock Building stands next to it under the same 3-11-2 address, so check the building name."
+ },
+ "tips": {
+  "ko": [
+   "오사카 니혼바시 본점을 시작으로 히로시마·후쿠오카·나가노·효고 등에 지점을 둔 체인의 도쿄 매장이다.",
+   "포켓몬 카드·원피스 카드·유희왕 외에 매직 더 개더링, 바이스 슈발츠, 드래곤볼 슈퍼 카드게임까지 취급 폭이 넓다.",
+   "가격표와 상태 표기를 카드마다 붙여 두어 처음 오는 사람도 고르기 쉽다는 평이 많다.",
+   "점두 매입 외에 우편(택배) 매입과 LINE 매입 상담도 받는다."
+  ],
+  "en": [
+   "The Tokyo branch of a chain that started at Osaka Nipponbashi and now runs shops in Hiroshima, Fukuoka, Nagano and Hyogo.",
+   "Beyond Pokemon, One Piece and Yu-Gi-Oh it also stocks Magic: The Gathering, Weiss Schwarz and Dragon Ball Super Card Game.",
+   "Prices and condition grades are labelled card by card, which makes it easy for first-timers to browse.",
+   "As well as counter buyback it accepts mail-in buyback and LINE valuation requests."
+  ]
+ },
+ "official_url": "https://tcgsunrise.com/",
+ "sns": {
+  "x": "https://x.com/sunrise_akiba"
+ },
+ "chain": "toreca-sunrise",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://tcgsunrise.com/",
+  "https://akibatoreka.com/introduce/2405",
+  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2244",
+  "https://akihabara-cardmap.com/ja/shop/treca-sunrise-tokyo-akihabara-store/"
+ ],
+ "osm_id": null
+}

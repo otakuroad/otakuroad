@@ -1,0 +1,124 @@
+{
+ "id": "maid-cafe-togenkyo",
+ "name": {
+  "ko": "메이드카페 토겐쿄",
+  "en": "Maid Cafe Togenkyo",
+  "ja": "メイド喫茶 橙幻郷"
+ },
+ "synonyms": [
+  "토겐쿄",
+  "메이드킷사 토겐쿄",
+  "토겐교",
+  "등환향",
+  "Togenkyo",
+  "Tougenkyou",
+  "Tougenkyoumaid",
+  "Maid Cafe Tougenkyo",
+  "メイド喫茶橙幻郷",
+  "橙幻郷",
+  "とうげんきょう",
+  "石塚ビル メイドカフェ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "home_cooking",
+  "black_tea",
+  "doll",
+  "cheki",
+  "free_wifi",
+  "event_day",
+  "reservation"
+ ],
+ "one_line": {
+  "ko": "메이드가 직접 만드는 가정식과 홍차. 인형 동반 손님도 환영",
+  "en": "Maid cafe where the maids cook: home-style food, tea, dolls welcome at the table"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700524,
+  "lng": 139.770034
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-7 石塚ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라스트오더는 식사 22:00, 음료·디저트·체키 22:30. 목~일에는 08:00~11:00 모닝 영업, 금요일에는 11:30~17:00 카레 뷔페를 여는 날이 많고, 수요일은 앱 예약제 메이드 이벤트로 시간이 달라진다. 그달의 날짜별 영업시간은 공식 블로그에 매달 올라온다.",
+   "en": "Last order is 22:00 for food and 22:30 for drinks, desserts and cheki. Morning service (08:00-11:00) runs on many Thursdays to Sundays and a curry buffet (11:30-17:00) on many Fridays, while Wednesdays are app-booked maid events with their own hours. A day-by-day timetable is posted on the official blog each month."
+  },
+  "source_url": "http://tougenkyoumaid.com/about.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에서 서쪽 뒷길로 들어간 이시즈카(石塚) 빌딩 1층으로, 길에 면한 지상층이라 계단을 오를 필요가 없다. JR 아키하바라역 전기가 출구에서 도보 약 5분이며, 몇 집 건너에 메이드카페 more fun이 있다.",
+  "en": "Ground floor of the Ishizuka Building on a back street west of Chuo-dori, at street level with no stairs to climb. About 5 minutes from the JR Akihabara Electric Town exit; the maid cafe more fun is a few doors away."
+ },
+ "tips": {
+  "ko": [
+   "2008년 12월에 문을 연 작은 매장으로, 요리와 과자, 청소까지 메이드가 직접 한다. 신입 메이드는 처음 3개월 동안 요리와 제과를 배운다.",
+   "인형(돌) 동반 손님을 환영하며 인형 크기의 디저트 메뉴도 있다.",
+   "무료 Wi-Fi와 콘센트를 쓸 수 있고 충전기도 빌려준다.",
+   "전화번호는 공개하지 않으며 문의는 이메일(tougenkyoumaid@gmail.com)로 받는다. 수요일 이벤트 예약은 공식 앱에서 한다.",
+   "평일은 17:00에 열어 낮에는 문을 열지 않는 날이 많으니 방문 전 그달 블로그 일정 확인이 필요하다."
+  ],
+  "en": [
+   "A small cafe open since December 2008 where the maids cook the food and sweets and clean the place themselves; new maids spend their first three months learning to cook and bake.",
+   "Customers who bring a doll are welcomed, and there are doll-sized desserts on the menu.",
+   "Free Wi-Fi and power outlets are available, and chargers can be borrowed.",
+   "The shop does not publish a phone number; enquiries go by email (tougenkyoumaid@gmail.com), and Wednesday events are booked through the official app.",
+   "On weekdays it usually opens at 17:00 and is often shut during the day, so check the monthly timetable on the blog before going."
+  ]
+ },
+ "official_url": "http://tougenkyoumaid.com/",
+ "sns": {
+  "x": "https://x.com/tgk_maid"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "http://tougenkyoumaid.com/",
+  "http://tougenkyoumaid.com/about.html",
+  "http://tougenkyoumaid.com/map.html",
+  "http://tougenkyoumaid.com/menu.html",
+  "http://blog.livedoor.jp/tougenkyoumaid/"
+ ],
+ "osm_id": "node/5317636176"
+}

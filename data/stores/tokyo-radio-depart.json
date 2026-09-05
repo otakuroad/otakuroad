@@ -1,0 +1,131 @@
+{
+ "id": "tokyo-radio-depart",
+ "name": {
+  "ko": "도쿄 라디오 데파트",
+  "en": "Tokyo Radio Department Store",
+  "ja": "東京ラジオデパート"
+ },
+ "synonyms": [
+  "라디오 데파트",
+  "도쿄 라디오 백화점",
+  "도쿄 라디오데파트",
+  "라지오 데파트",
+  "Tokyo Radio Depart",
+  "Radio Depart",
+  "東京ラジオデパート",
+  "ラジオデパート",
+  "ラジオデパート秋葉原"
+ ],
+ "category": "electronics",
+ "tags": [
+  "electronic_parts",
+  "vacuum_tube",
+  "audio_parts",
+  "junk",
+  "maker",
+  "diy",
+  "showa_retro",
+  "landmark"
+ ],
+ "one_line": {
+  "ko": "진공관·저항·커넥터 등 전자부품 노점 약 36곳이 B1~3층에 모인 부품 상가",
+  "en": "About 36 electronic-parts stalls over B1F-3F: vacuum tubes, resistors, connectors"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "중고·정크 PC와 부품, 전원 트랜스 매장(秋葉原最終処分場, ゼネラルトランス販売, 湘南通商 등)",
+   "en": "Used and junk PCs, parts and transformers (Akihabara Saishu Shobunjo, General Trans Hanbai, Shonan Tsusho and others)"
+  },
+  {
+   "floor": "1F",
+   "ko": "케이스·섀시(奥澤), LED와 일반 전자부품(サンライズ, パーツランド), 마이크로파·고주파 부품, 마이컴·전자공작 키트(PCN秋葉原, Shigezone), PC 주변기기(家電のケンちゃん)",
+   "en": "Cases and chassis (Okuzawa), LEDs and general parts (Sunrise, Parts Land), microwave and RF components, microcontroller and maker kits (PCN Akihabara, Shigezone) and PC peripherals (Kaden no Ken-chan)"
+  },
+  {
+   "floor": "2F",
+   "ko": "진공관 전문점(真空管長谷川, 桜屋電機2F店), 저항·콘덴서 등 오디오 부품(海神無線), 케이스·기판 재료(エスエス無線), 그리고 오타마톤으로 알려진 明和電機 매장",
+   "en": "Vacuum-tube specialists (Shinkukan Hasegawa, Sakuraya Denki 2F), resistors, capacitors and audio parts (Kaijin Musen), cases and board materials (SS Musen), and the Maywa Denki nonsense-instrument shop known for the Otamatone"
+  },
+  {
+   "floor": "3F",
+   "ko": "특수 전자부품(斉藤電気商会), 수입 진공관과 부품(サンエイ電機), AC 어댑터·팬·오디오 플러그(平澤電気), 중고 PC 부품(AKIBAJUNKS)",
+   "en": "Special electronic components (Saito Denki Shokai), imported vacuum tubes and parts (San-ei Denki), AC adapters, fans and audio plugs (Hirasawa Denki) and used PC parts (AKIBAJUNKS)"
+  }
+ ],
+ "location": {
+  "lat": 35.69877,
+  "lng": 139.770845
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-10-11 東京ラジオデパート",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물 안내는 10:00~19:00이지만 공식 페이지도 '점포마다 다르니 각 매장에 직접 확인하라'고 적고 있다. 정기휴일은 명시돼 있지 않다.",
+   "en": "The building lists 10:00-19:00 but the official page itself says hours differ by tenant and asks you to check with each shop. No regular holiday is stated."
+  },
+  "source_url": "https://www.tokyoradiodepart.co.jp/access.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구를 나와 왼쪽 광장 쪽으로 걸어 소부선 고가를 따라가다 고가 아래 횡단보도를 건너면 바로 앞에 있다. 공식 안내로 도보 2분.",
+  "en": "From the JR Akihabara Electric Town exit head left towards the plaza, follow the Sobu line viaduct and cross at the crossing beneath it; the building is straight ahead. The official page calls it a two-minute walk."
+ },
+ "tips": {
+  "ko": [
+   "폭 1~2m짜리 부품 매대가 층마다 빼곡한 건물이다. 애니·게임 상품은 없고 진공관·저항·커넥터·공작 키트가 중심이라 관광보다 부품 쇼핑용이다.",
+   "2층 明和電機 매장에서는 오타마톤 같은 '난센스 악기'와 굿즈를 판다. 전자공작에 관심 없어도 볼 만하다.",
+   "건물 전체는 10:00~19:00이지만 매대마다 영업시간과 휴일이 달라 저녁이나 일요일에는 닫힌 곳이 많다."
+  ],
+  "en": [
+   "Floor after floor of one- and two-metre parts counters. There is no anime or game retail here: it is vacuum tubes, resistors, connectors and maker kits, a shopping stop rather than a sightseeing one.",
+   "The Maywa Denki shop on 2F sells nonsense instruments such as the Otamatone and its goods, worth a look even if you do not solder.",
+   "The building runs 10:00-19:00 but each stall keeps its own hours and holidays, so many counters are shut in the evening."
+  ]
+ },
+ "official_url": "https://www.tokyoradiodepart.co.jp/",
+ "sns": {},
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.tokyoradiodepart.co.jp/",
+  "https://www.tokyoradiodepart.co.jp/floor.html",
+  "https://www.tokyoradiodepart.co.jp/access.html"
+ ],
+ "osm_id": "way/41261020"
+}

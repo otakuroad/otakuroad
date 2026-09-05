@@ -1,0 +1,115 @@
+{
+ "id": "fukufuku-toreca-yugioh-collection",
+ "name": {
+  "ko": "후쿠후쿠 트레카 아키하바라 유희왕 컬렉션 전문점",
+  "en": "Fukufuku Toreka Akihabara Yu-Gi-Oh! Collection Store",
+  "ja": "福福トレカ秋葉原遊戯王コレクション専門店"
+ },
+ "synonyms": [
+  "후쿠후쿠 트레카 유희왕",
+  "후쿠후쿠 트레카 유희왕 전문점",
+  "후쿠후쿠트레카 4층",
+  "福福トレカ 遊戯王専門店",
+  "福福トレカ 遊戯王コレクション専門店",
+  "福福トレカ秋葉原遊戯王コレクション専門店",
+  "Fukufuku Toreca Yugioh",
+  "Fukufuku Toreka Yu-Gi-Oh Collection"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "yugioh",
+  "tcg_singles",
+  "singles",
+  "showcase",
+  "card_supply",
+  "sleeve",
+  "buyback",
+  "used"
+ ],
+ "one_line": {
+  "ko": "유희왕 전용 4층 매장. 초기판·빈티지 싱글, 절판 미개봉 박스, 슬리브",
+  "en": "Yu-Gi-Oh!-only 4F shop: early-era and vintage singles, out-of-print boxes, card supplies"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699298,
+  "lng": 139.770463
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-7 神林ビル4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 점포 페이지에 정기휴일 표기가 없다. 매입 접수는 20:00 마감으로 안내된다.",
+   "en": "The official store page lists no regular closing day. Buyback reception is listed as closing at 20:00."
+  },
+  "source_url": "https://fukufukutoreka.com/description_detail_yugioh_collection"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 왼쪽으로 나와 막다른 곳에서 오른쪽, 첫 신호를 건너 마츠모토키요시와 세가 사이로 들어가 첫 모퉁이에서 오른쪽. 라신방 모퉁이에서 왼쪽으로 꺾으면 바로 신린(神林)빌딩이며, 같은 체인의 1층 매장 옆 엘리베이터로 4층에 올라간다.",
+  "en": "From the JR Akihabara Electric Town Exit go left, right at the end, cross the first signal, walk between Matsumoto Kiyoshi and Sega and turn right at the first corner; turn left at the Lashinbang corner and the Kambayashi Building is right there. Take the lift up to 4F, past the chain's own ground-floor shop."
+ },
+ "tips": {
+  "ko": [
+   "취급 상품이 유희왕 컬렉션 카드와 슬리브·서플라이 중심이라 플레이용 싱글은 종류가 적다.",
+   "매입 접수는 20:00에 끝나므로 폐점 시각(21:00)에 맞춰 가면 매입이 안 된다.",
+   "전화 문의는 03-6206-0085."
+  ],
+  "en": [
+   "Stock is Yu-Gi-Oh! collector cards plus sleeves and supplies, so playable singles are limited.",
+   "Buyback reception ends at 20:00, an hour before the 21:00 closing time.",
+   "Phone enquiries: 03-6206-0085."
+  ]
+ },
+ "official_url": "https://fukufukutoreka.com/description_detail_yugioh_collection",
+ "sns": {
+  "x": "https://x.com/Fukufuku_yg"
+ },
+ "chain": "fukufuku-toreca",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://fukufukutoreka.com/description_detail_yugioh_collection",
+  "https://fukufukutoreka.com/",
+  "https://www.fukufuku-toreka.com/",
+  "https://akibatoreka.com/introduce/1099"
+ ],
+ "osm_id": null
+}

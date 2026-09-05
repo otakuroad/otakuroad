@@ -1,0 +1,118 @@
+{
+ "id": "jungle-akihabara-2",
+ "name": {
+  "ko": "정글 아키하바라 2호점",
+  "en": "JUNGLE Akihabara No.2",
+  "ja": "ジャングル秋葉原2号店"
+ },
+ "synonyms": [
+  "정글 아키하바라",
+  "정글 2호점",
+  "정글 라지관점",
+  "엔터테인먼트 호비숍 정글",
+  "JUNGLE AKIBA",
+  "Jungle Akihabara 2",
+  "Entertainment Hobby Shop JUNGLE",
+  "ジャングル",
+  "ジャングル秋葉原２号店",
+  "ジャングルアキバ"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "used",
+  "buyback",
+  "figure",
+  "chogokin",
+  "sofubi",
+  "tokusatsu",
+  "robot_figure",
+  "plastic_model",
+  "toy_gun",
+  "minicar",
+  "anime_goods",
+  "retro_toy"
+ ],
+ "one_line": {
+  "ko": "중고 피규어·초합금 로봇·소프비·특촬 완구·프라모델·토이건 매입 판매점",
+  "en": "Used figures, chogokin robots, sofubi, tokusatsu toys, model kits and toy guns"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일 12:00, 토·일·공휴일 11:00 개점으로 건물(10:00)보다 늦다. 2025-11-16부터 '당분간' 휴업 공지가 나온 적이 있으므로 방문 전 라디오회관 공지와 정글 공식 사이트 확인",
+   "en": "Opens at 12:00 on weekdays and 11:00 at weekends and holidays, later than the building's 10:00. A notice suspending the shop 'for the time being' from 2025-11-16 was issued once, so check the Radio Kaikan notices and Jungle's own site before travelling"
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/jungle/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 7F. 아존 레이블숍·DOLK 등 돌 매장과 트레카파크가 같은 층이며, 정글은 초합금·소프비·특촬 완구 쇼케이스가 늘어선 구역이다.",
+  "en": "Radio Kaikan 7F, sharing the floor with the doll shops Azone Label Shop and DOLK and with Treca Park. Jungle is the section lined with chogokin, sofubi and tokusatsu toy showcases."
+ },
+ "tips": {
+  "ko": [
+   "중고 완구 매입·판매가 중심이라 쇼와 시대 초합금부터 최근 특촬·로봇 완구까지 세대가 섞여 있다. 가격표와 상태 등급을 확인할 것.",
+   "2025년 11월 16일부터 아키하바라 1·2호점이 '당분간 휴업'한다는 공지가 났고 이후 영업 재개 공지 없이 공식 점포 목록과 라디오회관 층안내에 다시 실려 있다. 멀리서 간다면 당일 영업 여부를 확인하는 편이 안전하다.",
+   "외신다 3-9-2 스에히로빌딩 1F의 정글 아키하바라 1호점과는 다른 매장이다."
+  ],
+  "en": [
+   "The shop trades mainly in used toys, mixing Showa-era chogokin with recent tokusatsu and robot toys; check the price tag and condition grade on each showcase item.",
+   "A notice suspended both Akihabara branches 'for the time being' from 2025-11-16, yet the shop is listed again on Jungle's own store list and the Radio Kaikan floor guide without a reopening announcement. Confirm it is trading that day before making a special trip.",
+   "It is a separate shop from Jungle Akihabara No.1 on 1F of the Suehiro Building at Sotokanda 3-9-2."
+  ]
+ },
+ "official_url": "https://jungle-scs.co.jp/?page_id=21",
+ "sns": {},
+ "chain": "jungle",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/jungle/",
+  "https://jungle-scs.co.jp/?page_id=21",
+  "https://akihabara-radiokaikan.co.jp/27271/",
+  "https://akihabara-radiokaikan.co.jp/27781/",
+  "https://akihabara-radiokaikan.co.jp/floor/7f/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+ ],
+ "osm_id": "node/10136702718"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "dragon-star-akihabara-buying-center",
+ "name": {
+  "ko": "드래곤스타 아키하바라 매입센터",
+  "en": "Dragon Star Akihabara Buying Center",
+  "ja": "ドラゴンスター秋葉原買取センター"
+ },
+ "synonyms": [
+  "드래곤스타 매입센터",
+  "드래곤스타 아키하바라 카이토리센터",
+  "도라스타 매입센터",
+  "Dragon Star Akihabara Kaitori Center",
+  "Dragon Star Buying Centre",
+  "dorasuta kaitori",
+  "ドラゴンスター買取センター",
+  "ドラスタ秋葉原買取センター",
+  "ドラスタ買取",
+  "日宝アキバフロント"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "buyback",
+  "buyback_only",
+  "pokemon_card",
+  "one_piece_card",
+  "magic_the_gathering",
+  "yugioh",
+  "cash_only"
+ ],
+ "one_line": {
+  "ko": "판매는 없이 트레카만 사들이는 매입 전용 창구. 포켓몬·MTG 등 14개 타이틀",
+  "en": "Buy-back counter only, no sales: trading cards across 14 titles incl. Pokemon and MTG"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700588,
+  "lng": 139.772037
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-3-10 日宝アキバフロント1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "정기 휴일 안내는 없으나 임시 휴업이 있다. 평일 개점은 13:00.",
+   "en": "No regular closing day is listed, but temporary closures happen. Weekday opening is 13:00."
+  },
+  "source_url": "https://dorasuta.jp/shop/detail?scd=22"
+ },
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리를 따라 아키하바라 UDX 맞은편, 돈키호테 아키하바라점에서 남쪽으로 한 구획 내려간 외신다 4-3-10의 2024년 준공 신축 빌딩 '니포 아키바 프론트' 1층. JR 아키하바라역·긴자선 스에히로초역 양쪽에서 도보 4분.",
+  "en": "On Chuo-dori across from Akihabara UDX, one plot south of Don Quijote Akihabara, on the 1F of the NIPPO Akiba Front building (completed 2024) at Sotokanda 4-3-10. Four minutes from either JR Akihabara or Ginza-line Suehirocho."
+ },
+ "tips": {
+  "ko": [
+   "여기는 파는 곳이 아니라 사들이는 곳이다. 카드를 구경하거나 사려면 아키하바라점이나 역앞점으로 가야 한다.",
+   "포켓몬·원피스·MTG를 포함해 14개 타이틀을 매입한다. 2024년 11월 문을 연 체인 최초의 매입 전용 점포다.",
+   "지급은 현금이다. 매입가 문의는 전화로 받지 않으므로 공식 X(@ds_akibakaitori) 공지를 확인할 것.",
+   "평일 13:00 개점, 토·일·공휴일 10:00 개점이며 마감은 모두 20:00."
+  ],
+  "en": [
+   "This branch buys, it does not sell — for browsing or buying cards go to the Akihabara or Ekimae branch.",
+   "It buys 14 titles including Pokemon, ONE PIECE and Magic: The Gathering, and was the chain's first buy-back-only shop when it opened in November 2024.",
+   "Payment is in cash. Buy-back prices are not given by phone; check the official X account (@ds_akibakaitori).",
+   "Opens 13:00 on weekdays and 10:00 at weekends and holidays, closing at 20:00."
+  ]
+ },
+ "official_url": "https://dorasuta.jp/shop/detail?scd=22",
+ "sns": {
+  "x": "https://x.com/ds_akibakaitori"
+ },
+ "chain": "dragon-star",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://dorasuta.jp/shop/detail?scd=22",
+  "https://dorasuta.jp/shop",
+  "https://www.recycle-tsushin.com/news/detail_10674.php",
+  "https://www.office-navi.jp/building/02055866/",
+  "https://www.officeiten.jp/bld/39572.html",
+  "https://map.yahoo.co.jp/v3/place/k7qRF7EzGvs",
+  "https://x.com/ds_akibakaitori"
+ ],
+ "osm_id": null
+}

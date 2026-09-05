@@ -1,0 +1,112 @@
+{
+ "id": "like-a-doll-akihabara",
+ "name": {
+  "ko": "라이크 어 돌",
+  "en": "Like a Doll",
+  "ja": "Like a Doll"
+ },
+ "synonyms": [
+  "라이크어돌",
+  "라이크 아 돌",
+  "인형 메이드카페 라이크 어 돌",
+  "Like a Doll Akihabara",
+  "likeadoll",
+  "ライクアドール",
+  "Like a Doll（ライクアドール）",
+  "お人形メイドカフェ Like a Doll"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cheki",
+  "omurice",
+  "doll",
+  "basement"
+ ],
+ "one_line": {
+  "ko": "인형 콘셉트 메이드카페. 지하 1층에서 오므라이스 등 식사와 메이드 체키",
+  "en": "Doll-themed maid cafe in the basement: omurice, drinks and cheki photos with maids"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700075,
+  "lng": 139.771983
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原B1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 15:00~23:00. 정기휴일 안내는 공식 사이트에 없다.",
+   "en": "17:00-23:00 on weekdays and 15:00-23:00 on Saturdays, Sundays and public holidays, per the official site; no regular closing day is stated."
+  },
+  "source_url": "https://akiba-maidcafe.co.jp/likeadoll/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 동쪽, 트레이더 아키하바라 본점 빌딩 바로 뒤 골목에 있는 지상 5층 건물 TIT秋葉原의 지하 1층. 같은 건물 2층은 아키바 절대영역 A.D.2045, 3층은 매지컬 롤리팝.",
+  "en": "Three minutes from JR Akihabara's Electric Town Exit. TIT Akihabara is the five-storey building on the back street just east of the Trader Akihabara main-store building; this cafe is in its basement, with Akiba Zettai Ryoiki A.D.2045 on 2F and Magical Lollipop on 3F."
+ },
+ "tips": {
+  "ko": [
+   "같은 건물 3층 매지컬 롤리팝과 같은 운영사(주식회사 YUKIMI)의 자매점이며 영업시간도 같다.",
+   "평일 17:00, 토·일·공휴일 15:00 개점이라 낮에는 문을 열지 않는다. 낮에 들르려면 같은 건물 2층 아키바 절대영역 A.D.2045(12:00 개점)를 고려."
+  ],
+  "en": [
+   "A sister shop of Magical Lollipop on 3F, run by the same company (YUKIMI Inc.) and keeping the same hours.",
+   "It opens at 17:00 on weekdays and 15:00 at weekends, so for a daytime visit try Akiba Zettai Ryoiki A.D.2045 on 2F, which opens at 12:00."
+  ]
+ },
+ "official_url": "https://akiba-maidcafe.co.jp/likeadoll/",
+ "sns": {
+  "x": "https://x.com/Like_a_Doll_akb"
+ },
+ "chain": "yukimi",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-maidcafe.co.jp/likeadoll/",
+  "https://akiba-maidcafe.co.jp/",
+  "https://akiba-maidcafe.co.jp/en/",
+  "https://akiba-maidcafe.co.jp/company/",
+  "https://www.homes.co.jp/archive/b-42429373/"
+ ],
+ "osm_id": "node/11042181490"
+}

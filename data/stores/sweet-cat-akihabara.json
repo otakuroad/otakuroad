@@ -1,0 +1,113 @@
+{
+ "id": "sweet-cat-akihabara",
+ "name": {
+  "ko": "스위트 캣",
+  "en": "Sweet Cat",
+  "ja": "すい〜ときゃっと"
+ },
+ "synonyms": [
+  "스위트캣",
+  "스위트 캐트",
+  "허니뮤 프로듀스 메이드카페",
+  "Sweet Cat Akihabara",
+  "sweetcat",
+  "HONEY MEW",
+  "すいーときゃっと",
+  "スイートキャット",
+  "ハニーミュー"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cheki",
+  "fashion_brand"
+ ],
+ "one_line": {
+  "ko": "의류 브랜드 HONEY MEW가 프로듀스한 메이드카페. 식사·음료와 체키 촬영",
+  "en": "Maid cafe produced by the clothing brand HONEY MEW: food, drinks and cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "10F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701022,
+  "lng": 139.772106
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-4-8 A-FRONT 10F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 15:00~23:00. 정기휴일 안내는 공식 사이트에 없다.",
+   "en": "17:00-23:00 on weekdays and 15:00-23:00 at weekends and public holidays, per the official site; no regular closing day is stated."
+  },
+  "source_url": "https://akiba-maidcafe.co.jp/sweetcat/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "돈키호테 아키하바라점 뒤편(동쪽) 골목의 A-FRONT 빌딩 최상층인 10층. 1층 대만 음료점 CoCo都可 옆 입구에서 엘리베이터를 타며, 같은 건물 8층은 자매점 래빗 캐슬, 4~6층은 다른 회사의 콘셉트 카페다.",
+  "en": "Top floor (10F) of A-FRONT, on the back street behind (east of) Don Quijote Akihabara. Take the lift from the entrance beside the CoCo Tokka bubble-tea stand; the sister shop Rabbit Castle is on 8F and other operators' concept cafes fill 4F-6F."
+ },
+ "tips": {
+  "ko": [
+   "평일 17:00, 토·일·공휴일 15:00 개점이라 낮에는 문을 열지 않는다.",
+   "공식 사이트가 밝힌 예산대는 1인 1,000~3,000엔이며, 요금표와 시스템은 이미지로만 게시되어 있다.",
+   "제복은 프로듀스 브랜드인 의류 브랜드 HONEY MEW(ハニーミュー) 디자인이다.",
+   "결제 수단 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "Opens at 17:00 on weekdays and 15:00 at weekends and holidays, so it is shut during the day.",
+   "The official site gives a budget of 1,000-3,000 yen per person; the price list and system are posted only as images.",
+   "The uniforms are designed by HONEY MEW, the clothing brand that produced the cafe.",
+   "No payment methods are stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://akiba-maidcafe.co.jp/sweetcat/",
+ "sns": {
+  "x": "https://x.com/Maid_SweetCat_"
+ },
+ "chain": "yukimi",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-maidcafe.co.jp/sweetcat/",
+  "https://akiba-maidcafe.co.jp/",
+  "https://akiba-maidcafe.co.jp/en/"
+ ],
+ "osm_id": "way/89182765"
+}

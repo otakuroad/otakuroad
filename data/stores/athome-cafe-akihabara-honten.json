@@ -1,0 +1,181 @@
+{
+ "id": "athome-cafe-akihabara-honten",
+ "name": {
+  "ko": "앳홈카페 아키하바라 본점",
+  "en": "at-home cafe Akihabara Main Store",
+  "ja": "あっとほぉーむカフェ 秋葉原本店"
+ },
+ "synonyms": [
+  "앳홈카페",
+  "앳홈 카페",
+  "앳홈카페 본점",
+  "앳호무카페",
+  "@홈카페",
+  "앳홈",
+  "at-home cafe",
+  "@home cafe",
+  "athome cafe",
+  "at-home cafe Akihabara Main",
+  "Atto Hoomu Cafe",
+  "あっとほぉーむカフェ",
+  "＠ほぉ～むカフェ",
+  "@ほぉ～むカフェ",
+  "あっとほーむカフェ",
+  "アットホームカフェ",
+  "ミツワビル メイドカフェ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "cheki",
+  "stage_show",
+  "omurice",
+  "pink_curry",
+  "admission_fee",
+  "entry_system",
+  "english_ok",
+  "family_ok",
+  "cards_ok",
+  "no_video"
+ ],
+ "one_line": {
+  "ko": "메이드가 오므라이스·라테에 그림을 그려주는 5개 층 규모 메이드카페. 영어 응대 가능",
+  "en": "Maid cafe on five floors; maids draw on your omurice and latte. English service OK."
+ },
+ "building_id": null,
+ "floors": [
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "3F",
+   "ko": "붉은 커튼 무대와 네온 간판이 있는 주황빛 홀. 카운터석이 무대를 향한다",
+   "en": "Apricot-toned room with a red-curtain stage and neon sign; counter seats face the stage"
+  },
+  {
+   "floor": "4F",
+   "ko": "핑크·다크브라운 체크 바닥의 밝은 핑크색 방. 긴 카운터석과 조명·스피커 설비, 발광 간판이 걸린 무대",
+   "en": "Bright pink room with a pink-and-dark-brown checkerboard floor, long counters, a lighting and speaker rig, and a lit sign over the stage"
+  },
+  {
+   "floor": "5F",
+   "ko": "분홍 커튼 무대와 메이드 사진 액자 벽. 나무 카운터석과 소파 부스석",
+   "en": "Pink curtained stage and a wall of framed maid photos; wooden counters and sofa booths"
+  },
+  {
+   "floor": "6F",
+   "ko": "꽃무늬 벽지와 흑백 대리석 체크 바닥의 클래식한 유럽풍 실내. 긴 카운터석과 칸막이 안쪽 부스석",
+   "en": "Classic European look: damask wallpaper and a black-and-white marble checkerboard floor, with a long counter and booths behind a lattice partition"
+  },
+  {
+   "floor": "7F",
+   "ko": "흰 벽에 금테 액자를 건 차분한 카페풍. 갈색 가죽 벤치와 작은 테이블석",
+   "en": "Calm cafe look: white walls with gilt-framed portraits, brown leather benches, small tables"
+  }
+ ],
+ "location": {
+  "lat": 35.699554,
+  "lng": 139.770788
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-11-4 ミツワビル3F～7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "없음 (연중무휴)",
+   "en": "None (open year-round)"
+  },
+  "note": {
+   "ko": "라스트오더는 마감 40분 전(22:00 마감이면 21:20). 3~7층이 같은 시간대로 운영되지만 층·날짜에 따라 달라질 수 있어 공식 사이트의 '오늘의 영업시간'을 확인하는 것이 좋다. 기념일 미니이벤트가 있는 저녁에는 21:00에 마감하고 19:20부터 마지막 입장을 받는다.",
+   "en": "Last order is 40 minutes before closing (21:20 for a 22:00 close). All five floors normally share these hours, but they can differ by floor and by day, so check \"today's business hours\" on the official site. On anniversary mini-event evenings the cafe closes at 21:00 with last entry from 19:20."
+  },
+  "source_url": "https://www.cafe-athome.com/cafes/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에서 한 블록 서쪽으로 들어간 뒷골목에 있는 미츠와빌딩(ミツワビル). 슈퍼포테이토(外神田1-11-2) 바로 북쪽 건물이며 전기가 출구에서 도보 약 3분. 1층 입구로 들어가 계단으로 3~7층 중 원하는 층의 매장 입구까지 올라간 뒤, 그 입구에 있는 엔트리 기계(エントリー機)에서 순번 접수를 하고 줄을 선다. 공식 룰북상 매장 계단에 줄을 서는 것도, 건물 부지 안에 들어가는 것도 개점 15분 전부터만 가능하다.",
+  "en": "The Mitsuwa Building (ミツワビル) on the back street one block west of Chuo-dori, the building immediately north of Super Potato (Sotokanda 1-11-2), about 3 minutes from the Electric Town exit. Go in at the ground-floor entrance, take the stairs up to whichever of floors 3F-7F you want, then register at the entry machine (エントリー機) by that shop's door and queue. The rulebook allows queuing on a shop's stairs, and entering the building grounds at all, only from 15 minutes before opening."
+ },
+ "tips": {
+  "ko": [
+   "요금은 입장료 + 메뉴다. 입장료는 성인(23~59세) 850엔, 19~22세와 60세 이상 600엔, 13~18세 400엔, 12세 이하 무료이고 1인 1음료 주문이 필수라 성인 기준 1,570엔부터. 체류 시간은 기본 1시간이며, 혼잡으로 길어져도 추가 요금은 붙지 않는다.",
+   "예약은 필수가 아니지만 입장하려면 반드시 '엔트리(순번 접수)'를 해야 한다. 무료 앱으로는 개점 1시간 전부터, 매장 입구의 엔트리 기계로는 개점 15분 전부터 접수할 수 있고, 호출된 뒤에는 15분 안에 체크인해야 한다(앱이나 호출 확인 사이트에서 30분까지 연장 가능). 개점~정오와 19:00~21:00이 비교적 한산하다.",
+   "실내 사진은 메이드가 찍히지 않는 선에서만 허용되고, 음식 사진은 메이드에게 먼저 물어본 뒤 찍는다. 동영상 촬영과 녹음은 전면 금지. 메이드와 함께 찍는 사진은 유료 체키(즉석사진)나 체키가 포함된 코스 메뉴로만 가능하다.",
+   "3~7층은 각각 별개 매장이라 메이드와 인테리어가 다르지만 서비스와 메뉴는 같다. 예약 서비스 '앳패스(あっとパス)'로는 건물만 지정되고 층은 고를 수 없다. 결제는 현금·신용카드·QR결제(PayPay, Alipay, WeChat Pay, au PAY, d払い, 라쿠텐페이)가 되지만 두 수단으로 나눠 낼 수 없고, 전자머니(QUICPay·iD·교통계 IC)는 2026년 10월에 취급이 종료된다."
+  ],
+  "en": [
+   "The bill is admission fee plus menu. Admission is 850 yen for adults (23-59), 600 yen for ages 19-22 and 60+, 400 yen for 13-18, free for 12 and under, and everyone must order at least one drink, so an adult visit starts at 1,570 yen. A stay is basically one hour, with no extra charge if it runs longer because the cafe is busy.",
+   "No reservation is needed, but everyone must \"entry\" (register in the queue). The free app takes entries from 1 hour before opening; the entry machine by a shop's door takes them from 15 minutes before. Once called you have 15 minutes to check in, extendable to 30 via the app or the call-status page. It is quietest from opening until around noon and from 19:00 to 21:00.",
+   "You may photograph the room only if no maid is in frame, and ask a maid before photographing your food. All video and audio recording is banned. A photo together with a maid is only possible via the paid cheki (instant photo) or a combo course that includes one.",
+   "Floors 3F-7F are separate shops with different maids and interiors but the same services and menu. The at-PASS (あっとパス) reservation service books the building, not a specific floor. Cash, credit cards and QR payments (PayPay, Alipay, WeChat Pay, au PAY, d Payment, Rakuten Pay) are accepted, but you cannot split one bill across two methods, and electronic money (QUICPay, iD, transit IC) ends in October 2026."
+  ]
+ },
+ "official_url": "https://www.cafe-athome.com/",
+ "sns": {
+  "x": "https://x.com/athome_cafe",
+  "instagram": "https://www.instagram.com/athome__cafe"
+ },
+ "chain": "athome-cafe",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.cafe-athome.com/",
+  "https://www.cafe-athome.com/cafes/",
+  "https://www.cafe-athome.com/system/",
+  "https://www.cafe-athome.com/faq/",
+  "https://www.cafe-athome.com/rulebook/",
+  "https://www.cafe-athome.com/fastpass/",
+  "https://www.cafe-athome.com/food-and-drink-menu/",
+  "https://membership.cafe-athome.com/rule/detail/13",
+  "https://api.membership.cafe-athome.com/member/v1/get-building-info",
+  "https://api.membership.cafe-athome.com/member/v1/get-store-business-hours",
+  "https://api.membership.cafe-athome.com/member/v1/get-faqs",
+  "https://api.membership.cafe-athome.com/member/v1/get-rule",
+  "https://cdn.membership.cafe-athome.com/allergy/1be7515a-e04b-4413-b545-66338b9288d4.pdf",
+  "https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%A3%E3%81%A8%E3%81%BB%E3%81%89%E3%83%BC%E3%82%80%E3%82%AB%E3%83%95%E3%82%A7"
+ ],
+ "osm_id": "node/1916843548",
+ "photo": {
+  "url": "/photos/athome-cafe-akihabara-honten.jpg",
+  "kind": "exterior",
+  "credit": "Ryo FUKAsawa · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Outside_of_@home_cafe_20111128.jpg",
+  "taken_on": "2011-11-28"
+ }
+}

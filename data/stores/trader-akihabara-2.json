@@ -1,0 +1,136 @@
+{
+ "id": "trader-akihabara-2",
+ "name": {
+  "ko": "트레이더 아키하바라 2호점",
+  "en": "Trader Akihabara Store 2",
+  "ja": "トレーダー2号店"
+ },
+ "synonyms": [
+  "트레이더",
+  "트레이더 2호점",
+  "트레이더 아키하바라 2호점",
+  "트레이더 니고텐",
+  "TRADER",
+  "Trader 2",
+  "Trader Akihabara 2",
+  "e-trader",
+  "トレーダー",
+  "トレーダー２号店",
+  "トレーダー秋葉原2号店"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "new",
+  "console",
+  "game_software",
+  "figure",
+  "bluray",
+  "anime_dvd",
+  "pc_game",
+  "r18",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "중고·신품 콘솔 게임과 피규어, 애니 블루레이. 2층은 성인 PC게임·DVD",
+  "en": "Used and new console games, figures and anime Blu-ray; adult PC games and DVDs on 2F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "중고·신품 TV게임과 예약 접수, 피규어, 애니메이션 DVD·블루레이 (전 연령)",
+   "en": "Used and new console games with pre-orders, figures, anime DVD and Blu-ray (all ages)"
+  },
+  {
+   "floor": "2F",
+   "ko": "중고·신품 PC게임과 예약 접수, 성인 DVD·블루레이, 성인 캐릭터 굿즈, 신품 조크 굿즈 — 18세 미만 이용 불가",
+   "en": "Used and new PC games with pre-orders, adult DVD/Blu-ray, adult character goods and novelty items - 18+ only"
+  },
+  {
+   "floor": "3F",
+   "ko": "매입 플로어(게임·피규어·블루레이/DVD 매입 접수)",
+   "en": "Buyback floor for games, figures and Blu-ray/DVD"
+  }
+ ],
+ "location": {
+  "lat": 35.698591,
+  "lng": 139.770354
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-4-9 トレーダー2号店ビル1F・2F・3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 페이지는 영업시간이 변경될 수 있으니 톱페이지를 확인하라고 안내한다.",
+   "en": "The official page warns that hours can change and asks visitors to check its top page."
+  },
+  "source_url": "https://www.e-trader.jp/akiba-trader-a102/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "2F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 2분, 고가선을 따라 서쪽으로 걸으면 나오는 3층짜리 트레이더 2호점 건물. 건물 전체가 매장이고 1층 입구가 길에 바로 접해 있다.",
+  "en": "Two minutes from the JR Akihabara Electric Town exit, walking west along the elevated railway. The three-storey Trader Store 2 building is entirely the shop, with the 1F entrance opening straight onto the street."
+ },
+ "tips": {
+  "ko": [
+   "1층만 전 연령이고 2층은 성인 상품 층이라 18세 미만은 올라갈 수 없다. 가족 동반이면 1층만 이용하면 된다.",
+   "매입 접수는 3층에서만 받는다. 일본 고물영업법상 여권 등 본인 확인 서류가 필요하다.",
+   "현금 외에 신용카드(Visa·Mastercard·JCB·AMEX·Diners·UnionPay), 교통계 IC카드·iD, PayPay·WeChat Pay·Alipay 결제가 가능하다.",
+   "규모가 더 큰 본점은 주오도리 쪽 외신다4-2-1에 따로 있다. 두 곳을 헷갈리지 않도록 주의."
+  ],
+  "en": [
+   "Only 1F is all-ages; 2F is the adult floor and is off-limits under 18, so with family in tow stay downstairs.",
+   "Buyback is taken only on 3F, and Japanese secondhand-dealer law requires photo ID such as a passport.",
+   "Besides cash they take credit cards (Visa, Mastercard, JCB, AMEX, Diners, UnionPay), transit IC cards, iD, PayPay, WeChat Pay and Alipay.",
+   "The much larger main store is a separate building at 4-2-1 on the Chuo-dori side; do not confuse the two."
+  ]
+ },
+ "official_url": "https://www.e-trader.jp/akiba-trader-a102/",
+ "sns": {},
+ "chain": "trader",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.e-trader.jp/akiba-trader-a102/",
+  "https://www.e-trader.jp/",
+  "https://www.e-trader.jp/sns/"
+ ],
+ "osm_id": "node/4247790089"
+}

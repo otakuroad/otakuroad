@@ -1,0 +1,114 @@
+{
+ "id": "akiba-zettai-ryoiki-plus-e",
+ "name": {
+  "ko": "아키바 절대영역 +e",
+  "en": "Akiba Zettai Ryoiki +e",
+  "ja": "アキバ絶対領域 +e"
+ },
+ "synonyms": [
+  "아키바 절대영역 플러스 이",
+  "아키바 절대영역 3호점",
+  "절대영역 +e",
+  "Akiba Zettai Ryoiki plus e",
+  "アキバ絶対領域＋e",
+  "アキバ絶対領域 +e",
+  "アキバ絶対領域 3号店",
+  "カワイイメイドカフェ アキバ絶対領域 +e"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "cafe",
+  "bar",
+  "dessert",
+  "time_charge",
+  "alcohol",
+  "game_theme",
+  "small_shop"
+ ],
+ "one_line": {
+  "ko": "'2.5차원×전뇌세계' 콘셉트의 16석 소형 메이드 카페. 식사·음료 제공",
+  "en": "Small 16-seat maid cafe themed '2.5D x cyberspace', serving meals and drinks"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703207,
+  "lng": 139.771391
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田6-14-2 サカイ末広ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 店舗紹介 페이지 기준 12:00-22:00. 이전 점포 시절 정보가 남은 페이지에는 12:00-21:00으로 적혀 있다.",
+   "en": "12:00-22:00 per the official shop page; pages left over from the old location still say 12:00-21:00."
+  },
+  "source_url": "https://akibazettai.com/shop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 4번 출구 바로 앞 사카이스에히로(サカイ末広) 빌딩 2층. 아키하바라 전기가 중심부에서는 주오도리를 따라 북쪽으로 도보 8분쯤 올라간 위치로, 다른 세 지점과는 떨어져 있다.",
+  "en": "On 2F of the Sakai Suehiro Building, right outside Exit 4 of Suehirocho station on the Ginza line. It is about eight minutes north along Chuo-dori from the main Electric Town area, well away from the other three branches."
+ },
+ "tips": {
+  "ko": [
+   "16석뿐인 소형 점포라 주말에는 자리가 빨리 찬다.",
+   "이전 주소인 외신다 1-6-3 아키바아소비관 2층이 지도·맛집·예약 사이트에 아직 남아 있다. 현재 영업 장소는 스에히로초의 사카이스에히로 빌딩이다.",
+   "요금은 1인 880엔 / 60분 1드링크 오더제이며, 연장하려면 음료를 추가 주문한다.",
+   "결제 수단에 대한 공식 안내가 없으므로 현금을 준비해 가는 편이 안전하다."
+  ],
+  "en": [
+   "With only 16 seats it fills up quickly at weekends.",
+   "The former address, 2F Akiba Asobikan at Sotokanda 1-6-3, still appears on map, review and booking sites; the shop now trades in the Sakai Suehiro Building near Suehirocho.",
+   "880 yen per person for 60 minutes with a one-drink order; extending requires another drink.",
+   "No payment methods are stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://akibazettai.com/shop/",
+ "sns": {
+  "x": "https://x.com/akibazettai"
+ },
+ "chain": "akiba-zettai",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibazettai.com/shop/",
+  "https://akibazettai.com/",
+  "https://akibazettai.com/system/",
+  "https://ghjr904.gorp.jp/"
+ ],
+ "osm_id": null
+}

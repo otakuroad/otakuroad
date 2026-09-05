@@ -1,0 +1,136 @@
+{
+ "id": "yellow-submarine-akihabara-honten-mint",
+ "name": {
+  "ko": "옐로서브마린 아키하바라 본점 민트",
+  "en": "Yellow Submarine Akihabara★MINT",
+  "ja": "イエローサブマリン秋葉原本店★ミント"
+ },
+ "synonyms": [
+  "옐로우서브마린",
+  "옐로 서브마린",
+  "옐로서브마린 민트",
+  "옐서브",
+  "이에사부",
+  "Yellow Submarine Akihabara Honten Mint",
+  "Yellow Submarine Mint",
+  "YS Mint",
+  "イエサブ",
+  "イエサブ秋葉原",
+  "イエロー・サブマリン 秋葉原本店 ミント",
+  "라디오회관 옐로서브마린"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "mtg",
+  "pokemon_card",
+  "yugioh",
+  "one_piece_card",
+  "duel_masters",
+  "weiss_schwarz",
+  "board_game",
+  "trpg",
+  "dice",
+  "card_supply",
+  "new",
+  "used",
+  "figure",
+  "plamo",
+  "mini_4wd",
+  "ichiban_kuji",
+  "duel_room"
+ ],
+ "one_line": {
+  "ko": "MTG·포켓몬·유희왕 TCG와 보드게임·TRPG, 신품·중고 프라모델·피규어를 한 층에 모은 종합점",
+  "en": "TCG (MTG, Pokemon, Yu-Gi-Oh), board games, TRPG, plus new and used figures and model kits"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "6F",
+   "ko": "한 층을 게임 플로어(TCG 팩·싱글, 보드게임, TRPG, 주사위, 서플라이)와 캐릭터 플로어(프라모델, 피규어, 식완, 이치방쿠지, 미니카, 공구·재료)로 나눠 운영",
+   "en": "One floor split into a Game floor (TCG packs and singles, board games, TRPG, dice, supplies) and a Character floor (model kits, figures, candy toys, Ichiban Kuji, Mini 4WD, tools and materials)"
+  }
+ ],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館6F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입 접수는 12:00–19:00. 캐릭터 플로어와 게임 플로어의 영업시간은 같다. 유희왕·포켓몬 카드 매입은 사전에 매장 또는 전화로 상담 필요",
+   "en": "Buyback counter 12:00–19:00. The Character floor and the Game floor keep the same hours. Ask in store or call before bringing Yu-Gi-Oh or Pokemon cards for buyback"
+  },
+  "source_url": "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9f%e6%9c%ac%e5%ba%97%e2%98%85%e3%83%9f%e3%83%b3%e3%83%88/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 앞 라디오회관 1F 정면 입구로 들어가 에스컬레이터나 엘리베이터로 6F. 6F 한 층 전체가 이 매장이며, 카드·보드게임 쪽과 프라모델·피규어 쪽으로 나뉜다.",
+  "en": "Enter Radio Kaikan (in front of JR Akihabara Electric Town exit) at the 1F main entrance and take the escalator or elevator to 6F. The whole 6F is this store, split into a card/board game side and a model kit/figure side."
+ },
+ "tips": {
+  "ko": [
+   "매입(買取) 접수는 12:00–19:00로 영업시간보다 짧다. 대상은 TCG, 아케이드 카드, 캐릭터 프라모델, 피규어, 이치방쿠지, 식완, 미니카.",
+   "보드게임·TRPG 매입은 이 매장에서 받지 않는다. 북쪽으로 도보 약 10분, 외신다 4-6-1 시오타투르 아키하바라 6F의 아키하바라 RPG숍에서만 접수하며 평일은 12:00 개점.",
+   "듀얼룸 16석은 대회 전용이며 자유 이용석은 없다. 대회 일정은 게임 플로어 X 계정(@YS_AKIHABARAGAM), 캐릭터 플로어 입고는 @YS_G_MINT 참고.",
+   "스케일 모델·밀리터리 모델은 취급하지 않는다. 공식 페이지는 '아키하바라 스케일숍'으로 안내하지만 2026년 9월 기준 체인 점포 목록에 없는 매장이니 찾아가지 말 것. 전화는 캐릭터 플로어 03-5298-3123, 게임 플로어 03-3526-3828로 나뉜다."
+  ],
+  "en": [
+   "Buyback reception runs 12:00–19:00, shorter than store hours. Accepted: TCG, arcade cards, character model kits, figures, Ichiban Kuji, candy toys, Mini 4WD.",
+   "Board game and TRPG buyback is not taken here. Only the separate Akihabara RPG Shop handles it — Sotokanda 4-6-1, 6F, about 10 minutes north, opening at 12:00 on weekdays.",
+   "The 16-seat duel room is for tournaments only, with no free-play seating. Event schedules are posted on the Game floor X account (@YS_AKIHABARAGAM); Character floor arrivals on @YS_G_MINT.",
+   "Scale and military models are not stocked. The store page still points to an 'Akihabara Scale Shop', but no such branch is in Yellow Submarine's store list as of September 2026, so do not go looking for it. Phone numbers differ by floor: Character 03-5298-3123, Game 03-3526-3828."
+  ]
+ },
+ "official_url": "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9f%e6%9c%ac%e5%ba%97%e2%98%85%e3%83%9f%e3%83%b3%e3%83%88/",
+ "sns": {
+  "x": "https://x.com/YS_AKIHABARAGAM"
+ },
+ "chain": "yellow-submarine",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9f%e6%9c%ac%e5%ba%97%e2%98%85%e3%83%9f%e3%83%b3%e3%83%88/",
+  "https://yellowsubmarine.co.jp/",
+  "https://yellowsubmarine.co.jp/news/",
+  "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9frpg%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/yellow-submarine/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://www.akihabara-radiokaikan.co.jp/floor/",
+  "https://akihabara-radiokaikan.co.jp/?page_id=3496",
+  "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8"
+ ],
+ "osm_id": "node/5923986968",
+ "photo": null
+}

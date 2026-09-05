@@ -1,0 +1,169 @@
+{
+ "id": "taito-station-akihabara",
+ "name": {
+  "ko": "타이토 스테이션 아키하바라점",
+  "en": "TAITO STATION Akihabara",
+  "ja": "タイトーステーション秋葉原店"
+ },
+ "synonyms": [
+  "타이토 스테이션",
+  "타이토스테이션",
+  "타이토 스테이션 아키바",
+  "타이스테 아키하바라",
+  "타이토 아키하바라",
+  "TAITO STATION Akihabara",
+  "Taito Station Akihabara",
+  "Taito Station Akiba",
+  "Taito Sta. Akihabara",
+  "タイトーステーション秋葉原店",
+  "タイトーステーション 秋葉原店",
+  "タイステ秋葉原店",
+  "タイステ"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "purikura",
+  "rhythm_game",
+  "bemani",
+  "video_game",
+  "fighting_game",
+  "racing_game",
+  "retro",
+  "gundam",
+  "taito"
+ ],
+ "one_line": {
+  "ko": "타이토 직영 6개 층 오락실. B1F 프리쿠라, 1~3F 크레인게임, 4F 비디오·격투, 5F 음악게임",
+  "en": "Taito arcade over six floors: purikura B1F, crane games 1F-3F, video 4F, rhythm games 5F"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "프리쿠라(프린트 실) 층. 프리코·하루이로세카이3·블루밋 등 8종 9대와 카드커넥트2",
+   "en": "Purikura (photo-sticker) floor: nine booths across eight models including PURICO, Haruiro Sekai 3 and Bloomit, plus Card Connect 2"
+  },
+  {
+   "floor": "1F",
+   "ko": "크레인게임. 주오도리에 면한 정면 입구 층",
+   "en": "Crane games; the street-level entrance floor facing Chuo-dori"
+  },
+  {
+   "floor": "2F",
+   "ko": "크레인게임",
+   "en": "Crane games"
+  },
+  {
+   "floor": "3F",
+   "ko": "크레인게임. 와니와니 패닉 1대",
+   "en": "Crane games, plus one Wani Wani Panic cabinet"
+  },
+  {
+   "floor": "4F",
+   "ko": "비디오·아케이드·카드·레이스 게임 층. 스트리트파이터6, 철권7FR2, 건담 EXVS2 인피니트 부스트, 마리오카트, 완간 미드나이트 6RR, 태고의 달인, 메탈슬러그 등 레트로 기판, 전차로 GO!!",
+   "en": "Video, arcade, card and racing games: Street Fighter 6, Tekken 7FR2, Gundam EXVS2 Infinite Boost, Mario Kart, Wangan Midnight 6RR, Taiko no Tatsujin, Metal Slug and other retro boards, Densha de GO!!"
+  },
+  {
+   "floor": "5F",
+   "ko": "음악게임 전용 층. CHUNITHM Mate, 온게키 Re:Fresh, 폴라리스 코드, beatmania IIDX, SOUND VOLTEX, pop'n music, GITADORA, maimai DX, DDR, jubeat, DANCERUSH",
+   "en": "Rhythm-game floor: CHUNITHM Mate, O.N.G.E.K.I. Re:Fresh, Polaris Code, beatmania IIDX, SOUND VOLTEX, pop'n music, GITADORA, maimai DX, DDR, jubeat, DANCERUSH"
+  }
+ ],
+ "location": {
+  "lat": 35.700235,
+  "lng": 139.771741
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-2-2 貴三ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "None (open year-round)"
+  },
+  "note": {
+   "ko": "일본어 공식 페이지와 전 언어 페이지의 구조화 데이터 기준 23:30 마감. 영어·한국어 페이지 본문에는 24:00으로 남아 있으므로 마감 직전 방문은 여유를 둘 것",
+   "en": "23:30 close per the Japanese page and the schema.org data on every language version; the English and Korean pages still print 24:00 in the body, so do not count on the last half hour."
+  },
+  "source_url": "https://www.taito.co.jp/store/00001802"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽 보도. 빅카메라 AKIBA에서 북쪽으로 볼크스 호비천국2, 트레이더 아키하바라 본점을 지나면 세 번째 건물이고, 애니메이트 2호관 바로 남쪽이다. 외벽의 커다란 스페이스 인베이더가 표식. 도로에 면한 1F 크레인게임 층으로 들어가 안쪽 엘리베이터나 계단으로 B1F~5F를 오간다.",
+  "en": "East sidewalk of Chuo-dori: from Bic Camera AKIBA walk north past Volks Hobby Tengoku 2 and Trader Akihabara Main Store and it is the third building, just south of animate 2nd Building, with a giant Space Invader on the facade. Enter through the 1F crane-game floor that opens onto the street and use the elevator or stairs inside for B1F-5F."
+ },
+ "tips": {
+  "ko": [
+   "층별 설치 게임 목록과 대수를 공식 페이지 '設置ゲーム情報'가 공개하며 2026-09-02 갱신본이 최신이다. 기기 교체가 잦으니 특정 기종 목적이면 방문 전 확인.",
+   "태고의 달인과 건담 EXVS2는 5F가 아니라 4F에 있고, 5F는 코나미·세가 계열 음악게임 전용 층이다.",
+   "프리쿠라는 지하 1층에만 모여 있다. 1~3F는 전부 크레인게임이라 경품만 볼 거면 3개 층만 돌면 된다.",
+   "공식 설비 안내에 캐시리스 결제·무료 Wi-Fi·ChargeSPOT(휴대폰 충전)·엘리베이터가 표기되어 있다. 다만 4F 레트로 기판 등 개별 기기의 동전 필요 여부는 표기가 없으니 100엔 동전을 챙기는 편이 안전하다."
+  ],
+  "en": [
+   "The official page's 'Installed games' notice lists every floor's titles and cabinet counts; the current revision is dated 2026-09-02. Machines rotate often, so check before making a trip for one title.",
+   "Taiko no Tatsujin and Gundam EXVS2 are on 4F, not 5F; 5F is the dedicated rhythm-game floor (Konami and Sega titles).",
+   "Purikura booths are all on B1F, and 1F-3F are crane games only, so prize hunters can stay on three floors.",
+   "Taito lists cashless payment, free Wi-Fi, ChargeSPOT phone charging and an elevator as store facilities, but says nothing per machine; carry 100-yen coins for the 4F retro boards."
+  ]
+ },
+ "official_url": "https://www.taito.co.jp/store/00001802",
+ "sns": {
+  "x": "https://x.com/Taito_Akihabara"
+ },
+ "chain": "taito",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.taito.co.jp/store/00001802",
+  "https://www.taito.co.jp/en/store/00001802",
+  "https://www.taito.co.jp/ko/store/00001802",
+  "https://www.taito.co.jp/store/topics/00001802/3861/4",
+  "https://www.taito.co.jp/store/topics/00001802/18993/31",
+  "https://www.taito.co.jp/api/LanguageStoreSearch/?stateCode=13&groupID=&lat=&lng=&lang=ja&ignore=&isGlobalOnly=false",
+  "https://www.taito.co.jp/api/LanguageStoreSearch/?stateCode=13&groupID=&lat=&lng=&lang=en&ignore=&isGlobalOnly=false",
+  "https://www.taito.co.jp/api/LanguageStoreSearch/?stateCode=13&groupID=&lat=&lng=&lang=ko&ignore=&isGlobalOnly=false"
+ ],
+ "osm_id": "way/217379772",
+ "photo": {
+  "url": "/photos/taito-station-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "IQRemix from Canada · CC BY-SA 2.0 · Wikimedia Commons",
+  "license": "CC BY-SA 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Taito_Station_Akihabara_(2015-04-12_22.52.18_by_IQRemix).jpg",
+  "taken_on": "2015"
+ }
+}

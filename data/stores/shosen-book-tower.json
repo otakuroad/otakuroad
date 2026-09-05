@@ -1,0 +1,170 @@
+{
+ "id": "shosen-book-tower",
+ "name": {
+  "ko": "쇼센 북타워",
+  "en": "Shosen Book Tower",
+  "ja": "書泉ブックタワー"
+ },
+ "synonyms": [
+  "쇼센 북 타워",
+  "서점 쇼센",
+  "쇼센",
+  "북타워",
+  "書泉",
+  "書泉ブックタワー",
+  "ブックタワー",
+  "Shosen",
+  "Shosen BookTower"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "new",
+  "manga",
+  "light_novel",
+  "art_book",
+  "american_comics",
+  "idol",
+  "tokusatsu",
+  "railway",
+  "military",
+  "gundam",
+  "event_space",
+  "signing_event"
+ ],
+ "one_line": {
+  "ko": "만화·라노벨·아이돌·철도·밀리터리 등 취미 전문서를 9개 층에 모은 서점",
+  "en": "Nine floors of hobby books: manga, light novels, idol, tokusatsu, railway and military"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "화제의 신간·여행서·지도·아동서·서브컬처·점술",
+   "en": "Talked-about new releases, travel books, maps, children's books, subculture and fortune telling"
+  },
+  {
+   "floor": "2F",
+   "ko": "문고·신서·비즈니스·어학",
+   "en": "Bunko paperbacks, shinsho, business and language books"
+  },
+  {
+   "floor": "3F",
+   "ko": "컴퓨터·일러스트 기법서·이공계·자격증",
+   "en": "Computing, illustration technique books, science and engineering, certification study"
+  },
+  {
+   "floor": "4F",
+   "ko": "아이돌·프로레슬링·특촬·스포츠·영화·음악",
+   "en": "Idol, pro wrestling, tokusatsu, sports, film and music"
+  },
+  {
+   "floor": "5F",
+   "ko": "철도·자동차·바이크·항공기·밀리터리",
+   "en": "Railway, cars, motorbikes, aircraft and military"
+  },
+  {
+   "floor": "6F",
+   "ko": "청년·성년향 코믹, 아메코미, 영어판 MANGA",
+   "en": "Seinen and adult (18+) comics, American comics and English-translation manga"
+  },
+  {
+   "floor": "7F",
+   "ko": "소년·소녀향 코믹",
+   "en": "Shonen and shojo comics"
+  },
+  {
+   "floor": "8F",
+   "ko": "라노벨·게임·건담",
+   "en": "Light novels, games and Gundam"
+  },
+  {
+   "floor": "9F",
+   "ko": "이벤트홀 (사인회·발매 기념 행사)",
+   "en": "Event hall (signings and release events)"
+  }
+ ],
+ "location": {
+  "lat": 35.697359,
+  "lng": 139.775194
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "〒101-0025 東京都千代田区神田佐久間町1-11-1",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "1월 1일(설날)만 휴무",
+   "en": "Closed only on 1 January"
+  },
+  "note": {
+   "ko": "공식 안내는 평일·토·일·공휴일 모두 11:00–20:00. 일부 지도에는 10:00–21:00이 남아 있으나 오래된 정보이며, 연말연시에는 별도 공지로 시간이 바뀐다",
+   "en": "The official page gives 11:00-20:00 on weekdays, weekends and holidays alike. Some maps still show 10:00-21:00, which is out of date; New Year hours are announced separately"
+  },
+  "source_url": "https://www.shosen.co.jp/tower/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "쇼와도리 건너편, 도쿄메트로 히비야선 아키하바라역 5번 출구를 나오면 바로 보이는 흰 타워형 건물. JR 쇼와도리 개찰구에서는 히비야선 연결 통로를 지나 5번 출구로 나오면 신호를 건너지 않고 닿는다.",
+  "en": "A white tower directly outside exit 5 of Akihabara station on the Tokyo Metro Hibiya line, across Showa-dori. From the JR Showa-dori ticket gate, use the Hibiya-line passage to exit 5 and you arrive without crossing a road."
+ },
+ "tips": {
+  "ko": [
+   "층마다 장르가 완전히 달라 8층 라노벨·게임·건담, 7층 소년·소녀 코믹, 6층 청년·성년 코믹과 아메코미처럼 목적 층을 정해 올라가는 편이 빠르다",
+   "9층 이벤트홀에서 작가 사인회와 발매 기념 행사가 상시 열리며, 참가 방법은 공식 사이트 이벤트 페이지에서 확인",
+   "현금·도서카드NEXT 외에 신용카드, 바코드 결제, SmartCode를 쓸 수 있고 셀프 계산대가 운영된다",
+   "1월 1일 외에는 연중무휴이며 11:00 개점이라 아침 일찍은 열지 않는다"
+  ],
+  "en": [
+   "Genres are split hard by floor - 8F light novels, games and Gundam, 7F shonen and shojo comics, 6F seinen/adult comics and American comics - so pick your floor first",
+   "The 9F event hall runs author signings and release events almost constantly; entry rules are on the official event page",
+   "Cash and Tosho Card NEXT plus credit cards, barcode payments and SmartCode are accepted, and self-checkout is in use",
+   "Open every day except 1 January, but not before 11:00"
+  ]
+ },
+ "official_url": "https://www.shosen.co.jp/tower/",
+ "sns": {
+  "x": "https://x.com/shosen_bt"
+ },
+ "chain": "shosen",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.shosen.co.jp/tower/"
+ ],
+ "osm_id": "node/1986281361"
+}

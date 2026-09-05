@@ -1,0 +1,119 @@
+{
+ "id": "idolmaster-official-shop-atre-akihabara",
+ "name": {
+  "ko": "아이돌마스터 오피셜숍 아트레 아키하바라점",
+  "en": "THE IDOLM@STER Official Shop Atre Akihabara",
+  "ja": "アイドルマスター オフィシャルショップ アトレ秋葉原店"
+ },
+ "synonyms": [
+  "아이돌마스터 오피셜 숍",
+  "아이돌마스터 공식샵",
+  "아이마스 오피셜숍",
+  "아이마스 샵 아키하바라",
+  "아이돌마스터 스토어 아키하바라",
+  "THE IDOLM@STER Official Shop",
+  "Idolmaster Official Shop Akihabara",
+  "imas official shop",
+  "アイドルマスターオフィシャルショップ",
+  "アイマスショップ",
+  "アイドルマスター オフィシャルショップ"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "character_goods",
+  "idolmaster",
+  "cinderella_girls",
+  "million_live",
+  "sidem",
+  "shiny_colors",
+  "gakuen_idolmaster",
+  "gacha",
+  "limited_goods",
+  "new",
+  "exhibition"
+ ],
+ "one_line": {
+  "ko": "아이돌마스터 시리즈 공식 굿즈와 전시, 방문 기록 타임레코더가 있는 2층 매장",
+  "en": "Official iDOLM@STER goods, series displays and a visit-stamp time recorder on 2F"
+ },
+ "building_id": "atre-akihabara-1",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-17-6 アトレ秋葉原1 2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "아트레 아키하바라1 휴관일에 준함",
+   "en": "Closes when Atre Akihabara 1 closes"
+  },
+  "note": {
+   "ko": "아트레 공식 점포 페이지 기준 10:00-21:00. 방문객이 많으면 입장을 제한하는 경우가 있고, 개최 기간·영업시간 변경은 공식 X로 공지된다.",
+   "en": "10:00-21:00 per Atre's shop page. Entry can be restricted when the shop is busy, and changes to hours or event periods are announced on the official X account."
+  },
+  "source_url": "https://www.atre.co.jp/akihabara/shop/5645/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아트레 아키하바라1 2층, 반다이남코 크로스 스토어 구역 안. 에스컬레이터로 2층에 올라 산세이도 서점 쪽 안쪽으로 들어가면 나오며, 바로 옆에 아이돌마스터 투어즈 아케이드 기기 2대가 놓여 있다.",
+  "en": "On 2F of Atre Akihabara 1, inside the BANDAI NAMCO Cross Store area. Take the escalator to 2F and head inward past Books Sanseido; two iDOLM@STER Tours arcade cabinets stand right beside the shop."
+ },
+ "tips": {
+  "ko": [
+   "신데렐라 걸즈·밀리언 라이브!·SideM·샤이니 컬러즈·학원 아이돌마스터까지 시리즈별 굿즈와 가챠를 함께 취급한다.",
+   "매장에 방문을 기록하는 타임레코더가 있어 프로듀서들의 정기 방문 스탬프 역할을 한다.",
+   "전시·팝업 교체 시기에는 입장 제한이 걸릴 수 있으니 방문 전 공식 사이트 공지를 확인한다.",
+   "같은 2층 반다이남코 크로스 스토어 안의 러브라이브!·아이카츠! 오피셜 스토어와 나란히 있어 함께 도는 편이 효율적이다."
+  ],
+  "en": [
+   "Goods and gacha are stocked by sub-series: Cinderella Girls, Million Live!, SideM, Shiny Colors and Gakuen iDOLM@STER.",
+   "A time recorder in the shop lets producers clock their visits — the shop's long-running visit-stamp gimmick.",
+   "Entry may be limited when a display or pop-up changes over, so check the official notices before a special trip.",
+   "It sits in the same Cross Store row as the Love Live! and Aikatsu! official stores, so plan them as one stop."
+  ]
+ },
+ "official_url": "https://bandainamco-am.co.jp/chara_shop/idolmaster/",
+ "sns": {
+  "x": "https://x.com/bncs_akihabara"
+ },
+ "chain": "bandai-namco",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://bandainamco-am.co.jp/chara_shop/idolmaster/",
+  "https://www.atre.co.jp/akihabara/shop/5645/",
+  "https://www.atre.co.jp/akihabara/floorguide/27/113/",
+  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/",
+  "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/news/20240529.html",
+  "https://prtimes.jp/main/html/rd/p/000001363.000033062.html"
+ ],
+ "osm_id": "node/12896921938"
+}

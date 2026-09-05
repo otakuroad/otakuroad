@@ -1,0 +1,117 @@
+{
+ "id": "monta-akihabara",
+ "name": {
+  "ko": "몬타",
+  "en": "MONTA",
+  "ja": "MONTA"
+ },
+ "synonyms": [
+  "몬타 아키하바라",
+  "철도모형 몬타",
+  "MONTA Akihabara",
+  "MONTA秋葉原店",
+  "鉄道模型MONTA",
+  "モンタ",
+  "モンタ秋葉原",
+  "IMON MONTA"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "railway_model",
+  "used",
+  "consignment",
+  "outlet",
+  "buyback",
+  "n_gauge",
+  "brass"
+ ],
+ "one_line": {
+  "ko": "같은 3층에 붙어 있는 철도모형 중고·위탁·아웃렛 매장. 중고 매입도 받는다",
+  "en": "Used, consignment and outlet railway models, next to Models IMON on the same 3F"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698747,
+  "lng": 139.77038
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-9-9 内田ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "10:00",
+    "close": "20:30"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "모델스 이몬 아키하바라점과 같은 영업시간이다. 위탁품 출품·정산은 폐점 1시간 전, 매입 접수는 폐점 2시간 전까지만 받는다.",
+   "en": "Same hours as Models IMON Akihabara. Consignment drop-off and settlement stop one hour before closing, and buyback intake two hours before closing."
+  },
+  "source_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "모델스 이몬 아키하바라점과 같은 우치다 빌딩(内田ビル) 3층에 나란히 붙어 있다. 1층 전자부품점 HAMADA·센고쿠전상 옆 좁은 입구에서 엘리베이터나 계단으로 3층까지 올라가면 된다. 전화가 잘 연결되지 않을 때는 병설된 이몬 쪽(03-5296-1900)으로 연락한다.",
+  "en": "Shares 3F of the Uchida Building with Models IMON Akihabara. Enter through the narrow doorway beside the ground-floor parts shops HAMADA and Sengoku Densho and take the lift or stairs to 3F. If MONTA's phone line is down, the official notice says to call Models IMON on 03-5296-1900."
+ },
+ "tips": {
+  "ko": [
+   "중고품·위탁품과 함께 신품을 아웃렛 특가로 파는 코너가 있어 플라스틱부터 브라스 제품까지 섞여 있다.",
+   "위탁 판매 수수료는 브라스 15%, 플라스틱 20%이며 스트럭처는 위탁 출품 대상이 아니다.",
+   "매입을 맡길 때는 신분증명서와 인감이 필요하고, 18세 미만은 친권자 동의서가 있어야 한다.",
+   "위탁 출품·정산은 폐점 1시간 전, 매입 접수는 폐점 2시간 전에 마감되므로 시간 여유를 두고 방문한다."
+  ],
+  "en": [
+   "Alongside used and consignment stock there is an outlet corner selling new items at cut prices, from plastic to brass models.",
+   "Consignment commission is 15% for brass and 20% for plastic; structures are not accepted for consignment.",
+   "Selling stock requires photo ID and a personal seal (inkan); under-18s need a guardian's written consent.",
+   "Consignment and settlement close one hour before the shop does, and buyback intake two hours before, so arrive early."
+  ]
+ },
+ "official_url": "https://www.imon.co.jp/MONTA/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.imon.co.jp/MONTA/",
+  "https://www.imon.co.jp/MODELS/MONTATOP.MBR/HTML",
+  "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP",
+  "https://www.imon.co.jp/pages/shopinfo"
+ ],
+ "osm_id": null
+}

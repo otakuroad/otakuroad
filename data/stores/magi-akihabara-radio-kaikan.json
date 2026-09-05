@@ -1,0 +1,119 @@
+{
+ "id": "magi-akihabara-radio-kaikan",
+ "name": {
+  "ko": "마기 아키하바라 라디오회관점",
+  "en": "magi Akihabara Radio Kaikan",
+  "ja": "magi 秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "마기",
+  "마기 라디오회관점",
+  "magi",
+  "magi 아키하바라 라디오회관점",
+  "카드숍 마기",
+  "magi Radio Kaikan",
+  "Cardshop magi",
+  "magi Akihabara",
+  "magi秋葉原ラジオ会館店",
+  "カードショップmagi",
+  "マギ",
+  "magi ラジ館店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "used",
+  "tcg_singles",
+  "buyback",
+  "pokemon_card",
+  "old_back_pokemon",
+  "yugioh",
+  "digimon_card",
+  "mushiking",
+  "one_piece_card",
+  "weiss_schwarz",
+  "hololive",
+  "gundam_card",
+  "lorcana"
+ ],
+ "one_line": {
+  "ko": "구판 포켓몬·구 디지카 등 중고 트레카 싱글 판매와 매입. 앱 magi의 실매장",
+  "en": "Used card singles including old-back Pokemon and old Digimon, plus a buyback counter"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "판매 12:00~20:00, 매입 접수 12:00~18:00. 건물(10:00 개관)보다 두 시간 늦게 연다.",
+   "en": "Sales 12:00-20:00, buyback desk 12:00-18:00. It opens two hours later than the building, which opens at 10:00."
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/magi-%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 5F. 라신방 라디오회관점·카이요도 호비로비 도쿄와 같은 층이며, 엘리베이터에서 내려 중고 카드 쇼케이스가 늘어선 구획이 magi다.",
+  "en": "On 5F of Radio Kaikan, the floor shared with Lashinbang and Kaiyodo Hobby Lobby Tokyo. Off the elevator, magi is the unit lined with used-card showcases."
+ },
+ "tips": {
+  "ko": [
+   "트레카 전용 중고 거래 앱 magi가 운영하는 실매장으로 2023년 3월 개점. 중고 싱글 판매와 매입만 하며 위탁판매는 받지 않는다.",
+   "구판 포켓몬카드(구 뒷면)·구 디지몬카드·무시킹처럼 다른 매장에서 잘 안 보이는 물건이 강점이다.",
+   "판매는 12:00부터, 매입 접수는 18:00까지. 오전에 라디오회관에 도착했다면 다른 층부터 도는 편이 좋다.",
+   "현금 외에 신용카드·은련·PayPay·iD·QUICPay·교통계 IC·라쿠텐Edy·nanaco·WAON 등 결제 수단이 넓다.",
+   "소토칸다 3-14-9의 '카드숍 magi 아키하바라점' 및 그 별관과는 다른 매장이다."
+  ],
+  "en": [
+   "The bricks-and-mortar shop of the magi trading-card resale app, open since March 2023. It sells and buys used singles but does not take consignment items.",
+   "Its strength is stock other shops rarely carry: old-back Pokemon cards, old Digimon cards, Mushiking and similar vintage sets.",
+   "Sales start at 12:00 and the buy desk closes at 18:00, so if you reach Radio Kaikan in the morning, do the other floors first.",
+   "Besides cash it takes credit cards, UnionPay, PayPay, iD, QUICPay, transit IC, Rakuten Edy, nanaco and WAON.",
+   "It is a different shop from Cardshop magi Akihabara at Sotokanda 3-14-9 and that shop's annex."
+  ]
+ },
+ "official_url": "https://cardshopmagi.com/shop/magi-radio/",
+ "sns": {
+  "x": "https://x.com/magi_Radio"
+ },
+ "chain": "magi",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cardshopmagi.com/shop/magi-radio/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/magi-%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/"
+ ],
+ "osm_id": null
+}

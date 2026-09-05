@@ -1,0 +1,111 @@
+{
+ "id": "liberty-akihabara-4",
+ "name": {
+  "ko": "리버티 아키하바라 4호점",
+  "en": "Liberty Akihabara Store 4",
+  "ja": "リバティー 秋葉原4号店"
+ },
+ "synonyms": [
+  "리버티",
+  "리버티 4호점",
+  "리버티 아키하바라 4호점",
+  "Liberty",
+  "Liberty Akihabara 4",
+  "Liberty Akihabara No.4",
+  "AKIBA LIBERTY",
+  "リバティー",
+  "リバティー秋葉原4号店",
+  "リバティー4号店",
+  "リバティー小木曽ビル店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "ichiban_kuji",
+  "used",
+  "figure",
+  "prize_figure",
+  "gacha",
+  "game_software",
+  "cd_dvd",
+  "anime_goods"
+ ],
+ "one_line": {
+  "ko": "공식 이치반쿠지 추첨대와 중고 피규어·게임·CD를 갖춘 주오도리 매장",
+  "en": "Official Ichiban Kuji lottery counter plus used figures, games and CDs on Chuo-dori"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701397,
+  "lng": 139.771826
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-4-3 小木曽ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 점포 목록 기준 11:00-20:30, 연중무휴. OSM 등에는 평일 11:00-21:00, 토 10:30-21:00 같은 옛 시간이 남아 있다.",
+   "en": "The official store list gives 11:00-20:30 daily, open year-round. OSM and some directories still carry older hours such as 11:00-21:00 on weekdays and 10:30-21:00 on Saturdays."
+  },
+  "source_url": "https://liberty-kaitori.com/shop"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽, 스루가야 아키하바라 게임관과 트레이더 본점 사이 구간의 9층짜리 小木曽(오기소) 빌딩 저층부. 리버티 1호점과는 주오도리를 사이에 두고 거의 마주 본다.",
+  "en": "On the east side of Chuo-dori, in the low floors of the nine-storey Ogiso Building between Surugaya's game store and Trader's main store. It faces Liberty Store 1 almost directly across Chuo-dori."
+ },
+ "tips": {
+  "ko": [
+   "리버티 지점 중 유일한 공식 이치반쿠지 취급점으로, 새 로트가 매주 들어온다.",
+   "면세 대응 지점이며 여권 원본과 한 점포 5,500엔(세금 포함) 이상 구매가 조건이다.",
+   "층수는 공식 안내에 없다. 건물 정면 저층 간판을 보고 들어가면 된다."
+  ],
+  "en": [
+   "This is the only Liberty branch that is an official Ichiban Kuji outlet, and new lots arrive weekly.",
+   "It is tax-free like the rest of the chain: original passport, 5,500 yen or more (tax included) in this branch.",
+   "The floor is not published officially — look for the Liberty signage on the lower floors of the building."
+  ]
+ },
+ "official_url": "https://www.liberty-shop.co.jp/visit/",
+ "sns": {},
+ "chain": "liberty",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://liberty-kaitori.com/shop",
+  "https://www.liberty-shop.co.jp/visit/",
+  "https://www.liberty-shop.co.jp/visit/lp-ja-v2.html",
+  "https://akibatoreka.com/introduce/2077"
+ ],
+ "osm_id": "node/5062122562"
+}

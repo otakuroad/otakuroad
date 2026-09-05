@@ -1,0 +1,154 @@
+{
+ "id": "namco-akihabara",
+ "name": {
+  "ko": "남코 아키하바라점",
+  "en": "namco Akihabara",
+  "ja": "namco秋葉原店"
+ },
+ "synonyms": [
+  "남코",
+  "남코 아키하바라",
+  "반다이남코 아키하바라",
+  "나무코 아키하바라",
+  "namco Akihabara",
+  "namco akiba",
+  "namco秋葉原店",
+  "ナムコ秋葉原店",
+  "ナムコ",
+  "バンダイナムコアミューズメント 秋葉原",
+  "세가 아키하바라 4호관",
+  "GiGO 아키하바라 4호관",
+  "クラブセガ秋葉原4号館",
+  "GiGO秋葉原4号館"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "video_game",
+  "gacha",
+  "ichiban_kuji",
+  "trading_card",
+  "gundam",
+  "taiko_no_tatsujin",
+  "idolmaster",
+  "prize_figure",
+  "bandai_namco"
+ ],
+ "one_line": {
+  "ko": "반다이남코 직영 오락실. 크레인게임·비디오게임과 가샤폰·이치반쿠지·카드게임 공식숍",
+  "en": "Bandai Namco arcade: crane and video games, official Gashapon, Ichiban Kuji and card shops"
+ },
+ "building_id": "ichigo-akihabara-ekimae-building",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "비디오 게임 층. 「기동전사 건담 익스트림 버서스2」 대수를 몰아 놓고 대회·교류 이벤트를 연다",
+   "en": "Video game floor built around Mobile Suit Gundam Extreme Vs. 2 cabinets, with regular tournaments and meetups"
+  },
+  {
+   "floor": "1F",
+   "ko": "크레인 게임과 반프레스토 캐릭터 피규어 전문 코너 「반프레야 아키바 피규어 컬렉션」, 「이치반쿠지 공식숍 아키하바라점」",
+   "en": "Crane games, the Banpresya Akiba Figure Collection corner for Banpresto character figures, and the Ichiban Kuji Official Shop"
+  },
+  {
+   "floor": "2F",
+   "ko": "크레인 게임 층. namco 한정 경품과 인기 캐릭터 경품 중심",
+   "en": "Crane game floor with namco-exclusive prizes and current character prizes"
+  },
+  {
+   "floor": "3F",
+   "ko": "비디오 게임 층. 「태고의 달인」 등 음악·체감 게임과 정기 이벤트",
+   "en": "Video game floor with Taiko no Tatsujin and other music/motion cabinets, plus regular events"
+  },
+  {
+   "floor": "4F",
+   "ko": "캡슐토이 전문점 「가샤폰 반다이 오피셜숍 아키하바라점」",
+   "en": "Gashapon Bandai Official Shop Akihabara, a capsule-toy specialty store"
+  },
+  {
+   "floor": "5F",
+   "ko": "반다이 카드게임 공식숍 「덱스타 DECKS STADIUM」. 플레이 스페이스와 대회 운영",
+   "en": "BANDAI CARD GAMES official shop DECKS STADIUM, with a play space and tournaments"
+  }
+ ],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-9 いちご秋葉原駅前ビルB1F～5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "오락실 본체는 10:00-23:00. 층 안의 공식숍은 시간이 달라 가샤폰 반다이 오피셜숍은 10:00-23:00, 이치반쿠지 공식숍과 BANDAI CARD GAMES 공식숍(DECKS STADIUM)은 10:00-21:00이다.",
+   "en": "The arcade itself runs 10:00-23:00. The in-store official shops differ: Gashapon Bandai Official Shop 10:00-23:00, Ichiban Kuji Official Shop and the BANDAI CARD GAMES shop (DECKS STADIUM) 10:00-21:00."
+  },
+  "source_url": "https://bandainamco-am.co.jp/game_center/loc/akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구를 나오면 바로 정면에 보이는 흰색 빌딩(옛 세가 아키하바라 4호관·GiGO 4호관). 역에서 도보 1분이며 B1F부터 5F까지 전부 namco다.",
+  "en": "The white building straight ahead as you leave JR Akihabara's Electric Town Exit (the former Sega / GiGO Akihabara Building 4). One minute from the gate; namco fills B1F through 5F."
+ },
+ "tips": {
+  "ko": [
+   "16세 미만은 18시 이후 입장할 수 없고, 보호자 동반이면 22시까지 가능하다. 18세 미만은 22시 이후 입장 불가.",
+   "4F 가샤폰 공식숍은 23:00까지지만 1F 이치반쿠지 공식숍과 5F 카드게임 공식숍은 21:00에 닫으므로 굿즈 목적이면 늦지 않게 간다.",
+   "B1F는 「기동전사 건담 익스트림 버서스2」 전용 층으로 대회와 교류 이벤트가 자주 열린다.",
+   "아이돌마스터 투어즈, 태고의 달인, 낚시 스피리츠, 마리오카트 GP DX, 완간 미드나이트 맥시멈 튠 등이 들어와 있다."
+  ],
+  "en": [
+   "Under-16s cannot enter after 18:00 (until 22:00 if with a guardian); under-18s cannot enter after 22:00.",
+   "The 4F Gashapon shop stays open to 23:00, but the 1F Ichiban Kuji shop and the 5F card-game shop close at 21:00, so come earlier if you are after merchandise.",
+   "B1F is given over to Mobile Suit Gundam Extreme Vs. 2, with frequent tournaments and player meetups.",
+   "Cabinets include iDOLM@STER TOURS, Taiko no Tatsujin, Fishing Spirits, Mario Kart Arcade GP DX and Wangan Midnight Maximum Tune."
+  ]
+ },
+ "official_url": "https://bandainamco-am.co.jp/game_center/loc/akihabara/",
+ "sns": {},
+ "chain": "namco",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://bandainamco-am.co.jp/game_center/loc/akihabara/",
+  "https://bandainamco-am.co.jp/official_shop/decks-stadium/",
+  "https://prtimes.jp/main/html/rd/p/000000145.000036834.html",
+  "https://www.4gamer.net/games/999/G999905/20230222141/",
+  "https://game.watch.impress.co.jp/docs/news/1482549.html"
+ ],
+ "osm_id": null
+}

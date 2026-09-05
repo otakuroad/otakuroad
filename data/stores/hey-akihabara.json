@@ -1,0 +1,156 @@
+{
+ "id": "hey-akihabara",
+ "name": {
+  "ko": "아키하바라 HEY",
+  "en": "Hey (Hirose Entertainment Yard)",
+  "ja": "Hey（Hirose Entertainment Yard）"
+ },
+ "synonyms": [
+  "헤이",
+  "타이토 헤이",
+  "히로세 엔터테인먼트 야드",
+  "아키하바라 헤이",
+  "HEY",
+  "Hey Akihabara",
+  "Akihabara Hey",
+  "Taito Hey",
+  "Hirose Entertainment Yard",
+  "秋葉原Hey",
+  "ヘイ"
+ ],
+ "category": "arcade",
+ "tags": [
+  "shooting_game",
+  "retro",
+  "fighting_game",
+  "rhythm_game",
+  "crane_game",
+  "kids_card_game",
+  "taito",
+  "arcade_pcb"
+ ],
+ "one_line": {
+  "ko": "타이토 직영 4층 오락실. 2F 슈팅·레트로·음악게임, 3F 대전격투, 4F 카드게임",
+  "en": "Taito's four-floor arcade: 2F shmups, retro and rhythm games, 3F fighting, 4F card games."
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "크레인게임·프라이즈 코너 (주오도리 쪽 길가 입구)",
+   "en": "Crane games and prize corner (street entrance on the Chuo-dori side)"
+  },
+  {
+   "floor": "2F",
+   "ko": "슈팅·레트로 비디오게임 층. 다라이어스·레이 시리즈 개조 캐비닛과 음악게임 코너",
+   "en": "Shooting and retro video games: Darius and Ray series on custom Taito cabinets, plus the rhythm-game corner"
+  },
+  {
+   "floor": "3F",
+   "ko": "대전격투 중심 비디오게임 층, 퍼즐·90년대 게임",
+   "en": "Fighting-game video floor, with puzzle and 1990s games"
+  },
+  {
+   "floor": "4F",
+   "ko": "키즈·온라인 카드게임(사테라이트 기기)과 드라이브·건슈팅 게임",
+   "en": "Kids and online card games on satellite cabinets, plus driving and gun-shooting games"
+  }
+ ],
+ "location": {
+  "lat": 35.699046,
+  "lng": 139.770838
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-10-5 廣瀬本社ビル 1F〜4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "None (open year-round)"
+  },
+  "note": {
+   "ko": "층별 영업시간 차이는 공지되지 않음. 일본어 공식 페이지는 23:30 마감이지만 영어 페이지에는 23:45로 남아 있으므로 마감 직전 방문은 여유를 둘 것",
+   "en": "No per-floor differences are announced. The Japanese official page says 23:30 while the English page still shows 23:45, so do not count on the last 15 minutes."
+  },
+  "source_url": "https://www.taito.co.jp/store/00001703"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 건너 서쪽 보도를 따라 북쪽으로 도보 2분, 주황색 대형 'Hey' 간판이 붙은 건물. 지하는 멜론북스 1호점이다. 1F 크레인게임 층으로 들어가 계단이나 엘리베이터로 2~4F로 올라간다.",
+  "en": "Two minutes from the JR Akihabara Denkigai Exit: cross Chuo-dori and walk north along the west sidewalk to the building with the huge orange 'Hey' sign (Melonbooks 1st Store is in its basement). Enter on the 1F crane-game floor and take the stairs or the elevator up to 2F-4F."
+ },
+ "tips": {
+  "ko": [
+   "캐시리스 결제 대응 매장이지만 2~3F 비디오게임은 100엔 동전 투입식 캐비닛이 많으니 동전을 준비할 것",
+   "2F 슈팅 코너의 기기 배치는 자주 바뀌며 공식 X(@Taito_Hey)가 배치·정비 상황을 공지한다",
+   "2~4F 일부 기기는 타이토 공식 생방송용 배신대라 플레이 화면이 유튜브·니코니코로 송출된다",
+   "2026년 8월 8일 바로 옆 건물(外神田1-11-12 廣瀬本社ビル2号館) 1F에 크레인게임 전문 2호점 'Hey2'가 문을 열었다(10:00~23:30)"
+  ],
+  "en": [
+   "The store takes cashless payment, but many 2F-3F video cabinets are 100-yen coin-only, so carry coins",
+   "The 2F shmup corner's cabinet layout changes often; the official X account (@Taito_Hey) posts the changes",
+   "Some cabinets on 2F-4F are Taito's live-stream units, so your play is broadcast on YouTube and Niconico",
+   "Hey2, a crane-game-only second store, opened 2026-08-08 next door at 1-11-12 Sotokanda, Hirose HQ Bldg No.2 1F (10:00-23:30)"
+  ]
+ },
+ "official_url": "https://www.taito.co.jp/store/00001703",
+ "sns": {
+  "x": "https://x.com/Taito_Hey"
+ },
+ "chain": "taito",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.taito.co.jp/store/00001703",
+  "https://www.taito.co.jp/en/store/00001703",
+  "https://www.taito.co.jp/store/topics/00001703/659/4",
+  "https://www.taito.co.jp/store/topics/00001703/8506/43",
+  "https://www.taito.co.jp/store/topics/00001703/8517/53",
+  "https://prtimes.jp/main/html/rd/p/000000812.000041970.html",
+  "https://ja.wikipedia.org/wiki/%E5%BB%A3%E7%80%AC%E7%84%A1%E7%B7%9A%E9%9B%BB%E6%A9%9F",
+  "https://igcc.jp/hey/",
+  "https://igcc.jp/heybiyori-06/",
+  "https://igcc.jp/heybiyori-11/",
+  "https://blog.mdnomad.com/2026/09/02/akihabara-hey-stg-20260902/"
+ ],
+ "osm_id": "node/1915268184",
+ "photo": {
+  "url": "/photos/hey-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "user:妖精書士 · CC0 · Wikimedia Commons",
+  "license": "CC0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Hirose_musen_BLDG.jpg",
+  "taken_on": "2008"
+ }
+}

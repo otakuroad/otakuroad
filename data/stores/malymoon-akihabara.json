@@ -1,0 +1,113 @@
+{
+ "id": "malymoon-akihabara",
+ "name": {
+  "ko": "마리문 아키하바라점",
+  "en": "Malymoon Akihabara",
+  "ja": "Malymoon秋葉原店"
+ },
+ "synonyms": [
+  "마리문",
+  "말리문",
+  "마리문 아키하바라",
+  "마리무운 아키하바라점",
+  "Malymoon",
+  "Malymoon Akiba",
+  "Malymoon Akihabara Store",
+  "マリームーン",
+  "マリームーン秋葉原店",
+  "Malymoon秋葉原店",
+  "AKIBA-BASE"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "costume",
+  "cosplay",
+  "maid_costume",
+  "bunny",
+  "school_uniform",
+  "fitting_room",
+  "new"
+ ],
+ "one_line": {
+  "ko": "메이드·바니·간호사·교복 등 코스튬 브랜드 마리문의 3층짜리 직영점, 피팅룸 있음",
+  "en": "Malymoon costume shop, three floors: maid, bunny, nurse and school wear, fitting rooms"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700222,
+  "lng": 139.772031
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-3-11 AKIBA-BASE 1F・2F・3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 개점 공지와 매장 목록 모두 11:00-20:00만 표기하고 정기휴무일은 밝히지 않는다.",
+   "en": "The official opening announcement and shop list both give 11:00-20:00 and state no regular holiday."
+  },
+  "source_url": "https://www.malymoon-costume.com/view/news/20241002195233"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 3분. 돈키호테 아키하바라점 남쪽, 주오도리에서 동쪽으로 한 블록 들어간 뒷길에 있는 3층짜리 단독 건물 AKIBA-BASE 전체가 매장이다.",
+  "en": "Three minutes north of JR Akihabara's Electric Town Exit along Chuo-dori. AKIBA-BASE is a small three-storey building on the back street one block east of Chuo-dori, south of Don Quijote Akihabara; the whole building is the shop."
+ },
+ "tips": {
+  "ko": [
+   "매장 안에 피팅룸이 있어 사이즈를 확인하고 고를 수 있다고 공식 공지에 적혀 있다.",
+   "온라인 판매 중심 코스튬 브랜드가 2024년 10월 처음 낸 실매장이다.",
+   "캐릭터를 재현하는 코스프레 의상보다 메이드·바니·간호사 같은 브랜드 오리지널 코스튬이 중심이다."
+  ],
+  "en": [
+   "The official announcement says there are fitting rooms so you can check the size before buying.",
+   "This is the first physical store of an online-first costume brand, opened in October 2024.",
+   "Stock is the brand's own maid, bunny and nurse costumes rather than screen-accurate character cosplay."
+  ]
+ },
+ "official_url": "https://malymoon-costume.com/",
+ "sns": {
+  "x": "https://x.com/malymoon__akiba",
+  "instagram": "https://www.instagram.com/malymoon__akiba/"
+ },
+ "chain": "malymoon",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://malymoon-costume.com/",
+  "https://www.malymoon-costume.com/view/news/20241002195233",
+  "https://malymoon-costume.com/view/page/shoplist"
+ ],
+ "osm_id": "node/12535723701"
+}

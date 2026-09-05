@@ -1,0 +1,128 @@
+{
+ "id": "otachu-akihabara-1",
+ "name": {
+  "ko": "오타츄 아키하바라 1호점 완구관",
+  "en": "Otachu Akihabara No.1 Toy Store",
+  "ja": "おたちゅう。秋葉原1号店 おもちゃ館"
+ },
+ "synonyms": [
+  "오타츄",
+  "오타추",
+  "오타츄 아키하바라 1호점",
+  "오타츄 1호점",
+  "오타츄 오모차관",
+  "오타츄 아키하바라점",
+  "Otachu",
+  "Otachu Akihabara",
+  "Otachu Akihabara 1st Store",
+  "Otachu Omocha-kan",
+  "Ota-chu",
+  "おたちゅう",
+  "おたちゅう。",
+  "おたちゅう。秋葉原1号店",
+  "【アニメフィギュア専門店】おたちゅう。秋葉原1号店",
+  "おたちゅう。秋葉原店",
+  "おたちゅう おもちゃ館"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "scale_figure",
+  "prize_figure",
+  "ichiban_kuji",
+  "nendoroid",
+  "toy",
+  "anime_goods",
+  "used",
+  "new",
+  "buyback",
+  "cards_ok"
+ ],
+ "one_line": {
+  "ko": "1·2층 신품·중고 애니 피규어와 프라이즈·이치반쿠지 경품, 굿즈 매입 카운터",
+  "en": "New and used anime figures, prize and Ichiban Kuji items on 1F-2F, plus a buyback counter"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700457,
+  "lng": 139.770355
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-9 大矢ビル1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수는 19:30에 마감되며 19:00 이후에는 1회 10점까지만 받는다. 임시 휴업·시간 변경은 공식 사이트 공지와 X(@otachu_akiba)에 올라온다.",
+   "en": "The buyback desk closes at 19:30 and takes at most 10 items per visit after 19:00. Temporary closures and changed hours are posted on the official site and on X (@otachu_akiba)."
+  },
+  "source_url": "https://otachu-akiba.com/1go/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 4분. 주오도리 서쪽 뒷골목, 만다라케 컴플렉스와 같은 블록에 있는 4층짜리 오야(大矢) 빌딩이다. 1층이 그대로 매장 입구이고 계단으로 2층까지 이어진다.",
+  "en": "Four minutes from the JR Akihabara Electric Town Exit, on the back street west of Chuo-dori in the same block as Mandarake Complex. The shop is the four-storey Oya Building: the ground floor is the shopfront, with stairs up to 2F."
+ },
+ "tips": {
+  "ko": [
+   "매입은 19:30 접수 마감. 19:00 이후에는 1회 10점까지만 받으므로 팔 물건이 많으면 낮에 가는 편이 좋다.",
+   "신용카드(VISA·Master·JCB·AMEX·다이너스·디스커버·유니온페이), 교통계 IC(Suica·PASMO), iD·QUICPay·Edy·nanaco·WAON, PayPay·Alipay 결제가 가능하다.",
+   "면세 안내는 공식 사이트에 없으므로 여권 면세는 카운터에서 확인.",
+   "프라이즈·이치반쿠지 경품 피규어 비중이 높아 저가 중고 피규어를 찾는 사람에게 맞는다. 같은 체인의 2호점(트레카)·5호점(카드)은 도보 5분 거리다."
+  ],
+  "en": [
+   "Buyback intake ends at 19:30, and after 19:00 they take only 10 items per visit, so come earlier if you are selling a lot.",
+   "Credit cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), transit IC cards (Suica, PASMO), iD, QUICPay, Edy, nanaco, WAON and PayPay/Alipay are accepted.",
+   "Tax-free is not mentioned on the official site, so ask at the counter if you want a passport refund.",
+   "Much of the stock is prize and Ichiban Kuji figures, which suits cheap used-figure hunting. The chain's No.2 (cards) and No.5 (cards) branches are about five minutes away on foot."
+  ]
+ },
+ "official_url": "https://otachu-akiba.com/1go/",
+ "sns": {
+  "x": "https://x.com/otachu_akiba",
+  "instagram": "https://www.instagram.com/otachiyuu/"
+ },
+ "chain": "otachu",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://otachu-akiba.com/1go/",
+  "https://otachu-akiba.com/1go/access/",
+  "https://otachu-akiba.com/1go/payment/",
+  "https://otachu-akiba.com/",
+  "https://otachu.jp/shop/akihabara1/",
+  "https://x.com/otachu_akiba",
+  "https://www.instagram.com/otachiyuu/"
+ ],
+ "osm_id": "node/6151393489"
+}

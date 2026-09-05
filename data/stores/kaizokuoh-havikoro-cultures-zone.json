@@ -1,0 +1,111 @@
+{
+ "id": "kaizokuoh-havikoro-cultures-zone",
+ "name": {
+  "ko": "카드숍 카이조쿠오 / 하비코로 완구 컬처즈점",
+  "en": "Card Shop Kaizokuoh / Havikoro Toy Cultures Store",
+  "ja": "カードショップ 買賊王／ハビコロ玩具 カルチャーズ店"
+ },
+ "synonyms": [
+  "카이조쿠오",
+  "카드숍 카이조쿠오",
+  "하비코로 완구 컬처즈점",
+  "하비코로 컬처즈점",
+  "Kaizokuoh",
+  "Card Shop Kaizokuoh",
+  "Havikoro Toy Cultures",
+  "買賊王",
+  "カードショップ買賊王",
+  "ハビコロ玩具 カルチャーズ店",
+  "ハビコロ玩具"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "trading_card",
+  "singles",
+  "yugioh",
+  "pokemon_card",
+  "vanguard",
+  "weiss_schwarz",
+  "duel_masters",
+  "battle_spirits",
+  "sleeve",
+  "playmat",
+  "buyback",
+  "figure"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬 등 트레카 싱글과 슬리브·플레이매트, 카드 매입 카운터",
+  "en": "TCG singles (Yu-Gi-Oh!, Pokemon and more), sleeves, playmats and a card buyback counter"
+ },
+ "building_id": "akiba-cultures-zone",
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE 3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물 전체 안내는 11:00~21:00이지만 3층 점포는 20:30 마감.",
+   "en": "The building lists 11:00-21:00, but the 3F shops close at 20:30."
+  },
+  "source_url": "https://www.akibacultureszone.com/shop/34"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "1층 라신방 입구로 들어가 3층으로 올라가면 하비코로 완구 계열 매장 세 곳과 철도모형점 스케루톤이 한 층에 모여 있고, 그중 카드 케이스가 늘어선 카운터가 이 매장이다.",
+  "en": "Go up to 3F from the 1F Lashinbang entrance: the floor holds three Havikoro Toy shops plus the model-train shop Skeleton, and this one is the counter lined with card cases."
+ },
+ "tips": {
+  "ko": [
+   "취급 타이틀은 유희왕·뱅가드·바이스슈발츠·배틀스피리츠·듀얼마스터즈·포켓몬 카드 등이며 슬리브·플레이매트 등 서플라이도 함께 판다.",
+   "같은 카운터에서 하비코로 완구의 캐릭터 굿즈·피규어 판매와 매입도 함께 취급한다."
+  ],
+  "en": [
+   "Titles handled include Yu-Gi-Oh!, Vanguard, Weiss Schwarz, Battle Spirits, Duel Masters and Pokemon cards, alongside supplies such as sleeves and playmats.",
+   "The same counter also sells and buys Havikoro Toy's character goods and figures."
+  ]
+ },
+ "official_url": "https://www.rakuten.ne.jp/gold/havikorotoy/",
+ "sns": {
+  "x": "https://x.com/kaizoku_card"
+ },
+ "chain": "havikoro",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.akibacultureszone.com/shop/34",
+  "https://www.akibacultureszone.com/shop/",
+  "https://www.rakuten.ne.jp/gold/havikorotoy/",
+  "https://ec.havikorotoy.com/"
+ ],
+ "osm_id": "node/11194022428"
+}

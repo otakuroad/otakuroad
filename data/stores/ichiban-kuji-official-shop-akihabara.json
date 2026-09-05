@@ -1,0 +1,108 @@
+{
+ "id": "ichiban-kuji-official-shop-akihabara",
+ "name": {
+  "ko": "이치반쿠지 공식숍 아키하바라점",
+  "en": "Ichiban Kuji Official Shop Akihabara",
+  "ja": "一番くじ公式ショップ 秋葉原店"
+ },
+ "synonyms": [
+  "이치반쿠지 공식숍",
+  "이치반쿠지",
+  "이치방쿠지",
+  "일번제비",
+  "반다이 이치반쿠지 숍",
+  "이치반쿠지 아키하바라",
+  "Ichiban Kuji Official Shop",
+  "Ichibankuji Akihabara",
+  "Ichiban Kuji Akiba",
+  "一番くじ公式ショップ",
+  "一番くじ公式ショップ秋葉原店",
+  "一番くじ",
+  "イチバンクジ"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "ichiban_kuji",
+  "kuji",
+  "prize_figure",
+  "character_goods",
+  "new",
+  "bandai_namco"
+ ],
+ "one_line": {
+  "ko": "반다이 이치반쿠지를 상시 뽑는 공식숍. 경품은 피규어·인형·캐릭터 굿즈",
+  "en": "Official Ichiban Kuji outlet: pay per draw for figure and character-goods prizes"
+ },
+ "building_id": "ichigo-akihabara-ekimae-building",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-9 いちご秋葉原駅前ビル1F（namco秋葉原店内）",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "같은 건물의 namco 오락실은 23:00까지 열지만 이치반쿠지 공식숍은 21:00에 닫는다. 공식 페이지에도 '최신 영업시간은 뉴스에서 확인'이라는 단서가 붙어 있다.",
+   "en": "The namco arcade in the same building runs until 23:00, but the Ichiban Kuji shop closes at 21:00. The official page adds that the latest hours are announced in its news feed."
+  },
+  "source_url": "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 옛 세가 아키하바라 4호관(현 namco 아키하바라점) 건물 1층이며, 오락실 1층 안쪽에 이치반쿠지 전용 코너가 있다.",
+  "en": "One minute from the JR Akihabara Electric Town Exit, on the 1F of the former Sega Akihabara 4-gokan building, now namco Akihabara; the Ichiban Kuji counter sits inside the ground-floor arcade."
+ },
+ "tips": {
+  "ko": [
+   "뽑기 1회 요금을 내고 그 자리에서 경품을 받는 방식이라, 재고가 남아 있는 타이틀만 뽑을 수 있다. 진행 중인 타이틀과 재고는 공식 사이트의 재고 정보 페이지에서 확인한다.",
+   "전국 60개 이상 매장 중 한 곳이라 한정 경품이 아키하바라 단독인 경우는 드물다."
+  ],
+  "en": [
+   "You pay per draw and get the prize on the spot, so only titles still in stock can be drawn; the official site has a stock-information page listing current titles.",
+   "It is one of 60-plus branches nationwide, so Akihabara-exclusive prizes are rare."
+  ]
+ },
+ "official_url": "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/akihabara/",
+ "sns": {},
+ "chain": "ichiban-kuji",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/akihabara/",
+  "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/",
+  "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/",
+  "https://1kuji.com/"
+ ],
+ "osm_id": "node/12131327476"
+}

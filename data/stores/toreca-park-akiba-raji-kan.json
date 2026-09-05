@@ -1,0 +1,109 @@
+{
+ "id": "toreca-park-akiba-raji-kan",
+ "name": {
+  "ko": "후루이치 트레카파크 AKIBA 라지관점",
+  "en": "Furuichi Toreca Park AKIBA Radio Kaikan",
+  "ja": "ふるいちトレカパークAKIBAラジ館店"
+ },
+ "synonyms": [
+  "트레카파크",
+  "트레카 파크",
+  "후루이치 트레카파크",
+  "트레카파크 라지관점",
+  "트레카파크 AKIBA",
+  "Toreca Park",
+  "Treca Park",
+  "Toreca Park AKIBA",
+  "トレカパーク",
+  "トレカパークAKIBAラジ館店",
+  "ふるいち",
+  "ふるいちトレカパーク",
+  "古本市場"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "singles",
+  "sealed",
+  "supplies",
+  "duel_space",
+  "used",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "신품·중고 트레카 싱글과 서플라이, 무료 듀얼 스페이스가 있는 카드 전문점",
+  "en": "New and used TCG singles and supplies, with a free duel space for players"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라디오회관 개관 시간과 같은 10:00~20:00. 임시 영업시간 변경은 라디오회관 공지에 '7F トレカパークAKIBAラジ館店'로 게시된다.",
+   "en": "Same 10:00-20:00 as the building itself. Temporary hour changes are posted on the Radio Kaikan site as '7F トレカパークAKIBAラジ館店' notices."
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/treca-park/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 7층. 아존 레이블숍 아키하바라와 DOLK 같은 돌 매장, 중고 피규어점 정글 아키하바라 2호점이 같은 층에 있고, 카드 쇼케이스와 듀얼용 테이블이 놓인 구역이 이 매장이다.",
+  "en": "Radio Kaikan 7F. The doll shops Azone Label Shop and DOLK and the used-figure shop Jungle Akihabara No.2 share the floor; this shop is the area with card cases and duelling tables."
+ },
+ "tips": {
+  "ko": [
+   "매장 안에 누구나 무료로 쓸 수 있는 듀얼 스페이스가 있어 산 카드를 바로 플레이해 볼 수 있다.",
+   "운영사는 중고서점 체인 ふるいち(고본시장)를 운영하는 테이츠로, 신품 팩과 중고 싱글을 함께 취급한다.",
+   "라디오회관 안에 카드 매장이 여러 곳(1F 福福トレカ·2F 買賊王·9F 카드라보·BIG MAGIC)이므로 시세를 비교하고 사기 좋다.",
+   "OSM 등 지도 서비스에는 'トレカパック'으로 잘못 적힌 곳이 있으나 같은 매장이다."
+  ],
+  "en": [
+   "A free in-store duel space is open to anyone, so you can play the cards you just bought.",
+   "It is run by Teitsu, the company behind the Furuichi used-book chain, and stocks new sealed product alongside used singles.",
+   "Radio Kaikan holds several card shops (Fukufuku Toreka 1F, Kaizokuoh 2F, Card Labo and BIG MAGIC 9F), so prices are easy to compare.",
+   "Some map data lists it as 'トレカパック'; that is a mis-transcription of this same shop."
+  ]
+ },
+ "official_url": "http://www.furu1.net/shop/_1106/_1908.html",
+ "sns": {},
+ "chain": "toreca-park",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/treca-park/",
+  "http://www.furu1.net/shop/_1106/_1908.html",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/"
+ ],
+ "osm_id": "node/10136702417"
+}

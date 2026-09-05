@@ -1,0 +1,104 @@
+{
+ "id": "kenele-stand-akihabara",
+ "name": {
+  "ko": "켄에레스탠드 아키하바라점",
+  "en": "KENELE STAND Akihabara",
+  "ja": "ケンエレスタンド 秋葉原店"
+ },
+ "synonyms": [
+  "켄에레스탠드",
+  "켄에레스탠드 아키하바라역점",
+  "켄엘레펀트",
+  "케넬레판트",
+  "KENELE STAND",
+  "Kenele Stand Akihabara",
+  "Kenelephant",
+  "ケンエレスタンド",
+  "ケンエレスタンド秋葉原駅店",
+  "ケンエレファント",
+  "けんえれすたんど"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gacha",
+  "capsule_toy",
+  "miniature",
+  "new",
+  "kenelephant",
+  "in_station"
+ ],
+ "one_line": {
+  "ko": "JR 아키하바라역 개찰 안 3층, 어른 컬렉터용 미니어처 캡슐토이 전문점",
+  "en": "Capsule-toy shop on 3F inside the JR Akihabara ticket gates; collector miniatures"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698563,
+  "lng": 139.773591
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-17-6 JR秋葉原駅3階 改札内総武線6番線ホーム裏コンコース",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 점포 목록 기준 10:00~21:00. 역 개찰 안 매장이라 역 운영 상황에 따라 달라질 수 있다.",
+   "en": "10:00-21:00 per the official shop list. It sits inside the ticket gates, so station operations can affect access."
+  },
+  "source_url": "https://kenelephant.co.jp/kenelestand/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 개찰 안, 소부선(3층) 6번 홈 뒤 콘코스. 좌표는 역 건물 기준이며 역 밖에서는 들어갈 수 없다.",
+  "en": "Inside the JR Akihabara ticket gates on the 3F Sobu Line concourse behind platform 6. The pin marks the station building; you cannot reach it from the street."
+ },
+ "tips": {
+  "ko": [
+   "개찰 안 매장이라 승차권이나 IC카드로 개찰을 통과해야 이용할 수 있다. 아키하바라 상가만 둘러볼 계획이라면 들어갈 수 없다.",
+   "캐릭터 굿즈보다 1/12 스케일 미니어처처럼 어른 수집가를 겨냥한 켄엘레펀트 자사 캡슐토이가 중심이며 신작이 매달 들어온다."
+  ],
+  "en": [
+   "It is inside the gates, so you need a ticket or IC card to reach it - not accessible on a shopping-only trip.",
+   "Stock is Kenelephant's own adult-collector capsule toys, such as 1/12-scale miniatures, rather than anime character goods, with new series monthly."
+  ]
+ },
+ "official_url": "https://kenelephant.co.jp/kenelestand/",
+ "sns": {},
+ "chain": "kenelephant",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://kenelephant.co.jp/kenelestand/",
+  "https://kenelephant.co.jp/"
+ ],
+ "osm_id": "way/89028752"
+}

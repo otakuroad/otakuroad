@@ -1,0 +1,112 @@
+{
+ "id": "rabbit-castle-akihabara",
+ "name": {
+  "ko": "래빗 캐슬",
+  "en": "Rabbit Castle",
+  "ja": "Rabbit Castle（ラビットキャッスル）"
+ },
+ "synonyms": [
+  "래빗캐슬",
+  "라빗 캐슬",
+  "메이드카페 래빗 캐슬",
+  "Rabbit Castle Akihabara",
+  "rabbitcastle",
+  "ラビットキャッスル",
+  "メイドカフェ Rabbit Castle",
+  "ラビキャス"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cheki",
+  "fashion_brand"
+ ],
+ "one_line": {
+  "ko": "패션 디자이너 캐롤라인짱이 프로듀스한 메이드카페. 식사·음료와 체키 촬영",
+  "en": "Maid cafe produced by fashion designer Caroline-chan: food, drinks and cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "8F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701022,
+  "lng": 139.772106
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-4-8 A-FRONT 8F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 15:00~23:00. 정기휴일 안내는 공식 사이트에 없다.",
+   "en": "17:00-23:00 on weekdays and 15:00-23:00 at weekends and public holidays, per the official site; no regular closing day is stated."
+  },
+  "source_url": "https://akiba-maidcafe.co.jp/rabbit-castle/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 3분. 돈키호테 아키하바라점 뒤편(동쪽) 골목에 있는 A-FRONT 빌딩 8층이며, 1층은 대만 음료점 CoCo都可, 옆 건물은 중고 PC점 잔파라다. 4~6층에도 다른 회사의 콘셉트 카페가 들어와 있으니 엘리베이터에서 층 표시를 확인한다.",
+  "en": "Three minutes from JR Akihabara, on the back street behind (east of) Don Quijote Akihabara. A-FRONT has the CoCo Tokka bubble-tea stand at street level and the used-PC shop Janpara next door; take the lift to 8F, and check the floor sign because other operators' concept cafes fill 4F-6F."
+ },
+ "tips": {
+  "ko": [
+   "평일 17:00, 토·일·공휴일 15:00 개점이라 낮에는 문을 열지 않는다.",
+   "공식 사이트가 밝힌 예산대는 1인 1,000~3,000엔이며, 요금표와 시스템은 이미지로만 게시되어 있다.",
+   "결제 수단 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다.",
+   "같은 건물 10층의 '스위트 캣'이 같은 운영사(주식회사 YUKIMI)의 자매점이고 영업시간도 같다."
+  ],
+  "en": [
+   "Opens at 17:00 on weekdays and 15:00 at weekends and holidays, so it is shut during the day.",
+   "The official site gives a budget of 1,000-3,000 yen per person; the price list and system are posted only as images.",
+   "No payment methods are stated officially, so bring cash to be safe.",
+   "Sweet Cat on 10F of the same building is a sister shop under the same operator (YUKIMI Inc.) and keeps the same hours."
+  ]
+ },
+ "official_url": "https://akiba-maidcafe.co.jp/rabbit-castle/",
+ "sns": {
+  "x": "https://x.com/rabbitcastle_"
+ },
+ "chain": "yukimi",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-maidcafe.co.jp/rabbit-castle/",
+  "https://akiba-maidcafe.co.jp/",
+  "https://akiba-maidcafe.co.jp/en/"
+ ],
+ "osm_id": "way/89182765"
+}

@@ -1,0 +1,134 @@
+{
+ "id": "surugaya-akihabara-game-kan",
+ "name": {
+  "ko": "스루가야 아키하바라 게임관",
+  "en": "Surugaya Akihabara Game Store",
+  "ja": "駿河屋 秋葉原ゲーム館"
+ },
+ "synonyms": [
+  "스루가야 게임관",
+  "스루가야 아키바 게임관",
+  "슈루가야 게임관",
+  "駿河屋秋葉原ゲーム館",
+  "駿河屋 ゲーム館",
+  "Surugaya Akihabara Game Kan",
+  "Suruga-ya Akihabara Game Store",
+  "Surugaya Game Kan",
+  "Suruga-ya"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "new",
+  "current_gen_game",
+  "arcade_pcb",
+  "retro_pc_game",
+  "strategy_guide",
+  "game_magazine",
+  "game_cd",
+  "amiibo",
+  "game_figure",
+  "buyback",
+  "free_wifi"
+ ],
+ "one_line": {
+  "ko": "레트로·현행 게임 소프트와 아케이드 기판, 공략본·게임 잡지를 파는 신·중고 게임 매장",
+  "en": "Used and new retro and current-gen games, arcade PCBs, strategy guides and magazines."
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701864,
+  "lng": 139.771116
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-15-4 2階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open every day"
+  },
+  "note": {
+   "ko": "2026-09-25(금) 재오픈 전까지는 영업하지 않는다. 이 시간표와 연중무휴는 공식 점포 목록·2026-08-17 이전 공지에 실린 게임관 표기(구 점포 기준)로, 새 자리에서 바뀔 수 있다. 같은 자리를 쓰던 트레카·보드게임관은 월~목 11:00~21:00, 금·토·일·공휴일 9:00~21:00였다.",
+   "en": "The shop is closed until it reopens on Friday 2026-09-25. These hours and the open-every-day line are the ones the official store list and the 2026-08-17 relocation notice give for the Game Store at its former address, and may change at the new site; the trading-card store that held this floor ran 11:00-21:00 Mon-Thu and 9:00-21:00 Fri-Sun and holidays."
+  },
+  "source_url": "https://www.suruga-ya.jp/feature/shoplist/tokyo.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "relocating",
+  "note": {
+   "ko": "구 점포(外神田3-9-8 東洋ビル 1F)는 2026-08-30 영업 종료. 같은 날 문을 닫은 스루가야 트레카·보드게임관 자리(外神田3-15-4 2階)로 옮겨 매장을 넓혀 2026-09-25(금) 재오픈하며, 그 사이에는 영업하지 않는다.",
+   "en": "The old shop at Sotokanda 3-9-8, Toyo Building 1F closed on 2026-08-30. It reopens on Friday 2026-09-25 in a larger space at Sotokanda 3-15-4 2F, the floor left by the Surugaya trading-card and board-game store that closed the same day; nothing is open in between."
+  },
+  "effective_date": "2026-09-25"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m 내려가 오른쪽(서쪽) 첫 일방통행 골목으로 들어간다. 왼편 가챠폰 회관을 지나 바로 서쪽에 붙은 9층 건물 '르 프라토 교와(ル・プラトー協和)'이며, 1층이 스루가야 아키하바라 매입센터라 파란 駿河屋 간판이 길에서 보인다. 매장은 그 위 2층으로 한 층 올라간다.",
+  "en": "From Ginza-line Suehirocho exit 3, walk about 90 m south along the west sidewalk of Chuo-dori and turn right into the first one-way side street. Pass Gachapon Kaikan on the left; the shop is in the next building west, the nine-story Le Plateau Kyowa (ル・プラトー協和). Its ground floor is the Surugaya Akihabara Buyback Center, so a blue 駿河屋 sign shows from the street; the shop is one flight up on 2F."
+ },
+ "tips": {
+  "ko": [
+   "2026-09-25(금) 재오픈이라 그 전에 찾아가면 문이 닫혀 있다. 구 점포(外神田3-9-8 東洋ビル 1F)도 8/30로 영업을 끝냈다.",
+   "재오픈부터 게임 CD, 게임 관련 서적, amiibo 카드, 게임계 피규어·인형이 취급 품목에 추가된다.",
+   "트레카는 이 자리가 아니라 스루가야 본관에서 찾는다. 옛 트레카·보드게임관 기능을 옮겨받는 본관 1층 트레카 전문층은 2026-09-14 오픈이고, 그 직전 09-07~09-13에는 본관 1층만 개장 공사로 닫는다.",
+   "레트로 PC 게임은 취급하지만 Windows용 PC 게임은 다루지 않는다. 이 지점 매입은 게임 소프트·레트로 PC 게임·아케이드 기판·게임 잡지·공략본까지이고, 다른 장르는 같은 건물 1층 스루가야 아키하바라 매입센터(전 장르, 10:00~21:00)에 맡기면 된다. 매입에는 회원증과 매회 신분증이 필요하다."
+  ],
+  "en": [
+   "The shop reopens on Friday 2026-09-25; before that the door is shut, and the old site at Sotokanda 3-9-8, Toyo Building 1F closed on 30 August.",
+   "From the reopening the range adds game CDs, game-related books, amiibo cards and game figures and plush.",
+   "For trading cards go to Surugaya's Main Store instead: the 1F card floor that takes over the closed card and board-game shop opens on 2026-09-14, and the Main Store's 1F is shut for the work from 09-07 to 09-13.",
+   "Retro PC games are handled but Windows PC games are not. Buyback here covers game software, retro PC games, arcade PCBs, game magazines and strategy guides; other genres go to the Surugaya Akihabara Buyback Center on the ground floor of the same building (all genres, 10:00-21:00). Selling needs a member card and photo ID every time."
+  ]
+ },
+ "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_game/index.html",
+ "sns": {},
+ "chain": "surugaya",
+ "priority": 2,
+ "confidence": "medium",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.suruga-ya.co.jp/ja/node/2478",
+  "https://www.suruga-ya.jp/feature/shoplist/tokyo.html",
+  "https://web.archive.org/web/20260304022416/https://www.suruga-ya.jp/feature/shoplist/tokyo.html",
+  "https://web.archive.org/web/20260224141358/https://www.suruga-ya.jp/feature/realstore/akihabara_game/index.html",
+  "https://web.archive.org/web/20260531142701/https://www.suruga-ya.jp/feature/realstore/akihabara_tb/index.html",
+  "https://web.archive.org/web/20250831230359/https://www.suruga-ya.jp/feature/shoplist_ad/index.html",
+  "https://www.openstreetmap.org/node/5052550370",
+  "https://www.openstreetmap.org/node/5052562705",
+  "https://www.openstreetmap.org/way/89002326",
+  "https://www.openstreetmap.org/way/41519033"
+ ],
+ "osm_id": "node/5052550370"
+}

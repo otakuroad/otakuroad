@@ -1,0 +1,114 @@
+{
+ "id": "dolly-teria-akihabara-radio-kaikan",
+ "name": {
+  "ko": "도리테리아 아키하바라 라디오회관점",
+  "en": "Dolly Teria Akihabara Radio Kaikan",
+  "ja": "ドーリーテリア秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "도리테리아",
+  "돌리테리아",
+  "도리테리아 라디오회관",
+  "도리테리아 아키하바라",
+  "클로젯차일드",
+  "DollyTeria",
+  "Dolly Teria",
+  "Dollyteria Akihabara",
+  "Closet Child",
+  "ドーリーテリア",
+  "ドーリーテリア秋葉原",
+  "クローゼットチャイルド"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "doll",
+  "used",
+  "buyback",
+  "blythe",
+  "licca",
+  "jenny",
+  "super_dollfie",
+  "dollfie_dream",
+  "momoko",
+  "pullip",
+  "doll_clothes"
+ ],
+ "one_line": {
+  "ko": "블라이스·리카짱·슈퍼돌피 등 중고 패션돌과 돌 의상·소품 판매·매입",
+  "en": "Used fashion dolls - Blythe, Licca, Super Dollfie, Pullip - bought and sold, plus outfits"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수는 19:00까지. 라디오회관 매장 소개 페이지에는 10:00 개점으로 적혀 있지만 운영사 공식 점포 페이지 기준은 11:00이다",
+   "en": "Buyback closes at 19:00. The Radio Kaikan shop page still lists a 10:00 opening, but the operator's own store page says 11:00"
+  },
+  "source_url": "https://www.dollyteria.info/shop"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 5F, 라신방·우추센·카이요도 호비로비와 같은 층에 있는 중고 돌 전문 매장. 엘리베이터에서 내려 쇼케이스에 돌이 늘어선 코너를 찾으면 된다.",
+  "en": "On 5F of Radio Kaikan, sharing the floor with Lashinbang, UCHUSEN and Kaiyodo Hobby Lobby; look for the corner with doll-filled showcases as you leave the elevator."
+ },
+ "tips": {
+  "ko": [
+   "매입 접수는 19:00에 마감되어 영업시간보다 1시간 짧다. 팔러 간다면 저녁 늦게 가지 말 것.",
+   "중고 의류 체인 클로젯차일드가 운영하며, 간다스다초의 Doll Up! 아키하바라점을 비롯해 도쿄에 여러 점포가 있다.",
+   "돌 본체뿐 아니라 딜러 제작 아웃핏과 소품도 매입·판매한다. 전화로는 매입 가격을 알려주지 않는다."
+  ],
+  "en": [
+   "The buyback desk shuts at 19:00, an hour before the shop, so do not turn up late to sell.",
+   "It is run by the used-clothing chain Closet Child and has several Tokyo branches, including Doll Up! Akihabara in Kanda-Sudacho.",
+   "Dealer-made outfits and accessories are bought and sold as well as the dolls; buyback prices are not quoted over the phone."
+  ]
+ },
+ "official_url": "https://www.dollyteria.com/",
+ "sns": {
+  "x": "https://x.com/DollyteriaA"
+ },
+ "chain": "dollyteria",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.dollyteria.info/shop",
+  "https://www.dollyteria.com/",
+  "https://www.dollyteria.info/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/dolly-teria/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+ ],
+ "osm_id": null
+}

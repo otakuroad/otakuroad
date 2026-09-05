@@ -1,0 +1,94 @@
+{
+ "id": "flat-kobo-akihabara",
+ "name": {
+  "ko": "flat-공방 아키하바라점",
+  "en": "flat-Kobo Akihabara",
+  "ja": "flat-工房 秋葉原店"
+ },
+ "synonyms": [
+  "플랫공방",
+  "플랫 공방",
+  "flat공방",
+  "flat 공방 아키하바라",
+  "플랫코보",
+  "flat-工房",
+  "flat工房",
+  "flat-工房秋葉原店",
+  "フラットコウボウ",
+  "flat Kobo",
+  "flat kobo Akihabara",
+  "flatkobo"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "duel_masters",
+  "shadowverse_evolve",
+  "xross_stars",
+  "hololive_ocg",
+  "singles",
+  "oripa",
+  "sealed",
+  "buyback",
+  "duel_space",
+  "tournament",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "듀얼마스터즈 중심 싱글·오리파 판매와 매입, 32석 플레이 스페이스가 있는 6층 매장",
+  "en": "Duel Masters singles, oripa and buyback on 6F, with a 32-seat play space"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701076,
+  "lng": 139.771278
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-9 第26東ビル6F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리를 따라 남쪽으로 도보 약 3분, 주오도리 서쪽 편 第26東ビル 6층. 같은 건물 5층이 카드숍 magi라 층을 헷갈리기 쉽고, 레트로 게임 캠프(외신다 3-14-7)와 같은 블록이다.",
+  "en": "About three minutes from Suehirocho station exit 3 down Chuo-dori toward Akihabara, on the west side of Chuo-dori in the Dai-26 Higashi Building, 6F. Card Shop magi occupies 5F of the same building, so check the floor; Retro Game Camp is on the same block."
+ },
+ "tips": {
+  "ko": [
+   "취급 타이틀이 듀얼마스터즈·섀도우버스 에볼브·크로스 스타즈·호로라이브 OCG 네 가지뿐이다. 포켓몬·유희왕을 찾는다면 다른 매장으로.",
+   "공식 사이트에는 영업시간 안내가 없다. 秋葉原トレカマップ 기준으로는 12:00-20:00(매입 19:00까지)·무휴이지만, 방문 전 X(@flat_akihabara) 확인 권장.",
+   "플레이 스페이스는 최대 32석. 이용에는 500엔 이상 구매 영수증이 필요하다(자판기 구매는 제외)."
+  ],
+  "en": [
+   "Only four titles are stocked - Duel Masters, Shadowverse EVOLVE, Xross Stars and the hololive OFFICIAL CARD GAME. Go elsewhere for Pokemon or Yu-Gi-Oh.",
+   "The official site publishes no hours. The Akihabara Toreka Map directory lists 12:00-20:00 (buyback to 19:00) with no closing day, so check X (@flat_akihabara) before going.",
+   "The play space seats up to 32; using it requires a receipt for 500 yen or more of in-store purchases (vending-machine oripa excluded)."
+  ]
+ },
+ "official_url": "https://flatkobo.com/business",
+ "sns": {
+  "x": "https://x.com/flat_akihabara"
+ },
+ "chain": "flat-kobo",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://flatkobo.com/business",
+  "https://flatkobo.com/company",
+  "https://flatkobo.com/",
+  "https://akibatoreka.com/introduce/2260"
+ ],
+ "osm_id": "node/11782064315"
+}

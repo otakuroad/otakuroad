@@ -1,0 +1,144 @@
+{
+ "id": "fukufuku-toreca-akihabara",
+ "name": {
+  "ko": "후쿠후쿠 트레카 아키하바라점",
+  "en": "Fukufuku Toreca Akihabara",
+  "ja": "福福トレカ秋葉原店"
+ },
+ "synonyms": [
+  "후쿠후쿠트레카",
+  "후쿠후쿠 트레카",
+  "후쿠후쿠 트레카 기무라빌딩점",
+  "福福トレカ",
+  "福福トレカ秋葉原店",
+  "ふくふくトレカ",
+  "Fukufuku Toreka",
+  "Fukufuku Toreka Akihabara",
+  "Fukufuku Trading Card Akihabara",
+  "fukufukutoreka"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "yugioh",
+  "pokemon_card",
+  "one_piece_card",
+  "duel_masters",
+  "weiss_schwarz",
+  "shadowverse_evolve",
+  "gundam_card",
+  "union_arena",
+  "single_card",
+  "duel_space",
+  "buyback",
+  "tournament"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬·원피스 등 트레카 판매와 매입, 4층에 84석 듀얼 스페이스",
+  "en": "Yu-Gi-Oh!, Pokemon and One Piece cards, buyback, and an 84-seat duel space on 4F"
+ },
+ "building_id": null,
+ "floors": [
+  "2F",
+  "3F",
+  "4F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "2F",
+   "ko": "유희왕·포켓몬 카드게임·원피스 카드게임·듀얼마스터즈",
+   "en": "Yu-Gi-Oh!, Pokemon Card Game, One Piece Card Game and Duel Masters"
+  },
+  {
+   "floor": "3F",
+   "ko": "바이스슈발츠·섀도우버스 에볼브·건담 카드게임·유니온 아리나",
+   "en": "Weiss Schwarz, Shadowverse Evolve, Gundam Card Game and Union Arena"
+  },
+  {
+   "floor": "4F",
+   "ko": "84석 듀얼 스페이스. 대회·이벤트 개최 시에는 그쪽이 우선",
+   "en": "An 84-seat duel space; tournaments and events take priority over free play"
+  }
+ ],
+ "location": {
+  "lat": 35.698899,
+  "lng": 139.77046
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-9-8 木村ビル2F・3F・4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:45"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:45"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 13:00 개점으로 토·일·공휴일(10:00)보다 3시간 늦다. 폐점은 매일 20:45. 일부 안내 사이트에는 평일 11:00 개점으로 적힌 곳이 있으나 공식 표기는 13:00.",
+   "en": "Weekdays open at 13:00, three hours later than the 10:00 weekend and holiday opening; closing is 20:45 every day. Some listing sites still show an 11:00 weekday opening, but the official pages say 13:00."
+  },
+  "source_url": "https://fukufukutoreka.com/description_detail_akihabara"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 한 블록 서쪽 전기가 뒷골목에 있으며, 츠쿠모 PC 본점II 바로 북쪽·코토부키야 아키하바라관에서 남쪽으로 약 35m 지점의 기무라(木村) 빌딩. 매장은 2~4층이므로 건물 안 계단이나 엘리베이터로 올라간다.",
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, on the back street one block west of Chuo-dori. The Kimura Building is just north of TSUKUMO PC Honten II and about 35 m south of Kotobukiya Akihabara. The shop is on 2F-4F, reached by the stairs or lift inside the building."
+ },
+ "tips": {
+  "ko": [
+   "평일은 13:00에 문을 열어 토·일·공휴일(10:00)보다 3시간 늦다. 오전에 평일 방문하면 헛걸음이다.",
+   "2층은 유희왕·포켓몬·원피스·듀얼마스터즈, 3층은 바이스슈발츠·섀도우버스 에볼브·건담·유니온 아리나로 나뉘어 있어 찾는 타이틀에 맞춰 층을 고르면 빠르다.",
+   "4층 84석 듀얼 스페이스는 아키하바라에서도 손꼽히는 규모로, 대회·이벤트가 없는 시간대에는 개방된다.",
+   "매입(買取)도 함께 하며 접수 마감은 폐점보다 이르다. 카드 결제·면세 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "Weekday opening is 13:00, three hours later than the 10:00 weekend and holiday opening, so a weekday morning visit is wasted.",
+   "2F is Yu-Gi-Oh!, Pokemon, One Piece and Duel Masters; 3F is Weiss Schwarz, Shadowverse Evolve, Gundam Card Game and Union Arena, so pick the floor for the title you want.",
+   "The 84-seat duel space on 4F is one of the largest play spaces in Akihabara and is open when no tournament or event is running.",
+   "The shop also buys cards, and the buyback counter stops taking items before closing. Card acceptance and tax-free are not stated officially, so bring cash."
+  ]
+ },
+ "official_url": "https://fukufukutoreka.com/description_detail_akihabara",
+ "sns": {
+  "x": "https://x.com/fukufuku_toreka"
+ },
+ "chain": "fukufuku-toreca",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://fukufukutoreka.com/description_detail_akihabara",
+  "https://fukufukutoreka.com/",
+  "https://fukufuku-toreka.com/shop/",
+  "https://fukufuku-toreka.com/",
+  "https://shadowverse-evolve.com/shops/detail/?id=132",
+  "https://map.pokemon-card.com/map/14190",
+  "https://akihabara-information.com/introduce/1102"
+ ],
+ "osm_id": "node/1915227170"
+}

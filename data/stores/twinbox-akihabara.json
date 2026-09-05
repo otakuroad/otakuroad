@@ -1,0 +1,105 @@
+{
+ "id": "twinbox-akihabara",
+ "name": {
+  "ko": "트윈박스 아키하바라",
+  "en": "TwinBox AKIHABARA",
+  "ja": "TwinBox AKIHABARA"
+ },
+ "synonyms": [
+  "트윈박스",
+  "트윈박스 아키바",
+  "TwinBox",
+  "Twin Box AKIHABARA",
+  "Twin Box Akihabara",
+  "ツインボックス秋葉原",
+  "ツインボックス",
+  "TwinBoxAKIHABARA",
+  "Box'R AKIBAビル地下1階"
+ ],
+ "category": "idol",
+ "tags": [
+  "idol_live",
+  "underground_idol",
+  "live_venue",
+  "cheki",
+  "event_space"
+ ],
+ "one_line": {
+  "ko": "지하 아이돌 라이브가 거의 매일 열리는 지하 1층 라이브하우스",
+  "en": "Basement live house with near-daily underground idol gigs and cheki sessions"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700395,
+  "lng": 139.770114
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-12 Box'R AKIBAビル地下1階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 아크세스란에 적힌 15:00~22:00은 시설 기준 시간이며, 실제 입장은 공연별 개장·개연 시간에 따른다. 일정은 공식 스케줄에서 확인.",
+   "en": "The 15:00-22:00 shown in the access section of the official site is the venue's own window; actual entry follows each show's door and start times listed on the schedule."
+  },
+  "source_url": "https://twinbox.info/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 6분. 주오도리로 나와 벨살 아키하바라와 소프맵 사이의 길로 직진하면 오른쪽에 있다. 긴자선 스에히로초역 3번 출구에서는 도보 5분. 같은 BOX'R AKIBA 빌딩 1층이 TwinBox GARAGE, 2층이 ANTHEM AKIBA이므로 지하 1층으로 내려간다.",
+  "en": "Six minutes from the JR Akihabara Electric Town exit: come out onto Chuo-dori and walk straight down the street between Bellesalle Akihabara and Sofmap; the venue is on the right. Five minutes from Suehirocho exit 3. TwinBox GARAGE is on 1F and ANTHEM AKIBA on 2F of the same BOX'R AKIBA building, so go down to B1F."
+ },
+ "tips": {
+  "ko": [
+   "공연 대부분은 지하 아이돌 라이브이고, 끝난 뒤 물판·체키회가 이어진다. 일정은 공식 사이트 스케줄에서 확인.",
+   "드링크대가 별도로 붙으며 2025년 11월 1일부터 요금이 개정됐다. 외부 음료 반입은 금지.",
+   "모시·다이브 등 위험 행위 금지. 건물 앞 노상에서 떠들거나 앉아 있는 행위도 금지이며 공연이 끝나면 바로 귀가하도록 안내한다.",
+   "치요다구는 노상 금연 지역이라 흡연은 지정 흡연 장소에서만 가능하고, 전용 주차장은 없다."
+  ],
+  "en": [
+   "Most shows are underground idol lives, followed by merch and cheki (instant photo) sessions; check the official schedule for the day.",
+   "A drink fee is charged on top of the ticket, revised from 1 November 2025. Bringing your own drinks in is not allowed.",
+   "Moshing and stage diving are banned, as is hanging around or sitting on the street outside; you are asked to leave promptly after the show.",
+   "Chiyoda ward bans smoking on the street, so use a designated smoking area; the venue has no parking."
+  ]
+ },
+ "official_url": "https://twinbox.info/",
+ "sns": {},
+ "chain": "twinbox",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://twinbox.info/",
+  "https://www.twinbox.info/about"
+ ],
+ "osm_id": null
+}

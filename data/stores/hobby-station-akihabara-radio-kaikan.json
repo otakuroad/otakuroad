@@ -1,0 +1,114 @@
+{
+ "id": "hobby-station-akihabara-radio-kaikan",
+ "name": {
+  "ko": "호비스테이션 아키하바라 라디오회관점",
+  "en": "Hobby Station Akihabara Radio Kaikan",
+  "ja": "ホビーステーション 秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "호비스테이션",
+  "호비스테",
+  "호비스테이션 라디오회관점",
+  "호비스테이션 라지칸",
+  "하비스테이션",
+  "Hobby Station",
+  "Hobby Station Radio Kaikan",
+  "hbst",
+  "ホビーステーション",
+  "ホビステ",
+  "ホビーステーション秋葉原ラジオ会館店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "pokemon_card",
+  "duel_masters",
+  "vanguard",
+  "one_piece_card",
+  "union_arena",
+  "battle_spirits",
+  "gundam_card",
+  "love_live",
+  "arcade_card",
+  "mezastar",
+  "supplies"
+ ],
+ "one_line": {
+  "ko": "1층 트레카 매장. 포켓몬·듀얼마스터즈·원피스 싱글과 아케이드 카드, 서플라이",
+  "en": "Ground-floor card shop with Pokemon, Duel Masters and One Piece singles and arcade cards"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴(정기휴일 없음)",
+   "en": "No regular closing day"
+  },
+  "note": {
+   "ko": "라디오회관 건물 영업시간과 동일. 같은 체인의 2F 아키하바라 역앞점과 영업시간은 같지만 취급 타이틀이 다르다.",
+   "en": "Same as the Radio Kaikan building hours. The chain's Akihabara Ekimae branch on 2F keeps the same hours but stocks different titles."
+  },
+  "source_url": "https://www.hbst.net/shop/45/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구를 나와 광장 건너 라디오회관 1F. 건물에 들어가지 않고도 접근되는 1층 매장으로, 후쿠후쿠 트레카·마하·카드라보 매입센터와 같은 층에 있다.",
+  "en": "Cross the plaza from JR Akihabara's Electric Town Exit to Radio Kaikan's 1F. It is a ground-floor unit you reach without going upstairs, sharing the floor with Fukufuku Toreka, Mach and the Card Labo buyback center."
+ },
+ "tips": {
+  "ko": [
+   "이름이 비슷한 2F '아키하바라 역앞점'과 다른 매장이다. 포켓몬 카드는 이 1F 매장에서만 취급하고 역앞점에는 없다.",
+   "라브라이브·울트라맨·오등분의 신부 등 신작 TCG와 건담 아세널 베이스·포켓몬 메자스타 같은 아케이드 카드도 다룬다.",
+   "정기휴일이 없어 건물이 여는 날에는 항상 영업한다."
+  ],
+  "en": [
+   "Not the same shop as 'Akihabara Ekimae' on 2F, despite the similar name: Pokemon cards are stocked here on 1F and not upstairs.",
+   "Stock covers newer TCGs (Love Live, Ultraman, Quintessential Quintuplets) and arcade card games such as Gundam Arsenal Base and Pokemon Mezastar.",
+   "There is no regular closing day, so it opens whenever the building does."
+  ]
+ },
+ "official_url": "https://www.hbst.net/shop/45/",
+ "sns": {},
+ "chain": "hobby-station",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hbst.net/shop/45/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/hobbystation/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://www.hbst.net/"
+ ],
+ "osm_id": "node/10136672517"
+}

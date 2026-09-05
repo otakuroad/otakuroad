@@ -1,0 +1,144 @@
+{
+ "id": "littlestarrabbit-akihabara",
+ "name": {
+  "ko": "리틀스타래빗",
+  "en": "LittleStarRabbit",
+  "ja": "リトルスターラビット"
+ },
+ "synonyms": [
+  "리틀 스타 래빗",
+  "리틀스타라빗",
+  "리틀스타래빗 아키하바라",
+  "LittleStarRabbit",
+  "Little Star Rabbit",
+  "littlestarrabbit",
+  "LSR",
+  "リトルスターラビット",
+  "星とうさぎのメイドカフェ リトルスターラビット",
+  "秋葉原の星とうさぎのメイドカフェ",
+  "리스라",
+  "토이그룹",
+  "TOYGROUP"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "rabbit",
+  "star",
+  "cheki",
+  "omurice",
+  "late_night",
+  "events",
+  "english_info"
+ ],
+ "one_line": {
+  "ko": "별과 토끼 콘셉트 메이드카페. 오므라이스·카레·푸딩과 캐스트 체키",
+  "en": "Star-and-rabbit maid cafe: omurice, curry, pudding and cast cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701974,
+  "lng": 139.772017
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-6-10 1/3レジデンス5階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "24:00"
+   },
+   {
+    "days": [
+     "sat"
+    ],
+    "open": "12:00",
+    "close": "24:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울과 오봉·연말연시에는 특별 연장 영업이 공지되고, 캐스트 생일 이벤트일에는 15:00이나 21:00 등 다른 시각에 시작한다.",
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Special extended hours are announced for summer, Obon and the New Year, and cast birthday events start at other times such as 15:00 or 21:00."
+  },
+  "source_url": "https://littlestarrabbit.com/access"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "공식 안내 기준 긴자선 스에히로초역에서 도보 약 2분, JR 아키하바라역에서 약 5분. 주오도리 동쪽 소토칸다 4-6번지 블록의 '1/3레지던스' 5층으로, 자매점 스타라이트노벨·프리티데빌메이트가 들어선 이스즈 빌딩에서 한 필지 남쪽이다.",
+  "en": "About two minutes from Suehirocho Station and five from JR Akihabara by the shop's own directions. It is on 5F of the 1/3 Residence in the Sotokanda 4-6 block east of Chuo-dori, one lot south of the Isuzu Building that houses its sister shops StarLightNovel and PrettyDevilMate."
+ },
+ "tips": {
+  "ko": [
+   "요금은 60분 차지 1,000엔(세금 포함 1,100엔)과 음료 1잔 주문제. 60분이 지나면 30분마다 500엔(550엔)이 자동 연장되고, 연장할 때마다 음료를 한 잔 더 주문한다. 매장에서는 금액을 '★' 단위로 안내한다.",
+   "평일은 17:00, 토·일·공휴일은 12:00 개점. 금요일·토요일과 공휴일 전날은 다음 날 05:00까지 영업한다.",
+   "혼잡할 때는 자리 이동·합석이나 90분제를 요청받을 수 있다.",
+   "캐스트 촬영·녹음과 연락처 묻기는 금지이며, 음식·음료와 매장 장식만 촬영할 수 있다.",
+   "생일·주년 이벤트가 잦아 그날은 영업시간과 메뉴가 달라진다. 방문 전 공식 News를 확인하는 편이 좋다."
+  ],
+  "en": [
+   "1,000 yen (1,100 with tax) for the first 60 minutes plus one drink, then 500 yen (550) automatically every 30 minutes with one more drink each time. Prices are quoted in-store in '★'.",
+   "Opens 17:00 on weekdays and 12:00 on Saturdays, Sundays and holidays; Fridays, Saturdays and the eve of a holiday run to 05:00 the next morning.",
+   "When it is busy you may be asked to change seats, share a table, or accept a 90-minute limit.",
+   "Photographing or recording the cast and asking for their contact details are forbidden; only food, drinks and the decor may be photographed.",
+   "Birthday and anniversary events are frequent and change both the hours and the menu that day, so check the News page before going."
+  ]
+ },
+ "official_url": "https://littlestarrabbit.com/",
+ "sns": {
+  "x": "https://x.com/LSR_tw",
+  "instagram": "https://www.instagram.com/lsr_meta/"
+ },
+ "chain": "toygroup",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://littlestarrabbit.com/",
+  "https://littlestarrabbit.com/access",
+  "https://littlestarrabbit.com/system",
+  "https://littlestarrabbit.com/menu",
+  "https://littlestarrabbit.com/notes",
+  "https://goo.gl/maps/1HcFNCrnyj4UAbzu6",
+  "https://toygroup.jp/"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,115 @@
+{
+ "id": "yumeoriya-akihabara-1",
+ "name": {
+  "ko": "유메오리야 1호점",
+  "en": "Yumeoriya No.1",
+  "ja": "平成レトロ専門店 夢織屋 1号店"
+ },
+ "synonyms": [
+  "유메오리야",
+  "유메오리야 아키하바라",
+  "헤이세이 레트로 전문점 유메오리야",
+  "Yumeoriya",
+  "Yumeoriya Akihabara",
+  "夢織屋",
+  "夢織屋 1号店",
+  "ゆめおりや",
+  "平成レトロ専門店 夢織屋"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "buyback",
+  "heisei_retro",
+  "retro_anime",
+  "bishoujo_game",
+  "sakura_taisen",
+  "tokimeki_memorial",
+  "key",
+  "leaf",
+  "kyoto_animation",
+  "di_gi_charat",
+  "anime_cd"
+ ],
+ "one_line": {
+  "ko": "1990~2000년대 헤이세이 애니·게임 중고 굿즈를 모은 소형 레트로 전문점",
+  "en": "Small retro shop for used 1990s-2000s Heisei anime and game merchandise"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.696101,
+  "lng": 139.773188
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区神田須田町2-7-7 福信ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://www.yumeoriya.jp/store/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아키하바라 전자상가에서 남쪽으로 간다강을 건넌 간다스다초 2초메, 후쿠신(福信) 빌딩 1층. JR 아키하바라역에서 도보 4분 정도이며 도영 이와모토초역에서도 가깝다. 1990~2000년대 아키하바라 소형 점포의 분위기를 재현한 좁은 매장이다.",
+  "en": "In Kanda-Sudacho 2-chome, south across the Kanda river from the Electric Town, on the ground floor of the Fukushin Building. About four minutes on foot from JR Akihabara, and close to Iwamotocho on the Toei line. The narrow interior recreates a small 1990s-2000s Akihabara shop."
+ },
+ "tips": {
+  "ko": [
+   "사쿠라대전, 두근두근 메모리얼, Key·Leaf·교토애니메이션, 디지캐럿 등 헤이세이 초·중기 작품에 특화되어 있다.",
+   "판매만 아니라 매입도 하므로 같은 시대 굿즈를 정리하려는 경우에도 쓸 수 있다.",
+   "2025년 9월 10일 문을 연 신생 점포이고 매장이 작아 재고 회전이 빠르다.",
+   "같은 브랜드의 2호점(夢織屋きゅ〜と, 여아 완구)과 3호점(夢織屋キッズ, 남아 완구)은 취급 상품이 전혀 다르다."
+  ],
+  "en": [
+   "Specialises in early-to-mid Heisei titles: Sakura Wars, Tokimeki Memorial, Key, Leaf, Kyoto Animation, Di Gi Charat.",
+   "It buys as well as sells, so it also works if you are clearing out goods from the same era.",
+   "It opened on 10 September 2025 and the room is small, so stock turns over quickly.",
+   "Sister shops No.2 (Yumeoriya Cute, girls' toys) and No.3 (Yumeoriya Kids, boys' toys) carry completely different stock."
+  ]
+ },
+ "official_url": "https://www.yumeoriya.jp/",
+ "sns": {
+  "instagram": "https://www.instagram.com/yumeoriya_hobby/"
+ },
+ "chain": "yumeoriya",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.yumeoriya.jp/store/",
+  "https://map.yahoo.co.jp/v3/place/Heu_ipLzUgA/map",
+  "https://www.instagram.com/yumeoriya_hobby/"
+ ],
+ "osm_id": null
+}

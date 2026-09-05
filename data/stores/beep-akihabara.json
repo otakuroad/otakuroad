@@ -1,0 +1,142 @@
+{
+ "id": "beep-akihabara",
+ "name": {
+  "ko": "BEEP 아키하바라",
+  "en": "BEEP Akihabara",
+  "ja": "BEEP秋葉原店"
+ },
+ "synonyms": [
+  "비프",
+  "비프 아키하바라",
+  "BEEP 아키하바라점",
+  "BEEP秋葉原",
+  "BEEP＠秋葉原",
+  "BEEP@秋葉原",
+  "BEEP Akiba",
+  "beep akihabara",
+  "BEEP SEEKBASE",
+  "三月うさぎの森"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "famicom",
+  "mega_drive",
+  "pc_engine",
+  "retro_pc",
+  "pc98",
+  "x68000",
+  "msx",
+  "arcade_pcb",
+  "arcade_cabinet",
+  "touhou",
+  "game_magazine",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "중고 레트로 게임·레트로 PC·아케이드 기판과 오버홀 기기를 다루는 수집가·기판 유저용 전문점",
+  "en": "Used retro games, retro PCs, arcade PCBs and overhauled hardware for collectors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.70131,
+  "lng": 139.77335
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区神田練塀町15-1 SEEKBASE内 3区画",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 수요일",
+   "en": "Wednesdays"
+  },
+  "note": {
+   "ko": "평일은 12:00, 토·일·공휴일은 11:00 오픈. 공휴일이 수요일과 겹칠 때의 영업 여부는 공식 안내 없음. SEEKBASE 시설 안내에는 11:00~20:00·정기휴무 수요일로만 표기되어 있으나 BEEP 공식 페이지 기준으로 평일은 12:00 오픈.",
+   "en": "Opens 12:00 on weekdays and 11:00 on Sat/Sun/holidays. No official word on whether a public holiday falling on a Wednesday is open. The SEEKBASE directory lists 11:00-20:00 with Wednesday closing only; BEEP's own page gives the 12:00 weekday opening."
+  },
+  "source_url": "https://www.akihabara-beep.com/company/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open",
+  "note": {
+   "ko": "2026-06-06 SEEKBASE 3호동으로 이전 개점. 구 매장(外神田3-9-8 中栄ビル B1F, 레트로 게임 캠프 인근)은 中栄ビル 철거로 2026-05-17 영업 종료.",
+   "en": "Reopened on 2026-06-06 in SEEKBASE building 3. The former basement store (Nakaei Bldg B1F, Sotokanda 3-9-8, near Retro Game Camp) closed on 2026-05-17 for the demolition of the Nakaei Building."
+  },
+  "effective_date": "2026-06-06"
+ },
+ "how_to_find": {
+  "ko": "아키하바라역 북쪽 JR 고가 아래 상가 SEEKBASE의 3호동(주소 표기는 3区画), 지상 1층. 전기가 출구에서 나와 선로를 따라 북쪽으로 걸으면 ちゃばら(CHABARA)와 'SEEKBASE The Tools'(1호동) 간판을 차례로 지나고, 길 건너 왼편에 간다소방서(神田消防署)가 보이는 지점의 고가 아래가 3호동. 같은 3호동에 일본우편 'SOZO BOX'가 함께 들어와 있고, 그 북쪽 옆이 UNDER RAILWAY HOTEL(5호동).",
+  "en": "Ground level of SEEKBASE building 3 (the address writes it as 3区画), the strip under the JR viaduct north of Akihabara station. From the Electric Town exit follow the tracks north past Chabara and the 'SEEKBASE The Tools' (building 1) signs; building 3 is the arch section facing Kanda Fire Station across the street. Japan Post's SOZO BOX shares building 3, and UNDER RAILWAY HOTEL (building 5) is the next section north."
+ },
+ "tips": {
+  "ko": [
+   "정기휴무는 수요일. 평일은 12:00, 토·일·공휴일은 11:00 오픈으로 요일에 따라 오픈 시간이 다름.",
+   "2026년 5월까지 있던 구 매장(外神田3-9-8 中栄ビル 지하 1층)은 건물 철거로 폐점. OSM·구글 지도와 옛 블로그에는 아직 옛 위치가 남아 있으니 그 주소로 가지 말 것.",
+   "아케이드 기판·레트로 PC·게임기 매입(買取) 카운터를 운영. 대량·대형 물품(筐体 등)은 공식 사이트의 매입 상담 폼으로 사전 문의.",
+   "매장 안에 80~90년대 디지털 가젯 전시와 다가시야 분위기의 레트로 게임 코너가 있음. 한정·희귀 아이템의 판매 공지는 공식 X(@BEEP_akihabara)에서 확인."
+  ],
+  "en": [
+   "Closed Wednesdays. Opening time differs by day: 12:00 on weekdays, 11:00 on Sat/Sun/holidays.",
+   "The old basement store at Sotokanda 3-9-8 (Nakaei Bldg B1F) closed in May 2026 for demolition; OSM, Google Maps and older blogs still show that address, so do not follow it.",
+   "A buyback counter handles arcade PCBs, retro PCs and consoles; for bulk lots or cabinets, use the buyback inquiry form on the official site first.",
+   "The shop has a display of 1980s-90s digital gadgets and a dagashi-style retro game corner. Sales of limited or rare items are announced on the official X account (@BEEP_akihabara)."
+  ]
+ },
+ "official_url": "https://www.akihabara-beep.com/",
+ "sns": {
+  "x": "https://x.com/BEEP_akihabara"
+ },
+ "chain": "beep",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.akihabara-beep.com/",
+  "https://www.akihabara-beep.com/company/",
+  "https://www.akihabara-beep.com/law/",
+  "https://www.akihabara-beep.com/item-list/",
+  "https://www.akihabara-beep.com/12787/",
+  "https://www.akihabara-beep.com/13011/",
+  "https://www.akihabara-beep.com/13158/",
+  "https://www.akihabara-beep.com/13270/",
+  "https://www.akihabara-beep.com/13301/",
+  "https://beep-shop.com/",
+  "https://www.jrtk.jp/seekbase/",
+  "https://www.jrtk.jp/seekbase/shop/",
+  "https://www.jrtk.jp/seekbase/pdf/seekbase.pdf",
+  "https://www.openstreetmap.org/node/4322928917"
+ ],
+ "osm_id": null,
+ "photo": null
+}

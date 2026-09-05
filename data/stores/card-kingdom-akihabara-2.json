@@ -1,0 +1,108 @@
+{
+ "id": "card-kingdom-akihabara-2",
+ "name": {
+  "ko": "카드킹덤 아키하바라 2호점",
+  "en": "Card Kingdom Akihabara 2nd Store",
+  "ja": "カードキングダム秋葉原2号店"
+ },
+ "synonyms": [
+  "카드킹덤",
+  "카드킹덤 2호점",
+  "카드킹덤 아키하바라 2호점",
+  "카드킹덤 역앞 2호점",
+  "카킹",
+  "Card Kingdom",
+  "Card Kingdom Akihabara 2",
+  "cardkingdom",
+  "カードキングダム",
+  "カードキングダム 秋葉原2号店",
+  "カードキングダム秋葉原駅前2号店",
+  "秋葉原電波会館のカードキングダム"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "sealed_pack",
+  "station_front",
+  "new_shop_2026"
+ ],
+ "one_line": {
+  "ko": "아키하바라 전파회관 1층의 카드킹덤 2호점, 13시에 여는 역 앞 트레카 매장",
+  "en": "Card Kingdom's second Akihabara shop, on the ground floor of Denpa Kaikan"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698564,
+  "lng": 139.771665
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 점포 페이지 표기는 매일 13:00-21:00이며 정기휴일 안내는 없다. 도보 2분 거리의 역앞점(1층 10:00 개점)과 시간이 다르다.",
+   "en": "The official store page lists 13:00-21:00 daily and names no closing day. These hours differ from the Ekimae store two minutes away, whose 1F opens at 10:00."
+  },
+  "source_url": "https://cardkingdom.jp/stores/akihabara-2/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 소부선 고가 옆 전자부품 상가인 아키하바라 전파회관 1층 노면 점포. 같은 1층에 피규어점 마루루가 있다.",
+  "en": "A minute from JR Akihabara's Electric Town Exit, a street-level unit on 1F of the Akihabara Denpa Kaikan electronics arcade beside the Sobu line viaduct. The figure shop Maruru is on the same floor."
+ },
+ "tips": {
+  "ko": [
+   "매일 13:00 개점으로 오전에는 닫혀 있다. 오전부터 카드를 보려면 도보 2분 거리의 카드킹덤 아키하바라 역앞점(외신다 1-14-7 아키하바라 노무라 빌딩)을 먼저 들르면 된다.",
+   "공식 점포 페이지에는 취급 타이틀·전화번호·정기휴일 안내가 없다. 재고와 임시 휴업은 점포 X(@ck_akihabara2nd)에서 확인.",
+   "역앞점과 이름이 비슷하니 지도에서 전파회관(1-14-3)과 노무라 빌딩(1-14-7)을 구분해 찾는다."
+  ],
+  "en": [
+   "It opens at 13:00 every day, so it is shut all morning; for cards earlier, start at Card Kingdom Akihabara Ekimae two minutes away (Sotokanda 1-14-7, Akihabara Nomura Building).",
+   "The official store page gives no product list, phone number or closing day; stock and temporary closures go on the shop's X account (@ck_akihabara2nd).",
+   "The two branches have near-identical names — check whether your map is pointing at Denpa Kaikan (1-14-3) or the Nomura Building (1-14-7)."
+  ]
+ },
+ "official_url": "https://cardkingdom.jp/stores/akihabara-2/",
+ "sns": {
+  "x": "https://x.com/ck_akihabara2nd"
+ },
+ "chain": "card-kingdom",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cardkingdom.jp/stores/akihabara-2/",
+  "https://cardkingdom.jp/",
+  "https://cardkingdom.jp/stores/akihabara-ekimae/"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,116 @@
+{
+ "id": "comic-jikuchushinha-akihabara",
+ "name": {
+  "ko": "코믹 지쿠추신하 아키하바라 본점",
+  "en": "Comic Jikuchushinha Akihabara Main Store",
+  "ja": "こみっく軸中心派 秋葉原本店"
+ },
+ "synonyms": [
+  "지쿠추신하",
+  "코믹 지쿠추신하",
+  "지쿠추",
+  "아르주네스 아키하바라",
+  "軸中心派",
+  "軸中心派 秋葉原本店",
+  "こみっく軸中心派",
+  "アールジュネス秋葉原",
+  "Jikuchushinha",
+  "Comic Jikuchushinha",
+  "ARTJEUNESS Akihabara",
+  "Jiku-chu"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "new",
+  "tapestry",
+  "illustration",
+  "art_print",
+  "acrylic_stand",
+  "clear_file",
+  "dakimakura",
+  "bishoujo_game",
+  "artist_goods",
+  "gallery"
+ ],
+ "one_line": {
+  "ko": "미소녀 일러스트 타페스트리와 복제 원화·아크릴 굿즈를 파는 일러스트 전문점",
+  "en": "Bishoujo illustration tapestries, art prints and acrylic goods from named illustrators"
+ },
+ "building_id": null,
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701494,
+  "lng": 139.771199
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-15-1 AKIBA PLACE 4F（アールジュネス秋葉原内）",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "thu",
+     "fri",
+     "sat",
+     "sun"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일·수요일",
+   "en": "Tuesdays and Wednesdays"
+  },
+  "note": {
+   "ko": "전시 회기 첫날은 13:00 개점. 연말연시·골든위크·오본과 이벤트 사정으로 시간이 바뀔 수 있고, 공휴일이 화·수요일이면 휴무일 수 있다",
+   "en": "Opens at 13:00 on the first day of an exhibition run. Hours change over New Year, Golden Week, Obon and around events; a public holiday falling on a Tuesday or Wednesday may still be a closing day"
+  },
+  "source_url": "https://artjeuness.jp/shop_akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 보도, 1층에 엑셀시오르 카페가 있는 AKIBA PLACE 건물 4층. 도쿄메트로 긴자선 스에히로초역에서 도보 2분, JR 전기가 출구에서 도보 5분이며, 같은 층의 갤러리 아르주네스 秋葉原와 한 매장으로 이어진다.",
+  "en": "4F of the AKIBA PLACE building on the west side of Chuo-dori, with an Excelsior Caffe on the ground floor. Two minutes from Suehirocho station on the Ginza line, five from the JR Electric Town exit; it shares the floor with the ARTJEUNESS Akihabara gallery."
+ },
+ "tips": {
+  "ko": [
+   "화·수요일 정기휴무이므로 방문 요일을 먼저 확인. 전시 회기 첫날은 13:00 개점",
+   "같은 층 아르주네스 갤러리에서 일러스트레이터 원화·복제 원화 전시와 판매가 함께 열린다",
+   "타페스트리는 로고 색으로 초판과 재판을 구분하며, 인기작 외에는 재판이 거의 없다"
+  ],
+  "en": [
+   "Closed Tuesdays and Wednesdays, so check the day before you go; it opens at 13:00 on an exhibition's first day",
+   "The ARTJEUNESS gallery on the same floor runs illustrator original-art and reproduction shows alongside the shop",
+   "Tapestry first printings and reprints are told apart by the logo colour, and only popular pieces are ever reprinted"
+  ]
+ },
+ "official_url": "https://artjeuness.jp/shop_akihabara/",
+ "sns": {
+  "x": "https://x.com/ejx_jikuchuAK",
+  "instagram": "https://www.instagram.com/artjeuness/"
+ },
+ "chain": "jikuchushinha",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://artjeuness.jp/shop_akihabara/",
+  "https://artjeuness.jp/shoplist/",
+  "https://www.jiku-chu.com/",
+  "https://ja.wikipedia.org/wiki/%E8%BB%B8%E4%B8%AD%E5%BF%83%E6%B4%BE"
+ ],
+ "osm_id": "node/5050002954"
+}

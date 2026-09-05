@@ -1,0 +1,130 @@
+{
+ "id": "hobby-station-akihabara-honten",
+ "name": {
+  "ko": "호비스테이션 아키하바라 본점",
+  "en": "Hobby Station Akihabara Main Store",
+  "ja": "ホビーステーション秋葉原本店"
+ },
+ "synonyms": [
+  "호비스테이션",
+  "호비스테",
+  "호비스테이션 아키하바라",
+  "호비스테이션 본점",
+  "하비스테이션 아키하바라",
+  "Hobby Station",
+  "Hobby Station Akihabara",
+  "HOBBY STATION Akihabara Honten",
+  "hbst",
+  "ホビステ",
+  "ホビステ秋葉原本店",
+  "ホビーステーション 秋葉原本店",
+  "ホビーステーション秋葉原",
+  "秋葉原本店 ホビステ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "duel_space",
+  "oripa",
+  "new",
+  "used",
+  "yugioh",
+  "rush_duel",
+  "mtg",
+  "vanguard",
+  "battle_spirits",
+  "wixoss",
+  "digimon_card",
+  "build_divide",
+  "shadowverse_evolve",
+  "union_arena",
+  "dragon_ball",
+  "conan_tcg",
+  "ultraman_card"
+ ],
+ "one_line": {
+  "ko": "유희왕·MTG·뱅가드 등 12개 TCG의 싱글 카드와 팩, 32석 듀얼 스페이스",
+  "en": "Singles and packs for 12 TCGs including Yu-Gi-Oh and MTG, plus a 32-seat duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698687,
+  "lng": 139.770776
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-10-11 森ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴 (定休日 無し)",
+   "en": "Open year-round (no regular holiday)"
+  },
+  "note": {
+   "ko": "공식 점포 페이지 기준 매일 11:00-20:00. 신제품 발매일에는 조기 개점하는 경우가 있다고 일본 트레카 안내 사이트에 적혀 있다.",
+   "en": "Daily 11:00-20:00 per the official store page. A Japanese TCG directory notes the shop sometimes opens early on new-set release days."
+  },
+  "source_url": "https://www.hbst.net/shop/19/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 서쪽 보도의 실크햇(구 GiGO 1호관) 바로 뒤편 골목에 있고, 전자부품 상가 도쿄 라디오 데파트 바로 남쪽에 붙은 모리(森) 빌딩이다. 1층은 같은 체인의 매입센터이고, 판매 매장은 그 위 2층이다.",
+  "en": "Three minutes from the JR Akihabara Electric Town Exit. The Mori Building stands on the back lane behind Silk Hat (the old GiGO No.1) on the west side of Chuo-dori, immediately south of the Tokyo Radio Depart parts arcade. The chain's buying center fills 1F; the sales floor is one flight up on 2F."
+ },
+ "tips": {
+  "ko": [
+   "듀얼 스페이스는 32석이며 공식 페이지에 감염 대책으로 현재 축소 운영 중이라고 적혀 있다. 이용에 당일 300엔 이상 구매가 필요하다는 안내는 일본 트레카 정보 사이트 쪽 설명으로, 공식 페이지에는 명시가 없다.",
+   "싱글 카드는 매장 안 태블릿으로 체인 온라인 재고를 검색해 주문하는 방식이 함께 운영된다.",
+   "같은 건물 1층 매입센터는 별도 점포다. 포켓몬 카드·듀얼마스터즈처럼 본점 취급 타이틀 목록에 없는 카드는 1층에서 매입한다.",
+   "취급 타이틀은 배틀스피리츠, 뱅가드, 유희왕 러시듀얼, MTG, 위크로스, 디지몬 카드게임, 빌디바이드, 섀도우버스 에볼브, 유니온 아리나, 드래곤볼 퓨전 월드, 코난 TCG, 울트라맨 카드게임."
+  ],
+  "en": [
+   "The duel space has 32 seats; the official page says it is currently reduced for infection control. A Japanese TCG directory adds that using it requires a purchase of 300 yen or more that day - the official page does not state this.",
+   "In-store tablets let you search and order singles from the chain's online stock.",
+   "The buying center on 1F of the same building is a separate shop; titles missing from this floor's list, such as Pokemon and Duel Masters, are bought downstairs.",
+   "Titles carried: Battle Spirits, Cardfight!! Vanguard, Yu-Gi-Oh! Rush Duel, Magic: The Gathering, WIXOSS, Digimon Card Game, Build Divide, Shadowverse Evolve, Union Arena, Dragon Ball Fusion World, Conan TCG and Ultraman Card Game."
+  ]
+ },
+ "official_url": "https://www.hbst.net/shop/19/",
+ "sns": {
+  "x": "https://x.com/akiba5f"
+ },
+ "chain": "hobby-station",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hbst.net/shop/19/",
+  "https://www.hbst.net/shop/",
+  "https://www.hbst.net/shop/1/",
+  "https://akibatoreka.com/introduce/1103"
+ ],
+ "osm_id": "node/11027410652"
+}

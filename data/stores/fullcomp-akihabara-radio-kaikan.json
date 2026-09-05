@@ -1,0 +1,115 @@
+{
+ "id": "fullcomp-akihabara-radio-kaikan",
+ "name": {
+  "ko": "풀콤프 아키하바라 라디오회관점",
+  "en": "Fullcomp Akihabara Radio Kaikan",
+  "ja": "フルコンプ秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "풀콤프",
+  "풀 콤프",
+  "훌콤프",
+  "풀콤프 라디오회관",
+  "풀콤프 아키하바라",
+  "Fullcomp",
+  "Full Comp Akihabara",
+  "fullcomp Radio Kaikan",
+  "フルコンプ",
+  "フルコンプ秋葉原",
+  "フルコンプ ラジオ会館店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "used",
+  "new",
+  "yugioh",
+  "duel_masters",
+  "pokemon_card",
+  "vanguard",
+  "weiss_schwarz",
+  "dragon_ball_heroes",
+  "booster_pack",
+  "constructed_deck",
+  "supplies",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "유희왕·듀얼마스터즈·포켓몬 등 중고 싱글카드와 부스터팩·구축덱·서플라이",
+  "en": "Used TCG singles plus boosters, decks and supplies for Yu-Gi-Oh, Duel Masters and Pokemon"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "9F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館9F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 안내는 '朝10時-夜8時 年中無休'. 라디오회관 건물 영업시간과 같다.",
+   "en": "The official page states 10:00-20:00, open year-round, matching the Radio Kaikan building hours."
+  },
+  "source_url": "https://fullcomp.jp/radiokaikan/access/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 9F. 엘리베이터에서 내리면 카드라보 본점·BIG MAGIC과 같은 층이며, 풀콤프는 그중 중고 싱글 진열대가 늘어선 구획이다.",
+  "en": "On 9F of Radio Kaikan. Step off the elevator and the floor is shared with Card Labo's main store and BIG MAGIC; Fullcomp is the section lined with used-singles cases."
+ },
+ "tips": {
+  "ko": [
+   "도쿄·가나가와에 12개 점포를 둔 중고 트레카 체인의 아키하바라 지점으로, 중고 싱글이 주력이고 서플라이·팩·구축덱은 신품이다.",
+   "9F 한 층에 카드라보 본점·BIG MAGIC과 함께 있어 같은 카드 시세를 세 매장에서 바로 비교할 수 있다.",
+   "일부 지도 데이터에는 10F로 표기되어 있지만 공식 층안내 기준 9F가 맞다."
+  ],
+  "en": [
+   "The Akihabara branch of a used-TCG chain with 12 shops in Tokyo and Kanagawa: used singles are the core, while supplies, packs and pre-built decks are new.",
+   "Sharing 9F with Card Labo's main store and BIG MAGIC makes it easy to compare prices for the same card across three shops.",
+   "Some map data lists it on 10F, but the official floor guide places it on 9F."
+  ]
+ },
+ "official_url": "https://fullcomp.jp/radiokaikan/access/",
+ "sns": {},
+ "chain": "fullcomp",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://fullcomp.jp/radiokaikan/access/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/fullcomp/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://www.fullcomp.jp/"
+ ],
+ "osm_id": "node/10136712317"
+}

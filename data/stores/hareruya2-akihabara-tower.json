@@ -1,0 +1,151 @@
+{
+ "id": "hareruya2-akihabara-tower",
+ "name": {
+  "ko": "하레루야2 아키하바라 타워점",
+  "en": "Hareruya2 Akihabara Tower",
+  "ja": "晴れる屋2 秋葉原タワー店"
+ },
+ "synonyms": [
+  "하레루야2",
+  "하레루야 2",
+  "하레루야2 아키하바라",
+  "하레루야2 아키하바라 본점",
+  "하레루야2 타워",
+  "하레루야2 타워점",
+  "하레루야2 아키바",
+  "하레츠",
+  "하레츠 타워",
+  "포켓몬카드 전문점 하레루야2",
+  "Hareruya2",
+  "Hareruya 2",
+  "HARERUYA2",
+  "Hareruya2 Akihabara Tower",
+  "Hareruya2 Tower",
+  "晴れる屋2",
+  "晴れる屋2 秋葉原タワー店",
+  "晴れる屋2 秋葉原本店",
+  "晴れる屋2 秋葉原店",
+  "ハレツー",
+  "ハレツータワー",
+  "ハレツーポケカタワー",
+  "ポケモンカード専門店 HARERUYA2",
+  "石丸3号館ビル"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "tcg_singles",
+  "buyback",
+  "duel_space",
+  "tournament",
+  "beginner_friendly",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드 싱글·미개봉 팩 판매와 매입, B1F~6F 건물 한 채, 152석 대전 공간",
+  "en": "Pokémon TCG singles, sealed packs and buyback across B1F–6F, plus a 152-seat play space"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.69799,
+  "lng": 139.770676
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-2-13 石丸3号館ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open every day"
+  },
+  "note": {
+   "ko": "평일·주말·공휴일 동일. 온라인 주문 매장 수령분은 타워점만 주문일 포함 3일간 보관(다른 지점은 주문 당일까지)",
+   "en": "Same hours on weekdays, weekends and holidays. Online orders for in-store pickup are held 3 days at this store (same day only at other branches)"
+  },
+  "source_url": "https://www.hareruya2.com/pages/store_tower"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open",
+  "note": {
+   "ko": "2026년 2월 개업. 2021년 7월 문을 연 옛 '하레루야2 아키하바라 본점'(晴れる屋2 秋葉原本店, 소토칸다 1-2-5, 88석)을 잇는 플래그십이고, 그 자리는 지금 판매·매입 전용 '아키하바라 아넥스점'이다.",
+   "en": "Opened February 2026 as the successor flagship to Hareruya2 Akihabara Honten (Sotokanda 1-2-5, 88 seats, open since July 2021); that old address is now the sales-and-buyback-only Akihabara Annex."
+  }
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 남쪽 출구로 나와 오른쪽으로 돈 뒤 직진해, 주오도리에 닿으면 왼쪽으로 꺾어 횡단보도를 건넌다. 남쪽 끝 만세이바시 교차로에서 오른쪽으로 한 번 더 건너 쇼헤이바시도리 북쪽 인도를 서쪽으로 50m쯤 걸으면 '晴れる屋2' 간판이 붙은 건물 한 채가 통째로 매장이다. 입구는 1F, 매장은 B1F~6F.",
+  "en": "From the JR Akihabara Electric Town South exit turn right and go straight to Chuo-dori, then turn left and cross. At the Manseibashi junction at the south end cross again to the right and follow the north pavement of Shoheibashi-dori about 50 m west: the whole building under the 晴れる屋2 sign is the store. Enter on 1F; the shop runs B1F-6F."
+ },
+ "tips": {
+  "ko": [
+   "2026년 2월에 문을 열었고 B1F부터 6F까지 건물 한 채 전체가 포켓몬 카드 매장이다. 152석 플레이스페이스는 무료이고 이벤트가 매일 열린다.",
+   "매장 PC로 주문한 상품은 3F 계산대에서 결제하고 받는다. 쓸 수 있는 결제 수단은 매장 안내판으로만 알려주고 면세 안내도 공식 사이트에 없으니 현금을 준비하는 편이 안전하다.",
+   "매입에는 현주소가 적힌 신분증이 필요해 여권만 가진 여행자는 팔기 어렵고, 18세 미만·고교생은 보호자 동의서가 있어야 한다.",
+   "도보 1분 거리(소토칸다 1-2-5)의 '아키하바라 아넥스점'은 판매·매입 전용으로 23:00까지 열어 타워점이 닫힌 뒤에도 들를 수 있다. 같은 회사의 MTG 전문점 '하레루야'와 듀얼마스터즈 전문점 '하레루야3'도 아키하바라에 따로 있으니 간판을 확인하자."
+  ],
+  "en": [
+   "Opened in February 2026; the entire building from B1F to 6F is Pokémon cards. The 152-seat play space is free and events run every day.",
+   "Order at an in-store PC, then pay and collect at the 3F register. Accepted payment methods are only posted inside the shop and no tax-free service is mentioned anywhere on the official site, so bring cash.",
+   "Buyback requires photo ID showing a current address, so visitors carrying only a passport usually cannot sell; under-18s and high-school students need a guardian's consent form.",
+   "The sales-and-buyback-only Akihabara Annex (Sotokanda 1-2-5) is one minute away and open until 23:00, after this store closes. Hareruya (Magic: The Gathering) and Hareruya3 (Duel Masters) are separate Akihabara shops from the same company — check the sign."
+  ]
+ },
+ "official_url": "https://www.hareruya2.com/pages/store_tower",
+ "sns": {
+  "x": "https://x.com/hareruya2tower"
+ },
+ "chain": "hareruya2",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.hareruya2.com/pages/store_tower",
+  "https://www.hareruya2.com/pages/store_tower-en",
+  "https://www.hareruya2.com/pages/tower_access",
+  "https://www.hareruya2.com/pages/store_menu",
+  "https://www.hareruya2.com/pages/store_annex",
+  "https://www.hareruya2.com/pages/store-opening-info",
+  "https://www.hareruya2.com/pages/in-store-order",
+  "https://www.hareruya2.com/pages/tower-open-point5x",
+  "https://www.hareruya2.com/pages/buying",
+  "https://www.hareruya2.com/pages/help",
+  "https://corp.hareruyamtg.com/company/",
+  "https://web.archive.org/web/20250922111340/https://www.hareruya2.com/pages/store_menu",
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B01-2-13",
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B01-2-5",
+  "https://www.openstreetmap.org/node/10137209417"
+ ],
+ "osm_id": null
+}

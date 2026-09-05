@@ -1,0 +1,120 @@
+{
+ "id": "liberty-akihabara-5",
+ "name": {
+  "ko": "리버티 아키하바라 5호점",
+  "en": "Liberty Akihabara Store 5",
+  "ja": "リバティー秋葉原5号店"
+ },
+ "synonyms": [
+  "리버티 5호점",
+  "리버티",
+  "아키바 리버티",
+  "리버티 아키하바라 5호관",
+  "リバティー 秋葉原5号店",
+  "リバティ 秋葉原5号店",
+  "リバティー5号店",
+  "秋葉原リバティー",
+  "Liberty Akihabara 5",
+  "Liberty Store 5",
+  "Akiba Liberty",
+  "LIBERTY"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "used",
+  "gacha",
+  "blind_bag",
+  "pokemon_card",
+  "figure",
+  "plastic_model",
+  "chogokin",
+  "minicar",
+  "model_train",
+  "tax_free",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "가챠폰·복주머니와 포켓몬 카드 자판기, 중고 피규어·프라모델·미니카를 파는 1층 매장",
+  "en": "Gachapon, blind bags and Pokemon card machines plus used figures and models, on 1F"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701481,
+  "lng": 139.771895
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-5-1 1階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 사이트는 전 점포 매일 11:00~20:30·연중무휴로 안내한다(점포별로 다를 수 있음). 일본 지역 정보 사이트에는 평일 11:00~20:00, 토·일·공휴일 10:30~20:00 같은 옛 시간이 남아 있다.",
+   "en": "The official site gives 11:00-20:30 every day, open year-round, for all branches (it notes hours may vary by store). Japanese local-information sites still carry older times such as 11:00-20:00 on weekdays and 10:30-20:00 at weekends."
+  },
+  "source_url": "https://www.liberty-shop.co.jp/visit/"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽 보도, 스루가야 애니메·호비관이 들어 있는 KHK빌딩 바로 남쪽 9층 건물의 1층이다. 긴자선 스에히로초역 1번 출구에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 7분. 보도 쪽에 가챠폰 기계가 늘어서 있어 눈에 잘 띈다.",
+  "en": "Ground floor of the nine-story building immediately south of the KHK Building (Surugaya Anime & Hobby) on the east sidewalk of Chuo-dori. Three minutes from Ginza-line Suehirocho exit 1, seven from JR Akihabara's Electric Town Exit; rows of gachapon machines on the pavement make it easy to spot."
+ },
+ "tips": {
+  "ko": [
+   "여권 원본을 보이고 한 점포에서 세금 포함 5,500엔 이상 사면 면세된다. 리버티는 아키하바라 6개 점포 모두 면세 대응이며, 피규어 등 일반 물품은 밀봉 없이 바로 받아 갈 수 있다.",
+   "주력이 가챠폰·복주머니(해피백)·포켓몬 카드 자판기라 100엔 동전을 미리 준비해 가면 편하다.",
+   "신용카드(VISA·Master·JCB·AMEX·Diners·Discover·UnionPay), Apple Pay·Google Pay, 스이카·파스모, PayPay·WeChat Pay·Alipay 모두 쓸 수 있다.",
+   "피규어를 더 보고 싶으면 주오도리를 따라 북쪽 外神田4-7-1 리버티빌딩(1층 8호점, 2층 11호점 건프라·미니카), 남쪽 外神田4-4-3 오기소빌딩(4호점, 이치반쿠지)으로 이어서 돌면 된다."
+  ],
+  "en": [
+   "Show your original passport and spend 5,500 yen including tax in one store for tax-free; all six Akihabara Liberty branches handle it, and general items like figures are handed over unsealed.",
+   "The draw here is gachapon, happy (blind) bags and Pokemon-card vending machines, so bring 100-yen coins.",
+   "Credit cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), Apple Pay and Google Pay, Suica and PASMO, and PayPay, WeChat Pay and Alipay are all accepted.",
+   "For more figures, walk Chuo-dori north to the Liberty Building at Sotokanda 4-7-1 (Store 8 on 1F, Store 11 on 2F for Gunpla and minicars) or south to the Ogiso Building at 4-4-3 (Store 4, Ichiban Kuji)."
+  ]
+ },
+ "official_url": "https://www.liberty-shop.co.jp/visit/",
+ "sns": {},
+ "chain": "liberty",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.liberty-shop.co.jp/visit/",
+  "https://akihabara.kokosil.net/ja/place/00001c0000000000000200000034073a",
+  "https://akibatoreka.com/introduce/2077",
+  "https://www.openstreetmap.org/way/89182732",
+  "https://www.openstreetmap.org/way/89182761"
+ ],
+ "osm_id": "way/89182732"
+}

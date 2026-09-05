@@ -1,0 +1,92 @@
+{
+ "id": "akihabara-zest",
+ "name": {
+  "ko": "아키하바라 제스트",
+  "en": "Akihabara ZEST",
+  "ja": "秋葉原ZEST"
+ },
+ "synonyms": [
+  "제스트",
+  "아키하바라 ZEST",
+  "라이브 앤 바 제스트",
+  "ZEST",
+  "Akihabara Zest",
+  "Live & Bar ZEST",
+  "秋葉原ゼスト",
+  "ZEST 秋葉原"
+ ],
+ "category": "idol",
+ "tags": [
+  "live_house",
+  "underground_idol",
+  "anison",
+  "dj_event",
+  "rental_hall",
+  "cosplay_shoot",
+  "basement",
+  "no_smoking"
+ ],
+ "one_line": {
+  "ko": "지하 아이돌 라이브와 아니송 DJ 행사가 열리는 정원 150명 지하 라이브하우스",
+  "en": "150-capacity basement live house booked for underground idol lives and anisong events"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700405,
+  "lng": 139.769836
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-2-14 B1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 외신다 3초메, 전자부품 잡화점 아키바오~(あきばお〜)가 있는 블록의 3-2-14 건물 지하 1층. JR 아키하바라역 전기가 출구에서 도보 6분, 히비야선 아키하바라역 3번 출구에서 도보 7분, 쓰쿠바 익스프레스 A2 출구에서 도보 8분. 엘리베이터가 없어 계단으로 내려간다.",
+  "en": "In the Sotokanda 3-chome block west of Chuo-dori, on the basement floor of the building at 3-2-14 beside the Akibaoo parts-and-sundries shop. Six minutes from JR Akihabara's Electric Town Exit, seven from Hibiya-line exit 3, eight from the Tsukuba Express A2 exit. There is no lift, so it is stairs down."
+ },
+ "tips": {
+  "ko": [
+   "상시 영업하는 가게가 아니라 이벤트·대관이 있는 날만 여는 사전 예약제 공간이다. 가기 전에 출연자나 주최 측 공지로 그날 공연을 확인해야 한다.",
+   "스탠딩 최대 150명, 시어터 형식 100명, 테이블 형식 80명 규모이고 바닥 면적은 약 200제곱미터다.",
+   "지하 1층이고 엘리베이터가 없어 계단만 있다. 시설 내 주차장도 없다.",
+   "실내는 전면 금연이며 남녀 구분 탈의실과 분장실 2실이 있어 코스프레 촬영·아이돌 라이브에 자주 쓰인다.",
+   "2017년 개업, 운영사는 사운드 그래피티이고 자매 시설은 요쓰야 LOTUS다."
+  ],
+  "en": [
+   "It is not a walk-in venue: it opens only for booked events, so check the performer's or organiser's announcement for the day before heading over.",
+   "Capacity is 150 standing, 100 theatre-style or 80 at tables, in about 200 square metres.",
+   "It sits one floor underground with no lift - stairs only - and has no parking of its own.",
+   "The venue is fully non-smoking and has separate changing rooms and two dressing rooms, which is why idol lives and cosplay shoots use it.",
+   "Opened in 2017 and run by Sound Graffiti, whose sister venue is Yotsuya LOTUS."
+  ]
+ },
+ "official_url": "https://akihabarazest.com/",
+ "sns": {
+  "x": "https://x.com/akihabarazest"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabarazest.com/",
+  "https://akihabarazest.com/about",
+  "https://akihabarazest.com/access",
+  "https://akihabarazest.com/floor",
+  "https://akihabarazest.com/schedule",
+  "https://akihabarazest.com/english"
+ ],
+ "osm_id": "node/5230307078"
+}

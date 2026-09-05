@@ -1,0 +1,113 @@
+{
+ "id": "hobby-off-akihabara",
+ "name": {
+  "ko": "호비오프 아키하바라점",
+  "en": "Hobby Off Akihabara",
+  "ja": "ホビーオフ秋葉原店"
+ },
+ "synonyms": [
+  "호비오프",
+  "하드오프 호비오프",
+  "호비・오프 아키하바라",
+  "Hobby Off",
+  "HOBBY OFF Akihabara",
+  "HardOff Hobby Off",
+  "ホビーオフ",
+  "ホビー・オフ秋葉原店",
+  "ハードオフ秋葉原2号館"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "used",
+  "figure",
+  "gunpla",
+  "plastic_model",
+  "trading_card",
+  "model_train",
+  "minicar",
+  "model_gun",
+  "radio_control",
+  "buyback",
+  "tax_free",
+  "gacha"
+ ],
+ "one_line": {
+  "ko": "중고 피규어·건프라·트레카·철도모형·미니카를 파는 하드오프 계열 3·4층 매장",
+  "en": "Used figures, Gunpla, trading cards, model trains and minicars on 3F-4F"
+ },
+ "building_id": null,
+ "floors": [
+  "3F",
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702112,
+  "lng": 139.770644
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-8-1 3F・4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://www.hardoff.co.jp/shop/detail/?p=108032"
+ },
+ "tax_free": true,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "이른바 '정크 거리(ジャンク通り)' 쪽에 있는 건물의 3층과 4층이다. 도쿄메트로 긴자선 스에히로초역 3번 출구에서 약 150m·도보 2분으로, 쿠라마에바시도리를 주오도리 반대 방향으로 120m 간 뒤 세 번째 골목에서 좌회전해 90m 왼쪽. JR 아키하바라역 전기가 출구에서는 도보 7분으로, 주오도리를 건너 소프맵 서브컬처·모바일관 앞에서 좌회전, 만다라케 앞 두 번째 골목에서 우회전해 200m 직진하면 하드오프 1호점에서 180m 더 간 오른쪽이다.",
+  "en": "The 3rd and 4th floors of a building on Akihabara's so-called Junk Street. From Tokyo Metro Ginza Line Suehirocho station exit 3 it is about 150 m (2 min): go 120 m along Kuramaebashi-dori away from Chuo-dori, turn left at the third alley, and it is 90 m ahead on the left. From the JR Akihabara Electric Town exit it is about 7 min: cross Chuo-dori, turn left before Sofmap Subculture & Mobile, turn right at the second alley in front of Mandarake, go 200 m straight, and it is 180 m past Hard Off Akihabara No.1 on the right."
+ },
+ "tips": {
+  "ko": [
+   "공식 점포 페이지에 TAX FREE 매장으로 표시되어 있다.",
+   "하드오프와 한 건물을 쓰는 복합점이라 같은 3·4층에서 중고 오디오·게임기도 함께 볼 수 있다.",
+   "약 180m 앞의 하드오프 아키하바라 1호점(외신전3-11-2 록빌 B1F·2F·3F)은 악기·오디오·카메라 중심의 별개 매장이다.",
+   "프라이즈 경품부터 프리미엄 상품까지 매입한다고 점장 코멘트에 안내되어 있다."
+  ],
+  "en": [
+   "The official store page marks it as a TAX FREE shop.",
+   "It is a combined store sharing the building with Hard Off, so used audio and game hardware sit on the same 3F-4F.",
+   "Hard Off Akihabara No.1, 180 m away at Sotokanda 3-11-2 Rock Building B1F/2F/3F, is a separate shop focused on instruments, audio and cameras.",
+   "The manager's note says they buy everything from crane-game prize items up to premium collectibles."
+  ]
+ },
+ "official_url": "https://www.hardoff.co.jp/shop/detail/?p=108032",
+ "sns": {},
+ "chain": "hardoff",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hardoff.co.jp/shop/detail/?p=108032",
+  "https://www.hardoff.co.jp/shop/detail/?p=101062"
+ ],
+ "osm_id": "node/13139741091"
+}

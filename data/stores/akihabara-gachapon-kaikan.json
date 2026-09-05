@@ -1,0 +1,135 @@
+{
+ "id": "akihabara-gachapon-kaikan",
+ "name": {
+  "ko": "아키하바라 가챠폰 회관",
+  "en": "Akihabara Gachapon Kaikan",
+  "ja": "秋葉原ガチャポン会館"
+ },
+ "synonyms": [
+  "가챠폰 회관",
+  "가챠폰회관",
+  "가차폰 회관",
+  "가샤폰 회관",
+  "아키바 가챠폰 회관",
+  "ガチャポン会館",
+  "秋葉原ガチャポン会館",
+  "Gachapon Kaikan",
+  "Gashapon Kaikan",
+  "Akiba Gachapon Kaikan",
+  "Akihabara Gachapon Hall",
+  "Gachapon Hall",
+  "capsule toy hall",
+  "akibagacha"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gacha",
+  "capsule_toy",
+  "new"
+ ],
+ "one_line": {
+  "ko": "캡슐토이 기계 약 500대가 한 층에 빼곡한 가챠 전문점. 절판 구작부터 이달 신작까지",
+  "en": "Some 500 capsule-toy machines on one floor, from old series to this month's releases."
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701856,
+  "lng": 139.77125
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴(치요다구 관광협회 자료에는 1월 1일만 휴무로 표기)",
+   "en": "Open every day (the Chiyoda tourism listing notes a 1 January closure)"
+  },
+  "note": {
+   "ko": "토요일도 평일과 같은 20:00 마감이고 19:00 마감은 일요일·공휴일뿐. 공식 페이지는 '평일 / 일·공휴일'만 구분하므로 토요일 20:00은 GOOD LUCK TRIP과 Gacha Post(2026-08-08 갱신) 기준. 임시 변경은 공식 X에 공지된다.",
+   "en": "Saturday closes at 20:00 like weekdays; only Sundays and public holidays close at 19:00. The official page splits its hours into 平日 / 日祝日 only, so the Saturday time comes from GOOD LUCK TRIP and Gacha Post (updated 2026-08-08). Temporary changes are posted on the official X account."
+  },
+  "source_url": "https://www.akibagacha.com/"
+ },
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구로 나와 주오도리 서쪽 보도를 따라 남쪽으로 약 90m 내려가 첫 번째 오른쪽(서쪽) 일방통행 골목으로 들어간다. 골목 약 20m 앞 왼편(남쪽) MN빌딩 1층으로, 길에서도 캡슐 기계가 보이고 'ガチャポン会館' 간판이 걸려 있다.",
+  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south along the west sidewalk of Chuo-dori and turn right into the first narrow one-way side street. The shop is about 20 m in on the left (south) side, ground floor of the MN Building, with capsule machines visible from the lane under the ガチャポン会館 sign."
+ },
+ "tips": {
+  "ko": [
+   "기계는 현금(동전) 전용이며 1회 100~500엔. 카드는 받지 않고 매장 안 지폐 교환기는 1,000엔권만 받으므로 동전과 천 엔짜리를 준비할 것.",
+   "공식 사이트의 '今月のスケジュール'(이달 입고 예정표)가 매달 갱신되므로(최근 갱신 2026-09-01) 원하는 시리즈의 입고일을 미리 확인할 수 있다.",
+   "매장 안쪽에는 캡슐토이 외에 피규어 판매 코너가 있고, '당첨' 스티커가 나오면 무료권·경품을 주는 이벤트도 수시로 열린다.",
+   "토요일은 20:00, 일요일·공휴일은 19:00 마감. 스에히로초역 3번 출구에서 도보 약 2분으로 JR 전기가 출구(약 7분)보다 가까워 주오도리를 북쪽으로 훑은 뒤 마지막에 들르기 좋다."
+  ],
+  "en": [
+   "Machines take cash (coins) only, 100-500 yen a play; cards are not accepted and the in-store changer takes 1,000-yen notes only, so bring coins and 1,000-yen bills.",
+   "The monthly arrival list (今月のスケジュール) on the official site is refreshed every month - last updated 1 September 2026 - so you can check release dates before you go.",
+   "Past the machines at the back there is a figure sales corner, and the shop periodically runs a sticker draw that pays out free plays or prizes.",
+   "Saturdays close at 20:00 and Sundays and public holidays at 19:00; Suehirocho exit 3 is about 2 minutes away versus roughly 7 from JR Akihabara's Electric Town exit, so it works well as the last stop of a walk north along Chuo-dori."
+  ]
+ },
+ "official_url": "https://www.akibagacha.com/",
+ "sns": {
+  "x": "https://x.com/akibagacha"
+ },
+ "chain": null,
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.akibagacha.com/",
+  "https://www.akibagacha.com/schedule.php",
+  "https://x.com/akibagacha",
+  "https://www.gltjp.com/ja/directory/item/16985/",
+  "https://gachapost.jp/feature/20260604-w0smle",
+  "https://rurubu.jp/andmore/spot/80010400",
+  "https://visit-chiyoda.tokyo/app/spot/detail/440",
+  "https://akihabara.kokosil.net/ja/place/00001c00000000000002000000340712",
+  "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%96%E3%83%AA%E3%82%A8%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0",
+  "https://www.openstreetmap.org/node/4274726996"
+ ],
+ "osm_id": "node/4274726996",
+ "photo": {
+  "url": "/photos/akihabara-gachapon-kaikan.jpg",
+  "kind": "interior",
+  "credit": "Ubahnverleih · CC0 · Wikimedia Commons",
+  "license": "CC0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Gashapon_Shop_in_Akihabara,_Tokyo,_Japan.jpg",
+  "taken_on": "2016"
+ }
+}

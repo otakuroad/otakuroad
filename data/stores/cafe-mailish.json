@@ -1,0 +1,132 @@
+{
+ "id": "cafe-mailish",
+ "name": {
+  "ko": "카페 메이리쉬",
+  "en": "Cafe Mai:lish",
+  "ja": "Cafe Mai:lish（カフェ メイリッシュ）"
+ },
+ "synonyms": [
+  "메이리쉬",
+  "카페 메이리쉬",
+  "메이리시",
+  "메일리쉬",
+  "메이릿슈",
+  "Cafe Mailish",
+  "Mai:lish",
+  "Mailish",
+  "cafe mai lish",
+  "カフェ メイリッシュ",
+  "カフェメイリッシュ",
+  "メイリッシュ",
+  "メイリ",
+  "FH協和スクエア メイドカフェ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "cosplay",
+  "black_tea",
+  "home_cooking",
+  "free_wifi",
+  "no_photo",
+  "event_day",
+  "reservation",
+  "cash_only"
+ ],
+ "one_line": {
+  "ko": "2002년 문을 연 메이드 카페. 홍차와 가정식, 요일별 코스프레 의상",
+  "en": "Maid cafe open since 2002, serving black tea and light meals; themed costume days"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702345,
+  "lng": 139.769581
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-6-2 FH協和スクエア2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "thu"
+    ],
+    "open": "14:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 수요일",
+   "en": "Closed on Wednesdays"
+  },
+  "note": {
+   "ko": "라스트오더는 식사 21:00, 음료 21:30. 수요일은 정기 휴무이며 공휴일은 12:00 개점. 금요일 밤에는 22:00부터 다음 날 05:00까지 심야 영업 '살롱 메이리쉬'를 부정기로 열며, 개최일은 공식 X와 이벤트 안내에 올라온다.",
+   "en": "Last order is 21:00 for food and 21:30 for drinks. Closed Wednesdays; public holidays follow the 12:00 opening. On some Friday nights the cafe runs the late-night 'Salon Mai:lish' from 22:00 until 05:00, announced irregularly on the official X account and event page."
+  },
+  "source_url": "https://www.mailish.jp/about.html"
+ },
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 8분, 도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 3분. 스에히로초역 3번 출구로 나와 주오도리와 교차하는 길을 왼쪽으로 들어가면 왼편에 파출소가 보이고, 첫 신호 '쓰마코이자카 교차로'에서 왼쪽으로 약 50m. 1층에 야요이켄(やよい軒), 옆에 미용실 off-kai가 있는 FH협화스퀘어 빌딩 2층이다.",
+  "en": "Eight minutes from the JR Akihabara Electric Town exit, three minutes from exit 3 of Suehirocho on the Ginza line. From exit 3 take the street crossing Chuo-dori to the left, pass the police box on your left, then turn left at the first signal (Tsumakoizaka crossing) and walk about 50 m. It is the 2nd floor of the FH Kyowa Square building, the one with the Yayoiken restaurant on the ground floor and the off-kai hair salon next door."
+ },
+ "tips": {
+  "ko": [
+   "90분 원오더제(90분 동안 1인 1주문 이상)이고 테이블 차지는 없다. 혼잡할 때는 90분 교체제로 운영될 수 있다.",
+   "매장 내부와 웨이트리스 촬영·녹음은 금지되고, 주문한 음식만 직원에게 말한 뒤 찍을 수 있다. 매장 안에서 카드 게임 등 게임을 하는 것도 금지되어 있다.",
+   "목요일은 종일 클래시컬 메이드복을 입는 '클래시컬 메이드 DAY', 매월 30일은 'mimy*Day'이며 주말에는 거의 매주 자체 이벤트가 열린다.",
+   "무료 Wi-Fi와 콘센트를 자유롭게 쓸 수 있고, 1,000엔마다 스탬프를 찍어 20개를 모으면 비매품 굿즈로 교환해 준다.",
+   "공식 공지 기준 카드 단말기 고장으로 현재 현금 결제만 가능하다. 방문 전에 공식 사이트 공지를 확인하는 편이 좋다.",
+   "평일(월·화·목 14:00~20:00, 금 12:00~20:00)에 전화(03-5289-7310)로 좌석 예약을 받는다. 수요일·주말·공휴일·이벤트 기간은 예약 불가."
+  ],
+  "en": [
+   "A 90-minute, one-order-per-person system with no table charge; when busy the cafe may switch to strict 90-minute turnover.",
+   "Photographing or recording the room and the waitresses is not allowed; you may photograph your own food after asking a member of staff. Playing card games in the cafe is also asked against.",
+   "Thursday is 'Classical Maid DAY' with classical maid uniforms all day, the 30th of each month is 'mimy*Day', and the shop runs its own events most weekends.",
+   "Free Wi-Fi and power outlets are open to customers, and a stamp card gives one stamp per 1,000 yen, with 20 stamps exchangeable for an original not-for-sale gift.",
+   "Per the official notice the card terminal is out of order and payment is cash only for now, so check the site's notice before going.",
+   "Table reservations are taken by phone (03-5289-7310) on weekdays only (Mon/Tue/Thu 14:00-20:00, Fri 12:00-20:00); no reservations on Wednesdays, weekends, holidays or event days."
+  ]
+ },
+ "official_url": "https://www.mailish.jp/",
+ "sns": {
+  "x": "https://x.com/cafemailish"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.mailish.jp/",
+  "https://www.mailish.jp/about.html",
+  "https://www.mailish.jp/access.html",
+  "https://www.mailish.jp/news.html",
+  "https://www.mailish.jp/menu.html",
+  "https://ja.wikipedia.org/wiki/Cafe_Mai:lish"
+ ],
+ "osm_id": "node/3889725838"
+}

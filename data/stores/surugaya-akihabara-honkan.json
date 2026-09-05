@@ -1,0 +1,178 @@
+{
+ "id": "surugaya-akihabara-honkan",
+ "name": {
+  "ko": "스루가야 아키하바라 본관",
+  "en": "Surugaya Akihabara Main Store",
+  "ja": "駿河屋 秋葉原本館"
+ },
+ "synonyms": [
+  "스루가야 본관",
+  "스루가야 아키바 본관",
+  "슈루가야 아키하바라 본관",
+  "슈루가야",
+  "駿河屋秋葉原本館",
+  "駿河屋 秋葉原",
+  "Surugaya Akihabara Honkan",
+  "Suruga-ya Akihabara Main Store",
+  "Surugaya Akiba Honkan",
+  "Suruga-ya"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "new",
+  "figure",
+  "toy",
+  "tapestry",
+  "pc_game",
+  "doujin_soft",
+  "adult_video",
+  "r18",
+  "trading_card",
+  "pokemon_card",
+  "event_space",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "중고 피규어·애니 잡화·PC 동인 소프트를 8개 층에 나눠 파는 잔쿠도리 대형 중고점",
+  "en": "Eight floors of used figures, anime goods and PC/doujin software; 5F-6F adults only"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "2026-09-14 포켓몬 카드 중심 트레카 전문층으로 리뉴얼 오픈(09-07~09-13 공사 휴업)",
+   "en": "Reopens 14 Sep 2026 as a trading card floor centred on Pokemon cards (closed 7-13 Sep for work)"
+  },
+  {
+   "floor": "2F",
+   "ko": "매입 카운터(피규어·완구·애니 잡화·가전·PC 동인 소프트 등)",
+   "en": "Buyback counter (figures, toys, anime goods, appliances, PC and doujin software)"
+  },
+  {
+   "floor": "5F",
+   "ko": "성인 전용층 — 성인용 상품만 취급, 18세 미만 출입 불가",
+   "en": "Adults-only floor stocking adult items only — no entry under 18"
+  },
+  {
+   "floor": "6F",
+   "ko": "성인 전용층(5F에서 이어짐) — 18세 미만 출입 불가",
+   "en": "Second adults-only floor continuing from 5F — no entry under 18"
+  },
+  {
+   "floor": "8F",
+   "ko": "이벤트 스페이스(그라비아 아이돌 이벤트 등, 개최 시에만 입장)",
+   "en": "Event space used for gravure idol and similar events; open only during events"
+  }
+ ],
+ "location": {
+  "lat": 35.700621,
+  "lng": 139.770541
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-11-3",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "1F는 2026-09-07~09-13 개장 공사로 휴업하며 2F~7F는 정상 영업, 09-14에 1F가 포켓몬 카드 중심 트레카 전문층으로 리뉴얼 오픈한다. 8F 이벤트 스페이스는 이벤트 개최 시에만 이용할 수 있다.",
+   "en": "1F is closed for renovation 7-13 Sep 2026 (2F-7F open as usual) and reopens on 14 Sep as a Pokemon-card trading card floor. The 8F event space is open only during events."
+  },
+  "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "5F",
+   "6F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에서 한 블록 서쪽인 잔쿠도리(ジャンク通り) 동편에 선 8층짜리 좁은 건물로, 파란 바탕의 駿河屋 간판이 층마다 걸려 있다. 바로 옆이 하드오프 아키하바라 1호점과 APA 호텔이고 같은 편 약 30m 남쪽이 만다라케 컴플렉스다. 층별 구성은 1F 입구 옆 플로어 가이드 게시판에서 확인할 수 있다.",
+  "en": "A narrow eight-storey building on the east side of Junk Street (ジャンク通り), one block west of Chuo-dori, with blue 駿河屋 signs on every floor. Hard Off Akihabara No.1 and the APA Hotel are next door and Mandarake Complex is about 30 m south on the same side. The floor guide board stands by the 1F entrance."
+ },
+ "tips": {
+  "ko": [
+   "평일은 11:00, 토·일·공휴일은 10:00 개점. 8개 층을 다 돌려면 1시간 이상 잡는 것이 좋다.",
+   "5F·6F는 성인용 상품만 취급하는 성인 전용층으로 18세 미만은 들어갈 수 없다.",
+   "매입 카운터는 2F. 매회 신분증이 필요하고 첫 매입 때 회원증을 등록한다. 일부 서적·팸플릿·동인지는 매입 대상이 아니다.",
+   "1F는 2026-09-07~09-13 공사로 휴업한 뒤 09-14 포켓몬 카드 중심 트레카 전문층으로 리뉴얼 오픈한다(8/30 영업을 끝낸 트레카·보드게임관의 기능을 통합)."
+  ],
+  "en": [
+   "Opens 11:00 on weekdays and 10:00 on Saturdays, Sundays and public holidays; allow an hour or more to cover all eight floors.",
+   "5F and 6F are adults-only floors carrying adult items exclusively; no entry under 18.",
+   "The buyback counter is on 2F. Photo ID is required every time and a member card is issued at your first sale; some books, pamphlets and doujinshi are not bought here.",
+   "1F closes for renovation 7-13 Sep 2026 and reopens on 14 Sep as a Pokemon-card trading card floor, absorbing the Trading Card & Board Game annex that closed on 30 Aug."
+  ]
+ },
+ "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html",
+ "sns": {
+  "x": "https://x.com/surugaya_akibah",
+  "instagram": "https://www.instagram.com/surugaya_akihabara_honkan/"
+ },
+ "chain": "surugaya",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html",
+  "https://web.archive.org/web/20260226170852/https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html",
+  "https://www.suruga-ya.co.jp/ja/node/2478",
+  "https://www.suruga-ya.co.jp/ja/node/727",
+  "https://web.archive.org/web/20250831230359/https://www.suruga-ya.jp/feature/shoplist_ad/index.html",
+  "https://prtimes.jp/main/html/rd/p/000000047.000005308.html",
+  "https://hjweb.jp/shop/12578/",
+  "https://otaspoguide.com/1760/",
+  "https://map.j-coin.jp/jcoinpay/spot/detail?code=S198101",
+  "https://commons.wikimedia.org/wiki/File:A-too_Suruga-ya_Akihabara.jpg"
+ ],
+ "osm_id": "node/1916474573",
+ "photo": {
+  "url": "/photos/surugaya-akihabara-honkan.jpg",
+  "kind": "exterior",
+  "credit": "Qurren · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:A-too_Suruga-ya_Akihabara.jpg",
+  "taken_on": "2019-11-02"
+ }
+}

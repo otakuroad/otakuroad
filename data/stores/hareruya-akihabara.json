@@ -1,0 +1,117 @@
+{
+ "id": "hareruya-akihabara",
+ "name": {
+  "ko": "하레루야 아키하바라점",
+  "en": "Hareruya Akihabara",
+  "ja": "晴れる屋 秋葉原店"
+ },
+ "synonyms": [
+  "하레루야",
+  "하레루야 아키바",
+  "하레루야 MTG",
+  "晴れる屋",
+  "晴れる屋秋葉原",
+  "HARERUYA",
+  "Hareruya MTG",
+  "hareruyamtg",
+  "ミカサビル"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "mtg",
+  "singles",
+  "booster_pack",
+  "supplies",
+  "buyback",
+  "play_space",
+  "tournament",
+  "tax_free",
+  "wpn_premium"
+ ],
+ "one_line": {
+  "ko": "매직 더 개더링 싱글카드·팩 전문점, 무료 플레이 공간 82석과 매일 대회",
+  "en": "Magic: The Gathering singles and sealed product, with 82 free play seats and daily events"
+ },
+ "building_id": null,
+ "floors": [
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698399,
+  "lng": 139.770732
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-2-5 ミカサビル2F〜5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 점포 페이지 기준 '전일 10:00~23:00, 연중무휴'.",
+   "en": "The official store page states 10:00-23:00 every day, open year-round."
+  },
+  "source_url": "https://www.hareruyamtg.com/ja/user_data/shop_akihabara?shop=8"
+ },
+ "tax_free": true,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 오노덴(オノデン) 바로 옆, 마우스컴퓨터 직영점 옆 '미카사 빌딩(ミカサビル)' 2~5층 전층. 예전 다카라다 주오도리 빌딩 8층에서 이전했으므로 오래된 지도·앱 정보에 주의.",
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, on Chuo-dori beside Onoden and the Mouse Computer shop: floors 2F-5F of the Mikasa Building. It moved from 8F of the Takarada Chuo-dori Building, so older maps and apps still point to the wrong place."
+ },
+ "tips": {
+  "ko": [
+   "무료 플레이 공간 82석으로 아키하바라 최대급. 매일 초보자 체험회와 데일리 이벤트가 열린다.",
+   "면세 판매를 하는 점포이며 저지 자격자와 티칭마이스터가 상주한다.",
+   "10:00~23:00 연중무휴라 늦은 시간에도 들를 수 있다.",
+   "포켓몬 카드는 근처 외신다 1-2-13의 '하레루야2 아키하바라 타워점'으로 브랜드가 나뉘어 있다."
+  ],
+  "en": [
+   "82 free play seats, among the largest in Akihabara, with a beginners' session and daily events every day.",
+   "A tax-free store with certified judges and teaching-meister staff on site.",
+   "Open 10:00-23:00 year-round, so it works as a late stop.",
+   "Pokemon cards are handled by the separate Hareruya2 Akihabara Tower store at Sotokanda 1-2-13."
+  ]
+ },
+ "official_url": "https://www.hareruyamtg.com/ja/user_data/shop_akihabara?shop=8",
+ "sns": {
+  "x": "https://x.com/hareruya__akiba"
+ },
+ "chain": "hareruya",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hareruyamtg.com/ja/user_data/shop_akihabara?shop=8",
+  "https://www.hareruyamtg.com/ja/user_data/store_menu"
+ ],
+ "osm_id": null
+}

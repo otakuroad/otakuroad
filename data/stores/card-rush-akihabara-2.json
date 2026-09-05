@@ -1,0 +1,133 @@
+{
+ "id": "card-rush-akihabara-2",
+ "name": {
+  "ko": "카드러시 아키하바라 2호점",
+  "en": "Card Rush Akihabara 2nd Store",
+  "ja": "カードラッシュ秋葉原2号店"
+ },
+ "synonyms": [
+  "카드러시",
+  "카드러쉬",
+  "카드러시 아키하바라",
+  "카드러시 2호점",
+  "카드러시 아키하바라 본점",
+  "Card Rush",
+  "Card Rush Akihabara",
+  "Card Rush Akihabara No.2",
+  "cardrush",
+  "カードラッシュ",
+  "カードラッシュ 秋葉原2号店",
+  "カードラッシュ秋葉原本店",
+  "大森ビルのカードラッシュ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "yugioh",
+  "mtg",
+  "pokemon_card",
+  "one_piece_card",
+  "duel_masters",
+  "vanguard",
+  "battle_spirits",
+  "weiss_schwarz",
+  "digimon_card",
+  "shadowverse_evolve",
+  "sealed_box",
+  "buyback",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "유희왕·MTG·포켓몬·원피스 등 TCG 싱글과 미개봉 상품을 파는 2개 층 매장",
+  "en": "Two floors of Yu-Gi-Oh!, MTG, Pokemon and One Piece singles and sealed product"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698495,
+  "lng": 139.769785
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-3-13 大森ビル1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무(不定休)",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "공식 사이트는 이 시간이 카드러시 전 점포 공통이라고 안내한다. 평일은 13:00, 토·일·공휴일은 11:00 개점으로 시작 시간이 다르다.",
+   "en": "The official site states these hours are the same at every Card Rush branch. Opening differs by day: 13:00 on weekdays, 11:00 on weekends and public holidays."
+  },
+  "source_url": "https://www.cardrush.jp/page/57"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "공식 안내 기준: JR 아키하바라역 전기가 출구를 나와 왼쪽, 이어서 오른쪽 주오도리 방면으로 간다. 주오도리 오른편 신호를 건너 마쓰모토키요시 왼쪽 골목으로 들어가 하레루야2를 지나면 왼쪽에 보이는 건물의 1·2층이다.",
+  "en": "Per the official directions: leave JR Akihabara by the Electric Town Exit, turn left and then right toward Chuo-dori. Cross at the signal on the right-hand side of Chuo-dori, take the lane to the left of Matsumoto Kiyoshi, pass HARERUYA2, and the shop is the 1F and 2F of the building on your left."
+ },
+ "tips": {
+  "ko": [
+   "평일은 13:00, 토·일·공휴일은 11:00 개점이다. 아키하바라 카드숍 중에서도 늦게 여는 편이니 오전 일정에는 넣지 않는 편이 좋다.",
+   "아키하바라에는 카드러시 0호점TC(외신다 1-18-18 BiTO AKIBA PLAZA 7층)가 따로 있다. 노면 2개 층 매장이 이 2호점이다.",
+   "일부 카드숍 디렉터리는 같은 주소를 '아키하바라 본점'으로 적지만 공식 사이트 표기는 2호점이다.",
+   "매입은 상시 접수하며 임시 휴업·이벤트는 점포 X(@cardrush_akiba2)에 공지된다."
+  ],
+  "en": [
+   "It opens at 13:00 on weekdays and 11:00 on weekends and holidays — late even by Akihabara card-shop standards, so do not plan it for the morning.",
+   "Card Rush also runs Akihabara No.0 TC on 7F of BiTO AKIBA PLAZA (Sotokanda 1-18-18); this two-floor street-level shop is the No.2 store.",
+   "Some card-shop directories file this address as the 'Akihabara main store', but the official site calls it No.2.",
+   "Buyback is taken every day; closures and events are posted on the shop's X account (@cardrush_akiba2)."
+  ]
+ },
+ "official_url": "https://www.cardrush.jp/page/68",
+ "sns": {
+  "x": "https://x.com/cardrush_akiba2"
+ },
+ "chain": "card-rush",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.cardrush.jp/page/68",
+  "https://www.cardrush.jp/page/57",
+  "https://www.cardrush.jp/page/102",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2224"
+ ],
+ "osm_id": "node/10137262918"
+}

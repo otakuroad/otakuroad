@@ -1,0 +1,113 @@
+{
+ "id": "otona-nanoni-joji-fuku-cafe",
+ "name": {
+  "ko": "#어른인데 여아복 입고 있는 카페",
+  "en": "Otona nanoni Jojifuku Kiteru Cafe",
+  "ja": "#大人なのに女児服着てるカフェ"
+ },
+ "synonyms": [
+  "어른인데 여아복 입은 카페",
+  "여아복 카페",
+  "조지후쿠 카페",
+  "Jyojifuku Cafe",
+  "Otona-naoni Jojifuku kiteru cafe",
+  "jyojihuku",
+  "大人なのに女児服着てるカフェ",
+  "女児服カフェ",
+  "#大人なのに女児服着てるカフェ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid_cafe",
+  "concept_cafe",
+  "cheki",
+  "costume"
+ ],
+ "one_line": {
+  "ko": "메이드복 대신 여아복(아동복)을 입은 스태프가 응대하는 콘셉트 카페",
+  "en": "Concept cafe whose staff wear girls' children's clothing instead of maid uniforms"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702347,
+  "lng": 139.770664
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-8-3 第4針谷ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "18:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "16:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 기준 평일 18:00~23:00, 토·일·공휴일 16:00~23:00으로 YUKIMI 계열 중 가장 늦게 문을 연다. 정기휴일 안내는 없다.",
+   "en": "18:00-23:00 on weekdays and 16:00-23:00 at weekends and holidays per the official site — the latest opening of the YUKIMI group; no regular closing day is stated."
+  },
+  "source_url": "https://akiba-maidcafe.co.jp/jyojihuku/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 5분. 주오도리에서 서쪽으로 한 블록 들어간 중고 PC 상점 골목에 있으며, 하드오프·호비오프 아키하바라 2호관과 아키바 팔레트타운 사이 제4하리야(第4針谷) 빌딩 3층이다.",
+  "en": "Five minutes from JR Akihabara, on the used-PC back street a block west of Chuo-dori: 3F of the Dai-4 Hariya Building, between Hard Off / Hobby Off Akihabara 2 and Akiba Pallet Town."
+ },
+ "tips": {
+  "ko": [
+   "평일 18:00, 토·일·공휴일 16:00 개점으로 저녁부터만 영업한다.",
+   "공식 사이트가 밝힌 예산대는 1인 1,000~3,000엔이며, 요금표와 시스템은 이미지로만 게시되어 있다.",
+   "결제 수단 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다.",
+   "주변은 중고 PC·정크 상점 골목이고 같은 골목에 걸스바 등 다른 업종도 섞여 있으니 건물 층 표시를 확인한다."
+  ],
+  "en": [
+   "Opens at 18:00 on weekdays and 16:00 at weekends and holidays, so it is an evening-only stop.",
+   "The official site gives a budget of 1,000-3,000 yen per person; the price list and system are posted only as images.",
+   "No payment methods are stated officially, so bring cash to be safe.",
+   "The street is a used-PC and junk-shop block that also holds girls' bars and other trades, so check the floor sign before going up."
+  ]
+ },
+ "official_url": "https://akiba-maidcafe.co.jp/jyojihuku/",
+ "sns": {
+  "x": "https://x.com/jyojifuku_Cafe"
+ },
+ "chain": "yukimi",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-maidcafe.co.jp/jyojihuku/",
+  "https://akiba-maidcafe.co.jp/",
+  "https://akiba-maidcafe.co.jp/en/"
+ ],
+ "osm_id": "way/89002328"
+}

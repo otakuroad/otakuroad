@@ -1,0 +1,108 @@
+{
+ "id": "luidas-bar-akihabara",
+ "name": {
+  "ko": "루이다의 술집",
+  "en": "LUIDA'S BAR",
+  "ja": "LUIDA'S BAR ルイーダの酒場"
+ },
+ "synonyms": [
+  "루이다의 주점",
+  "루이다 술집",
+  "드래곤퀘스트 카페",
+  "드퀘 콜라보 카페",
+  "LUIDAS BAR",
+  "Luida's Bar Akihabara",
+  "Dragon Quest Bar",
+  "ルイーダの酒場",
+  "ルイーダの酒場 秋葉原",
+  "ドラクエ酒場",
+  "ドラゴンクエスト ルイーダの酒場"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "collab_cafe",
+  "game_collab",
+  "dragon_quest",
+  "square_enix",
+  "tavern",
+  "reservation",
+  "coaster",
+  "limited_menu"
+ ],
+ "one_line": {
+  "ko": "드래곤 퀘스트 공식 콜라보 술집. 게임 속 요리·슬라임 디저트와 코스터",
+  "en": "Dragon Quest official collaboration tavern: in-game dishes, slime desserts and coasters"
+ },
+ "building_id": "pasela-akiba",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-1-10 パセラリゾーツAKIBAマルチエンターテインメント1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:30",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일은 자유석이지만 혼잡할 때는 최대 2시간까지, 토·일·공휴일은 90분 교체제로 5개 시간대가 정해져 있다. 예약은 필수가 아니나 웹 예약 권장.",
+   "en": "Weekdays are free seating, capped at two hours when busy; on weekends and public holidays the day is split into five 90-minute seating slots. Reservations are not required but are recommended."
+  },
+  "source_url": "https://paselabo.pasela.co.jp/luidas_bar/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 남쪽 출구에서 도보 4분. 주오도리를 만세이바시 방향으로 남쪽으로 내려가 지요다구 만세이바시 구민관 앞 골목에서 우회전하면 왼쪽의 파세라 리조트 AKIBA 건물이다. 매장은 1층에 있으며, 같은 1층에 카라오케 파세라 접수와 허니토스트 카페(ハニトーカフェ)가 함께 있어 입구를 헷갈리기 쉽다.",
+  "en": "Four minutes from the JR Akihabara Electric Town South Exit: walk south on Chuo-dori toward Mansei Bridge and turn right at the side street by the Chiyoda Manseibashi Kumin-kan; Pasela Resorts AKIBA is on your left. The bar is on 1F, which it shares with the Karaoke Pasela reception desk and Hanito Cafe, so look for the LUIDA'S BAR sign rather than the first door you see."
+ },
+ "tips": {
+  "ko": [
+   "2020년 11월 롯폰기에서 이곳으로 이전한 드래곤 퀘스트 공식 콜라보 점포로, 기간 한정이 아닌 상설 매장이다.",
+   "1인당 테이블 차지가 있고 서비스 드링크가 포함된다. 입장할 때 랜덤 홀로그램 코스터를 준다.",
+   "토·일·공휴일은 90분 교체제라 시간대별 예약이 빠르게 마감된다. 웹 예약 후 방문하는 편이 안전하다."
+  ],
+  "en": [
+   "A permanent Dragon Quest official collaboration venue, not a limited-time pop-up; it moved here from Roppongi in November 2020.",
+   "There is a per-person table charge that includes a service drink, and every guest gets a random holographic coaster on arrival.",
+   "Weekend and holiday 90-minute slots fill up, so book online before you go."
+  ]
+ },
+ "official_url": "https://paselabo.pasela.co.jp/luidas_bar/",
+ "sns": {},
+ "chain": "pasela",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://paselabo.pasela.co.jp/luidas_bar/",
+  "https://www.pasela.co.jp/shop/akiba_multi/",
+  "https://www.pasela.co.jp/shop/akiba_multi/map.html",
+  "https://www.dragonquest.jp/news/detail/3359/",
+  "https://akiba.keizai.biz/headline/4671/"
+ ],
+ "osm_id": null
+}

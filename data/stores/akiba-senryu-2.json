@@ -1,0 +1,91 @@
+{
+ "id": "akiba-senryu-2",
+ "name": {
+  "ko": "아키바 센류 2호점",
+  "en": "Akiba Senryu 2nd Store",
+  "ja": "アキバ籤龍 二号店"
+ },
+ "synonyms": [
+  "아키바 센류",
+  "아키바센류 2호점",
+  "센류 2호점",
+  "드래곤본",
+  "Akiba Senryu",
+  "Akiba Senryu No.2",
+  "Dragonbone",
+  "アキバ籤龍",
+  "アキバ籤龍 2号店",
+  "アキバセンリュウ",
+  "ドラゴンボーン"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "prize_figure",
+  "ichiban_kuji",
+  "oripa",
+  "trading_card",
+  "pokemon_card",
+  "import",
+  "buyback",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "해외판 정품 피규어와 이치반쿠지, 원피스·포켓몬 오리파를 파는 1층 매장",
+  "en": "Import figures, ichiban-kuji and One Piece/Pokemon oripa packs on the ground floor"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702228,
+  "lng": 139.771893
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田4-6-3 前里ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 바로 근처, 주오도리 동쪽에 면한 마에사토(前里) 빌딩 1층. 2023년 말까지 산코 레어모노숍 2호점이 있던 자리이며, 같은 4-6번지 안쪽에 운영사 드래곤본 본사(시오타 툴 아키하바라 5F)가 있다.",
+  "en": "On the east side of Chuo-dori right by Tokyo Metro Ginza Line Suehirocho station, on the ground floor of the Maesato Building. It took over the unit that Thanko Rare Mono Shop No.2 occupied until late 2023; the operator Dragonbone's head office sits in the same 4-6 block."
+ },
+ "tips": {
+  "ko": [
+   "운영사 공식 사이트에 따르면 2호점 매입 접수는 평일만 하고 토·일·공휴일은 쉰다.",
+   "외신전 3-7-9의 1호점과는 별개 매장으로 취급 상품이 다르다.",
+   "영업시간은 공식 사이트에 공개되어 있지 않으므로 방문 전 X 계정(@akibasenryuu)을 확인하는 편이 좋다."
+  ],
+  "en": [
+   "Per the operator's official site, the No.2 branch takes buybacks on weekdays only and suspends them on weekends and holidays.",
+   "It is a separate shop from the No.1 branch at Sotokanda 3-7-9 and stocks different goods.",
+   "Opening hours are not published on the official site, so check the X account (@akibasenryuu) before going."
+  ]
+ },
+ "official_url": "https://www.dragonbone-kaitori.com/",
+ "sns": {
+  "x": "https://x.com/akibasenryuu",
+  "instagram": "https://www.instagram.com/dragonboneshop/"
+ },
+ "chain": "akiba-senryu",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.dragonbone-kaitori.com/",
+  "https://ascii.jp/elem/000/004/181/4181102/",
+  "https://akibatoreka.com/introduce/2403"
+ ],
+ "osm_id": "node/4963027561"
+}

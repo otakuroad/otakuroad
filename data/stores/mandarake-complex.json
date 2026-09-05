@@ -1,0 +1,194 @@
+{
+ "id": "mandarake-complex",
+ "name": {
+  "ko": "만다라케 컴플렉스",
+  "en": "Mandarake Complex",
+  "ja": "まんだらけコンプレックス"
+ },
+ "synonyms": [
+  "만다라케 콤플렉스",
+  "만다라케 아키하바라",
+  "만다라케 아키바",
+  "만다라케 컴플렉스 본관",
+  "만다라케 콘프렉스",
+  "Mandarake Complex",
+  "Mandarake Akihabara",
+  "Mandarake Akiba",
+  "Mandarake CMP",
+  "まんだらけ 秋葉原",
+  "まんだらけコンプレックス",
+  "コンプ"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "doujinshi",
+  "bl",
+  "doll",
+  "tokusatsu",
+  "chogokin",
+  "prize_figure",
+  "vintage_manga",
+  "cosplay",
+  "idol_goods",
+  "american_toy",
+  "lego",
+  "magical_girl",
+  "disney",
+  "buyback",
+  "tax_free"
+ ],
+ "one_line": {
+  "ko": "중고 만화·동인지·빈티지 완구·돌·코스프레 의상을 8개 층에 나눠 파는 수집가용 중고 전문점",
+  "en": "Used manga, doujinshi, vintage toys, dolls and cosplay on 8 floors for collectors"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "매입 카운터 · JPA(캐릭터 지우개·미니 피규어 등 잡화) · 코스프레 의상",
+   "en": "Buyback counter, JPA (character erasers, mini figures and small goods), cosplay costumes"
+  },
+  {
+   "floor": "2F",
+   "ko": "디즈니 관련 굿즈",
+   "en": "Disney goods"
+  },
+  {
+   "floor": "3F",
+   "ko": "소년 만화 · 빈티지 만화·잡지(점프 과월호 등)",
+   "en": "Shonen manga and vintage manga/magazines (back issues of Jump etc.)"
+  },
+  {
+   "floor": "4F",
+   "ko": "남성향 동인지 · 성인 코믹 코너(18세 미만 이용 불가)",
+   "en": "Male-oriented doujinshi with an adult comics section (18+ only)"
+  },
+  {
+   "floor": "5F",
+   "ko": "BL·소녀 만화 · 남성 아이돌 굿즈 · 여성향 동인지 · 마법소녀·돌",
+   "en": "BL and shojo manga, male idol goods, female-oriented doujinshi, magical girl toys and dolls"
+  },
+  {
+   "floor": "6F",
+   "ko": "TOY: 아메토이 · 프라모델 · 프라이즈 피규어 · 레고",
+   "en": "Toys: American toys, plastic model kits, prize figures, LEGO"
+  },
+  {
+   "floor": "7F",
+   "ko": "TOY: 특촬 · 초합금 등 빈티지 완구",
+   "en": "Toys: tokusatsu and Chogokin vintage toys"
+  },
+  {
+   "floor": "8F",
+   "ko": "TOY: 미소녀·로봇 피규어",
+   "en": "Toys: bishojo and robot figures"
+  }
+ ],
+ "location": {
+  "lat": 35.700354,
+  "lng": 139.770526
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-11-12",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입 접수는 폐점 30분 전인 19:30까지. 면세 카운터는 19:00까지 운영.",
+   "en": "Buyback counter accepts items until 19:30 (30 min before closing). Tax-free counter closes at 19:00."
+  },
+  "source_url": "https://www.mandarake.co.jp/dir/cmp/"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "4F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리(중앙대로)에서 서쪽으로 한 블록 들어간 뒷골목에 서 있는 온통 검은색 8층 건물로, 전기가 출구에서 도보 약 4분. 검은 외벽에 걸린 세로 'まんだらけ' 간판이 표지이며, 1층 매입 카운터 쪽 입구로 들어가거나 건물 측면 외부 계단으로 원하는 층에 바로 올라갈 수 있다.",
+  "en": "An all-black 8-storey building on the back street one block west of Chuo-dori, about 4 minutes from the Electric Town exit. Look for the vertical まんだらけ (Mandarake) banner on the dark facade; enter by the 1F buyback counter, or use the exterior staircase on the side of the building to go straight to an upper floor."
+ },
+ "tips": {
+  "ko": [
+   "면세는 계산 시 여권을 제시하고 번호표를 받은 뒤 상품을 계산대에 맡기고, 쇼핑을 마친 후 면세 카운터(19:00까지)에서 한꺼번에 수령하는 방식. 세전 5,000엔 이상 구매 시 적용.",
+   "현금 외에 VISA·Master·JCB·Amex 등 신용카드, 교통계 IC, PayPay·Alipay·WeChat Pay 등 QR 결제 사용 가능.",
+   "4층 남성향 동인지 층에는 성인 코믹·잡지 코너가 있어 18세 미만은 이용할 수 없다.",
+   "트레이딩 카드·게임·CD/DVD·철도 굿즈는 2025년 8월 30일 개점한 인근 '만다라케 컴플렉스2'(外神田3-12-2)로 옮겨졌다. 컴플렉스2 물건까지 매입 접수는 본관 1층에서 19:30까지(소프비·디자이너 토이는 만다라케 CoCoo 취급)."
+  ],
+  "en": [
+   "Tax-free works by numbered ticket: show your passport at the register, pay the tax-free price, leave the items, and collect everything at the tax-free counter (until 19:00) when you finish. Minimum 5,000 yen before tax.",
+   "Cash plus VISA, Mastercard, JCB, Amex, transit IC cards and QR payments such as PayPay, Alipay and WeChat Pay are accepted.",
+   "The 4F male-oriented doujinshi floor includes an adult comics and magazines section that is off-limits to anyone under 18.",
+   "Trading cards, video games, CDs/DVDs and railway goods moved to the nearby Mandarake Complex 2 (Soto-Kanda 3-12-2), opened 30 Aug 2025. Buyback for both stores is handled on 1F here until 19:30 (sofubi and designer toys go to Mandarake CoCoo)."
+  ]
+ },
+ "photo": {
+  "url": "/photos/mandarake-complex.jpg",
+  "kind": "exterior",
+  "credit": "street viewer · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Mandarake_Complex,_Akihabara.jpg",
+  "taken_on": "2010-03-06"
+ },
+ "official_url": "https://www.mandarake.co.jp/dir/cmp/",
+ "sns": {
+  "x": "https://x.com/mandarake_cmp",
+  "instagram": "https://www.instagram.com/mandarake.complex/"
+ },
+ "chain": "mandarake",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.mandarake.co.jp/dir/cmp/",
+  "https://earth.mandarake.co.jp/shop/cmp/",
+  "https://www.mandarake.co.jp/dir/cmp/sns.html",
+  "https://www.mandarake.co.jp/shop/index_cmp.html",
+  "https://www.mandarake.co.jp/dir/cmp/deep/",
+  "https://www.mandarake.co.jp/dir/cmp/cmp_renew.html",
+  "https://earth.mandarake.co.jp/info/tax_free-en.html",
+  "https://www.mandarake.co.jp/information/customary/guide/",
+  "https://www.mandarake.co.jp/dir/cmp2/",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2028724.html",
+  "https://akiba.keizai.biz/headline/908/",
+  "https://otaspoguide.com/273/",
+  "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%82%93%E3%81%A0%E3%82%89%E3%81%91"
+ ],
+ "osm_id": "node/5829654929"
+}

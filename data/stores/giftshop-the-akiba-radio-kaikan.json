@@ -1,0 +1,104 @@
+{
+ "id": "giftshop-the-akiba-radio-kaikan",
+ "name": {
+  "ko": "기프트숍 더 아키바",
+  "en": "GIFTSHOP The AkiBa",
+  "ja": "ギフトショップ The AkiBa"
+ },
+ "synonyms": [
+  "더 아키바",
+  "기프트숍 디 아키바",
+  "자 아키바",
+  "아키바 기프트숍",
+  "The AkiBa",
+  "GIFT SHOP The AkiBa",
+  "Gift Shop The Akiba",
+  "ザ・アキバ",
+  "ギフトショップ ザ・アキバ",
+  "GIFTSHOP The AkiBa"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "souvenir",
+  "sweets",
+  "anime_goods",
+  "vtuber",
+  "character_goods",
+  "akiba_limited",
+  "new"
+ ],
+ "one_line": {
+  "ko": "아키하바라 한정 기념품 매장. 애니·VTuber 콜라보 과자와 캐릭터 잡화",
+  "en": "Akihabara-only souvenirs: anime and VTuber tie-up sweets and character goods"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물 영업시간(10:00~20:00)과 동일",
+   "en": "Same as the building's 10:00-20:00"
+  },
+  "source_url": "https://www.nodacorp.jp/shoplist/the_akiba/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 바로 앞 라디오회관 1F. 위층으로 올라갈 필요 없이 길에서 바로 들어가며, 로고 네온사인이 표식이다.",
+  "en": "On the 1F of Radio Kaikan, right in front of the JR Akihabara Electric Town Exit; you enter straight from the street, marked by the shop's neon logo sign."
+ },
+ "tips": {
+  "ko": [
+   "아키하바라 한정 과자·잡화 위주라 굿즈 쇼핑 마지막에 선물용으로 들르기 좋다.",
+   "라디오회관 층별 안내에서는 '기타(その他)' 분류로 나오지만 애니·VTuber 콜라보 상품을 함께 취급한다."
+  ],
+  "en": [
+   "Stock is mostly Akihabara-limited sweets and small goods, so it works best as a last stop for gifts.",
+   "The Radio Kaikan floor guide files it under 'other', but it does carry anime and VTuber tie-up items."
+  ]
+ },
+ "official_url": "https://www.nodacorp.jp/shoplist/the_akiba/",
+ "sns": {
+  "x": "https://x.com/akibagiftshop"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.nodacorp.jp/shoplist/the_akiba/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/the-akiba/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+ ],
+ "osm_id": null
+}

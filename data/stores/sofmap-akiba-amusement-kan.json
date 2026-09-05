@@ -1,0 +1,192 @@
+{
+ "id": "sofmap-akiba-amusement-kan",
+ "name": {
+  "ko": "소프맵 AKIBA 어뮤즈먼트관",
+  "en": "Sofmap AKIBA Amusement Hall",
+  "ja": "ソフマップAKIBA アミューズメント館"
+ },
+ "synonyms": [
+  "소프맵 어뮤즈먼트관",
+  "소프맵 아뮤즈먼트관",
+  "소프맙 어뮤즈먼트관",
+  "소프맵 4호점",
+  "소프맵 아키바",
+  "애니메가×소프맵",
+  "아니메가×소프맵",
+  "스텔라맵 카페",
+  "Sofmap Amusement-kan",
+  "Sofmap Akiba Amusement Kan",
+  "Sofmap AKIBA 4",
+  "Animega x Sofmap",
+  "STELLAMAP Cafe",
+  "ソフマップ秋葉原4号店",
+  "ソフマップAKIBA4号店",
+  "アミュ館",
+  "アニメガ×ソフマップAKIBA アミューズメント館"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "new",
+  "used",
+  "figure",
+  "gunpla",
+  "plamo",
+  "tamashii_nations",
+  "video_game",
+  "pc_game",
+  "anime_cd",
+  "blu_ray",
+  "r18",
+  "cafe_collab",
+  "idol_event",
+  "event_space",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "신품·중고 게임과 피규어, 프라모델, 애니 굿즈를 층별로 나눈 소프맵의 8층 취미 전문관",
+  "en": "Sofmap's eight floors: new and used games, figures, model kits, anime goods, collab cafe"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "신품 호비·피규어, 타마시 네이션즈(반다이) 코너",
+   "en": "New figures and hobby items; Tamashii Nations (Bandai) corner"
+  },
+  {
+   "floor": "2F",
+   "ko": "신품 프라모델, 공구, 도료",
+   "en": "New plastic model kits, tools and paints"
+  },
+  {
+   "floor": "3F",
+   "ko": "신품·중고 콘솔 게임기와 소프트, 소프트 매입 카운터",
+   "en": "New and used console hardware and games; software buyback counter"
+  },
+  {
+   "floor": "4F",
+   "ko": "신품 PC 게임(성인용)",
+   "en": "New PC games (adult)"
+  },
+  {
+   "floor": "5F",
+   "ko": "애니 영상 소프트(신품·중고), 애니·성우 음악 CD, 중고 PC 게임(성인용)",
+   "en": "Anime Blu-ray/DVD (new and used), anime and voice-actor CDs, used adult PC games"
+  },
+  {
+   "floor": "6F",
+   "ko": "애니메가×소프맵: 신품 애니 굿즈·코믹스",
+   "en": "Animega x Sofmap: new anime goods and comics"
+  },
+  {
+   "floor": "7F",
+   "ko": "STELLAMAP Cafe(콜라보 카페) 11:00–20:00, 라스트오더 19:15",
+   "en": "STELLAMAP Cafe (collab cafe), 11:00-20:00, last order 19:15"
+  },
+  {
+   "floor": "8F",
+   "ko": "이벤트 플로어(아이돌·그라비아 이벤트)",
+   "en": "Event floor (idol and gravure events)"
+  }
+ ],
+ "location": {
+  "lat": 35.698919,
+  "lng": 139.771076
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-10-8 平岡ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입(당일 지급)은 폐점 2시간 전까지 접수하며 혼잡 시 더 일찍 마감. 7F STELLAMAP Cafe는 라스트오더 19:15.",
+   "en": "Buyback with same-day payment is accepted until 2 hours before closing, earlier when busy. 7F STELLAMAP Cafe last order 19:15."
+  },
+  "source_url": "https://www.sofmap.com/tenpo/?id=shops&sid=akiba_ams"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "4F",
+   "5F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리로 나가 북쪽으로 약 3분, 주오도리 서쪽 보도에 면한 8층 건물(히라오카 빌딩). 남쪽 실크햇(구 GiGO 1호관)과 북쪽 HEY 오락실 사이의 SOFMAP 로고 간판이 목표. 1F 피규어 매장으로 들어가 엘리베이터로 위층 이동.",
+  "en": "From the JR Akihabara Electric Town exit walk to Chuo-dori and go north about 3 minutes; the eight-storey Hiraoka Building faces the west sidewalk. Look for the SOFMAP logo between Silk Hat (ex-GiGO 1) to the south and the HEY arcade to the north, enter via the 1F figure floor and take the elevator up."
+ },
+ "tips": {
+  "ko": [
+   "면세 수속은 별도 카운터 없이 각 층 계산대에서 처리 가능(여권 지참).",
+   "게임 소프트 매입은 3F 카운터. 당일 지급분은 폐점 2시간 전까지 접수하며 혼잡 시 더 일찍 마감.",
+   "7F STELLAMAP Cafe는 40석 전석 금연·무료 와이파이. 콜라보 작품이 자주 바뀌므로 개최 내용과 입장 방법은 공식 사이트에서 확인.",
+   "4F 전체와 5F 일부는 성인용 PC 게임 매장으로 연령 확인이 있을 수 있음."
+  ],
+  "en": [
+   "Tax-free is handled at any register on any floor, with no separate counter; bring your passport.",
+   "Game software buyback is at the 3F counter; same-day payment is accepted until 2 hours before closing, earlier when busy.",
+   "7F STELLAMAP Cafe has 40 non-smoking seats and free Wi-Fi; the collab changes often, so check the official site for the current run and how to get in.",
+   "All of 4F and part of 5F are adult PC game sections; age checks may apply."
+  ]
+ },
+ "official_url": "https://www.sofmap.com/tenpo/?id=shops&sid=akiba_ams",
+ "sns": {
+  "x": "https://x.com/sofmap_akiba4"
+ },
+ "chain": "sofmap",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.sofmap.com/tenpo/?id=shops&sid=akiba_ams",
+  "https://www.sofmap.com/tenpo/?id=shops&sid=animega_ams",
+  "https://www.sofmap.com/pages/?id=stellamap_cafe&sid=shop",
+  "https://www.sofmap.com/tenpo/?id=tp00467&sid=0",
+  "https://www.sofmap.com/tenpo/?id=shops&sid=bh_list",
+  "https://www.sofmap.com/tenpo/",
+  "https://akiba-pc.watch.impress.co.jp/shop/at/sofmap_ams.html"
+ ],
+ "osm_id": "node/5875272067",
+ "photo": {
+  "url": "/photos/sofmap-akiba-amusement-kan.jpg",
+  "kind": "exterior",
+  "credit": "elminium from Ageo-city · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_Ch%C5%AB%C5%8D-d%C5%8Dri_St._(near_Sofmap_amusment-kan)_in_early_morning_-_2013-07-07_(by_elminium).jpg",
+  "taken_on": "2013"
+ }
+}

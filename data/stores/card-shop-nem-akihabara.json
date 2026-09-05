@@ -1,0 +1,124 @@
+{
+ "id": "card-shop-nem-akihabara",
+ "name": {
+  "ko": "카드숍 NEM 아키하바라 역앞점",
+  "en": "Card Shop NEM Akihabara Ekimae",
+  "ja": "カードショップNEM 秋葉原駅前店"
+ },
+ "synonyms": [
+  "카드숍 NEM",
+  "카드샵 NEM",
+  "NEM 아키하바라",
+  "NEM 역앞점",
+  "네무 카드숍",
+  "듀얼마스터즈 NEM",
+  "Card Shop NEM",
+  "NEM Akihabara",
+  "nemcard",
+  "カードショップNEM",
+  "カードショップNEM秋葉原店",
+  "【デュエマ専門】カードショップ NEM 秋葉原",
+  "NEM秋葉原駅前店",
+  "ネムアキハバラ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "duel_masters",
+  "tcg_singles",
+  "singles",
+  "oripa",
+  "sealed",
+  "buyback",
+  "used",
+  "new",
+  "no_duel_space"
+ ],
+ "one_line": {
+  "ko": "듀얼마스터즈 전문점. 플레이용 싱글부터 구프레임·초기 카드까지 취급",
+  "en": "Duel Masters specialist: play-grade singles, old-frame cards and deck oripa"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700588,
+  "lng": 139.772037
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-3-10 日宝アキバフロント3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수 시간도 영업시간과 같다. 옛 점포(외신다 3-5-1 에트랑제18 3층)의 시간표가 아직 일부 사이트에 남아 있으니 주의.",
+   "en": "Buying is accepted during the same hours. Some sites still show the timetable of the old store at 3-5-1 Sotokanda (Etranger 18, 3F)."
+  },
+  "source_url": "https://www.nemcard.com/view/page/shop"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리를 따라 아키하바라 UDX 맞은편, 돈키호테 아키하바라점에서 남쪽으로 한 구획 내려간 니포 아키바 프론트 빌딩 3층. 같은 건물 1층은 드래곤스타 매입센터, 4층은 카드숍 돈!돈!이다. JR 아키하바라역·긴자선 스에히로초역 양쪽에서 도보 4분.",
+  "en": "On the 3F of the NIPPO Akiba Front building on Chuo-dori across from Akihabara UDX, one plot south of Don Quijote Akihabara. Dragon Star's buying centre is on 1F and Card Shop Don!Don! on 4F. Four minutes from either JR Akihabara or Ginza-line Suehirocho."
+ },
+ "tips": {
+  "ko": [
+   "옛 점포인 외신다 3-5-1 에트랑제18 3층 매장은 이 역앞점으로 통합됐다. 오래된 안내를 보고 찾아가지 않도록 주의.",
+   "듀얼마스터즈 한 종목만 취급한다. 다른 TCG는 없다.",
+   "아키하바라점에는 듀얼 스페이스가 없어 대전·대회는 지바점에서 열린다(공식 FAQ)."
+  ],
+  "en": [
+   "The older store at 3-5-1 Sotokanda (Etranger 18, 3F) has been merged into this one, so ignore listings pointing there.",
+   "It stocks Duel Masters only - no other trading card games.",
+   "There is no duel space here; play and tournaments happen at the chain's Chiba store, per the official FAQ."
+  ]
+ },
+ "official_url": "https://www.nemcard.com/",
+ "sns": {
+  "x": "https://x.com/nemcardakiba"
+ },
+ "chain": "nem",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.nemcard.com/view/page/shop",
+  "https://www.nemcard.com/",
+  "https://akihabara-cardmap.com/ja/shop/card-shop-nem-akihabara-station-front-store/",
+  "https://akihabara-cardmap.com/ja/shop/merged-into-akihabara-station-front-store-card-shop-nem-akihabara/",
+  "https://akibatoreka.com/introduce/2495",
+  "https://www.nippo-bldg.jp/building/detail/1566/"
+ ],
+ "osm_id": null
+}

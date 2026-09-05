@@ -1,0 +1,80 @@
+{
+ "id": "yugijo-akihabara",
+ "name": {
+  "ko": "유기조",
+  "en": "Yugijo",
+  "ja": "遊戯場"
+ },
+ "synonyms": [
+  "유우기조",
+  "유기죠",
+  "유기장",
+  "크레인게임 전문점 유기조",
+  "Yugijo",
+  "Yuugijo",
+  "遊技場",
+  "ゆうぎじょう",
+  "遊戯場ブログ"
+ ],
+ "category": "arcade",
+ "tags": [
+  "crane_game",
+  "prize",
+  "prize_figure"
+ ],
+ "one_line": {
+  "ko": "크레인게임만 두는 소형 오락실. 피규어·인형 등 최신 프라이즈 경품 중심",
+  "en": "Small crane-game-only arcade stocked with the newest figure and plush prizes"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702601,
+  "lng": 139.770663
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-8-5 イサミヤ第2ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽, 외신다 3초메의 이사미야 제2빌딩 1층. 간판 표기가 '遊戯場'과 '遊技場' 두 가지로 섞여 있으니 둘 다 같은 가게로 보면 된다.",
+  "en": "Ground floor of the Isamiya No.2 Building in Sotokanda 3-chome, on the back streets west of Chuo-dori. The signage mixes the spellings 遊戯場 and 遊技場 - they are the same shop."
+ },
+ "tips": {
+  "ko": [
+   "다음 달 프라이즈 입하 예정이 공식 블로그에 매달 정리되어 올라온다(2026년 9월분까지 게시됨).",
+   "영업시간을 공식적으로 공개하지 않으므로, 방문 전 블로그나 X(@yuugijo)에서 확인하는 편이 안전하다.",
+   "비디오게임·메달게임 없이 크레인게임만 있는 한 칸짜리 매장이다."
+  ],
+  "en": [
+   "The official blog posts the next month's prize arrival schedule (the September 2026 list is up).",
+   "Opening hours are not published officially, so check the blog or X (@yuugijo) before going.",
+   "One room of claw machines only - no video or medal cabinets."
+  ]
+ },
+ "official_url": "https://yugijo.livedoor.blog/",
+ "sns": {
+  "x": "https://x.com/yuugijo"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://yugijo.livedoor.blog/",
+  "http://yuugijoo.iku4.com/"
+ ],
+ "osm_id": "node/4069459648"
+}

@@ -1,0 +1,113 @@
+{
+ "id": "maidreamin-akihabara-heavens-gate",
+ "name": {
+  "ko": "메이드리밍 아키하바라 LIVE RESTAURANT Heaven's Gate",
+  "en": "Maidreamin Akihabara LIVE RESTAURANT Heaven's Gate",
+  "ja": "めいどりーみん 秋葉原 LIVE RESTAURANT Heaven's Gate"
+ },
+ "synonyms": [
+  "메이드리밍",
+  "메이드리밍 헤븐즈게이트",
+  "헤븐즈 게이트",
+  "메이드리밍 아키하바라",
+  "메이도리밍",
+  "めいどりーみん",
+  "秋葉原 LIVE RESTAURANT Heaven's Gate",
+  "めいどりーみん ヘブンズゲート",
+  "Maidreamin Heaven's Gate",
+  "Maidreamin Akihabara",
+  "maidreamin"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "live_stage",
+  "cafe",
+  "restaurant",
+  "performance",
+  "english_ok"
+ ],
+ "one_line": {
+  "ko": "360도 무대의 메이드 라이브 공연을 보며 식사하는 대형 메이드 레스토랑",
+  "en": "Large maid restaurant with a 360-degree stage: maid live shows with food and drink"
+ },
+ "building_id": "ichigo-akihabara-ekimae-building",
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-9 いちご秋葉原駅前ビル6F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue"
+    ],
+    "open": "11:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "월·화만 11:30 오픈이고 수~일과 공휴일은 10:30 오픈. 공식 점포 페이지의 요일별 영업시간 기준이다.",
+   "en": "Only Monday and Tuesday open at 11:30; Wednesday to Sunday and public holidays open at 10:30, per the official store page's day-by-day listing."
+  },
+  "source_url": "https://maidreamin.com/shop/detail.html?id=6"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 개찰구에서 도보 10초, namco가 들어 있는 흰색 빌딩 6F. 1층 이치반쿠지 코너 옆 빌딩 입구에서 엘리베이터를 타고 올라간다.",
+  "en": "Ten seconds from the Electric Town Exit ticket gates, on 6F of the white building that houses namco. Enter beside the 1F Ichiban Kuji corner and take the building elevator up."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1시간 880엔 + 1인 1오더제. 연장도 1시간 880엔이다.",
+   "HYPER 개최 시간대에는 1시간 3,800엔 음료 무제한 코스가 있다.",
+   "좌석 60석 규모에 360도 스테이지가 있어 메이드리밍 아키하바라 매장 중 라이브 공연 비중이 가장 크다.",
+   "월·화는 11:30, 나머지 요일과 공휴일은 10:30 오픈이라 오전 방문 시 요일을 확인한다."
+  ],
+  "en": [
+   "Charge is 880 yen an hour plus a one-order-per-person rule; extensions are another 880 yen an hour.",
+   "During HYPER slots there is a 3,800 yen one-hour all-you-can-drink course.",
+   "Sixty seats around a 360-degree stage — the most performance-led of the Akihabara maidreamin branches.",
+   "Opening is 11:30 on Mon and Tue but 10:30 the rest of the week and on holidays, so check the day before a morning visit."
+  ]
+ },
+ "official_url": "https://maidreamin.com/shop/detail.html?id=6",
+ "sns": {},
+ "chain": "maidreamin",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://maidreamin.com/shop/detail.html?id=6"
+ ],
+ "osm_id": "node/1914973974"
+}

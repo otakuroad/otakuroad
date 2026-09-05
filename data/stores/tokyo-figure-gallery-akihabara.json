@@ -1,0 +1,113 @@
+{
+ "id": "tokyo-figure-gallery-akihabara",
+ "name": {
+  "ko": "도쿄피규어 갤러리",
+  "en": "Tokyo Figure Gallery",
+  "ja": "東京フィギュアギャラリー"
+ },
+ "synonyms": [
+  "도쿄 피규어 갤러리",
+  "도쿄피규어 아키바 갤러리",
+  "토쿄피규어 갤러리",
+  "Tokyo Figure AKIBA Gallery",
+  "Tokyo Figure Akihabara Gallery",
+  "TokyoFigGallery",
+  "tokyofigure",
+  "東京フィギュア アキバギャラリー",
+  "東京フィギュアアキバギャラリー",
+  "東京フィギュア AKIBA Gallery",
+  "東京フィギュア"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "scale_figure",
+  "figure",
+  "gallery",
+  "exhibition",
+  "prototype",
+  "doll",
+  "free_admission"
+ ],
+ "one_line": {
+  "ko": "도쿄피규어의 스케일 피규어와 원형·시제품을 전시하는 무료 갤러리",
+  "en": "Free gallery showing Tokyo Figure's own scale figures and pre-release prototypes"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701763,
+  "lng": 139.771919
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-5-4 亀松ビル1階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "월요일~목요일 휴관",
+   "en": "Closed Monday to Thursday"
+  },
+  "note": {
+   "ko": "공식 X 계정 프로필에 적힌 '금·토·일·공휴일 11:00~19:00'이다. 2023년 개관 당시에는 20:00까지였으나 이후 19:00으로 줄었고, 2025년 여름에는 실내 기온 상승으로 8월 내내 임시 휴관한 뒤 9월 5일 재개했다. 방문 전 공식 X 확인 권장.",
+   "en": "The official X profile lists Fri, Sat, Sun and public holidays 11:00-19:00. It closed at 20:00 when it opened in 2023, and in summer 2025 it shut for all of August because the room got too hot, reopening on 5 September. Check the official X before going."
+  },
+  "source_url": "https://x.com/TokyoFigGallery"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 우에노 방향으로 도보 6~7분. 애니메이트와 돈키호테를 지나 2층에 로열호스트가 있는 가메마쓰(亀松) 빌딩 1층이며, 바로 옆이 치로루초코 본사 숍이다.",
+  "en": "Six or seven minutes up Chuo-dori toward Ueno from JR Akihabara's Electric Town Exit. Past animate and Don Quijote, it is the ground floor of the Kamematsu Building - the one with Royal Host on 2F - next door to the Tirol Choco headquarters shop."
+ },
+ "tips": {
+  "ko": [
+   "금·토·일·공휴일만 여는 갤러리라 평일에 가면 닫혀 있다. 입장료는 무료.",
+   "상설 판매점이 아니라 전시가 중심이며, 기획전 기간에는 작품집·개러지 키트 등 한정 판매가 열린다.",
+   "스케일 피규어와 돌 70~80점 규모의 전시로, 데코마스와 발매 전 원형도 함께 놓인다.",
+   "운영사인 주식회사 도쿄피규어 본사는 다이토구에 따로 있으니 주소를 혼동하지 않도록 주의."
+  ],
+  "en": [
+   "Open only Friday to Sunday and public holidays, so weekday visits find it shut. Admission is free.",
+   "It is an exhibition space rather than a regular shop; limited sales (art books, garage kits) happen during special exhibitions.",
+   "Around 70-80 scale figures and dolls are on display, including decoration masters and unreleased prototypes.",
+   "The operating company, Tokyo Figure Inc., has its head office in Taito-ku, so do not confuse that address with the gallery."
+  ]
+ },
+ "official_url": "https://tokyofigure.jp/",
+ "sns": {
+  "x": "https://x.com/TokyoFigGallery"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://tokyofigure.jp/news/detail/47",
+  "https://tokyofigure.jp/news/list",
+  "https://tokyofigure.jp/help/about",
+  "https://tokyofigure.jp/",
+  "https://genkaransan.com/tokyo-figure-gallery/"
+ ],
+ "osm_id": "node/13390443968"
+}

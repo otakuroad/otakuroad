@@ -1,0 +1,117 @@
+{
+ "id": "liberty-akihabara-6",
+ "name": {
+  "ko": "리버티 아키하바라 6호점",
+  "en": "Liberty Akihabara Store 6",
+  "ja": "リバティー 秋葉原6号店"
+ },
+ "synonyms": [
+  "리버티",
+  "리버티 6호점",
+  "리버티 아키하바라 6호점",
+  "Liberty",
+  "Liberty Akihabara 6",
+  "Liberty Akihabara No.6",
+  "AKIBA LIBERTY",
+  "リバティー",
+  "リバティー秋葉原6号店",
+  "リバティー6号店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "used",
+  "idol_goods",
+  "bromide",
+  "cd",
+  "dvd",
+  "doujinshi",
+  "trading_card",
+  "game_software",
+  "photobook",
+  "figure"
+ ],
+ "one_line": {
+  "ko": "2호점 위 3~4층, 아이돌 생사진과 중고 CD·DVD·동인지·트레카 매장",
+  "en": "3F-4F above Store 2: idol photo cards and used CDs, DVDs, doujinshi and trading cards"
+ },
+ "building_id": null,
+ "floors": [
+  "3F",
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697683,
+  "lng": 139.772229
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-15-14 3F・4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 점포 목록 기준 11:00-20:30, 연중무휴. 옛 스퍼빌딩 시절 주소로 남아 있는 디렉터리에는 평일 11:00-20:00, 토·일·공휴일 10:30-20:00이 표시된다.",
+   "en": "The official store list gives 11:00-20:30 daily, open year-round. Directories still holding the old Super Building address show 11:00-20:00 on weekdays and 10:30-20:00 on weekends and holidays."
+  },
+  "source_url": "https://liberty-kaitori.com/shop"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "2호점과 같은 건물의 3~4층. JR 아키하바라역 전기가 출구에서 도보 2분, 라디오회관 남쪽 블록. B1~2층 2호점을 지나 계단이나 엘리베이터로 3층까지 올라간다.",
+  "en": "The 3F and 4F of the same building as Store 2, two minutes from the JR Akihabara Electric Town Exit in the block south of Radio Kaikan. Pass Store 2 on B1-2F and take the stairs or lift up to 3F."
+ },
+ "tips": {
+  "ko": [
+   "옛 6호점은 외신다 1-11-5 아키하바라 스퍼빌딩에 있었고 2024년에 이 건물로 옮겼다. 네비타임·코코실 등에는 아직 옛 주소가 남아 있으니 주의.",
+   "아이돌 생사진·굿즈 매입과 판매가 이 3~4층으로 모여 있다.",
+   "면세와 결제 수단은 다른 리버티 지점과 같다(여권 원본, 한 점포 5,500엔 이상, 카드·교통계 IC·QR 결제 가능)."
+  ],
+  "en": [
+   "The old Store 6 sat in the Akihabara Super Building at 1-11-5 Sotokanda and moved here in 2024; Navitime and Kokosil still list the old address.",
+   "Buying and selling of idol photo cards and idol goods is concentrated on these two floors.",
+   "Tax-free and payment work as at every Liberty branch: original passport, 5,500 yen or more in one branch, cards, transit IC and QR pay accepted."
+  ]
+ },
+ "official_url": "https://liberty-kaitori.com/shop",
+ "sns": {
+  "x": "https://x.com/akiba_liberty2"
+ },
+ "chain": "liberty",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://liberty-kaitori.com/shop",
+  "https://liberty-kaitori.com/",
+  "https://akibatoreka.com/introduce/2077",
+  "https://akihabara.kokosil.net/ja/place/00001c0000000000000200000034073c"
+ ],
+ "osm_id": null
+}

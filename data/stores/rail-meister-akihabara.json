@@ -1,0 +1,116 @@
+{
+ "id": "rail-meister-akihabara",
+ "name": {
+  "ko": "레일마이스터",
+  "en": "Rail Meister",
+  "ja": "鉄道模型専門店 レールマイスター"
+ },
+ "synonyms": [
+  "레일 마이스터",
+  "레일마이스타",
+  "철도모형 레일마이스터",
+  "Rail Meister Akihabara",
+  "railmeister",
+  "レールマイスター",
+  "鉄道模型専門店レールマイスター"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "model_train",
+  "n_gauge",
+  "railway",
+  "used",
+  "consignment",
+  "buyback",
+  "scale_model",
+  "bus_collection"
+ ],
+ "one_line": {
+  "ko": "N게이지 철도모형 신품·중고·위탁품과 점장 특제 사철 차량을 파는 소형 전문점",
+  "en": "N-gauge railway models - new, used and consignment stock plus the owner's custom cars"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699571,
+  "lng": 139.769297
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-6-1 外神田ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "12:00",
+    "close": "19:30"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "18:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일, 매월 첫째·셋째 수요일, 연말연시",
+   "en": "Tuesdays, the 1st and 3rd Wednesday of the month, and the New Year period"
+  },
+  "note": {
+   "ko": "평일·토요일 12:00-19:30, 일요일·공휴일은 12:00-18:30으로 한 시간 일찍 닫는다. 수요일은 첫째·셋째 주만 휴무이며 임시 휴업도 있으므로 공식 사이트를 확인한다.",
+   "en": "12:00-19:30 on weekdays and Saturday, 12:00-18:30 on Sunday and public holidays. Only the 1st and 3rd Wednesday are closed, and ad-hoc closures happen, so check the official site."
+  },
+  "source_url": "https://www.rail-meister.co.jp/shopAKIBA/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 약 6분, 쇼헤이바시·마쓰즈미초 고가교에서 2분. 간다묘진시타(神田明神下) 교차로 옆 6층짜리 '外神田ビル' 2층이고, 같은 건물 3층은 카드숍 카드랜드다.",
+  "en": "About six minutes west of the JR Akihabara Electric Town Exit and two minutes from Shoheibashi, on 2F of the six-storey Sotokanda Building beside the Kanda-Myojinshita crossing. The card shop Card Land is on 3F of the same building."
+ },
+ "tips": {
+  "ko": [
+   "화요일 정기휴무에 더해 매월 첫째·셋째 수요일도 쉰다. 방문 전 공식 사이트 확인이 안전하다.",
+   "일요일·공휴일은 18:30 마감으로 평일보다 한 시간 이르다.",
+   "신품·중고 외에 위탁품(委託品)을 다루고 매입(買取)도 받는다. 점장이 디테일업한 사철 N게이지 특제품이 이 가게의 특징이다.",
+   "주오도리 전자상가에서 서쪽으로 떨어져 있어 아키하바라 중심 코스와는 따로 움직여야 한다."
+  ],
+  "en": [
+   "On top of the Tuesday closure it also shuts on the 1st and 3rd Wednesday of each month; check the official site before going.",
+   "Sunday and public-holiday closing is 18:30, an hour earlier than weekdays and Saturday.",
+   "Alongside new and used stock it sells consignment items and buys models; the owner's detailed-up private-railway N-gauge specials are the shop's signature.",
+   "It sits west of the Chuo-dori electronics strip, so plan it as a separate stop from the main Akihabara loop."
+  ]
+ },
+ "official_url": "https://www.rail-meister.co.jp/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.rail-meister.co.jp/shopAKIBA/",
+  "https://www.rail-meister.co.jp/",
+  "https://www.etrain.jp/shoplist/shoplist.cgi?no=105",
+  "https://kakaku.guide/model-train/post/56/"
+ ],
+ "osm_id": "node/5026473354"
+}

@@ -1,0 +1,85 @@
+{
+ "id": "tcg-full-house-akihabara",
+ "name": {
+  "ko": "TCG 풀하우스 아키하바라점",
+  "en": "TCG FULL HOUSE Akihabara",
+  "ja": "TCG FULL HOUSE 秋葉原店"
+ },
+ "synonyms": [
+  "풀하우스",
+  "풀하우스 아키하바라",
+  "TCG풀하우스",
+  "카드숍 풀하우스",
+  "FULL HOUSE",
+  "TCG FULL HOUSE AKIHABARA",
+  "Full House Akihabara",
+  "TCGフルハウス",
+  "フルハウス秋葉原店",
+  "TCG FULL HOUSE秋葉原店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "singles",
+  "buyback",
+  "cash_only",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드와 원피스 카드만 취급하는 1층 소형 카드점, 매입 카운터 있음",
+  "en": "Small ground-floor shop dealing only in Pokemon and One Piece cards, with buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703401,
+  "lng": 139.77109
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田6-12-9 中鉄ビル第一 101",
+ "hours": null,
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 4번 출구에서 북쪽으로 1분, JR 아키하바라역에서는 도보 8분. 카레집 모치즈키 카레(モチヅキカレー) 옆 나카테쓰빌딩 제1(中鉄ビル第一) 1층 101호 노면 점포다. 아키하바라 카드숍 밀집 구역에서 벗어난 오카치마치 방면이라 주변이 조용하다.",
+  "en": "One minute north of Ginza-line Suehirocho exit 4, eight minutes from JR Akihabara. Street-level unit 101 in Chutetsu Building No.1, next to the curry shop Mochizuki Curry. It sits past the dense card-shop strip, toward Okachimachi, so the block is quiet."
+ },
+ "tips": {
+  "ko": [
+   "2026년 5월 하순 프리오픈한 신규 매장이라 오래된 지도나 안내서에는 나오지 않는다.",
+   "포켓몬 카드와 원피스 카드 두 타이틀만 다뤄, 다른 TCG를 찾는다면 스에히로초 남쪽 매장들로 가야 한다.",
+   "매장 X 계정(@tcg_fullhouse) 프로필 기준 영업시간은 매일 12:00-20:00이며 현금 결제만 가능(캐시리스 도입 예정)하다. 공식 홈페이지가 없으므로 방문 전 X 확인 권장."
+  ],
+  "en": [
+   "A new shop that pre-opened in late May 2026, so it does not appear in older maps or guides.",
+   "It carries only Pokemon and One Piece cards; for other games head back south past Suehirocho.",
+   "Its X profile (@tcg_fullhouse) gives daily hours of 12:00-20:00 and cash-only payment (cashless is promised later). There is no official website, so check X before going."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/tcg_fullhouse"
+ },
+ "chain": "tcg-full-house",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2113182.html",
+  "https://akihabara-cardmap.com/ja/shop/tcg-full-house-akihabara/"
+ ],
+ "osm_id": null
+}

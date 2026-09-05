@@ -1,0 +1,88 @@
+{
+ "id": "toreca-yokocho-sohonten",
+ "name": {
+  "ko": "트레카 요코초 총본점",
+  "en": "Toreca Yokocho Main Store",
+  "ja": "トレカ横丁 総本店"
+ },
+ "synonyms": [
+  "트레카요코초",
+  "트레카 요코초",
+  "트레카 요코초 총본점",
+  "트레카요코초 총본점",
+  "Toreca Yokocho",
+  "Toreca Yokocho Sohonten",
+  "Treca Yokocho",
+  "トレカ横丁",
+  "トレカ横町",
+  "トレカ横丁総本店",
+  "トレカ横町総本店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "oripa",
+  "pokemon_card",
+  "one_piece_card",
+  "vending_machine",
+  "sealed"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스 오리파 자판기가 늘어선 무인 트레카 매장",
+  "en": "Oripa (random pack) vending machines for Pokemon and One Piece cards, unstaffed"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701503,
+  "lng": 139.770592
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-9-10 日宝アキバ館1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 7분, 주오도리 서쪽 뒷골목의 니포 아키바관(지도에 따라 이시이 빌딩·마치다 빌딩으로 표기) 1층 노면 점포. 같은 3-9-10 주소에 트레카점보 본점과 every트레카가 함께 있고, 맞은편 지하는 오타츄 5호점이다.",
+  "en": "Seven minutes from the JR Akihabara Electric Town Exit, a street-level unit on the ground floor of the Nippo Akiba Kan building (labelled Ishii Building or Machida Building on some maps) on the back street west of Chuo-dori. Toreca Jumbo's main store and every Toreca share the same 3-9-10 address, and Otachu's 5th store is in the basement opposite."
+ },
+ "tips": {
+  "ko": [
+   "오리파(랜덤 팩) 자판기 전문점이라 싱글 카드 판매나 매입 카운터는 없다.",
+   "자판기 구성과 신규 대수는 공식 X(@TorecaSH)에 공지된다.",
+   "공식 홈페이지가 없고 영업시간도 공표되지 않았다. 일본어 디렉터리에는 24시간 영업으로 올라와 있으나 확인된 정보는 아니다.",
+   "같은 주소에 다른 트레카 매장이 붙어 있으니 간판을 보고 들어간다."
+  ],
+  "en": [
+   "It is an oripa (random pack) vending-machine shop - no singles counter and no buyback.",
+   "New machines and line-up changes are announced on the shop's X account (@TorecaSH).",
+   "There is no official website and no published hours; Japanese directories list it as open 24 hours, but that is unconfirmed.",
+   "Other card shops sit at the same address, so check the signage before you walk in."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/TorecaSH"
+ },
+ "chain": "toreca-yokocho",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibatoreka.com/introduce/2578",
+  "https://torecamap.co.jp/column/oripa-vending-machine/",
+  "https://akihabara-cardmap.com/ja/shop/treca-yokocho-general-main-store/",
+  "https://torecamap.co.jp/column/akihabara/"
+ ],
+ "osm_id": "node/11961957228"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "trader-akihabara-honten",
+ "name": {
+  "ko": "트레이더 아키하바라 본점",
+  "en": "Trader Akihabara Main Store",
+  "ja": "トレーダー秋葉原本店"
+ },
+ "synonyms": [
+  "트레이더",
+  "트레이더 본점",
+  "트레이더 아키바",
+  "트레이더 3호점 빌딩",
+  "TRADER",
+  "Trader Honten",
+  "Trader Akihabara",
+  "e-trader",
+  "トレーダー本店",
+  "トレーダー本店ビル",
+  "トレーダー3号店ビル"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "new",
+  "famicom",
+  "retro_console",
+  "import_game",
+  "figure",
+  "tokusatsu",
+  "plastic_model",
+  "bluray",
+  "pc_game",
+  "r18",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "중고·신품 게임과 레트로 게임, 피규어를 1F~7F에서 파는 주오도리 대형 매장",
+  "en": "Used and new console games, retro games and figures on seven floors facing Chuo-dori"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "매입 플로어(게임·피규어·DVD/블루레이 매입 접수)",
+   "en": "Buyback floor (games, figures, DVD/Blu-ray)"
+  },
+  {
+   "floor": "1F",
+   "ko": "중고 TV게임(닌텐도), 신품 TV게임, 해외판 게임",
+   "en": "Used console games (Nintendo), new console games, import games"
+  },
+  {
+   "floor": "2F",
+   "ko": "중고 TV게임(플레이스테이션·Xbox), 레트로 게임, DVD·블루레이, CD",
+   "en": "Used console games (PlayStation, Xbox), retro games, DVD/Blu-ray, CD"
+  },
+  {
+   "floor": "3F",
+   "ko": "피규어(소년만화·애니메이션 계열)",
+   "en": "Figures (shonen manga and anime)"
+  },
+  {
+   "floor": "4F",
+   "ko": "피규어(로봇·특촬 계열), 프라모델, 캐릭터 굿즈",
+   "en": "Figures (robots and tokusatsu), plastic models, character goods"
+  },
+  {
+   "floor": "5F",
+   "ko": "피규어(게임·미소녀 계열)",
+   "en": "Figures (games and bishojo)"
+  },
+  {
+   "floor": "6F",
+   "ko": "PC 게임 소프트, 성인 애니메이션·성인 코믹 — 18세 미만 이용 불가",
+   "en": "PC game software, adult anime and adult comics - 18+ only"
+  },
+  {
+   "floor": "7F",
+   "ko": "실사 계열 성인 DVD·블루레이, 이미지 비디오 — 18세 미만 이용 불가",
+   "en": "Live-action adult DVD/Blu-ray and image videos - 18+ only"
+  }
+ ],
+ "location": {
+  "lat": 35.700145,
+  "lng": 139.771754
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-2-1 トレーダー本店ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "판매 층은 1F~7F, B1F는 매입 전용 층. 공식 페이지는 영업시간이 바뀔 수 있으니 톱페이지를 확인하라고 안내한다.",
+   "en": "Sales floors are 1F-7F and B1F is the buyback floor. The official page notes hours can change and asks visitors to check its top page."
+  },
+  "source_url": "https://www.e-trader.jp/akiba-trader-a101/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "6F",
+   "7F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리에 면한 지하 1층~지상 7층짜리 트레이더 본점 빌딩. 타이토 스테이션 오락실 건물 바로 남쪽, 빅카메라 AKIBA 북쪽이며 1층 입구가 주오도리 보도에 바로 접해 있다. B1F 매입 층부터 7F까지 건물 전체가 트레이더다.",
+  "en": "The Trader Honten building on Chuo-dori, B1F to 7F. It stands just south of the Taito Station arcade building and north of Bic Camera AKIBA; the 1F entrance opens onto the Chuo-dori sidewalk, and the whole building from the B1F buyback floor up to 7F is Trader."
+ },
+ "tips": {
+  "ko": [
+   "2024년 5월 6일 주오도리 건너편(서쪽) 구 본점 영업을 끝내고, 옛 3호점 자리에 새로 지은 이 빌딩에서 5월 23일 재개점했다. 2024년 이전 지도·블로그가 가리키는 위치에는 매장이 없다.",
+   "6F·7F는 성인 상품 층(PC 게임·성인 애니메이션·성인 코믹, 실사 성인 DVD·블루레이)이라 18세 미만은 이용할 수 없다.",
+   "판매는 1F~7F, 매입 접수는 B1F 매입 층에서만 받는다. 일본 고물영업법상 매입에는 여권 등 본인 확인 서류가 필요하다.",
+   "현금 외에 신용카드(Visa·Mastercard·JCB·AMEX·다이너스·유니온페이)와 전자머니·QR 결제를 쓸 수 있다. 면세 대응 여부는 공식 페이지에 안내가 없다."
+  ],
+  "en": [
+   "The old main store across Chuo-dori (west side) closed on 6 May 2024 and the shop reopened on 23 May 2024 in this new building on the former Trader No.3 site; maps and blog posts from before 2024 point at the wrong place.",
+   "6F and 7F are adult floors (PC games, adult anime and comics, live-action adult DVD/Blu-ray) and are off-limits to anyone under 18.",
+   "Selling happens on 1F-7F; buyback is accepted only at the B1F buyback floor, where Japanese secondhand-dealer law requires photo ID such as a passport.",
+   "Besides cash, credit cards (Visa, Mastercard, JCB, AMEX, Diners Club, UnionPay), e-money and QR payments are accepted. The official page says nothing about tax-free service."
+  ]
+ },
+ "official_url": "https://www.e-trader.jp/akiba-trader-a101/",
+ "sns": {
+  "x": "https://x.com/Trader_honten"
+ },
+ "chain": "trader",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.e-trader.jp/akiba-trader-a101/",
+  "https://www.e-trader.jp/",
+  "https://www.e-trader.jp/sns/",
+  "https://www.e-trader.jp/kaitori/",
+  "https://ja.wikipedia.org/wiki/TRADER",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/1570375.html",
+  "https://otaspoguide.com/17527/",
+  "https://otadays.com/trader-akiba01/"
+ ],
+ "osm_id": "way/217379773",
+ "photo": null
+}

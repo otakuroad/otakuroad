@@ -1,0 +1,137 @@
+{
+ "id": "dear-stage-akihabara",
+ "name": {
+  "ko": "아키하바라 디어스테이지",
+  "en": "Akihabara Dear Stage",
+  "ja": "秋葉原ディアステージ"
+ },
+ "synonyms": [
+  "디어스테이지",
+  "아키바 디어스테이지",
+  "디아스테이지",
+  "Dear Stage",
+  "DearStage",
+  "LIVE&BAR dear☆Stage",
+  "ディアステージ",
+  "秋葉原ディアステージ",
+  "DEMPAビル",
+  "덴파구미 디어스테이지"
+ ],
+ "category": "idol",
+ "tags": [
+  "idol_live",
+  "live_bar",
+  "idol_staff",
+  "dempagumi",
+  "live_venue",
+  "dining_bar",
+  "event"
+ ],
+ "one_line": {
+  "ko": "덴파구미.inc를 배출한 아이돌 라이브 바. 1층 무대에서 매일 라이브",
+  "en": "Idol live bar that produced Dempagumi.inc, with nightly sets on the 1F stage"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "라이브 스테이지가 있는 스탠딩 바. 소속 아이돌의 짧은 라이브를 보며 서서 마신다",
+   "en": "Standing bar with the live stage, where the resident idols perform short sets"
+  },
+  {
+   "floor": "2F",
+   "ko": "밝은 분위기의 다이닝 바. 일행과 앉아서 식사와 음료를 즐기는 층",
+   "en": "Bright dining bar for sitting down with food and drinks"
+  },
+  {
+   "floor": "3F",
+   "ko": "차분한 카운터 바. 대화 중심으로 이용하는 층",
+   "en": "Quieter counter bar, used mainly for conversation"
+  }
+ ],
+ "location": {
+  "lat": 35.701111,
+  "lng": 139.770844
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-10-9 DEMPAビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "18:00",
+    "close": "22:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "17:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "푸드 라스트오더 21:00, 드링크 라스트오더 21:30. 토·일·공휴일은 이벤트에 따라 시간이 달라질 수 있으므로 공식 캘린더를 확인.",
+   "en": "Last food order 21:00, last drink order 21:30. Weekend and holiday hours can shift for special events, so check the official calendar."
+  },
+  "source_url": "https://dearstage.com/about/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 5분, 긴자선 스에히로초역에서 도보 5분. 주오도리 서쪽 뒷골목의 DEMPA 빌딩이며, 1층 스탠딩 바가 그대로 입구다. 무대 소리가 길까지 들려 찾기 쉽다.",
+  "en": "Five minutes from JR Akihabara and five from Suehirocho on the Ginza line, in the DEMPA Building on the back street west of Chuo-dori. The 1F standing bar is the entrance, and you can usually hear the stage from the street."
+ },
+ "tips": {
+  "ko": [
+   "평일은 18:00, 토·일·공휴일은 17:00 개점으로 낮에는 열지 않는다. 부정기 휴무이므로 공식 캘린더를 먼저 확인.",
+   "차지 요금제로 운영되며, 예전에 필요했던 MyDearStage 회원 등록은 입장 조건에서 없어졌다.",
+   "덴파구미.inc를 배출한 곳으로 1층 무대에서 소속 아이돌이 하루 여러 차례 짧은 라이브를 한다. 조용히 마시고 싶으면 3층 카운터 바.",
+   "라스트오더는 음식 21:00, 음료 21:30이다."
+  ],
+  "en": [
+   "Opens at 18:00 on weekdays and 17:00 on weekends and holidays, so there is nothing in the daytime; closing days are irregular, so check the official calendar first.",
+   "It runs on a charge system, and the old MyDearStage membership is no longer required to get in.",
+   "This is where Dempagumi.inc came from; the resident idols play several short sets a night on the 1F stage. For a quieter drink, go up to the 3F counter bar.",
+   "Last orders are 21:00 for food and 21:30 for drinks."
+  ]
+ },
+ "official_url": "https://dearstage.com/",
+ "sns": {
+  "x": "https://x.com/DearStage"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://dearstage.com/",
+  "https://dearstage.com/about/"
+ ],
+ "osm_id": "node/4145910104"
+}

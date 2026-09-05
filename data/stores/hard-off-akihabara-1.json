@@ -1,0 +1,132 @@
+{
+ "id": "hard-off-akihabara-1",
+ "name": {
+  "ko": "하드오프 아키하바라 1호점",
+  "en": "Hard Off Akihabara Store 1",
+  "ja": "ハードオフ秋葉原1号店"
+ },
+ "synonyms": [
+  "하드오프",
+  "하드오프 아키하바라",
+  "하드오프 1호점",
+  "하드 오프",
+  "HARD OFF",
+  "HARD･OFF",
+  "Hard Off Akihabara",
+  "hardoff",
+  "ハードオフ",
+  "ハードオフ秋葉原",
+  "ハードオフ 秋葉原1号館",
+  "ロックビル"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "junk",
+  "retro_game",
+  "game_software",
+  "console",
+  "audio",
+  "camera",
+  "musical_instrument",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "2층 중고 게임기·게임 소프트, B1층 정크 부품 코너. 오디오·카메라·악기도 취급",
+  "en": "Used consoles and game software on 2F, a junk-parts corner in B1F, plus audio and cameras"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "정크 코너(작동 미확인 하드웨어·부품·소프트)",
+   "en": "Junk corner: untested hardware, parts and software"
+  },
+  {
+   "floor": "2F",
+   "ko": "오디오, 카메라, 손목시계, 게임기·게임 소프트",
+   "en": "Audio, cameras, watches, game consoles and software"
+  },
+  {
+   "floor": "3F",
+   "ko": "악기 코너(이펙터 포함)",
+   "en": "Musical instruments, including effects pedals"
+  }
+ ],
+ "location": {
+  "lat": 35.700536,
+  "lng": 139.770534
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-11-2 ロックビル B1F・2F・3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://www.hardoff.co.jp/shop/detail/?p=101062"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리의 스미토모부동산 아키하바라 빌딩(벨살)을 끼고 뒤편 골목(속칭 정크 거리)으로 돌아가면, 8층짜리 검은 빌딩 만다라케 컴플렉스 바로 옆 건물이다. 그 건물의 B1층·2층·3층이 매장이며 1층은 다른 점포다.",
+  "en": "From the Electric Town exit, walk round behind the Sumitomo Fudosan Akihabara Building (Bellesalle) on Chuo-dori into the back street known as the junk street. The shop is the building right next to the eight-storey black Mandarake Complex, occupying B1F, 2F and 3F; the ground floor is a different business."
+ },
+ "tips": {
+  "ko": [
+   "게임 목적이라면 2층과 B1층만 봐도 된다. 3층은 악기, 나머지 층은 오디오·카메라·시계 중심이다.",
+   "B1층 정크 코너는 작동 미확인 하드웨어와 부품, 소프트가 싸게 나오는 자리라 레트로 기기 부품을 찾는 사람에게 유리하다.",
+   "같은 정크 거리 북쪽 150m 지점에 2호점(외신다3-8-1 YS빌딩)이 따로 있고, 그쪽 3~4층은 중고 피규어·완구를 파는 호비오프다.",
+   "전용 주차장은 없다. 결제 수단과 면세 여부는 공식 페이지에 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "If you are here for games, 2F and B1F are enough: 3F is instruments and the rest is audio, cameras and watches.",
+   "The B1F junk corner is where untested hardware, parts and loose software turn up cheap, which is the draw for people hunting retro spares.",
+   "Store 2 is 150 m further north on the same junk street (3-8-1, YS Building), and its 3F-4F is Hobby Off, selling used figures and toys.",
+   "There is no car park. The official page says nothing about cards or tax-free service, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://www.hardoff.co.jp/shop/detail/?p=101062",
+ "sns": {
+  "x": "https://x.com/hardoff_akiba"
+ },
+ "chain": "hard-off",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hardoff.co.jp/shop/detail/?p=101062",
+  "https://www.hardoff.co.jp/shop/detail/?p=101104"
+ ],
+ "osm_id": "node/13139741092"
+}

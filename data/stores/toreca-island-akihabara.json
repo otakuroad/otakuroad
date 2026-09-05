@@ -1,0 +1,111 @@
+{
+ "id": "toreca-island-akihabara",
+ "name": {
+  "ko": "트레카아일랜드 아키하바라점",
+  "en": "Toreca Island Akihabara",
+  "ja": "トレカアイランド秋葉原店"
+ },
+ "synonyms": [
+  "트레카아일랜드",
+  "트레카 아일랜드",
+  "Toreca Island",
+  "Treca Island",
+  "トレカアイランド",
+  "トレカアイランド 秋葉原店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "yugioh",
+  "one_piece_card",
+  "weiss_schwarz",
+  "singles",
+  "psa",
+  "sealed_box",
+  "buyback",
+  "supplies"
+ ],
+ "one_line": {
+  "ko": "포켓몬·유희왕·원피스·바이스 싱글과 서플라이를 파는 1층 노면 매장",
+  "en": "Pokemon, Yu-Gi-Oh, One Piece and Weiss Schwarz singles and supplies, street level"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703047,
+  "lng": 139.772959
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田5-6-14 秋葉原KDビル101",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "영업시간 11:00-20:00은 공식 X 프로필, 연중무휴는 아키하바라 트레카 디렉터리 기준. 매입 접수는 19:30까지.",
+   "en": "The 11:00-20:00 comes from the shop's official X profile and the year-round opening from the Akihabara card directory; buyback is accepted only until 19:30."
+  },
+  "source_url": "https://x.com/ShaoNian49600"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 스에히로초역에서 도보 2분, 주오도리에서 동쪽으로 한 블록 들어간 소토칸다 5-6-14 아키하바라 KD빌딩 1층 노면 점포(101호). 커피점 마츠자키커피와 같은 블록이다.",
+  "en": "Two minutes from Suehirocho station, a street-level unit (No.101) on 1F of the Akihabara KD Building at Sotokanda 5-6-14, one block east of Chuo-dori and on the same block as Matsuzaki Coffee."
+ },
+ "tips": {
+  "ko": [
+   "포켓몬카드·유희왕 OCG·원피스카드·바이스슈발츠 네 타이틀만 다뤄 각 타이틀 싱글을 고르기 쉽다.",
+   "PSA 감정품과 미개봉 박스로 시작한 가게라 감정품 재고가 강하고, 이후 플레이매트·슬리브 등 서플라이도 취급하게 됐다.",
+   "매입 최종 접수는 19:30이므로 파는 목적이면 여유를 두고 가야 한다.",
+   "주오도리 큰길에서 벗어나 있어 주말에도 비교적 한산하다."
+  ],
+  "en": [
+   "Only four titles - Pokemon, Yu-Gi-Oh OCG, One Piece and Weiss Schwarz - which makes the singles easy to work through.",
+   "It started out on PSA-graded cards and sealed boxes, so graded stock is a strength; supplies such as playmats and sleeves were added later.",
+   "Buyback is taken only until 19:30, so allow time if you are selling.",
+   "Being off the Chuo-dori main drag, it stays comparatively quiet even at weekends."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/ShaoNian49600"
+ },
+ "chain": "toreca-island",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://x.com/ShaoNian49600",
+  "https://akihabara-cardmap.com/ja/shop/treca-island-akihabara-store/"
+ ],
+ "osm_id": "node/13288376556"
+}

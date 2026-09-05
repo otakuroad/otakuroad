@@ -1,0 +1,143 @@
+{
+ "id": "retro-game-camp-akihabara",
+ "name": {
+  "ko": "레트로 게임 캠프",
+  "en": "Retro Game Camp Akihabara",
+  "ja": "レトロげーむキャンプ秋葉原店"
+ },
+ "synonyms": [
+  "레트로게임캠프",
+  "레트로 게임 캠프 아키하바라점",
+  "레트로게임 캠프",
+  "Retro Game Camp",
+  "Retro Game Camp Akiba",
+  "retrogamecamp",
+  "レトロゲームキャンプ",
+  "レトロげーむキャンプ",
+  "レトロげーむキャンプ 秋葉原店"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "famicom",
+  "super_famicom",
+  "game_boy",
+  "disk_system",
+  "nintendo_64",
+  "sega_saturn",
+  "mega_drive",
+  "pc_engine",
+  "neo_geo",
+  "game_and_watch",
+  "buyback",
+  "battery_replaced",
+  "clone_console",
+  "retro_console"
+ ],
+ "one_line": {
+  "ko": "패미컴·슈퍼패미컴·게임보이 중심의 중고 레트로 게임 소프트와 본체 전문점. 전 상품 동작 확인 후 판매.",
+  "en": "Used Famicom, Super Famicom and Game Boy carts and consoles, all tested before sale."
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "메이저 타이틀 중심의 소프트·본체·주변기기, 매입 카운터",
+   "en": "Mainstream titles, consoles, controllers and accessories; buyback counter"
+  },
+  {
+   "floor": "2F",
+   "ko": "마이너·심층 타이틀 중심의 소프트",
+   "en": "Niche and deep-cut titles"
+  }
+ ],
+ "location": {
+  "lat": 35.70121,
+  "lng": 139.771278
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-7 新末広ビルC",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 페이지 기준 매일 11:00-20:00이며 정기휴일 표기는 없음. 매입 접수는 11:00-18:30까지만. 산책 잡지 '산타쓰'(2025) 등 제3자 안내에는 11:00-19:55·부정기 휴무로 적혀 있어 마감 직전 방문은 피하는 편이 안전함.",
+   "en": "Official page lists 11:00-20:00 daily and no regular holiday; buyback reception ends at 18:30. Third-party listings (san-tatsu, 2025) give 11:00-19:55 and irregular closures, so avoid arriving right at closing time."
+  },
+  "source_url": "https://www.retrogamecamp.com/shop.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 보도를 스에히로초 방향(북쪽)으로 걷다가, 아키바오~ 7호점(빨간 차양)과 같은 신스에히로 빌딩에서 그 옆 점포를 찾으면 됨. 건물 벽면의 노란 도트 그래픽 간판(www.retrogamecamp.com)이 표식이고, 그 아래 좁게 열린 1층 매장이 입구. 안쪽 계단으로 2층까지 이어짐.",
+  "en": "Walk north up the west sidewalk of Chuo-dori toward Suehirocho. The shop shares the Shin-Suehiro Building with Akibaoo No.7 (red awning) and sits in the unit beside it. The marker is the yellow pixel-art banner on the wall reading www.retrogamecamp.com; the narrow open shopfront underneath is the entrance, with stairs inside up to 2F."
+ },
+ "tips": {
+  "ko": [
+   "매입(買取) 접수는 11:00-18:30로 영업 종료보다 이르니 팔 물건이 있으면 오후 일찍 방문.",
+   "전 상품 동작 확인 후 판매하며, 세이브용 내장 배터리를 교체한 상품에는 스티커가 붙고 배터리 5년 보증이 적용됨.",
+   "공식 사이트와 지도 앱에 아직 남아 있는 '던전점(ダンジョン店, 外神田3-14-6 恵光ビル B1)'은 2020년 6월 폐점했고 상품·매입 업무가 이 매장으로 통합됨. 그 주소로 가지 말 것.",
+   "면세·카드 결제 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전함."
+  ],
+  "en": [
+   "Buyback reception runs 11:00-18:30, earlier than closing, so come in the afternoon if you have games to sell.",
+   "Every item is tested before sale; carts with a replaced save battery are marked with a sticker and carry a 5-year battery warranty.",
+   "The Dungeon branch (ダンジョン店, Sotokanda 3-14-6, Keiko Bldg B1) still listed on the official site and in map apps closed in June 2020; its stock and buyback moved here. Do not walk to that address.",
+   "No official information on tax-free or card acceptance, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://www.retrogamecamp.com/",
+ "sns": {
+  "x": "https://x.com/retrogamecamp"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.retrogamecamp.com/shop.html",
+  "https://www.retrogamecamp.com/",
+  "https://www.retrogamecamp.com/payment.html",
+  "https://www.retrogamecamp.com/tokusyo.html",
+  "https://www.retrogamecamp.com/mente.html",
+  "https://retrogamecamp.hatenablog.jp/",
+  "https://x.com/retrogamecamp",
+  "https://san-tatsu.jp/spots/264106/",
+  "https://akihabara-fan.com/archives/915",
+  "https://akibadays.com/retrogamecamp",
+  "https://nantoka-game.com/akihabara-retro-game-shop/",
+  "https://entermedia-akiba.com/akibaretro-camp/",
+  "https://retro-gamer.jp/?p=10635",
+  "https://www.akibaoo.co.jp/static/n/company/",
+  "https://tamashiiweb.com/store/tokyo/"
+ ],
+ "osm_id": "node/6236130395",
+ "photo": null
+}

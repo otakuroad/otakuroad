@@ -1,0 +1,107 @@
+{
+ "id": "garimpeiro-akihabara",
+ "name": {
+  "ko": "가링페이로",
+  "en": "Garimpeiro",
+  "ja": "ガリンペイロ"
+ },
+ "synonyms": [
+  "가링페이로 아키하바라",
+  "가린페이로",
+  "토이앤코믹 가링페이로",
+  "Garimpeiro",
+  "Garimpeiro Toy & Comic",
+  "garimpeiro",
+  "ガリンペイロ",
+  "トイ&コミックのガリンペイロ",
+  "トイアンドコミックのガリンペイロ"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "american_toy",
+  "action_figure",
+  "marvel",
+  "dc_comics",
+  "star_wars",
+  "us_comics",
+  "movie_goods",
+  "apparel"
+ ],
+ "one_line": {
+  "ko": "마블·DC·스타워즈 액션 피규어와 미국 코믹스를 파는 작은 미국 완구점",
+  "en": "Small US-toy shop: Marvel, DC and Star Wars action figures and American comics"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.704672,
+  "lng": 139.770948
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田6-10-12 KENTビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무",
+   "en": "Irregular closing days"
+  },
+  "note": {
+   "ko": "운영사 표기는 '영업시간 11:00~20:00(부정기 휴무)'로, 정해진 정기휴일 없이 문을 닫는 날이 있다.",
+   "en": "The operator states 11:00-20:00 with irregular closing days, so there is no fixed weekly holiday but the shop is sometimes shut."
+  },
+  "source_url": "https://garimpeiro.buyshop.jp/law"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "스에히로초에서 오카치마치 방면으로 더 올라간 소토칸다 6초메, 5층짜리 KENT빌딩 1층. 아키하바라 중심가에서 벗어난 조용한 블록이라 지나치기 쉽다.",
+  "en": "In Sotokanda 6-chome, past Suehirocho towards Okachimachi, on the 1F of the five-storey KENT Building - a quiet block well off the main Akihabara strip."
+ },
+ "tips": {
+  "ko": [
+   "정기휴일이 없는 대신 부정기 휴무라 헛걸음할 수 있다. 온라인 스토어 공지를 먼저 확인하는 편이 안전하다.",
+   "일본 애니 굿즈가 아니라 마블·DC·스타워즈 등 미국 완구와 코믹스를 다루는 매장이다."
+  ],
+  "en": [
+   "There is no fixed closing day but closures are irregular, so check the online shop's notices before a special trip.",
+   "Stock is American - Marvel, DC, Star Wars toys and US comics - not Japanese anime goods."
+  ]
+ },
+ "official_url": "https://garimpeiro.buyshop.jp/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://garimpeiro.buyshop.jp/law",
+  "https://garimpeiro.buyshop.jp/"
+ ],
+ "osm_id": "node/6373354339"
+}

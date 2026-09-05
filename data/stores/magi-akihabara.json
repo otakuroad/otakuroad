@@ -1,0 +1,126 @@
+{
+ "id": "magi-akihabara",
+ "name": {
+  "ko": "카드숍 magi 아키하바라점",
+  "en": "Card Shop magi Akihabara",
+  "ja": "カードショップmagi秋葉原店"
+ },
+ "synonyms": [
+  "카드숍 magi",
+  "카드샵 magi",
+  "magi 아키하바라",
+  "magi 아키바",
+  "매지 아키하바라",
+  "카드숍 매지",
+  "magi秋葉原店",
+  "カードショップmagi",
+  "カードショップmagi秋葉原店",
+  "magi Akihabara",
+  "magi Akiba",
+  "cardshopmagi"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "used",
+  "buyback",
+  "consignment",
+  "single_card",
+  "graded_card",
+  "pokemon_card",
+  "yugioh",
+  "one_piece_card",
+  "duel_masters",
+  "mtg",
+  "weiss_schwarz",
+  "lorcana",
+  "gundam_tcg",
+  "lycee",
+  "no_duel_space"
+ ],
+ "one_line": {
+  "ko": "포켓몬·유희왕·원피스 등 컬렉터용 트레카 싱글 판매와 매입, 대전 공간 없음",
+  "en": "Collector trading card singles and buyback: Pokemon, Yu-Gi-Oh!, One Piece. No duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701074,
+  "lng": 139.771293
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-9 第26東ビル5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "14:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무. 공휴일도 같은 시간에 영업하며 휴무일은 매달 공식 영업 스케줄에 표시된다",
+   "en": "Irregular closing days; holidays keep the same hours and closures are marked on the monthly schedule"
+  },
+  "note": {
+   "ko": "공식 사이트의 월별 '영업 스케줄' 이미지 기준으로 매일 14:00-20:00이며, 2026년 9월은 30일(수)만 점휴일이다. 일부 트레카 정보 사이트에는 12:00-18:30 같은 옛 시간이 남아 있다.",
+   "en": "The official monthly schedule image shows 14:00-20:00 every day; in September 2026 only the 30th is closed. Some card-shop directories still list older hours such as 12:00-18:30."
+  },
+  "source_url": "https://cardshopmagi.com/shop/magi-akiba/"
+ },
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리를 따라 아키하바라 방향으로 도보 약 3분(JR 아키하바라역 전기가 출구에서는 약 5분), 주오도리 서쪽 편 第26東ビル 5층. 레트로 게임 캠프(외신다 3-14-7)와 같은 블록의 바로 남쪽 건물이다.",
+  "en": "About three minutes from Suehirocho station exit 3 down Chuo-dori toward Akihabara (about five minutes from the JR Electric Town exit), on the west side of Chuo-dori in the Dai-26 Higashi Building, 5F. It is the building just south of Retro Game Camp at Sotokanda 3-14-7."
+ },
+ "tips": {
+  "ko": [
+   "14:00 개점으로 아키하바라 트레카 매장 중에서도 늦게 여는 편이다. 오전에 가면 헛걸음한다.",
+   "공식 안내 결제 수단은 현금과 QR결제(PayPay·Alipay·EPOS Pay)뿐이고 신용카드는 안내되어 있지 않으므로 현금을 준비하는 편이 안전하다.",
+   "대전(듀얼) 스페이스가 없는 판매·매입 전용 매장이다. 카드를 플레이할 곳을 찾는다면 다른 매장으로.",
+   "휴무일이 부정기적이므로 방문 전 공식 사이트의 월별 영업 스케줄이나 X(@magi_Akiba)를 확인할 것."
+  ],
+  "en": [
+   "It opens at 14:00, late even by Akihabara card-shop standards, so a morning visit is wasted.",
+   "The official page lists only cash and QR payments (PayPay, Alipay, EPOS Pay); credit cards are not mentioned, so bring cash.",
+   "There is no duel space - this is a sales and buyback counter only. Look elsewhere if you want to play.",
+   "Closing days are irregular, so check the monthly schedule on the official page or X (@magi_Akiba) before going."
+  ]
+ },
+ "official_url": "https://cardshopmagi.com/shop/magi-akiba/",
+ "sns": {
+  "x": "https://x.com/magi_Akiba"
+ },
+ "chain": "magi",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cardshopmagi.com/shop/magi-akiba/",
+  "https://cardshopmagi.com/shop/",
+  "https://cardshopmagi.com/wp-content/uploads/2026/08/6aa86734b08a963c69a326c9dbc20920.png",
+  "https://magi.camp/blogs/1307457802",
+  "https://torecamap.co.jp/tokyo/akihabara/magi-akiba/"
+ ],
+ "osm_id": "node/11782064316"
+}

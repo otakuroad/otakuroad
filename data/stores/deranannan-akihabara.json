@@ -1,0 +1,118 @@
+{
+ "id": "deranannan-akihabara",
+ "name": {
+  "ko": "데라난난 아키하바라점",
+  "en": "Deranannan Akihabara",
+  "ja": "でらなんなん秋葉原店"
+ },
+ "synonyms": [
+  "데라난난",
+  "데라난",
+  "でらなんなん",
+  "でらなん",
+  "デラナンナン",
+  "Deranan",
+  "deranan",
+  "Deranannan",
+  "펜라이트 전문점 데라난난",
+  "ウィン神田高橋ビル3階"
+ ],
+ "category": "idol",
+ "tags": [
+  "penlight",
+  "cyalume",
+  "idol_goods",
+  "concert_goods",
+  "bromide",
+  "sleeve",
+  "new"
+ ],
+ "one_line": {
+  "ko": "아이돌 콘서트용 펜라이트·사이리움과 생사진 슬리브 전문점",
+  "en": "Shop for idol concert penlights, cyalume sticks and photo sleeves"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.696177,
+  "lng": 139.770926
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区神田須田町1-7-1 ウィン神田高橋ビル3階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "평일 11:00 개점, 토·일·공휴일 10:00 개점으로 주말이 한 시간 이르다.",
+   "en": "Opens at 11:00 on weekdays and an hour earlier, at 10:00, on weekends and public holidays."
+  },
+  "source_url": "http://deranan.com/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리를 만세바시에서 남쪽으로 건너간 신다스다초 1-7-1의 윈 간다 다카하시 빌딩 3층. 전기가 거리보다 한참 남쪽이라 아키하바라역에서 주오도리를 따라 계속 내려가야 한다. 오래된 안내에는 옛 주소(구 뉴 아키하바라 센터)가 남아 있으니 공식 사이트 주소를 기준으로 삼는다.",
+  "en": "Third floor of the Win Kanda Takahashi Building at Kanda-Sudacho 1-7-1, on Chuo-dori south of the Manseibashi bridge — well south of the Electric Town, so keep walking down Chuo-dori from the station. Older listings still carry the shop's previous address, so go by the address on the official site."
+ },
+ "tips": {
+  "ko": [
+   "콘서트용 펜라이트·사이리움 전문점으로 건전지, 컬러 필터, 생사진 보호용 슬리브까지 한자리에서 살 수 있다.",
+   "공식 안내에 따르면 각 점포에서 각종 전자결제를 쓸 수 있다.",
+   "연중무휴이지만 평일은 11시, 토·일·공휴일은 10시 개점이라 공연 당일 아침에 들르려면 요일을 확인.",
+   "나고야·오사카·이케부쿠로 등에도 지점이 있는 체인이며, 아키하바라점 공지는 X(@deranan_AKIBA)에 올라온다."
+  ],
+  "en": [
+   "A specialist in concert penlights and cyalume sticks, also stocking batteries, colour filters and protective sleeves for idol raw photos.",
+   "The official site states that its stores accept various forms of electronic payment.",
+   "Open year-round, but it opens at 11:00 on weekdays and 10:00 at weekends and on holidays, so check the day if you want to buy before a show.",
+   "Part of a chain with branches in Nagoya, Osaka and Ikebukuro; Akihabara notices go out on X (@deranan_AKIBA)."
+  ]
+ },
+ "official_url": "http://deranan.com/",
+ "sns": {
+  "x": "https://x.com/deranan_AKIBA"
+ },
+ "chain": "deranannan",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "http://deranan.com/"
+ ],
+ "osm_id": null
+}

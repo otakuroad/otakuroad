@@ -1,0 +1,209 @@
+{
+ "entries": [
+  {
+   "name_ja": "とらのあな秋葉原店A",
+   "name_en": "Comic Toranoana Akihabara Store A",
+   "reason": "closed",
+   "date": "2022-08-31",
+   "note": "Toranoana's last Akihabara store, on Chuo-dori next to the former store B. Closed 2022-08-31 together with Shinjuku, Chiba, Namba A and Umeda; only Ikebukuro and Taipei survive, so no Toranoana pin belongs in Akihabara at all. Announced 2022-07-05 as part of the company's retreat from physical retail after COVID.",
+   "source_url": "https://news.toranoana.jp/notification/214810"
+  },
+  {
+   "name_ja": "とらのあな秋葉原店B",
+   "name_en": "Comic Toranoana Akihabara Store B",
+   "reason": "closed",
+   "date": "2021-04-06",
+   "note": "Opened 2006-08 as とらのあな秋葉原本店, renamed store B in 2009; the seven-floor flagship that carried the women's doujinshi floors. Closed 2021-04-06 on lease expiry, women's doujinshi moved to the Ikebukuro store.",
+   "source_url": "https://news.toranoana.jp/notification/159903"
+  },
+  {
+   "name_ja": "とらのあな秋葉原店C",
+   "name_en": "Comic Toranoana Akihabara Store C",
+   "reason": "closed",
+   "date": "2021-04-04",
+   "note": "Opened 2013-11-01 in the Tokyo Kakuta Building (ex-Kakuta Musen / Kakuta Sofmap) facing stores A and B. Closed 2021-04-04 because the building was scheduled for demolition and redevelopment.",
+   "source_url": "https://news.toranoana.jp/notification/156228"
+  },
+  {
+   "name_ja": "とらのあな2nd PREMIUM 秋葉原ラジオ会館出張所",
+   "name_en": "Toranoana 2nd PREMIUM Akihabara Radio Kaikan branch",
+   "reason": "closed",
+   "date": "2021-02-28",
+   "note": "Second-hand / antiquarian branch on 2F of the new Radio Kaikan main building. Closed 2021-02-28; the Radio Kaikan floor guide has not listed it since. Do not re-create it when seeding Radio Kaikan tenants.",
+   "source_url": "https://news.toranoana.jp/notification/158339"
+  },
+  {
+   "name_ja": "とらのあな2nd（本店・外神田4-3-7）",
+   "name_en": "Toranoana 2nd (main shop, Sotokanda 4-3-7)",
+   "reason": "closed",
+   "note": "Used hobby / retro game shop opened by Toranoana in Akihabara; put on indefinite suspension in April 2019 and never reopened, and the chain left Akihabara entirely on 2022-08-31. OSM still carries node/5332501653 (name とらのあな, branch 2nd, shop=books) with a dead website URL (toranoana.jp/shop/toranoanasecond/ returns 404) - this node is the main re-seeding risk. No exact final-day date was published, hence no date field.",
+   "source_url": "https://toshoken.com/news/21917"
+  },
+  {
+   "name_ja": "GiGO秋葉原1号館",
+   "name_en": "GiGO Akihabara No.1",
+   "reason": "closed",
+   "date": "2025-08-31",
+   "note": "The red landmark arcade at 外神田1-10-9 on Chuo-dori (ex-SEGA Akihabara No.1), closed 2025-08-31 after 33 years when the fixed-term building lease expired. GENDA GiGO continues with GiGO Akihabara No.2, No.3 and No.5 only. The same building reopened 2025-11-22 as シルクハット秋葉原 (Matahari/Adores), which is the record that should hold this address.",
+   "source_url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2043347.html"
+  },
+  {
+   "name_ja": "GiGO秋葉原4号館（旧クラブセガ秋葉原4号館）",
+   "name_en": "GiGO Akihabara No.4 (formerly Club SEGA Akihabara No.4)",
+   "reason": "closed",
+   "date": "2022-09-25",
+   "note": "The arcade right outside the Electric Town exit, run as Club SEGA then GiGO. Closed 2022-09-25 after 11 years. OSM still carries node/4553422390 (クラブセガ, branch 秋葉原4号館, leisure=amusement_arcade) - stale, must never be seeded.",
+   "source_url": "https://prtimes.jp/main/html/rd/p/000000410.000034930.html"
+  },
+  {
+   "name_ja": "セガ秋葉原2号館",
+   "name_en": "SEGA Akihabara No.2",
+   "reason": "closed",
+   "date": "2020-08-30",
+   "note": "Large arcade in the former Daiichi Kaden building; closed 2020-08-30 after 17 years. The building reopened in April 2023 as GiGO秋葉原2号館 (currently open), so only the retired SEGA name is denied here - GiGO No.2 itself is a live venue.",
+   "source_url": "https://toshoken.com/news/20085"
+  },
+  {
+   "name_ja": "アドアーズ秋葉原店",
+   "name_en": "Adores Akihabara",
+   "reason": "closed",
+   "date": "2020-11-08",
+   "note": "Large multi-floor arcade in a prime Chuo-dori location; the karaoke floor closed 2020-10-31 and the arcade itself on 2020-11-08. Adores' successor presence in Akihabara is シルクハット秋葉原 (opened 2025-11-22 in the ex-GiGO No.1 building), not this site.",
+   "source_url": "https://toshoken.com/news/20808"
+  },
+  {
+   "name_ja": "ボークス秋葉原ホビー天国1（ラジオ会館1号館）",
+   "name_en": "Volks Akihabara Hobby Tengoku 1 (Radio Kaikan Annex 1)",
+   "reason": "merged",
+   "date": "2021-05-16",
+   "note": "Volks' nine-floor shop in Radio Kaikan Annex 1 closed 2021-05-16 and was absorbed into ボークス秋葉原ホビー天国2 (外神田4-2-10), which had a phased opening from 2020-10-24 and full grand opening 2021-06-05. Successor record: volks-akihabara-hobby-tengoku-2. The annex building later held ダイコクドラッグ秋葉原西口店 and is slated for demolition.",
+   "source_url": "https://toshoken.com/news/21549"
+  },
+  {
+   "name_ja": "あみあみ秋葉原店2nd",
+   "name_en": "AmiAmi Akihabara Store 2nd",
+   "reason": "merged",
+   "date": "2024-02-29",
+   "note": "Used-figure shop in the Akihabara Super Building (神田明神通り); last day of trading 2024-02-29, closed from 2024-03-01 because the building was being rebuilt. Reopened as あみあみ秋葉原フィギュアタワー店 at 外神田1-15-3 (Uniden Akihabara Bldg, 9 floors). Successor record: amiami-akihabara-figure-tower.",
+   "source_url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1566899.html"
+  },
+  {
+   "name_ja": "ACOS秋葉原",
+   "name_en": "ACOS Akihabara",
+   "reason": "closed",
+   "date": "2021-09-20",
+   "note": "Animate group's cosplay specialty shop in AKIBAカルチャーズZONE (opened 2014-04-25, moved there from アニメイト秋葉原). Closed 2021-09-20; ACOS has had no Akihabara branch since, so cosplay pins in the building must not be revived.",
+   "source_url": "https://ja.wikipedia.org/wiki/AKIBA%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BAZONE"
+  },
+  {
+   "name_ja": "GOOD SMILE×アニメイトカフェ（AKIBAカルチャーズZONE）",
+   "name_en": "GOOD SMILE x animate Cafe (AKIBA Cultures Zone)",
+   "reason": "closed",
+   "date": "2021-09-20",
+   "note": "Collaboration cafe / showroom run by Good Smile Company and Animate in AKIBAカルチャーズZONE from 2014-04-25 (successor to GOOD SMILE cafe x Karaoke no Tetsujin). Closed 2021-09-20 on the same day as ACOS秋葉原 in the same building.",
+   "source_url": "https://ja.wikipedia.org/wiki/AKIBA%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BAZONE"
+  },
+  {
+   "name_ja": "AKIHABARAバックステージpass",
+   "name_en": "AKIHABARA Backstage pass",
+   "reason": "closed",
+   "date": "2022-10-10",
+   "note": "Idol-training entertainment cafe on 6F of AKIBAカルチャーズZONE (opened 2011-12, home base of idol group バクステ外神田一丁目). Closed 2022-10-10 and converted to iTube Studio, so the ACZ floor guide should not list it.",
+   "source_url": "https://akiba-pc.watch.impress.co.jp/docs/wakiba/find/1434845.html"
+  },
+  {
+   "name_ja": "アニメイトAKIBAガールズステーション（後のアニメイト秋葉原別館）",
+   "name_en": "animate AKIBA Girls Station (later animate Akihabara Annex)",
+   "reason": "merged",
+   "date": "2022-01-16",
+   "note": "Opened 2016-07-16 in Radio Kaikan Annex 2, later renamed アニメイト秋葉原別館; merged into アニメイト秋葉原本館 on 2022-01-16 (pre-orders transferred there from 2022-01-17). The site is now 晴れる屋2秋葉原タワー店.",
+   "source_url": "https://www.animate.co.jp/news/1432/"
+  },
+  {
+   "name_ja": "サンコーレアモノショップ秋葉原総本店",
+   "name_en": "Thanko Rare Mono Shop Akihabara",
+   "reason": "closed",
+   "date": "2026-04-12",
+   "note": "Thanko's quirky-gadget flagship (opened 2009, 外神田3-6-1) closed 2026-04-12 as the company concentrated on product development and online sales. OSM still carries node/4937999266 (サンコー, shop=toys, Mo-Su 11:00-20:00) - stale.",
+   "source_url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2098227.html"
+  },
+  {
+   "name_ja": "トレーダー秋葉原3号店",
+   "name_en": "Trader Akihabara Store 3",
+   "reason": "closed",
+   "date": "2021-11-30",
+   "note": "Closed 2021-11-30 so its building could be rebuilt; the replacement building at 外神田4-2-1 reopened 2024-05-23 as トレーダー秋葉原本店. The name 3号店 is retired - Trader now runs only 本店 and 2号店 in Akihabara. Note OSM way/217379773 is still tagged トレーダー3号店ビル although it is the current 本店 building.",
+   "source_url": "https://ja.wikipedia.org/wiki/TRADER"
+  },
+  {
+   "name_ja": "トレーダー秋葉原本店（旧店舗・外神田3-14-10 トレーダー本店ビル）",
+   "name_en": "Trader Akihabara Main Store (old premises, Sotokanda 3-14-10)",
+   "reason": "closed",
+   "date": "2024-05-06",
+   "note": "The Chuo-dori premises stopped trading 2024-05-06 and the building was demolished; the store reopened 2024-05-23 at 外神田4-2-1 (ex-3号店 site). Only the old address is denied - the live record trader-akihabara-honten holds the new one.",
+   "source_url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1588705.html"
+  },
+  {
+   "name_ja": "ROBOTROBOT秋葉原ラジオ会館店",
+   "name_en": "ROBOTROBOT Akihabara Radio Kaikan",
+   "reason": "closed",
+   "date": "2023-02-19",
+   "note": "Used-toy and figure shop on 5F of Radio Kaikan; closed 2023-02-19. The unit was taken over by magi 秋葉原ラジオ会館店, which opened 2023-03-17.",
+   "source_url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8"
+  },
+  {
+   "name_ja": "TRIO 秋葉原ラジオ会館店",
+   "name_en": "TRIO Akihabara Radio Kaikan",
+   "reason": "closed",
+   "date": "2024-05-06",
+   "note": "Idol-goods shop on 5F of Radio Kaikan, closed 2024-05-06; らしんばん秋葉原ラジオ会館店 opened over the TRIO and IN-PuLse units on 2024-08-08. OSM still carries node/10136698417 (Trio, shop=second_hand, level 5) - stale. The TRIO chain itself is still active in Akihabara (TRIO DX in AKIBAカルチャーズZONE), so deny only the Radio Kaikan branch.",
+   "source_url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8"
+  },
+  {
+   "name_ja": "IN・PuLse 秋葉原ラジオ会館店",
+   "name_en": "IN-PuLse Akihabara Radio Kaikan",
+   "reason": "closed",
+   "date": "2024-06-30",
+   "note": "Long-running Radio Kaikan tenant (5F, moved there from Annex 1) that closed 2024-06-30 when the business wound up. Its unit, together with the former TRIO space, became らしんばん秋葉原ラジオ会館店 on 2024-08-08.",
+   "source_url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8"
+  },
+  {
+   "name_ja": "ANIPLEX+ 秋葉原（アニプレックス オンライン アンテナショップ）",
+   "name_en": "ANIPLEX+ Akihabara antenna shop",
+   "reason": "closed",
+   "date": "2023-06-18",
+   "note": "Aniplex's antenna shop on 1F of Radio Kaikan closed after trading on 2023-06-18 (official notice on the Aniplex Online site). The unit is now くじ専門店マッハ.",
+   "source_url": "https://online.aniplex.co.jp/antennashop"
+  },
+  {
+   "name_ja": "BEEP秋葉原店（旧店舗・外神田3-9-8 中栄ビルB1F）",
+   "name_en": "BEEP Akihabara (old basement premises, Sotokanda 3-9-8)",
+   "reason": "closed",
+   "date": "2026-05-17",
+   "note": "The basement retro-game shop near Super Potato ended 10 years of trading on 2026-05-17 ahead of the building's demolition; BEEP reopened 2026-06-06 in SEEKBASE unit 3 (神田練塀町15-1). Only the old basement address is denied - the live record beep-akihabara holds the SEEKBASE location.",
+   "source_url": "https://www.akihabara-beep.com/13011/"
+  },
+  {
+   "name_ja": "私設図書館シャッツキステ",
+   "name_en": "Schatzkiste (private library maid cafe)",
+   "reason": "closed",
+   "date": "2020-11-15",
+   "note": "Classic-style maid cafe near Suehirocho / Tsumagoizaka, open since 2006. Closure announced 2020-06-24 because of COVID-19 and brought forward to a final day of 2020-11-15, ending 14 years of trading.",
+   "source_url": "https://kai-you.net/article/77684"
+  },
+  {
+   "name_ja": "大人のデパート エムズ 秋葉原店（ポップライフデパート エムズ）",
+   "name_en": "Pop Life Department M's Akihabara",
+   "reason": "adult_only",
+   "note": "Still trading at 外神田1-15-13 (10:00-23:00), but it is an adults-only (18+) sex-shop department store across all floors, so it is out of scope under the R-18 policy (adult-only venues are not published). OSM node/1915008596 is tagged shop=erotic and sits among the anime shops, so seeding must skip it.",
+   "source_url": "https://www.ms-online.co.jp/"
+  },
+  {
+   "name_ja": "秋葉原ラブメルシー",
+   "name_en": "Love Merci Akihabara",
+   "reason": "adult_only",
+   "note": "Adults-only (18+) adult-goods store at 外神田1-2-7, open 10:00-22:00 and still trading. OSM way/181065609 is tagged shop=erotic; excluded under the same R-18 policy as M's rather than because it closed.",
+   "source_url": "https://www.akibalovemerci.com/"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "id": "tokyo-video-gamers",
+ "name": {
+  "ko": "도쿄 비디오 게이머즈",
+  "en": "TOKYO VIDEO GAMERS",
+  "ja": "TOKYO VIDEO GAMERS"
+ },
+ "synonyms": [
+  "도쿄비디오게이머즈",
+  "TVG",
+  "Tokyo Video Gamers",
+  "トーキョービデオゲーマーズ",
+  "東京ビデオゲーマーズ",
+  "SEEKBASE 1-9"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "arcade_cabinet",
+  "retro",
+  "video_game",
+  "craft_beer",
+  "limited_goods"
+ ],
+ "one_line": {
+  "ko": "아케이드 기체 7대를 음식 주문 시 무료로 즐기는 비디오게임 콘셉트 카페·바",
+  "en": "Game-concept cafe and bar with seven free-play arcade cabinets for dining customers"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700727,
+  "lng": 139.773359
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区神田練塀町13-1 SEEKBASE 1-9 1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라스트오더 22:30. SEEKBASE 공식 점포 안내에 정기휴무 표기가 없다(같은 1호동의 2nd BASE·오디오 미진코·otto는 수요일 휴무).",
+   "en": "Last order 22:30. The official SEEKBASE directory lists no regular closing day for this shop, unlike neighbours 2nd BASE, Audio Mijinko and otto (Wednesdays)."
+  },
+  "source_url": "https://www.jrtk.jp/seekbase/shop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 북쪽 고가 아래 상가 SEEKBASE의 1호동(The Tools) 맨 끝 구획 1-9. 전기가 출구에서 선로를 따라 북쪽으로 걸어 ちゃばら를 지나면 2nd BASE·레코판·만다라케 CoCoo가 이어지고, 그 북쪽 끝이 이 가게다. 레트로게임점 BEEP는 두 구역 더 북쪽 3호동에 있다.",
+  "en": "Unit 1-9, the far end of SEEKBASE building 1 (The Tools), the strip under the JR viaduct north of Akihabara station. From the Electric Town exit follow the tracks north past Chabara; 2nd BASE, RECOfan and Mandarake CoCoo come first and this is at the north end of that row. BEEP sits two sections further north in building 3."
+ },
+ "tips": {
+  "ko": [
+   "가게 안 아케이드 기체 7대는 매장에서 음식·음료를 주문한 손님에게 무료 개방이며, 수록 타이틀은 부정기적으로 교체된다.",
+   "게임 메이커와 협업한 오리지널 의류·굿즈 판매 코너가 있고 온라인 스토어도 운영한다.",
+   "테이블과 천장에 대형 모니터를 넣어 게임 영상을 틀며, BGM과 내장도 게임 테마로 맞췄다.",
+   "주류를 파는 카페·바이므로 오락실이 아니다. 라스트오더는 22:30."
+  ],
+  "en": [
+   "The seven arcade cabinets are free to play for anyone ordering food or drink; the line-up is swapped from time to time.",
+   "A merchandise corner sells original apparel and goods made with game publishers, and there is an online store.",
+   "Monitors built into the tables and ceiling play game footage, and the music and interior follow the same theme.",
+   "It is a cafe and bar serving alcohol, not a coin-op arcade. Last order is 22:30."
+  ]
+ },
+ "official_url": "https://tokyovideogamers.com/",
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://tokyovideogamers.com/",
+  "https://www.jrtk.jp/seekbase/shop/"
+ ],
+ "osm_id": null
+}

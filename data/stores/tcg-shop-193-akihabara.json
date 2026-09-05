@@ -1,0 +1,126 @@
+{
+ "id": "tcg-shop-193-akihabara",
+ "name": {
+  "ko": "트레이딩카드숍 193 아키하바라점",
+  "en": "Trading Card Shop 193 Akihabara",
+  "ja": "トレーディングカードショップ193 秋葉原店"
+ },
+ "synonyms": [
+  "193",
+  "이치큐산",
+  "카드숍 193",
+  "TCG숍 193",
+  "193 아키하바라",
+  "TCG Shop 193",
+  "TCGショップ193 秋葉原店",
+  "トレカショップ193",
+  "カードショップ193",
+  "193net",
+  "193NET",
+  "イッキュウサン"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "yugioh",
+  "pokemon_card",
+  "weiss_schwarz",
+  "duel_masters",
+  "vanguard",
+  "mtg",
+  "one_piece_card",
+  "battle_spirits",
+  "singles",
+  "duel_space",
+  "tournaments",
+  "buyback",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬 등 20여 종 TCG 싱글과 156석 대전 공간을 갖춘 카드 전문점",
+  "en": "Singles for 20-plus card games plus a 156-seat duel space on 2F"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700428,
+  "lng": 139.769836
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-14 今井ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "신제품 발매일에는 오전 7시에 앞당겨 여는 날이 있다. 전화 03-6384-0593.",
+   "en": "On some new-set release days it opens early, at 07:00. Phone 03-6384-0593."
+  },
+  "source_url": "https://193tcg.com/user_data/shopinfo"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 7분. 주오도리에서 서쪽으로 세 블록, 쇼헤이바시도리 가까운 이면도로의 이마이빌딩(今井ビル) 2층이다. 1층 입구로 들어가 계단이나 엘리베이터로 올라간다.",
+  "en": "Seven minutes from JR Akihabara's Electric Town Exit. Three blocks west of Chuo-dori on a back street near Shoheibashi-dori, on 2F of the Imai Building; enter at ground level and take the stairs or lift."
+ },
+ "tips": {
+  "ko": [
+   "156석 대전 공간은 아키하바라 최대급이라, 대회나 자유 대전이 목적이라면 이곳이 무난하다.",
+   "유희왕·포켓몬 카드가 주력이지만 바이스 슈발츠, 듀얼마스터즈, 뱅가드, MTG, 배틀 스피리츠, Z/X, 리세 등 20종이 넘는 타이틀의 싱글을 갖춘다.",
+   "나고야·하마마츠·오사카 니혼바시에 형제점이 있는 체인으로, 통신판매(193net) 상품을 이 매장에서 수령할 수 있다.",
+   "평일은 12:00, 토·일·공휴일은 10:00 개점으로 주말이 두 시간 빠르다."
+  ],
+  "en": [
+   "The 156-seat duel space is one of the largest in Akihabara, so this is the easy pick for tournaments or casual games.",
+   "Yu-Gi-Oh and Pokemon lead, but it also keeps singles for over 20 games including Weiss Schwarz, Duel Masters, Vanguard, MTG, Battle Spirits, Z/X and Lycee.",
+   "Part of a chain with shops in Nagoya, Hamamatsu and Osaka Nipponbashi; orders from its 193net web shop can be collected here.",
+   "Weekdays open at 12:00 but weekends and holidays at 10:00, two hours earlier."
+  ]
+ },
+ "official_url": "https://193tcg.com/user_data/shopinfo",
+ "sns": {
+  "x": "https://x.com/193NETSHOP"
+ },
+ "chain": "193tcg",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://193tcg.com/user_data/shopinfo",
+  "https://193tcg.com/",
+  "https://akibatoreka.com/introduce/1137"
+ ],
+ "osm_id": "node/12953576364"
+}

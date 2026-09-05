@@ -1,0 +1,118 @@
+{
+ "id": "amiami-akihabara-radio-kaikan",
+ "name": {
+  "ko": "아미아미 아키하바라 라디오회관점",
+  "en": "AmiAmi Akihabara Radio Kaikan",
+  "ja": "あみあみ 秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "아미아미",
+  "아미아미 라디오회관점",
+  "아미아미 라지관점",
+  "아미아미 아키하바라",
+  "AmiAmi Radio Kaikan",
+  "AmiAmi Akiba",
+  "amiami",
+  "あみあみ",
+  "あみあみ秋葉原ラジオ会館店",
+  "あみあみ秋葉原店"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "new",
+  "used",
+  "buyback",
+  "plastic_model",
+  "gunpla",
+  "character_goods",
+  "minicar",
+  "shokugan",
+  "kuji",
+  "tcg_singles",
+  "card_supply",
+  "tax_free",
+  "tools"
+ ],
+ "one_line": {
+  "ko": "4층 한 층 규모의 신품·중고 피규어·프라모델·캐릭터 굿즈 매장, 매입 카운터 운영",
+  "en": "A whole floor of new and used figures, model kits and character goods, with buyback"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매입 접수는 11:30~18:30으로 영업시간보다 짧다. 건물은 10:00 개관하지만 이 매장은 11:00 개점하며, 임시 시간 변경은 라디오회관 공지에 4F 아미아미 이름으로 올라온다",
+   "en": "The buyback desk runs 11:30-18:30, shorter than store hours. The building opens at 10:00 but this shop opens at 11:00; temporary changes are posted as '4F AmiAmi' notices on the Radio Kaikan site"
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/amiami/"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 1F에서 엘리베이터나 에스컬레이터로 4F로 올라가면 층 전체가 아미아미다. 3F K-BOOKS 바로 위층.",
+  "en": "Take the elevator or escalator from Radio Kaikan's 1F to 4F, which is entirely AmiAmi - one floor above K-BOOKS on 3F."
+ },
+ "tips": {
+  "ko": [
+   "온라인 통판으로 유명한 아미아미의 실점포로, 예약 상품 수령이 아니라 매장 재고 판매 중심이다. 신품과 중고 피규어를 같은 층에서 볼 수 있다.",
+   "면세 등록 매장이며 VISA·Master·JCB·AMEX·다이너스·유니온페이 등 신용카드를 받는다. 여권 지참 시 카운터에서 면세 절차 확인.",
+   "매입 접수는 11:30~18:30로 폐점보다 1시간 반 일찍 끝난다.",
+   "외신다 1-15-3의 아미아미 아키하바라 피규어타워점과는 다른 매장이니 혼동 주의."
+  ],
+  "en": [
+   "This is the bricks-and-mortar branch of the well-known online shop AmiAmi, stocked for walk-in buying rather than order pickup, with new and used figures on the same floor.",
+   "It is a registered tax-free shop and takes VISA, Mastercard, JCB, AMEX, Diners and UnionPay; bring your passport and ask at the counter about the tax-free procedure.",
+   "The buyback desk closes at 18:30, ninety minutes before the shop.",
+   "Do not confuse it with AmiAmi Akihabara Figure Tower at Sotokanda 1-15-3, a separate shop."
+  ]
+ },
+ "official_url": "https://realstore.amiami.jp/shop/shop1.html",
+ "sns": {},
+ "chain": "amiami",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/amiami/",
+  "https://akihabara-radiokaikan.co.jp/floor/4f/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/information/",
+  "https://www.taxfreeshops.jp/ja/shop/35171"
+ ],
+ "osm_id": "node/8969154420"
+}

@@ -1,0 +1,124 @@
+{
+ "id": "leonardo-et-akihabara",
+ "name": {
+  "ko": "레오나르도 ET",
+  "en": "Leonardo ET",
+  "ja": "レオナルドET"
+ },
+ "synonyms": [
+  "레오나르도",
+  "레오나르도ET",
+  "레오나르도 이티",
+  "모형 레오나르도",
+  "Leonardo ET",
+  "LeonardoET",
+  "レオナルド",
+  "模型レオナルドET",
+  "レオナルド ET"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "plastic_model",
+  "scale_model",
+  "aircraft",
+  "military",
+  "ship",
+  "car",
+  "tank",
+  "used",
+  "buyback",
+  "out_of_production",
+  "paint",
+  "tool",
+  "book"
+ ],
+ "one_line": {
+  "ko": "절판 항공기·전차·함선 프라모델 중고 재고와 도료·중고 툴을 파는 모형점",
+  "en": "Hard-to-find and discontinued aircraft, tank and ship model kits, paints and used tools"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703921,
+  "lng": 139.772361
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田5-2-14 槇田ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "20:15"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 사이트가 2021년 이후 갱신되지 않았다. 시간이 바뀌었을 수 있으므로 방문 전 03-5846-5151로 확인하는 편이 안전하다.",
+   "en": "The official site has not been updated since 2021, so ring 03-5846-5151 before travelling in case the hours have changed."
+  },
+  "source_url": "http://www.leonardoet.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 3분, 주오도리 동쪽 소토칸다 5초메의 마키타(槇田) 빌딩 1층 노면 점포. 가게가 직접 공개한 좌표는 35.7039305, 139.7723018이다.",
+  "en": "Three minutes from Suehirocho station on the Ginza line, at street level in the Makita Building in Sotokanda 5-chome, east of Chuo-dori. The shop publishes its own coordinates as 35.7039305, 139.7723018."
+ },
+ "tips": {
+  "ko": [
+   "구형 모형점 '모형 레오나르도'의 후계 점포로, 절판·희소 키트 재고가 중심이다. 라디오컨트롤은 취급하지 않는다.",
+   "여러 파츠를 모아 담은 '후쿠로 키트(袋キット)' 특가 코너가 이 가게의 명물이다.",
+   "매입은 목요일을 제외하고 점두에서 받으며, 점장이 자리를 비울 수 있어 전화 확인을 권한다. 신분증이 필요하고 18세 미만은 매입 불가.",
+   "도료·중고 컴프레서·에어브러시 등 공구류와 중고 모형 자료집도 함께 판다."
+  ],
+  "en": [
+   "The successor to the old shop Leonardo, stocked mainly with out-of-production and hard-to-find kits; radio control is not handled.",
+   "Its trademark is the bargain corner of 'bag kits' — assorted parts bundled into one bag.",
+   "Buy-back is taken over the counter except on Thursdays; the owner may be out, so phone first. ID is required and under-18s cannot sell.",
+   "Paints, used compressors and airbrushes, tools and second-hand modelling reference books are sold too."
+  ]
+ },
+ "official_url": "http://www.leonardoet.com/",
+ "sns": {},
+ "chain": "leonardo",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "http://www.leonardoet.com/",
+  "http://www.leonardoet.com/en/index.html",
+  "http://www.leonardoet.com/shopinfo.html",
+  "http://www.leonardoet.com/purchase.html"
+ ],
+ "osm_id": "node/5013297216"
+}

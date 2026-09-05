@@ -1,0 +1,116 @@
+{
+ "id": "akiba-no-x-radio-kaikan",
+ "name": {
+  "ko": "아키바노엑스 라지관점",
+  "en": "Akiba no X Radio Kaikan",
+  "ja": "アキバのエックス ラジ館店"
+ },
+ "synonyms": [
+  "아키바노엑스",
+  "아키바노 엑스",
+  "아키바의 엑스",
+  "엑스 라지관점",
+  "아키바노엑스 라디오회관점",
+  "Akiba no X",
+  "Akiba's X",
+  "Akiba no X Rajikan",
+  "X-JPN",
+  "アキバのエックス",
+  "エックス ラジ館店",
+  "アキバのエックスラジ館店"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "used",
+  "new",
+  "buyback",
+  "gunpla",
+  "plastic_model",
+  "tokusatsu",
+  "ultraman",
+  "kamen_rider",
+  "robot_figure",
+  "bishoujo_figure",
+  "character_goods"
+ ],
+ "one_line": {
+  "ko": "특촬·로봇·건프라 중심의 신품·중고 피규어와 캐릭터 굿즈, 매입도 함",
+  "en": "New and used figures, character goods and Gunpla, with a buyback counter"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "건물 개관 시간(10:00~20:00)과 동일. 연말연시에는 단축 영업하는 해가 있어 라디오회관 공지 확인",
+   "en": "Same as the building's 10:00-20:00. Year-end and New Year hours are sometimes shortened; check the Radio Kaikan notices"
+  },
+  "source_url": "https://www.x-jpn.co.jp/store/store-51/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구 바로 앞 라디오회관 1F로 들어가 엘리베이터나 에스컬레이터로 5F까지. 5F는 라신방·카이요도 호비로비 등이 나뉘어 든 층이며, 엑스는 특촬·로봇 피규어 쇼케이스가 늘어선 구역이다.",
+  "en": "Enter Radio Kaikan on 1F, right outside JR Akihabara's Electric Town Exit, and go up to 5F by elevator or escalator. 5F is split between several shops including Lashinbang and Kaiyodo Hobby Lobby; X is the section lined with tokusatsu and robot figure showcases."
+ },
+ "tips": {
+  "ko": [
+   "같은 회사가 운영하는 아키바노엑스 중앙점(외신다 3초메)·엑스 아키하바라 본점(간다사쿠마초)과는 별개 매장이며, 라지관점은 울트라맨·가면라이더 등 특촬과 로봇 피규어, 건프라(MG·RG·HG)에 특히 강하다.",
+   "신품과 중고를 함께 취급하고 매입(買取) 카운터도 있다. 면세·카드 결제 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
+  ],
+  "en": [
+   "The same company runs Akiba no X Chuo-ten (Sotokanda 3-chome) and X Akihabara main store (Kanda-Sakumacho); this Rajikan branch leans hardest into tokusatsu figures (Ultraman, Kamen Rider), robot figures and Gunpla (MG, RG, HG).",
+   "It sells both new and used stock and runs a buyback counter. Tax-free and card acceptance are not stated officially, so bring cash to be safe."
+  ]
+ },
+ "official_url": "https://www.x-jpn.co.jp/store/store-51/",
+ "sns": {
+  "x": "https://x.com/x_radiokaikan"
+ },
+ "chain": "akiba-x",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.x-jpn.co.jp/store/store-51/",
+  "https://www.x-jpn.co.jp/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/akiba-no-x/",
+  "https://akihabara-radiokaikan.co.jp/floor/5f/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+ ],
+ "osm_id": "node/10136696217"
+}

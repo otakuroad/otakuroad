@@ -1,0 +1,108 @@
+{
+ "id": "mogra-akihabara",
+ "name": {
+  "ko": "아키하바라 모그라",
+  "en": "Akihabara MOGRA",
+  "ja": "秋葉原MOGRA"
+ },
+ "synonyms": [
+  "모그라",
+  "클럽 모그라",
+  "아키하바라 MOGRA",
+  "MOGRA",
+  "club MOGRA",
+  "club-mogra",
+  "モグラ",
+  "秋葉原モグラ",
+  "MOGRA 秋葉原"
+ ],
+ "category": "idol",
+ "tags": [
+  "dj_event",
+  "anison",
+  "vocaloid",
+  "game_music",
+  "idol_song",
+  "club",
+  "live_stream",
+  "age_check",
+  "no_smoking"
+ ],
+ "one_line": {
+  "ko": "애니송·게임음악·아이돌송 DJ 이벤트를 여는 정원 150명 지하 클럽",
+  "en": "150-capacity basement club for anime-song, game-music and idol-song DJ events"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "DJ 부스와 메인 플로어, 바 카운터. 이벤트는 대부분 이 층에서 열린다",
+   "en": "The DJ booth, main dance floor and bar counter - almost every event runs down here"
+  },
+  {
+   "floor": "1F",
+   "ko": "라운지. 대관 시 지하 메인 플로어와 합쳐 최대 150명 규모로 쓴다",
+   "en": "The lounge, combined with the basement main floor for the venue's 150-person capacity"
+  }
+ ],
+ "location": {
+  "lat": 35.702067,
+  "lng": 139.775035
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "〒110-0006 東京都台東区秋葉原3-11 松菱ビルB1F・1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "cash_only",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "쇼와도리 동쪽, 다이토구 아키하바라 3-11 블록의 지하. JR 아키하바라역 중앙 출구에서 도보 약 5분, 도쿄메트로 긴자선 스에히로초역에서 도보 약 5분이다. 주택가 안이라 개장 30분 전까지는 줄을 서지 말라는 안내가 붙어 있다.",
+  "en": "In a basement in the Taito-ku Akihabara 3-11 block east of Showa-dori, about five minutes from JR Akihabara's Central Exit and five from Suehirocho on the Ginza line. Homes surround the venue, so the queue only forms 30 minutes before doors."
+ },
+ "tips": {
+  "ko": [
+   "입장 시 모든 손님의 신분증을 확인한다. 여권이나 운전면허증 같은 사진이 붙은 실물 신분증이 필요하며 전자 신분증은 인정되지 않는다.",
+   "심야 이벤트는 20세 미만 입장 불가다. 이벤트마다 연령·시간 조건이 다르니 해당 이벤트 페이지를 확인한다.",
+   "입장료는 현금만 받는다. 사전 티켓은 온라인(LivePocket)에서 판매한다.",
+   "정원 약 150명, 코인로커 300엔, 클로크 500엔, 드링크·푸드는 600엔부터이고 실내는 전면 금연이다.",
+   "일부 이벤트는 Twitch(twitch.tv/mogra)에서 무료로 생중계된다.",
+   "2009년 개점 이후 '아니송 DJ' 문화의 거점으로, 정기 이벤트 '아니메나이토!'가 대표적이다."
+  ],
+  "en": [
+   "Every guest's ID is checked at the door. Bring a physical photo ID such as a passport or driving licence - electronic IDs are not accepted.",
+   "Late-night events do not admit anyone under 20; age and time rules vary by event, so check the event page.",
+   "The door charge is cash only; advance tickets are sold online through LivePocket.",
+   "Capacity is about 150, coin lockers cost 300 yen, the cloakroom 500 yen, drinks and food start at 600 yen, and the venue is entirely non-smoking.",
+   "Some events are streamed free on Twitch (twitch.tv/mogra).",
+   "Open since 2009, it is the home of the anison DJ scene, with the long-running Anime Night party as its signature event."
+  ]
+ },
+ "official_url": "https://club-mogra.jp/",
+ "sns": {
+  "x": "https://x.com/MOGRAstaff"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://club-mogra.jp/",
+  "https://club-mogra.jp/about/",
+  "https://club-mogra.jp/access/",
+  "https://club-mogra.jp/rental/",
+  "https://club-mogra.jp/information/7159/",
+  "https://club-mogra.jp/information/7155/"
+ ],
+ "osm_id": "node/4467166190"
+}

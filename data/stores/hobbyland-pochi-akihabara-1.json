@@ -1,0 +1,135 @@
+{
+ "id": "hobbyland-pochi-akihabara-1",
+ "name": {
+  "ko": "호비랜드 포치 아키하바라 1호점",
+  "en": "Hobby Land Pochi Akihabara 1",
+  "ja": "ホビーランドぽち 秋葉原1号店"
+ },
+ "synonyms": [
+  "호비랜드 포치",
+  "호비랜드포치",
+  "포치",
+  "호비랜드 포치 1호점",
+  "호비랜드 포치 아키하바라",
+  "Hobby Land Pochi",
+  "Hobbyland Pochi Akihabara 1",
+  "Pochi Akihabara",
+  "hobbyland-pochi",
+  "ホビーランドぽち",
+  "ホビーランドぽち秋葉原1号店",
+  "ぽち",
+  "ぽち 秋葉原",
+  "OAK akihabara"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "model_train",
+  "n_gauge",
+  "ho_gauge",
+  "geocolle",
+  "b_train_shorty",
+  "rail",
+  "controller",
+  "figure",
+  "zoids",
+  "garage_kit",
+  "plastic_model",
+  "doll",
+  "used",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "N·HO게이지 중고 철도모형과 레일·제어기기, 피규어·조이드·프라모델·돌",
+  "en": "Used N and HO gauge trains, track and controllers, plus figures, Zoids, kits and dolls"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700188,
+  "lng": 139.770329
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-1-10 OAK akihabara 2階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "평일은 11:00 개점, 토요일 10:00-20:00, 일요일·공휴일은 19:30에 닫는다. '포치 철도모형 페스티벌' 같은 행사 때 임시 휴업하는 경우가 있고, 연말연시는 단축 영업한다.",
+   "en": "Opens at 11:00 on weekdays, 10:00-20:00 on Saturdays, and closes at 19:30 on Sundays and holidays. It shuts temporarily for events such as the Pochi model railway festival, and runs shorter hours over New Year."
+  },
+  "source_url": "https://hobbyland-pochi.net/pages/store.php/?store=1"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아키하바라 UDX 북쪽 건너편, 주오도리 한 블록 서쪽의 'OAK akihabara'(오크 아키하바라) 2층. 1호점은 이 건물, 2호점은 역 앞 아키하바라 노무라 빌딩 6층으로 서로 다른 곳이다.",
+  "en": "2F of OAK akihabara, one block west of Chuo-dori and just north of Akihabara UDX. Store 1 is this building; Store 2 is a different shop on 6F of the Akihabara Nomura Building by the station."
+ },
+ "tips": {
+  "ko": [
+   "체인 전체가 중고 1점 물건 중심이라 같은 상품이 다시 들어오지 않는다. 마음에 들면 그 자리에서 사는 편이 좋다.",
+   "1호점은 레일·제어기기와 파츠 재고가 두꺼워 선로를 늘리려는 사람에게 맞고, 2호점은 외국형 차량 쪽이 강하다.",
+   "점두 매입 외에 택배 매입과 출장 매입도 받는다.",
+   "면세·카드 결제 여부는 공식 안내가 없다."
+  ],
+  "en": [
+   "The chain deals mainly in one-off used items, so the same piece rarely comes back; buy it when you see it.",
+   "Store 1 carries the deeper stock of track, controllers and parts, while Store 2 is stronger on foreign-prototype rolling stock.",
+   "Besides counter buying, the shop takes items by post and does home visits.",
+   "Tax-free and card acceptance are not stated officially."
+  ]
+ },
+ "official_url": "https://hobbyland-pochi.net/pages/store.php/?store=1",
+ "sns": {},
+ "chain": "hobbyland-pochi",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://hobbyland-pochi.net/pages/store.php/?store=1",
+  "https://hobbyland-pochi.net/",
+  "https://www.openstreetmap.org/node/4069768279"
+ ],
+ "osm_id": "node/4069768279"
+}

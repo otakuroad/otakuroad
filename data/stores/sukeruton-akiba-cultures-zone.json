@@ -1,0 +1,112 @@
+{
+ "id": "sukeruton-akiba-cultures-zone",
+ "name": {
+  "ko": "스케루톤",
+  "en": "Sukeruton (Skeleton)",
+  "ja": "すけるとん"
+ },
+ "synonyms": [
+  "스케루톤 아키하바라",
+  "스케루톤 철도모형",
+  "AKIBA 컬처즈존 철도모형",
+  "Sukeruton",
+  "Skeleton",
+  "Skelton",
+  "Scaleton",
+  "sukeruton akiba",
+  "すけるとん 秋葉原",
+  "すけるとん AKIBAカルチャーズZONE店",
+  "スケルトン 鉄道模型"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "railway_model",
+  "n_gauge",
+  "ho_gauge",
+  "b_train_shorty",
+  "scale_model",
+  "plastic_model",
+  "military_model",
+  "aircraft",
+  "tank",
+  "warship",
+  "minicar",
+  "trading_figure"
+ ],
+ "one_line": {
+  "ko": "N게이지·HO게이지 철도모형과 전투기·전차·함선 스케일모델, 미니카 트레이딩 피규어",
+  "en": "N and HO gauge railway models, aircraft/tank/ship scale kits and minicar trading figures"
+ },
+ "building_id": "akiba-cultures-zone",
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE 3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물 안내판의 11:00~21:00은 층마다 다르며, 3F 매장은 20:30에 닫는다.",
+   "en": "The building advertises 11:00-21:00, but that varies by floor: the 3F shops close at 20:30."
+  },
+  "source_url": "https://www.akibacultureszone.com/shop/35"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "AKIBA 컬처즈존 3F. 1~2F 라신방 옆 엘리베이터나 계단으로 3층에 올라가면 층 대부분이 하비코로 완구 계열 매장이고, 그중 철도모형 진열장이 늘어선 구획이 이 가게다. 건물은 코토부키야 아키하바라관 바로 옆.",
+  "en": "Third floor of AKIBA Cultures Zone, the building next to Kotobukiya Akihabara. Take the lift or stairs past Lashinbang on 1F-2F; most of 3F is Havikoro Toy's counters, and this is the section lined with railway-model cases."
+ },
+ "tips": {
+  "ko": [
+   "AKIBA 컬처즈존에서 유일한 철도모형·스케일모델 전문점으로, 같은 층의 캐릭터 굿즈 매장들과는 취급 품목이 전혀 다르다.",
+   "N게이지가 주력이고 HO게이지와 B트레인 쇼티도 취급한다. 스케일모델은 전투기·전차·함선 키트와 미니카 트레이딩 피규어 중심.",
+   "3F 전체가 20:30에 닫히므로 5F 앳홈카페(22:00)와 같은 시간대로 생각하면 안 된다."
+  ],
+  "en": [
+   "The only railway- and scale-model specialist in AKIBA Cultures Zone; the neighbouring counters on the same floor sell character goods instead.",
+   "N gauge is the main line, with HO gauge and B-Train Shorty as well; scale models run to aircraft, tank and warship kits plus minicar trading figures.",
+   "All of 3F shuts at 20:30, unlike @home cafe on 5F which runs to 22:00."
+  ]
+ },
+ "official_url": "https://www.akibacultureszone.com/shop/35",
+ "sns": {
+  "x": "https://x.com/scaletonakiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.akibacultureszone.com/shop/35",
+  "https://www.akibacultureszone.com/shop/",
+  "https://ec.havikorotoy.com/pages/store"
+ ],
+ "osm_id": "node/8762203405"
+}

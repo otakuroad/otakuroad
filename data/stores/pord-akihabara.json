@@ -1,0 +1,121 @@
+{
+ "id": "pord-akihabara",
+ "name": {
+  "ko": "포드 아키하바라점",
+  "en": "PORD Akihabara",
+  "ja": "PORD秋葉原店"
+ },
+ "synonyms": [
+  "포드",
+  "포드 렌탈 쇼케이스",
+  "렌탈 쇼케이스 포드",
+  "PORD",
+  "PORD Akihabara",
+  "PORD RENTAL SHOWCASE",
+  "Golden Drop",
+  "ポード",
+  "PORD秋葉原店・レンタルショーケース",
+  "ゴールデンドロップ"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "showcase",
+  "consignment",
+  "used",
+  "figure",
+  "character_goods",
+  "prize_figure",
+  "trading_card"
+ ],
+ "one_line": {
+  "ko": "개인이 위탁한 중고 피규어·캐릭터 굿즈가 채워진 1층 렌탈 쇼케이스 매장",
+  "en": "Ground-floor rental showcase of collector-consigned used figures and character goods"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701872,
+  "lng": 139.771245
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "공식 페이지는 '平日 / 日祝'만 구분하므로 토요일 20:00 마감은 Akihabara Shopping Info 기준. 임시 변경은 공식 사이트 첫 화면과 X(@PORDAKIHABARA)에 날짜별로 공지된다.",
+   "en": "The official page splits its hours into weekdays and Sundays/holidays only, so the Saturday 20:00 close comes from Akihabara Shopping Info. Day-by-day changes are posted on the shop's front page and X (@PORDAKIHABARA)."
+  },
+  "source_url": "https://www.pord.co.jp/shop.php"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목 왼편 MN빌딩 1층. 같은 층 가챠폰 회관의 캡슐 기계 줄이 골목에서 바로 보이는 표식이다.",
+  "en": "MN Building 1F, on the left about 20 m into the first narrow lane south of Ginza-line Suehirocho Station exit 3 off Chuo-dori. The row of Gachapon Kaikan capsule machines on the same floor is visible from the lane."
+ },
+ "tips": {
+  "ko": [
+   "진열장마다 주인이 다른 위탁 판매라 가격과 상품이 자주 바뀐다. 같은 물건을 여러 칸에서 비교해 볼 것.",
+   "일요일·공휴일은 19:00로 한 시간 일찍 닫는다.",
+   "온라인은 '골든드롭' 이름으로 야후 쇼핑·라쿠텐에서 운영한다.",
+   "같은 MN빌딩 3·4층은 트레카 전문점이라 가챠폰·피규어·카드를 한 건물에서 볼 수 있다."
+  ],
+  "en": [
+   "Each glass case has a different owner consigning stock, so prices and items change constantly; compare the same item across cases.",
+   "Closes an hour earlier, at 19:00, on Sundays and public holidays.",
+   "The same shop sells online as 'Golden Drop' on Yahoo! Shopping and Rakuten.",
+   "Card shops fill 3F and 4F of the same MN Building, so capsule toys, figures and cards are all in one stop."
+  ]
+ },
+ "official_url": "https://www.pord.co.jp/",
+ "sns": {
+  "x": "https://x.com/PORDAKIHABARA"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.pord.co.jp/",
+  "https://www.pord.co.jp/shop.php",
+  "https://akihabara-information.com/introduce/2863",
+  "https://www.akibagacha.com/"
+ ],
+ "osm_id": "node/11825056123"
+}

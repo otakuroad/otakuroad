@@ -1,0 +1,90 @@
+{
+ "id": "meets-akihabara",
+ "name": {
+  "ko": "미츠 아키하바라점",
+  "en": "MEETS Akihabara",
+  "ja": "MEETS秋葉原店"
+ },
+ "synonyms": [
+  "MEETS",
+  "미츠",
+  "밋츠",
+  "MEETS 아키하바라",
+  "카드숍 미츠",
+  "MEETS Akihabara",
+  "Meets Akiba",
+  "ミーツ秋葉原店",
+  "MEETS 秋葉原店",
+  "MEETS秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "yugioh",
+  "pokemon_card",
+  "one_piece_card",
+  "singles",
+  "psa",
+  "graded",
+  "sealed",
+  "buyback",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "유희왕·포켓몬·원피스 싱글과 PSA 감정 카드를 사고파는 1층 노면 매장",
+  "en": "Yu-Gi-Oh, Pokemon and One Piece singles and PSA graded cards at street level"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698193,
+  "lng": 139.770302
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区外神田1-3-9 増田ビル1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분, 잔크도리(ジャンク通り) 변 마스다빌딩(増田ビル) 1층 노면 점포. 원래 정크숍 니치베이쇼지(日米商事)가 쓰던 1층 자리로, 니치베이쇼지는 같은 건물 3층으로 올라갔다.",
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, at street level in the Masuda Building on Junk-dori. It took over the ground floor left by the junk shop Nichibei Shoji, which moved up to 3F of the same building."
+ },
+ "tips": {
+  "ko": [
+   "오사카 니혼바시 본점을 둔 카드숍의 아키하바라 지점으로, 2025년 3월 니치베이쇼지 1층 자리에 들어왔다.",
+   "유희왕·포켓몬 카드·원피스 카드 싱글과 PSA 감정 카드, 박스, 서플라이까지 매입한다. 매입 대금은 전액 현금 즉시 지급.",
+   "공식 홈페이지가 없고 영업시간·휴무는 X(@MEETS_tcg_akiba)에만 올라온다. 안내되는 시간은 13:00-20:00, 부정기 휴무.",
+   "대전(듀얼) 공간은 없다."
+  ],
+  "en": [
+   "The Akihabara branch of a card shop based in Osaka Nipponbashi; it took the Nichibei Shoji ground floor in March 2025.",
+   "It buys Yu-Gi-Oh, Pokemon and One Piece singles, PSA graded cards, sealed boxes and supplies, paying out in cash on the spot.",
+   "There is no official website; hours and closures are posted only on X (@MEETS_tcg_akiba). Listings give 13:00-20:00 with irregular closing days.",
+   "There is no duel or play space."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/MEETS_tcg_akiba"
+ },
+ "chain": "meets",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/1672179.html",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2270"
+ ],
+ "osm_id": null
+}

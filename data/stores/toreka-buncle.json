@@ -1,0 +1,86 @@
+{
+ "id": "toreka-buncle",
+ "name": {
+  "ko": "토레카반쿠루",
+  "en": "Toreca Buncle",
+  "ja": "トレカーバンクル"
+ },
+ "synonyms": [
+  "토레카 반쿠루",
+  "카드 반쿠루",
+  "반쿠루",
+  "Card Buncle",
+  "cardbuncle",
+  "トレカ買取バンクル",
+  "バンクル",
+  "カードバンクル"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "dragon_ball",
+  "fusion_world",
+  "sdbh",
+  "one_piece_card",
+  "pokemon_card",
+  "gundam_arsenal_base",
+  "hololive_card",
+  "lorcana",
+  "supplies",
+  "buyback",
+  "singles"
+ ],
+ "one_line": {
+  "ko": "드래곤볼 카드(퓨전월드·SDBH) 중심에 원피스·포켓몬·건담 아세널 베이스까지",
+  "en": "Dragon Ball cards (Fusion World, SDBH) plus One Piece, Pokemon and Gundam Arsenal Base"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697283,
+  "lng": 139.772697
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 남쪽, 소부선 고가 옆의 '뉴 아키하바라 센터' 건물. 작은 점포가 늘어선 통로형 건물이라 간판을 하나씩 확인해야 한다.",
+  "en": "In the New Akihabara Center building beside the Sobu Line viaduct just south of JR Akihabara. It is a corridor of small stalls, so check the signs one by one."
+ },
+ "tips": {
+  "ko": [
+   "디렉터리에는 403호로 올라와 있으나 층·호수를 공식 자료로 확인하지 못했다.",
+   "공식 사이트는 통신판매 위주이고 점포 주소·영업시간 안내가 없으므로 방문 전 X(@cardbuncle) 확인을 권한다.",
+   "드래곤볼 계열(퓨전월드·슈퍼카드게임·히어로즈) 취급 폭이 넓고 수납 케이스 등 서플라이도 판다."
+  ],
+  "en": [
+   "Directory listings give room 403, but the floor and room could not be confirmed from a primary source.",
+   "The official site is a mail-order shop and lists no store address or hours, so check X (@cardbuncle) before visiting.",
+   "It carries all three Dragon Ball card lines (Fusion World, Super Card Game, Heroes) plus storage cases and supplies."
+  ]
+ },
+ "official_url": "https://cardbuncle.com/",
+ "sns": {
+  "x": "https://x.com/cardbuncle"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "low",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cardbuncle.com/",
+  "https://cardbuncle.com/?mode=sk",
+  "https://www.openstreetmap.org/way/89023315"
+ ],
+ "osm_id": null
+}

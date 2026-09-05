@@ -1,0 +1,110 @@
+{
+ "id": "comic-zin-akihabara",
+ "name": {
+  "ko": "코믹진 아키하바라점",
+  "en": "COMIC ZIN Akihabara",
+  "ja": "COMIC ZIN 秋葉原店"
+ },
+ "synonyms": [
+  "코믹진",
+  "코믹 ZIN",
+  "코믹진 아키하바라",
+  "코믹ZIN 아키하바라점",
+  "COMIC ZIN",
+  "COMIC ZIN Akihabara",
+  "ZIN",
+  "comiczin",
+  "コミックジン",
+  "コミックZIN",
+  "COMIC ZIN 秋葉原店"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "doujinshi",
+  "doujin_software",
+  "doujin_goods",
+  "manga",
+  "new",
+  "late_hours"
+ ],
+ "one_line": {
+  "ko": "코믹스·동인지·동인 소프트·동인 굿즈를 1~3층에서 파는 신간 중심 전문점",
+  "en": "Comics, doujinshi, doujin software and doujin goods over three floors, new releases"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699487,
+  "lng": 139.771126
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-11-7 高和秋葉原ビル1F～3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일·주말·공휴일 모두 10:00~22:00으로 같지만 층마다 개점 시각이 다르다. 1층 10:00, 2층 11:00, 3층 12:00부터이며 폐점은 전층 22:00.",
+   "en": "10:00-22:00 on weekdays, weekends and public holidays alike, but the floors open at different times: 1F from 10:00, 2F from 11:00 and 3F from 12:00, all closing at 22:00."
+  },
+  "source_url": "https://www.comiczin.jp/shop/index.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 3~4분. 주오도리에 면한 高和秋葉原ビル의 1층부터 3층까지가 매장이며, 2010년 8월 4층에서 지금의 대로변 1~2층으로 옮겨 왔다.",
+  "en": "Three to four minutes north of the JR Akihabara Electric Town exit along Chuo-dori. The shop fills 1F to 3F of the Kowa Akihabara Building facing the main street, where it moved in August 2010 from a 4F location."
+ },
+ "tips": {
+  "ko": [
+   "2층은 11:00, 3층은 12:00부터 문을 연다. 10:00에 도착하면 1층만 볼 수 있다.",
+   "22:00까지 영업해 주변 굿즈숍이 대부분 문을 닫는 20:00 이후에도 동인지를 살 수 있다.",
+   "코믹스·동인지 외에 동인 소프트와 동인 굿즈도 취급한다."
+  ],
+  "en": [
+   "2F opens at 11:00 and 3F at 12:00, so arriving at 10:00 gets you only the ground floor.",
+   "Open until 22:00, one of the few places to buy doujinshi after the 20:00 closing time of most nearby goods shops.",
+   "Besides comics and doujinshi it stocks doujin software and doujin goods."
+  ]
+ },
+ "official_url": "https://www.comiczin.jp/shop/index.html",
+ "sns": {
+  "x": "https://x.com/comiczin"
+ },
+ "chain": "comiczin",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.comiczin.jp/shop/index.html",
+  "https://www.comiczin.jp/shop/renew.html"
+ ],
+ "osm_id": "node/1862480463"
+}

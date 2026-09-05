@@ -1,0 +1,120 @@
+{
+ "id": "akiba-robolabo-meetup",
+ "name": {
+  "ko": "아키바 로보라보 미트업",
+  "en": "Akiba Robolabo Meetup",
+  "ja": "Akiba Robolabo Meetup"
+ },
+ "synonyms": [
+  "로보라보",
+  "아키바 로보라보",
+  "ARM",
+  "아키바 로보라보 미트업 ARM",
+  "Akiba Robolabo Meetup (ARM)",
+  "Akiba Robolabo",
+  "Robolabo",
+  "アキバロボラボミートアップ",
+  "ロボラボ",
+  "SEEKBASE 1-3区画"
+ ],
+ "category": "electronics",
+ "tags": [
+  "robot",
+  "transformers",
+  "sofubi",
+  "godzilla",
+  "ev",
+  "gadget",
+  "experience",
+  "rental",
+  "tour_desk",
+  "souvenir"
+ ],
+ "one_line": {
+  "ko": "전고 2.5m 변형 로봇 전시와 트랜스포머 로봇·전동 카트를 체험·구매하는 매장",
+  "en": "Robot and EV gadget store: a 2.5 m transforming robot on show, Transformers toys, e-karts"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700415,
+  "lng": 139.773207
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区神田練塀町13-1外 SEEKBASE AKI-OKA MANUFACTURE 1-3区画",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연말연시를 제외하고 무휴",
+   "en": "Open daily except the New Year period"
+  },
+  "note": {
+   "ko": "SEEKBASE 시설 안내와 아키하바라 전기가진흥회 모두 11:00-20:00, 연말연시 외 무휴로 표기한다.",
+   "en": "Both the SEEKBASE directory and the Akihabara Electrical Town Organization list 11:00-20:00, closed only over New Year."
+  },
+  "source_url": "https://www.jrtk.jp/seekbase/shop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 선로를 따라 북쪽으로 걸어 CHABARA(ちゃばら)를 지나면 나오는 고가 아래 상가 SEEKBASE의 1호동(The Tools) 안, 카메라점 2nd BASE와 중고 레코드점 레코팬 사이의 1-3구획이다.",
+  "en": "Inside SEEKBASE building 1 (The Tools), the arcade under the JR viaduct north of Akihabara. From the Electric Town exit follow the tracks north past Chabara; unit 1-3 sits between the camera shop 2nd BASE and the used-record shop RECOfan."
+ },
+ "tips": {
+  "ko": [
+   "SF 로봇 애니메이션 '태양의 용자 파이버드'의 전고 2.5m 변형 로봇 '용자 파이버리온'이 상설 전시되어 있고, 구경만 해도 무료다.",
+   "상반신 조종 체험은 사전 예약제이며 정비 기간에는 전시만 하는 경우가 있으니 공식 사이트에서 상태를 확인한다.",
+   "전동 카트 'JOY카트'는 2시간부터 대여할 수 있고, 아키바 딥 트래블 투어의 집합·접수 장소를 겸한다.",
+   "같은 SEEKBASE 안에 소프비 전문점 만다라케 CoCoo, 중고 레코드점 레코팬, 3호동의 레트로 게임점 BEEP이 있어 함께 돌기 좋다."
+  ],
+  "en": [
+   "The 2.5 m transforming robot 'Yusha Fiberion', from the mecha anime Brave Fighter of Sun Fighbird, is on permanent display and free to look at.",
+   "Piloting its upper body is by advance booking and is sometimes suspended for maintenance, so check the official site before going.",
+   "The JOY Cart electric kart rents from two hours, and the shop doubles as the meeting point and desk for Akiba Deep Travel tours.",
+   "The same SEEKBASE strip holds Mandarake CoCoo (sofubi), the used-record shop RECOfan and, in building 3, the retro-game shop BEEP."
+  ]
+ },
+ "official_url": "https://robolabo.tokyo/",
+ "sns": {
+  "x": "https://x.com/AkibaMeetup",
+  "instagram": "https://www.instagram.com/akibameetup/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://robolabo.tokyo/",
+  "https://www.jrtk.jp/seekbase/shop/",
+  "https://akiba.or.jp/store/akiba-robolabo-meetup/",
+  "https://www.openstreetmap.org/node/12459847420",
+  "https://www.openstreetmap.org/node/12459847422"
+ ],
+ "osm_id": null
+}

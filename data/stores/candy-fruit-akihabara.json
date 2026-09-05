@@ -1,0 +1,109 @@
+{
+ "id": "candy-fruit-akihabara",
+ "name": {
+  "ko": "캔디프루츠 아키하바라점",
+  "en": "CANDY FRUIT Akihabara",
+  "ja": "キャンディフルーツ秋葉原店"
+ },
+ "synonyms": [
+  "캔디프루츠",
+  "캔디 프루츠",
+  "캔디후르츠",
+  "캔프루",
+  "캔디프루츠 아키하바라",
+  "CANDY FRUIT",
+  "Candy Fruit Akihabara",
+  "Candyfruit",
+  "キャンディフルーツ",
+  "CANDY FRUIT秋葉原店",
+  "キャンフル"
+ ],
+ "category": "cosplay",
+ "tags": [
+  "maid_costume",
+  "costume",
+  "apron",
+  "new",
+  "original_brand",
+  "doll_clothes"
+ ],
+ "one_line": {
+  "ko": "2000년 창업한 메이드복 전문 브랜드의 아키하바라 직영점. 150종 이상의 오리지널 메이드복",
+  "en": "Akihabara shop of a maid-uniform brand founded in 2000, with 150-plus dress designs"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702298,
+  "lng": 139.771144
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-16-3 KTビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "월요일·화요일 휴무",
+   "en": "Closed Mondays and Tuesdays"
+  },
+  "note": {
+   "ko": "공휴일 처리는 표기가 엇갈린다. 매장 사이트는 '월요일이 공휴일이면 화요일 휴무', 브랜드 본사 사이트는 '정기휴무일이 공휴일이면 다음 날 휴무'로 적고 있으므로 공휴일이 낀 주는 방문 전 확인이 안전하다.",
+   "en": "Holiday handling is worded inconsistently: the shop site says that when Monday is a public holiday the closed day becomes Tuesday, while the brand site says the day after a holiday is closed. Check before visiting in a week with a public holiday."
+  },
+  "source_url": "https://candyfruit.com/akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리에서 서쪽으로 한 블록 들어간 뒷길의 KT빌딩 3층이며, 좁은 길 대각선 맞은편이 중고 코스프레 의상점 미츠바도다.",
+  "en": "One minute from Suehirocho Station on the Ginza Line, five from JR Akihabara. Third floor of the KT Building on the back street one block west of Chuo-dori; the used-costume shop Mitsubado is diagonally opposite across the narrow street."
+ },
+ "tips": {
+  "ko": [
+   "클래식한 롱 메이드복부터 미니스커트형까지 150종 이상을 갖췄다고 공식 사이트가 안내한다.",
+   "메이드복 외에 에이프런·니하이삭스 같은 소품과 돌(인형)용 메이드복도 취급한다.",
+   "월·화요일이 정기휴무이므로 주초 방문은 피할 것."
+  ],
+  "en": [
+   "The official site says the range runs to over 150 designs, from classic long dresses to mini-skirt styles.",
+   "Besides the dresses there are aprons, over-knee socks and maid outfits sized for dolls.",
+   "Closed Mondays and Tuesdays, so avoid the start of the week."
+  ]
+ },
+ "official_url": "https://candyfruit.com/akihabara/",
+ "sns": {
+  "x": "https://x.com/Candyfruit_info",
+  "instagram": "https://www.instagram.com/candyfruit_akihabara/"
+ },
+ "chain": "candyfruit",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://candyfruit.com/akihabara/",
+  "https://www.candyfruit.com/"
+ ],
+ "osm_id": "way/94727608"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "hobby-shop-arrows",
+ "name": {
+  "ko": "호비숍 아로즈",
+  "en": "HOBBY SHOP Arrows",
+  "ja": "HOBBY SHOP Arrows（ホビーショップ アローズ）"
+ },
+ "synonyms": [
+  "호비숍 아로우즈",
+  "호비샵 아로즈",
+  "아로즈",
+  "아키하바라 아로즈",
+  "Hobby Shop Arrows",
+  "Arrows Akihabara",
+  "arrows",
+  "ホビーショップ アローズ",
+  "ホビーショップアローズ",
+  "アローズ"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "miniature_game",
+  "warhammer",
+  "warhammer_40k",
+  "age_of_sigmar",
+  "games_workshop",
+  "citadel_colour",
+  "paint",
+  "tools",
+  "board_game",
+  "play_space",
+  "new"
+ ],
+ "one_line": {
+  "ko": "워해머 40K·에이지 오브 지그마 미니어처와 시타델 도료를 파는 전문점",
+  "en": "Warhammer 40,000 and Age of Sigmar miniatures, Citadel paints and tools, with play tables"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703164,
+  "lng": 139.770206
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田6-5-11 長谷川ビル2階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "thu",
+     "fri"
+    ],
+    "open": "16:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일·수요일 정기휴무",
+   "en": "Closed Tuesdays and Wednesdays"
+  },
+  "note": {
+   "ko": "금요일은 게임 데이 'FNMG'가 열려 대전이 이어지면 최대 22:00까지 연장한다. 평일은 보통 16:00 개점이지만 테이블을 미리 예약하면 13:00부터 열어 주는 경우가 있다. 임시 휴업은 공식 사이트와 점두에 공지된다.",
+   "en": "Friday is the FNMG game night and can run to 22:00 if games are still going. Weekdays normally open at 16:00, but booking a table in advance can bring that forward to 13:00. Temporary closures are posted on the site and at the door."
+  },
+  "source_url": "https://arrows-llc.com/?page_id=37"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "스에히로초 북쪽, 쿠라마에바시도리에 면한 하세가와 빌딩(長谷川ビル) 2층. 건물 1층의 밀리터리 숍 사이드암즈(サイドアームズ)가 표식이며, 입구는 큰길 정면이 아니라 건물 옆쪽에 있다. 도쿄메트로 긴자선 스에히로초역에서 도보 2분, 지요다선 유시마역에서 도보 5분, JR 아키하바라역에서 도보 8분.",
+  "en": "On 2F of the Hasegawa Building facing Kuramaebashi-dori north of Suehirocho. The military shop Side Arms on the ground floor is the landmark, and the entrance is on the side of the building, not on the main street. Two minutes from Suehirocho (Ginza line), five from Yushima (Chiyoda line), eight from JR Akihabara."
+ },
+ "tips": {
+  "ko": [
+   "화·수요일은 휴무이고 평일 개점이 16:00이라 낮에는 닫혀 있다. 주말·공휴일만 11:00에 연다.",
+   "게임즈워크숍 제품 전문점으로 워해머 40K와 에이지 오브 지그마, 시타델 컬러와 언더코트 스프레이, 붓·공구, 룰북을 취급한다.",
+   "플레이 스페이스를 빌릴 수 있고 룰·조립·도색 상담과 미니어처 게임 체험도 받아 준다.",
+   "테이블을 미리 예약해 두면 평일에도 13:00부터 열어 주는 경우가 있다."
+  ],
+  "en": [
+   "Closed Tuesday and Wednesday, and weekdays only open at 16:00; 11:00 openings are weekends and holidays only.",
+   "A Games Workshop specialist: Warhammer 40,000 and Age of Sigmar, Citadel Colour and undercoat sprays, brushes, tools and rulebooks.",
+   "Play space can be rented, and staff help with rules, assembly, painting and first-time demo games.",
+   "Booking a table ahead can get the shop opened from 13:00 on a weekday."
+  ]
+ },
+ "official_url": "https://arrows-llc.com/",
+ "sns": {
+  "x": "https://x.com/Arrows_Tencho"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://arrows-llc.com/?page_id=37",
+  "https://arrows-llc.com/"
+ ],
+ "osm_id": "node/5413654326"
+}

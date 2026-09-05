@@ -1,0 +1,116 @@
+{
+ "id": "hard-off-akihabara-2",
+ "name": {
+  "ko": "하드오프 아키하바라 2호점",
+  "en": "Hard Off Akihabara Store 2",
+  "ja": "ハードオフ秋葉原2号店"
+ },
+ "synonyms": [
+  "하드오프",
+  "하드오프 아키하바라 2호점",
+  "하드오프 2호점",
+  "하드 오프 2호점",
+  "HARD OFF",
+  "HARD･OFF",
+  "Hard Off Akihabara 2",
+  "hardoff",
+  "ハードオフ",
+  "ハードオフ秋葉原2号店",
+  "ハードオフ 秋葉原2号館",
+  "YSビル"
+ ],
+ "category": "retro_game",
+ "tags": [
+  "used",
+  "junk",
+  "retro_game",
+  "game_software",
+  "console",
+  "audio",
+  "camera",
+  "record",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "중고 게임기·게임 소프트와 정크 부품, 오디오·카메라를 파는 리사이클 매장",
+  "en": "Reuse shop for used consoles, game software, junk parts, audio gear and cameras"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702144,
+  "lng": 139.770646
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-8-1 YSビル B1F・1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://www.hardoff.co.jp/shop/detail/?p=101104"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리의 스미토모부동산 아키하바라 빌딩(벨살) 뒤편 골목(속칭 정크 거리)으로 돌아가 만다라케 컴플렉스 옆 1호점을 지나 150m쯤 더 북쪽으로 걸으면 나오는 YS빌딩. 지하 1층~2층이 하드오프다.",
+  "en": "Take the back street behind the Sumitomo Fudosan Akihabara Building (Bellesalle) on Chuo-dori - the junk street - pass Store 1 next to Mandarake Complex and carry on about 150 m north to the YS Building. Hard Off occupies B1F to 2F."
+ },
+ "tips": {
+  "ko": [
+   "입구에 들어서서 첫 유리 진열장이 레트로 게임 코너이고, 정크 코너에는 소프트도 함께 나온다.",
+   "같은 건물 3~4층은 중고 피규어·완구를 파는 호비오프(별도 매장, 전화 03-6260-9268)다.",
+   "게임기·게임 소프트, 악기, 카메라는 매입 강화 품목이다. 매입에는 신분증이 필요하다.",
+   "전용 주차장은 없다. 결제 수단과 면세 여부는 공식 페이지에 안내가 없다."
+  ],
+  "en": [
+   "The first glass case inside the entrance is the retro-game case, and loose software also turns up in the junk corner.",
+   "Floors 3F-4F of the same building are Hobby Off, a separate shop for used figures and toys (tel 03-6260-9268).",
+   "Consoles, game software, instruments and cameras are the categories they most want to buy; selling requires photo ID.",
+   "There is no car park, and the official page says nothing about cards or tax-free service."
+  ]
+ },
+ "official_url": "https://www.hardoff.co.jp/shop/detail/?p=101104",
+ "sns": {
+  "x": "https://x.com/hardoff_akiba2"
+ },
+ "chain": "hard-off",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hardoff.co.jp/shop/detail/?p=101104",
+  "https://www.hardoff.co.jp/shop/detail/?p=101062"
+ ],
+ "osm_id": "node/13139741090"
+}

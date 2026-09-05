@@ -1,0 +1,136 @@
+{
+ "id": "surugaya-akihabara-anime-hobby-kan",
+ "name": {
+  "ko": "스루가야 아키하바라 애니메·호비관",
+  "en": "Surugaya Akihabara Anime & Hobby Store",
+  "ja": "駿河屋 秋葉原アニメ・ホビー館"
+ },
+ "synonyms": [
+  "스루가야 애니메·호비관",
+  "스루가야 아키바 애니메호비관",
+  "스루가야 아키하바라 애니메 호비관",
+  "슈루가야 애니메·호비관",
+  "스루가야 KHK빌딩",
+  "駿河屋秋葉原アニメ・ホビー館",
+  "駿河屋 秋葉原店 アニメ・ホビー館",
+  "駿河屋 アニメ・ホビー館",
+  "KHKビル",
+  "Surugaya Akihabara Anime Hobby Kan",
+  "Suruga-ya Akihabara Anime & Hobby",
+  "Surugaya Anime Hobby"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "used",
+  "new",
+  "buyback",
+  "model_train",
+  "n_gauge",
+  "ho_gauge",
+  "minicar",
+  "plarail",
+  "rc_toy",
+  "figure",
+  "trading_figure",
+  "shokugan",
+  "tokusatsu",
+  "railway_dvd",
+  "free_wifi"
+ ],
+ "one_line": {
+  "ko": "철도모형·미니카·특촬 완구·트레이딩 피규어를 4개 층에서 파는 신·중고 매장",
+  "en": "Four floors of new and used model trains, minicars, tokusatsu toys and trading figures"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701556,
+  "lng": 139.771831
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-5-1 KHKビル 1階～4階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 점포 페이지 기준 평일은 11:00, 토·일·공휴일은 10:00 개점이다. 일부 일본 디렉터리는 아직 매일 10:00~21:00·연중무휴로 적고 있으니 평일 이른 시간 방문은 피하는 편이 좋다.",
+   "en": "The official store page gives 11:00 on weekdays and 10:00 on weekends and public holidays. Some Japanese directories still list 10:00-21:00 every day, so do not arrive early on a weekday."
+  },
+  "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 1번 출구에서 주오도리를 따라 남쪽으로 도보 3분, JR 아키하바라역 전기가 출구에서는 도보 6분. 주오도리 동쪽 보도에 면한 폭 좁은 4층 건물 KHK빌딩 전체가 이 매장이며, 파란 駿河屋 간판이 표식이다. 바로 남쪽에 붙은 9층 건물 1층은 리버티 5호점.",
+  "en": "Three minutes south along Chuo-dori from Ginza-line Suehirocho exit 1, or six minutes from JR Akihabara's Electric Town Exit. The whole of the narrow four-story KHK Building on the east sidewalk of Chuo-dori is the shop, marked by the blue 駿河屋 sign; Liberty Store 5 occupies the ground floor of the nine-story building right next door to the south."
+ },
+ "tips": {
+  "ko": [
+   "취급 품목이 철도모형·미니카·특촬 완구 쪽이라 애니 캐릭터 굿즈나 동인지를 찾는다면 스루가야 본관이나 아키하바라 역전점으로 가야 한다.",
+   "2026-09-12~09-16에는 엘리베이터 공사로 종일 엘리베이터를 쓸 수 없다고 공식 X에 공지되었다. 그 기간에는 4층까지 계단으로 오르내린다.",
+   "이 지점 매입 대상은 N게이지·미니카·피규어·트레이딩 피규어·특촬 완구·식완·특촬 DVD/BD뿐이다. 다른 장르는 전 장르를 받는 스루가야 아키하바라 매입센터에 맡기고, 매입에는 회원증과 매회 신분증이 필요하다.",
+   "철도모형 메이커 카츠미(カツミ) 인증을 받은 정비 완료 중고 철도모형을 상시 판매한다.",
+   "매장 내 무료 Wi-Fi가 있고, 온라인 '안심 매입'으로 미리 견적을 받아 그대로 들고 오는 O2O 매입도 받는다."
+  ],
+  "en": [
+   "The range is model trains, minicars and tokusatsu toys, so for anime character goods or doujinshi go to Surugaya's Main Store or Ekimae store instead.",
+   "The store's X account announced elevator work from 12 to 16 September 2026, with the elevator out of service all day; use the stairs up to 4F during that period.",
+   "Buyback here covers only N-gauge, minicars, figures, trading figures, tokusatsu toys, shokugan and tokusatsu DVD/Blu-ray. Other genres go to the Surugaya Akihabara Buyback Center, which takes all genres; selling needs a member card and photo ID every time.",
+   "Refurbished used railway models certified by the model-train maker Katsumi are sold here as a regular line.",
+   "Free Wi-Fi in store, and the O2O service lets you get an online 'anshin' quote first and bring the items straight to this counter."
+  ]
+ },
+ "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html",
+ "sns": {
+  "x": "https://x.com/surugayaakihab1"
+ },
+ "chain": "surugaya",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html",
+  "http://web.archive.org/web/20260214192527/https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html",
+  "https://hjweb.jp/shop/12595/",
+  "https://akihabara-fan.com/archives/1385",
+  "https://x.com/surugayaakihab1",
+  "https://www.openstreetmap.org/node/5050002960",
+  "https://www.openstreetmap.org/way/89182761"
+ ],
+ "osm_id": "node/5050002960"
+}

@@ -1,0 +1,126 @@
+{
+ "id": "otachu-akihabara-5-gogo-toreca",
+ "name": {
+  "ko": "오타츄 아키하바라 5호점 GO!GO!트레카",
+  "en": "Otachu Akihabara No.5 GO!GO! Toreca",
+  "ja": "おたちゅう。秋葉原5号店GO!GO!トレカ"
+ },
+ "synonyms": [
+  "오타츄 5호점",
+  "오타츄 고고트레카",
+  "오타츄 아키하바라 5호점",
+  "오타츄 카드관",
+  "GO!GO!트레카",
+  "Otachu 5go",
+  "Otachu GO!GO! Toreca",
+  "Otachu Akihabara Card Store",
+  "おたちゅう。秋葉原5号店",
+  "おたちゅう。秋葉原5号店Go!Go!トレカ",
+  "おたちゅう カード館",
+  "おたちゅう。秋葉原0号店",
+  "GO!GO!トレカ",
+  "ゴーゴートレカ"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "yugioh",
+  "weiss_schwarz",
+  "tcg_singles",
+  "duel_space",
+  "tournament",
+  "buyback",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "지하 1층 트레카 전문점. 포켓몬·원피스 카드 싱글·박스와 32석 대전 공간",
+  "en": "Basement card shop for Pokemon and One Piece singles and boxes, with a 32-seat duel space"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701642,
+  "lng": 139.770679
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-9-2 末広ビルB1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무(不定休)",
+   "en": "Irregular closing days (不定休)"
+  },
+  "note": {
+   "ko": "정기 휴일은 정해져 있지 않다. 대회 일정과 임시 휴업은 공식 사이트의 대회 이벤트 스케줄과 X(@otachu_akiba0)에서 확인.",
+   "en": "There is no fixed closing day. Tournament dates and temporary closures are listed on the official site's event schedule and on X (@otachu_akiba0)."
+  },
+  "source_url": "https://otachu-akiba.com/1gocard/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 7분. 주오도리 서쪽 뒷골목의 스에히로(末広) 빌딩 지하 1층으로, 1층에는 중고 완구점 정글(ジャングル)이 있다. 건물 옆 계단으로 내려간다.",
+  "en": "Seven minutes from the JR Akihabara Electric Town Exit, in the basement of the Suehiro Building on the back street west of Chuo-dori; the used-toy shop Jungle occupies its ground floor. Take the stairs down beside the entrance."
+ },
+ "tips": {
+  "ko": [
+   "32석 대전 공간이 있고 포켓몬·원피스 카드 대회가 자주 열려 대회 시간에는 자리가 붐빈다. 일정은 공식 사이트의 대회 이벤트 스케줄에서 확인.",
+   "취급 타이틀은 포켓몬 카드, 원피스 카드, 유희왕, 바이스슈발츠, 드래곤볼 슈퍼 다이버즈 등이다.",
+   "지하 매장이라 면적이 넓고 재고가 많다. 같은 지하에 카드숍 한조(はんじょう)도 있어 시세를 비교하기 좋다.",
+   "현금·신용카드·전자화폐 결제가 가능하다. 면세 안내는 없다.",
+   "원래 0호점으로 문을 열었다가 5호점으로 번호가 바뀌었고, 옛 1호점 카드관을 흡수했다. 공식 URL 주소가 아직 /1gocard 인 이유다."
+  ],
+  "en": [
+   "A 32-seat duel space hosts frequent Pokemon and One Piece tournaments, so seats fill up at event times; check the tournament schedule on the official site.",
+   "Titles handled include Pokemon Card Game, One Piece Card Game, Yu-Gi-Oh, Weiss Schwarz and Dragon Ball Super Divers.",
+   "The basement floorplate is large and stock is deep. Card Shop Hanjo shares the same basement, which makes price comparison easy.",
+   "Cash, credit cards and e-money are accepted. Tax-free is not advertised.",
+   "It opened as the No.0 branch, was renumbered No.5 and absorbed the old No.1 card store - which is why the official URL is still /1gocard."
+  ]
+ },
+ "official_url": "https://otachu-akiba.com/1gocard/",
+ "sns": {
+  "x": "https://x.com/otachu_akiba0"
+ },
+ "chain": "otachu",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://otachu-akiba.com/1gocard/",
+  "https://otachu-akiba.com/1gocard/access/",
+  "https://otachu-akiba.com/",
+  "https://torecamap.co.jp/tokyo/akihabara/otachu_akiba5gouten/",
+  "https://otachu.jp/shop/akihabara0/",
+  "https://x.com/otachu_akiba0"
+ ],
+ "osm_id": null
+}

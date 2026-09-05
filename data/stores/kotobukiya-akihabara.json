@@ -1,0 +1,170 @@
+{
+ "id": "kotobukiya-akihabara",
+ "name": {
+  "ko": "코토부키야 아키하바라관",
+  "en": "Kotobukiya Akihabara Store",
+  "ja": "コトブキヤ秋葉原館"
+ },
+ "synonyms": [
+  "코토부키야",
+  "코토부키야 아키하바라",
+  "코토부키야 아키바",
+  "코토부키야 아키하바라칸",
+  "壽屋",
+  "寿屋",
+  "Kotobukiya Akihabara",
+  "Kotobukiya Akihabara-kan",
+  "Kotobukiya Akiba",
+  "KOTOBUKIYA",
+  "VstoreAKIBA",
+  "코토부키야 베이스 아키바",
+  "Kotobukiya Base Akiba"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "plamo",
+  "bishojo_plamo",
+  "megami_device",
+  "frame_arms",
+  "sousai_shojo_teien",
+  "hexa_gear",
+  "model_tools",
+  "vtuber",
+  "hololive",
+  "nijisanji",
+  "vspo",
+  "monster_hunter",
+  "kyoani",
+  "official_shop",
+  "pop_up",
+  "event_space",
+  "new"
+ ],
+ "one_line": {
+  "ko": "코토부키야 자사 피규어·미소녀 프라모델과 몬헌·교토애니·VTuber 공식숍이 층별로 모인 직영점",
+  "en": "Kotobukiya figures and model kits, with official Monster Hunter, KyoAni and VTuber shops"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "라이선스 굿즈층: 몬스터헌터 공식 헌터즈숍, 교토애니 숍, 아이돌마스터·아틀라스·지브리·원신·스퀘어에닉스·닌텐도·프롬소프트웨어·블루아카이브·명조 등",
+   "en": "Licensed goods: official Monster Hunter Hunter's Shop and KyoAni Shop; IDOLM@STER, Atlus, Ghibli, Genshin, Square Enix, Nintendo, FromSoftware, Blue Archive, Wuthering Waves and more"
+  },
+  {
+   "floor": "2F",
+   "ko": "코토부키야 자사 제품: 창채소녀정원·메가미 디바이스·프레임 암즈(걸)·헥사기어·아르카나디아·메가로마리아·앨리스 기어 아이기스·HMM 조이드, M.S.G 파츠·공구·케이스",
+   "en": "Kotobukiya's own lines: Sousai Shojo Teien, Megami Device, Frame Arms (Girl), Hexa Gear, Arcanadea, Megalomaria, Alice Gear Aegis, HMM Zoids; M.S.G parts, tools, display cases"
+  },
+  {
+   "floor": "3F",
+   "ko": "VstoreAKIBA: 니지산지 코토부키야 숍(공식), 데코 굿즈",
+   "en": "VstoreAKIBA: official Nijisanji Kotobukiya Shop, deco goods"
+  },
+  {
+   "floor": "4F",
+   "ko": "VstoreAKIBA: 부이스포!·아오기리고교·스오 파트라 공식숍, 홀로라이브, 시구레 우이, 기타 VTuber",
+   "en": "VstoreAKIBA: official VSPO!, Aogiri High School and Suou Patra shops; hololive, Shigure Ui, other VTubers"
+  },
+  {
+   "floor": "5F",
+   "ko": "코토부키야 베이스 아키바(이벤트 스페이스) — 이벤트 기간에만 입장 가능",
+   "en": "Kotobukiya Base Akiba event space — open only during events"
+  }
+ ],
+ "location": {
+  "lat": 35.699208,
+  "lng": 139.770492
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-8 岡嶋ビル",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "2025년 10월 1일부터 전 요일 11:00–20:00으로 통일(그 전에는 평일 12:00 오픈). 영문 공식 페이지에는 옛 시간이 그대로 남아 있으므로 일본어 페이지 기준. 5F 이벤트 스페이스는 이벤트 개최 시에만 입장 가능.",
+   "en": "Unified to 11:00–20:00 every day on 1 October 2025 (weekdays used to open at 12:00); the official English page still shows the old times, so follow the Japanese page. The 5F event space admits visitors only while an event is running."
+  },
+  "source_url": "https://www.kotobukiya.co.jp/kotobukiya-shop/detail/akiba/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 서쪽 보도에서 GiGO 아키하바라 3호관과 HEY·멜론북스가 든 히로세 빌딩 사이의 좁은 골목으로 서쪽으로 약 60m 들어가면 골목이 T자로 끝난다. 오른쪽(북쪽) 모퉁이, 초록색 KOTOBUKIYA 간판과 OKAJIMA 명판이 붙은 오카지마 빌딩 1~5F가 매장이고 입구는 뒷길 쪽을 향한다. 같은 뒷길을 30m 더 북쪽으로 가면 슈퍼포테토.",
+  "en": "From the west sidewalk of Chuo-dori, take the narrow lane between GiGO Akihabara 3 and the Hirose building (HEY arcade, Melonbooks) and walk west about 60 m to where it ends in a T-junction. On the right-hand (north) corner, the Okajima Building with the green KOTOBUKIYA sign and the OKAJIMA nameplate holds the store on 1F–5F; the entrance faces the back street. Super Potato is 30 m further north on the same street."
+ },
+ "tips": {
+  "ko": [
+   "층마다 취급 라인이 다름: 1F 라이선스 굿즈, 2F 자사 프라모델·피규어, 3F·4F VTuber 공식숍. 목적층을 정하고 올라갈 것",
+   "5F 코토부키야 베이스 아키바는 팝업·이벤트 기간에만 입장 가능. 일정은 공식 페이지 이벤트 탭에서 확인",
+   "신용카드·교통계 IC·PayPay 등 캐시리스 결제 가능. 3만 엔 이상 구매 시 일본 국내 배송 무료(2025년 7월 1일 변경). 면세 취급 여부는 공식 안내에 없으므로 계산대에서 확인",
+   "재고조사·사내연수로 하루 종일 임시휴업하는 날이 연 3~4회 있음(2026년은 5/29·6/30·7/15). 방문 전 공식 사이트 매장 공지 목록을 확인"
+  ],
+  "en": [
+   "Each floor is a different lineup: 1F licensed goods, 2F Kotobukiya's own kits and figures, 3F–4F VTuber official shops — pick your floor before you go up",
+   "5F Kotobukiya Base Akiba admits visitors only while a pop-up or event is running; schedules are on the official page's event tab",
+   "Credit cards, transit IC cards and QR payments such as PayPay are accepted; purchases over 30,000 yen ship free within Japan (changed 1 July 2025). Tax-free service is not stated officially — ask at the register",
+   "The store closes all day three or four times a year for stocktaking or staff training (29 May, 30 Jun and 15 Jul in 2026); check the shop news list before visiting"
+  ]
+ },
+ "official_url": "https://www.kotobukiya.co.jp/kotobukiya-shop/detail/akiba/",
+ "sns": {
+  "x": "https://x.com/Kotobukiya_akb"
+ },
+ "chain": "kotobukiya",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.kotobukiya.co.jp/kotobukiya-shop/detail/akiba/",
+  "https://www.kotobukiya.co.jp/en/kotobukiya-shop/detail/akiba/",
+  "https://www.kotobukiya.co.jp/news/?ct=4427-f",
+  "https://www.kotobukiya.co.jp/news/detail/367/",
+  "https://www.kotobukiya.co.jp/news/detail/409/",
+  "https://www.kotobukiya.co.jp/news/detail/410/",
+  "https://www.kotobukiya.co.jp/news/detail/411/",
+  "https://ja.wikipedia.org/wiki/%E5%A3%BD%E5%B1%8B_(%E7%8E%A9%E5%85%B7%E5%BA%97)",
+  "https://www.gigo.co.jp/shops/akihabara3",
+  "https://www.openstreetmap.org/node/1915268185"
+ ],
+ "osm_id": "node/1915268185",
+ "photo": {
+  "url": "/photos/kotobukiya-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Antonio Tajuelo · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kotobukiya_Akihabara_shop,_Sotokanda_1_(2013-11-25_04.36.12_by_Antonio_Tajuelo).jpg",
+  "taken_on": "2013-11-25"
+ }
+}

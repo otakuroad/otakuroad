@@ -1,0 +1,110 @@
+{
+ "id": "havikoro-toy-radio-kaikan",
+ "name": {
+  "ko": "하비코로 완구 라디오회관점",
+  "en": "Havikoro Toy Radio Kaikan",
+  "ja": "ハビコロ玩具 ラジオ会館店"
+ },
+ "synonyms": [
+  "하비코로 완구",
+  "하비코로",
+  "하비코로 라디오회관",
+  "하비코로 라지칸",
+  "Havikoro Toy",
+  "Havikoro Toy Radio Kaikan",
+  "Habikoro Toy",
+  "ハビコロ玩具",
+  "ハビコロ",
+  "ハビコロ玩具 ラジオ会館店",
+  "ハビコロ玩具 秋葉原ラジオ会館店"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "used",
+  "buyback",
+  "anime_goods",
+  "trading_card",
+  "tokusatsu",
+  "prize_figure",
+  "hot_toys",
+  "new"
+ ],
+ "one_line": {
+  "ko": "피규어·애니 굿즈·트레카 매입과 판매. 역에서 가장 가까운 매입 카운터",
+  "en": "Buys and sells figures, anime goods and trading cards; buyback desk nearest the station"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "건물은 10:00 개관이지만 매장은 11:00 오픈. 연말연시·임시 시간 변경은 라디오회관 공지(2F 하비코로 완구)에 올라온다",
+   "en": "The building opens at 10:00 but the shop opens at 11:00; changes are posted as '2F Havikoro Toy' notices on the Radio Kaikan site"
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/havikoro-toy/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 2F, 에스컬레이터에서 가까운 소형 매장 구역. 같은 카운터에서 카드숍 카이조쿠오 라디오회관점(같은 전화번호)도 운영한다.",
+  "en": "On 2F of Radio Kaikan among the small units near the escalator; the same counter also runs Card Shop Kaizokuo Radio Kaikan (same phone number)."
+ },
+ "tips": {
+  "ko": [
+   "JR 전기가 출구에서 가장 가까운 매입 카운터라 짐을 들고 다니기 전에 먼저 들르기 좋다.",
+   "하비코로 완구는 AKIBA 컬처즈존 3F(오토메·오레요메·카와이 등)와 주오도리에도 매장이 있어 상품 구성이 서로 다르다.",
+   "특촬·로봇·미소녀 피규어와 캔뱃지·아크릴 굿즈, 트레카까지 폭넓게 다룬다."
+  ],
+  "en": [
+   "It is the buyback counter closest to the JR Electric Town Exit, handy before you start carrying bags around.",
+   "Havikoro also runs shops on AKIBA Cultures Zone 3F (Otome, Oreyome, Kawaii) and on Chuo-dori, each with a different line-up.",
+   "Stock ranges over tokusatsu, robot and bishojo figures, can badges and acrylic goods, and trading cards."
+  ]
+ },
+ "official_url": "https://ec.havikorotoy.com/pages/store",
+ "sns": {
+  "x": "https://x.com/haviradio"
+ },
+ "chain": "havikoro",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/havikoro-toy/",
+  "https://ec.havikorotoy.com/pages/store",
+  "https://ec.havikorotoy.com/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+ ],
+ "osm_id": null
+}

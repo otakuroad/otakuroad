@@ -1,0 +1,136 @@
+{
+ "id": "melonbooks-akihabara-1",
+ "name": {
+  "ko": "멜론북스 아키하바라 1호점",
+  "en": "Melonbooks Akihabara 1st Store",
+  "ja": "メロンブックス秋葉原1号店"
+ },
+ "synonyms": [
+  "멜론북스",
+  "메론북스",
+  "멜론북스 아키바",
+  "멜론북스 아키하바라점",
+  "메로브",
+  "멜로브",
+  "メロブ",
+  "メロンブックス秋葉原店",
+  "Melonbooks Akihabara",
+  "Melon Books Akiba",
+  "Melonbooks Akiba 1",
+  "melonbooks"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "doujinshi",
+  "doujin_music",
+  "doujin_game",
+  "manga",
+  "light_novel",
+  "anime_goods",
+  "bl",
+  "r18",
+  "tax_free",
+  "new",
+  "comiket",
+  "fair"
+ ],
+ "one_line": {
+  "ko": "동인지·만화·라노벨·굿즈를 파는 멜론북스 1호점. 남성향 R-18 코너와 여성향 코너가 함께 있음",
+  "en": "Melonbooks' first Akihabara store: new doujinshi, manga, goods; R-18 and women's corners"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.69902,
+  "lng": 139.771085
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-10-5 廣瀬ビルB1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open every day (no regular holiday)"
+  },
+  "note": {
+   "ko": "공식 페이지 기준 전일 10:00~21:00. 임시 휴업·시간 변경은 매장 X 계정(@melon_akiba)에 공지되며, 2026년 8월 22일에는 폭우 침수로 임시 휴업 후 재개했다",
+   "en": "10:00-21:00 every day per the official page. Temporary closures and hour changes are posted on the store's X account (@melon_akiba); the store closed briefly on 2026-08-22 after rain flooding and has since reopened"
+  },
+  "source_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=4"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "floor",
+  "floors": [
+   "B1F"
+  ]
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 도보 3분, 주황색 'Hey' 간판이 걸린 오락실 건물의 지하 1층. 보도에서 Hey 1F 입구 옆 지하 계단으로 내려가면 멜론 로고 간판이 보인다.",
+  "en": "Three minutes from the JR Akihabara Electric Town Exit along Chuo-dori, in the basement of the arcade with the orange 'Hey' sign. From the sidewalk take the stairs down beside Hey's 1F entrance; the melon logo marks the door."
+ },
+ "tips": {
+  "ko": [
+   "면세는 세금 별도 5,000엔 이상 구매 시 본인 여권을 계산대에 제시하면 처리 (대리 신청 불가)",
+   "현금 외에 VISA·Master·JCB·AMEX 등 주요 신용카드와 전자화폐 결제 가능. 쇼핑백은 1장 5엔 유료",
+   "성인향(18금) 상품 구매 시 연령 확인이 있으며, 멜론북스는 카드 방식의 연령 확인 시스템을 운영한다",
+   "통판 상품의 매장 수령은 이 매장이 아니라 '아키하바라 점포 수취관'(外神田1-3-7 鈴木ビル, 전일 12:00~20:30)에서 처리"
+  ],
+  "en": [
+   "Tax-free from 5,000 yen (tax excluded); show your own passport at the register - no proxy claims",
+   "Cash plus VISA, Mastercard, JCB, AMEX and other major cards and e-money; shopping bags cost 5 yen each",
+   "Buying 18+ items requires an age check; Melonbooks runs a card-based age-verification system",
+   "Online-order pickup is not here but at the Akihabara Store Pickup Hall (Suzuki Bldg, Sotokanda 1-3-7, 12:00-20:30 daily)"
+  ]
+ },
+ "official_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=4",
+ "sns": {
+  "x": "https://x.com/melon_akiba"
+ },
+ "chain": "melonbooks",
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.melonbooks.co.jp/shop/shop.php?wp_id=4",
+  "https://www.melonbooks.co.jp/shop/",
+  "https://www.melonbooks.co.jp/shop/shop.php?wp_id=58",
+  "https://www.melonbooks.co.jp/special/service/Inbound/",
+  "https://www.melonbooks.co.jp/help/tpl.php?cid=329",
+  "https://www.melonbooks.co.jp/help/tpl.php?cid=328",
+  "https://togetter.com/li/2736563",
+  "https://ja.wikipedia.org/wiki/メロンブックス"
+ ],
+ "osm_id": "node/2277871455",
+ "photo": {
+  "url": "/photos/melonbooks-akihabara-1.jpg",
+  "kind": "exterior",
+  "credit": "Vasconium · CC BY-SA 2.0 · Wikimedia Commons",
+  "license": "CC BY-SA 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara,_Tokyo,_Japan_004.jpg",
+  "taken_on": "2017"
+ }
+}

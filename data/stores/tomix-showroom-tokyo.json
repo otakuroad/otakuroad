@@ -1,0 +1,132 @@
+{
+ "id": "tomix-showroom-tokyo",
+ "name": {
+  "ko": "토믹스 쇼룸 도쿄 아키하바라",
+  "en": "TOMIX SHOW ROOM TOKYO AKIHABARA",
+  "ja": "トミックスショールーム東京 秋葉原"
+ },
+ "synonyms": [
+  "토믹스 쇼룸",
+  "토믹스 쇼룸 도쿄",
+  "토믹스 쇼룸 아키하바라",
+  "토미테크 쇼룸",
+  "TOMIX Showroom Tokyo",
+  "Tomix Show Room Tokyo Akihabara",
+  "tomixworld",
+  "トミックス ショールーム東京",
+  "トミックスショールーム東京",
+  "TOMIX SHOW ROOM TOKYO"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "railway_model",
+  "n_gauge",
+  "tomix",
+  "tomytec",
+  "diorama",
+  "showroom",
+  "maker_direct",
+  "new"
+ ],
+ "one_line": {
+  "ko": "토미테크 공식 철도모형 쇼룸. N게이지 주행 디오라마 전시와 TOMIX 제품 판매",
+  "en": "Tomytec's official TOMIX railway-model showroom: running N-gauge dioramas and sales"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "환영 보드와 '토믹스 레가시 스타지오'(철도모형 TOMIX 소개 패널·영상), 자택 취미방을 재현한 'DEN룸'",
+   "en": "Welcome board, the TOMIX Legacy Studio intro panels and video, and the DEN Room recreating a modeller's home hobby space"
+  },
+  {
+   "floor": "2F",
+   "ko": "폭 4,535mm 대형 디오라마, 신제품 코너, 공장 직송 최신 제품 샘플, 플레이어즈 존, 초보자용 '처음 만나는 토믹스' 코너, 플레이 테이블·촬영 스튜디오",
+   "en": "The 4,535mm-wide diorama, new-product cases, factory-direct samples, the Players' Zone, a beginners' corner and a play table doubling as a photo studio"
+  }
+ ],
+ "location": {
+  "lat": 35.699652,
+  "lng": 139.768865
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田2-4-4 第1電波ビル新館1F・2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "thu",
+     "fri"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "18:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일·수요일 휴관",
+   "en": "Closed Tuesdays and Wednesdays"
+  },
+  "note": {
+   "ko": "화·수요일이 공휴일·대체공휴일이면 영업하고 다음 평일에 쉰다. 생방송 수록이나 여름·연말 휴관으로 개관 시간이 바뀌는 날이 많으므로 공식 사이트의 개관 캘린더를 먼저 확인한다.",
+   "en": "If a Tuesday or Wednesday is a public holiday the showroom opens and closes on the next weekday instead. Live-streaming days and seasonal breaks shift the hours often, so check the opening calendar on the official site first."
+  },
+  "source_url": "https://www.tomixworld.jp/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "아키하바라 서쪽 끝 쇼헤이바시도리 쪽 뒷길, 외신다 2-4-4의 다이이치덴파 빌딩 신관 1층. 파란 바탕에 'TOMIX 鉄道模型 Precise Model Railroad' 간판이 걸린 유리 매장이 표식이다. JR 아키하바라역 전기가 출구에서 도보 7분, 마루노우치선 오차노미즈역 1·2번 출구에서 도보 6분, 긴자선 스에히로초역 1·3번 출구에서 도보 8분.",
+  "en": "On the quiet Shoheibashi-dori side at the western edge of Akihabara, on 1F of the Dai-ichi Denpa Building Annex at Sotokanda 2-4-4. Look for the glass shopfront under the blue 'TOMIX 鉄道模型 Precise Model Railroad' sign. Seven minutes from JR Akihabara's Electric Town Exit, six from Ochanomizu (Marunouchi line) exits 1/2, eight from Suehirocho exits 1/3."
+ },
+ "tips": {
+  "ko": [
+   "화요일과 수요일이 정기 휴관일이다. 공휴일과 겹치면 영업하고 다음 평일에 대체 휴관한다.",
+   "주말·공휴일이 10:00-18:00, 평일이 11:00-19:00으로 주말이 더 일찍 열고 더 일찍 닫는다.",
+   "전시만 하는 곳이 아니라 TOMIX 제품을 그 자리에서 살 수 있다.",
+   "2층에 폭 4,535mm 대형 디오라마가 있어 신칸센 풀 편성 주행을 볼 수 있다.",
+   "전화 문의 창구가 없어 문의는 방문이나 공식 SNS로만 가능하다."
+  ],
+  "en": [
+   "Closed Tuesdays and Wednesdays; when one falls on a public holiday it opens and takes the following weekday off instead.",
+   "Weekends and holidays are 10:00-18:00 while weekdays are 11:00-19:00, so weekends open and close earlier.",
+   "It is not display-only - TOMIX products are sold on site.",
+   "The 4,535mm-wide layout on 2F is long enough to run a full Shinkansen consist.",
+   "There is no phone desk, so questions have to go through a visit or the official SNS accounts."
+  ]
+ },
+ "official_url": "https://www.tomixworld.jp/",
+ "sns": {
+  "instagram": "https://www.instagram.com/tomix_show_room_tokyo/"
+ },
+ "chain": "tomix",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.tomixworld.jp/",
+  "https://www.tomytec.co.jp/tomix/"
+ ],
+ "osm_id": "node/12953576379"
+}

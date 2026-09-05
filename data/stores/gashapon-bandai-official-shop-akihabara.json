@@ -1,0 +1,112 @@
+{
+ "id": "gashapon-bandai-official-shop-akihabara",
+ "name": {
+  "ko": "가샤폰 반다이 오피셜숍 아키하바라점",
+  "en": "Gashapon Bandai Official Shop Akihabara",
+  "ja": "ガシャポンバンダイオフィシャルショップ秋葉原店"
+ },
+ "synonyms": [
+  "가샤폰 반다이 오피셜숍",
+  "가샤폰 오피셜숍 아키하바라",
+  "가샤폰의 데파트 아키하바라점",
+  "가샤폰 백화점",
+  "가챠폰 반다이 오피셜숍",
+  "GBO 아키하바라",
+  "남코 아키하바라 4층 가샤폰",
+  "Gashapon Bandai Official Shop",
+  "Gashapon Department Store Akihabara",
+  "ガシャポンバンダイオフィシャルショップ",
+  "ガシャポンのデパート秋葉原店",
+  "ガシャポンのデパート",
+  "ガシャポンデパート秋葉原",
+  "namco秋葉原 4F ガシャポン"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gacha",
+  "capsule_toy",
+  "bandai",
+  "official_shop",
+  "character_goods",
+  "limited_goods",
+  "new"
+ ],
+ "one_line": {
+  "ko": "반다이 직영 캡슐토이 전문점. 가샤폰 기계 800대와 한정 캡슐토이 판매",
+  "en": "Bandai's own capsule-toy store: 800 gashapon machines plus shop-limited capsule toys"
+ },
+ "building_id": "ichigo-akihabara-ekimae-building",
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-9 いちご秋葉原駅前ビル（namco秋葉原）4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "같은 4층에 병설된 「가샤폰의 데파트 아키하바라점」도 10:00~23:00으로 영업시간과 전화번호가 같다. 영업일·영업시간의 급한 변경은 공식 X(@GBO_akihabara)에 공지된다.",
+   "en": "The co-located Gashapon Department Store Akihabara on the same 4F keeps identical 10:00-23:00 hours and shares the phone number. Sudden changes to opening days or hours are announced on X (@GBO_akihabara)."
+  },
+  "source_url": "https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/akihabara/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 라디오회관 바로 앞, 역 쪽에 선 커다란 namco 간판의 빌딩(옛 세가·GiGO 아키하바라 4호관)이며 1층으로 들어가 4층으로 올라가면 층 전체가 캡슐토이 매장이다. B1F~3F와 5F는 namco 오락실이라 4층만 목적이라면 엘리베이터를 쓰는 편이 빠르다.",
+  "en": "One minute from the JR Akihabara Electric Town Exit. The building with the big namco sign stands just in front of Radio Kaikan on the station side (the former Sega / GiGO Akihabara Building 4); enter on 1F and go up to 4F, where the whole floor is capsule toys. B1F-3F and 5F are the namco arcade, so take the lift if 4F is all you want."
+ },
+ "tips": {
+  "ko": [
+   "설치 대수 800대는 같은 층에 병설된 「가샤폰의 데파트 아키하바라점」(500대)과 오피셜숍을 합친 숫자다. 두 브랜드가 한 층에 이어져 있어 사실상 한 매장처럼 돌아본다.",
+   "입하·품절 정보와 임시 영업시간 변경은 공식 X 계정 @GBO_akihabara에 올라온다.",
+   "영업 마감이 23:00으로 아키하바라 굿즈 매장 중에서는 늦은 편이라 다른 가게가 닫은 뒤에 들르기 좋다."
+  ],
+  "en": [
+   "The 800-machine figure counts the co-located Gashapon Department Store Akihabara (500 machines) together with the official shop; the two brands run into each other on one floor and are browsed as a single space.",
+   "Restock and sold-out news and any temporary hours changes are posted on the official X account @GBO_akihabara.",
+   "Closing at 23:00 is late for an Akihabara goods shop, so it works as a stop after the other stores have shut."
+  ]
+ },
+ "official_url": "https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/akihabara/",
+ "sns": {
+  "x": "https://x.com/GBO_akihabara"
+ },
+ "chain": "gashapon-bandai",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/akihabara/",
+  "https://bandainamco-am.co.jp/others/capsule-toy-store/store/akihabara/"
+ ],
+ "osm_id": null
+}

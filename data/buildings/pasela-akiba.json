@@ -1,0 +1,68 @@
+{
+ "id": "pasela-akiba",
+ "name": {
+  "ko": "파세라 리조트 AKIBA 멀티 엔터테인먼트",
+  "en": "Pasela Resorts AKIBA Multi Entertainment",
+  "ja": "パセラリゾーツAKIBA マルチエンターテインメント"
+ },
+ "location": {
+  "lat": 35.697754,
+  "lng": 139.770384
+ },
+ "address_ja": "東京都千代田区外神田1-1-10",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "건물 본체인 카라오케 파세라 접수는 9:30~23:00, 금·토·공휴일 전날은 다음 날 1:00까지. 층마다 달라서 1F 루이다의 술집 11:30~21:00, 2F 에오르제아 카페 10:45~23:00(90분 교체제), 2F 그랑사이퍼 키친 평일 11:30~21:00·주말 및 공휴일 10:00~22:30, 3F 헌터스 바 평일 12:00~23:00·주말 및 공휴일 10:45~23:00(주말은 90분제), 8F 그레이스발리 접수 11:00~22:00이며 7F P.A.R.M.S는 공연 일정에 따라 열린다. 콜라보 카페·바는 당일 빈자리가 있으면 워크인도 받지만 사전 예약이 권장된다.",
+  "en": "Karaoke Pasela, which fills most of the building, takes guests 9:30-23:00, and until 1:00 the next morning on Fri, Sat and the eve of a public holiday. Tenants differ: LUIDA'S BAR on 1F 11:30-21:00; Eorzea Cafe on 2F 10:45-23:00 in 90-minute slots; Grandcypher KITCHEN on 2F 11:30-21:00 weekdays and 10:00-22:30 weekends/holidays; HUNTERS BAR on 3F 12:00-23:00 weekdays and 10:45-23:00 weekends/holidays (90-minute slots at weekends); Grace Bali reception on 8F 11:00-22:00; P.A.R.M.S on 7F opens per event schedule. Walk-ins are taken when seats are free, but the collaboration cafes and bars ask you to book ahead."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 남쪽 출구(電気街南口)에서 도보 4분. 출구를 나와 오른쪽으로 돌아 주오도리로 나간 뒤 좌회전해 남쪽으로 걷고, 지요다구 만세이바시 구민관(千代田区万世橋区民館) 바로 앞 골목에서 우회전하면 조금 앞 왼쪽에 보이는 건물이다. 쓰쿠바 익스프레스 아키하바라역 A1 출구 도보 5분, 도쿄메트로 히비야선 아키하바라역 3번 출구 도보 7분.",
+  "en": "Four minutes from the JR Akihabara Electric Town South Exit (電気街南口). Leave the exit, turn right out to Chuo-dori, turn left and walk south, then turn right into the side street just before the Chiyoda Manseibashi Kumin-kan community hall; the building is a short way ahead on your left. Tsukuba Express Akihabara exit A1 is 5 minutes away and Tokyo Metro Hibiya Line Akihabara exit 3 is 7 minutes."
+ },
+ "floor_guide_url": null,
+ "official_url": "https://www.pasela.co.jp/shop/akiba_multi/",
+ "uncurated_floors": [
+  {
+   "floor": "4F",
+   "ko": "카라오케 파세라 객실 층(4○○호실). 흡연실과 여성 화장실 기저귀 교환대가 있고 별도 매장은 없음",
+   "en": "Karaoke Pasela guest rooms (4xx room numbers); a smoking area and a changing table in the women's toilet, no separate shop"
+  },
+  {
+   "floor": "5F",
+   "ko": "카라오케 파세라 객실 층. 건물에서 유일한 수유실과 기저귀 교환대가 있으며 매장은 없음",
+   "en": "Karaoke Pasela guest rooms; the building's only nursing room plus a changing table, no shop"
+  },
+  {
+   "floor": "6F",
+   "ko": "카라오케 파세라 객실·파티룸 층(6○○호실)과 흡연실. 매장은 없음",
+   "en": "Karaoke Pasela guest and party rooms (6xx room numbers) and a smoking area; no shop"
+  },
+  {
+   "floor": "8F",
+   "ko": "그레이스발리 아키하바라 · 30~280명 규모의 연회·파티 홀 9개, 예약제 대관 공간으로 굿즈 판매 없음",
+   "en": "Grace Bali Akihabara · nine banquet and party halls for groups of 30 to 280, a reservation-only rental space with no retail"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.pasela.co.jp/shop/akiba_multi/",
+  "https://www.pasela.co.jp/shop/akiba_multi/map.html",
+  "https://www.pasela.co.jp/shop/akiba_multi/room.html",
+  "https://paselabo.pasela.co.jp/luidas_bar/",
+  "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/",
+  "https://www.pasela.co.jp/paselabo_shop/grandcypher-kitchen/",
+  "https://paselabo.pasela.co.jp/hunters-bar/",
+  "https://www.pasela.co.jp/paselive/shop/parms_akihabara/",
+  "https://www.grace-bali.com/shop/akihabara/enkai/"
+ ],
+ "osm_id": "way/230818893"
+}

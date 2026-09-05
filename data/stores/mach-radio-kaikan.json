@@ -1,0 +1,107 @@
+{
+ "id": "mach-radio-kaikan",
+ "name": {
+  "ko": "마하 라디오회관점",
+  "en": "Mach Radio Kaikan",
+  "ja": "マッハ ラジオ会館店"
+ },
+ "synonyms": [
+  "마하",
+  "쿠지 전문점 마하",
+  "마하 라디오회관",
+  "마하 라지관점",
+  "Mach",
+  "Mach Akihabara",
+  "Kuji Mach",
+  "マッハ",
+  "マッハ ラジオ会館店",
+  "くじの専門店 マッハ"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "kuji",
+  "ichiban_kuji",
+  "prize_figure",
+  "figure",
+  "trading_card",
+  "supplies",
+  "buyback"
+ ],
+ "one_line": {
+  "ko": "이치반쿠지 등 애니 쿠지를 한 장씩 뽑는 매장. 피규어·트레카도 판매",
+  "en": "Ichiban Kuji and other anime prize draws sold per ticket; also figures and trading cards"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "판매는 11:00~20:00으로 건물 개관(10:00)보다 1시간 늦다. 매입(買取) 접수 시간은 공식 X(@Kuji_Mahh) 공지 확인.",
+   "en": "Sales run 11:00-20:00, an hour later than the building's 10:00 opening. Buyback hours are announced on the shop's X account (@Kuji_Mahh)."
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e3%83%9e%e3%83%83%e3%83%8f-%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 1층. 쿠지 경품 박스가 쌓인 매대가 이 매장이고, 같은 층에 후쿠후쿠 트레카, 호비스테이션 라디오회관점, 카드라보 매입센터, 패밀리마트가 있다.",
+  "en": "Radio Kaikan 1F. Look for the stand stacked with kuji prize boxes; the same floor holds Fukufuku Toreka, Hobby Station, Card Labo's buyback centre and a FamilyMart."
+ },
+ "tips": {
+  "ko": [
+   "취급 쿠지는 일번쿠지(一番くじ)·세가 럭키쿠지·브로콜리 트레카 아이템 쿠지 등이며, 1회권 단위로 그 자리에서 뽑는다.",
+   "쿠지 외에 트레카·피규어·서플라이도 함께 팔고 트레카 매입도 받는다.",
+   "건물은 10:00에 열리지만 이 매장은 11:00 개점이므로 아침 일찍 가면 헛걸음한다."
+  ],
+  "en": [
+   "Prize draws on offer include Ichiban Kuji, Sega Lucky Kuji and Broccoli's trading-card item kuji, bought and drawn one ticket at a time.",
+   "Besides kuji it sells trading cards, figures and supplies, and buys cards.",
+   "The building opens at 10:00 but this shop opens at 11:00, so an early visit is wasted."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/Kuji_Mahh"
+ },
+ "chain": "mach",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/%e3%83%9e%e3%83%83%e3%83%8f-%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/shop-list/",
+  "https://akihabara-radiokaikan.co.jp/information/"
+ ],
+ "osm_id": null
+}

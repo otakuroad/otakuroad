@@ -1,0 +1,117 @@
+{
+ "id": "denko-sekka-akihabara",
+ "name": {
+  "ko": "덴코셋카 아키하바라점",
+  "en": "Denko Sekka Akihabara",
+  "ja": "デンコーセッカ秋葉原店"
+ },
+ "synonyms": [
+  "덴코세카",
+  "덴코셋카",
+  "전광석화 카드",
+  "포케카 매입 덴코셋카",
+  "Denko-Sekka",
+  "DENKO SEKKA",
+  "Denkosekka Akihabara",
+  "デンコーセッカ",
+  "デンコーセッカ 秋葉原店",
+  "電光石火",
+  "でんこうせっか"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "oripa",
+  "vending_machine",
+  "buyback",
+  "used",
+  "new"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드 매입 카운터와 24시간 오리파 자판기가 있는 1층 노면 매장",
+  "en": "Street-level Pokemon card buyback counter with 24-hour oripa vending machines"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701363,
+  "lng": 139.771093
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田3-14-5 久郷ビル1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "sun",
+     "mon",
+     "tue",
+     "wed",
+     "thu"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "fri",
+     "sat"
+    ],
+    "open": "12:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "표기된 시간은 점두 판매 기준. 오리파 자판기 4대는 24시간 가동하며, 매입 카운터는 13:00-19:30만 접수한다. 공휴일 영업시간은 공식 안내에 없다.",
+   "en": "The listed hours are for counter sales. The four oripa vending machines run 24 hours, while the buyback counter only takes items 13:00-19:30. Public-holiday hours are not stated officially."
+  },
+  "source_url": "https://denko-sekka.com/shop/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 8분, 긴자선 스에히로초역에서 도보 3분. 주오도리 서쪽 이면도로에 있는 구고빌딩(久郷ビル) 1층 노면 점포로, 가게 앞에 오리파 자판기가 늘어서 있어 밤에도 눈에 띈다.",
+  "en": "Eight minutes from JR Akihabara, three from Ginza-line Suehirocho. Ground floor of the Kugo Building on the back street just west of Chuo-dori; the row of oripa vending machines out front makes it easy to spot even at night."
+ },
+ "tips": {
+  "ko": [
+   "오리파 자판기는 24시간 쓸 수 있어 매장이 닫힌 뒤에도 이용 가능하다. 최저 100엔짜리부터 있다.",
+   "금요일과 토요일만 23:00까지 연장 영업한다.",
+   "포켓몬 카드 매입이 중심이며, 매입 접수는 13:00-19:30로 영업시간보다 짧다.",
+   "2023년 6월 17일 프리오픈, 6월 24일 그랜드오픈한 매입 전문 매장에서 시작해 지금은 점두 판매도 함께 한다."
+  ],
+  "en": [
+   "The oripa vending machines run 24 hours, so you can use them after the counter closes; prices start at 100 yen.",
+   "Only Friday and Saturday run late, to 23:00.",
+   "Buying is centred on Pokemon cards, and the buyback counter takes items only 13:00-19:30 - shorter than the shop's own hours.",
+   "It began as a buyback-only outlet that pre-opened on 2023-06-17 and had its grand opening on 2023-06-24; counter sales were added later."
+  ]
+ },
+ "official_url": "https://denko-sekka.com/shop/",
+ "sns": {
+  "x": "https://x.com/Pokekakaitori"
+ },
+ "chain": "denko-sekka",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://denko-sekka.com/shop/",
+  "https://denko-sekka.com/",
+  "https://akibatoreka.com/introduce/2518",
+  "https://torecamap.co.jp/shops/tokyo/r13007/s13007005/2237"
+ ],
+ "osm_id": "node/11925303819"
+}

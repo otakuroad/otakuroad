@@ -1,0 +1,118 @@
+{
+ "id": "otachu-akihabara-4-gundam",
+ "name": {
+  "ko": "오타츄 아키하바라 4호점",
+  "en": "Gundam & Gunpla Store: Otachu Akihabara No.4",
+  "ja": "【ガンダム専門店】おたちゅう。秋葉原4号店"
+ },
+ "synonyms": [
+  "오타츄",
+  "오타츄 4호점",
+  "오타츄 건담 전문점",
+  "오타추",
+  "おたちゅう",
+  "おたちゅう。秋葉原4号店",
+  "おたちゅう。4号店",
+  "オタチュウ",
+  "ガンダム専門店 おたちゅう",
+  "Otachu",
+  "Otachu Akihabara 4",
+  "Otachu Akihabara No.4"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "gundam",
+  "gunpla",
+  "figure",
+  "used",
+  "buyback",
+  "metal_build",
+  "robot_damashii",
+  "chogokin",
+  "ichiban_kuji",
+  "shokugan"
+ ],
+ "one_line": {
+  "ko": "건담 프라모델·완성품 피규어 전문 중고·신품 매장. 매입도 함께 취급",
+  "en": "Gundam specialist: used and new gunpla, Robot Spirits and Metal Build figures; buyback too"
+ },
+ "building_id": "ichigo-akihabara-ekimae-building",
+ "floors": [
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-9 いちご秋葉原駅前ビル7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": null,
+  "source_url": "https://otachu-akiba.com/4go/access/"
+ },
+ "tax_free": false,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "전기가 출구에서 namco가 든 흰색 빌딩 쪽으로 직진해, 1층 이치반쿠지 공식숍 코너 옆의 빌딩 입구로 들어간다. 안쪽 간판에서 왼쪽으로 꺾어 막다른 곳의 엘리베이터를 타고 7F.",
+  "en": "From the Electric Town Exit walk straight toward the white namco building; the entrance is beside the 1F Ichiban Kuji shop corner. Turn left at the sign inside and take the elevator at the end up to 7F."
+ },
+ "tips": {
+  "ko": [
+   "재고의 약 80%가 매입한 중고품이고 신품도 함께 판다. 취급 품목은 건담 한정으로 7,000점 이상.",
+   "면세는 제공하지 않는다. 표시가는 소비세 10% 포함 가격.",
+   "현금 외 VISA·Mastercard·JCB·AMEX·UnionPay, Suica·PASMO, PayPay·Alipay·WeChat Pay 결제가 된다.",
+   "실시간 번역기를 두고 있어 영어로 문의할 수 있고, 한국어 안내 페이지도 있다.",
+   "건프라 외에 메탈빌드·로봇혼·초합금·SD건담·이치반쿠지 경품·식완 등 건담 관련 상품만 모아 둔다."
+  ],
+  "en": [
+   "About 80% of the stock is bought-in used goods, with new items alongside; over 7,000 Gundam-only items.",
+   "No tax-free service — prices include the 10% consumption tax.",
+   "Cash plus VISA, Mastercard, JCB, AMEX, UnionPay, Suica/PASMO and PayPay, Alipay, WeChat Pay.",
+   "Staff use a real-time translation device for English, and the site has a Korean guide page.",
+   "Beyond gunpla it stocks Metal Build, Robot Spirits, Chogokin, SD Gundam, Ichiban Kuji prizes and shokugan — Gundam only."
+  ]
+ },
+ "official_url": "https://otachu-akiba.com/4go/",
+ "sns": {
+  "x": "https://x.com/otachu_akiba4",
+  "instagram": "https://www.instagram.com/otachuakiba4/"
+ },
+ "chain": "otachu",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://otachu-akiba.com/4go/",
+  "https://otachu-akiba.com/4go/access/",
+  "https://otachu-akiba.com/4go/item/",
+  "https://otachu-akiba.com/4go/akihabara-gundam-specialty-shop-language-english/",
+  "https://otachu-akiba.com/"
+ ],
+ "osm_id": "node/14063086301"
+}

@@ -1,0 +1,113 @@
+{
+ "id": "mach-kuji-radio-kaikan",
+ "name": {
+  "ko": "쿠지 전문점 마하 아키하바라 라디오회관점",
+  "en": "Mach Kuji Store Akihabara Radio Kaikan",
+  "ja": "くじ専門店マッハ 秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "쿠지 전문점 마하",
+  "마하 라지관점",
+  "마하 라디오회관점",
+  "쿠지 마하",
+  "마하 아키하바라",
+  "Mach Radio Kaikan",
+  "Kuji Senmonten Mach",
+  "Mach Rajikan",
+  "くじ専門店マッハ",
+  "マッハ ラジオ会館店",
+  "くじ専門店マッハ秋葉原ラジオ会館店",
+  "マッハ ラジ館店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "ichiban_kuji",
+  "kuji",
+  "prize_figure",
+  "character_goods",
+  "tcg_singles",
+  "pokemon_card",
+  "one_piece_card",
+  "buyback",
+  "card_supply",
+  "new"
+ ],
+ "one_line": {
+  "ko": "이치반쿠지·세가 럭키쿠지를 현장에서 뽑는 매장, 경품 피규어와 트레카도 판매",
+  "en": "Ichiban Kuji and Sega Lucky Kuji draws on the spot, prize figures and trading cards"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 표기 기준 판매 11:00~20:00. 매입 접수 시간은 공식 X(@Kuji_Mahh) 공지로만 안내되며 날마다 다르다. 건물은 10:00 개관하지만 이 매장은 11:00 개점",
+   "en": "Sales 11:00-20:00 as posted officially. Buyback hours are announced only on the shop's X account (@Kuji_Mahh) and vary by day. The building opens at 10:00 but this shop opens at 11:00"
+  },
+  "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%E3%81%8F%E3%81%98%E5%B0%82%E9%96%80%E5%BA%97%E3%83%9E%E3%83%83%E3%83%8F%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8%E5%BA%97/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 1F 정면 입구로 들어가면 바로 있는 층. 호비스테이션·후쿠후쿠 트레카·카드라보 매입센터와 같은 층이며, 마하는 이치반쿠지 상품 진열대와 뽑기 카운터가 있는 구획이다. 2023년 8월 ANIPLEX+ 자리에 들어섰다.",
+  "en": "On Radio Kaikan's ground floor, straight in from the front entrance, sharing 1F with Hobby Station, Fukufuku Toreka and the Card Labo buyback centre. Mach is the unit with the Ichiban Kuji prize display and the draw counter; it took over the former ANIPLEX+ space in August 2023."
+ },
+ "tips": {
+  "ko": [
+   "일번(이치반)쿠지는 그 자리에서 제비를 뽑아 경품을 바로 받는 방식이라 인기 타이틀은 개점 직후 매진되는 경우가 많다.",
+   "포켓몬 카드·원피스 카드 등 트레카와 슬리브·서플라이도 함께 팔고 트레카 매입도 받는다.",
+   "매입 접수 시간은 공식 X(@Kuji_Mahh)에만 공지되므로 팔 물건이 있으면 방문 전 확인."
+  ],
+  "en": [
+   "Ichiban Kuji tickets are drawn on the spot and the prize is handed over immediately, so popular titles often sell out shortly after opening.",
+   "It also stocks Pokemon and One Piece cards plus sleeves and supplies, and buys trading cards.",
+   "Buyback hours are posted only on the shop's X account (@Kuji_Mahh), so check before coming to sell."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/Kuji_Mahh"
+ },
+ "chain": "mach",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akihabara-radiokaikan.co.jp/shoplist/%E3%81%8F%E3%81%98%E5%B0%82%E9%96%80%E5%BA%97%E3%83%9E%E3%83%83%E3%83%8F%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%A9%E3%82%B8%E3%82%AA%E4%BC%9A%E9%A4%A8%E5%BA%97/",
+  "https://akihabara-radiokaikan.co.jp/floor/1f/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://akihabara-radiokaikan.co.jp/information/",
+  "https://www.gdm.or.jp/crew/2023/0802/499945"
+ ],
+ "osm_id": null
+}

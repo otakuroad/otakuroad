@@ -1,0 +1,109 @@
+{
+ "id": "ff14-goods-shop-akihabara",
+ "name": {
+  "ko": "파이널 판타지 XIV 굿즈숍 아키하바라",
+  "en": "FINAL FANTASY XIV GOODS SHOP AKIHABARA",
+  "ja": "ファイナルファンタジーXIV GOODS SHOP AKIHABARA"
+ },
+ "synonyms": [
+  "파이널판타지14 굿즈숍",
+  "FF14 굿즈숍 아키하바라",
+  "파판14 공식 굿즈숍",
+  "FFXIV Goods Shop Akihabara",
+  "FF14 Goods Shop",
+  "EXBAR TOKYO plus Akihabara",
+  "FF14 グッズショップ 秋葉原",
+  "EXBAR TOKYO plus 秋葉原",
+  "エクスバー東京プラス秋葉原"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "final_fantasy",
+  "game_goods",
+  "apparel",
+  "figure",
+  "plush",
+  "official_store",
+  "new"
+ ],
+ "one_line": {
+  "ko": "파이널판타지14 공식 굿즈 상설점. 의류·피규어·인형과 메달 각인기",
+  "en": "Permanent official FINAL FANTASY XIV goods store with apparel, figures and a medal typer"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698105,
+  "lng": 139.772807
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区神田佐久間町1-6-1 秋葉原東西自由通路 EXBAR TOKYO plus 秋葉原店内",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "10:00~23:00 영업이며 푸드·드링크 라스트오더는 22:30. 굿즈만 사고 나와도 된다.",
+   "en": "Open 10:00-23:00; last order for food and drink is 22:30. You may buy goods only, without ordering anything."
+  },
+  "source_url": "https://exbar.jp/akihabara/ff14shop.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 동서 자유통로 안, 전기가 출구 남쪽에 있다. 개찰 밖 통로에 면해 있어 역 구내를 지나가다 바로 들어갈 수 있으며, 간판은 'EXBAR TOKYO plus 秋葉原'이다.",
+  "en": "Inside JR Akihabara station's east-west free passage, on the south side of the Electric Town Exit. It faces the passage outside the ticket gates, so you can walk straight in; the sign reads 'EXBAR TOKYO plus 秋葉原'."
+ },
+ "tips": {
+  "ko": [
+   "2025년 12월 19일 문을 연 FFXIV 굿즈 전문 첫 상설 매장으로, 내부는 게임 속 그리다니아 시장을 본떠 꾸몄다.",
+   "크래프트 비어 바 EXBAR TOKYO plus 秋葉原 안에 있지만 음식·음료 주문 없이 굿즈만 구매할 수 있다.",
+   "이름·생일·프리컴퍼니 창설일 등을 새기는 'FFXIV 메달 타이퍼'가 설치되어 있다.",
+   "혼잡할 때는 정리권을 배포하므로 매장 공식 X(@EXBAR_AKIHABARA)를 확인할 것."
+  ],
+  "en": [
+   "Opened 2025-12-19 as the first permanent shop dedicated to FFXIV merchandise, with an interior modelled on the in-game Gridania market.",
+   "It sits inside the craft-beer bar EXBAR TOKYO plus Akihabara, but you can buy goods without ordering food or drink.",
+   "An 'FFXIV Medal Typer' lets you stamp your character name, birthday or Free Company founding date onto a medal.",
+   "Queue tickets are handed out when it gets busy, so check the shop's X account (@EXBAR_AKIHABARA)."
+  ]
+ },
+ "official_url": "https://exbar.jp/akihabara/ff14shop.html",
+ "sns": {
+  "x": "https://x.com/EXBAR_AKIHABARA"
+ },
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://exbar.jp/akihabara/ff14shop.html",
+  "https://jp.finalfantasyxiv.com/lodestone/topics/detail/82b918851369a3097c2903aa65ef54caecce239a",
+  "https://exbar.jp/akihabara/",
+  "https://map.yahoo.co.jp/v3/place/ztVE8o9oy2s"
+ ],
+ "osm_id": null
+}

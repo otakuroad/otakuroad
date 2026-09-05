@@ -1,0 +1,115 @@
+{
+ "id": "tokyo-atom",
+ "name": {
+  "ko": "도쿄 아톰",
+  "en": "TOKYO ATOM",
+  "ja": "TOKYO ATOM"
+ },
+ "synonyms": [
+  "도쿄아톰",
+  "토쿄 아톰",
+  "아키바 인포",
+  "TOKYO ATOM@AKIBA INFO.",
+  "AKIBA INFO.",
+  "Tokyo Atom Akihabara",
+  "東京アトム",
+  "トーキョーアトム",
+  "秋葉原UDX TOKYO ATOM"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "new",
+  "tezuka",
+  "astro_boy",
+  "apparel",
+  "mug",
+  "bag",
+  "zippo",
+  "information",
+  "exhibition"
+ ],
+ "one_line": {
+  "ko": "아톰 등 데즈카 오사무 캐릭터 굿즈와 애니 티셔츠·머그컵을 파는 UDX 2층 매장",
+  "en": "UDX 2F shop for Astro Boy and Tezuka character goods, anime T-shirts and mugs"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700145,
+  "lng": 139.772502
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田4-14-1 秋葉原UDXビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "매주 월요일(공휴일이면 다음 화요일)",
+   "en": "Closed Mondays (the following Tuesday when Monday is a public holiday)"
+  },
+  "note": {
+   "ko": "매장은 11:00-19:00이지만 병설 인포메이션 카운터는 17:30에 끝난다. 전시·이벤트 기간에는 시간이 바뀔 수 있어 공식 SNS 확인 권장.",
+   "en": "The shop runs 11:00-19:00 but the attached information counter closes at 17:30. Hours can shift during exhibitions and events, so check the shop's social accounts."
+  },
+  "source_url": "https://corearu.jp/questions/profile/tokyo-atom/about/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 북쪽으로 도보 3분, 주오도리 동쪽의 아키하바라 UDX 2층. 데크로 올라가 2층 통로변에 있으며, 관광 안내 창구(AKIBA INFO.)를 겸하고 있어 아톰 간판이 붙은 카운터가 표식이다.",
+  "en": "Three minutes north of the JR Akihabara Electric Town exit, on 2F of Akihabara UDX east of Chuo-dori. Take the deck up to the 2F walkway; the shop doubles as the AKIBA INFO. tourist counter, marked by its Astro Boy signage."
+ },
+ "tips": {
+  "ko": [
+   "월요일 정기휴무이고 월요일이 공휴일이면 다음 화요일에 쉰다. 아키하바라에서 드문 휴무일이므로 주의.",
+   "관광 안내 창구는 17:30에 마감되므로 지도·팸플릿이 필요하면 그 전에 들르는 편이 좋다.",
+   "데즈카 오사무 캐릭터 상품 외에 애니 티셔츠·가방·머그컵·ZIPPO 등 잡화 비중이 크다.",
+   "2층 갤러리 공간에서 일러스트 전시가 자주 열려 방문 시기에 따라 매장 구성이 달라진다."
+  ],
+  "en": [
+   "Closed every Monday (the next Tuesday if Monday is a holiday) — rare for Akihabara, so plan around it.",
+   "The tourist information counter shuts at 17:30, so come earlier if you want maps or leaflets.",
+   "Besides Tezuka character items, much of the stock is anime T-shirts, bags, mugs and ZIPPO lighters.",
+   "The 2F space often hosts illustration exhibitions, so the layout changes with whatever is running."
+  ]
+ },
+ "official_url": "https://tokyoatomshop.stores.jp/",
+ "sns": {
+  "x": "https://x.com/shop_tokyoatom",
+  "instagram": "https://www.instagram.com/tokyoatom_animeshop/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://corearu.jp/questions/profile/tokyo-atom/about/",
+  "https://akihabara-fan.com/archives/703",
+  "https://map.yahoo.co.jp/v3/place/3Rb_z3jWQCA"
+ ],
+ "osm_id": "node/2059303789"
+}

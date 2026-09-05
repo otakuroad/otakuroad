@@ -1,0 +1,85 @@
+{
+ "id": "card-collect-akihabara",
+ "name": {
+  "ko": "카드컬렉트 아키하바라",
+  "en": "Card Collect Akihabara",
+  "ja": "カードコレクト秋葉原"
+ },
+ "synonyms": [
+  "카드컬렉트",
+  "카드콜렉트",
+  "카드콜렉트 아키하바라",
+  "Card Collect",
+  "CardCollect",
+  "カードコレクト",
+  "カードコレクト 秋葉原",
+  "カードコレクト秋葉原店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "weiss_schwarz",
+  "one_piece_card",
+  "singles",
+  "psa",
+  "sealed_box",
+  "buyback",
+  "oripa",
+  "card_mall"
+ ],
+ "one_line": {
+  "ko": "포켓몬카드 싱글·PSA 감정품·미개봉 박스를 사고파는 지하 매입 특화 점포",
+  "en": "Pokemon card singles, PSA-graded cards and sealed boxes, bought and sold on B1F"
+ },
+ "building_id": "edion-akiba",
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）B1F トレカモーール秋葉原1号店内",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 지하 1층 트레카모올 안의 부스. 정면 입구 안쪽 계단·에스컬레이터로 지하로 내려간다.",
+  "en": "A booth in the B1F Toreca Mall of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store); go down the stairs or escalator just inside the main entrance."
+ },
+ "tips": {
+  "ko": [
+   "PSA 감정품·구판(구라) 카드·미개봉 박스 매입에 강한 점포로, 현장 현금 지급과 우편 매입을 함께 운영한다.",
+   "공식 점포 안내에 영업시간이 적혀 있지 않다. 일본 디렉터리는 12:00-19:30으로 적지만 방문 전 X(@cardcollect_) 확인을 권한다.",
+   "외신다 4-5-5 三滝館에 있던 '카드코레크트 아키하바라 본점'과는 다른 점포다."
+  ],
+  "en": [
+   "Strong on PSA-graded cards, old-back vintage Pokemon cards and sealed boxes, with on-the-spot cash payment plus a mail-in buyback service.",
+   "The official store page gives no hours; Japanese directories say 12:00-19:30, but check X (@cardcollect_) before going.",
+   "This is not the former Card Collect Akihabara main store at Sotokanda 4-5-5 Mitakikan."
+  ]
+ },
+ "official_url": "https://cardcollect.jp/",
+ "sns": {
+  "x": "https://x.com/cardcollect_"
+ },
+ "chain": "card-collect",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://cardcollect.jp/pages/map",
+  "https://www.cardcollect.jp/",
+  "https://akihabara-cardmap.com/ja/shop/card-collect/",
+  "https://torecamap.co.jp/column/akihabara/",
+  "https://prtimes.jp/main/html/rd/p/000000002.000152399.html"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,110 @@
+{
+ "id": "hunters-bar-akihabara",
+ "name": {
+  "ko": "헌터스 바 몬헌 술집 도쿄 아키하바라",
+  "en": "HUNTERS BAR Monhun Sakaba Tokyo Akihabara",
+  "ja": "HUNTERS BAR モンハン酒場 東京秋葉原"
+ },
+ "synonyms": [
+  "헌터스 바",
+  "몬헌 술집",
+  "몬스터 헌터 카페",
+  "몬헌 사카바",
+  "HUNTERS BAR",
+  "Hunters Bar Akihabara",
+  "Monster Hunter Bar",
+  "モンハン酒場",
+  "モンハン酒場 東京秋葉原",
+  "ハンターズバー",
+  "モンスターハンター コラボ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "collab_cafe",
+  "game_collab",
+  "monster_hunter",
+  "capcom",
+  "reservation",
+  "can_badge"
+ ],
+ "one_line": {
+  "ko": "몬스터 헌터 공식 콜라보 주점. 헌터 요리와 랜덤 캔뱃지, 게임 소품 전시",
+  "en": "Official Monster Hunter collaboration bar: hunter-themed dishes and random can badges"
+ },
+ "building_id": "pasela-akiba",
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-1-10 パセラリゾーツAKIBAマルチエンターテインメント3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:45",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "90분 교체제로 운영되며 라스트오더는 예약 시간으로부터 50분 후. 예약은 TableCheck 웹 또는 전화로 받는다.",
+   "en": "Seating runs in 90-minute slots and last order is 50 minutes after your reserved start time. Book via TableCheck or by phone."
+  },
+  "source_url": "https://paselabo.pasela.co.jp/hunters-bar/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "파세라 리조트 AKIBA 건물 3층 전체를 쓴다. 1층 카라오케 파세라 접수 옆 엘리베이터로 3층에 내리면 바로 입구다. 2층 에오르제아 카페·그랑사이퍼 키친과 함께 같은 건물에 게임 콜라보 점포가 모여 있다.",
+  "en": "Takes up the whole 3F of Pasela Resorts AKIBA; the entrance is right off the lift beside the 1F Karaoke Pasela reception. The same building stacks the Eorzea Cafe and Grandcypher KITCHEN on 2F."
+ },
+ "tips": {
+  "ko": [
+   "평일은 12:00부터, 토·일·공휴일은 10:45부터 시작해 주말이 더 일찍 연다.",
+   "이용 시 오리지널 캔버스 원단 캔뱃지(전 25종 랜덤)를 증정한다.",
+   "라스트오더가 예약 시간 50분 뒤로 이른 편이라 굿즈·추가 주문은 초반에 해두는 편이 좋다."
+  ],
+  "en": [
+   "Weekdays start at 12:00 but weekends and holidays open earlier, at 10:45.",
+   "Every visit comes with an original canvas-fabric can badge, random from 25 designs.",
+   "Last order falls just 50 minutes after your slot begins, so order extras and merch early."
+  ]
+ },
+ "official_url": "https://paselabo.pasela.co.jp/hunters-bar/",
+ "sns": {},
+ "chain": "pasela",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://paselabo.pasela.co.jp/hunters-bar/",
+  "https://www.pasela.co.jp/shop/akiba_multi/",
+  "https://www.pasela.co.jp/shop/akiba_multi/map.html"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,121 @@
+{
+ "id": "clove-base-akihabara",
+ "name": {
+  "ko": "클로브베이스 아키하바라점",
+  "en": "Clove Base Akihabara",
+  "ja": "Clove Base 秋葉原店"
+ },
+ "synonyms": [
+  "클로브베이스",
+  "클로브 베이스",
+  "클로브베이스 아키하바라",
+  "클로브 라운지",
+  "Clove Base",
+  "Clove Base AKIHABARA",
+  "Clove Base akihabara店",
+  "Clove Lounge",
+  "クローブベース",
+  "クローブベース秋葉原",
+  "トレーディングカードショップ Clove Base 秋葉原",
+  "clovebase"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "yugioh",
+  "singles",
+  "collection_card",
+  "buyback",
+  "play_space",
+  "lounge",
+  "drinks",
+  "smoking_area"
+ ],
+ "one_line": {
+  "ko": "포켓몬·유희왕 플레이용 싱글카드부터 고가 컬렉션 카드까지, 6층 카드숍과 유료 라운지",
+  "en": "Pokemon and Yu-Gi-Oh! singles and high-end collector cards, with a paid card-play lounge"
+ },
+ "building_id": null,
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697778,
+  "lng": 139.774204
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "東京都千代田区神田佐久間町1-13 チョムチョム秋葉原6F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매장(ショップ) 기준 시간. 같은 층 라운지는 월요일 휴무이며 화~금 16:00-21:00, 토·일·공휴일 11:00-21:00(라스트오더 20:30)로 별도 운영. 매입 접수는 13:30-18:00.",
+   "en": "These are the shop hours. The lounge on the same floor is closed Mondays and runs 16:00-21:00 Tue-Fri and 11:00-21:00 Sat/Sun/holidays (last order 20:30). Buyback is accepted 13:30-18:00."
+  },
+  "source_url": "https://clovebase.clove.jp/store/akihabara"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 중앙 개찰구, 츠쿠바 익스프레스 A1 출구, 지하철 히비야선 3번 출구에서 각각 도보 1분. 역 동쪽 음식점 빌딩 '초무초무 아키하바라(チョムチョム秋葉原)' 6층으로, 엘리베이터로 올라간다.",
+  "en": "One minute from JR Akihabara's Central Gate, Tsukuba Express exit A1 or Hibiya Line exit 3. Take the lift to 6F of the Chomp Chomp Akihabara restaurant building on the east side of the station."
+ },
+ "tips": {
+  "ko": [
+   "라운지는 충전제로 1시간 500엔, 3시간 이후에는 1,800엔 정액. 카페석 61석, 바석 8석.",
+   "라운지만 월요일이 휴무이고 매장은 평일 13:00부터 연다. 화~금 라운지는 16:00 시작.",
+   "매입은 13:30-18:00에만 접수한다.",
+   "점내 흡연실이 있고 화장실은 남 2실·여 1실."
+  ],
+  "en": [
+   "The lounge charges 500 yen an hour, capped at 1,800 yen from three hours; 61 cafe seats plus 8 bar seats.",
+   "Only the lounge closes on Mondays; the shop opens at 13:00 on weekdays and the lounge from 16:00 Tue-Fri.",
+   "Buyback is only accepted between 13:30 and 18:00.",
+   "There is an indoor smoking room, plus two men's and one women's restroom."
+  ]
+ },
+ "official_url": "https://clovebase.clove.jp/store/akihabara",
+ "sns": {
+  "x": "https://x.com/CloveBase"
+ },
+ "chain": "clove-base",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://clovebase.clove.jp/store/akihabara",
+  "https://clovebase.clove.jp/",
+  "https://clove.jp/"
+ ],
+ "osm_id": "node/11202282530"
+}

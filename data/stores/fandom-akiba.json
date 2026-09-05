@@ -1,0 +1,164 @@
+{
+ "id": "fandom-akiba",
+ "name": {
+  "ko": "팬덤 아키바",
+  "en": "Fandom Akiba",
+  "ja": "Fandom Akiba"
+ },
+ "synonyms": [
+  "팬덤아키바",
+  "판담 아키바",
+  "팬덤 아키하바라",
+  "Fandom",
+  "Fandom Akihabara",
+  "fandom-akiba",
+  "ファンダムアキバ",
+  "ファンダム秋葉原",
+  "アニメショップFandom Akiba",
+  "VTuberグッズ買取販売専門店"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "vtuber",
+  "hololive",
+  "nijisanji",
+  "vspo",
+  "new",
+  "used",
+  "buyback",
+  "acrylic_stand",
+  "can_badge",
+  "tapestry",
+  "plush",
+  "figure",
+  "apparel",
+  "event_space"
+ ],
+ "one_line": {
+  "ko": "홀로라이브·니지산지 VTuber 굿즈 신품·중고를 층마다 파는 빌딩 한 채 전문점",
+  "en": "A whole building of new and used VTuber goods: hololive, Nijisanji, VSpo, indies"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "B1F",
+   "ko": "매입 플로어(1회 100점까지 접수)",
+   "en": "Buyback floor (up to 100 items per visit)"
+  },
+  {
+   "floor": "1F",
+   "ko": "픽업 플로어: 신착·추천 상품",
+   "en": "Pick-Up floor: new arrivals and staff picks"
+  },
+  {
+   "floor": "2F",
+   "ko": "홀로라이브 플로어",
+   "en": "hololive floor"
+  },
+  {
+   "floor": "3F",
+   "ko": "홀로라이브 플로어(픽업 특집, 의류·태피스트리 중심)",
+   "en": "hololive floor (pick-up features, apparel and tapestries)"
+  },
+  {
+   "floor": "4F",
+   "ko": "니지산지·부이스포·아오기리고교 등 VTuber 굿즈",
+   "en": "Nijisanji, VSpo, Aogiri Koukou and other VTuber goods"
+  },
+  {
+   "floor": "5F",
+   "ko": "이벤트 플로어: 160인치급 대형 비전을 쓰는 교류·전시 이벤트와 팝업숍",
+   "en": "Event floor: meet-ups, exhibitions and pop-up shops on a 160-inch-class screen"
+  }
+ ],
+ "location": {
+  "lat": 35.699492,
+  "lng": 139.770689
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-11-3 東和ビルB1F〜8F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sun"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "판매 매장은 연중무휴 11:00-21:00(일요일 20:00). B1F 매입 카운터는 11:00-13:00·15:00-18:00(일요일만 17:00까지) 접수이며 매주 목요일 휴무.",
+   "en": "The shop floors run 11:00-21:00 year-round (Sundays to 20:00). The B1F buyback counter takes items 11:00-13:00 and 15:00-18:00 (to 17:00 on Sundays) and is closed every Thursday."
+  },
+  "source_url": "https://fandom-akiba.com/shop_information/fandom_akiba"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 2~3분, 주오도리 한 블록 서쪽 뒷골목. 슈퍼포테이토가 든 기타바야시 빌딩 바로 북쪽에 있는 도와(東和) 빌딩 한 채가 통째로 매장이며, 지하 1층부터 5층까지 계단·엘리베이터로 올라간다.",
+  "en": "Two to three minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori. The shop is the whole Towa Building, just north of the Kitabayashi Building that houses Super Potato; floors run from B1F up to 5F by stairs or elevator."
+ },
+ "tips": {
+  "ko": [
+   "2F·3F가 홀로라이브, 4F가 니지산지·부이스포 등 그 외 VTuber로 나뉘어 있어 찾는 소속사에 맞춰 층을 고르면 빠르다.",
+   "매입은 B1F 전용 카운터에서만 받고 매주 목요일은 매입 휴무. 판매 매장은 목요일에도 정상 영업한다.",
+   "매입 접수는 11:00-13:00과 15:00-18:00 두 타임으로 나뉘며 점심시간대에는 접수하지 않는다.",
+   "5F는 상설 매장이 아니라 이벤트·팝업 전용 층이라 개최 중일 때만 열린다."
+  ],
+  "en": [
+   "hololive is on 2F and 3F, other agencies (Nijisanji, VSpo, Aogiri) on 4F, so pick the floor by agency.",
+   "Buyback happens only at the B1F counter and is closed on Thursdays; the sales floors stay open that day.",
+   "Buyback reception splits into 11:00-13:00 and 15:00-18:00, with nothing accepted over the lunch break.",
+   "5F is an event and pop-up space rather than a permanent shop floor, so it is open only during a run."
+  ]
+ },
+ "official_url": "https://fandom-akiba.com/",
+ "sns": {
+  "x": "https://x.com/FandomAkiba",
+  "instagram": "https://www.instagram.com/fandomakiba/"
+ },
+ "chain": "fandom",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://fandom-akiba.com/shop_information/fandom_akiba",
+  "https://fandom-akiba.com/",
+  "https://fandom-akiba.com/about_purchase"
+ ],
+ "osm_id": "node/11563517014"
+}

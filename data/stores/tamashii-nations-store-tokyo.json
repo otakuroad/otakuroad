@@ -1,0 +1,154 @@
+{
+ "id": "tamashii-nations-store-tokyo",
+ "name": {
+  "ko": "타마시 네이션즈 스토어 도쿄",
+  "en": "TAMASHII NATIONS STORE TOKYO",
+  "ja": "TAMASHII NATIONS STORE TOKYO（魂ネイションズストア東京）"
+ },
+ "synonyms": [
+  "타마시이 네이션즈 스토어 도쿄",
+  "타마시네이션즈 스토어",
+  "타마시네이션즈",
+  "타마시 네이션즈 도쿄",
+  "타마시네이션 스토어",
+  "타마시 네이션 스토어",
+  "혼 네이션스 스토어 도쿄",
+  "타마시 스토어",
+  "혼스토어",
+  "반다이 스피리츠 직영점",
+  "魂ストア",
+  "魂ネイションズ東京",
+  "魂ネイションズストア東京",
+  "Tamashii Nations Tokyo",
+  "Tamashii Store",
+  "TNS Tokyo",
+  "Bandai Spirits flagship store",
+  "S.H.Figuarts store",
+  "피규아츠"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "shfiguarts",
+  "metal_build",
+  "robot_damashii",
+  "gundam",
+  "tokusatsu",
+  "kamen_rider",
+  "exhibition",
+  "store_limited",
+  "new",
+  "bandai",
+  "photo_ok"
+ ],
+ "one_line": {
+  "ko": "반다이 스피리츠 직영 피규어 매장. S.H.Figuarts·METAL BUILD 전시와 한정품 판매",
+  "en": "Bandai Spirits' flagship: S.H.Figuarts and METAL BUILD displays, store-exclusive figures"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "입구 정면 NEW ITEM 존(신작·혼웹상점 시제품 전시), 오른쪽 SHOP 존(한정품·일부 일반 판매품), 왼쪽 EVENT 존(기획 전시)",
+   "en": "NEW ITEM zone straight ahead (new releases and Tamashii Web Shop prototypes), SHOP zone on the right (exclusives and select retail items), EVENT zone on the left (rotating exhibitions)"
+  }
+ ],
+ "location": {
+  "lat": 35.698985,
+  "lng": 139.772917
+ },
+ "street_segment": "denkigai",
+ "address_ja": "東京都千代田区神田花岡町1-1",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "정기휴일 없음(전시 교체·연말연시 임시 휴업 있음)",
+   "en": "No regular holiday (temporary closures for exhibition changeovers and New Year)"
+  },
+  "note": {
+   "ko": "요일·공휴일 구분 없이 10:00–20:00. 전시 교체 때는 EVENT 존만 휴업하거나 매장 전체가 종일 휴업하고(2026-01-29·03-26·07-09), 11월 TAMASHII NATION 기간에는 며칠 연속 휴업했다(2025-11-04~11-18). 매월 마지막 영업일은 18:00 조기 마감이 잦고 12/31·1/1은 휴업, 1/2~1/3은 17:00 마감. 방문 전 공식 영업 캘린더와 X(@tamashii_tnt)를 확인",
+   "en": "10:00-20:00 every day, weekends and public holidays included. During exhibition changeovers the EVENT zone alone closes or the whole store shuts for the day (29 Jan, 26 Mar, 9 Jul 2026), and it closed for several days around TAMASHII NATION in November (4-18 Nov 2025). The last business day of most months closes at 18:00; 31 Dec and 1 Jan are closed and 2-3 Jan end at 17:00. Check the official business calendar and X (@tamashii_tnt) before visiting"
+  },
+  "source_url": "https://tamashiiweb.com/store/tokyo/about/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구로 나와 오른쪽(북쪽)으로 돌면 고가 철로 아래를 따라 통로가 이어집니다. 도보 1분 안에 오른편, 옛 건담카페 자리에 TAMASHII NATIONS STORE TOKYO 로고 간판이 걸린 입구가 보입니다.",
+  "en": "Leave JR Akihabara's Electric Town exit and turn right (north) along the walkway under the elevated tracks. Within a minute the entrance is on your right, in the former Gundam Cafe space, marked with a TAMASHII NATIONS STORE TOKYO sign."
+ },
+ "tips": {
+  "ko": [
+   "전시물만 찍는 사진·영상 촬영은 원칙적으로 허용. 삼각대·셀카봉, 매장 내 라이브 방송, 다른 손님이 찍히는 촬영은 금지",
+   "매장 한정품은 품목별 1인 구매 수량 제한이 있고, 혼잡 시 입장 제한·정리권 또는 입장 예약제로 바뀔 수 있음. 밤샘 줄서기 금지",
+   "현금 외 신용카드(VISA·Master·JCB·AMEX 등), Suica 등 교통계 IC·전자머니, PayPay·AliPay+·WeChat Pay 등 코드 결제 가능",
+   "상품은 15세 이상 대상(15세 미만은 보호자 동반 입장만 가능, 구매 불가). 짐 보관소·화장실 없음. 면세 여부는 공식 안내에 없으므로 계산대에서 확인"
+  ],
+  "en": [
+   "Photos and video of the displays alone are allowed; tripods, selfie sticks, livestreaming inside, and filming other customers are not",
+   "Store exclusives carry per-person purchase limits; when crowded, entry may switch to numbered tickets or reservations. Overnight queuing is prohibited",
+   "Pays with cash, credit cards (VISA, Mastercard, JCB, AMEX, etc.), Suica and other e-money, and code payments such as PayPay, AliPay+ and WeChat Pay",
+   "Products are for ages 15+ (under-15s may enter with a guardian but cannot buy). No cloakroom and no customer restroom. Tax-free status is not stated officially, so ask at the register"
+  ]
+ },
+ "official_url": "https://tamashiiweb.com/store/tokyo/",
+ "sns": {
+  "x": "https://x.com/tamashii_tnt",
+  "instagram": "https://www.instagram.com/tns_tokyo/"
+ },
+ "chain": null,
+ "priority": 1,
+ "confidence": "high",
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://tamashiiweb.com/store/tokyo/",
+  "https://tamashiiweb.com/store/tokyo/about/",
+  "https://tamashiiweb.com/store/tokyo/attention/",
+  "https://tamashiiweb.com/store/tokyo/floor/",
+  "https://tamashiiweb.com/store/tokyo/calendar/",
+  "https://tamashiiweb.com/store/tokyo/news/",
+  "https://tamashiiweb.com/store/tokyo/news/detail/2026.6.26.html",
+  "https://www.bandaispirits.co.jp/press/2022/220317.php",
+  "https://akiba.keizai.biz/headline/4929/",
+  "https://akiba.keizai.biz/headline/4917/",
+  "https://hobby.watch.impress.co.jp/docs/news/1395984.html",
+  "https://visit-chiyoda.tokyo/app/spot/detail/815",
+  "https://akihabara-information.com/introduce/2507",
+  "https://www.openstreetmap.org/node/1914950014"
+ ],
+ "osm_id": "node/1914950014",
+ "photo": {
+  "url": "/photos/tamashii-nations-store-tokyo.jpg",
+  "kind": "exterior",
+  "credit": "Michael Ocampo · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:TAMASHII_NATIONS_STORE_TOKYO,_Akihabara_-_Apr_6,_2023.jpg",
+  "taken_on": "2023-04-06"
+ }
+}

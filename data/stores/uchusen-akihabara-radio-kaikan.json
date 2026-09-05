@@ -1,0 +1,119 @@
+{
+ "id": "uchusen-akihabara-radio-kaikan",
+ "name": {
+  "ko": "우추센 아키하바라 라디오회관점",
+  "en": "UCHUSEN Akihabara Radio Kaikan",
+  "ja": "宇宙船 秋葉原ラジオ会館店"
+ },
+ "synonyms": [
+  "우추센",
+  "우주선",
+  "우추센 토이즈앤피규어",
+  "우추센 라지칸",
+  "우추센 아키하바라",
+  "UCHUSEN",
+  "Uchusen Akiba",
+  "Uchusen TOYS&FIGURES",
+  "宇宙船",
+  "宇宙船 TOYS&FIGURES",
+  "うちゅうせん",
+  "ジェネシスカンパニー"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "figure",
+  "doll",
+  "scale_figure",
+  "hot_toys",
+  "military_figure",
+  "sofubi",
+  "chogokin",
+  "tokusatsu",
+  "kaiju",
+  "blythe",
+  "obitsu",
+  "imported_toys",
+  "new"
+ ],
+ "one_line": {
+  "ko": "1/6 스케일 피규어·돌, 합금 로봇, 특촬 소프비, 수입 밀리터리 피규어",
+  "en": "1/6 scale figures and dolls, die-cast robots, tokusatsu sofubi, imported military figures"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "19:30"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무. 당분간 월요일에 쉬는 경우가 있다고 공식 안내",
+   "en": "Irregular; the official page says it may close on Mondays for the time being"
+  },
+  "note": {
+   "ko": "2025년 12월 5일 공지로 평일·주말·공휴일 모두 12:00~19:30으로 단축. 건물(10:00~20:00)보다 늦게 열고 일찍 닫는다",
+   "en": "A 2025-12-05 notice shortened hours to 12:00-19:30 on all days, so it opens later and closes earlier than the building (10:00-20:00)"
+  },
+  "source_url": "http://www.uchusen.co.jp/hpgen/HPB/shop/shopguide.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 1F 입구에서 엘리베이터나 에스컬레이터로 5F. 같은 층의 카이요도 호비로비 도쿄, 라신방, 도리테리아와 나란히 있는 캐릭터 토이 전문점이다.",
+  "en": "Take the elevator or escalator from the Radio Kaikan 1F entrance to 5F; the character-toy shop sits on the same floor as Kaiyodo Hobby Lobby Tokyo, Lashinbang and Dolly Teria."
+ },
+ "tips": {
+  "ko": [
+   "12:00에 열고 19:30에 닫아 건물 영업시간(10:00~20:00)보다 짧다. 아침이나 폐점 직전에 가면 헛걸음.",
+   "핫토이즈·DAM·TBLeague 등 1/6 스케일과 오비츠 소체, 밀리터리 피규어 비중이 커서 미소녀 피규어만 찾는다면 같은 층 다른 매장이 낫다.",
+   "온라인 몰 '우추센 ONLINE'과 매장은 별도 운영이라 재고·가격이 다르고, 온라인 주문 상품을 매장에서 받을 수 없다."
+  ],
+  "en": [
+   "Open 12:00-19:30, shorter than the building's 10:00-20:00, so do not arrive early or just before closing.",
+   "Stock leans to 1/6 scale (Hot Toys, DAM, TBLeague), Obitsu bodies and military figures; for bishojo figures try the other shops on the same floor.",
+   "The online shop and the physical store are run separately: stock and prices differ, and online orders cannot be collected in store."
+  ]
+ },
+ "official_url": "http://www.uchusen.co.jp/hpgen/HPB/shop/shopguide.html",
+ "sns": {
+  "x": "https://x.com/uchusen_akiba"
+ },
+ "chain": "uchusen",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "http://www.uchusen.co.jp/hpgen/HPB/shop/shopguide.html",
+  "http://www.uchusen.co.jp/hpgen/HPB/categories/49069.html",
+  "http://www.uchusen.co.jp/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/uchusen/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+ ],
+ "osm_id": "node/10136695217"
+}

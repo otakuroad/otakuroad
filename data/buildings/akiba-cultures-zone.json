@@ -1,0 +1,86 @@
+{
+ "id": "akiba-cultures-zone",
+ "name": {
+  "ko": "AKIBA 컬처즈존",
+  "en": "AKIBA Cultures Zone",
+  "ja": "AKIBAカルチャーズZONE"
+ },
+ "location": {
+  "lat": 35.699518,
+  "lng": 139.7704
+ },
+ "address_ja": "東京都千代田区外神田1-7-6",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "hours_note": {
+  "ko": "기본 11:00~21:00이지만 층마다 다름. 1~2F 라신방 11:00~21:00, 3F·4F·6F 11:00~20:30, 5F 앳홈카페 평일 11:00~22:00·주말 및 공휴일 10:00~22:00, B1F 극장은 공연 일정에 따름. 정기휴일 없음.",
+  "en": "Nominally 11:00–21:00, but hours vary by floor: Lashinbang on 1–2F 11:00–21:00; 3F, 4F and 6F 11:00–20:30; @home cafe on 5F 11:00–22:00 weekdays and 10:00–22:00 weekends/holidays; the B1F theater follows its show schedule. No regular closing day."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 약 4분. 출구를 나와 중앙로(中央通り)를 건넌 뒤 오노덴 본관 옆길을 서쪽으로 약 100m 직진하고, 코토부키야 아키하바라관이 있는 길에서 우회전하면 코토부키야 바로 다음 건물이 왼쪽에 있음. 칸다묘진도리(神田明神通り) 건너 북쪽 대각선에 만다라케 컴플렉스.",
+  "en": "About 4 min on foot from the JR Akihabara Electric Town Exit (電気街口). Cross Chuo-dori, walk west about 100 m along the street beside Onoden, then turn right onto the street with Kotobukiya Akihabara-kan; the building is the next one past Kotobukiya on your left, with Mandarake Complex diagonally across Kanda-Myojin-dori to the north."
+ },
+ "floor_guide_url": "https://www.akibacultureszone.com/shop/",
+ "official_url": "https://www.akibacultureszone.com/",
+ "uncurated_floors": [
+  {
+   "floor": "B1F",
+   "ko": "AKIBA 컬처즈 극장 · 아이돌·성우 라이브 공연장, 공연 일정에 따라 운영",
+   "en": "AKIBA Cultures Theater · idol and voice-actor live venue, open per show schedule"
+  },
+  {
+   "floor": "3F",
+   "ko": "하비코로 완구 3개 점포(카드숍 買賊王 · 오토메 굿즈 · 미소녀 애니·게임 굿즈)와 철도모형·스케일모델 전문 스케루톤",
+   "en": "Havikoro Toy's three shops (Card Shop Kaizokuoh trading cards, otome goods, bishojo anime and game goods) plus Skeleton for rail and scale models"
+  },
+  {
+   "floor": "4F",
+   "ko": "렌탈 쇼케이스 아스톱(위탁 피규어·트레카·아이돌 굿즈)과 이벤트·팝업 공간 카루팝",
+   "en": "Astop rental showcase (consignment figures, cards, idol goods) and Culpop, its in-house event and pop-up space"
+  },
+  {
+   "floor": "5F",
+   "ko": "앳홈카페 · 5F 한 층을 쓰는 메이드카페, 돈키호테점과는 다른 지점",
+   "en": "@home cafe · maid café filling the whole of 5F; a separate branch from the one in Don Quijote"
+  },
+  {
+   "floor": "6F",
+   "ko": "TRIO DX · 자니즈·사카미치·AKB·헬로프로 등 아이돌 굿즈 중고 판매·매입 전문점",
+   "en": "TRIO DX · reuse shop buying and selling idol goods (Johnny's, Sakamichi, AKB, Hello! Project)"
+  }
+ ],
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.akibacultureszone.com/",
+  "https://www.akibacultureszone.com/access/",
+  "https://www.akibacultureszone.com/shop/",
+  "https://www.akibacultureszone.com/shop/3574",
+  "https://www.akibacultureszone.com/shop/29",
+  "https://www.akibacultureszone.com/shop/1227",
+  "https://www.akibacultureszone.com/shop/3576",
+  "https://www.akibacultureszone.com/shop/33",
+  "https://www.akibacultureszone.com/shop/1316",
+  "https://www.akibacultureszone.com/5403",
+  "https://www.lashinbang.com/",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2136836.html",
+  "https://ja.wikipedia.org/wiki/AKIBA%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BAZONE",
+  "https://visit-chiyoda.tokyo/app/spot/detail/823",
+  "https://www.gltjp.com/en/directory/item/17131/"
+ ],
+ "osm_id": "way/87148124",
+ "photo": {
+  "url": "/photos/akiba-cultures-zone.jpg",
+  "kind": "exterior",
+  "credit": "多摩に暇人 at Japanese Wikipedia · CC BY 3.0 · Wikimedia Commons",
+  "license": "CC BY 3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:AKIBA%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BAZONE.jpg",
+  "taken_on": "2012-09-17"
+ }
+}

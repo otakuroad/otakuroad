@@ -1,0 +1,112 @@
+{
+ "id": "anthem-akiba",
+ "name": {
+  "ko": "앤섬 아키바",
+  "en": "LIVEHOUSE & CLUB ANTHEM AKIBA",
+  "ja": "LIVEHOUSE＆CLUB ANTHEM AKIBA"
+ },
+ "synonyms": [
+  "앤섬 아키하바라",
+  "안템 아키바",
+  "ANTHEM AKIBA",
+  "ANTHEM 秋葉原",
+  "アンセムアキバ",
+  "アンセム秋葉原",
+  "LIVEHOUSE&CLUB ANTHEM AKIBA",
+  "anthemakiba",
+  "BOX'R AKIBAビル2階"
+ ],
+ "category": "idol",
+ "tags": [
+  "live_venue",
+  "club",
+  "dj",
+  "anison",
+  "anikura",
+  "jpop",
+  "event_space",
+  "rental_space"
+ ],
+ "one_line": {
+  "ko": "아니송·J-POP DJ 이벤트와 라이브가 열리는 2층 라이브하우스 겸 클럽",
+  "en": "Second-floor live house and club for anisong and J-POP DJ nights and live shows"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.700457,
+  "lng": 139.770129
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田3-2-12 BOX'R AKIBAビル2階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 안내의 12:00~22:00은 시설 운영 시간이며 이벤트마다 개장·개연 시간이 다르다. 당일 일정은 공식 사이트 스케줄 페이지에서 확인.",
+   "en": "The official 12:00-22:00 is the venue's operating window; door and start times differ per event, so check the schedule page on the official site."
+  },
+  "source_url": "https://anthemakiba.com/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 6분, 긴자선 스에히로초역 3번 출구에서 도보 6분. 주오도리 서쪽 뒷골목의 BOX'R AKIBA 빌딩 2층이며, 같은 건물 지하 1층은 TwinBox AKIHABARA, 1층은 TwinBox GARAGE라 층을 확인하고 올라간다.",
+  "en": "Six minutes from the JR Akihabara Electric Town exit, or six minutes from exit 3 of Suehirocho on the Ginza line. It is 2F of the BOX'R AKIBA building on the back street west of Chuo-dori; TwinBox AKIHABARA is in the basement and TwinBox GARAGE on 1F of the same building, so check the floor."
+ },
+ "tips": {
+  "ko": [
+   "입장 시 전원 드링크대 700엔이 별도로 붙는다.",
+   "입장할 때 사진이 있는 신분증으로 연령 확인을 하며, 도쿄도 조례에 따라 22시 이후에는 18세 미만이 입장할 수 없다.",
+   "무대 뒤에 가로 7m×세로 2m LED 월이 있어 DJ·아니클럽 이벤트의 영상 연출이 큰 편이다.",
+   "이벤트 대관도 받는 공간이라 날마다 성격이 다르다. 아니송 DJ 이벤트인지 밴드 라이브인지 스케줄에서 먼저 확인."
+  ],
+  "en": [
+   "Everyone pays a separate 700 yen drink charge on entry.",
+   "Photo ID is checked at the door, and under-18s cannot enter after 22:00 under Tokyo regulations.",
+   "A 7 m by 2 m LED wall behind the stage gives DJ and anime-club nights heavy visuals.",
+   "The room is also rented out, so the programme changes daily; check the schedule to see whether it is an anisong DJ night or a band show."
+  ]
+ },
+ "official_url": "https://anthemakiba.com/",
+ "sns": {
+  "x": "https://x.com/anthemakiba",
+  "instagram": "https://www.instagram.com/anthemakiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://anthemakiba.com/",
+  "https://anthemakiba.com/about",
+  "https://anthemakiba.com/rental"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,121 @@
+{
+ "id": "maidreamin-akihabara-akiba",
+ "name": {
+  "ko": "메이드리밍 아키하바라 AKIBA",
+  "en": "Maidreamin Akihabara AKIBA",
+  "ja": "めいどりーみん 秋葉原 AKIBA"
+ },
+ "synonyms": [
+  "메이드리밍",
+  "메이드리밍 AKIBA",
+  "메이드리밍 아키하바라 AKIBA",
+  "메이드리밍 히미츠키치",
+  "Maidreamin AKIBA",
+  "maidreamin Akihabara AKIBA",
+  "めいどりーみん秋葉原AKIBA",
+  "秋葉原AKIBA",
+  "めいどりーみん秋葉原ひみつきち",
+  "秋葉原ひみつきち",
+  "メイドリーミン"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "maid",
+  "omurice",
+  "cheki",
+  "no_smoking",
+  "free_wifi",
+  "hyper_event"
+ ],
+ "one_line": {
+  "ko": "메이드 카페 지점, 카운터 14석·테이블 16석. 오므라이스와 메이드 체키 촬영",
+  "en": "Maidreamin branch with 14 counter and 16 table seats: omurice and cheki photos"
+ },
+ "building_id": null,
+ "floors": [
+  "3F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699323,
+  "lng": 139.769866
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-4 銭谷ビル3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue"
+    ],
+    "open": "11:30",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "월·화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점. 폐점은 매일 23:00.",
+   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily."
+  },
+  "source_url": "https://maidreamin.com/shop/detail.html?id=2"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역에서 도보 3분. 주오도리 서쪽 뒷골목의 6층짜리 제니야(銭谷) 빌딩 3층이며, 같은 건물에 다른 콘셉트 카페들이 함께 들어와 있으니 층 표시를 확인한다. 2025년 5월 17일 '秋葉原ひみつきち'에서 지금 이름으로 바뀌어 옛 간판·지도 표기가 남아 있다.",
+  "en": "Three minutes from JR Akihabara, on 3F of the six-storey Zeniya Building on the back streets west of Chuo-dori; other concept cafes share the building, so check the floor sign. It was renamed from 'Akihabara Himitsukichi' on 17 May 2025, so the old name still appears on some maps."
+ },
+ "tips": {
+  "ko": [
+   "요금은 1인 1시간 입장료 880엔 + 1주문이며 연장도 1시간 880엔. HYPER 이벤트 시간대는 1시간 3,800엔 음료 무제한.",
+   "카운터 14석·테이블 16석의 소규모 점포라 단체는 예약이 안전하다. 월·화요일은 11:30, 그 외에는 10:30 개점.",
+   "전 좌석 금연, 무료 Wi-Fi와 휴대폰 충전 가능. 주요 신용카드와 PayPay·au PAY·라쿠텐페이·은련카드 결제 가능."
+  ],
+  "en": [
+   "880 yen per person per hour plus one order, and 880 yen for each extension; HYPER slots are 3,800 yen an hour with free drinks.",
+   "It is small (14 counter and 16 table seats), so book ahead for a group. Opens 11:30 Mon-Tue and 10:30 otherwise.",
+   "No smoking, free Wi-Fi and phone charging. Major credit cards plus PayPay, au PAY, Rakuten Pay and UnionPay are accepted."
+  ]
+ },
+ "official_url": "https://maidreamin.com/shop/detail.html?id=2",
+ "sns": {
+  "x": "https://x.com/akb_maidreamin",
+  "instagram": "https://www.instagram.com/akb_maidreamin/"
+ },
+ "chain": "maidreamin",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://maidreamin.com/shop/detail.html?id=2",
+  "https://maidreamin.com/shop/",
+  "https://maidreamin.com/information/detail.html?id=16654",
+  "https://maidreamin.com/first/charge.html",
+  "https://akiba.or.jp/store/s190"
+ ],
+ "osm_id": "node/2277871464"
+}

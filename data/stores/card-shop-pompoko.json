@@ -1,0 +1,91 @@
+{
+ "id": "card-shop-pompoko",
+ "name": {
+  "ko": "카드숍 폰포코",
+  "en": "Card Shop Pompoko",
+  "ja": "カードショップ ポンポコ"
+ },
+ "synonyms": [
+  "폰포코",
+  "카드샵 폰포코",
+  "폰포코 아키하바라",
+  "폰폰코",
+  "ポンポコ",
+  "カードショップポンポコ",
+  "カードショップ ポンポコ",
+  "Card Shop Ponpoko",
+  "cardshop pompoko",
+  "CardshopPonpoko"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "duel_masters",
+  "singles",
+  "oripa",
+  "sealed",
+  "supplies",
+  "buyback",
+  "duel_space",
+  "tournament",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·듀얼마스터즈 싱글과 오리파를 파는 지하 1층·1층 매장",
+  "en": "B1F and 1F shop selling Pokemon, One Piece and Duel Masters singles and oripa"
+ },
+ "building_id": null,
+ "floors": [
+  "B1F",
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.698082,
+  "lng": 139.770515
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "東京都千代田区外神田1-2-14 紀伊國屋ビル B1F・1F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 도보 3분. 포켓몬 카드 전문점 하레루야2 아키하바라 타워(외신다 1-2-13) 바로 옆 기노쿠니야 빌딩으로, 1층 도로변 매장과 지하 1층 매장이 이어져 있다.",
+  "en": "Three minutes south of the JR Electric Town Exit along Chuo-dori, in the Kinokuniya Building right beside the Pokemon-card specialist Hareruya2 Akihabara Tower (Sotokanda 1-2-13). The street-level 1F shop continues down to a second floor in the basement."
+ },
+ "tips": {
+  "ko": [
+   "2023년 8월 이전 자리에서 옮겨오며 면적이 커진 매장으로, 오리파와 싱글카드에 힘을 주고 있다.",
+   "공식 홈페이지가 없다. 秋葉原トレカマップ 기준 영업시간은 평일 13:00-21:00, 토·일·공휴일 11:00-21:00, 매입 19:00까지, 무휴이며 방문 전 X(@CardshopPonpoko) 확인 권장.",
+   "대전 스페이스 66석이 있어 포켓몬·원피스·듀얼마스터즈 대회가 열린다."
+  ],
+  "en": [
+   "It moved to this larger site in August 2023 and puts its weight behind oripa packs and singles.",
+   "There is no official website. The Akihabara Toreka Map directory lists 13:00-21:00 on weekdays and 11:00-21:00 on weekends and holidays, buyback to 19:00, no closing day - check X (@CardshopPonpoko) before going.",
+   "A 66-seat duel space hosts Pokemon, One Piece and Duel Masters tournaments."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/CardshopPonpoko"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibatoreka.com/introduce/2575",
+  "https://x.com/CardshopPonpoko"
+ ],
+ "osm_id": "node/10284209436"
+}

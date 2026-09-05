@@ -1,0 +1,108 @@
+{
+ "id": "grandcypher-kitchen-akihabara",
+ "name": {
+  "ko": "그랑사이퍼 키친",
+  "en": "Grandcypher KITCHEN",
+  "ja": "グランサイファーキッチン"
+ },
+ "synonyms": [
+  "그란사이퍼 키친",
+  "그랑블루 판타지 카페",
+  "그브루 콜라보 카페",
+  "Grancypher Kitchen",
+  "Gran Cypher Kitchen",
+  "Granblue Fantasy Cafe",
+  "グランサイファーキッチン 秋葉原",
+  "グラブル コラボカフェ",
+  "グランサイファーKITCHEN"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "collab_cafe",
+  "game_collab",
+  "granblue_fantasy",
+  "cygames",
+  "reservation",
+  "coaster"
+ ],
+ "one_line": {
+  "ko": "그랑블루 판타지 공식 콜라보 식당. 캐릭터 요리·디저트와 직업별 코스터",
+  "en": "Official Granblue Fantasy collaboration restaurant with character dishes and job coasters"
+ },
+ "building_id": "pasela-akiba",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-1-10 パセラリゾーツAKIBAマルチエンターテインメント2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "11:30",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라스트오더는 평일 20:20, 토·일·공휴일 21:50. 7월 21일~8월 31일 여름 기간에는 평일도 주말과 같은 10:00~22:30으로 운영한다.",
+   "en": "Last order is 20:20 on weekdays and 21:50 on weekends and holidays. From 21 July to 31 August, weekdays also run on the weekend timetable of 10:00-22:30."
+  },
+  "source_url": "https://www.pasela.co.jp/paselabo_shop/grandcypher-kitchen/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "파세라 리조트 AKIBA 건물 2층으로, 같은 층의 에오르제아 카페와 나란히 있다. 1층 카라오케 파세라 접수 옆 엘리베이터나 계단으로 올라간다. 게임 속 비공정 '그란사이퍼'에서 딴 이름이다.",
+  "en": "On 2F of Pasela Resorts AKIBA, next door to the Eorzea Cafe; go up by the lift or stairs beside the 1F Karaoke Pasela reception. It is named after the Granblue Fantasy airship Grandcypher."
+ },
+ "tips": {
+  "ko": [
+   "1인당 테이블 차지 1,200엔과 1주문제가 적용된다. 메뉴 가격은 게임 화폐 '루피'로 표기되며 990~1,650루피(엔) 선.",
+   "주문한 메뉴에 따라 직업(잡) 일러스트 코스터를 증정한다.",
+   "예약은 TableCheck 웹에서 1개월 전부터 받으며, 자리가 있으면 예약 없이도 입장할 수 있다."
+  ],
+  "en": [
+   "A 1,200 yen per-person table charge applies plus a one-order minimum; menu prices are written in the game currency 'rupies' and run about 990-1,650.",
+   "Dishes come with a job-class illustration coaster.",
+   "Reservations open a month ahead on TableCheck, and walk-ins are accepted when seats are free."
+  ]
+ },
+ "official_url": "https://www.pasela.co.jp/paselabo_shop/grandcypher-kitchen/",
+ "sns": {},
+ "chain": "pasela",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.pasela.co.jp/paselabo_shop/grandcypher-kitchen/",
+  "https://www.pasela.co.jp/shop/akiba_multi/",
+  "https://www.pasela.co.jp/shop/akiba_multi/map.html"
+ ],
+ "osm_id": "node/10232149780"
+}

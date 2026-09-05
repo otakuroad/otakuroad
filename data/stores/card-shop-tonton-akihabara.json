@@ -1,0 +1,118 @@
+{
+ "id": "card-shop-tonton-akihabara",
+ "name": {
+  "ko": "카드숍 톤톤 아키하바라점",
+  "en": "Card Shop Tonton Akihabara",
+  "ja": "カードショップとんとん秋葉原店"
+ },
+ "synonyms": [
+  "톤톤",
+  "카드숍 톤톤",
+  "카드샵 톤톤",
+  "톤톤 아키하바라",
+  "Card Shop Tonton",
+  "cardshop tonton",
+  "tonton",
+  "とんとん",
+  "カードショップとんとん",
+  "カードショップとんとん秋葉原店1F",
+  "カードショップ とんとん",
+  "株式会社とんとん"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "singles",
+  "oripa",
+  "buyback",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스 카드 싱글과 오리파를 파는 1·2층 카드 전문점, 현금 즉시 매입",
+  "en": "Pokemon and One Piece card singles and oripa packs on two floors, with cash buyback"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701605,
+  "lng": 139.769474
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-5-1 エトランゼ18秋葉原101・201（1F・2F）",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "목요일 정기휴무",
+   "en": "Closed on Thursdays"
+  },
+  "note": {
+   "ko": "매장 X 계정이 알리는 영업시간은 13:00-20:00, 매입 접수는 13:00-19:30. 목요일 정기휴무는 일본 트레카 매장 안내에 실린 내용이며 공식 페이지에는 명시가 없으므로 방문 전 X(@cardshop_tonton) 확인 권장.",
+   "en": "The shop's own X account gives 13:00-20:00 for the store and 13:00-19:30 for the buyback counter. The Thursday closure comes from Japanese card-shop directories rather than an official page, so check X (@cardshop_tonton) before going."
+  },
+  "source_url": "https://x.com/cardshop_tonton/status/2043539688972304429"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 8분, 도쿄메트로 스에히로초역에서 도보 5분. 주오도리에서 서쪽으로 두 블록 떨어진 쇼헤이바시도리(昌平橋通り) 변, 호린공원(芳林公園)과 쇼헤이 초등학교 입구 뒤편에 있는 9층 신축 빌딩 '에트란제18 아키하바라'가 목표물. 도로에 면한 1층 매장이 톤톤이고 매장 안쪽 계단·엘리베이터로 2층 매장과 이어진다.",
+  "en": "Eight minutes from the JR Akihabara Electric Town Exit, five from Tokyo Metro Suehirocho. Two blocks west of Chuo-dori on Shoheibashi-dori, behind Horin Park and the Shohei elementary school entrance, look for the nine-storey 2023-built Etranze 18 Akihabara. Tonton is the street-level shop on 1F, with a second sales floor upstairs on 2F."
+ },
+ "tips": {
+  "ko": [
+   "포켓몬 카드와 원피스 카드가 중심이고, 매입 대금은 전액 현금으로 즉시 지급한다.",
+   "오리파(랜덤 팩)를 상시 판매하며 온라인(BASE 스토어)에서도 같은 오리파를 살 수 있다.",
+   "같은 건물 3층에 카드 전문점 NEO가 있어 한 번에 두 곳을 볼 수 있다. 건물 엘리베이터는 1대뿐이라 주말에는 계단이 빠르다."
+  ],
+  "en": [
+   "Pokemon and One Piece cards are the core stock, and buyback is paid out in cash on the spot.",
+   "Oripa (random packs) are always in stock and the same packs are sold through the shop's BASE online store.",
+   "trading card shop NEO is on 3F of the same building, so both can be done in one stop. The building has only one lift, so the stairs are quicker at weekends."
+  ]
+ },
+ "official_url": "https://kaitoriton.base.shop/",
+ "sns": {
+  "x": "https://x.com/cardshop_tonton",
+  "instagram": "https://www.instagram.com/cardshop_tonton/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://kaitoriton.base.shop/",
+  "https://kaitoriton.base.shop/law",
+  "https://x.com/cardshop_tonton/status/2043539688972304429",
+  "https://akiba-asterisk.blog.jp/archives/59365742.html",
+  "https://1-3rdrealestate.com/diary-detail-579615/",
+  "https://map.yahoo.co.jp/v3/place/Un9iw7imUtg"
+ ],
+ "osm_id": "node/14050165221"
+}

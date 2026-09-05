@@ -1,0 +1,144 @@
+{
+ "id": "dragon-star-akihabara",
+ "name": {
+  "ko": "드래곤스타 아키하바라점",
+  "en": "Dragon Star Akihabara",
+  "ja": "ドラゴンスター秋葉原店"
+ },
+ "synonyms": [
+  "드래곤스타",
+  "드래곤스타 아키하바라",
+  "도라스타",
+  "도라스타 아키하바라점",
+  "Dragon Star",
+  "Dragon Star Akihabara-ten",
+  "dorasuta",
+  "ドラゴンスター",
+  "ドラゴンスター　秋葉原店",
+  "ドラスタ秋葉原",
+  "ドラスタ秋葉原店",
+  "アキバスタービル 2F 3F",
+  "安川ビル"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "singles",
+  "sealed",
+  "oripa",
+  "buyback",
+  "yugioh",
+  "duel_masters",
+  "battle_spirits",
+  "vanguard",
+  "digimon_card",
+  "pokemon_card",
+  "one_piece_card",
+  "union_arena",
+  "love_live_card",
+  "hololive_card",
+  "gundam_card",
+  "shadowverse"
+ ],
+ "one_line": {
+  "ko": "2층 유희왕·듀얼마스터즈, 3층 포켓몬·원피스 등 트레카 낱장 판매와 매입",
+  "en": "Singles and buy-back: Yu-Gi-Oh! and Duel Masters on 2F, Pokemon and One Piece on 3F"
+ },
+ "building_id": null,
+ "floors": [
+  "2F",
+  "3F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "2F",
+   "ko": "유희왕 OCG·듀얼마스터즈·배틀 스피리츠·뱅가드·디지몬 카드게임 낱장과 팩",
+   "en": "Yu-Gi-Oh! OCG, Duel Masters, Battle Spirits, Vanguard and Digimon Card Game singles and sealed"
+  },
+  {
+   "floor": "3F",
+   "ko": "러브라이브·홀로라이브·원피스·유니온아리나·건담 카드게임·아세널 베이스·포켓몬 카드",
+   "en": "Love Live!, hololive, ONE PIECE, UNION ARENA, Gundam Card Game, Arsenal Base and Pokemon cards"
+  }
+ ],
+ "location": {
+  "lat": 35.699158,
+  "lng": 139.770295
+ },
+ "street_segment": "ura_dori",
+ "address_ja": "東京都千代田区外神田1-8-11 アキバスタービル2F・3F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:30",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "평일 12:00, 토·일·공휴일 10:30 개점이며 마감은 모두 20:00. 매입 접수는 그보다 1~2시간 일찍 끝난다.",
+   "en": "Opens 12:00 on weekdays and 10:30 at weekends and holidays, closing at 20:00 every day. Buy-back intake ends one to two hours earlier."
+  },
+  "source_url": "https://dorasuta.jp/shop/detail?scd=9"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리를 건너 한 블록 서쪽 뒷골목의 외신다 1-8-11 아키바스타 빌딩으로, 지도에 따라서는 같은 자리를 야스카와(安川) 빌딩으로 표기한다. 매장은 2층과 3층 두 층이고 1층은 다른 점포다.",
+  "en": "Three minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori at Sotokanda 1-8-11 (Akiba Star Building; some maps label the same spot Yasukawa Building). The shop occupies 2F and 3F — the ground floor is a different business."
+ },
+ "tips": {
+  "ko": [
+   "층에 따라 취급 타이틀이 완전히 갈린다. 유희왕·듀얼마스터즈·배틀 스피리츠·뱅가드·디지몬은 2층, 포켓몬·원피스·러브라이브·홀로라이브·유니온아리나는 3층.",
+   "대전 공간(듀얼 스페이스)이 없는 매장이다. 카드를 사서 바로 플레이할 생각이라면 대전석 80개가 있는 역앞점으로 가야 한다.",
+   "현금과 각종 신용카드를 받는다. 주차장은 없고 인근 코인 주차장을 써야 한다.",
+   "재고 입하나 매입가는 전화 문의를 받지 않는다. 시세는 공식 X 계정(@ds_akiba)에서 확인하는 편이 빠르다."
+  ],
+  "en": [
+   "The two floors split cleanly: Yu-Gi-Oh!, Duel Masters, Battle Spirits, Vanguard and Digimon on 2F; Pokemon, ONE PIECE, Love Live!, hololive and UNION ARENA on 3F.",
+   "There is no duel space here. To buy cards and play on the spot, go to the Ekimae branch with its 80 seats.",
+   "Cash and major credit cards are accepted. No parking; use a nearby coin lot.",
+   "Staff do not take phone questions about stock or buy-back prices; the official X account (@ds_akiba) posts prices instead."
+  ]
+ },
+ "official_url": "https://dorasuta.jp/shop/detail?scd=9",
+ "sns": {
+  "x": "https://x.com/ds_akiba"
+ },
+ "chain": "dragon-star",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://dorasuta.jp/shop/detail?scd=9",
+  "https://dorasuta.jp/shop",
+  "https://akibatoreka.com/introduce/1101",
+  "https://x.com/ds_akiba",
+  "https://www.openstreetmap.org/node/10284193854",
+  "https://www.openstreetmap.org/way/89181579"
+ ],
+ "osm_id": "node/10284193854"
+}

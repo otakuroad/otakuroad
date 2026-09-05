@@ -1,0 +1,145 @@
+{
+ "id": "animate-akihabara-2",
+ "name": {
+  "ko": "애니메이트 아키하바라 2호관",
+  "en": "animate Akihabara 2nd Building",
+  "ja": "アニメイト秋葉原2号館"
+ },
+ "synonyms": [
+  "애니메이트 2호관",
+  "애니메이트 아키하바라 서적관",
+  "애니메이트 아키바 2호관",
+  "애니메이트 서적관",
+  "animate Akihabara Building 2",
+  "animate Akihabara Bldg. 2",
+  "Animate Akihabara 2-gokan",
+  "アニメイト秋葉原 2号館",
+  "アニメイト秋葉原書籍館",
+  "アニメイト秋葉原2号店"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "new",
+  "manga",
+  "light_novel",
+  "art_book",
+  "photobook",
+  "magazine",
+  "bl",
+  "square_enix",
+  "gacha",
+  "r18",
+  "tax_free"
+ ],
+ "one_line": {
+  "ko": "애니메이트 아키하바라의 서적관. 신간·기간 만화, 라노벨, 화집, 잡지를 층별로 판매",
+  "en": "animate Akihabara's book building: new and back-catalogue manga, light novels, art books"
+ },
+ "building_id": null,
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F"
+ ],
+ "floor_guide": [
+  {
+   "floor": "1F",
+   "ko": "신간 서적 — 코믹·사진집·화집·양서 중 추천 신간을 대형 전개. 캡슐토이 가동",
+   "en": "New releases: comics, photo books, art books and foreign-language books, plus capsule-toy machines"
+  },
+  {
+   "floor": "2F",
+   "ko": "스퀘어에닉스 코너 — 드래곤 퀘스트·파이널 판타지·킹덤 하츠·니어 오토마타의 서적·음반·굿즈",
+   "en": "Square Enix corner: Dragon Quest, Final Fantasy, KINGDOM HEARTS and NieR:Automata books, audio and goods"
+  },
+  {
+   "floor": "3F",
+   "ko": "신간 코너 — 신간 코믹·노벨·화집·사진집(일부 기간본도 취급)",
+   "en": "New-release corner: new comics, novels, art books and photo books (some back catalogue too)"
+  },
+  {
+   "floor": "4F",
+   "ko": "기간 코너 — 소년·청년 코믹, 라노벨·문예서. 성년(18금) 코믹 신간·기간·잡지도 이 층",
+   "en": "Back catalogue: shonen and seinen comics, light novels and fiction; the 18+ adult-comic section is also here"
+  },
+  {
+   "floor": "5F",
+   "ko": "잡지 최신호와 기간 코너 — 청년 코믹, 소녀·여성향 코믹, BL 코믹·노벨",
+   "en": "Latest magazines plus back catalogue: seinen comics, shojo/josei comics, BL comics and novels"
+  }
+ ],
+ "location": {
+  "lat": 35.700356,
+  "lng": 139.771708
+ },
+ "street_segment": "chuo_dori",
+ "address_ja": "〒101-0021 東京都千代田区外神田4-3-1 アニメイト秋葉原2号館",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "1호관과 같은 시간(전 요일 10:00–21:00). ANNEX만 토·일·공휴일 20:00 마감이며 전화 접수는 전일 10:00–20:00",
+   "en": "Same hours as the 1st Building (10:00-21:00 every day). Only the ANNEX closes at 20:00 on weekends and holidays; the phone desk runs 10:00-20:00 daily"
+  },
+  "source_url": "https://www.animate.co.jp/shop/akihabara/"
+ },
+ "tax_free": true,
+ "payment": "cards_ok",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "주오도리 동쪽 보도에 파란 animate 간판 건물이 세 채 늘어서 있고, 그중 역에서 가까운 남쪽 첫 건물이 2호관이다. 공식 안내도 '앞쪽 건물이 서적·온리숍의 2호관, 안쪽이 굿즈의 1호관'이라고 적고 있다. 전기가 출구에서 주오도리를 따라 북쪽으로 약 5분.",
+  "en": "Three blue 'animate' buildings stand in a row on the east side of Chuo-dori; the 2nd Building is the nearest (southern) one. The official access page says the front building is the 2nd Building for books and only-shops, the one behind it the 1st Building for goods. About 5 minutes north from the Electric Town exit."
+ },
+ "tips": {
+  "ko": [
+   "만화·라노벨·화집·잡지는 이 2호관, 캐릭터 굿즈·CD·BD·게임은 바로 북쪽 1호관, 캡슐토이와 게임 작품 굿즈는 ANNEX로 나뉘어 있다",
+   "4층에 성년(18금) 코믹 코너가 있어 해당 매대에서는 연령 확인을 받을 수 있다",
+   "면세 대응. 신용카드·교통계 IC·PayPay·Alipay·WeChat Pay와 도서카드NEXT까지 사용 가능",
+   "2026년 8월 8일 리뉴얼이 끝나 전 층 정상 영업 중이며, 매장 이동이 있을 수 있으니 층 안내를 확인"
+  ],
+  "en": [
+   "Books are here in the 2nd Building; character goods, CDs, BDs and games are in the 1st Building just north, and capsule toys and game-title goods in the ANNEX",
+   "4F has an 18+ adult-comic section, where staff may ask for age verification",
+   "Tax-free. Credit cards, transit IC cards, PayPay, Alipay, WeChat Pay and Tosho Card NEXT are accepted",
+   "The renewal finished on 2026-08-08 and all floors are trading; some sections may still be moving, so check the floor signs"
+  ]
+ },
+ "official_url": "https://www.animate.co.jp/shop/akihabara/",
+ "sns": {
+  "x": "https://x.com/animateakiba"
+ },
+ "chain": "animate",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.animate.co.jp/shop/akihabara/",
+  "https://www.animate.co.jp/shop/akihabara/floor/",
+  "https://www.animate.co.jp/shop/akihabara/access/"
+ ],
+ "osm_id": "node/13390443972"
+}

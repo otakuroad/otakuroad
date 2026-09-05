@@ -1,0 +1,77 @@
+{
+ "id": "toreca-lounge-akihabara",
+ "name": {
+  "ko": "TCG 라운지 아키하바라",
+  "en": "TCG LOUNGE Akihabara",
+  "ja": "TCG LOUNGE 秋葉原"
+ },
+ "synonyms": [
+  "TCG 라운지",
+  "티씨지 라운지",
+  "트레카 라운지",
+  "토레카 라운지",
+  "TCG LOUNGE",
+  "TCG Lounge Akihabara",
+  "トレカラウンジ",
+  "トレカラウンジ 秋葉原",
+  "ニュー末広ビル201"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "singles",
+  "play_space",
+  "lounge",
+  "drinks",
+  "pokemon_card"
+ ],
+ "one_line": {
+  "ko": "트레카 싱글카드를 팔고 유료 플레이 공간과 음료를 갖춘 2층 카드 라운지",
+  "en": "Second-floor trading card lounge selling singles, with a paid play space and drinks"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.703403,
+  "lng": 139.772175
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田5-1-3 ニュー末広ビル201",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역 바로 옆, 주오도리 북쪽 끝의 '뉴 스에히로 빌딩(ニュー末広ビル)' 2층 201호. 1층에 간판이 작아 건물 이름을 보고 찾는 편이 빠르다.",
+  "en": "Right by Suehirocho station on the Ginza Line, at the north end of Chuo-dori: room 201 on 2F of the New Suehiro Building. The street-level sign is small, so look for the building name."
+ },
+ "tips": {
+  "ko": [
+   "아키하바라 중심부에서 도보로 10분 이상 떨어진 스에히로초 쪽이라 다른 카드숍과 묶어 가기 어렵다.",
+   "영업시간과 플레이 공간 요금은 공식 안내를 찾지 못했으므로 방문 전 확인이 필요하다."
+  ],
+  "en": [
+   "It sits at the Suehirocho end, over ten minutes' walk from the main Akihabara card-shop cluster.",
+   "No official page for hours or play-space fees could be found, so check before going."
+  ]
+ },
+ "official_url": null,
+ "sns": {},
+ "chain": null,
+ "priority": 3,
+ "confidence": "low",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.openstreetmap.org/node/12921056817"
+ ],
+ "osm_id": "node/12921056817"
+}

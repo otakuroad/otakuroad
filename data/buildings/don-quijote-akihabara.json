@@ -1,0 +1,109 @@
+{
+ "id": "don-quijote-akihabara",
+ "name": {
+  "ko": "돈키호테 아키하바라점",
+  "en": "Don Quijote Akihabara",
+  "ja": "ドン・キホーテ秋葉原店"
+ },
+ "location": {
+  "lat": 35.700731,
+  "lng": 139.771891
+ },
+ "address_ja": "東京都千代田区外神田4-3-3",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "돈키호테 본매장은 24시간 연중무휴. 입주 매장은 각자 영업시간이 다르다: 1F 노점·환전소 대략 10:00~22:00, 5F 앳홈카페 돈키점 11:00~22:00, 6F·7F 도쿄 레저랜드 10:00~23:55, 8F AKB48 극장은 공연 있는 날 저녁에만 연다.",
+  "en": "Don Quijote's own floors run 24 hours, every day. Tenants keep their own hours: 1F stalls and the exchange counter roughly 10:00–22:00, @home cafe (5F) 11:00–22:00, Tokyo Leisure Land arcade (6F–7F) 10:00–23:55, and the AKB48 Theater (8F) opens only around performances."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구로 나와 UDX 방면으로 걸어 주오도리에 닿으면, 우에노·오카치마치 방향(북쪽)으로 약 3분. 또는 UDX 2층 데크로 올라가 끝까지 걸으면 왼쪽에 돈키호테 간판이 보이고, 데크를 내려 주오도리로 나오면 30초 거리.",
+  "en": "From the JR Akihabara Electric Town exit, walk toward UDX to reach Chuo-dori, then about 3 minutes north toward Ueno/Okachimachi. Alternatively take the UDX 2nd-floor deck to its far end (Don Quijote is visible on the left), descend to Chuo-dori, and it is 30 seconds away."
+ },
+ "floor_guide_url": "https://www.donki.com/store/shop_detail.php?shop_id=98#tenant",
+ "official_url": "https://www.donki.com/store/shop_detail.php?shop_id=98",
+ "osm_id": "way/89182734",
+ "uncurated_floors": [
+  {
+   "floor": "B1F",
+   "ko": "파칭코·슬롯 「아일랜드」 (B1F·1F 두 층, 10:00~22:45)",
+   "en": "Island pachinko & slot parlor, spanning B1F and 1F, 10:00–22:45"
+  },
+  {
+   "floor": "1F",
+   "ko": "주오도리 쪽 입구 · 스마일리 크레페, 튀김샌드 SANDO LAB TOKYO, 소꼬치 마루주 정육점, 아키하바라 머니 익스체인지 환전소, 피규어점 「오모챠노 MARURU」",
+   "en": "Chuo-dori entrance · Smiley Crepe, SANDO LAB TOKYO fried sandwiches, Marujyu beef skewers, Akihabara Money Exchange, and the figure shop Omocha no MARURU"
+  },
+  {
+   "floor": "2F",
+   "ko": "돈키호테 본매장 (잡화·식품·화장품, 애니·아이돌·VTuber 콜라보 굿즈)",
+   "en": "Don Quijote sales floor (general goods, food, cosmetics, anime/idol/VTuber collab goods)"
+  },
+  {
+   "floor": "3F",
+   "ko": "돈키호테 본매장",
+   "en": "Don Quijote sales floor"
+  },
+  {
+   "floor": "4F",
+   "ko": "돈키호테 본매장",
+   "en": "Don Quijote sales floor"
+  },
+  {
+   "floor": "5F",
+   "ko": "돈키호테 코스프레관(의상 약 1,400벌) + 앳홈카페 돈키점(메이드카페, 11:00~22:00)",
+   "en": "Don Quijote cosplay hall (about 1,400 costumes) + @home cafe Donki branch (maid cafe, 11:00–22:00)"
+  },
+  {
+   "floor": "6F",
+   "ko": "도쿄 레저랜드 아키하바라 2호점 (오락실, 6F·7F, 10:00~다음 날 1:00)",
+   "en": "Tokyo Leisure Land Akihabara No.2 (arcade, 6F–7F, 10:00–01:00)"
+  },
+  {
+   "floor": "7F",
+   "ko": "도쿄 레저랜드 아키하바라 2호점 (오락실, 6F·7F, 10:00~다음 날 1:00)",
+   "en": "Tokyo Leisure Land Akihabara No.2 (arcade, 6F–7F, 10:00–01:00)"
+  }
+ ],
+ "verified_at": "2026-09-04",
+ "source_urls": [
+  "https://www.donki.com/store/shop_detail.php?shop_id=98",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=32",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=34",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=33",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=38",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=10180",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=3859",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=36",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=1418",
+  "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=2548",
+  "https://www.donki.com/en/store/shop_detail.php?shop_id=98",
+  "https://www.yamazakiya.co.jp/shop/syutoken/",
+  "https://www.cafe-athome.com/cafes",
+  "https://www.akb48.co.jp/theater",
+  "https://ja.wikipedia.org/wiki/AKB48%E5%8A%87%E5%A0%B4",
+  "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8A%E3%83%9F%E9%9B%BB%E6%B0%97%E9%A4%A8",
+  "https://bb-building.net/tokyo/deta/051.html",
+  "https://akihabara.kokosil.net/ja/place/00001c00000000000002000000340662",
+  "https://rurubu.jp/andmore/spot/80010457",
+  "https://visit-chiyoda.tokyo/app/spot/detail/810",
+  "https://japanshopping.org/ja/search/shops/detail/268"
+ ],
+ "photo": {
+  "url": "/photos/don-quijote-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Farrell010427 · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Don_Quijote_Akiba_at_Night_-_2019.11.27.jpg",
+  "taken_on": "2019-11-27"
+ }
+}

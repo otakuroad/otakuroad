@@ -1,0 +1,110 @@
+{
+ "id": "bookoff-akihabara-ekimae",
+ "name": {
+  "ko": "북오프 아키하바라 역앞점",
+  "en": "BOOKOFF Akihabara Ekimae",
+  "ja": "BOOKOFF 秋葉原駅前店"
+ },
+ "synonyms": [
+  "북오프",
+  "북오프 아키하바라",
+  "부코후",
+  "북 오프 아키하바라역앞점",
+  "북오프 아키하바라역전점",
+  "BOOKOFF Akihabara",
+  "Book Off Akihabara",
+  "Bookoff Akiba",
+  "ブックオフ 秋葉原駅前店",
+  "ブックオフ秋葉原",
+  "BOOKOFF秋葉原"
+ ],
+ "category": "doujin_manga",
+ "tags": [
+  "used",
+  "manga",
+  "light_novel",
+  "trading_card",
+  "figure",
+  "game_software",
+  "cd_dvd",
+  "plamo",
+  "model_train",
+  "buyback",
+  "anime_goods"
+ ],
+ "one_line": {
+  "ko": "중고 만화·라노베·게임 소프트에 트레카·피규어까지 다루는 아키하바라 유일의 북오프",
+  "en": "Used manga, light novels, game software, cards and figures at Akihabara's only Book-Off"
+ },
+ "building_id": null,
+ "floors": [],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.697748,
+  "lng": 139.773479
+ },
+ "street_segment": "showa_dori",
+ "address_ja": "〒101-0025 東京都千代田区神田佐久間町1-6-4",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 접수 시간이 품목별로 다르다. 서적·CD·레코드·DVD·블루레이·게임 소프트는 22:00까지, 가전·스마트폰·게임기 본체·호비·트레카는 21:00까지.",
+   "en": "Buyback cut-offs differ by genre: books, CDs, records, DVDs, Blu-ray and game software until 22:00; appliances, phones, game hardware, hobby items and trading cards until 21:00."
+  },
+  "source_url": "https://www.bookoff.co.jp/shop/shop20396.html"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 중앙개찰구를 오른쪽으로 나와 막다른 곳에서 우회전, 쇼핑몰 아키바 트림(アキバ・トリム) 바로 옆. 역에서 도보 1분. 츠쿠바 익스프레스는 A1 출구를 오른쪽으로 나와 막다른 곳에서 우회전, 히비야선은 3번 출구로 나와 바로 우회전.",
+  "en": "Leave the JR Akihabara central gate to the right, turn right at the end of the passage; the store is right beside the Akiba Trim mall, one minute from the station. From the Tsukuba Express take exit A1 to the right then turn right at the end; from the Hibiya line take exit 3 and turn right immediately."
+ },
+ "tips": {
+  "ko": [
+   "아키하바라 지역의 유일한 북오프이며 중형 점포. 만화 세트·라이트노벨과 트레카·피규어 코너가 이 지도 이용자에게 유용한 부분이다.",
+   "현금·신용카드·전자머니·바코드(QR) 결제 모두 사용할 수 있다.",
+   "차로 가면 트라스트파크 다이토빌딩(千代田区神田練塀町3-3)에 5대 주차 가능.",
+   "호비·트레카 매입은 폐점 1시간 전인 21:00에 마감하므로 팔 물건이 있으면 일찍 갈 것."
+  ],
+  "en": [
+   "The only Book-Off in the Akihabara area, a mid-size branch; the used-manga, light-novel, trading-card and figure sections are the parts that matter here.",
+   "Cash, credit cards, e-money and QR/barcode payments are all accepted.",
+   "Five parking spaces at Trust Park Daito Building (千代田区神田練塀町3-3).",
+   "Hobby and trading-card buyback closes at 21:00, an hour before the store, so bring items early."
+  ]
+ },
+ "official_url": "https://www.bookoff.co.jp/shop/shop20396.html",
+ "sns": {},
+ "chain": "bookoff",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.bookoff.co.jp/shop/shop20396.html"
+ ],
+ "osm_id": "node/2262375007"
+}

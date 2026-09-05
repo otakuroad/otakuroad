@@ -1,0 +1,101 @@
+{
+ "id": "akiba-cultures-theater",
+ "name": {
+  "ko": "AKIBA 컬처즈 극장",
+  "en": "AKIBA Cultures Theater",
+  "ja": "AKIBAカルチャーズ劇場"
+ },
+ "synonyms": [
+  "아키바 컬처즈 극장",
+  "AKIBA 컬처즈존 극장",
+  "컬처즈 극장",
+  "AKIBA Culture's Theatre",
+  "Akiba Cultures Gekijo",
+  "akibalive",
+  "AKIBAカルチャーズ劇場",
+  "カルチャーズ劇場"
+ ],
+ "category": "idol",
+ "tags": [
+  "idol_live",
+  "underground_idol",
+  "live_venue",
+  "seiyuu",
+  "event",
+  "anime_screening",
+  "vocaloid"
+ ],
+ "one_line": {
+  "ko": "지하 아이돌·성우 라이브와 낭독극이 거의 매일 열리는 B1층 전용 극장",
+  "en": "Basement theater with near-daily underground idol and voice-actor live shows"
+ },
+ "building_id": "akiba-cultures-zone",
+ "floors": [
+  "B1F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-7-6 AKIBAカルチャーズZONE B1F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 안내의 10:00~23:00은 시설 운영 가능 시간이며(변경 있음), 실제 입장은 공연별 개장·개연 시간에 따른다. 일정은 akibalive.jp에서 확인.",
+   "en": "The official 10:00-23:00 is the venue's operating window (subject to change); actual entry follows each performance's door and start time, listed at akibalive.jp."
+  },
+  "source_url": "https://www.akibacultureszone.com/shop/3576"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "1층 라신방 입구로 건물에 들어가 지하 1층으로 내려가면 극장 입구. 공연이 있는 날은 개장 시간 전 건물 앞에 대기 줄이 생긴다.",
+  "en": "Enter the building at the 1F Lashinbang entrance and go down to B1F for the theater entrance. On show days a queue forms in front of the building before doors open."
+ },
+ "tips": {
+  "ko": [
+   "공연 대부분은 저녁(개장 18:00~18:30, 개연 18:30~19:00) 시작이며, 낮 공연도 있으므로 akibalive.jp/schedule/에서 당일 일정을 먼저 확인.",
+   "아이돌 라이브 외에 성우 이벤트·낭독극·애니 상영·보컬로이드 이벤트도 열린다."
+  ],
+  "en": [
+   "Most shows start in the evening (doors 18:00-18:30, start 18:30-19:00), with some daytime shows; check the day's schedule at akibalive.jp/schedule/ first.",
+   "Besides idol lives, the venue hosts voice-actor events, reading plays, anime screenings and Vocaloid events."
+  ]
+ },
+ "official_url": "https://akibalive.jp/",
+ "sns": {},
+ "chain": null,
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://akibalive.jp/",
+  "https://www.akibacultureszone.com/shop/3576",
+  "https://www.akibacultureszone.com/shop/",
+  "https://www.akibacultureszone.com/"
+ ],
+ "osm_id": "node/9432106579"
+}

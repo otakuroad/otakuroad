@@ -1,0 +1,129 @@
+{
+ "id": "toreca-chase-akihabara",
+ "name": {
+  "ko": "트레카체이스 아키하바라점",
+  "en": "Toreca Chase Akihabara",
+  "ja": "カードショップ トレカチェイス 秋葉原店"
+ },
+ "synonyms": [
+  "트레카체이스",
+  "트레카 체이스",
+  "카드숍 트레카체이스",
+  "트레카체이스 아키하바라",
+  "Toreca Chase",
+  "Torekachase",
+  "Card Shop Toreca Chase",
+  "トレカチェイス",
+  "トレカチェイス秋葉原店",
+  "カードショップトレカチェイス"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "singles",
+  "sealed",
+  "buyback",
+  "new_shop"
+ ],
+ "one_line": {
+  "ko": "포켓몬 카드·원피스 카드 중심의 트레카 전문점, 쇼헤이바시도리 1층",
+  "en": "Trading card shop on Shohei-bashi-dori dealing mainly in Pokemon and One Piece cards"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.699046,
+  "lng": 139.768788
+ },
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田2-3-8",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sat",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sun"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "수요일 정기휴무",
+   "en": "Closed on Wednesdays"
+  },
+  "note": {
+   "ko": "영업시간은 공식 X(@chase_akiba) 프로필 기준. 트레카 디렉터리에는 일요일 개점이 13:00으로 실려 있어 일요일 오전에 가려면 확인이 필요하다.",
+   "en": "Hours follow the shop's own X profile (@chase_akiba); one card-shop directory lists a 13:00 Sunday opening instead, so check before an early Sunday visit."
+  },
+  "source_url": "https://x.com/chase_akiba"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open",
+  "effective_date": "2026-08-08",
+  "note": {
+   "ko": "2026년 8월 8일 개점. 옛 전자부품점 타카히로전자(다카츠키무선) 자리라 오래된 지도에는 아직 전자부품점으로 표시된다.",
+   "en": "Opened on 8 August 2026 in the former Takahiro Denshi (Takatsuki Musen) electronics-parts shop, which older maps still show at this spot."
+  }
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 약 5분, 오차노미즈역에서도 도보 5분 거리의 쇼헤이바시도리 서쪽 편. 전자부품점 타카히로전자가 있던 1층 점포 자리이며, 북쪽으로 30m쯤에 PC 매장 오리오스펙이 있다.",
+  "en": "About five minutes from the JR Akihabara Electric Town exit, and five from Ochanomizu, on Shohei-bashi-dori. It occupies the ground-floor unit that used to be the Takahiro Denshi parts shop, roughly 30 m south of the PC shop Oliospec."
+ },
+ "tips": {
+  "ko": [
+   "수요일은 정기휴무이고 평일 개점은 13:00으로 늦은 편이다. 주말·공휴일은 12:00에 연다.",
+   "포켓몬 카드와 원피스 카드가 중심이며 매장 매입(店頭買取)도 받는다. 대전용 듀얼 스페이스는 없다.",
+   "카드숍 디렉터리에는 결제 수단이 현금으로만 표시되어 있으므로 현금을 준비해 가는 편이 안전하다.",
+   "2026년 8월에 문을 연 신규 매장이라 주소·영업시간 정보가 사이트마다 다르다. 방문 전 공식 X 확인 권장."
+  ],
+  "en": [
+   "Closed Wednesdays, and weekday opening is a late 13:00; weekends and public holidays start at 12:00.",
+   "The focus is Pokemon and One Piece cards, and the shop buys cards over the counter. There is no duel space for play.",
+   "A card-shop directory lists cash as the only payment method, so bring cash to be safe.",
+   "It opened in August 2026, so addresses and hours still differ between sites - check the official X account before going."
+  ]
+ },
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/chase_akiba"
+ },
+ "chain": "toreca-chase",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://x.com/chase_akiba",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2743",
+  "https://akiba-asterisk.blog.jp/archives/59998722.html"
+ ],
+ "osm_id": null
+}

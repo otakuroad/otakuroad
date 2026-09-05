@@ -1,0 +1,108 @@
+{
+ "id": "eorzea-cafe-akihabara",
+ "name": {
+  "ko": "파이널판타지 에오르제아 카페",
+  "en": "FINAL FANTASY Eorzea Cafe",
+  "ja": "ファイナルファンタジーエオルゼアカフェ"
+ },
+ "synonyms": [
+  "에오르제아 카페",
+  "에오르제아 카페 아키하바라",
+  "파판14 카페",
+  "FF14 카페",
+  "Eorzea Cafe",
+  "Eorzea Cafe Akihabara",
+  "FFXIV Cafe",
+  "エオルゼアカフェ",
+  "エオルゼアカフェ in Akihabara TOKYO",
+  "FFエオルゼアカフェ",
+  "ファイナルファンタジー エオルゼアカフェ"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "collab_cafe",
+  "game_collab",
+  "final_fantasy",
+  "ffxiv",
+  "square_enix",
+  "reservation",
+  "time_slot",
+  "coaster"
+ ],
+ "one_line": {
+  "ko": "파이널판타지14 공식 콜라보 카페. 게임 속 요리와 캐릭터 음료, 코스터 증정",
+  "en": "Official FFXIV collaboration cafe: in-game dishes, character drinks and coasters"
+ },
+ "building_id": "pasela-akiba",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-1-10 パセラリゾーツAKIBAマルチエンターテインメント2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:45",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "전일 90분 교체제로, 표시된 시간은 첫 회차 시작부터 마지막 회차 종료까지의 범위다. 실제 이용 가능한 회차는 TableCheck 예약 페이지에서 확인.",
+   "en": "Every day runs on 90-minute seating slots; the times shown are from the first slot to the end of the last. Check the TableCheck booking page for the slots actually on sale."
+  },
+  "source_url": "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "파세라 리조트 AKIBA 건물 2층. JR 아키하바라역 전기가 남쪽 출구에서 도보 4분이며, 1층 카라오케 파세라 접수 옆 엘리베이터나 계단으로 2층에 오르면 같은 층에 그랑사이퍼 키친과 나란히 있다.",
+  "en": "On 2F of Pasela Resorts AKIBA, four minutes from the JR Akihabara Electric Town South Exit. Take the lift or stairs beside the 1F Karaoke Pasela reception; the cafe shares 2F with Grandcypher KITCHEN."
+ },
+ "tips": {
+  "ko": [
+   "예약은 TableCheck 웹에서만 받으며 1개월 전 12:00부터 열린다. 자리가 남으면 당일 워크인도 1층 카운터에서 문의 가능.",
+   "1인 1주문제이며 좌석 차지가 따로 붙는다. 골드 소서 룸 등 룸 좌석은 90분 1,650엔부터로 좌석 종류에 따라 다르다.",
+   "콜라보 메뉴는 패치·이벤트에 맞춰 바뀌므로 방문 전 공식 메뉴 페이지를 확인하면 좋다."
+  ],
+  "en": [
+   "Bookings are taken only through TableCheck and open at 12:00, one month ahead; walk-ins can ask at the 1F counter if seats remain.",
+   "One order per person is required and a seat charge applies on top; room seats such as the Gold Saucer Room start at 1,650 yen for 90 minutes.",
+   "The collaboration menu rotates with patches and events, so check the official menu page before you go."
+  ]
+ },
+ "official_url": "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/",
+ "sns": {},
+ "chain": "pasela",
+ "priority": 2,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/",
+  "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/akihabara-menu/",
+  "https://www.pasela.co.jp/shoplist/eorzea-cafe/",
+  "https://www.pasela.co.jp/shop/akiba_multi/map.html",
+  "https://www.tablecheck.com/en/eorzea-cafe"
+ ],
+ "osm_id": null
+}

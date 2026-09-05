@@ -1,0 +1,113 @@
+{
+ "id": "hobby-station-akihabara-ekimae",
+ "name": {
+  "ko": "호비스테이션 아키하바라 역앞점",
+  "en": "Hobby Station Akihabara Ekimae",
+  "ja": "ホビーステーション 秋葉原駅前店"
+ },
+ "synonyms": [
+  "호비스테이션 역앞점",
+  "호비스테이션 에키마에점",
+  "호비스테 역앞",
+  "호비스테이션 라디오회관 2층",
+  "Hobby Station Ekimae",
+  "Hobby Station Akihabara Station Front",
+  "hbst ekimae",
+  "ホビーステーション秋葉原駅前店",
+  "ホビステ駅前店",
+  "ホビーステーション 駅前店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "tcg_singles",
+  "yugioh",
+  "weiss_schwarz",
+  "digimon_card",
+  "wixoss",
+  "shadowverse_evolve",
+  "lorcana",
+  "hololive",
+  "arcade_card",
+  "beyblade_x",
+  "character_sleeve",
+  "buyback",
+  "used"
+ ],
+ "one_line": {
+  "ko": "아케이드 카드게임과 유희왕·바이스슈발츠 싱글, 중고 베이블레이드X 파츠 매매",
+  "en": "Arcade card games, Yu-Gi-Oh and Weiss Schwarz singles, and used BEYBLADE X parts"
+ },
+ "building_id": "radio-kaikan",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "라디오회관 건물 영업시간과 동일. 이름은 '역앞점'이지만 건물 밖 별도 점포가 아니라 라디오회관 2F에 있다.",
+   "en": "Same as the Radio Kaikan building hours. Despite the name 'Ekimae' (station front) it is not a separate street-level shop but sits on 2F of Radio Kaikan."
+  },
+  "source_url": "https://www.hbst.net/shop/30/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "라디오회관 1F에서 에스컬레이터나 엘리베이터로 2F. 카드숍 카이조쿠오·하비코로 완구·렌탈 쇼케이스 아스톱과 같은 층이며, 같은 체인의 1F 매장과 헷갈리기 쉽다.",
+  "en": "Take the escalator or elevator from Radio Kaikan's 1F to 2F, the floor shared with Card Shop Kaizokuou, Havikoro Toy and the Astop rental showcases. Easy to confuse with the same chain's 1F shop."
+ },
+ "tips": {
+  "ko": [
+   "이름 함정: '역앞점'이지만 라디오회관 2F로, 같은 체인의 1F 라디오회관점과 다른 매장이다.",
+   "포켓몬 카드는 취급하지 않는다. 포켓몬은 같은 건물 1F 라디오회관점으로.",
+   "아키하바라에서 드물게 중고 베이블레이드X 파츠를 사고파는 매장이며, 캐릭터 슬리브 취급도 많다.",
+   "건담 아세널 베이스·함대컬렉션 아케이드·FGO 아케이드 같은 아케이드 카드가 강점이다."
+  ],
+  "en": [
+   "Name trap: 'Ekimae' notwithstanding, it is on 2F of Radio Kaikan and is a different shop from the chain's 1F branch here.",
+   "It does not stock Pokemon cards; for those use the 1F Radio Kaikan branch in the same building.",
+   "One of the few Akihabara shops buying and selling used BEYBLADE X parts, with a deep character-sleeve selection.",
+   "Arcade card games are a strength: Gundam Arsenal Base, KanColle Arcade and Fate/Grand Order Arcade."
+  ]
+ },
+ "official_url": "https://www.hbst.net/shop/30/",
+ "sns": {},
+ "chain": "hobby-station",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.hbst.net/shop/30/",
+  "https://akihabara-radiokaikan.co.jp/shoplist/hobbystation-2/",
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://www.hbst.net/"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,124 @@
+{
+ "id": "surugaya-akihabara-kaitori-center",
+ "name": {
+  "ko": "스루가야 아키하바라 매입센터",
+  "en": "Surugaya Akihabara Buying Center",
+  "ja": "駿河屋 秋葉原買取センター"
+ },
+ "synonyms": [
+  "스루가야 매입센터",
+  "스루가야 아키바 매입센터",
+  "스루가야 아키하바라 카이토리센터",
+  "스루가야 매입 카운터",
+  "슈루가야 매입센터",
+  "駿河屋秋葉原買取センター",
+  "駿河屋 買取センター",
+  "ル・プラトー協和",
+  "Surugaya Akihabara Kaitori Center",
+  "Suruga-ya Akihabara Buying Centre",
+  "Surugaya Akihabara Buyback Center",
+  "Suruga-ya"
+ ],
+ "category": "anime_goods",
+ "tags": [
+  "buyback",
+  "used",
+  "all_genre",
+  "figure",
+  "toy",
+  "game",
+  "trading_card",
+  "anime_goods",
+  "no_sales_floor"
+ ],
+ "one_line": {
+  "ko": "전 장르 매입 전용 카운터. 피규어·완구·게임·트레카를 사들이며 판매 매장은 없다",
+  "en": "All-genre walk-in buyback counter for figures, toys, games and cards; no sales floor"
+ },
+ "building_id": null,
+ "floors": [
+  "1F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.701824,
+  "lng": 139.771118
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "〒101-0021 東京都千代田区外神田3-15-4 ル・プラトー協和 1階",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "매일 10:00~21:00으로 같다. 같은 건물 위층 매장이 2026년 가을에 바뀌므로 방문 전에 공식 페이지를 다시 확인하는 편이 좋다.",
+   "en": "The same 10:00-21:00 every day. The shops on the floors above are changing over in autumn 2026, so check the official page again before a trip."
+  },
+  "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "긴자선 스에히로초역에서 도보 2~3분, JR 아키하바라역에서는 도보 7분. 주오도리에서 서쪽으로 한 골목 들어간 9층 건물 르 프라토 교와(ル・プラトー協和)의 1층이며, 바로 동쪽 옆이 아키하바라 가챠폰 회관이다. 길에서 파란 駿河屋 간판이 보이고 문을 열면 곧바로 매입 카운터다.",
+  "en": "Two to three minutes from Ginza-line Suehirocho station and seven from JR Akihabara. One street west of Chuo-dori, on the ground floor of the nine-storey Le Plateau Kyowa (ル・プラトー協和), with Akihabara Gachapon Kaikan right next door to the east. A blue 駿河屋 sign shows from the street and the buying counter is straight through the door."
+ },
+ "tips": {
+  "ko": [
+   "판매 매장이 아니라 매입 전용 카운터다. 둘러보거나 살 것이 있다면 스루가야 아키하바라 본관이나 역앞점으로 가야 한다.",
+   "아키하바라의 다른 스루가야 지점은 각자 취급 품목만 매입하지만 이곳은 전 장르를 받는다. 장르가 섞인 짐은 여기로 가져가는 편이 빠르다.",
+   "매입에는 회원증이 필요하고 신분증은 매회 제시해야 한다. 바코드나 상품 태그가 없는 상품은 일괄 사정이 될 수 있으니 고가품은 따로 나눠 내는 편이 좋다.",
+   "골판지 3상자를 넘는 양을 가져갈 때는 사전 연락이 필요하다. 온라인 사전 견적 후 그대로 들고 오는 '안심 반입'과 사정 시간을 줄이는 '스마토쿠 매입'도 쓸 수 있다.",
+   "공식 페이지는 같은 건물 2층에 트레카·보드게임관이 있다고 안내하지만 그 매장은 2026-08-30 영업을 끝냈고, 2층에는 2026-09-25 스루가야 아키하바라 게임관이 이전 오픈한다."
+  ],
+  "en": [
+   "This is a buying counter, not a shop: there is nothing to browse. To buy, go to Surugaya's Akihabara Main Store or Ekimae store instead.",
+   "The other Surugaya branches in Akihabara only buy what they themselves stock, but this counter takes every genre, so a mixed load is fastest here.",
+   "Selling needs a member card and photo ID every time. Items without a barcode or tag may be valued as a lot, so hand in anything valuable separately.",
+   "Call ahead if you are bringing more than three cardboard boxes. The 'anshin' online pre-quote service and the 'Sumatoku' fast-appraisal service are both accepted here.",
+   "The official page still says the Trading Card & Board Game store is on 2F of the same building; it closed on 2026-08-30, and Surugaya Akihabara Game Store reopens in that space on 2026-09-25."
+  ]
+ },
+ "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html",
+ "sns": {
+  "x": "https://x.com/akihabara_kai"
+ },
+ "chain": "surugaya",
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html",
+  "https://web.archive.org/web/20251219122459/https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html",
+  "https://www.suruga-ya.co.jp/ja/shop",
+  "https://www.suruga-ya.co.jp/ja/node/2478",
+  "https://web.archive.org/web/20260531142701/https://www.suruga-ya.jp/feature/realstore/akihabara_tb/index.html",
+  "https://web.archive.org/web/20240531215328/https://www.suruga-ya.jp/feature/akihabara/index.html",
+  "https://www.openstreetmap.org/way/89002326"
+ ],
+ "osm_id": "way/89002326"
+}
