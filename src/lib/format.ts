@@ -248,8 +248,10 @@ export function directionsUrl(location: { lat: number; lng: number }): string {
 
 /**
  * "오류 신고" — a GitHub issue with the record id prefilled (PLAN §8).
- * TODO: the repository has no remote yet, so `REPORT_REPO` is a placeholder. Point it at the real
- * `owner/name` (and add an issue template with a `record` field) before launch.
+ *
+ * This is the product's main contribution path: the people who know a shop has closed are visitors,
+ * not developers, so the button asks them for what they saw rather than for a pull request. The
+ * issue forms live in .github/ISSUE_TEMPLATE/.
  */
 export const REPORT_REPO = 'otakuroad/otakuroad'
 
