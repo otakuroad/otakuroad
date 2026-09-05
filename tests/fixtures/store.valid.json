@@ -1,0 +1,55 @@
+{
+  "id": "example-store",
+  "name": {
+    "ko": "예시 호비샵 아키하바라점",
+    "en": "Example Hobby Shop Akihabara",
+    "ja": "サンプルホビーショップ 秋葉原店"
+  },
+  "synonyms": ["예시호비", "Example Hobby"],
+  "category": "figure_hobby",
+  "tags": ["gunpla", "new"],
+  "one_line": {
+    "ko": "신품 건프라와 스케일 피규어 중심의 예시 매장",
+    "en": "Sample shop focused on new Gunpla kits and scale figures"
+  },
+  "building_id": null,
+  "floors": [],
+  "floor_guide": [
+    { "floor": "1F", "ko": "신제품·건프라", "en": "New releases and Gunpla" },
+    { "floor": "2F", "ko": "스케일 피규어", "en": "Scale figures" }
+  ],
+  "location": { "lat": 35.7005, "lng": 139.7715 },
+  "street_segment": "chuo_dori",
+  "address_ja": "東京都千代田区外神田1-1-1",
+  "hours": {
+    "rules": [
+      { "days": ["mon", "tue", "wed", "thu", "fri"], "open": "11:00", "close": "20:00" },
+      { "days": ["sat", "sun", "hol"], "open": "10:00", "close": "20:00" }
+    ],
+    "regular_holiday": null,
+    "note": null,
+    "source_url": "https://example.com/akihabara/hours"
+  },
+  "tax_free": true,
+  "payment": "cards_ok",
+  "secondhand": "new",
+  "adult_content": { "level": "none", "floors": [] },
+  "status": { "state": "open" },
+  "how_to_find": {
+    "ko": "주오도리 서쪽 보도, 1층 입구 위의 대형 로봇 간판을 찾으세요",
+    "en": "West sidewalk of Chuo-dori; look for the large robot sign above the 1F entrance"
+  },
+  "tips": {
+    "ko": ["면세는 5,000엔 이상 구매 시, 여권 지참", "주말 오후는 계산대 줄이 김"],
+    "en": ["Tax-free from ¥5,000 — bring your passport", "Checkout lines get long on weekend afternoons"]
+  },
+  "photo": null,
+  "official_url": "https://example.com/akihabara",
+  "sns": { "x": "https://x.com/example_hobby" },
+  "chain": "example-hobby",
+  "priority": 2,
+  "confidence": "high",
+  "verified_at": "2026-09-04",
+  "source_urls": ["https://example.com/akihabara"],
+  "osm_id": "node/123456789"
+}
