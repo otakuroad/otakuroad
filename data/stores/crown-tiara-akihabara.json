@@ -31,17 +31,14 @@
   "ko": "이상한 나라 앨리스 콘셉트 메이드카페. 오므라이스·파르페와 체키, 심야 영업",
   "en": "Alice-in-Wonderland maid cafe: omurice, parfaits and cheki photos, open late on weekends"
  },
- "building_id": null,
+ "building_id": "maruyama-building",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.702168,
-  "lng": 139.769538
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田3-6-1 丸山ビル3階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-6-1 丸山ビル3F",
  "hours": {
   "rules": [
    {

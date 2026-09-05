@@ -28,17 +28,14 @@
   "ko": "빌딩 5층 501호실의 소규모 트레카 매장, 점두·온라인 매입 창구",
   "en": "Small fifth-floor room-501 card shop with in-store and online buyback"
  },
- "building_id": null,
+ "building_id": "new-akihabara-center",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697429,
-  "lng": 139.772403
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-16-10 秋葉原センタービル501（5F）",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル 5F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

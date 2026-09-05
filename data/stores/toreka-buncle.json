@@ -33,15 +33,14 @@
   "ko": "드래곤볼 카드(퓨전월드·SDBH) 중심에 원피스·포켓몬·건담 아세널 베이스까지",
   "en": "Dragon Ball cards (Fusion World, SDBH) plus One Piece, Pokemon and Gundam Arsenal Base"
  },
- "building_id": null,
- "floors": [],
+ "building_id": "new-akihabara-center",
+ "floors": [
+  "4F"
+ ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697283,
-  "lng": 139.772697
- },
+ "location": null,
  "street_segment": null,
- "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル",
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル 4F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

@@ -35,17 +35,14 @@
   "ko": "원피스 카드 전문점. 싱글·상위 프로모·해외판과 오리파, 16석 대전석",
   "en": "One Piece card specialist: singles, top promos, overseas prints, oripa, 16 play seats"
  },
- "building_id": null,
+ "building_id": "new-akihabara-center",
  "floors": [
   "B1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697284,
-  "lng": 139.772697
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル B1F 17号",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル B1F",
  "hours": {
   "rules": [
    {

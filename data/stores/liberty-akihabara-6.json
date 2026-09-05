@@ -34,18 +34,15 @@
   "ko": "2호점 위 3~4층, 아이돌 생사진과 중고 CD·DVD·동인지·트레카 매장",
   "en": "3F-4F above Store 2: idol photo cards and used CDs, DVDs, doujinshi and trading cards"
  },
- "building_id": null,
+ "building_id": "liberty-2gokan",
  "floors": [
   "3F",
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697683,
-  "lng": 139.772229
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-15-14 3F・4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-14 リバティー2号館3F・4F",
  "hours": {
   "rules": [
    {

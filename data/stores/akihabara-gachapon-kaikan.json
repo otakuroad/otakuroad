@@ -31,16 +31,13 @@
   "ko": "캡슐토이 기계 약 500대가 한 층에 빼곡한 가챠 전문점. 절판 구작부터 이달 신작까지",
   "en": "Some 500 capsule-toy machines on one floor, from old series to this month's releases."
  },
- "building_id": null,
+ "building_id": "mn-building",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701856,
-  "lng": 139.77125
- },
- "street_segment": "suehirocho",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-15-5 MNビル1F",
  "hours": {
   "rules": [

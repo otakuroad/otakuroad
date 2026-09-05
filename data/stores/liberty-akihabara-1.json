@@ -37,17 +37,14 @@
   "ko": "중고 애니 피규어·프라모델·가레지킷·인형을 모으는 컬렉터를 위한 지하 매장",
   "en": "Basement shop of used anime figures, plastic models, garage kits and dolls"
  },
- "building_id": null,
+ "building_id": "senju-building-7",
  "floors": [
   "B1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701343,
-  "lng": 139.771289
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田3-14-6 恵光ビルB1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-14-6 千住ビル7 B1F",
  "hours": {
   "rules": [
    {

@@ -1,0 +1,76 @@
+{
+ "address_ja": "東京都千代田区外神田3-2-12",
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 6분. 주오도리로 나가 벨살 아키하바라(ベルサール秋葉原)와 소프맵 사이 골목으로 곧장 들어가면 오른쪽에 있다. 긴자선 스에히로초역 3번 출구에서는 도보 5분. 뒷골목에 면한 8층짜리 철골 오피스 빌딩이라 겉모습만으로는 라이브하우스인지 알기 어렵고, 1층 노면에 TwinBox GARAGE가 그대로 열려 있어 그 간판이 유일한 표지다. 지하 1층 TwinBox AKIHABARA는 GARAGE 옆 계단으로 내려가고, 2층 ANTHEM AKIBA는 같은 입구의 엘리베이터 1대로 올라간다. 3층부터는 사무실이므로 관객이 올라갈 일은 없다.",
+  "en": "Six minutes from the JR Akihabara Electric Town Exit: come out onto Chuo-dori and walk straight into the side street between Bellesalle Akihabara and Sofmap; the building is on your right. From Ginza Line Suehirocho exit 3 it is five minutes. It is an eight-storey steel office block on a back street and looks nothing like a music venue, so the one giveaway is TwinBox GARAGE opening straight onto the pavement at street level. B1F TwinBox AKIHABARA is down the stairs beside GARAGE and 2F ANTHEM AKIBA is up the building's single elevator from the same entrance. Everything from 3F up is offices, so audiences never go higher than 2F."
+ },
+ "floor_guide_url": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없다. 2008년 3월 준공한 임대 오피스 빌딩이라 3층 위는 사무실이고, 일반 방문객이 가는 곳은 지하 1층부터 2층까지의 라이브 공간 세 곳뿐이다. TwinBox AKIHABARA(B1F)와 TwinBox GARAGE(1F)는 15:00~22:00, ANTHEM AKIBA(2F)는 12:00~22:00를 기준으로 삼지만 실제 개장·개연 시각은 그날 공연 일정에 따라 바뀌므로 티켓에 적힌 開場/開演 시각을 따른다.",
+  "en": "The building has no shared opening hours. It is a rental office block completed in March 2008, so 3F and above are offices and the only floors open to visitors are the three live rooms from B1F to 2F. TwinBox AKIHABARA (B1F) and TwinBox GARAGE (1F) list 15:00–22:00 and ANTHEM AKIBA (2F) lists 12:00–22:00, but doors and start times change with each day's event, so go by the 開場/開演 times printed on your ticket."
+ },
+ "id": "boxr-akiba-building",
+ "location": {
+  "lat": 35.700426,
+  "lng": 139.770121
+ },
+ "name": {
+  "ko": "Box'R 아키바 빌딩",
+  "en": "Box'R Akiba Building",
+  "ja": "Box'R Akibaビル"
+ },
+ "official_url": null,
+ "osm_id": null,
+ "source_urls": [
+  "https://twinbox.info/",
+  "https://anthemakiba.com/about",
+  "https://tokyo.kashi-jimusho.com/detail/51302/",
+  "https://www.oasis-estate.jp/building/502/165933",
+  "https://search.yahoo.co.jp/search?p=%22%E5%A4%96%E7%A5%9E%E7%94%B03-2-12%22",
+  "https://www.openstreetmap.org/node/5230307084"
+ ],
+ "uncurated_floors": [
+  {
+   "floor": "3F",
+   "ko": "임대 오피스 층. 약 74평짜리 단일 구획 사무실로 매장은 없다",
+   "en": "Rental office floor, one suite of about 74 tsubo; no shop"
+  },
+  {
+   "floor": "4F",
+   "ko": "임대 오피스 층. 매장 없음",
+   "en": "Rental office floor; no shop"
+  },
+  {
+   "floor": "5F",
+   "ko": "임대 오피스 층. 약 55평 사무실로 매장은 없다",
+   "en": "Rental office floor of about 55 tsubo; no shop"
+  },
+  {
+   "floor": "6F",
+   "ko": "미디어파이브(メディアファイブ) 도쿄지점 등이 든 사무실 층. 매장 없음",
+   "en": "Office floor housing the Tokyo branch of media5 among others; no shop"
+  },
+  {
+   "floor": "7F",
+   "ko": "임대 오피스 층. 약 36평 사무실로 매장은 없다",
+   "en": "Rental office floor of about 36 tsubo; no shop"
+  },
+  {
+   "floor": "8F",
+   "ko": "최상층 사무실 층. 매장 없음",
+   "en": "Top-floor offices; no shop"
+  }
+ ],
+ "verified_at": "2026-09-05"
+}

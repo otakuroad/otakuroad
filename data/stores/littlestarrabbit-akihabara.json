@@ -129,7 +129,7 @@
  },
  "chain": "toygroup",
  "priority": 3,
- "confidence": "high",
+ "confidence": "medium",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://littlestarrabbit.com/",
@@ -137,7 +137,6 @@
   "https://littlestarrabbit.com/system",
   "https://littlestarrabbit.com/menu",
   "https://littlestarrabbit.com/notes",
-  "https://goo.gl/maps/1HcFNCrnyj4UAbzu6",
   "https://toygroup.jp/"
  ],
  "osm_id": null

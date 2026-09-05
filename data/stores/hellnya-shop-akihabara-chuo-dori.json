@@ -31,17 +31,14 @@
   "ko": "해외 디자이너 토이와 블라인드 돌을 파는 주오도리 3층 수입 토이점",
   "en": "Third-floor importer of overseas designer toys and blind-box dolls on Chuo-dori"
  },
- "building_id": null,
+ "building_id": "shioda-tour-akihabara-building",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.702047,
-  "lng": 139.771955
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル3階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル3F",
  "hours": {
   "rules": [
    {

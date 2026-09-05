@@ -32,16 +32,13 @@
   "ko": "사이버펑크 콘셉트 메이드카페. 식사·음료와 네온 무대, CG 캐릭터 홀로그램 영상",
   "en": "Cyberpunk-themed maid cafe with food, drinks, a neon stage and CG hologram videos"
  },
- "building_id": null,
+ "building_id": "tit-akihabara",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700211,
-  "lng": 139.772015
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原2F",
  "hours": {
   "rules": [

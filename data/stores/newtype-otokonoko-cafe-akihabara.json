@@ -34,17 +34,14 @@
   "ko": "여장 남성 스태프가 접객하는 콘셉트 카페&바. 60분 음료 무제한제",
   "en": "Concept cafe and bar staffed by crossdressing men; 60 minutes all-you-can-drink"
  },
- "building_id": null,
+ "building_id": "isamiya-8-building",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.702437,
-  "lng": 139.770446
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田3-7-12 イサミヤ第8ビル3F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-7-12 イサミヤ第8ビル 3F",
  "hours": {
   "rules": [
    {

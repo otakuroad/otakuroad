@@ -32,17 +32,14 @@
   "ko": "가챠폰 회관 2층의 중고 전용 철도모형 매장. 시간당 300엔 레일 레이아웃",
   "en": "Used-only model railway shop above Gachapon Kaikan, with a 300 yen an hour rental layout"
  },
- "building_id": null,
+ "building_id": "mn-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701853,
-  "lng": 139.771228
- },
- "street_segment": "suehirocho",
- "address_ja": "〒101-0021 東京都千代田区外神田3-15-5 MNビル2F（秋葉原ガチャポン会館2F）",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル2F",
  "hours": {
   "rules": [
    {

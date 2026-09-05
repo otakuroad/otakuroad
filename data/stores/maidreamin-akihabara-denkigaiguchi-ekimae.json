@@ -30,16 +30,13 @@
   "ko": "전기가 출구에서 도보 1분, 45석. 오므라이스·음료와 메이드 체키 촬영",
   "en": "45-seat branch a minute from the Electric Town exit: omurice, drinks and cheki photos"
  },
- "building_id": null,
+ "building_id": "takarada-chuo-dori-building",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698303,
-  "lng": 139.7715
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田1-14-1 宝田中央通りビル3F",
  "hours": {
   "rules": [

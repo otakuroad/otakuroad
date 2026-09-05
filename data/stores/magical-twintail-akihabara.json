@@ -28,17 +28,14 @@
   "ko": "A-FRONT 6·7층 메이드카페. 오무라이스·음료와 체키 촬영, 시간당 귀가료 880엔",
   "en": "Maid cafe on A-FRONT 6F-7F: omurice, drinks and cheki photos, 880 yen per hour"
  },
- "building_id": null,
+ "building_id": "a-front",
  "floors": [
   "6F",
   "7F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701025,
-  "lng": 139.772089
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田4-4-8 A-FRONT 6F・7F",
  "hours": {
   "rules": [

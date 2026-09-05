@@ -25,17 +25,14 @@
   "ko": "양 콘셉트 메이드 카페. 카운터 9석, 30분 500엔 차지 + 1드링크 주문제",
   "en": "Sheep-themed maid cafe, 9 counter seats; 500 yen per 30 minutes plus a one-drink order"
  },
- "building_id": null,
+ "building_id": "akiba-asobikan",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.699671,
-  "lng": 139.769629
- },
+ "location": null,
  "street_segment": null,
- "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館1F",
+ "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館 1F",
  "hours": null,
  "tax_free": null,
  "payment": "cards_ok",

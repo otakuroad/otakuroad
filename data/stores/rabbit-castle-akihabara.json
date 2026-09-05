@@ -26,16 +26,13 @@
   "ko": "패션 디자이너 캐롤라인짱이 프로듀스한 메이드카페. 식사·음료와 체키 촬영",
   "en": "Maid cafe produced by fashion designer Caroline-chan: food, drinks and cheki photos"
  },
- "building_id": null,
+ "building_id": "a-front",
  "floors": [
   "8F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701022,
-  "lng": 139.772106
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田4-4-8 A-FRONT 8F",
  "hours": {
   "rules": [

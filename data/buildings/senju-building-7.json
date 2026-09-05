@@ -1,0 +1,56 @@
+{
+ "id": "senju-building-7",
+ "name": {
+  "ko": "센주 빌딩 7",
+  "en": "Senju Building 7",
+  "ja": "千住ビル7"
+ },
+ "location": {
+  "lat": 35.701347,
+  "lng": 139.771298
+ },
+ "address_ja": "東京都千代田区外神田3-14-6",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없고 층마다 크게 다르다. 오전에는 B1F 리버티 1호점(11:00~20:30)·2F 렌탈BOX 자우루스(평일·공휴일 11:00~21:00, 토·일 10:00~21:00)·6F 아키바호비(11:00~20:00)만 열려 있고, 4F 풀콤프는 평일 13:00·토·일·공휴일 11:00, 3F TOYGER TCG는 평일 15:00·토·일·공휴일 10:00에야 문을 연다. 대신 3F는 매일 24:00까지(매입 접수는 22:00까지) 영업해 건물에서 가장 늦게 닫고, 6F가 20:00으로 가장 먼저 닫는다.",
+  "en": "There is no building-wide opening time and the floors differ sharply. In the morning only Liberty No.1 in the basement (11:00-20:30), Rental BOX Zaurus on 2F (11:00-21:00 weekdays and holidays, 10:00-21:00 Sat and Sun) and AKIBA-HOBBY on 6F (11:00-20:00) are open; Fullcomp on 4F opens at 13:00 on weekdays and 11:00 at weekends and on holidays, and TOYGER TCG on 3F not until 15:00 on weekdays, 10:00 at weekends and on holidays. TOYGER then runs to 24:00 every day, with its buyback desk until 22:00, the latest close in the building, while 6F is the first to shut at 20:00."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 도보 2분, JR 아키하바라역 전기가 출구에서는 도보 5~6분이다. 주오도리 서쪽 줄에 면한 좁은 6층 잡거빌딩으로, 큰길 쪽 정면이 아니라 건물 옆면에 출입구가 있고 그 안에 지하로 내려가는 계단과 위층용 계단·엘리베이터가 모여 있다. 바로 옆 신스에히로 빌딩에는 레트로 게임 캠프 본점이 있어 표식이 된다. 지도 앱과 OSM에는 아직 옛 이름 '恵光ビル(게이코 빌딩)'로 실린 경우가 많으니 두 이름을 함께 기억하고 입구 층별 간판에서 층을 확인한다.",
+  "en": "Two minutes south of exit 3 of Ginza-line Suehirocho along the west pavement of Chuo-dori, five to six minutes from the JR Akihabara Electric Town Exit. It is a narrow six-storey tenant block facing Chuo-dori on the west side, and the way in is not the main-street face but a door on the side of the building, where the stairs down to the basement and the stairs and lift up all start. Retro Game Camp's main store in the Shin-Suehiro Building right next door is a useful landmark. Map apps and OSM often still carry the older name 恵光ビル (Keiko Building), so keep both names in mind and read the floor board at the entrance."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "1F",
+   "ko": "주오도리에 면한 1층 부분과 옆면 출입구·계단 홀. 우리 데이터에 수록된 매장은 없고, 일부 안내가 지하의 리버티 1호점을 '1층'으로 적으므로 입구 층별 간판에서 확인하는 편이 확실하다.",
+   "en": "The Chuo-dori frontage plus the side door and stair hall. No shop from our dataset sits on this level, and some listings put the basement Liberty No.1 on '1F', so read the floor board at the entrance."
+  },
+  {
+   "floor": "5F",
+   "ko": "우리 데이터에 수록된 매장이 없는 층. 현재 입주 상황은 입구 층별 간판에서 확인한다.",
+   "en": "No shop from our dataset on this level; check the tenant board at the entrance for what is there now."
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://shop.akbh.jp/pages/shop-akihabara-info",
+  "https://fullcomp.jp/akihabara/access/",
+  "https://entermedia-akiba.com/toyger-tcg/",
+  "https://akibatoreka.com/introduce/1463",
+  "https://www.liberty-shop.co.jp/visit/lp-ja-v2.html",
+  "https://liberty-kaitori.com/shop",
+  "https://www.retrogamecamp.com/",
+  "https://www.openstreetmap.org/way/88981874"
+ ],
+ "osm_id": "way/88981874"
+}

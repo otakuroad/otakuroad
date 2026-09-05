@@ -39,17 +39,14 @@
   "ko": "바이스슈발츠·뱅가드 등 부시로드 TCG 중심 싱글·팩과 28석 듀얼 스페이스",
   "en": "Bushiroad TCG singles and packs (Weiss Schwarz, Vanguard) with a 28-seat duel space"
  },
- "building_id": null,
+ "building_id": "sotokanda-1-chome-building",
  "floors": [
   "B1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698292,
-  "lng": 139.771641
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-14-7 AKIHABARAゲーマーズ本店B1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビル（AKIHABARAゲーマーズ本店）B1F",
  "hours": {
   "rules": [
    {

@@ -1,0 +1,57 @@
+{
+ "id": "new-akihabara-center",
+ "name": {
+  "ko": "뉴 아키하바라 센터 빌딩",
+  "en": "New Akihabara Center Building",
+  "ja": "ニュー秋葉原センタービル"
+ },
+ "location": {
+  "lat": 35.697284,
+  "lng": 139.772697
+ },
+ "address_ja": "東京都千代田区外神田1-16-10",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "hours_note": {
+  "ko": "건물 공용 영업시간은 없고 층·호실마다 다르다. 1967년 준공한 임대 점포·사무실 건물이라 사무실 입주자는 24시간 출입할 수 있지만, 매장은 대체로 12:00~13:00에 열어 20:00~22:00에 닫는다. 1F 카드숍 Lotus 12:00~21:00, B1F 트레카라프테르 평일 13:00~20:00·토·일·공휴일 11:00~20:00, 4F 트레카반쿠르·5F 트레카데이즈·6F 트레카브레이크는 모두 13:00~20:00 전후. 오전에 가면 대부분 닫혀 있다.",
+  "en": "There is no building-wide opening time; it differs by floor and by room. The 1967 shop-and-office block gives office tenants 24-hour access, but the shops generally open between 12:00 and 13:00 and close between 20:00 and 22:00. Card Shop Lotus (1F) 12:00–21:00; Toreca Raftel (B1F) 13:00–20:00 on weekdays and 11:00–20:00 at weekends and holidays; Toreka Buncle (4F), Toreca Days (5F) and Toreca Break (6F) all run roughly 13:00–20:00. Come in the morning and almost everything is shut."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口) 개찰을 나와 왼쪽, 간다강 방면 남쪽으로 도보 1분. 이자카야 이소마루수산(磯丸水産) 바로 왼쪽에 붙어 있는, 야마노테선·소부선 선로변의 낮고 긴 건물이다. 도로에 면한 벽 전체가 입점 점포 간판으로 덮여 있어 역 승강장에서도 보인다. 간판 아래 통로로 들어가면 안쪽에 엘리베이터가 있고, 지하 1층 매대층으로는 계단으로 내려간다. 쓰쿠바 익스프레스 A1 출구 도보 2분, 도쿄메트로 히비야선 아키하바라역 도보 3분.",
+  "en": "Turn left out of the JR Akihabara Electric Town Exit (電気街口) and walk one minute south toward the Kanda River. It is the long, low building pressed against the Yamanote and Sobu line tracks, immediately left of the Isomaru Suisan izakaya; its whole street wall is covered in tenant signboards and is visible from the station platform. Walk in under the signs — the lift is at the back, and stairs lead down to the B1F stalls. Tsukuba Express exit A1 is 2 minutes away, Tokyo Metro Hibiya Line Akihabara 3 minutes."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "2F",
+   "ko": "트레카볼 아키하바라점(2층 30호, 포켓몬·원피스 카드)과 오디오사운드 아키하바라역앞점(2층 23호, 예약제 오디오 매입 창구), 그리고 소규모 임대 사무실",
+   "en": "Toreca Ball Akihabara (room 30, Pokémon and One Piece cards), Audio Sound Akihabara Ekimae (room 23, an appointment-only audio buyback counter) and small rented offices"
+  },
+  {
+   "floor": "3F",
+   "ko": "10~38평 규모의 임대 사무실 층. 지하 1층 카드숍 트레카라프테르를 운영하는 주식회사 라프테르 본사(301호)도 여기 있으며, 손님이 들어갈 매장은 없다",
+   "en": "Rented offices of 10 to 38 tsubo. The head office of Raftel Inc. (room 301), which runs the B1F card shop Toreca Raftel, is on this floor; nothing here is open to shoppers"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://officil.com/est/bl/0014116",
+  "https://akihabara-cardmap.com/ko/shop/card-shop-lotus-akihabara-store/",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2169",
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2220",
+  "https://audiosound.co.jp/shop/akiba/",
+  "https://www.tcg-raftel.com/info",
+  "https://akibatoreka.com/introduce/1131",
+  "https://x.com/card_raftel/status/1718248426599821657",
+  "https://www.openstreetmap.org/way/89023315"
+ ],
+ "osm_id": "way/89023315"
+}

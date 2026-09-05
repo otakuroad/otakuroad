@@ -38,19 +38,16 @@
   "ko": "구판 포켓몬과 초기 유희왕, PSA·ARS 감정품을 2~4층에 모은 컬렉터 매장",
   "en": "Old-back Pokemon, early Yu-Gi-Oh! and PSA/ARS graded cards for collectors, on 2F-4F"
  },
- "building_id": null,
+ "building_id": "nippo-akiba-star-2",
  "floors": [
   "2F",
   "3F",
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.699103,
-  "lng": 139.770291
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田1-8-11 日宝アキバスターⅡ 2F〜4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-8-11 日宝アキバスターⅡ 2F・3F・4F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

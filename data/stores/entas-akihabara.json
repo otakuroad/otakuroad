@@ -37,17 +37,14 @@
   "ko": "오노덴 본관 5층 이벤트 스페이스. VTuber·아이돌 라이브와 전시·팝업 굿즈 판매",
   "en": "Event space on Onoden's 5F: VTuber and idol lives, exhibitions and pop-up merch"
  },
- "building_id": null,
+ "building_id": "onoden-honkan",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698334,
-  "lng": 139.770894
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田1-2-7 オノデン秋葉原本館ビル5F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-7 オノデン本館 5F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

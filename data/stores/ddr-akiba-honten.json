@@ -30,17 +30,14 @@
   "ko": "레이싱 시뮬레이터 유료 주행장. 10분 1000엔부터, 초보자도 이용 가능",
   "en": "Pay-per-session racing simulator venue, from 1,000 yen per 10 minutes"
  },
- "building_id": null,
+ "building_id": "rock-building",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700569,
-  "lng": 139.770554
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田3-11-2 ロックビル5F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-11-2 ロックビル 5F",
  "hours": {
   "rules": [
    {

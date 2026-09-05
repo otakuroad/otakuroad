@@ -40,7 +40,7 @@
   "ko": "탐탐이 운영하는 중고 호비 전문점. 7층 철도모형·다이캐스트, 8층 렌탈 레이아웃",
   "en": "TamTam's used hobby shop: model trains and die-cast on 7F, rental layouts on 8F"
  },
- "building_id": null,
+ "building_id": "shioda-tour-akihabara-building",
  "floors": [
   "7F",
   "8F"
@@ -57,12 +57,9 @@
    "en": "Rental Layout AKIBA: nine N-gauge and six HO-gauge lines, long enough to run 15-car formations"
   }
  ],
- "location": {
-  "lat": 35.702047,
-  "lng": 139.771955
- },
- "street_segment": "chuo_dori",
- "address_ja": "〒101-0021 東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル7F・8F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル7F・8F",
  "hours": {
   "rules": [
    {

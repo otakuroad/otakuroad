@@ -36,17 +36,14 @@
   "ko": "카운터석 중심 메이드 카페. 메이드와의 대화, 체키, 여성 손님 메이드복 대여",
   "en": "Counter-seat maid cafe: talk with the maids, cheki photos, maid-dress loan for women"
  },
- "building_id": null,
+ "building_id": "sumiyoshi-building",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701996,
-  "lng": 139.771331
- },
- "street_segment": "suehirocho",
- "address_ja": "〒101-0021 東京都千代田区外神田3-16-17 住吉ビル4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-16-17 住吉ビル4F",
  "hours": {
   "rules": [
    {

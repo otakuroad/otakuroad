@@ -1,0 +1,76 @@
+{
+ "id": "sumiyoshi-building",
+ "name": {
+  "ko": "스미요시 빌딩",
+  "en": "Sumiyoshi Building",
+  "ja": "住吉ビル"
+ },
+ "location": {
+  "lat": 35.702004,
+  "lng": 139.771355
+ },
+ "address_ja": "東京都千代田区外神田3-16-17",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없고 층마다 다르다. 1F 잔파라 아키하바라 5호점 11:00~19:30, 4F 메이드카페 피유 평일 17:00~23:00·토·일·공휴일 13:00~23:00(부정기 휴무), 6F 메이드리밍 본점 월·화 11:30~23:00·그 밖의 요일 10:30~23:00 연중무휴, 7F 치요다 레일센터 화~금 12:30~19:40·토 11:30~19:40·일·공휴일 11:30~18:40이며 월요일은 공휴일이어도 쉰다. 저녁 8시가 넘으면 4F·6F 메이드 카페만 남는다.",
+  "en": "The building keeps no common hours; every floor sets its own. Janpara Akihabara No.5 on 1F 11:00-19:30; Maid Cafe Filles on 4F 17:00-23:00 on weekdays and 13:00-23:00 at weekends and public holidays, with irregular closing days; Maidreamin's main store on 6F 11:30-23:00 Mon-Tue and 10:30-23:00 on every other day, open year-round; Chiyoda Rail Center on 7F 12:30-19:40 Tue-Fri, 11:30-19:40 Sat and 11:30-18:40 Sun and holidays, closed Mondays even when they are public holidays. After about 20:00 only the maid cafes on 4F and 6F are still serving."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 1분, JR 아키하바라역 전기가 출구에서는 주오도리를 따라 우에노 방향으로 북쪽으로 7분. 주오도리 서쪽 인도에 면한 9층 건물이고, 1층 노면 전체를 중고 PC 매장 잔파라 아키하바라 5호점이 쓰고 있다. 위층으로 가는 공용 입구는 잔파라 매장 옆에 난 좁은 통로이며, 여기서 엘리베이터를 타고 각 층으로 올라간다.",
+  "en": "One minute from exit 3 of Suehirocho Station on the Tokyo Metro Ginza line, or seven minutes north along Chuo-dori from the JR Akihabara Electric Town Exit, walking toward Ueno. It is a nine-storey block on the west pavement of Chuo-dori, and the used-PC shop Janpara Akihabara No.5 fills the whole ground-floor frontage. The shared entrance to the upper floors is the narrow opening beside Janpara; the lift inside serves every floor."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "1F",
+   "ko": "중고 PC·스마트폰 매장 잔파라 아키하바라 5호점(11:00~19:30). 건물 공용 입구와 엘리베이터가 이 매장 옆에 있다",
+   "en": "Janpara Akihabara No.5, a used-PC and smartphone shop, 11:00-19:30; the building's shared entrance and lift sit beside it"
+  },
+  {
+   "floor": "2F",
+   "ko": "잔파라 아키하바라 5호점이 1층과 함께 쓰는 매장·사무 공간",
+   "en": "Extra sales and back-office space used by Janpara Akihabara No.5 together with 1F"
+  },
+  {
+   "floor": "3F",
+   "ko": "임대 사무실 층. 이 가이드에 실린 매장 없음",
+   "en": "A rental office floor; no shop from this guide"
+  },
+  {
+   "floor": "5F",
+   "ko": "인물 촬영 스튜디오 스타지오 루미노바가 쓰던 층. 2026년 6월 5일 스튜디오 사업을 종료했다",
+   "en": "Studio LumiNova's portrait photography studio, which ended its studio business on 5 June 2026"
+  },
+  {
+   "floor": "8F",
+   "ko": "임대 사무실 층. 이 가이드에 실린 매장 없음",
+   "en": "A rental office floor; no shop from this guide"
+  },
+  {
+   "floor": "9F",
+   "ko": "임대 사무실 층(최상층). 이 가이드에 실린 매장 없음",
+   "en": "The top rental office floor; no shop from this guide"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.janpara.co.jp/shopinfo/shop/?shopcd=73",
+  "https://filles.jp/store/",
+  "https://maidreamin.com/shop/detail.html?id=1",
+  "https://www.chiyodarail.net/html/company.html",
+  "https://www.studio-luminova.com/",
+  "https://www.openstreetmap.org/way/89002340"
+ ],
+ "osm_id": "way/89002340"
+}

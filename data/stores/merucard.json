@@ -34,17 +34,14 @@
   "ko": "원피스·드래곤볼·포켓몬·유희왕 싱글 카드 판매와 현금 매입 2층 매장",
   "en": "One Piece, Dragon Ball, Pokemon and Yu-Gi-Oh singles, plus on-the-spot cash buyback"
  },
- "building_id": null,
+ "building_id": "kambayashi-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.699298,
-  "lng": 139.770463
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田1-8-7 神林ビル2階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-8-7 神林ビル 2F",
  "hours": {
   "rules": [
    {

@@ -34,17 +34,14 @@
   "ko": "중고 PC·태블릿·SIM프리 스마트폰과 게임기·게임 소프트, 수입 잡화를 파는 1층 매장",
   "en": "Used PCs, tablets, SIM-free phones, game consoles and software, plus imported novelties"
  },
- "building_id": null,
+ "building_id": "nippo-akiba-star-2",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.699103,
-  "lng": 139.770291
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田1-8-11 日宝アキバスターⅡビル1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-8-11 日宝アキバスターⅡ 1F",
  "hours": {
   "rules": [
    {

@@ -31,16 +31,13 @@
   "ko": "포켓몬·원피스·유희왕 등 트레카를 매입만 하는 카운터. 판매는 없음",
   "en": "Buyback-only counter for Pokemon, One Piece and Yu-Gi-Oh cards; nothing is sold here"
  },
- "building_id": null,
+ "building_id": "maruyama-building",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.70216,
-  "lng": 139.769574
- },
- "street_segment": "ura_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-6-1 丸山ビル1F",
  "hours": null,
  "tax_free": null,

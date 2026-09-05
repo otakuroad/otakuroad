@@ -33,16 +33,13 @@
   "ko": "코스프레어와 소품 수집가용 모조 도검·서양 검·도끼·비발사 총 모형 전문점",
   "en": "Replica swords, axes and non-firing gun models for cosplayers and prop collectors"
  },
- "building_id": null,
+ "building_id": "asano-building",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701694,
-  "lng": 139.771364
- },
- "street_segment": "suehirocho",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-15-7 麻野ビル3F",
  "hours": {
   "rules": [

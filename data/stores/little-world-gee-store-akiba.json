@@ -6,42 +6,53 @@
   "ja": "リトルワールド ジーストア・アキバ店"
  },
  "synonyms": [
-  "리틀월드",
-  "리틀 월드 아키바",
-  "지스토어 아키바 돌 코너",
-  "Little World Akiba",
   "Little World",
+  "Little World Akiba",
+  "Little World Akihabara",
+  "Little World Gee Store Akiba",
+  "LittleworldDoll",
+  "little-world",
+  "little-world.net",
   "リトルワールド",
+  "リトルワールド ジーストア・アキバ",
   "リトルワールドアキバ",
-  "little-world"
+  "リトルワールド秋葉原",
+  "리틀 월드",
+  "리틀 월드 아키바",
+  "리틀월드",
+  "리틀월드 아키하바라",
+  "리틀월드 오노덴",
+  "리틀월드 지스토어 아키바",
+  "지스토어 아키바 돌 코너"
  ],
  "category": "figure_hobby",
  "tags": [
-  "doll",
   "azone",
-  "obitsu",
-  "pureneemo",
+  "doll",
+  "doll_accessory",
+  "doll_body",
   "doll_clothes",
   "doll_wig",
-  "doll_body",
+  "made_to_order",
   "new",
-  "shop_in_shop"
+  "obitsu",
+  "photo_space",
+  "pureneemo",
+  "shop_in_shop",
+  "wig"
  ],
  "one_line": {
-  "ko": "지스토어 아키바 안 돌 전문 코너. 아존·오비츠 돌 본체와 옷·가발·소품",
-  "en": "Doll corner inside Gee Store Akiba: Azone and Obitsu doll bodies, outfits, wigs and props"
+  "ko": "아조네·오비츠 돌 소체와 인형 옷·가발·소품을 파는 돌 전문점. 촬영 공간 병설",
+  "en": "Doll specialty shop: Azone and Obitsu doll bodies, doll clothes, wigs and a photo space"
  },
- "building_id": null,
+ "building_id": "onoden-honkan",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698334,
-  "lng": 139.770894
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田1-2-7 オノデン本店4F ジーストア・アキバ内",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-7 オノデン本館 4F",
  "hours": {
   "rules": [
    {
@@ -95,14 +106,17 @@
   ]
  },
  "official_url": "https://www.little-world.net/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/LittleworldDoll"
+ },
  "chain": "little-world",
  "priority": 3,
  "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
-  "https://www.little-world.net/",
   "https://www.geestore.com/geenet/geestore/akiba",
+  "https://www.little-world.net/",
+  "https://www.little-world.net/shop.html",
   "https://www.openstreetmap.org/way/181065608"
  ],
  "osm_id": null

@@ -1,0 +1,70 @@
+{
+ "id": "maruyama-building",
+ "name": {
+  "ko": "마루야마 빌딩",
+  "en": "Maruyama Building",
+  "ja": "丸山ビル"
+ },
+ "location": {
+  "lat": 35.702163,
+  "lng": 139.769574
+ },
+ "address_ja": "東京都千代田区外神田3-6-1",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없다. 1F 신소쿠 아키하바라 매입센터는 트레카 매입만 받는 카운터이고, 3F 크라운티아라는 월~목 17:00~23:00, 금 17:00부터·토 12:00부터 각각 다음 날 새벽까지, 일·공휴일 12:00~23:00으로 이 건물에서 가장 늦게까지 연다. 6F 호로카드는 공표된 고정 영업시간을 확인하지 못했으니 방문 전 공식 SNS를 확인하는 편이 좋다. 엘리베이터는 한 대뿐이다.",
+  "en": "The building keeps no common hours. Shinsoku's Akihabara centre on 1F is a buyback-only counter; CrownTiara on 3F runs 17:00-23:00 Mon-Thu, from 17:00 on Friday and from 12:00 on Saturday into the early hours, and 12:00-23:00 on Sunday and public holidays, making it the latest-opening tenant. We could not confirm published hours for Holocard on 6F, so check its social media before going. There is only one lift."
+ },
+ "exit_hint": {
+  "ko": "긴자선 스에히로초역에서 도보 4분, JR 아키하바라역 전기가 출구에서 도보 8분. 주오도리에서 서쪽으로 한 블록 들어간 쇼헤이바시도리(昌平橋通り) 변에 선 1981년 준공 7층 사무실 빌딩이다. 1층 노면에 트레카 매입 전문 카운터 신소쿠가 있고, 그 옆 좁은 공용 입구로 들어가 한 대뿐인 엘리베이터로 위층에 올라간다. 주오도리 쪽 대형 매장들과 달리 눈에 띄는 간판이 적으니 1층 신소쿠 간판을 표지로 삼는 편이 빠르다.",
+  "en": "Four minutes from Suehirocho Station on the Ginza line, eight from the JR Akihabara Electric Town Exit. It is a seven-storey office building from 1981 on Shohei-bashi-dori, one block west of Chuo-dori. Shinsoku's trading-card buyback counter holds the ground-floor frontage; the shared entrance is the narrow doorway beside it and the building's single lift serves the upper floors. There is far less signage here than on Chuo-dori, so use the Shinsoku shopfront as your marker."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "B1F",
+   "ko": "지하 1층. 이 가이드에 실린 매장 없음",
+   "en": "The basement level; no shop from this guide"
+  },
+  {
+   "floor": "2F",
+   "ko": "약 17~18평(57~60㎡)짜리 소형 임대 사무실 층. 소매 매장은 없다",
+   "en": "A small rental office floor of roughly 57-60 m²; no retail"
+  },
+  {
+   "floor": "4F",
+   "ko": "소형 임대 사무실 층. 이 가이드에 실린 매장 없음",
+   "en": "A small rental office floor; no shop from this guide"
+  },
+  {
+   "floor": "5F",
+   "ko": "소형 임대 사무실 층. 이 가이드에 실린 매장 없음",
+   "en": "A small rental office floor; no shop from this guide"
+  },
+  {
+   "floor": "7F",
+   "ko": "임대 사무실 층(최상층). 이 가이드에 실린 매장 없음",
+   "en": "The top rental office floor; no shop from this guide"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://crown-tiara.com/access",
+  "https://birusaku.jp/detail/detail.php/61587028/",
+  "https://www.homes.co.jp/archive/b-19833060/",
+  "https://shinsoku-tcg.com/store-plans/akihabara-unification",
+  "https://holocard.jp/",
+  "https://www.openstreetmap.org/way/91534583"
+ ],
+ "osm_id": "way/91534583"
+}

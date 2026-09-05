@@ -1,0 +1,60 @@
+{
+ "id": "kyoeki-sotokanda-daiichi-building",
+ "name": {
+  "ko": "교에키 소토칸다 제1빌딩",
+  "en": "Kyoeki Sotokanda Daiichi Building",
+  "ja": "共益外神田第1ビル"
+ },
+ "location": {
+  "lat": 35.701228,
+  "lng": 139.771854
+ },
+ "address_ja": "東京都千代田区外神田4-4-2",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "건물 공용 영업시간은 없다. 1984년 준공한 임대 오피스 빌딩이라 층마다 다르며, 2F·3F 스루가야 아키하바라 프라모델관 평일 11:00~21:00·토·일·공휴일 10:00~21:00, 4F 메이드리밍 아키하바라 아이돌거리점 평일 11:30~23:00·토·일·공휴일 10:30~23:00, 5F 마론의 은신처 11:00~20:00(수요일 정기휴무), 8F 마이퍼스트메이드 월~금 15:00~22:00·토·일·공휴일 12:00~22:00. B1F·1F 신소쿠는 낮부터 밤까지 영업한다. 6F·7F는 사무실이라 일반 방문객과 무관하다.",
+  "en": "There is no building-wide opening time — it is a 1984 rental office block and every floor differs. Surugaya Akihabara Pla-model Hall (2F–3F) 11:00–21:00 on weekdays and 10:00–21:00 at weekends and holidays; Maidreamin Akihabara Idol-dori (4F) 11:30–23:00 weekdays and 10:30–23:00 weekends and holidays; Maron no Kakurega (5F) 11:00–20:00, closed Wednesdays; MyFirstMaid (8F) 15:00–22:00 Mon–Fri and 12:00–22:00 at weekends and holidays. Shinsoku on B1F and 1F runs from midday into the evening. 6F and 7F are offices and of no interest to visitors."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 1번 출구에서 주오도리 한 블록 동쪽 골목(아키바 타시로도리, 통칭 아이돌 거리)으로 들어가 남쪽으로 도보 2분. AKB48 극장이 있는 돈키호테 아키하바라점 바로 북쪽에 이어지는 8층 건물이다. JR 아키하바라역 전기가 출구에서는 주오도리를 따라 북쪽으로 도보 5분. 1층 도로변에 카드숍 신소쿠 간판이 걸려 있고, 그 옆 입구로 들어가면 엘리베이터가 있어 위층 스루가야·메이드카페·트레카점으로 올라간다.",
+  "en": "From Tokyo Metro Ginza Line Suehirocho exit 1, step one block east of Chuo-dori into Akiba Tashiro-dori — locals call it Idol Street — and walk two minutes south. It is the eight-storey block immediately north of Don Quijote Akihabara, the building with the AKB48 Theater on top. From the JR Akihabara Electric Town Exit it is about five minutes north along Chuo-dori. The Shinsoku card-shop sign is at street level; the entrance beside it has the lift up to Surugaya, the maid cafes and the card shops."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "6F",
+   "ko": "약 31평짜리 임대 사무실이 한 층을 통째로 쓰는 원 플로어 원 테넌트 구조. 손님이 들어갈 매장은 없다",
+   "en": "A single rented office of about 31 tsubo taking the whole floor; nothing open to shoppers"
+  },
+  {
+   "floor": "7F",
+   "ko": "6층과 같은 약 31평 임대 사무실 층. 매장은 없다",
+   "en": "Another whole-floor rented office of about 31 tsubo, like 6F; no shop"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://officee.jp/catalog/40784",
+  "https://www.office-navi.jp/building/02012071/",
+  "https://offisite.jp/office/38451",
+  "https://maidreamin.com/shop/detail.html?id=3",
+  "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html",
+  "https://maron-no-kakurega.com/?mode=f2",
+  "https://myfirstmaid.com/access.html",
+  "https://www.instagram.com/p/DcvBItSRmTB/",
+  "https://www.froma.com/viewjob/2319ec099de20e1b/",
+  "https://www.openstreetmap.org/way/89182756"
+ ],
+ "osm_id": "way/89182756"
+}

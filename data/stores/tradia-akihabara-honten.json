@@ -42,17 +42,14 @@
   "ko": "듀얼 스페이스를 갖춘 트레카 전문점. 포켓몬·유희왕 싱글과 팩, 매입",
   "en": "Trading card shop with duel space: Pokemon and Yu-Gi-Oh singles, sealed packs, buyback"
  },
- "building_id": null,
+ "building_id": "mn-building",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701876,
-  "lng": 139.77123
- },
- "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田3-15-5 MNビル4F（秋葉原ガチャポン会館4F）",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル4F",
  "hours": {
   "rules": [
    {

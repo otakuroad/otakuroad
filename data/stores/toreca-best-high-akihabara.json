@@ -35,17 +35,14 @@
   "ko": "포켓몬·원피스 카드 매입 전문 7층 매장. 미개봉 박스·싱글도 소량 판매",
   "en": "Buyback-focused 7F card shop for Pokemon and One Piece; sealed boxes and singles sold"
  },
- "building_id": null,
+ "building_id": "akihabara-tora-building",
  "floors": [
   "7F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.7026,
-  "lng": 139.772014
- },
- "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田4-7-3 虎ビル7F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-7-3 秋葉原虎ビル 7F",
  "hours": {
   "rules": [
    {

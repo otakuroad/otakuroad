@@ -1,0 +1,65 @@
+{
+ "id": "liberty-2gokan",
+ "name": {
+  "ko": "리버티 2호관",
+  "en": "Liberty Building No.2",
+  "ja": "リバティー2号館"
+ },
+ "location": {
+  "lat": 35.697683,
+  "lng": 139.772229
+ },
+ "address_ja": "東京都千代田区外神田1-15-14",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "건물 공용 영업시간은 없다. B1F~2F 리버티 2호점과 3F~4F 리버티 6호점은 매일 11:00~20:30 연중무휴로 사실상 이어진 한 매장처럼 돌아간다. 7F 카드뱅크는 월~목 14:00~20:00, 금·토·일·공휴일 11:00~20:00이라 평일 오전에 오면 리버티 층만 열려 있다. 5F·6F·8F는 임대 사무실 층이라 일반 방문객 대상 영업시간이 없다.",
+  "en": "No building-wide hours. Liberty Store 2 on B1F-2F and Liberty Store 6 on 3F-4F both run 11:00-20:30 every day of the year and work as one continuous shop. Card Bank on 7F opens 14:00-20:00 Mon-Thu and 11:00-20:00 Fri-Sun and holidays, so on a weekday morning only the Liberty floors are open. 5F, 6F and 8F are rental office floors with no public hours."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 1분. 개찰구를 나와 라디오회관 쪽(서쪽)으로 걸으면 카라오케관이 든 아키하바라 B&V빌딩 다음, 스루가야 아키하바라역앞점 바로 앞(역 쪽)에 서 있는 8층 건물이다. 선로변 아키하바라역 남쪽 교차로에 면해 있고 길 건너편이 만세이바시 경찰서라 찾기 쉽다. 1층 리버티 간판이 표식이며, 지하 1층부터 4층까지가 리버티 매장(2호점·6호점)이고 7층 카드뱅크 등 위층은 1층 매장 옆 건물 전용 입구에서 엘리베이터(1대)를 탄다.",
+  "en": "One minute from the JR Akihabara Electric Town Exit (電気街口). Leave the gates and walk west toward Radio Kaikan: it is the eight-storey building just past the Akihabara B&V Building (Karaoke-kan) and immediately in front of - on the station side of - Surugaya Akihabara Ekimae. It faces the Akihabara-eki-minami crossing beside the JR tracks, with Manseibashi police station across the road. The Liberty sign on the ground floor is the marker: B1F to 4F are the Liberty shops (Stores 2 and 6), while Card Bank on 7F and the other upper floors are reached from the building's own entrance beside the shop, using its single elevator."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "5F",
+   "ko": "약 20평(66㎡) 단일 임대 구획. 옛 트레카 디렉터리에는 카드뱅크가 5F로 적혀 있지만 현재 카드뱅크는 7F이므로 이 층에 올라갈 필요는 없다",
+   "en": "A single ~20-tsubo (66 m2) rental unit. Older card-shop directories still put Card Bank on 5F, but Card Bank is now on 7F, so there is no reason to stop here"
+  },
+  {
+   "floor": "6F",
+   "ko": "약 20평 규모의 임대 사무실 층. 일반 방문객용 매장은 없다",
+   "en": "A ~20-tsubo rental office floor with no shop open to visitors"
+  },
+  {
+   "floor": "8F",
+   "ko": "최상층 임대 사무실 층(약 20평). 매장 안내가 없다",
+   "en": "The top floor, another ~20-tsubo rental office unit with no shop listing"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.office-navi.jp/building/02046200/",
+  "https://www.chintai-jimusho.com/building/48148/",
+  "https://offisite.jp/office/59738",
+  "https://birusaku.jp/detail/detail.php/12542912/",
+  "https://www.liberty-shop.co.jp/visit/lp-ja-v2.html",
+  "https://map.pokemon-card.com/map/19078",
+  "https://www.bushi-navi.com/store/804",
+  "https://akibatoreka.com/introduce/1118",
+  "https://akibatoreka.com/introduce/2077",
+  "https://www.openstreetmap.org/node/1915016879"
+ ],
+ "osm_id": null
+}

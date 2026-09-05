@@ -1,0 +1,45 @@
+{
+ "id": "sotokanda-1-chome-building",
+ "name": {
+  "ko": "소토칸다 1초메 빌딩",
+  "en": "Sotokanda 1-chome Building",
+  "ja": "外神田一丁目ビル"
+ },
+ "location": {
+  "lat": 35.698338,
+  "lng": 139.771663
+ },
+ "address_ja": "東京都千代田区外神田1-14-7",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "hours_note": {
+  "ko": "건물 전체가 AKIHABARA 게이머즈 본점이라 층마다 마감이 다르다. 1F 서적 매장이 밤 10시까지로 가장 늦게 닫고, 3F~7F는 평일 11:00 이후에 열어 21:00에 닫으므로 굿즈·CD·팝업이 목적이면 그 사이에 올라가야 한다. B1F 카드라보는 평일 11:00~20:00, 토·일·공휴일 10:00~20:00으로 건물에서 가장 일찍 닫는다. 6F 이벤트 스페이스는 행사가 있는 날에만 들어갈 수 있고, 2F 앙상블 스타즈!! 스토어는 혼잡 예상일에 사전 입장 예약 추첨제로 바뀐다. 평일 오전에 오면 1F만 열려 있다.",
+  "en": "The whole building is the AKIHABARA Gamers flagship, so its floors close at different times. The 1F bookshop stays open latest, until 22:00, while 3F-7F open from 11:00 on weekdays and close at 21:00 - go up between those hours for goods, CDs and pop-ups. Card Labo in the basement runs 11:00-20:00 on weekdays and 10:00-20:00 at weekends and holidays, the earliest close in the building. The 6F event space admits visitors only on event days, and the Ensemble Stars!! Store on 2F switches to an advance entry lottery when it expects crowds. On a weekday morning only 1F is open."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)를 나와 역 앞 광장을 서쪽으로 약 60m, 도보 1분. 1층에 카드킹덤 간판이 있는 9층짜리 아키하바라 노무라 빌딩과 벽을 맞대고 그 서쪽에 붙어 있으며, 정면이 온통 AKIHABARA 게이머즈 간판으로 덮여 있어 바로 알아볼 수 있다. 1층 서적 매장 정면 입구가 사실상 유일한 출입구로, 여기서 에스컬레이터·엘리베이터로 위층에 올라가고 카드라보가 있는 지하 1층도 같은 입구에서 내려간다. 주오도리 쪽으로 한 채 더 나가면 같은 이름을 쓰는 중앙동(스니단 트레카·메이드리밍이 든 9층 건물)이므로 혼동하지 않도록 한다. 옛 이름이 宝田ビル(다카라다 빌딩)이라 부시로드 스토어 등 일부 매장 안내는 아직 그 이름으로 주소를 적는다.",
+  "en": "Leave the JR Akihabara Electric Town Exit (電気街口) and walk about 60 m west across the station plaza - one minute. It shares a wall with, and stands just west of, the nine-storey Akihabara Nomura Building whose ground floor is Card Kingdom, and its facade is covered end to end by the AKIHABARA Gamers signboard. The 1F bookshop entrance is effectively the only way in: escalators and lifts go up from there, and the same entrance leads down to Card Labo on B1F. One building further toward Chuo-dori is the nine-storey central wing that shares this building's name and holds SNKRDUNK TCG and Maidreamin, so do not stop there by mistake. The former name was 宝田ビル (Takarada Building), which tenants such as the Bushiroad Store still print in their addresses."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.gamers.co.jp/shop/detail.php?id=4",
+  "https://ja.wikipedia.org/wiki/%E5%AE%9D%E7%94%B0%E7%84%A1%E7%B7%9A%E9%9B%BB%E6%A9%9F",
+  "https://bushiroad-creative.com/pages/bushi-store",
+  "https://www.c-labo.jp/shop/akibagema/",
+  "https://www.animate-onlineshop.jp/corner/cc/ensemble_stars_store/cd/2573/",
+  "https://akihabara.kokosil.net/ja/place/00001c0000000000000200000034060a",
+  "https://www.openstreetmap.org/way/90834470"
+ ],
+ "osm_id": "way/90834470"
+}

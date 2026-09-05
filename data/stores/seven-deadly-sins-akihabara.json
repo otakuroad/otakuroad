@@ -29,17 +29,14 @@
   "ko": "A-FRONT 4층 칠죄종 콘셉트 카페. 오무라이스·피자·칵테일, 30분 300엔 차지",
   "en": "Seven-deadly-sins concept cafe on A-FRONT 4F: omurice, pizza and cocktails"
  },
- "building_id": null,
+ "building_id": "a-front",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701022,
-  "lng": 139.772106
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田4-4-8 A-FRONTビル4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-4-8 A-FRONT 4F",
  "hours": {
   "rules": [
    {

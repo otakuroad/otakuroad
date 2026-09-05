@@ -36,18 +36,15 @@
   "ko": "2·3층에 신품·중고 프라모델과 도료·공구, 프라모 잡지·트레이딩 피규어·식완",
   "en": "New and used plastic model kits on two floors, plus paints, tools, magazines and shokugan"
  },
- "building_id": null,
+ "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
   "2F",
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701219,
-  "lng": 139.771779
- },
- "street_segment": "chuo_dori",
- "address_ja": "〒101-0021 東京都千代田区外神田4-4-2 共益外神田第1ビル 2階・3階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル 2F・3F",
  "hours": {
   "rules": [
    {

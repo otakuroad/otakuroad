@@ -37,17 +37,14 @@
   "ko": "포켓몬 카드 전문점. PSA 감정 카드·구판·프로모·미개봉 박스 판매와 매입",
   "en": "Pokemon card specialist: PSA-graded, old-back, promo cards and sealed boxes"
  },
- "building_id": null,
+ "building_id": "akihabara-tora-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.7026,
-  "lng": 139.772014
- },
- "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田4-7-3 虎ビル2F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-7-3 秋葉原虎ビル 2F",
  "hours": {
   "rules": [
    {

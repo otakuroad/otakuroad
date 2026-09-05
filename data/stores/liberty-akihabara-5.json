@@ -37,17 +37,15 @@
   "ko": "가챠폰·복주머니와 포켓몬 카드 자판기, 중고 피규어·프라모델·미니카를 파는 1층 매장",
   "en": "Gachapon, blind bags and Pokemon card machines plus used figures and models, on 1F"
  },
- "building_id": null,
+ "building_id": "liberty-5gokan",
  "floors": [
-  "1F"
+  "1F",
+  "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701481,
-  "lng": 139.771895
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田4-5-1 1階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-5-1 リバティー5号館1F・2F",
  "hours": {
   "rules": [
    {

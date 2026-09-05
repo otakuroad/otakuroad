@@ -1,0 +1,81 @@
+{
+ "id": "akihabara-tora-building",
+ "name": {
+  "ko": "아키하바라 토라 빌딩",
+  "en": "Akihabara Tora Building",
+  "ja": "秋葉原虎ビル"
+ },
+ "location": {
+  "lat": 35.70266,
+  "lng": 139.77202
+ },
+ "address_ja": "東京都千代田区外神田4-7-3",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없고 층마다 낮과 밤으로 갈린다. 트레카 매장은 낮 영업이라 1F 마하 스에히로초점 11:30~19:30, 2F TCG GATE 12:00~20:00(매입 접수는 19:00까지), 7F 트레카BH는 평일 11:00~19:00·토·일·공휴일 11:00~20:00이다. 반대로 3F~6F 콘카페는 저녁 영업이 기본이며 4F 키미노 오히메사마는 전일 18:00~24:00, 6F 엔타마는 화~목 18:00~23:00·금 18:00~24:00·토·공휴일 전날 15:00~24:00·일 15:00~23:00(월요일 휴무)이다. 9F 토라콘은 회원 전용 예약제 오피스라 그냥 올라가도 들어갈 수 없다. 카드숍만 볼 생각이면 낮에, 콘카페까지 볼 생각이면 저녁에 오는 편이 맞다.",
+  "en": "There are no building-wide hours; the floors split into day and night. The card shops are daytime: Mach Suehirocho on 1F 11:30-19:30, TCG GATE on 2F 12:00-20:00 (buyback counter until 19:00), Toreka BH on 7F 11:00-19:00 on weekdays and 11:00-20:00 at weekends and on holidays. The concept cafes above open in the evening instead - Kimi no Ohimesama on 4F daily 18:00-24:00, Entama on 6F 18:00-23:00 Tue-Thu, 18:00-24:00 Fri, 15:00-24:00 Sat and the eve of a holiday, 15:00-23:00 Sun, closed Mondays. Toracon on 9F is a members-only office seen by appointment, so you cannot simply walk up. Come in the afternoon for the card shops, in the evening if you also want the cafes."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 1번 출구 바로 앞. 출구로 올라오면 주오도리 동쪽 인도에 서게 되고, 남쪽으로 10m만 걸으면 이 건물이다. JR 아키하바라역 전기가 출구(電気街口)에서는 주오도리를 따라 북쪽으로 도보 5분, 쿠라마에바시도리 교차로에 닿기 직전 오른쪽(동쪽)에 있다. 주오도리에 면한 폭 좁은 9층 건물이고, 1층 트레카 매장 마하와 도로 쪽에 층별 카드숍·콘카페 이름을 위아래로 붙여 놓은 세로 간판이 표식이다. 위층은 1층 옆 입구의 엘리베이터 1대로만 올라가므로 주말에는 대기가 생긴다.",
+  "en": "Right outside exit 1 of the Tokyo Metro Ginza Line at Suehirocho: come up onto the east pavement of Chuo-dori and the building is about 10 m to your south. From the JR Akihabara Electric Town Exit (電気街口) it is a five-minute walk north along Chuo-dori, on your right (east) just before the Kuramaebashi-dori crossing. Look for a narrow nine-storey block fronting Chuo-dori, with the trading-card shop Mach at street level and a vertical signboard listing the card shops and concept cafes floor by floor. The upper floors are reached only by the single elevator in the entrance beside the ground-floor shop, so expect a wait at weekends."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "3F",
+   "ko": "콘셉트 메이드카페 슈가스위트(Sugar Sweet)",
+   "en": "Sugar Sweet, a concept maid cafe"
+  },
+  {
+   "floor": "4F",
+   "ko": "콘카페 키미노 오히메사마(きみのお姫様) · 전일 18:00~24:00, 연중무휴",
+   "en": "Kimi no Ohimesama, a concept cafe open daily 18:00-24:00 with no closing day"
+  },
+  {
+   "floor": "5F",
+   "ko": "콘카페 시크릿 플레이스(シークレットプレイス)",
+   "en": "Secret Place, a concept cafe"
+  },
+  {
+   "floor": "6F",
+   "ko": "아이돌·VTuber 지망생 응원 콘셉트 카페 엔타마(えんたま) · 월요일 휴무",
+   "en": "Entama, a concept cafe built around supporting aspiring idols and VTubers; closed Mondays"
+  },
+  {
+   "floor": "8F",
+   "ko": "트레카 매장 트레카몬카(トレカモンカ) · 오리파와 싱글 카드 판매",
+   "en": "Toreka Monka, a trading-card shop selling oripa packs and singles"
+  },
+  {
+   "floor": "9F",
+   "ko": "오타쿠 특화 결혼상담소 토라콘(とら婚) 아키하바라 오피스 · 회원 전용 예약제라 일반 방문 불가",
+   "en": "The Akihabara office of Toracon, an otaku-focused marriage agency; members only and by appointment, not open to visitors"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.office-navi.jp/building/02049431/",
+  "https://www.tcg-gate.com/",
+  "https://toracon.jp/access/",
+  "https://akiba-pc.watch.impress.co.jp/docs/wakiba/find/1046042.html",
+  "https://www.gdm.or.jp/crew/2026/0202/621534",
+  "https://x.com/torekaBH",
+  "https://x.com/torekamonk",
+  "https://shop.caferun.jp/shop/12810/",
+  "https://sites.google.com/confindo.net/entama/",
+  "https://sugarsweet.jp/",
+  "https://www.openstreetmap.org/way/89183349"
+ ],
+ "osm_id": "way/89183349"
+}

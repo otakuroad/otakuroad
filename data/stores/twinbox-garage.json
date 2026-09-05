@@ -26,17 +26,14 @@
   "ko": "단독 공연·발매 이벤트에 쓰이는 1층 소규모 아이돌 라이브 공간",
   "en": "Small ground-floor idol live room used for solo shows and release events"
  },
- "building_id": null,
+ "building_id": "boxr-akiba-building",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700395,
-  "lng": 139.770114
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田3-2-12 Box'R AKIBAビル1階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-2-12 Box'R Akibaビル 1F",
  "hours": {
   "rules": [
    {

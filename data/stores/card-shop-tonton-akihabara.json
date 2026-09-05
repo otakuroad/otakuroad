@@ -33,18 +33,15 @@
   "ko": "포켓몬·원피스 카드 싱글과 오리파를 파는 1·2층 카드 전문점, 현금 즉시 매입",
   "en": "Pokemon and One Piece card singles and oripa packs on two floors, with cash buyback"
  },
- "building_id": null,
+ "building_id": "etranger-18-akihabara",
  "floors": [
   "1F",
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701605,
-  "lng": 139.769474
- },
+ "location": null,
  "street_segment": null,
- "address_ja": "東京都千代田区外神田3-5-1 エトランゼ18秋葉原101・201（1F・2F）",
+ "address_ja": "東京都千代田区外神田3-5-1 エトランゼ18秋葉原1F・2F",
  "hours": {
   "rules": [
    {

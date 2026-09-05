@@ -34,17 +34,14 @@
   "ko": "역 앞 3층의 실전용 싱글카드 매장. 유희왕·포켓몬·듀얼마스터즈 중심",
   "en": "Third-floor shop by the station for Yu-Gi-Oh, Pokemon and Duel Masters play singles"
  },
- "building_id": null,
+ "building_id": "akiba1131-building",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698836,
-  "lng": 139.771594
- },
- "street_segment": "denkigai",
- "address_ja": "〒101-0021 東京都千代田区外神田1-13-1 Akiba1131.Bldg 3F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-13-1 Akiba1131.bldg 3F",
  "hours": {
   "rules": [
    {

@@ -30,15 +30,12 @@
   "ko": "포켓몬·유희왕 카드 싱글 전문 5층 매장. 대전 공간·위탁판매 없음",
   "en": "Pokemon and Yu-Gi-Oh card singles on 5F; no consignment and no duel space"
  },
- "building_id": null,
+ "building_id": "etranger-18-akihabara",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701605,
-  "lng": 139.769474
- },
+ "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田3-5-1 エトランゼ18秋葉原5F",
  "hours": null,

@@ -36,19 +36,16 @@
   "ko": "전기가 출구에서 가장 가까운 지점, B1~2층에 중고 애니 피규어와 소형 피규어",
   "en": "Closest Liberty branch to the station: used anime figures and small figures on B1-2F"
  },
- "building_id": null,
+ "building_id": "liberty-2gokan",
  "floors": [
   "B1F",
   "1F",
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697683,
-  "lng": 139.772229
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-15-14 B1F・1F・2F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-14 リバティー2号館B1F・1F・2F",
  "hours": {
   "rules": [
    {

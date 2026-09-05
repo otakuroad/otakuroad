@@ -37,16 +37,13 @@
   "ko": "듀얼마스터즈·유니온아리나·건담카드 싱글 판매와 매입, 54석 대전석",
   "en": "Duel Masters, Union Arena and Gundam card singles and buyback, with 54 duel seats"
  },
- "building_id": null,
+ "building_id": "imai-building",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700428,
-  "lng": 139.769836
- },
- "street_segment": "ura_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-2-14 今井ビル5F",
  "hours": {
   "rules": [

@@ -39,17 +39,14 @@
   "ko": "동방 프로젝트·원신·스타레일 캐릭터 피규어와 음악 CD·서적·캡슐토이 매장",
   "en": "Touhou, Genshin Impact and Star Rail figures, music CDs, books and capsule toys"
  },
- "building_id": null,
+ "building_id": "senju-building-7",
  "floors": [
   "6F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701352,
-  "lng": 139.771302
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田3-14-6 恵光ビル6F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-14-6 千住ビル7 6F",
  "hours": {
   "rules": [
    {

@@ -36,17 +36,14 @@
   "ko": "2001년 개업한 최초의 상설 메이드카페. 모에 연출 없이 홍차·카레·케이크를 파는 조용한 찻집",
   "en": "First permanent maid cafe (2001); a quiet classical tearoom with tea, curry and cake."
  },
- "building_id": null,
+ "building_id": "onoden-honkan",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698346,
-  "lng": 139.770851
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田1-2-7 オノデンビル4F ジーストア・アキバ内",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-7 オノデン本館 4F",
  "hours": {
   "rules": [
    {

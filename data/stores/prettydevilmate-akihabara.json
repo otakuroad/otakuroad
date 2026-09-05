@@ -129,7 +129,7 @@
  },
  "chain": "toygroup",
  "priority": 3,
- "confidence": "high",
+ "confidence": "medium",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://prettydevilmate.com/",
@@ -137,7 +137,6 @@
   "https://prettydevilmate.com/system",
   "https://prettydevilmate.com/menu",
   "https://prettydevilmate.com/notes",
-  "https://goo.gl/maps/rhiDfDrJs87YkBYi9",
   "https://toygroup.jp/"
  ],
  "osm_id": null

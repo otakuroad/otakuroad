@@ -45,7 +45,7 @@
   "ko": "신간 만화·라노벨, 애니 CD·BD, 러브라이브·홀로라이브·부시로드 굿즈를 B1F~7F에 층별로 갖춘 매장",
   "en": "New manga, light novels, anime CDs/BDs and Love Live!, hololive, Bushiroad goods on B1F-7F"
  },
- "building_id": null,
+ "building_id": "sotokanda-1-chome-building",
  "floors": [
   "B1F",
   "1F",
@@ -98,12 +98,9 @@
    "en": "Card Labo AKIHABARA Gamers B1 (trading card sales and buyback, 28-seat duel space)"
   }
  ],
- "location": {
-  "lat": 35.698311,
-  "lng": 139.771682
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビル",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビルB1F～7F",
  "hours": {
   "rules": [
    {

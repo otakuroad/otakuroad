@@ -36,17 +36,14 @@
   "ko": "포켓몬·원피스·건담·듀얼마스터즈 싱글카드와 팩을 팔고 매입하는 4층 매장",
   "en": "4F card shop selling and buying Pokemon, One Piece, Gundam and Duel Masters singles"
  },
- "building_id": null,
+ "building_id": "senju-building-7",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701341,
-  "lng": 139.771294
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田3-14-6 千住ビル4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-14-6 千住ビル7 4F",
  "hours": {
   "rules": [
    {

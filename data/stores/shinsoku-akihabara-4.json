@@ -34,16 +34,13 @@
   "ko": "포켓몬·원피스·유희왕 카드 싱글과 매입을 다루는 4층 트레카 매장",
   "en": "Fourth-floor card shop for Pokemon, One Piece and Yu-Gi-Oh singles, with buyback"
  },
- "building_id": null,
+ "building_id": "tit-akihabara",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700127,
-  "lng": 139.771962
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原4F",
  "hours": null,
  "tax_free": null,

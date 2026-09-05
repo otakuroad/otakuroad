@@ -37,17 +37,14 @@
   "ko": "직접 만든 오므라이스·케이크와 술을 내는 46석 메이드 카페",
   "en": "A 46-seat maid cafe serving handmade omurice, cakes and alcohol"
  },
- "building_id": null,
+ "building_id": "isamiya-8-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.702431,
-  "lng": 139.770483
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田3-7-12 イサミヤ第8ビル2F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-7-12 イサミヤ第8ビル 2F",
  "hours": {
   "rules": [
    {

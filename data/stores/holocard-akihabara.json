@@ -33,16 +33,13 @@
   "ko": "호로라이브 전문 트레카 매장. 바이스슈바르츠·호로라이브 OCG 싱글과 오리파, 굿즈",
   "en": "Hololive-only card shop: Weiss Schwarz and hololive OCG singles, oripa packs and goods"
  },
- "building_id": null,
+ "building_id": "maruyama-building",
  "floors": [
   "6F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.702163,
-  "lng": 139.769574
- },
- "street_segment": "ura_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-6-1 丸山ビル6F",
  "hours": null,
  "tax_free": null,

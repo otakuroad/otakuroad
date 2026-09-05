@@ -32,17 +32,14 @@
   "ko": "미개봉 BOX와 희귀 카드 중심의 1층 카드숍, 점두 매입 창구 운영",
   "en": "Ground-floor card shop selling sealed boxes and rare singles, with in-store buyback"
  },
- "building_id": null,
+ "building_id": "new-akihabara-center",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697441,
-  "lng": 139.772644
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-16-10 秋葉原センタービル1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル 1F",
  "hours": null,
  "tax_free": null,
  "payment": "cards_ok",

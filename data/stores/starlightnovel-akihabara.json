@@ -129,7 +129,7 @@
  },
  "chain": "toygroup",
  "priority": 3,
- "confidence": "high",
+ "confidence": "medium",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://starlightnovel.com/",
@@ -137,7 +137,6 @@
   "https://starlightnovel.com/system",
   "https://starlightnovel.com/menu",
   "https://starlightnovel.com/notes",
-  "https://goo.gl/maps/9jACRSAAnhv9TiJn9",
   "https://toygroup.jp/"
  ],
  "osm_id": null

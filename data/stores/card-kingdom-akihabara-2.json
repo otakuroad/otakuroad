@@ -30,17 +30,14 @@
   "ko": "아키하바라 전파회관 1층의 카드킹덤 2호점, 13시에 여는 역 앞 트레카 매장",
   "en": "Card Kingdom's second Akihabara shop, on the ground floor of Denpa Kaikan"
  },
- "building_id": null,
+ "building_id": "akihabara-denpa-kaikan",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698564,
-  "lng": 139.771665
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館 1F",
  "hours": {
   "rules": [
    {

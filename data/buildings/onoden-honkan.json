@@ -1,0 +1,78 @@
+{
+ "id": "onoden-honkan",
+ "name": {
+  "ko": "오노덴 본관",
+  "en": "Onoden Main Building",
+  "ja": "オノデン本館"
+ },
+ "location": {
+  "lat": 35.698334,
+  "lng": 139.770894
+ },
+ "address_ja": "東京都千代田区外神田1-2-7",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "오노덴 직영 매장(B1F~3F 가전)은 10:00~20:00, 연중무휴. 위층 테넌트는 각자 시간을 쓴다. 4F 지스토어·아키바 10:00~20:00, 그 안의 큐어메이드카페 11:00~20:00, B1F 카드숍 간류(원더 간류) 평일 13:00~21:00·토·일·공휴일 10:00~21:00. 5F 이벤트 스페이스 아키하바라 엔타스는 공연·이벤트가 있는 날에만 열리므로 일정 확인이 필요하다. 6~8F는 임대 사무실 층.",
+  "en": "Onoden's own floors (B1F–3F electronics) run 10:00–20:00 every day of the year. The tenants above keep their own hours: Gee!Store Akiba on 4F 10:00–20:00 with Cure Maid Cafe inside it 11:00–20:00, and the Ganryu (Wonder Ganryu) card shop in the basement 13:00–21:00 on weekdays and 10:00–21:00 at weekends and holidays. The 5F event space Akihabara ENTAS opens only for scheduled shows, so check its calendar. 6F–8F are rented offices."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)를 나오면 바로 정면, 주오도리 건너편에 보이는 건물이다. 도보 2분. 파란 바탕의 '오노덴 보야(オノデン坊や)' 캐릭터 간판과 벽면 대형 LED 오노덴 MX비전이 표식이라 멀리서도 찾기 쉽다. 1F 정면 입구로 들어가 엘리베이터·에스컬레이터로 올라가고, 지하 1층은 입구 안쪽 계단으로 내려간다. 도쿄메트로 히비야선 아키하바라역 도보 5분, 긴자선 스에히로초역 도보 5분.",
+  "en": "Straight ahead across Chuo-dori as you leave the JR Akihabara Electric Town Exit (電気街口) — two minutes. The blue 'Onoden Boya' mascot sign and the big Onoden MX Vision LED screen on the facade make it unmistakable from a distance. Go in at the 1F front entrance and take the lift or escalator up; the basement is down the stairs just inside. Tokyo Metro Hibiya Line Akihabara is 5 minutes away, Ginza Line Suehirocho 5 minutes."
+ },
+ "floor_guide_url": null,
+ "official_url": "https://www.onoden.co.jp/",
+ "uncurated_floors": [
+  {
+   "floor": "1F",
+   "ko": "오노덴 직영 매장 · 이·미용 가전, 해외용 가전, 기념품과 일본 술, 건전지·전원 탭, 프라모델과 캐릭터 잡화. 외화 환전기(EXCHANGE)가 있다",
+   "en": "Onoden's own sales floor: grooming and beauty appliances, export-voltage appliances, souvenirs and sake, batteries and power strips, plus model kits and character goods; a currency exchange machine is here"
+  },
+  {
+   "floor": "2F",
+   "ko": "오노덴 직영 매장 · 냉장고·세탁기 등 대형 생활가전, 계절가전, 건강기기",
+   "en": "Onoden's own sales floor: refrigerators, washing machines and other large home appliances, seasonal appliances and health devices"
+  },
+  {
+   "floor": "3F",
+   "ko": "오노덴 직영 매장 · TV·레코더·오디오·카메라·PC 주변기기·전화기·시계",
+   "en": "Onoden's own sales floor: TVs, recorders, audio, cameras, PC peripherals, phones and watches"
+  },
+  {
+   "floor": "6F",
+   "ko": "임대 사무실 층. 방문객이 들어갈 매장은 없다",
+   "en": "Rented offices; nothing open to visitors"
+  },
+  {
+   "floor": "7F",
+   "ko": "임대 사무실 층. 방문객이 들어갈 매장은 없다",
+   "en": "Rented offices; nothing open to visitors"
+  },
+  {
+   "floor": "8F",
+   "ko": "임대 사무실 층. 코스프레 의상 기획사 코스포루타, 이벤트 기획사 미네르바, 하이튜브 등이 등기 주소로 쓰며 매장은 없다",
+   "en": "Rented offices — the cosplay-costume firm Cosporta, the event planner Minerva and HiTUBE are registered here; no shop"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://bb-building.net/tokyo/deta/792.html",
+  "https://www.onoden.co.jp/view/company",
+  "https://akiba.or.jp/store/s015",
+  "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8E%E3%83%87%E3%83%B3",
+  "https://mtg-jp.com/events/shop/0021224/",
+  "https://x.com/Ganryu_6610",
+  "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7010001142627",
+  "https://www.openstreetmap.org/way/181065608"
+ ],
+ "osm_id": "way/181065608"
+}

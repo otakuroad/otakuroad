@@ -1,0 +1,44 @@
+{
+ "id": "mn-building",
+ "name": {
+  "ko": "MN 빌딩",
+  "en": "MN Building",
+  "ja": "MNビル"
+ },
+ "location": {
+  "lat": 35.701802,
+  "lng": 139.771223
+ },
+ "address_ja": "東京都千代田区外神田3-15-5",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 따로 없지만 1F 가챠폰 회관·1F PORD·2F 포폰데타·4F 트레이디아가 모두 11:00~20:00, 일·공휴일 11:00~19:00으로 맞춰져 있어 사실상 이 시간이 건물 기준이다. 3F 카드숍 CLIMAX, 5F 카디발, 6F 트레카버스는 각자 영업시간을 두므로 각 매장 카드에서 확인한다. 트레이디아 등 매입 카운터는 폐점 15분 전에 접수를 마감하고, 듀얼 스페이스 이용도 폐점 10분 전까지다.",
+  "en": "There is no single building-wide time, but Gachapon Kaikan and PORD on 1F, Popondetta on 2F and Tradia on 4F all run 11:00-20:00, and 11:00-19:00 on Sundays and public holidays, which is effectively the building's rhythm. The card shops on 3F (CLIMAX), 5F (Cardival) and 6F (Torecaverse) set their own times, so check each store card. Buyback counters such as Tradia's stop taking items 15 minutes before closing, and the duel space closes 10 minutes before."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구로 나와 주오도리 서쪽 보도를 따라 남쪽으로 약 90m 내려가면 오른쪽(서쪽)으로 들어가는 좁은 일방통행 골목이 있다. 골목으로 20m쯤 들어가 왼편(남쪽)에 캡슐토이 기계가 줄지어 선 1층이 보이면 그 건물이 MN 빌딩이고, 기계 옆 안쪽에 2~6층으로 가는 계단과 엘리베이터 입구가 있다. 주오도리에 면한 건물이 아니라 한 줄 안쪽이라 큰길에서는 보이지 않으니 'ガチャポン会館' 간판을 표식으로 삼는다. JR 아키하바라역 전기가 출구에서는 도보 7분.",
+  "en": "From exit 3 of Tokyo Metro Ginza-line Suehirocho, walk about 90 m south along the west pavement of Chuo-dori and turn right into the first narrow one-way lane. About 20 m in, the ground floor lined with capsule-toy machines on your left is the MN Building; the stairs and lift up to floors 2-6 are just inside, beside the machines. It stands one row back from Chuo-dori and is not visible from the main street, so use the ガチャポン会館 sign as your landmark. Seven minutes from the JR Akihabara Electric Town Exit."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.akibagacha.com/",
+  "https://www.popondetta.com/akibareuse/index.html",
+  "https://map.pokemon-card.com/map/22064",
+  "https://www.toreca-tradia.com/shop/",
+  "https://map.pokemon-card.com/map/18902",
+  "https://www.torecabirth.jp/info",
+  "https://www.pord.co.jp/shop.php",
+  "https://www.openstreetmap.org/way/89002276"
+ ],
+ "osm_id": "way/89002276"
+}

@@ -36,17 +36,14 @@
   "ko": "포켓몬·원피스 카드 싱글 판매와 매입, 16석 무료 대전 공간",
   "en": "Pokemon and One Piece card singles, buyback and 16 free duel seats"
  },
- "building_id": null,
+ "building_id": "akiba1131-building",
  "floors": [
   "9F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698836,
-  "lng": 139.771594
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-13-1 Akiba1131.Bldg 9F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-13-1 Akiba1131.bldg 9F",
  "hours": {
   "rules": [
    {

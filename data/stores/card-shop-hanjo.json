@@ -34,16 +34,13 @@
   "ko": "포켓몬·원피스 카드 싱글과 오리파, PSA 감정품 매입. 지하 대전석 있음",
   "en": "Pokemon and One Piece card singles, oripa and PSA buyback, with basement duel seats"
  },
- "building_id": null,
+ "building_id": "takarada-chuo-dori-building",
  "floors": [
   "B1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698303,
-  "lng": 139.7715
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田1-14-1 宝田中央通りビルB1F",
  "hours": null,
  "tax_free": null,

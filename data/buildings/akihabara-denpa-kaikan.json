@@ -1,0 +1,54 @@
+{
+ "id": "akihabara-denpa-kaikan",
+ "name": {
+  "ko": "아키하바라 덴파회관",
+  "en": "Akihabara Denpa Kaikan",
+  "ja": "秋葉原電波会館"
+ },
+ "location": {
+  "lat": 35.698564,
+  "lng": 139.771665
+ },
+ "address_ja": "東京都千代田区外神田1-14-3",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F"
+ ],
+ "hours_note": {
+  "ko": "건물 공용 영업시간은 없다. 1층 매대는 업종에 따라 크게 갈리는데, 남아 있는 전자부품 도매상은 10:00~19:00 전후에 일요일·공휴일 휴무가 많고 새로 들어온 트레카·피규어 매장은 늦게까지 연다. 카드킹덤 아키하바라 2호점 13:00~21:00, 2층 '아키바 이세계 메이드' 12:00~22:00(라스트오더 21:30). 3~4층은 사무실이라 일반 손님은 올라가지 않는다.",
+  "en": "There is no building-wide opening time. On the ground floor the surviving electronic-parts wholesalers run roughly 10:00–19:00 and many close on Sundays and holidays, while the newer trading-card and figure shops stay open later: Card Kingdom Akihabara No.2 13:00–21:00 and, on 2F, Akiba Isekai Maid 12:00–22:00 (last order 21:30). 3F and 4F are offices and visitors do not go up there."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)를 나와 왼쪽, 도보 30초. 소부선 고가에 붙어 늘어선 낮은 건물 세 동 가운데 주오도리 쪽(가장 북쪽) 한 동이 덴파회관이고, 그 안쪽이 라디오센터다. 1층은 좁은 통로 양옆으로 작은 매대가 두 줄 늘어선 부품·트레카 상가이며, 2층 메이드카페로는 통로 안쪽 계단으로 올라간다. 도쿄메트로 긴자선 스에히로초역 도보 8분.",
+  "en": "Turn left as you leave the JR Akihabara Electric Town Exit (電気街口) — 30 seconds. Of the three low buildings packed against the Sobu line viaduct, Denpa Kaikan is the one on the Chuo-dori side, the northernmost; Radio Center is the block behind it. The ground floor is a narrow lane with two rows of small parts and trading-card counters, and the stairs up to the 2F maid cafe are inside that lane. Tokyo Metro Ginza Line Suehirocho is 8 minutes away."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "3F",
+   "ko": "입점 상인들의 사무실·창고 층. 손님이 들어갈 매장은 없다",
+   "en": "Offices and storage for the building's traders; nothing open to shoppers"
+  },
+  {
+   "floor": "4F",
+   "ko": "사무실 층. 길에서는 3층 건물처럼 보이지만 공칭 4층 건물이며, 이 층에는 매장이 없다",
+   "en": "Office floor. From the street the building looks three storeys high but it is nominally four; there is no shop on this level"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.wdic.org/w/GEO/%E7%A7%8B%E8%91%89%E5%8E%9F%E9%9B%BB%E6%B3%A2%E4%BC%9A%E9%A4%A8",
+  "https://cardkingdom.jp/stores/akihabara-2/",
+  "https://thegranvania.com/",
+  "https://tabelog.com/tokyo/A1310/A131001/13283351/",
+  "https://www.gdm.or.jp/crew/2026/0311/626132",
+  "https://www.gdm.or.jp/crew/2026/0401/628996",
+  "https://www.tanakamusen.com/?mode=f4",
+  "https://oyaideshop.blogspot.com/2023/09/blog-post_13.html",
+  "https://www.openstreetmap.org/way/90838350"
+ ],
+ "osm_id": "way/90838350"
+}

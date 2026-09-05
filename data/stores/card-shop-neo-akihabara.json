@@ -38,17 +38,14 @@
   "ko": "PSA·CGC 등급 카드와 유희왕·포켓몬·원피스 싱글을 파는 3층 카드 전문점",
   "en": "PSA and CGC graded cards plus Yu-Gi-Oh, Pokemon and One Piece singles on 3F"
  },
- "building_id": null,
+ "building_id": "etranger-18-akihabara",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701605,
-  "lng": 139.769474
- },
+ "location": null,
  "street_segment": null,
- "address_ja": "東京都千代田区外神田3-5-1 エトランゼ18秋葉原 3F",
+ "address_ja": "東京都千代田区外神田3-5-1 エトランゼ18秋葉原3F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

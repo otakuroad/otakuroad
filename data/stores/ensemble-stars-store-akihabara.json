@@ -30,17 +30,14 @@
   "ko": "앙상블 스타즈!! 전문점. CD·블루레이·서적·굿즈와 라이브·2.5차원 무대 상품",
   "en": "Single-title Ensemble Stars!! shop: CDs, Blu-rays, books, goods and stage merch"
  },
- "building_id": null,
+ "building_id": "sotokanda-1-chome-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698311,
-  "lng": 139.771682
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビル AKIHABARAゲーマーズ本店2F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-14-7 外神田一丁目ビル（AKIHABARAゲーマーズ本店）2F",
  "hours": {
   "rules": [
    {

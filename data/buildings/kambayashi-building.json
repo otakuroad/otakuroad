@@ -1,0 +1,58 @@
+{
+ "id": "kambayashi-building",
+ "name": {
+  "ko": "간바야시 빌딩",
+  "en": "Kambayashi Building",
+  "ja": "神林ビル"
+ },
+ "location": {
+  "lat": 35.699298,
+  "lng": 139.770463
+ },
+ "address_ja": "東京都千代田区外神田1-8-7",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없고 매장마다 다르다. 1층과 4층의 후쿠후쿠 트레카 두 매장은 평일 13:00–21:00, 토·일·공휴일 10:00–21:00으로 같은 시간표를 쓰고, 2층 메루카드는 평일 13:00–20:00, 토·일·공휴일 11:00–20:00으로 한 시간 일찍 닫는다. 세 곳 모두 정기휴일이 없다. 평일 오전에는 세 매장 모두 닫혀 있으니 오후에 가는 것이 안전하다.",
+  "en": "There are no building-wide hours; each shop differs. The two Fukufuku Toreka stores on 1F and 4F keep the same timetable, 13:00-21:00 on weekdays and 10:00-21:00 at weekends and on public holidays, while Merucard on 2F runs 13:00-20:00 on weekdays and 11:00-20:00 at weekends and holidays, closing an hour earlier. None of the three has a regular closing day. On weekday mornings all three are shut, so come in the afternoon."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 3~4분, 긴자선 스에히로초역에서 5분. 전기가 출구를 나와 주오도리를 건넌 뒤 마츠모토키요시 옆 골목으로 들어가 선로를 따라 걷다가 KFC에서 오른쪽으로 꺾고, 아키바오를 지나면 코토부키야 아키하바라관이 나온다. 그 바로 북쪽에 붙어 있는 6층 건물이 간바야시 빌딩이다. 1층은 유리 노면 점포가 늘어선 상가 외관(후쿠후쿠 트레카 컬렉션 카드 전문점, 방범카메라 가게 알타클라세, akiba LED 피카리관)이고 중간층은 회색, 위층은 흰색 외벽이라 멀리서도 구분된다. 2층 이상은 1층 점포 옆 통로의 엘리베이터로 올라간다.",
+  "en": "Three to four minutes from the JR Akihabara Electric Town Exit, five from Ginza-line Suehirocho. Cross Chuo-dori, take the lane beside Matsumoto Kiyoshi, follow the tracks, turn right at the KFC and pass Akibaoo; Kotobukiya Akihabara comes up and the six-storey block immediately north of it is the Kambayashi Building. Its ground floor is a run of glass shopfronts (Fukufuku Toreka's collection-card store, the security-camera shop Altaclasse, akiba LED Pikarikan); the middle floors are grey and the upper floors white, which makes it easy to pick out from a distance. Everything above 1F is reached by the lift in the passage beside the ground-floor units."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "3F",
+   "ko": "귀청소·마사지 리프레 가게 나고미야와 젤리비 등 휴식 계열 점포가 쓰는 층. 굿즈나 카드 매장은 없다.",
+   "en": "Relaxation shops — the ear-cleaning salon Nagomiya and JELLYBe — occupy this floor; no card or goods shops."
+  },
+  {
+   "floor": "5F",
+   "ko": "5평 남짓한 소형 임대 사무실 구획. 매장 없음.",
+   "en": "A small leased office unit of about 18 sq m; no shop."
+  },
+  {
+   "floor": "6F",
+   "ko": "임대 구획으로 쓰는 최상층. 매장 없음.",
+   "en": "Top floor, let as office space; no shop."
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://growth-office.com/office/bld_4d4e2e12",
+  "https://growth-office.com/office/bld_4d4e2e12/unit_2254e1cf",
+  "https://fukufukutoreka.com/",
+  "https://akihabara-cardshop.com/shop/",
+  "https://a-nagomiya.com/about",
+  "https://www.openstreetmap.org/way/89181590"
+ ],
+ "osm_id": "way/89181590"
+}

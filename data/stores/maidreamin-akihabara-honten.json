@@ -31,17 +31,14 @@
   "ko": "메이드 카페 체인 본점, 36석. 오므라이스·음료와 메이드 체키 촬영",
   "en": "The chain's 36-seat flagship maid cafe: omurice, drinks and cheki photos with maids"
  },
- "building_id": null,
+ "building_id": "sumiyoshi-building",
  "floors": [
   "6F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701982,
-  "lng": 139.771337
- },
- "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田3-16-17 住吉ビル6階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-16-17 住吉ビル6F",
  "hours": {
   "rules": [
    {

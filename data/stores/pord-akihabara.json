@@ -31,16 +31,13 @@
   "ko": "개인이 위탁한 중고 피규어·캐릭터 굿즈가 채워진 1층 렌탈 쇼케이스 매장",
   "en": "Ground-floor rental showcase of collector-consigned used figures and character goods"
  },
- "building_id": null,
+ "building_id": "mn-building",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701872,
-  "lng": 139.771245
- },
- "street_segment": "suehirocho",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-15-5 MNビル1F",
  "hours": {
   "rules": [

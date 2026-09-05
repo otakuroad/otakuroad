@@ -49,17 +49,14 @@
   "ko": "캐릭터 티셔츠·굿즈, 코스파티오 코스프레 의상, 동방 굿즈·아조네 돌을 파는 코스파 직영점",
   "en": "COSPA's own shop: character apparel, COSPATIO cosplay costumes, Touhou and doll corners"
  },
- "building_id": null,
+ "building_id": "onoden-honkan",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698302,
-  "lng": 139.770849
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田1-2-7 オノデンビル4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-7 オノデン本館 4F",
  "hours": {
   "rules": [
    {

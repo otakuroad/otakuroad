@@ -34,16 +34,13 @@
   "ko": "KATO·TOMIX 등 N게이지·16번 철도모형 신품과 중고를 파는 7층 전문점",
   "en": "Seventh-floor railway-model shop: new and used N-gauge and 16-ban trains, KATO and TOMIX"
  },
- "building_id": null,
+ "building_id": "sumiyoshi-building",
  "floors": [
   "7F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701976,
-  "lng": 139.771306
- },
- "street_segment": "suehirocho",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-16-17 住吉ビル7F",
  "hours": {
   "rules": [

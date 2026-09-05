@@ -30,17 +30,14 @@
   "ko": "시간당 880엔 차지의 메이드 카페, 오므라이스·체키와 메이드 라이브 무대",
   "en": "Maid cafe with an 880 yen hourly charge, omurice, cheki photos and live song slots"
  },
- "building_id": null,
+ "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.70123,
-  "lng": 139.771815
- },
- "street_segment": "chuo_dori",
- "address_ja": "〒101-0021 東京都千代田区外神田4-4-2 共益外神田第一ビル4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル 4F",
  "hours": {
   "rules": [
    {

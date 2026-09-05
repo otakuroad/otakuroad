@@ -32,17 +32,14 @@
   "ko": "포켓몬·유희왕·원피스·듀얼마스터즈 싱글과 66석 듀얼 스페이스를 갖춘 지하 카드숍",
   "en": "Basement card shop: Pokemon, Yu-Gi-Oh, One Piece and Duel Masters singles, 66 play seats"
  },
- "building_id": null,
+ "building_id": "onoden-honkan",
  "floors": [
   "B1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698346,
-  "lng": 139.770969
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田1-2-7 オノデン秋葉原本館B1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-7 オノデン本館 B1F",
  "hours": {
   "rules": [
    {

@@ -34,16 +34,13 @@
   "ko": "바이스슈발츠·건담 카드게임 싱글과 24석 무료 듀얼 스페이스",
   "en": "Weiss Schwarz, Gundam Card Game and other TCG singles with a free 24-seat duel space"
  },
- "building_id": null,
+ "building_id": "liberty-5gokan",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701481,
-  "lng": 139.771895
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田4-5-1 リバティー5号館5F",
  "hours": {
   "rules": [

@@ -40,16 +40,13 @@
   "ko": "유희왕·포켓몬 등 20여 종 TCG 싱글과 156석 대전 공간을 갖춘 카드 전문점",
   "en": "Singles for 20-plus card games plus a 156-seat duel space on 2F"
  },
- "building_id": null,
+ "building_id": "imai-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700428,
-  "lng": 139.769836
- },
- "street_segment": "ura_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-2-14 今井ビル2F",
  "hours": {
   "rules": [

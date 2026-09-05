@@ -1,0 +1,90 @@
+{
+ "id": "akiba1131-building",
+ "name": {
+  "ko": "아키바1131 빌딩",
+  "en": "Akiba1131 Building",
+  "ja": "Akiba1131.bldg"
+ },
+ "location": {
+  "lat": 35.698836,
+  "lng": 139.771594
+ },
+ "address_ja": "東京都千代田区外神田1-13-1",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F",
+  "10F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없고 층마다 다르다. 1F 아드아즈 아키하바라 2호점(크레인게임 오락실)은 밤늦게까지 열고, 2F AK!BA FAN CUBE는 평일 12:00~20:00·토·일·공휴일 11:00~20:00, 4F 오럴디자인클리닉은 10:00~13:45와 14:45~18:30 예약제, 7F·8F 이자카야는 저녁부터 심야까지 영업한다. 3F 트레이디아와 9F 토레카루 같은 트레카 매장은 낮에 열어 21시 전후에 닫으므로 각 매장 카드에서 확인할 것.",
+  "en": "The building keeps no common hours and every floor differs. The 1F Adores Akihabara No.2 crane-game arcade runs late; AK!BA FAN CUBE on 2F is 12:00-20:00 on weekdays and 11:00-20:00 at weekends and holidays; the Oral Design dental clinic on 4F works 10:00-13:45 and 14:45-18:30 by appointment; the izakaya on 7F and 8F open in the evening and run into the night. The card shops on 3F and 9F open around midday and close about 21:00, so check each store card."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 1분. 개찰을 나와 라디오회관을 지나 주오도리까지 곧장 걸은 뒤 우회전해 북쪽으로 50m쯤 가면, 동쪽 보도에 노란 GAME PANIC 간판이 붙은 모퉁이 오락실 건물이 나오고 그 바로 북쪽에 붙어 있는 폭 좁은 10층 건물이 Akiba1131 빌딩이다. 벽면을 덮은 대형 간판이 표식이고 북쪽 옆은 라무타라 아키하바라점. 1층 크레인게임장 옆의 좁은 입구로 들어가 엘리베이터(1대)를 타며, 입구의 층별 안내판에서 층을 확인한다. 쓰쿠바 익스프레스 아키하바라역 A1 출구 도보 3분, 긴자선 스에히로초역 도보 6분.",
+  "en": "One minute from the JR Akihabara Electric Town Exit (電気街口). Leave the gates, walk straight past Radio Kaikan to Chuo-dori, turn right and go about 50 m north; on the east sidewalk you pass the corner arcade building under the yellow GAME PANIC sign, and the narrow ten-storey block attached immediately north of it is Akiba1131.bldg. The large wall signboard is the marker and Lammtarra Akihabara is the next building north. Enter the narrow doorway beside the 1F crane-game arcade and take the single elevator, checking the floor directory at the entrance. Tsukuba Express exit A1 is 3 minutes, Ginza-line Suehirocho 6 minutes."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "1F",
+   "ko": "아드아즈 아키하바라 2호점 · 크레인게임 프라이즈 중심의 오락실로 건물 정면 전체를 쓴다",
+   "en": "Adores Akihabara No.2, a crane-game prize arcade filling the whole street frontage"
+  },
+  {
+   "floor": "2F",
+   "ko": "AK!BA FAN CUBE · 캐릭터 굿즈 브랜드 COCOLLABO의 이벤트 스페이스(평일 12:00~20:00, 토·일·공휴일 11:00~20:00)",
+   "en": "AK!BA FAN CUBE, the event space for the COCOLLABO character-goods brand (12:00-20:00 weekdays, 11:00-20:00 weekends and holidays)"
+  },
+  {
+   "floor": "4F",
+   "ko": "오럴디자인클리닉 아키하바라 · 치과·교정치과(완전 예약제)",
+   "en": "Oral Design Clinic Akihabara, a dental and orthodontic clinic seen by appointment"
+  },
+  {
+   "floor": "5F",
+   "ko": "임대 사무실 층(기준층 27.29평). 일반 손님용 매장은 없음",
+   "en": "Rental office floor (standard plate 27.29 tsubo); no shop open to walk-in customers"
+  },
+  {
+   "floor": "6F",
+   "ko": "임대 사무실 층. 일반 손님용 매장은 없음",
+   "en": "Rental office floor; no shop open to walk-in customers"
+  },
+  {
+   "floor": "7F",
+   "ko": "스시자카바 킨노다시 아키하바라점 · 개별룸 스시 이자카야",
+   "en": "Kinnodashi Akihabara, a private-room sushi izakaya"
+  },
+  {
+   "floor": "8F",
+   "ko": "와라야키 이나리쇼텐 아키하바라점 · 개별룸 이자카야",
+   "en": "Warayaki Inari Shoten Akihabara, a private-room izakaya"
+  },
+  {
+   "floor": "10F",
+   "ko": "최상층 임대 사무실 층(90.21㎡ 1구획). 매장 없음",
+   "en": "Top-floor rental office (a single 90.21 sqm unit); no shop"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://best-tokyo.com/office/items/16226",
+  "https://officil.com/est/bl/0014113",
+  "https://www.v-officenavi.com/rent_view/92357",
+  "https://www.at-office.jp/detail/94043/",
+  "https://akiba-fancube.tokyo/",
+  "https://oraldesign.jp/",
+  "https://www.hotpepper.jp/strJ004470524/",
+  "https://prize.bushiroad-creative.com/shop/",
+  "https://www.openstreetmap.org/way/80511949"
+ ],
+ "osm_id": "way/80511949"
+}

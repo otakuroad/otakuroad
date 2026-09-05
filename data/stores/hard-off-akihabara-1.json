@@ -35,7 +35,7 @@
   "ko": "2층 중고 게임기·게임 소프트, B1층 정크 부품 코너. 오디오·카메라·악기도 취급",
   "en": "Used consoles and game software on 2F, a junk-parts corner in B1F, plus audio and cameras"
  },
- "building_id": null,
+ "building_id": "rock-building",
  "floors": [
   "B1F",
   "2F",
@@ -58,11 +58,8 @@
    "en": "Musical instruments, including effects pedals"
   }
  ],
- "location": {
-  "lat": 35.700536,
-  "lng": 139.770534
- },
- "street_segment": "ura_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-11-2 ロックビル B1F・2F・3F",
  "hours": {
   "rules": [

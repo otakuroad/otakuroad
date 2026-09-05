@@ -30,17 +30,14 @@
   "ko": "유희왕 전용 4층 매장. 초기판·빈티지 싱글, 절판 미개봉 박스, 슬리브",
   "en": "Yu-Gi-Oh!-only 4F shop: early-era and vintage singles, out-of-print boxes, card supplies"
  },
- "building_id": null,
+ "building_id": "kambayashi-building",
  "floors": [
   "4F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.699298,
-  "lng": 139.770463
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田1-8-7 神林ビル4F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-8-7 神林ビル 4F",
  "hours": {
   "rules": [
    {

@@ -35,18 +35,15 @@
   "ko": "주오도리 노면 1층·B1층 점포. 포켓몬·원피스 카드 싱글과 매입",
   "en": "Street-level 1F/B1F card shop on Chuo-dori; Pokemon and One Piece singles and buyback"
  },
- "building_id": null,
+ "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
-  "1F",
-  "B1F"
+  "B1F",
+  "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701228,
-  "lng": 139.771854
- },
- "street_segment": "chuo_dori",
- "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル 1F・B1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル B1F・1F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

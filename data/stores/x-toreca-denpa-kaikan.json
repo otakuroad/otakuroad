@@ -34,17 +34,14 @@
   "ko": "포켓몬·원피스 트레카 오리파(랜덤팩) 자판기가 늘어선 무인 매장",
   "en": "Unstaffed shop of oripa (random card pack) vending machines for Pokemon and One Piece TCG"
  },
- "building_id": null,
+ "building_id": "akihabara-denpa-kaikan",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698557,
-  "lng": 139.771797
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館 1F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

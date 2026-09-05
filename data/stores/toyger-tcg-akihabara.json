@@ -36,16 +36,13 @@
   "ko": "포켓몬·원피스 트레카 싱글과 자체 브랜드 슬리브·플레이매트, 24시까지 영업",
   "en": "Pokemon and One Piece singles plus TOYGER's own sleeves and playmats; open until midnight"
  },
- "building_id": null,
+ "building_id": "senju-building-7",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701341,
-  "lng": 139.771294
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-14-6 千住ビル7 3F",
  "hours": {
   "rules": [

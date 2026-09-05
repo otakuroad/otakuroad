@@ -1,0 +1,86 @@
+{
+ "id": "liberty-5gokan",
+ "name": {
+  "ko": "리버티 5호관",
+  "en": "Liberty Building No.5",
+  "ja": "リバティー5号館"
+ },
+ "location": {
+  "lat": 35.701481,
+  "lng": 139.771895
+ },
+ "address_ja": "東京都千代田区外神田4-5-1",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F"
+ ],
+ "hours_note": {
+  "ko": "건물 공용 영업시간은 없다. 1F·2F 리버티 5호점은 매일 11:00~20:30 연중무휴이고, 5F 카드숍 잇세이는 평일 13:00~19:00, 토·일·공휴일 12:00~20:00이라 평일에는 한 시간 일찍 닫는다. 3F 볼트커피가 매일 10:00~22:00로 이 건물에서 가장 일찍 열고 가장 늦게까지 연다. 6F 위쪽은 임대 사무실 층이라 일반 영업시간이 없으므로, 평일 이른 오후 전에는 사실상 1·2층과 카페만 열려 있다고 보면 된다.",
+  "en": "No building-wide hours. Liberty Store 5 on 1F-2F runs 11:00-20:30 every day of the year; Card Shop Issei on 5F opens 13:00-19:00 on weekdays and 12:00-20:00 at weekends and holidays, closing an hour earlier midweek. Vault Coffee on 3F, 10:00-22:00 daily, opens earliest and closes latest in the building. From 6F up the floors are rental offices with no public hours, so before early afternoon on a weekday only 1F-2F and the cafe are really open."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리 동쪽 보도를 따라 남쪽으로 도보 2분, JR 아키하바라역 전기가 출구(電気街口)에서는 주오도리를 따라 북쪽으로 도보 5분. 주오도리에 바로 면한 9층 건물로, 1층 앞 인도에 늘어선 가챠폰 기계 줄과 리버티 간판이 표식이다. 1층·2층 매장은 길에서 바로 들어가고, 5층 카드숍 잇세이를 비롯한 위층은 매장 오른쪽 입구로 들어가 엘리베이터를 탄다. 바로 북쪽에 붙어 있는 4층짜리 KHK빌딩(스루가야 아니메·호비관)은 같은 4-5-1 번지지만 다른 건물이다.",
+  "en": "Two minutes south from Tokyo Metro Ginza Line Suehirocho along the east pavement of Chuo-dori, or five minutes north from the JR Akihabara Electric Town Exit (電気街口). It is the nine-storey building right on Chuo-dori, marked by the row of gachapon machines on the pavement outside and the Liberty sign. 1F and 2F are entered straight from the street; for Card Shop Issei on 5F and the floors above, use the entrance on the right-hand side of the shop and take the elevator. The four-storey KHK Building attached to the north (Surugaya Anime & Hobby) carries the same 4-5-1 address but is a separate building."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "B1F",
+   "ko": "지하 1층. 공개된 매장 안내가 없는 구획이다",
+   "en": "Basement level; no shop is listed here"
+  },
+  {
+   "floor": "3F",
+   "ko": "볼트커피(VAULT COFFEE) · 26석 스페셜티 커피 전문점, 매일 10:00~22:00, 전원과 무료 와이파이 있음",
+   "en": "VAULT COFFEE - a 26-seat specialty coffee shop, 10:00-22:00 daily, with power sockets and free Wi-Fi"
+  },
+  {
+   "floor": "4F",
+   "ko": "임대 구획. 일반 방문객용 매장 안내가 확인되지 않는다",
+   "en": "A leased unit; no shop open to visitors is listed"
+  },
+  {
+   "floor": "6F",
+   "ko": "임대 사무실 층. 매장은 없다",
+   "en": "Rental office floor; no shop"
+  },
+  {
+   "floor": "7F",
+   "ko": "약 19평(63.5㎡) 규모의 임대 사무실 구획",
+   "en": "A rental office unit of about 19 tsubo (63.5 m2)"
+  },
+  {
+   "floor": "8F",
+   "ko": "임대 사무실 층. 매장은 없다",
+   "en": "Rental office floor; no shop"
+  },
+  {
+   "floor": "9F",
+   "ko": "최상층 임대 사무실 층. 매장은 없다",
+   "en": "Top-floor rental office; no shop"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.office-navi.jp/building/02033898/",
+  "https://www.oasis-estate.jp/building/9249",
+  "https://www.oasis-estate.jp/building/9249/94347",
+  "https://akibatoreka.com/introduce/2324",
+  "https://www.liberty-shop.co.jp/visit/lp-ja-v2.html",
+  "https://akihabara.kokosil.net/ja/place/00001c0000000000000200000034073a",
+  "https://x.com/Liberty5_akiba",
+  "https://cafesnap.me/station-matome/381",
+  "https://www.openstreetmap.org/way/89182732",
+  "https://www.openstreetmap.org/way/89182761"
+ ],
+ "osm_id": "way/89182732"
+}

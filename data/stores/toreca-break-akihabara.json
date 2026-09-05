@@ -32,17 +32,14 @@
   "ko": "PSA 감정품과 유희왕 20th 등 고액 컬렉션 카드를 사고파는 6층 매장",
   "en": "Sixth-floor shop buying and selling PSA slabs and high-value collector cards"
  },
- "building_id": null,
+ "building_id": "new-akihabara-center",
  "floors": [
   "6F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697284,
-  "lng": 139.772697
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル602（6F）",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル 6F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

@@ -30,16 +30,13 @@
   "ko": "주오도리 빌딩 2층의 31석 지점. 오므라이스·음료와 메이드 체키 촬영",
   "en": "31-seat branch on 2F of a Chuo-dori building: omurice, drinks and cheki photos"
  },
- "building_id": null,
+ "building_id": "takarada-chuo-dori-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698303,
-  "lng": 139.7715
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田1-14-1 宝田中央通りビル2F",
  "hours": {
   "rules": [

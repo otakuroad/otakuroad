@@ -33,17 +33,14 @@
   "ko": "포켓몬·원피스·유희왕 싱글 카드와 24석 무료 듀얼 스페이스",
   "en": "Pokemon, One Piece and Yu-Gi-Oh singles with a free 24-seat duel space"
  },
- "building_id": null,
+ "building_id": "mn-building",
  "floors": [
   "3F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701856,
-  "lng": 139.77125
- },
- "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田3-15-5 MNビル3F（秋葉原ガチャポン会館3F）",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル3F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

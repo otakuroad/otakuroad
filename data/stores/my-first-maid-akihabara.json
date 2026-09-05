@@ -29,17 +29,14 @@
   "ko": "1층 길가 왕도 메이드 카페. 60분 차지제 식사·음료와 체키 촬영",
   "en": "Street-level classic maid cafe with a 60-minute charge: meals, drinks and cheki photos"
  },
- "building_id": null,
+ "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
-  "1F"
+  "8F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701253,
-  "lng": 139.771775
- },
- "street_segment": "chuo_dori",
- "address_ja": "〒101-0021 東京都千代田区外神田4-4-2 共益外神田第1ビル1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル 8F",
  "hours": {
   "rules": [
    {

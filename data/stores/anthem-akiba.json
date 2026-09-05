@@ -31,17 +31,14 @@
   "ko": "아니송·J-POP DJ 이벤트와 라이브가 열리는 2층 라이브하우스 겸 클럽",
   "en": "Second-floor live house and club for anisong and J-POP DJ nights and live shows"
  },
- "building_id": null,
+ "building_id": "boxr-akiba-building",
  "floors": [
   "2F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700457,
-  "lng": 139.770129
- },
- "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田3-2-12 BOX'R AKIBAビル2階",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-2-12 Box'R Akibaビル 2F",
  "hours": {
   "rules": [
    {

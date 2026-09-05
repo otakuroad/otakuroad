@@ -1,0 +1,78 @@
+{
+ "id": "imai-building",
+ "name": {
+  "ko": "이마이 빌딩",
+  "en": "Imai Building",
+  "ja": "今井ビル"
+ },
+ "location": {
+  "lat": 35.700479,
+  "lng": 139.76983
+ },
+ "address_ja": "東京都千代田区外神田3-2-14",
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간은 없다. 2F 트레이딩카드숍 193이 평일 12:00~21:00, 토·일·공휴일 10:00~20:00으로 가장 길게 열고, 5F 메르카드 2호점은 평일 13:00~20:00·토·일·공휴일 11:00~20:00, 같은 5F 트레카 만박은 평일 15:00~21:00·토·일·공휴일 13:00~21:00(매입은 20:00까지)이며 부정기 휴무와 시간 변경을 공식 X에만 올린다. B1F 아키하바라 ZEST는 상시 영업이 아니라 공연·대관이 잡힌 날만 여는 예약제 라이브하우스다. 카드숍 세 곳을 한 번에 돌려면 토·일 오후가 가장 확실하다.",
+  "en": "No hours cover the whole building. Trading Card Shop 193 on 2F keeps the longest day, 12:00-21:00 on weekdays and 10:00-20:00 at weekends and holidays. Mercard 2nd Store on 5F is 13:00-20:00 on weekdays and 11:00-20:00 at weekends and holidays, while Toreca Banpaku, also on 5F, is 15:00-21:00 weekdays and 13:00-21:00 weekends and holidays (buying until 20:00) with irregular closures announced only on X. Akihabara ZEST in the basement is not a walk-in venue: it opens only on days with a booked live or event. A weekend afternoon is the safe window for catching all three card shops in one visit."
+ },
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 6~7분. 주오도리를 건너 서쪽으로, 벨살레 아키하바라와 소프맵 사이 좁은 길로 들어가 100m쯤 직진하면 로손과 전자부품 잡화점 아키바오~(あきばお〜)가 나오고, 그 바로 서쪽에 붙어 있는 베이지색 타일 외벽의 8층 건물이 이마이 빌딩이다. 1층 출입구에서 엘리베이터 한 대로 위층에 올라가며, 지하 1층 ZEST는 엘리베이터가 닿지 않아 계단으로 내려간다. 긴자선 스에히로초역에서 도보 5분, 히비야선 아키하바라역 3번 출구에서 도보 7분.",
+  "en": "Six to seven minutes from the JR Akihabara Electric Town Exit (電気街口). Cross Chuo-dori and take the narrow street west between Belle Salle Akihabara and Sofmap, following it about 100 m past a Lawson to the parts-and-sundries shop Akibaoo; the Imai Building is immediately west of it, an eight-storey block faced in beige tile. A single lift from the ground-floor entrance serves the upper floors, while ZEST in the basement is reached by the stairs, not the lift. Suehirocho on the Ginza line is five minutes away and Hibiya-line Akihabara exit 3 is seven."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "1F",
+   "ko": "빌딩 정면 출입구와 엘리베이터 홀이 있는 층. 임대 구획이 있으나 이 안내에 실린 매장은 없다",
+   "en": "The street entrance and lift hall; the leased space on this floor holds no shop covered by this guide"
+  },
+  {
+   "floor": "3F",
+   "ko": "층 단위(약 54평·180㎡)로 빌려주는 사무실·점포 층. 이 안내에 실린 매장은 없다",
+   "en": "Leased as a whole floor of about 54 tsubo (180 m2) for office or shop use; nothing in this guide"
+  },
+  {
+   "floor": "4F",
+   "ko": "층 단위로 빌려주는 사무실·점포 층. 이 안내에 실린 매장은 없다",
+   "en": "Leased as a whole floor for office or shop use; nothing in this guide"
+  },
+  {
+   "floor": "6F",
+   "ko": "층 단위로 빌려주는 사무실·점포 층. 이 안내에 실린 매장은 없다",
+   "en": "Leased as a whole floor for office or shop use; nothing in this guide"
+  },
+  {
+   "floor": "7F",
+   "ko": "층 단위로 빌려주는 사무실·점포 층. 이 안내에 실린 매장은 없다",
+   "en": "Leased as a whole floor for office or shop use; nothing in this guide"
+  },
+  {
+   "floor": "8F",
+   "ko": "최상층. 층 단위로 빌려주는 사무실·점포 층이며 이 안내에 실린 매장은 없다",
+   "en": "Top floor, leased as a whole floor for office or shop use; nothing in this guide"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.office-navi.jp/building/02010515/",
+  "https://sohonavi.jp/building/detail_10942/",
+  "https://www.officeiten.jp/detail/1/10044/593233.html",
+  "https://akihabarazest.com/access",
+  "https://akibatoreka.com/introduce/1137",
+  "https://akibatoreka.com/introduce/2543",
+  "https://akihabara-cardshop.com/shop/",
+  "https://www.openstreetmap.org/way/88999532"
+ ],
+ "osm_id": "way/88999532"
+}

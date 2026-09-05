@@ -31,17 +31,14 @@
   "ko": "대량 스토리지 박스의 실전용 싱글 카드와 좌석 많은 무료 듀얼 스페이스",
   "en": "Play-grade singles from bulk storage boxes and a large free duel space"
  },
- "building_id": null,
+ "building_id": "mn-building",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701856,
-  "lng": 139.77125
- },
- "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田3-15-5 MNビル5F（秋葉原ガチャポン会館5F）",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-15-5 MNビル5F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

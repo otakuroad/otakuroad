@@ -40,17 +40,14 @@
   "ko": "WCCF·FGO 아케이드 등 아케이드 게임 카드 전문점, 포켓몬·유희왕 팩도 취급",
   "en": "Arcade-game cards (WCCF, FGO Arcade, KanColle Arcade) plus Pokemon and Yu-Gi-Oh packs"
  },
- "building_id": null,
+ "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701228,
-  "lng": 139.771854
- },
- "street_segment": "chuo_dori",
- "address_ja": "〒101-0021 東京都千代田区外神田4-4-2 共益外神田第1ビル5F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-4-2 共益外神田第1ビル 5F",
  "hours": {
   "rules": [
    {

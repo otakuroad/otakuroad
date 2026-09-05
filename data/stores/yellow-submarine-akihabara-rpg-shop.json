@@ -32,17 +32,14 @@
   "ko": "보드게임·TRPG·워게임·주사위의 신품·중고·동인 판매와 유료 플레이 테이블",
   "en": "New, used and doujin board games, TRPG books, wargames and dice; paid play tables"
  },
- "building_id": null,
+ "building_id": "shioda-tour-akihabara-building",
  "floors": [
   "6F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.702053,
-  "lng": 139.771963
- },
- "street_segment": "suehirocho",
- "address_ja": "東京都千代田区外神田4-6-1 塩田トゥール秋葉原6F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-6-1 塩田トゥール秋葉原ビル6F",
  "hours": {
   "rules": [
    {

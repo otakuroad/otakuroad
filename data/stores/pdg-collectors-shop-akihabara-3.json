@@ -31,16 +31,13 @@
   "ko": "PSA 등급 포켓몬 카드와 구판 싱글·미개봉 박스를 다루는 컬렉터용 트레카 매장",
   "en": "Graded Pokemon cards, vintage singles and sealed boxes for collectors"
  },
- "building_id": null,
+ "building_id": "asano-building",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.701694,
-  "lng": 139.771334
- },
- "street_segment": "suehirocho",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田3-15-7 麻野ビル1F",
  "hours": null,
  "tax_free": null,

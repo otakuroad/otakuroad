@@ -29,17 +29,14 @@
   "ko": "JR역 가드 아래 전파회관 1층, 애니 피규어를 파는 작은 매장",
   "en": "Anime figures from a small unit in Denpa Kaikan under the tracks by Akihabara Station"
  },
- "building_id": null,
+ "building_id": "akihabara-denpa-kaikan",
  "floors": [
   "1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.698564,
-  "lng": 139.771665
- },
- "street_segment": "denkigai",
- "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館1F",
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-14-3 秋葉原電波会館 1F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",

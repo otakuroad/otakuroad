@@ -1,0 +1,75 @@
+{
+ "address_ja": "東京都千代田区外神田1-6-3",
+ "exit_hint": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 출구를 나와 선로를 끼고 서쪽으로 걷다가 세가 아키하바라 1호관을 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리(神田明神通り)가 나오고, 그 왼편에 선 7층 건물이다. 동쪽 옆이 다이내믹오디오 아키하바라 트레이드센터, 서쪽으로 한 채 건너가 카드숍 아즈마야가 든 쿠마가이 빌딩이라 이 두 건물과 헷갈리지 않도록 주의한다. 1층 노면에 프라페코가 있고 외벽에는 층마다 다른 콘셉트 카페 간판이 세로로 줄지어 붙어 있어 멀리서도 구분된다. 엘리베이터가 1대뿐이라 주말 저녁에는 계단이 빠르다. 긴자선 스에히로초역에서는 도보 9분.",
+  "en": "Five minutes from the JR Akihabara Electric Town Exit. Leave the exit, follow the tracks west past Sega Akihabara Building 1, take the third turn right (north) and you come out on Kanda Myojin-dori; the seven-storey building stands on your left. The Dynamic Audio Akihabara Trade Center is its neighbour to the east and, one door west, the Kumagai Building holds Card Shop Azumaya — a different building, so do not mix the two up. Frapeko occupies the street-level unit and the facade carries a vertical column of concept-cafe signs, one per floor, which makes it easy to pick out. There is only one elevator, so on a busy evening the stairs are quicker. Nine minutes from Suehirocho on the Ginza Line."
+ },
+ "floor_guide_url": null,
+ "floors": [
+  "B1F",
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F"
+ ],
+ "hours_note": {
+  "ko": "건물 공통 영업시간이나 안내 데스크가 없다. 1988년에 지은 한 층 한 점포짜리 콘셉트 카페 건물이라 층마다 시간이 다르고, 대체로 이른 오후에 열어 22~23시에 닫는다. 5F 블루에그는 월~금 14:00~22:00, 토·일·공휴일 13:00~22:00로 고정이지만 1F 프라페코를 비롯한 나머지 층은 그날 SNS 영업 공지를 확인하는 편이 확실하다. 콘셉트 카페 층은 대개 시간제 요금과 별도의 라스트오더가 있으니 입장 전에 요금표를 본다.",
+  "en": "There is no building-wide opening time and no reception desk. It is a 1988 block with one concept cafe per floor, so hours differ floor by floor, generally opening in the early afternoon and closing at 22:00–23:00. BLUE EGG on 5F keeps a fixed 14:00–22:00 Mon–Fri and 13:00–22:00 Sat, Sun and holidays, but for 1F Frapeko and the other floors the reliable check is that shop's own social feed on the day. Most of the cafe floors charge by the hour and set their own last order, so read the price board before you go in."
+ },
+ "id": "akiba-asobikan",
+ "location": {
+  "lat": 35.699643,
+  "lng": 139.769605
+ },
+ "name": {
+  "ko": "아키바아소비관",
+  "en": "Akiba Asobikan",
+  "ja": "アキバあそび館"
+ },
+ "official_url": null,
+ "osm_id": "way/91529478",
+ "source_urls": [
+  "https://blue-egg.tokyo/access.html",
+  "https://www.office-navi.jp/building/02044749/",
+  "https://con-cafe.jp/list/area02/pre08/sub050/35130",
+  "https://npro.city/contact/",
+  "https://search.yahoo.co.jp/search?p=%22%E3%82%A2%E3%82%AD%E3%83%90%E3%81%82%E3%81%9D%E3%81%B3%E9%A4%A8%22",
+  "https://www.openstreetmap.org/way/91529478"
+ ],
+ "uncurated_floors": [
+  {
+   "floor": "B1F",
+   "ko": "지하 1층 소규모 바 MOTTO. 굿즈 매장은 없다",
+   "en": "MOTTO, a small basement bar; no retail"
+  },
+  {
+   "floor": "2F",
+   "ko": "콘셉트 카페 아키바 절대영역 +e(アキバ絶対領域 +e). 층 전체가 한 점포다",
+   "en": "Concept cafe Akiba Zettai Ryoiki +e, which takes the whole floor"
+  },
+  {
+   "floor": "3F",
+   "ko": "콘셉트 카페 블랙 신데렐라(ブラックシンデレラ). 역시 한 층 한 점포",
+   "en": "Concept cafe Black Cinderella, again one shop to the floor"
+  },
+  {
+   "floor": "4F",
+   "ko": "콘셉트 카페 운영사 N프로(株式会社Nプロ)의 사무실. 손님이 들어가는 매장이 아니다",
+   "en": "Office of Npro, the concept-cafe operator; not a shop customers enter"
+  },
+  {
+   "floor": "6F",
+   "ko": "남장 카페(男装カフェ) 한 점포",
+   "en": "A danso (male-attire) cafe occupies the floor"
+  },
+  {
+   "floor": "7F",
+   "ko": "콘셉트 카페 겸 이벤트 공간 스팟라이트(すぽっとらいと)",
+   "en": "Spotlight (すぽっとらいと), a concept cafe and event space"
+  }
+ ],
+ "verified_at": "2026-09-05"
+}

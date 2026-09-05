@@ -1,0 +1,69 @@
+{
+ "id": "asano-building",
+ "name": {
+  "ko": "아사노 빌딩",
+  "en": "Asano Building",
+  "ja": "麻野ビル"
+ },
+ "location": {
+  "lat": 35.701694,
+  "lng": 139.771334
+ },
+ "address_ja": "東京都千代田区外神田3-15-7",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F"
+ ],
+ "hours_note": {
+  "ko": "건물 공용 영업시간은 없고 층마다 다르다. 3F 무장상점은 12:00~19:30이고 화요일 정기휴무(화요일이 공휴일이면 영업하고 다음 날 대체 휴무)라 이 건물에서 가장 먼저 닫는다. 2F 닌닌 아키하바라 2호점은 13:00~20:00에 부정기 휴무, 1F 해산물덮밥집 와카사야는 낮부터 밤까지 연다. 1F PDG 3호점은 공식 영업시간 안내가 없어 방문 전 매장 SNS 확인이 필요하다. 오전에는 위층이 거의 닫혀 있으니 점심 이후에 올라가는 게 좋다.",
+  "en": "There are no building-wide hours; each floor differs. Busou Shouten on 3F runs 12:00-19:30 and closes Tuesdays (open when that Tuesday is a holiday, closed the next day instead) - the earliest close here. Ninnin Akihabara Store 2 on 2F is 13:00-20:00 with irregular holidays, and the Wakasaya seafood-bowl restaurant on 1F runs from midday into the evening. PDG Collector's Shop on 1F publishes no fixed hours, so check its SNS first. The upper floors are mostly shut in the morning, so come after lunch."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리를 따라 남쪽으로 약 100m, 도보 1~2분. JR 아키하바라역 전기가 출구(電気街口)에서는 주오도리를 따라 북쪽으로 도보 5분이다. 주오도리 서쪽 보도에 면한 좁은 6층 건물로, 아파호텔 〈秋葉原末広町駅前〉 바로 북쪽에 붙어 있다. 1층 해산물덮밥집 와카사야(若狭家) 간판과 그 옆 PDG 카드 매장이 표식이며, 위층은 1층 매장 옆 건물 입구로 들어가 올라간다. 같은 3-15-7 번지라도 바로 옆 세키네 빌딩(음아니 1호점)은 다른 건물이니 주의.",
+  "en": "About 100 m south of Tokyo Metro Ginza Line Suehirocho along Chuo-dori, one to two minutes; from the JR Akihabara Electric Town Exit (電気街口) it is five minutes north along Chuo-dori. It is the narrow six-storey building on the west pavement of Chuo-dori, immediately north of the APA Hotel Akihabara Suehirocho-Ekimae. The Wakasaya (若狭家) seafood-bowl restaurant sign on the ground floor and the PDG card shop beside it are the markers; the upper floors are reached through the building entrance next to them. The neighbouring Sekine Building (Oto-Ani No.1) carries the same 3-15-7 address but is a different building."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "2F",
+   "ko": "닌닌 아키하바라 2호점 · 구판(구 뒷면) 포켓몬 카드 싱글과 고가 매입 전문점. 13:00~20:00, 부정기 휴무",
+   "en": "Ninnin Akihabara Store 2 - vintage (old-back) Pokemon card singles and buyback, 13:00-20:00, irregular holidays"
+  },
+  {
+   "floor": "4F",
+   "ko": "층 단위로 빌려주는 임대 구획. 일반 방문객이 들어갈 매장 안내는 확인되지 않는다",
+   "en": "A floor-sized leased unit; no shop open to visitors is listed"
+  },
+  {
+   "floor": "5F",
+   "ko": "임대 사무실 구획. 공개된 매장 안내가 없다",
+   "en": "Rental office unit; no publicly listed shop"
+  },
+  {
+   "floor": "6F",
+   "ko": "1973년 준공 건물의 최상층 임대 구획. 공개된 매장 안내가 없다",
+   "en": "Top floor of this 1973 building, another leased unit with no publicly listed shop"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.office-navi.jp/building/02043885/",
+  "https://officil.com/est/bl/0043340",
+  "https://japan-office.jp/tokyo/detail/56722",
+  "https://www.livex-inc.com/search/detail/facility_index.php?id=62482",
+  "https://pdg-collectorsshop.com/about/",
+  "https://busou.sakura.ne.jp/guide.html",
+  "https://akihabara.kokosil.net/ja/place/00001c000000000000020000003406a6",
+  "https://akiba-asterisk.blog.jp/archives/59123808.html",
+  "https://akiba-asterisk.blog.jp/archives/56406988.html",
+  "https://japan-toreca-map.jp/shop/2250/",
+  "https://onkyoanime.com/about",
+  "https://www.openstreetmap.org/way/89002315"
+ ],
+ "osm_id": "way/89002315"
+}

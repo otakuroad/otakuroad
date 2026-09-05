@@ -1,0 +1,75 @@
+{
+ "id": "etranger-18-akihabara",
+ "name": {
+  "ko": "에트랑제18 아키하바라",
+  "en": "Etranger 18 Akihabara",
+  "ja": "エトランゼ18秋葉原"
+ },
+ "location": {
+  "lat": 35.701605,
+  "lng": 139.769474
+ },
+ "address_ja": "東京都千代田区外神田3-5-1",
+ "floors": [
+  "1F",
+  "2F",
+  "3F",
+  "4F",
+  "5F",
+  "6F",
+  "7F",
+  "8F",
+  "9F"
+ ],
+ "hours_note": {
+  "ko": "건물 공용 영업시간이 없고 층마다 다르다. 트레카 매장이 대부분 오후에 문을 열어 1F·2F 카드숍 톤톤은 13:00~20:00(목요일 정기휴무), 3F NEO는 13:00~19:00, 5F magi 별관은 판매 13:00~18:00·매입 13:00~17:00로 가장 일찍 닫는다. 9F 시샤바 마도이는 화~토 19:00~다음 날 4:00, 일 15:00~23:00, 월요일 휴무로 밤에만 연다. 오전에는 사실상 전 층이 닫혀 있으니 점심 이후에 가는 게 좋다.",
+  "en": "There are no building-wide hours and every floor differs. The card shops mostly open in the afternoon: Card Shop Tonton on 1F-2F 13:00-20:00, closed Thursdays; trading card shop NEO on 3F 13:00-19:00; magi Akihabara Annex on 5F selling 13:00-18:00 with the buyback counter until 17:00, the earliest close in the building. Shisha Bar Madoi on 9F is a night venue - Tue-Sat 19:00 to 04:00, Sun 15:00-23:00, closed Mondays. Nothing much is open in the morning, so come after lunch."
+ },
+ "exit_hint": {
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 쇼헤이바시도리(昌平橋通り)를 따라 남쪽으로 도보 5분, JR 아키하바라역 전기가 출구(電気街口)에서는 북서쪽으로 도보 7~10분. 주오도리에서 서쪽으로 약 200m 들어간 쇼헤이바시도리 변에 서 있는 2023년 준공 9층 신축 건물이며, 1층 스시집과 카드숍 톤톤 간판이 표식이다. 9층을 뺀 거의 모든 층이 트레카 전문점이라 층마다 다른 가게가 들어 있고, 위층은 1층 안쪽 엘리베이터로 올라간다.",
+  "en": "Five minutes south along Shoheibashi-dori (昌平橋通り) from exit 3 of Tokyo Metro Ginza Line Suehirocho, or seven to ten minutes north-west from the JR Akihabara Electric Town Exit (電気街口). It is the nine-storey building completed in 2023 standing directly on Shoheibashi-dori, about 200 m west of Chuo-dori; the sushi restaurant and the Card Shop Tonton sign on the ground floor are the markers. Nearly every floor except 9F is a different trading-card shop, reached by the elevator just inside the ground-floor entrance."
+ },
+ "floor_guide_url": null,
+ "official_url": null,
+ "uncurated_floors": [
+  {
+   "floor": "4F",
+   "ko": "트레카루비(トレカルビー) · 2026년 1월 24일부터 프리오픈한 트레카 전문점",
+   "en": "Toreka Ruby - a trading-card shop in pre-opening since 24 January 2026"
+  },
+  {
+   "floor": "6F",
+   "ko": "14.2평(46.9㎡) 단일 구획 층. 트레카 전문점이 들어서는 자리지만 임대 공고가 오르내려 입점 매장이 바뀌곤 한다",
+   "en": "A single 14.2-tsubo (46.9 m2) unit let to trading-card shops; it goes on and off the rental market, so the occupant changes"
+  },
+  {
+   "floor": "7F",
+   "ko": "14.2평 단일 구획(701호). 트레카 매장이 들어서는 층이며 공실이 되는 시기가 있다",
+   "en": "A single 14.2-tsubo unit (room 701), used by card shops but periodically vacant"
+  },
+  {
+   "floor": "8F",
+   "ko": "14.2평 단일 구획(801호). 트레카 매장용 임대 층",
+   "en": "A single 14.2-tsubo unit (room 801), leased for card shops"
+  },
+  {
+   "floor": "9F",
+   "ko": "시샤바 마도이(Shisha Bar まどい) · 야간 시샤 바. 화~토 19:00~다음 날 4:00, 일 15:00~23:00, 월요일 휴무. 이 건물에서 유일하게 트레카 매장이 아닌 층",
+   "en": "Shisha Bar Madoi - a late-night shisha bar, Tue-Sat 19:00-04:00 and Sun 15:00-23:00, closed Mondays; the one floor here that is not a card shop"
+  }
+ ],
+ "verified_at": "2026-09-05",
+ "source_urls": [
+  "https://www.oasis-estate.jp/building/39727",
+  "https://www.office-check.co.jp/building/464914/",
+  "https://1-3rdrealestate.com/build-6629469/room-29081760.html",
+  "https://www.at-office.jp/detail/210560/6/",
+  "https://akiba-asterisk.blog.jp/archives/59699508.html",
+  "https://akiba-asterisk.blog.jp/archives/57786330.html",
+  "https://cardshopmagi.com/shop/magi-akihabara-annex/",
+  "https://www.shishamadoi.com/",
+  "https://akihabara-cardmap.com/ja/shop/trading-card-shop-neo/",
+  "https://1-3rdrealestate.com/diary-detail-579615/"
+ ],
+ "osm_id": null
+}

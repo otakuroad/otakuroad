@@ -24,17 +24,14 @@
   "ko": "메이드 카페 겸 바. 시간 요금 1시간 800엔에 1드링크 주문제",
   "en": "Maid cafe and bar; 800 yen an hour plus a one-drink order"
  },
- "building_id": null,
+ "building_id": "akiba-asobikan",
  "floors": [
   "5F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.699627,
-  "lng": 139.769601
- },
+ "location": null,
  "street_segment": null,
- "address_ja": "〒101-0021 東京都千代田区外神田1-6-3 アキバあそび館5F",
+ "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館 5F",
  "hours": {
   "rules": [
    {

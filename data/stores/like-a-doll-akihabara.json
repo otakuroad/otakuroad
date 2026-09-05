@@ -28,16 +28,13 @@
   "ko": "인형 콘셉트 메이드카페. 지하 1층에서 오므라이스 등 식사와 메이드 체키",
   "en": "Doll-themed maid cafe in the basement: omurice, drinks and cheki photos with maids"
  },
- "building_id": null,
+ "building_id": "tit-akihabara",
  "floors": [
   "B1F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.700075,
-  "lng": 139.771983
- },
- "street_segment": "chuo_dori",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原B1F",
  "hours": {
   "rules": [

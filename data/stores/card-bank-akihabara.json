@@ -32,16 +32,13 @@
   "ko": "유희왕·포켓몬·바이스 싱글 판매와 매입, 24석 듀얼 스페이스",
   "en": "Yu-Gi-Oh, Pokemon and Weiss Schwarz singles with buyback and a 24-seat duel space"
  },
- "building_id": null,
+ "building_id": "liberty-2gokan",
  "floors": [
   "7F"
  ],
  "floor_guide": [],
- "location": {
-  "lat": 35.697683,
-  "lng": 139.772229
- },
- "street_segment": "denkigai",
+ "location": null,
+ "street_segment": null,
  "address_ja": "東京都千代田区外神田1-15-14 リバティー2号館7F",
  "hours": {
   "rules": [
