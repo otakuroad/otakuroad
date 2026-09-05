@@ -34,8 +34,8 @@
  "uncurated_floors": [
   {
    "floor": "1F",
-   "ko": "에디온 쪽은 완구(호비·피규어)·조리가전·화장품·기념품과 면세 카운터, 라옥스 쪽은 브랜드 시계 Watch.와 주얼리 저우다푸(周大福)",
-   "en": "On the EDION side, toys (hobby and figures), cooking appliances, cosmetics, souvenirs and the tax-free counter; on the Laox side, the Watch. brand-watch shop and Chow Tai Fook jewellery"
+   "ko": "에디온 쪽은 완구(호비·피규어)·조리가전·화장품·기념품과 면세 카운터, 라옥스 쪽은 시계·브랜드 가방·위스키·금 매장",
+   "en": "On the EDION side, toys (hobby and figures), cooking appliances, cosmetics, souvenirs and the tax-free counter; on the Laox side, watches, brand bags, whisky and gold"
   },
   {
    "floor": "2F",
@@ -49,18 +49,18 @@
   },
   {
    "floor": "4F",
-   "ko": "에디온 쪽은 TV·오디오·PC·프린터·디지털 카메라, 라옥스 쪽은 드러그스토어와 2026년 4월 문을 연 Japan Culture ZONE",
-   "en": "The EDION side has TVs, audio, computers, printers and cameras; the Laox side has a drugstore and the Japan Culture ZONE that opened in April 2026"
+   "ko": "에디온 쪽은 TV·오디오·PC·프린터·디지털 카메라. 라옥스 쪽 구획은 현재 라옥스 공식 플로어 안내에서 빠졌고(공식 안내는 1F~3F까지만), 운영사 파레트그룹이 2026년 7월부터 같은 건물 안에서 트레카모올을 증축하기로 하면서 그 자리로 넘어갔다",
+   "en": "The EDION side has TVs, audio, computers, printers and cameras. The Laox-side space here has dropped out of Laox's own floor guide, which now stops at 3F, and it was taken over when the operator Palette Group expanded the Toreca Mall into an extra block inside the building from July 2026"
   },
   {
    "floor": "6F",
-   "ko": "에디온이 직접 운영하는 미니욘쿠 서킷과 관련 상품 코너, 그 옆의 트레카 매장 트레카 캐피탈 AKIBA(무료 듀얼 스페이스 있음)",
-   "en": "EDION's own Mini 4WD circuit and parts corner, with the TreCapital AKIBA trading-card shop and its free duel space alongside it"
+   "ko": "에디온이 직접 운영하는 미니욘쿠 서킷과 관련 상품 코너, 그리고 플라모델·트레카 매대",
+   "en": "EDION's own Mini 4WD circuit and parts corner, alongside plastic models and trading cards"
   },
   {
    "floor": "7F",
-   "ko": "에디온 법인영업부 도쿄지점과 라옥스 글로벌 리테일링 본사가 들어선 사무실 층으로 매장은 없다",
-   "en": "Office floor housing the EDION corporate sales Tokyo branch and the Laox Global Retailing head office; no shops"
+   "ko": "매장이 없는 사무실 층. 에디온 법인영업부 도쿄지점(외신다 1-2-9 에디온AKIBA 7층, 평일 9:30~18:30, 토·일 휴무)과 라옥스 글로벌 리테일링의 아키하바라 사무실이 있다",
+   "en": "An office floor with no shops: EDION's corporate-sales Tokyo branch (Gaikanda 1-2-9, EDION AKIBA 7F, weekdays 9:30-18:30, closed Saturdays and Sundays) and a Laox Global Retailing office"
   },
   {
    "floor": "8F",
@@ -68,7 +68,7 @@
    "en": "Not covered by any shopper-facing floor guide; published guides stop at the B1F-6F shops and the 7F offices"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://search.edion.com/e_store/spot/detail?code=0000004762",
   "https://my.edion.jp/search/detail.php?sc=04762&tp=1",
@@ -83,7 +83,10 @@
   "https://livejapan.com/ja/in-tokyo/in-pref-tokyo/in-akihabara/spot-lj0000679/",
   "https://x.com/ta_i7/status/1931201580440973727",
   "https://x.com/ta_i7/status/2032678510599508330",
-  "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9"
+  "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9",
+  "https://prtimes.jp/main/html/rd/p/000000064.000152399.html",
+  "https://api.fxtwitter.com/HAO_akihabara",
+  "https://api.fxtwitter.com/toreca_maall"
  ],
  "osm_id": "node/1915175459",
  "photo": {

@@ -40,37 +40,12 @@
    "en": "Ginza Lion beer hall (restaurant)"
   },
   {
-   "floor": "1F",
-   "ko": "트레카·쿠지 매장(호비스테이션·후쿠후쿠 트레카·쿠지 전문점 마하)·카드라보 매입센터·기념품숍 The AkiBa·안경점 OWNDAYS·패밀리마트",
-   "en": "Trading-card and kuji shops (Hobby Station, Fukufuku Toreka, kuji specialist Mach), Card Labo buyback counter, gift shop The AkiBa, OWNDAYS eyewear, FamilyMart"
-  },
-  {
-   "floor": "2F",
-   "ko": "소형 트레카·완구 매장(호비스테이션 역전점·카드숍 카이조쿠오·하비코로 완구)·렌탈 쇼케이스 아스톱·토모카 전기 프로숍(음향기기)",
-   "en": "Small trading-card and toy shops (Hobby Station Ekimae, Card Shop Kaizokuou, Havikoro Toy), Astop rental showcases, Tomoca Electric pro-audio shop"
-  },
-  {
-   "floor": "4F",
-   "ko": "아미아미 라디오회관점(신품 피규어·프라모델 소매 매장)",
-   "en": "AmiAmi Radio Kaikan branch (new figures and model kits)"
-  },
-  {
-   "floor": "7F",
-   "ko": "돌 매장(아존 레이블숍·DOLK)·정글 아키하바라 2호점(중고 피규어·완구)·트레카 파크 AKIBA 라지관점",
-   "en": "Doll shops (Azone Label Shop, DOLK), Jungle Akihabara No.2 used figures and toys, Treca Park AKIBA cards"
-  },
-  {
-   "floor": "8F",
-   "ko": "볼크스 돌 포인트 아키하바라(돌피 등 돌)·볼크스 호비 스퀘어 아키하바라(프라모델·공구·도료)",
-   "en": "Volks Doll Point Akihabara (Dollfie and other dolls) and Volks Hobby Square Akihabara (model kits, tools, paints)"
-  },
-  {
    "floor": "10F",
    "ko": "이벤트 스페이스(전시·팝업 행사장, 상설 매장 없음)",
    "en": "Event space for exhibitions and pop-ups; no permanent shops"
   }
  ],
- "verified_at": "2026-09-04",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
   "https://akihabara-radiokaikan.co.jp/access/",

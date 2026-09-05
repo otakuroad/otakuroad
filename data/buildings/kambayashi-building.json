@@ -31,13 +31,13 @@
  "uncurated_floors": [
   {
    "floor": "3F",
-   "ko": "귀청소·마사지 리프레 가게 나고미야와 젤리비 등 휴식 계열 점포가 쓰는 층. 굿즈나 카드 매장은 없다.",
-   "en": "Relaxation shops — the ear-cleaning salon Nagomiya and JELLYBe — occupy this floor; no card or goods shops."
+   "ko": "귀청소·마사지 리프레 가게 나고미야(和み屋)와 젤리비(JELLYBe) 등 휴식 계열 점포가 쓰는 층. 굿즈나 카드 매장은 없다.",
+   "en": "Relaxation shops - the ear-cleaning salon Nagomiya (和み屋) and JELLYBe - occupy this floor; no card or goods shops."
   },
   {
    "floor": "5F",
-   "ko": "5평 남짓한 소형 임대 사무실 구획. 매장 없음.",
-   "en": "A small leased office unit of about 18 sq m; no shop."
+   "ko": "공개된 매장 안내가 없는 층. 사무실 구획으로 쓰인다.",
+   "en": "No shop is listed on this floor; it is used as office space."
   },
   {
    "floor": "6F",
@@ -45,7 +45,7 @@
    "en": "Top floor, let as office space; no shop."
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://growth-office.com/office/bld_4d4e2e12",
   "https://growth-office.com/office/bld_4d4e2e12/unit_2254e1cf",

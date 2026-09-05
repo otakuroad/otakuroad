@@ -21,8 +21,8 @@
   "7F"
  ],
  "hours_note": {
-  "ko": "건물 공통 영업시간은 없다. 1F 신소쿠 아키하바라 매입센터는 트레카 매입만 받는 카운터이고, 3F 크라운티아라는 월~목 17:00~23:00, 금 17:00부터·토 12:00부터 각각 다음 날 새벽까지, 일·공휴일 12:00~23:00으로 이 건물에서 가장 늦게까지 연다. 6F 호로카드는 공표된 고정 영업시간을 확인하지 못했으니 방문 전 공식 SNS를 확인하는 편이 좋다. 엘리베이터는 한 대뿐이다.",
-  "en": "The building keeps no common hours. Shinsoku's Akihabara centre on 1F is a buyback-only counter; CrownTiara on 3F runs 17:00-23:00 Mon-Thu, from 17:00 on Friday and from 12:00 on Saturday into the early hours, and 12:00-23:00 on Sunday and public holidays, making it the latest-opening tenant. We could not confirm published hours for Holocard on 6F, so check its social media before going. There is only one lift."
+  "ko": "건물 공통 영업시간은 없다. 1F 신소쿠 아키하바라 매입센터는 트레카 매입만 받는 카운터로 11:30~19:30(최종 접수 19:00)에 연다. 3F 크라운티아라는 월~목 17:00~23:00, 금 17:00부터·토 12:00부터 각각 다음 날 새벽 5시까지, 일·공휴일 12:00~23:00으로 이 건물에서 가장 늦게까지 연다. 6F 호로카드는 2026년 8월 영업시간을 바꿔 평일 12:00~20:00, 토·일·공휴일 11:00~21:00으로 운영한다. 엘리베이터는 한 대뿐이다.",
+  "en": "The building keeps no common hours. Shinsoku's Akihabara buyback centre on 1F is a buy-only counter open 11:30-19:30, with the last items taken at 19:00. CrownTiara on 3F runs 17:00-23:00 Mon-Thu, from 17:00 on Friday and from 12:00 on Saturday through to 05:00 the next morning, and 12:00-23:00 on Sunday and public holidays, making it the latest-opening tenant. Holocard on 6F changed its hours in August 2026 and now opens 12:00-20:00 on weekdays and 11:00-21:00 at weekends and public holidays. There is only one lift."
  },
  "exit_hint": {
   "ko": "긴자선 스에히로초역에서 도보 4분, JR 아키하바라역 전기가 출구에서 도보 8분. 주오도리에서 서쪽으로 한 블록 들어간 쇼헤이바시도리(昌平橋通り) 변에 선 1981년 준공 7층 사무실 빌딩이다. 1층 노면에 트레카 매입 전문 카운터 신소쿠가 있고, 그 옆 좁은 공용 입구로 들어가 한 대뿐인 엘리베이터로 위층에 올라간다. 주오도리 쪽 대형 매장들과 달리 눈에 띄는 간판이 적으니 1층 신소쿠 간판을 표지로 삼는 편이 빠르다.",
@@ -38,8 +38,8 @@
   },
   {
    "floor": "2F",
-   "ko": "약 17~18평(57~60㎡)짜리 소형 임대 사무실 층. 소매 매장은 없다",
-   "en": "A small rental office floor of roughly 57-60 m²; no retail"
+   "ko": "임대 사무실 층. 전자부품 상사 주식회사 이노덴(イノデン)의 본사가 있으며 소매 매장은 없다",
+   "en": "An office floor: the electronic-parts trading house Inoden has its head office here, and there is no retail"
   },
   {
    "floor": "4F",
@@ -57,14 +57,19 @@
    "en": "The top rental office floor; no shop from this guide"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://crown-tiara.com/access",
   "https://birusaku.jp/detail/detail.php/61587028/",
   "https://www.homes.co.jp/archive/b-19833060/",
   "https://shinsoku-tcg.com/store-plans/akihabara-unification",
   "https://holocard.jp/",
-  "https://www.openstreetmap.org/way/91534583"
+  "https://www.openstreetmap.org/way/91534583",
+  "https://shinsoku-tcg.com/stores/congestion",
+  "https://api.fxtwitter.com/shinsoku_akb_KC",
+  "https://api.fxtwitter.com/holocard_akiba",
+  "https://api.fxtwitter.com/holocard_akiba/status/2083893577189298579",
+  "http://www.inoden.jp/company.html"
  ],
  "osm_id": "way/91534583"
 }

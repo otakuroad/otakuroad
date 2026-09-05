@@ -34,23 +34,28 @@
  "uncurated_floors": [
   {
    "floor": "4F",
-   "ko": "트레카루비(トレカルビー) · 2026년 1월 24일부터 프리오픈한 트레카 전문점",
-   "en": "Toreka Ruby - a trading-card shop in pre-opening since 24 January 2026"
+   "ko": "트레카루비(トレカルビー) · 401호에 있는 트레카 전문점. 유희왕 OCG 게이트볼과 해외판 유희왕, 포켓몬 카드를 다루며 취급 범위를 넓혀 가는 중이다. 토·일 15:00~19:00에만 문을 열어 평일에는 닫혀 있다",
+   "en": "Toreka Ruby - a trading-card shop in room 401 dealing in Yu-Gi-Oh OCG Gateball, overseas-edition Yu-Gi-Oh and Pokemon cards, with its range still expanding. It opens only on Saturdays and Sundays, 15:00-19:00, and is shut on weekdays"
+  },
+  {
+   "floor": "5F",
+   "ko": "2026년 7월 20일까지 magi 아키하바라점 별관(트레카 전문점)이 쓰던 구획. 별관은 이전을 위해 영업을 마쳤고 새 주소는 미공표라, 이 층에 지금 무엇이 있는지는 확인되지 않았다. magi 체인 사이트의 점포 페이지는 아직 이 주소를 싣고 있어 오래된 정보다",
+   "en": "Until 20 July 2026 this was magi Akihabara Annex, a trading-card shop; the annex closed here for a relocation whose new address has not been announced, so what occupies 5F now is unconfirmed. magi's chain store page still lists this address and is stale"
   },
   {
    "floor": "6F",
-   "ko": "14.2평(46.9㎡) 단일 구획 층. 트레카 전문점이 들어서는 자리지만 임대 공고가 오르내려 입점 매장이 바뀌곤 한다",
-   "en": "A single 14.2-tsubo (46.9 m2) unit let to trading-card shops; it goes on and off the rental market, so the occupant changes"
+   "ko": "보드게임 카페 DyCE 아키하바라점이 있던 14.2평(46.9㎡) 단일 구획 층. 2026년 7월 26일자로 폐점해 다음 매장이 들어올 때까지 비어 있다(운영사는 이전 가능성만 밝히고 시기는 정하지 않았다)",
+   "en": "A single 14.2-tsubo (46.9 m2) unit that held the board game cafe DyCE Akihabara until it closed on 26 July 2026; it stands empty until the next tenant arrives, the operator having said only that it may relocate at an undecided date"
   },
   {
    "floor": "7F",
-   "ko": "14.2평 단일 구획(701호). 트레카 매장이 들어서는 층이며 공실이 되는 시기가 있다",
-   "en": "A single 14.2-tsubo unit (room 701), used by card shops but periodically vacant"
+   "ko": "14.2평(46.9㎡) 단일 구획(701호). 2025년 6월 magi 별관이 문을 열 때 이 층을 매입 전용 카운터로 썼고, 이후 트레카 매장용으로 임대 공고가 올랐다가 지금은 계약 완료로 표시돼 있다",
+   "en": "A single 14.2-tsubo (46.9 m2) unit (room 701). magi's annex used it as a buyback-only counter when it opened in June 2025; it later went back on the market as card-shop space and the listing is now marked as let"
   },
   {
    "floor": "8F",
-   "ko": "14.2평 단일 구획(801호). 트레카 매장용 임대 층",
-   "en": "A single 14.2-tsubo unit (room 801), leased for card shops"
+   "ko": "14.2평 단일 구획(801호). 트레카숍 YK를 운영하는 주식회사 YK World가 2025년 5월부터 이곳을 본사로 썼으나 2026년 8월 다이토구 아키하바라로 본사를 옮겼다",
+   "en": "A single 14.2-tsubo unit (room 801). YK World, which runs the Toreca Shop YK chain, had its head office here from May 2025 until it moved to Akihabara in Taito ward in August 2026"
   },
   {
    "floor": "9F",
@@ -58,7 +63,7 @@
    "en": "Shisha Bar Madoi - a late-night shisha bar, Tue-Sat 19:00-04:00 and Sun 15:00-23:00, closed Mondays; the one floor here that is not a card shop"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.oasis-estate.jp/building/39727",
   "https://www.office-check.co.jp/building/464914/",
@@ -69,7 +74,13 @@
   "https://cardshopmagi.com/shop/magi-akihabara-annex/",
   "https://www.shishamadoi.com/",
   "https://akihabara-cardmap.com/ja/shop/trading-card-shop-neo/",
-  "https://1-3rdrealestate.com/diary-detail-579615/"
+  "https://1-3rdrealestate.com/diary-detail-579615/",
+  "https://www.dyce-boardgamecafe.com/",
+  "https://www.dyce-boardgamecafe.com/contact",
+  "https://ykworld.co.jp/company/",
+  "https://www.yk-collection.jp/view/contract",
+  "https://api.fxtwitter.com/torekaruby",
+  "https://api.fxtwitter.com/cardshop_tonton"
  ],
  "osm_id": null
 }

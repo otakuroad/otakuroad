@@ -20,8 +20,8 @@
   "6F"
  ],
  "hours_note": {
-  "ko": "건물 공용 영업시간은 없고 층·호실마다 다르다. 1967년 준공한 임대 점포·사무실 건물이라 사무실 입주자는 24시간 출입할 수 있지만, 매장은 대체로 12:00~13:00에 열어 20:00~22:00에 닫는다. 1F 카드숍 Lotus 12:00~21:00, B1F 트레카라프테르 평일 13:00~20:00·토·일·공휴일 11:00~20:00, 4F 트레카반쿠르·5F 트레카데이즈·6F 트레카브레이크는 모두 13:00~20:00 전후. 오전에 가면 대부분 닫혀 있다.",
-  "en": "There is no building-wide opening time; it differs by floor and by room. The 1967 shop-and-office block gives office tenants 24-hour access, but the shops generally open between 12:00 and 13:00 and close between 20:00 and 22:00. Card Shop Lotus (1F) 12:00–21:00; Toreca Raftel (B1F) 13:00–20:00 on weekdays and 11:00–20:00 at weekends and holidays; Toreka Buncle (4F), Toreca Days (5F) and Toreca Break (6F) all run roughly 13:00–20:00. Come in the morning and almost everything is shut."
+  "ko": "건물 공용 영업시간은 없고 층·호실마다 다르다. 1967년 준공한 임대 점포·사무실 건물이라 사무실 입주자는 24시간 출입할 수 있지만, 매장은 대체로 12:00~13:00에 열어 20:00 전후에 닫는다. B1F 트레카라프테르는 평일 13:00~20:00·토·일 12:00~20:00, 5F 트레카데이즈는 13:00~19:00에 부정기 휴무, 6F 트레카브레이크는 평일 13:00~20:00·토·일 12:00~20:00이고 수요일이 정기휴무다. 2F 트레카볼은 평일 13:00~20:00·토·일·공휴일 12:00~20:00, 1F 카드숍 Lotus는 매입 접수를 14:00~21:00에 받아 이 건물에서 가장 늦게까지 열려 있다. 4F 간다소비는 주말에만 예약제로 연다. 오전에 가면 대부분 닫혀 있다.",
+  "en": "There is no building-wide opening time; it differs by floor and by room. The 1967 shop-and-office block gives office tenants 24-hour access, but the shops generally open between 12:00 and 13:00 and shut around 20:00. Toreca Raftel (B1F) runs 13:00-20:00 on weekdays and 12:00-20:00 at weekends; Toreca Days (5F) 13:00-19:00 with irregular closing days; and Toreca Break (6F) 13:00-20:00 on weekdays and 12:00-20:00 at weekends, closed on Wednesdays. Toreca Ball (2F) runs 13:00-20:00 on weekdays and 12:00-20:00 at weekends and holidays, while Card Shop Lotus (1F) takes buybacks from 14:00 to 21:00 and stays open latest of anything in the building. Kanda Soubi on 4F opens only at weekends and by reservation. Come in the morning and almost everything is shut."
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口) 개찰을 나와 왼쪽, 간다강 방면 남쪽으로 도보 1분. 이자카야 이소마루수산(磯丸水産) 바로 왼쪽에 붙어 있는, 야마노테선·소부선 선로변의 낮고 긴 건물이다. 도로에 면한 벽 전체가 입점 점포 간판으로 덮여 있어 역 승강장에서도 보인다. 간판 아래 통로로 들어가면 안쪽에 엘리베이터가 있고, 지하 1층 매대층으로는 계단으로 내려간다. 쓰쿠바 익스프레스 A1 출구 도보 2분, 도쿄메트로 히비야선 아키하바라역 도보 3분.",
@@ -32,16 +32,21 @@
  "uncurated_floors": [
   {
    "floor": "2F",
-   "ko": "트레카볼 아키하바라점(2층 30호, 포켓몬·원피스 카드)과 오디오사운드 아키하바라역앞점(2층 23호, 예약제 오디오 매입 창구), 그리고 소규모 임대 사무실",
-   "en": "Toreca Ball Akihabara (room 30, Pokémon and One Piece cards), Audio Sound Akihabara Ekimae (room 23, an appointment-only audio buyback counter) and small rented offices"
+   "ko": "트레카볼 아키하바라점(2층 30호, 포켓몬·원피스 카드, 평일 13:00~20:00·토·일·공휴일 12:00~20:00, 매입 최종 접수 19:00)과 오디오사운드 아키하바라역앞점(2층 23호실, 예약제 오디오 매입 창구), 리사이클마이스터 아키하바라역앞점, 그리고 소규모 임대 사무실",
+   "en": "Toreca Ball Akihabara (room 30, Pokemon and One Piece cards, 13:00-20:00 on weekdays and 12:00-20:00 at weekends and holidays, last buyback intake 19:00), Audio Sound Akihabara Ekimae (room 23, an appointment-only audio buyback counter), the Recycle Meister buyback shop and small rented offices"
   },
   {
    "floor": "3F",
    "ko": "10~38평 규모의 임대 사무실 층. 지하 1층 카드숍 트레카라프테르를 운영하는 주식회사 라프테르 본사(301호)도 여기 있으며, 손님이 들어갈 매장은 없다",
    "en": "Rented offices of 10 to 38 tsubo. The head office of Raftel Inc. (room 301), which runs the B1F card shop Toreca Raftel, is on this floor; nothing here is open to shoppers"
+  },
+  {
+   "floor": "4F",
+   "ko": "7~10평짜리 소형 임대 구획이 늘어선 층. 4층 2호에 중고 PC·OA기기를 다루는 정크 전문점 간다소비(神田装備)가 있는데, 유한회사 K&N의 간다영업소로 주말 위주 예약제로만 문을 연다. 일본 최초의 드래곤볼 히어로즈 전문점이던 트레카바클도 이 층에 있었으나 2026년 8월 리뉴얼 뒤로는 온라인 판매를 중심으로 하고 있어, 층 전체가 불쑥 찾아가기 어려운 곳이다",
+   "en": "A floor of small 7-to-10-tsubo units. In room 2 is Kanda Soubi, a junk specialist in used PCs and office equipment run as the Kanda branch of K&N Ltd., which opens mainly at weekends and only by reservation. Toreca Buncle, Japan's first Dragon Ball Heroes specialist, was also on this floor but has presented itself as an online shop since its August 2026 relaunch, so the floor is not somewhere to turn up unannounced"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://officil.com/est/bl/0014116",
   "https://akihabara-cardmap.com/ko/shop/card-shop-lotus-akihabara-store/",
@@ -51,7 +56,15 @@
   "https://www.tcg-raftel.com/info",
   "https://akibatoreka.com/introduce/1131",
   "https://x.com/card_raftel/status/1718248426599821657",
-  "https://www.openstreetmap.org/way/89023315"
+  "https://www.openstreetmap.org/way/89023315",
+  "https://api.fxtwitter.com/card_raftel",
+  "https://api.fxtwitter.com/Lotus_Akiba",
+  "https://api.fxtwitter.com/TDakb01",
+  "https://api.fxtwitter.com/torekabreak",
+  "https://api.fxtwitter.com/TorecaBall",
+  "https://api.fxtwitter.com/kandasoubi",
+  "https://kandnauto.com/company",
+  "https://cardbuncle.com/"
  ],
  "osm_id": "way/89023315"
 }

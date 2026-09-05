@@ -22,8 +22,8 @@
   "8F"
  ],
  "hours_note": {
-  "ko": "돈키호테 본매장은 24시간 연중무휴. 입주 매장은 각자 영업시간이 다르다: 1F 노점·환전소 대략 10:00~22:00, 5F 앳홈카페 돈키점 11:00~22:00, 6F·7F 도쿄 레저랜드 10:00~23:55, 8F AKB48 극장은 공연 있는 날 저녁에만 연다.",
-  "en": "Don Quijote's own floors run 24 hours, every day. Tenants keep their own hours: 1F stalls and the exchange counter roughly 10:00–22:00, @home cafe (5F) 11:00–22:00, Tokyo Leisure Land arcade (6F–7F) 10:00–23:55, and the AKB48 Theater (8F) opens only around performances."
+  "ko": "돈키호테 본매장은 24시간 연중무휴. 입주 매장은 각자 영업시간이 다르다: 1F 스마일리 크레페 11:00~다음 날 4:00, 마루주 정육점 11:00~22:00, SANDO LAB TOKYO 11:00~21:00, 오모챠노 MARURU 11:00~20:00, 아키하바라 머니 익스체인지 10:00~19:00. B1F·1F 파칭코 아일랜드 10:00~22:45, 5F 앳홈카페 돈키점 11:00~22:00(리빙석만 12:00~22:00), 6F·7F 도쿄 레저랜드 10:00~23:55(돈키호테 입주 매장 안내에는 다음 날 1:00로 적혀 있으나 운영사 야마자키야 점포 목록은 23:55). 8F AKB48 극장은 공연이 잡힌 날에만 열리며 공식 사이트에서 공연 일정을 확인해야 한다.",
+  "en": "Don Quijote's own floors run 24 hours, every day. Tenants keep their own hours: on 1F, Smiley Crepe 11:00-04:00, Marujyu beef skewers 11:00-22:00, SANDO LAB TOKYO 11:00-21:00, Omocha no MARURU 11:00-20:00 and the Akihabara Money Exchange 10:00-19:00. The Island pachinko parlor on B1F-1F is 10:00-22:45, @home cafe on 5F 11:00-22:00 (its Living seats from 12:00), and Tokyo Leisure Land on 6F-7F 10:00-23:55 (Don Quijote's tenant page says 01:00, but operator Yamazakiya's own store list gives 23:55). The AKB48 Theater on 8F opens only on performance days, so check the official schedule."
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구로 나와 UDX 방면으로 걸어 주오도리에 닿으면, 우에노·오카치마치 방향(북쪽)으로 약 3분. 또는 UDX 2층 데크로 올라가 끝까지 걸으면 왼쪽에 돈키호테 간판이 보이고, 데크를 내려 주오도리로 나오면 30초 거리.",
@@ -36,12 +36,12 @@
   {
    "floor": "B1F",
    "ko": "파칭코·슬롯 「아일랜드」 (B1F·1F 두 층, 10:00~22:45)",
-   "en": "Island pachinko & slot parlor, spanning B1F and 1F, 10:00–22:45"
+   "en": "Island pachinko & slot parlor, spanning B1F and 1F, 10:00-22:45"
   },
   {
    "floor": "1F",
-   "ko": "주오도리 쪽 입구 · 스마일리 크레페, 튀김샌드 SANDO LAB TOKYO, 소꼬치 마루주 정육점, 아키하바라 머니 익스체인지 환전소, 피규어점 「오모챠노 MARURU」",
-   "en": "Chuo-dori entrance · Smiley Crepe, SANDO LAB TOKYO fried sandwiches, Marujyu beef skewers, Akihabara Money Exchange, and the figure shop Omocha no MARURU"
+   "ko": "주오도리 쪽 입구 · 스마일리 크레페, 튀김샌드 SANDO LAB TOKYO, 소꼬치 마루주 정육점, 아키하바라 머니 익스체인지 환전소",
+   "en": "Chuo-dori entrance, plus Smiley Crepe, SANDO LAB TOKYO fried sandwiches, Marujyu beef skewers and the Akihabara Money Exchange"
   },
   {
    "floor": "2F",
@@ -60,21 +60,11 @@
   },
   {
    "floor": "5F",
-   "ko": "돈키호테 코스프레관(의상 약 1,400벌) + 앳홈카페 돈키점(메이드카페, 11:00~22:00)",
-   "en": "Don Quijote cosplay hall (about 1,400 costumes) + @home cafe Donki branch (maid cafe, 11:00–22:00)"
-  },
-  {
-   "floor": "6F",
-   "ko": "도쿄 레저랜드 아키하바라 2호점 (오락실, 6F·7F, 10:00~다음 날 1:00)",
-   "en": "Tokyo Leisure Land Akihabara No.2 (arcade, 6F–7F, 10:00–01:00)"
-  },
-  {
-   "floor": "7F",
-   "ko": "도쿄 레저랜드 아키하바라 2호점 (오락실, 6F·7F, 10:00~다음 날 1:00)",
-   "en": "Tokyo Leisure Land Akihabara No.2 (arcade, 6F–7F, 10:00–01:00)"
+   "ko": "돈키호테 코스프레관 (의상 약 1,400벌)",
+   "en": "Don Quijote cosplay hall, with about 1,400 costumes"
   }
  ],
- "verified_at": "2026-09-04",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.donki.com/store/shop_detail.php?shop_id=98",
   "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=32",

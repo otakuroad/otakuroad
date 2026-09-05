@@ -63,7 +63,7 @@
    "en": "The Akihabara office of Toracon, an otaku-focused marriage agency; members only and by appointment, not open to visitors"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.office-navi.jp/building/02049431/",
   "https://www.tcg-gate.com/",
@@ -75,7 +75,9 @@
   "https://shop.caferun.jp/shop/12810/",
   "https://sites.google.com/confindo.net/entama/",
   "https://sugarsweet.jp/",
-  "https://www.openstreetmap.org/way/89183349"
+  "https://www.openstreetmap.org/way/89183349",
+  "https://api.fxtwitter.com/Mach_Suehirocho",
+  "https://api.fxtwitter.com/sugar_sweet_akb"
  ],
  "osm_id": "way/89183349"
 }

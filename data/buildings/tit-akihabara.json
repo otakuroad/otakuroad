@@ -19,8 +19,8 @@
   "5F"
  ],
  "hours_note": {
-  "ko": "건물 공통 영업시간은 없고 층마다 다르다. 2F 아키바 절대영역 A.D.2045가 매일 12:00~22:00로 가장 이르고, B1F Like a Doll과 3F 매지컬 롤리팝은 평일 17:00·토·일·공휴일 15:00에 열어 23:00에 닫는다. 1F 라멘집 부쇼야는 11:00~22:00. 4F 신소쿠는 공식 사이트에 점포별 영업시간이 없어 공식 X(@shinsoku_akb4th) 공지를 확인해야 한다. 낮에 오면 1F 라멘집과 2F 카페만 열려 있고 나머지 콘셉트카페는 저녁부터라는 점을 감안해 일정을 잡는다.",
-  "en": "There are no building-wide hours; each floor differs. Akiba Zettai Ryoiki A.D.2045 on 2F opens earliest at 12:00-22:00 every day, while Like a Doll in the basement and Magical Lollipop on 3F both run 17:00-23:00 on weekdays and 15:00-23:00 at weekends and holidays. The 1F ramen shop Busho-ya is 11:00-22:00. Shinsoku on 4F publishes no per-store hours, so check its X account (@shinsoku_akb4th). In the daytime only the 1F ramen shop and the 2F cafe are open, the other concept cafes starting late afternoon."
+  "ko": "건물 공통 영업시간은 없고 층마다 다르다. 2F 아키바 절대영역 A.D.2045가 매일 12:00~22:00로 연중무휴, B1F Like a Doll과 3F 매지컬 롤리팝은 평일 17:00·토·일·공휴일 15:00에 열어 23:00에 닫는다. 1F 라멘집 부쇼야는 11:00~22:00. 4F 신소쿠 아키하바라 4호점은 공식 사이트에 영업시간이 없고 공식 X(@shinsoku_akb4th) 프로필에 10:30~18:30으로 안내한다. 즉 낮에는 1F 라멘집·2F 카페·4F 카드숍이 열려 있고 B1F·3F 콘셉트 카페는 늦은 오후부터 열리며, 반대로 4F 카드숍은 저녁 6시 반에 닫으므로 카드숍과 콘셉트 카페를 하루에 함께 보려면 오후 5시~6시 반 사이가 유일하게 겹치는 시간대다.",
+  "en": "There are no building-wide hours; each floor differs. Akiba Zettai Ryoiki A.D.2045 on 2F runs 12:00-22:00 every day of the year, while Like a Doll in the basement and Magical Lollipop on 3F both open 17:00-23:00 on weekdays and 15:00-23:00 at weekends and holidays. The 1F ramen shop Busho-ya is 11:00-22:00. Shinsoku's Akihabara No.4 branch on 4F publishes no hours on the chain's site but gives 10:30-18:30 in its X profile (@shinsoku_akb4th). So in the daytime the 1F ramen shop, the 2F cafe and the 4F card shop are open and the basement and 3F concept cafes start in the late afternoon, while the card shop shuts at 18:30 - roughly 17:00-18:30 is the only window in which the card shop and the concept cafes are open together."
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 주오도리를 따라 북쪽 스에히로초 방향으로 약 250m, 도보 4분. 타이토 스테이션과 트레이더 3호점 빌딩이 늘어선 주오도리 동쪽 블록에서 한 블록 안쪽(동쪽) 이면도로로 들어가면 나오는 폭 좁은 지상 5층 건물이다. 1층에 걸린 이에케 라멘 부쇼야(家系らーめん 武将家) 간판이 표식이고, 그 옆 출입구의 층별 안내판에서 층을 확인한 뒤 올라간다. 위층 매장 간판이 길에서 거의 보이지 않으므로 라멘집 간판을 먼저 찾는 편이 빠르다. 긴자선 스에히로초역 1번 출구에서는 도보 5분.",
@@ -40,7 +40,7 @@
    "en": "Top floor. No tenant is publicly listed, and no shop open to visitors could be confirmed here"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.homes.co.jp/archive/b-42429373/",
   "https://akibazettai.com/shop/",
@@ -48,7 +48,8 @@
   "https://akiba-maidcafe.co.jp/magical-lollipop/",
   "https://shinsoku-tcg.com/store-plans/akihabara-unification",
   "https://www.openstreetmap.org/way/692672869",
-  "https://www.openstreetmap.org/node/9103711351"
+  "https://www.openstreetmap.org/node/9103711351",
+  "https://api.fxtwitter.com/shinsoku_akb4th"
  ],
  "osm_id": "way/692672869"
 }

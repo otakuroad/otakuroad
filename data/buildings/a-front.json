@@ -23,8 +23,8 @@
   "10F"
  ],
  "hours_note": {
-  "ko": "건물 공통 영업시간은 없고 층마다 따로 문을 연다. 1층 음료 매장과 2층 양식당을 빼면 낮에는 대부분 닫혀 있다. 6·7층 마지컬 트윈테일이 매일 14:00~22:00로 가장 이르고, 8층 래빗 캐슬과 10층 스위트 캣은 평일 17:00·토·일·공휴일 15:00부터 23:00까지, 4층 세븐 데들리 신즈는 평일 18:00·토·일·공휴일 17:00부터 24:00까지다. 정기휴일을 공지하지 않는 매장이 많으니 방문 전 각 매장 카드의 시간을 확인하는 편이 좋다.",
-  "en": "There are no building-wide hours; each floor opens on its own schedule, and apart from the drinks shop on 1F and the restaurant on 2F most of the building is shut during the day. Magical Twintail on 6F/7F opens earliest at 14:00-22:00 daily; Rabbit Castle on 8F and Sweet Cat on 10F run 17:00-23:00 on weekdays and 15:00-23:00 at weekends and on public holidays; The Seven Deadly Sins on 4F runs 18:00-24:00 on weekdays and 17:00-24:00 at weekends and on public holidays. Many of the tenants publish no regular closing day, so check the hours on each store card before going."
+  "ko": "건물 공통 영업시간은 없고 층마다 따로 문을 연다. 낮부터 여는 곳은 1층 음료 매장 CoCo都可(전일 11:00~22:00) 정도이고, 2층 양식당은 휴업 중이라 낮에는 건물이 대부분 닫혀 있다. 6·7층 마지컬 트윈테일이 매일 14:00~22:00로 가장 이르고, 8층 래빗 캐슬과 10층 스위트 캣은 평일 17:00·토·일·공휴일 15:00부터 23:00까지, 4층 세븐 데들리 신즈는 평일 18:00·토·일·공휴일 17:00부터 24:00까지다. 정기휴일을 공지하지 않는 매장이 많으니 방문 전 각 매장 카드의 시간을 확인하는 편이 좋다.",
+  "en": "There are no building-wide hours; each floor opens on its own schedule. The only tenant open through the day is the CoCo Bubble Tea shop on 1F (11:00-22:00) — the Western-food restaurant on 2F is currently suspended — so most of the building is shut until late afternoon. Magical Twintail on 6F/7F opens earliest at 14:00-22:00 daily; Rabbit Castle on 8F and Sweet Cat on 10F run 17:00-23:00 on weekdays and 15:00-23:00 at weekends and on public holidays; The Seven Deadly Sins on 4F runs 18:00-24:00 on weekdays and 17:00-24:00 at weekends and on public holidays. Many of the tenants publish no regular closing day, so check the hours on each store card before going."
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 주오도리를 따라 북쪽으로 300m, 도보 4~5분. 애니메이트 아키하바라와 돈키호테 아키하바라점(8층 AKB48 극장) 앞을 지나 돈키호테 바로 북쪽 골목에서 오른쪽(동쪽)으로 꺾어 40m쯤 들어가면, 아키바 타시로도리(アキバ田代通り)와 만나는 모퉁이에 선 좁고 높은 10층 건물이 A-FRONT다. 1층 타피오카 음료점 CoCo都可(코코 버블티)가 표지이고, 그 옆 좁은 입구에 층별 콘셉트 카페 간판과 엘리베이터가 있다. 도쿄메트로 긴자선 스에히로초역 1번 출구에서는 주오도리를 따라 남쪽으로 도보 4분.",
@@ -35,23 +35,23 @@
  "uncurated_floors": [
   {
    "floor": "1F",
-   "ko": "타피오카 음료점 CoCo都可(코코 버블티) 아키하바라점과 위층으로 올라가는 엘리베이터 홀",
-   "en": "CoCo Bubble Tea (CoCo都可) Akihabara and the elevator hall serving the floors above"
+   "ko": "타피오카 음료점 CoCo都可(코코 버블티) 아키하바라점(전일 11:00~22:00)과 위층으로 올라가는 엘리베이터 홀",
+   "en": "CoCo Bubble Tea (CoCo都可) Akihabara, open 11:00-22:00 daily, and the elevator hall serving the floors above"
   },
   {
    "floor": "2F",
-   "ko": "양식당 '洋食は飲み物。' 아키하바라점(전일 11:00~16:00·17:30~21:00). 같은 층 주소로 콘셉트 카페 프라스틱 러브도 안내된다",
-   "en": "The Western-food restaurant Yoshoku wa Nomimono (11:00-16:00 and 17:30-21:00 daily); the concept cafe Plastic Love is also listed at this floor's address"
+   "ko": "양식당 '洋食は飲み物。' 아키하바라점이 있으나 운영사 공식 사이트에 영업시간이 '휴업중'으로 올라 있어 지금은 문을 닫은 상태다. 같은 층 주소로 콘셉트 카페 프라스틱 러브(18:00~)도 안내된다",
+   "en": "The Western-food restaurant Yoshoku wa Nomimono occupies this floor but its operator's own site now gives its hours as 休業中 (suspended), so it is shut; the concept cafe Plastic Love is also listed at this floor's address, opening from 18:00"
   },
   {
    "floor": "3F",
-   "ko": "중고 휴대폰 매장 트윙클모바일",
-   "en": "Twinkle Mobile, a used-phone shop"
+   "ko": "중고 휴대폰 매입·판매점 트윙클모바일 아키하바라 역앞점",
+   "en": "Twinkle Mobile Akihabara Ekimae, a used-phone buy-and-sell shop"
   },
   {
    "floor": "5F",
-   "ko": "콘셉트 카페 층. 아이돌 카페 스퀘어파티, 블루에그 등이 이 층 주소로 안내되며 입점 매장이 자주 바뀐다",
-   "en": "A concept-cafe floor; idol cafe SQUARE PARTY and Blue Egg are both listed at this floor's address, and tenants turn over often"
+   "ko": "아이돌 콘셉트 카페 스퀘어파티(idol cafe SQUARE PARTY)가 이 층 주소로 안내된다. 콘셉트 카페 층이라 입점 매장이 자주 바뀐다",
+   "en": "idol cafe SQUARE PARTY is listed at this floor's address; it is a concept-cafe floor and tenants turn over often"
   },
   {
    "floor": "9F",
@@ -59,7 +59,7 @@
    "en": "Concept cafe Royal Melt Akihabara (18:00-23:00)"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://magicaltwintail.com/shop/",
   "https://akiba-maidcafe.co.jp/rabbit-castle/",
@@ -68,7 +68,10 @@
   "https://www.homes.co.jp/archive/b-43079664/",
   "https://con-cafe.jp/list/area02/pre08/sub050/37710",
   "https://tabelog.com/tokyo/A1310/A131001/13247175/",
-  "https://www.openstreetmap.org/way/89182765"
+  "https://www.openstreetmap.org/way/89182765",
+  "https://nomimono.co.jp/brand/nomimono/",
+  "https://nomimono.co.jp/brand/nomimono/shop/youshoku_akihabara.php",
+  "https://cocofreshtokyo.amebaownd.com/pages/3188529/page_201909060323"
  ],
  "osm_id": "way/89182765"
 }

@@ -64,7 +64,7 @@
    "en": "The top rental office floor; no shop from this guide"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://tris-tc.jp/akihabara/",
   "https://www.shioda-dcom.co.jp/company",
@@ -73,7 +73,8 @@
   "https://www.oasis-estate.jp/building/10068/54901",
   "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9frpg%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/",
   "https://www.hs-tamtam.jp/shop/clecle-akihabara.html",
-  "https://www.openstreetmap.org/way/89183375"
+  "https://www.openstreetmap.org/way/89183375",
+  "https://www.office-navi.jp/building/02004122/"
  ],
  "osm_id": "way/89183375"
 }

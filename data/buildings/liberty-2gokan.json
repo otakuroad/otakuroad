@@ -39,8 +39,8 @@
   },
   {
    "floor": "6F",
-   "ko": "약 20평 규모의 임대 사무실 층. 일반 방문객용 매장은 없다",
-   "en": "A ~20-tsubo rental office floor with no shop open to visitors"
+   "ko": "약 20평 규모의 층. 리버티 6호점은 2026년 2월 1일 자체 X 공지에서 2호관 3·4·6층으로 옮겼다고 밝혔지만, 체인 점포 목록은 6호점을 3F·4F로만 적고 있어 6F가 매장인지 사무실인지는 현장 확인이 필요하다",
+   "en": "A roughly 20-tsubo floor. Liberty Store 6 announced on its own X on 2026-02-01 that it had moved onto 3F, 4F and 6F of this building, but the chain's store list still gives Store 6 as 3F and 4F only, so whether 6F is sales space or an office needs an on-site check"
   },
   {
    "floor": "8F",
@@ -48,7 +48,7 @@
    "en": "The top floor, another ~20-tsubo rental office unit with no shop listing"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.office-navi.jp/building/02046200/",
   "https://www.chintai-jimusho.com/building/48148/",
@@ -59,7 +59,11 @@
   "https://www.bushi-navi.com/store/804",
   "https://akibatoreka.com/introduce/1118",
   "https://akibatoreka.com/introduce/2077",
-  "https://www.openstreetmap.org/node/1915016879"
+  "https://www.openstreetmap.org/node/1915016879",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2017971866145902911&token=a",
+  "https://liberty-kaitori.com/",
+  "https://www.liberty-shop.co.jp/visit/",
+  "https://api.fxtwitter.com/card_bankshop"
  ],
  "osm_id": null
 }

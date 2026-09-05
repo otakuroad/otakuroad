@@ -29,7 +29,7 @@
  "floor_guide_url": null,
  "official_url": null,
  "uncurated_floors": [],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.akibagacha.com/",
   "https://www.popondetta.com/akibareuse/index.html",
@@ -38,7 +38,8 @@
   "https://map.pokemon-card.com/map/18902",
   "https://www.torecabirth.jp/info",
   "https://www.pord.co.jp/shop.php",
-  "https://www.openstreetmap.org/way/89002276"
+  "https://www.openstreetmap.org/way/89002276",
+  "https://api.fxtwitter.com/climaxcard"
  ],
  "osm_id": "way/89002276"
 }

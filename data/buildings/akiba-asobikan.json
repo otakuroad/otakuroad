@@ -1,8 +1,8 @@
 {
  "address_ja": "東京都千代田区外神田1-6-3",
  "exit_hint": {
-  "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 출구를 나와 선로를 끼고 서쪽으로 걷다가 세가 아키하바라 1호관을 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리(神田明神通り)가 나오고, 그 왼편에 선 7층 건물이다. 동쪽 옆이 다이내믹오디오 아키하바라 트레이드센터, 서쪽으로 한 채 건너가 카드숍 아즈마야가 든 쿠마가이 빌딩이라 이 두 건물과 헷갈리지 않도록 주의한다. 1층 노면에 프라페코가 있고 외벽에는 층마다 다른 콘셉트 카페 간판이 세로로 줄지어 붙어 있어 멀리서도 구분된다. 엘리베이터가 1대뿐이라 주말 저녁에는 계단이 빠르다. 긴자선 스에히로초역에서는 도보 9분.",
-  "en": "Five minutes from the JR Akihabara Electric Town Exit. Leave the exit, follow the tracks west past Sega Akihabara Building 1, take the third turn right (north) and you come out on Kanda Myojin-dori; the seven-storey building stands on your left. The Dynamic Audio Akihabara Trade Center is its neighbour to the east and, one door west, the Kumagai Building holds Card Shop Azumaya — a different building, so do not mix the two up. Frapeko occupies the street-level unit and the facade carries a vertical column of concept-cafe signs, one per floor, which makes it easy to pick out. There is only one elevator, so on a busy evening the stairs are quicker. Nine minutes from Suehirocho on the Ginza Line."
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 출구를 나와 선로를 끼고 서쪽으로 걷다가 중앙로변 가드 아래의 대형 오락실 실크햇 아키하바라(シルクハット秋葉原, 2025년 8월까지 GiGO 아키하바라 1호관·그 전 세가 아키하바라 1호관 자리)를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리(神田明神通り)가 나오고, 그 왼편에 선 7층 건물이다. 동쪽 옆이 다이내믹오디오 아키하바라 트레이드센터, 서쪽으로 한 채 건너가 카드숍 아즈마야가 든 쿠마가이 빌딩이라 이 두 건물과 헷갈리지 않도록 주의한다. 1층 노면에 프라페코가 있고 외벽에는 층마다 다른 콘셉트 카페 간판이 세로로 줄지어 붙어 있어 멀리서도 구분된다. 엘리베이터가 1대뿐이라 주말 저녁에는 계단이 빠르다. 긴자선 스에히로초역에서는 도보 9분.",
+  "en": "Five minutes from the JR Akihabara Electric Town Exit. Leave the exit, follow the tracks west past SILK HAT Akihabara — the big arcade under the viaduct on Chuo-dori, on the site that was GiGO Akihabara Building 1 until August 2025 and Sega Akihabara Building 1 before that — take the third turn right (north) and you come out on Kanda Myojin-dori; the seven-storey building stands on your left. The Dynamic Audio Akihabara Trade Center is its neighbour to the east and, one door west, the Kumagai Building holds Card Shop Azumaya — a different building, so do not mix the two up. Frapeko occupies the street-level unit and the facade carries a vertical column of concept-cafe signs, one per floor, which makes it easy to pick out. There is only one elevator, so on a busy evening the stairs are quicker. Nine minutes from Suehirocho on the Ginza Line."
  },
  "floor_guide_url": null,
  "floors": [
@@ -37,39 +37,46 @@
   "https://con-cafe.jp/list/area02/pre08/sub050/35130",
   "https://npro.city/contact/",
   "https://search.yahoo.co.jp/search?p=%22%E3%82%A2%E3%82%AD%E3%83%90%E3%81%82%E3%81%9D%E3%81%B3%E9%A4%A8%22",
-  "https://www.openstreetmap.org/way/91529478"
+  "https://www.openstreetmap.org/way/91529478",
+  "https://x.com/LovelyToxic_akb",
+  "https://x.com/lamule_akiba",
+  "https://x.com/frapeco_akiba",
+  "https://x.com/spotlight_akiba",
+  "https://spotlight-akiba.com/access",
+  "https://prtimes.jp/main/html/rd/p/000000949.000034930.html",
+  "https://prtimes.jp/main/html/rd/p/000000007.000136099.html"
  ],
  "uncurated_floors": [
   {
    "floor": "B1F",
-   "ko": "지하 1층 소규모 바 MOTTO. 굿즈 매장은 없다",
-   "en": "MOTTO, a small basement bar; no retail"
+   "ko": "지하 1층 소규모 바 BAR MINI MOTTO 아키하바라점. 굿즈 매장은 없다",
+   "en": "BAR MINI MOTTO Akihabara, a small basement bar; no retail"
   },
   {
    "floor": "2F",
-   "ko": "콘셉트 카페 아키바 절대영역 +e(アキバ絶対領域 +e). 층 전체가 한 점포다",
-   "en": "Concept cafe Akiba Zettai Ryoiki +e, which takes the whole floor"
+   "ko": "콘셉트 카페 라브리 톡식(ラブリートキシック). 2026년 7월 23일에 문을 연 아이돌×메이드 콘셉트 가게로, 이전에 있던 아키바 절대영역 +e를 대신한다",
+   "en": "Concept cafe Lovely Toxic (ラブリートキシック), an idol-and-maid concept shop that opened on 23 July 2026 in place of the earlier Akiba Zettai Ryoiki +e"
   },
   {
    "floor": "3F",
-   "ko": "콘셉트 카페 블랙 신데렐라(ブラックシンデレラ). 역시 한 층 한 점포",
-   "en": "Concept cafe Black Cinderella, again one shop to the floor"
+   "ko": "콘셉트 카페 블랙 신데렐라(ブラックシンデレラ). 공주 콘셉트로 저녁부터 심야까지 연다",
+   "en": "Concept cafe Black Cinderella, a princess-themed shop open from the evening into the night"
   },
   {
    "floor": "4F",
-   "ko": "콘셉트 카페 운영사 N프로(株式会社Nプロ)의 사무실. 손님이 들어가는 매장이 아니다",
-   "en": "Office of Npro, the concept-cafe operator; not a shop customers enter"
+   "ko": "콘셉트 카페 운영사 N프로(株式会社Nプロ)의 사무실과, 같은 회사가 운영하는 콘셉트 카페 멜티 참(Melty Charm)이 함께 있다",
+   "en": "Office of Npro, the concept-cafe operator, together with Melty Charm, a concept cafe the same company runs on this floor"
   },
   {
    "floor": "6F",
-   "ko": "남장 카페(男装カフェ) 한 점포",
-   "en": "A danso (male-attire) cafe occupies the floor"
+   "ko": "콘셉트 카페 라뮤르(LaMule). 해저 신전에 사는 여신을 콘셉트로 하며 18:00~23:00(라스트오더 22:30)에 연다",
+   "en": "Concept cafe LaMule, themed on goddesses of an undersea temple, open 18:00-23:00 (last order 22:30)"
   },
   {
    "floor": "7F",
-   "ko": "콘셉트 카페 겸 이벤트 공간 스팟라이트(すぽっとらいと)",
-   "en": "Spotlight (すぽっとらいと), a concept cafe and event space"
+   "ko": "아이돌 콘셉트 카페 스팟라이트(すぽっとらいと). 아이돌 경험자가 재적하고 부정기적으로 라이브도 연다",
+   "en": "Spotlight (すぽっとらいと), an idol concept cafe whose cast includes former idols and which holds occasional live shows"
   }
  ],
- "verified_at": "2026-09-05"
+ "verified_at": "2026-09-06"
 }

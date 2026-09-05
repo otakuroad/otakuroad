@@ -26,17 +26,12 @@
   "en": "There is no single building-wide opening time; each floor differs, roughly within 10:00-21:00. 1F Card Kingdom 10:00-21:00; 3F-5F Card Kingdom 12:00-21:00 on weekdays and 10:00-21:00 on Sat, Sun and holidays; 2F Weiß Schwarz Mart 12:00-20:00, closed Tue and Wed; 6F Hobby Land Pochi 11:00-20:00 weekdays, 10:00-20:00 Sat, 10:00-19:30 Sun and holidays; 8F Otachu 11:00-20:00. 7F is a clinic and 9F is rental office space. On a weekday morning only 1F is open."
  },
  "exit_hint": {
-  "ko": "JR 아키하바라역 전기가 출구(電気街口)를 나와 역 앞 광장에서 서쪽으로 약 40m, 도보 1분. AKIHABARA 게이머즈 본점이 들어 있는 다카라다 빌딩(宝田ビル)과 벽을 맞대고 붙어 있는, 폭이 좁은 9층 건물이다. 1층 카드킹덤 간판이 표식이며 위층은 엘리베이터로 올라간다. 쓰쿠바 익스프레스 아키하바라역 도보 3분, 도쿄메트로 히비야선 아키하바라역 도보 4분.",
-  "en": "Leave JR Akihabara by the Electric Town Exit (電気街口) and walk about 40 m west across the station plaza — one minute. It is the narrow nine-storey building sharing a wall with the Takarada Building that houses AKIHABARA Gamers' main store, on the station side of it. The Card Kingdom sign on the ground floor is the marker; an elevator serves the upper floors. Tsukuba Express Akihabara is 3 min away, Tokyo Metro Hibiya Line Akihabara 4 min."
+  "ko": "JR 아키하바라역 전기가 출구(電気街口)를 나와 역 앞 광장에서 서쪽으로 약 40m, 도보 1분. AKIHABARA 게이머즈 본점이 들어 있는 소토칸다 잇초메 빌딩(外神田一丁目ビル)과 벽을 맞대고 붙어 있는, 폭이 좁은 9층 건물이다. 1층 카드킹덤 간판이 표식이며 위층은 엘리베이터로 올라간다. 쓰쿠바 익스프레스 아키하바라역 도보 3분, 도쿄메트로 히비야선 아키하바라역 도보 4분.",
+  "en": "Leave JR Akihabara by the Electric Town Exit (電気街口) and walk about 40 m west across the station plaza — one minute. It is the narrow nine-storey building sharing a wall with the Sotokanda 1-chome Building (外神田一丁目ビル) that houses AKIHABARA Gamers' main store, on the station side of it. The Card Kingdom sign on the ground floor is the marker; an elevator serves the upper floors. Tsukuba Express Akihabara is 3 min away, Tokyo Metro Hibiya Line Akihabara 4 min."
  },
  "floor_guide_url": null,
  "official_url": null,
  "uncurated_floors": [
-  {
-   "floor": "2F",
-   "ko": "바이스슈바르츠 마트 AKIHABARA · 부시로드 직영 「바이스슈바르츠」 트레카 전문점. 12:00-20:00, 화·수 정기휴무",
-   "en": "Weiß Schwarz Mart AKIHABARA · Bushiroad's official Weiß Schwarz trading-card store, 12:00-20:00, closed Tue and Wed"
-  },
   {
    "floor": "7F",
    "ko": "이스트 에키마에 클리닉 아키하바라원 · ED·AGA 전문 진료소로 상업 매장은 없음",
@@ -56,7 +51,7 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_scenery_IMG_5991.jpg",
   "taken_on": "2021-12-05"
  },
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://cardkingdom.jp/akihabaraekimae/",
   "https://cardkingdom.jp/",
@@ -66,7 +61,8 @@
   "https://www.eastcl.com/akihabara/",
   "https://www.oasis-estate.jp/building/14395",
   "https://biz-maps.com/item/oP1DMP4Plx",
-  "https://www.openstreetmap.org/way/90834472"
+  "https://www.openstreetmap.org/way/90834472",
+  "https://www.gamers.co.jp/shop/"
  ],
  "osm_id": "way/90834472"
 }

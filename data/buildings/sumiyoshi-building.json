@@ -39,8 +39,8 @@
   },
   {
    "floor": "2F",
-   "ko": "잔파라 아키하바라 5호점이 1층과 함께 쓰는 매장·사무 공간",
-   "en": "Extra sales and back-office space used by Janpara Akihabara No.5 together with 1F"
+   "ko": "잔파라 아키하바라 5호점의 위층 매장. PC 모니터·디지털카메라·AV 기기를 갖췄고, 스마트폰·PC 매입 카운터도 이 층에 있다",
+   "en": "The upper sales floor of Janpara Akihabara No.5, stocking PC monitors, digital cameras and AV gear; the shop's smartphone and PC buy-back counter is on this floor too"
   },
   {
    "floor": "3F",
@@ -63,14 +63,15 @@
    "en": "The top rental office floor; no shop from this guide"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.janpara.co.jp/shopinfo/shop/?shopcd=73",
   "https://filles.jp/store/",
   "https://maidreamin.com/shop/detail.html?id=1",
   "https://www.chiyodarail.net/html/company.html",
   "https://www.studio-luminova.com/",
-  "https://www.openstreetmap.org/way/89002340"
+  "https://www.openstreetmap.org/way/89002340",
+  "https://maidreamin.com/shop/"
  ],
  "osm_id": "way/89002340"
 }

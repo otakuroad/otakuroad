@@ -18,8 +18,8 @@
   "5F"
  ],
  "hours_note": {
-  "ko": "건물 공통 영업시간은 없고 층마다 크게 다르다. 1F 라멘집 니쿠지루멘 스스무는 11:00~21:00 연중무휴, 2F HoneyHoney는 전일 12:00~22:30(라스트오더 22:00)으로 낮부터 열지만, 3F NEWTYPE는 화~목·일 18:00~23:00이고 금·토는 18:00부터 다음 날 5:00까지이며 월요일 휴무, 4F 샹그릴라는 평일에는 저녁부터·주말과 공휴일에는 낮부터 23:00까지 연다. 낮에 오면 사실상 1F 라멘집과 2F 메이드카페만 열려 있다.",
-  "en": "There are no building-wide hours and the floors differ sharply. The 1F ramen shop Nikujiru-men Susumu runs 11:00-21:00 every day and HoneyHoney on 2F opens daily 12:00-22:30 (last order 22:00), but NEWTYPE on 3F is 18:00-23:00 Tue-Thu and Sun, 18:00 until 5:00 the next morning on Fri and Sat, and closed Mondays, while Shangrila on 4F starts in the evening on weekdays and at midday on weekends and holidays, closing at 23:00. Come in the afternoon and effectively only the 1F ramen shop and the 2F maid cafe are open."
+  "ko": "건물 공통 영업시간은 없고 층마다 크게 다르다. 1F 라멘집 니쿠지루멘 스스무는 11:00~21:00(라스트오더 20:40) 무휴, 2F HoneyHoney는 전일 12:00~22:30(라스트오더 22:00)으로 낮부터 열지만, 3F NEWTYPE는 화~목·일 18:00~23:00이고 금·토는 18:00부터 다음 날 5:00까지이며 정기휴일은 매월 첫째 주 월요일(첫째 월요일이 공휴일이면 둘째 주 월요일)이다. 4F 샹그릴라는 평일에는 저녁부터·주말과 공휴일에는 낮부터 23:00까지 연다. 낮에 오면 사실상 1F 라멘집과 2F 메이드카페만 열려 있다.",
+  "en": "There are no building-wide hours and the floors differ sharply. The 1F ramen shop Nikujiru-men Susumu runs 11:00-21:00 (last order 20:40) every day and HoneyHoney on 2F opens daily 12:00-22:30 (last order 22:00), but NEWTYPE on 3F is 18:00-23:00 Tue-Thu and Sun and 18:00 until 5:00 the next morning on Fri and Sat, closing only on the first Monday of the month (the second Monday if the first falls on a public holiday). Shangrila on 4F starts in the evening on weekdays and at midday on weekends and holidays, closing at 23:00. Come in the afternoon and effectively only the 1F ramen shop and the 2F maid cafe are open."
  },
  "exit_hint": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 1~2분. 출구를 나와 왼쪽으로 돌아 쿠라마에바시도리를 서쪽으로 100m쯤 걷다가 츠케멘집 '텐소덴 라쿠(天想伝 楽)' 앞에서 좌회전해 아키하바라 정크도리(秋葉原ジャンク通り)로 들어가면, 50m쯤 앞 오른쪽에 1층이 라멘집 '니쿠지루멘 스스무'인 5층 건물이 서 있다. JR 아키하바라역 전기가 출구(電気街口)에서는 도보 7분. 골목 모퉁이에 선 건물이며 위층으로는 1층 라멘집 옆 입구의 엘리베이터로 올라간다. 바로 남쪽에 맞붙은 3층짜리 AKIHABARA CROSS는 번지가 같아도 다른 건물이니 헷갈리지 않도록 한다.",
@@ -44,7 +44,7 @@
    "en": "No publicly listed shop; leasable office space"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.honey2.jp/shop/",
   "https://newtype.ms/access",
@@ -52,7 +52,10 @@
   "https://tabelog.com/tokyo/A1311/A131101/13194689/",
   "https://www.officeiten.jp/detail/1/10044/604829.html",
   "https://www.livex-inc.com/search/detail/facility_index.php?id=1545",
-  "https://www.openstreetmap.org/way/88984268"
+  "https://www.openstreetmap.org/way/88984268",
+  "http://susumu.me/map/akihabara-honten/",
+  "https://newtype.ms/system/",
+  "https://www.v-officenavi.com/rent_view/22322"
  ],
  "osm_id": "way/88984268"
 }

@@ -69,7 +69,7 @@
    "en": "Rental office floor with no publicly listed shop"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.office-navi.jp/building/02045180/",
   "https://maidreamin.com/shop/",
@@ -79,7 +79,9 @@
   "https://geo-mobile.jp/store/02067.html",
   "https://www.cardshop-hanjou.jp/",
   "https://snkrdunk.com/store/tradingcard-akihabara",
-  "https://www.openstreetmap.org/way/90834469"
+  "https://www.openstreetmap.org/way/90834469",
+  "https://fujisoba.co.jp/shop/",
+  "https://www.hareruyamtg.com/ja/shoppage/akihabara"
  ],
  "osm_id": "way/90834469"
 }

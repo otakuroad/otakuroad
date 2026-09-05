@@ -31,7 +31,7 @@
  "floor_guide_url": null,
  "official_url": null,
  "uncurated_floors": [],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.gamers.co.jp/shop/detail.php?id=4",
   "https://ja.wikipedia.org/wiki/%E5%AE%9D%E7%94%B0%E7%84%A1%E7%B7%9A%E9%9B%BB%E6%A9%9F",
@@ -39,7 +39,8 @@
   "https://www.c-labo.jp/shop/akibagema/",
   "https://www.animate-onlineshop.jp/corner/cc/ensemble_stars_store/cd/2573/",
   "https://akihabara.kokosil.net/ja/place/00001c0000000000000200000034060a",
-  "https://www.openstreetmap.org/way/90834470"
+  "https://www.openstreetmap.org/way/90834470",
+  "https://snkrdunk.com/store/tradingcard-akihabara"
  ],
  "osm_id": "way/90834470"
 }

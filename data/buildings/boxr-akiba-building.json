@@ -28,7 +28,7 @@
  "name": {
   "ko": "Box'R 아키바 빌딩",
   "en": "Box'R Akiba Building",
-  "ja": "Box'R Akibaビル"
+  "ja": "Box'R AKIBAビル"
  },
  "official_url": null,
  "osm_id": null,
@@ -38,7 +38,9 @@
   "https://tokyo.kashi-jimusho.com/detail/51302/",
   "https://www.oasis-estate.jp/building/502/165933",
   "https://search.yahoo.co.jp/search?p=%22%E5%A4%96%E7%A5%9E%E7%94%B03-2-12%22",
-  "https://www.openstreetmap.org/node/5230307084"
+  "https://www.openstreetmap.org/node/5230307084",
+  "https://anthemakiba.com/access",
+  "https://www.media5.co.jp/corporate/location/tokyo/"
  ],
  "uncurated_floors": [
   {
@@ -63,8 +65,8 @@
   },
   {
    "floor": "7F",
-   "ko": "임대 오피스 층. 약 36평 사무실로 매장은 없다",
-   "en": "Rental office floor of about 36 tsubo; no shop"
+   "ko": "미디어파이브가 운영하는 IT 스쿨 「아키바 테크 드림 아카데미 아키하바라 본교」가 쓰는 약 36평 층. 수강생용 교실이라 매장은 없다",
+   "en": "About 36 tsubo occupied by media5's IT school, Akiba Tech Dream Academy Akihabara main campus; classrooms for enrolled students, no shop"
   },
   {
    "floor": "8F",
@@ -72,5 +74,5 @@
    "en": "Top-floor offices; no shop"
   }
  ],
- "verified_at": "2026-09-05"
+ "verified_at": "2026-09-06"
 }

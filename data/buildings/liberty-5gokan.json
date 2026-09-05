@@ -23,8 +23,8 @@
   "9F"
  ],
  "hours_note": {
-  "ko": "건물 공용 영업시간은 없다. 1F·2F 리버티 5호점은 매일 11:00~20:30 연중무휴이고, 5F 카드숍 잇세이는 평일 13:00~19:00, 토·일·공휴일 12:00~20:00이라 평일에는 한 시간 일찍 닫는다. 3F 볼트커피가 매일 10:00~22:00로 이 건물에서 가장 일찍 열고 가장 늦게까지 연다. 6F 위쪽은 임대 사무실 층이라 일반 영업시간이 없으므로, 평일 이른 오후 전에는 사실상 1·2층과 카페만 열려 있다고 보면 된다.",
-  "en": "No building-wide hours. Liberty Store 5 on 1F-2F runs 11:00-20:30 every day of the year; Card Shop Issei on 5F opens 13:00-19:00 on weekdays and 12:00-20:00 at weekends and holidays, closing an hour earlier midweek. Vault Coffee on 3F, 10:00-22:00 daily, opens earliest and closes latest in the building. From 6F up the floors are rental offices with no public hours, so before early afternoon on a weekday only 1F-2F and the cafe are really open."
+  "ko": "건물 공용 영업시간은 없다. 1F·2F 리버티 5호점은 매일 11:00~20:30 연중무휴이고(1F는 중고 애니 피규어·굿즈, 2F는 가챠폰·제비뽑기 가챠 전용 층), 5F 카드숍 잇세이는 평일 14:00~19:00, 토·일 12:00~20:00이라 이 건물에서 평일 영업시간이 가장 짧다. 6F 트레카노반코쿠는 월~금 13:00~20:00, 토·일 12:00~20:00으로 정기휴일이 없다. 3F 볼트커피는 매일 11:00~23:00로 이 건물에서 가장 늦게까지 연다. 4F와 7F 위쪽은 임대 사무실 층이라 일반 영업시간이 없으므로, 평일 이른 오후 전에는 사실상 1·2층과 카페만 열려 있다고 보면 된다.",
+  "en": "No building-wide hours. Liberty Store 5 on 1F-2F runs 11:00-20:30 every day of the year (1F second-hand anime figures and goods, 2F a gachapon and kuji-gacha floor); Card Shop Issei on 5F opens 14:00-19:00 on weekdays and 12:00-20:00 at weekends, the shortest weekday hours in the building; Toreka no Bankoku on 6F runs 13:00-20:00 Mon-Fri and 12:00-20:00 at weekends with no closing day; and Vault Coffee on 3F, 11:00-23:00 daily, stays open latest. 4F and everything from 7F up are rental office floors with no public hours, so before early afternoon on a weekday only 1F-2F and the cafe are really open."
  },
  "exit_hint": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리 동쪽 보도를 따라 남쪽으로 도보 2분, JR 아키하바라역 전기가 출구(電気街口)에서는 주오도리를 따라 북쪽으로 도보 5분. 주오도리에 바로 면한 9층 건물로, 1층 앞 인도에 늘어선 가챠폰 기계 줄과 리버티 간판이 표식이다. 1층·2층 매장은 길에서 바로 들어가고, 5층 카드숍 잇세이를 비롯한 위층은 매장 오른쪽 입구로 들어가 엘리베이터를 탄다. 바로 북쪽에 붙어 있는 4층짜리 KHK빌딩(스루가야 아니메·호비관)은 같은 4-5-1 번지지만 다른 건물이다.",
@@ -40,18 +40,18 @@
   },
   {
    "floor": "3F",
-   "ko": "볼트커피(VAULT COFFEE) · 26석 스페셜티 커피 전문점, 매일 10:00~22:00, 전원과 무료 와이파이 있음",
-   "en": "VAULT COFFEE - a 26-seat specialty coffee shop, 10:00-22:00 daily, with power sockets and free Wi-Fi"
+   "ko": "볼트커피(VAULT COFFEE) · 컵 오브 엑설런스 원두를 내리는 24석 규모 스페셜티 커피 전문점, 매일 11:00~23:00, 전 좌석 전원과 무료 와이파이 있음",
+   "en": "VAULT COFFEE - a roughly 24-seat specialty coffee shop pouring Cup of Excellence beans, 11:00-23:00 every day, with a power socket at every seat and free Wi-Fi"
   },
   {
    "floor": "4F",
-   "ko": "임대 구획. 일반 방문객용 매장 안내가 확인되지 않는다",
-   "en": "A leased unit; no shop open to visitors is listed"
+   "ko": "약 26.5평(87.6㎡) 임대 구획. 일반 방문객용 매장 안내가 확인되지 않는다",
+   "en": "A leased unit of about 26.5 tsubo (87.6 m2); no shop open to visitors is listed"
   },
   {
    "floor": "6F",
-   "ko": "임대 사무실 층. 매장은 없다",
-   "en": "Rental office floor; no shop"
+   "ko": "트레카노반코쿠(トレカの万国) 아키하바라점 · 포켓몬카드·원피스 등을 다루는 트레카 전문점, 월~금 13:00~20:00·토·일 12:00~20:00, 정기휴일 없음(매입 감정은 19:30까지), 듀얼 스페이스 24석, 면세 대응",
+   "en": "Toreka no Bankoku Akihabara - a trading-card shop (Pokemon, One Piece and more), 13:00-20:00 Mon-Fri and 12:00-20:00 at weekends with no closing day (buy-in appraisals until 19:30), 24 duel seats, tax-free"
   },
   {
    "floor": "7F",
@@ -69,7 +69,7 @@
    "en": "Top-floor rental office; no shop"
   }
  ],
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.office-navi.jp/building/02033898/",
   "https://www.oasis-estate.jp/building/9249",
@@ -80,7 +80,12 @@
   "https://x.com/Liberty5_akiba",
   "https://cafesnap.me/station-matome/381",
   "https://www.openstreetmap.org/way/89182732",
-  "https://www.openstreetmap.org/way/89182761"
+  "https://www.openstreetmap.org/way/89182761",
+  "https://torekanobankoku.com/",
+  "https://vault-coffee-1f.jimdofree.com/",
+  "https://api.fxtwitter.com/cardshopisei",
+  "https://api.fxtwitter.com/Liberty5_akiba",
+  "https://liberty-kaitori.com/"
  ],
  "osm_id": "way/89182732"
 }

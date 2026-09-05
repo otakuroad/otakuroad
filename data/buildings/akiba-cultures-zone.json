@@ -20,8 +20,8 @@
   "6F"
  ],
  "hours_note": {
-  "ko": "기본 11:00~21:00이지만 층마다 다름. 1~2F 라신방 11:00~21:00, 3F·4F·6F 11:00~20:30, 5F 앳홈카페 평일 11:00~22:00·주말 및 공휴일 10:00~22:00, B1F 극장은 공연 일정에 따름. 정기휴일 없음.",
-  "en": "Nominally 11:00–21:00, but hours vary by floor: Lashinbang on 1–2F 11:00–21:00; 3F, 4F and 6F 11:00–20:30; @home cafe on 5F 11:00–22:00 weekdays and 10:00–22:00 weekends/holidays; the B1F theater follows its show schedule. No regular closing day."
+  "ko": "기본 11:00~21:00이지만 층마다 다름. 1~2F 라신방 11:00~21:00(매입 접수는 18:00 마감), 3F 하비코로 완구 3개 점포와 스케루톤·4F 아스톱·6F TRIO DX는 11:00~20:30, 4F 카루팝은 11:00~20:00, 5F 앳홈카페 평일 11:00~22:00·주말 및 공휴일 10:00~22:00, B1F 극장은 10:00~23:00을 기준으로 공연 일정에 따라 바뀜. 정기휴일 없음.",
+  "en": "Nominally 11:00–21:00, but hours vary by floor: Lashinbang on 1–2F 11:00–21:00 (buy-in counter closes 18:00); the three Havikoro Toy shops and Skeleton on 3F, Astop on 4F and TRIO DX on 6F 11:00–20:30; Culpop on 4F 11:00–20:00; @home cafe on 5F 11:00–22:00 weekdays and 10:00–22:00 weekends/holidays; the B1F theater is listed as 10:00–23:00 but follows its show schedule. No regular closing day."
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 약 4분. 출구를 나와 중앙로(中央通り)를 건넌 뒤 오노덴 본관 옆길을 서쪽으로 약 100m 직진하고, 코토부키야 아키하바라관이 있는 길에서 우회전하면 코토부키야 바로 다음 건물이 왼쪽에 있음. 칸다묘진도리(神田明神通り) 건너 북쪽 대각선에 만다라케 컴플렉스.",
@@ -29,34 +29,8 @@
  },
  "floor_guide_url": "https://www.akibacultureszone.com/shop/",
  "official_url": "https://www.akibacultureszone.com/",
- "uncurated_floors": [
-  {
-   "floor": "B1F",
-   "ko": "AKIBA 컬처즈 극장 · 아이돌·성우 라이브 공연장, 공연 일정에 따라 운영",
-   "en": "AKIBA Cultures Theater · idol and voice-actor live venue, open per show schedule"
-  },
-  {
-   "floor": "3F",
-   "ko": "하비코로 완구 3개 점포(카드숍 買賊王 · 오토메 굿즈 · 미소녀 애니·게임 굿즈)와 철도모형·스케일모델 전문 스케루톤",
-   "en": "Havikoro Toy's three shops (Card Shop Kaizokuoh trading cards, otome goods, bishojo anime and game goods) plus Skeleton for rail and scale models"
-  },
-  {
-   "floor": "4F",
-   "ko": "렌탈 쇼케이스 아스톱(위탁 피규어·트레카·아이돌 굿즈)과 이벤트·팝업 공간 카루팝",
-   "en": "Astop rental showcase (consignment figures, cards, idol goods) and Culpop, its in-house event and pop-up space"
-  },
-  {
-   "floor": "5F",
-   "ko": "앳홈카페 · 5F 한 층을 쓰는 메이드카페, 돈키호테점과는 다른 지점",
-   "en": "@home cafe · maid café filling the whole of 5F; a separate branch from the one in Don Quijote"
-  },
-  {
-   "floor": "6F",
-   "ko": "TRIO DX · 사카미치·이코노이조이·AKB·헬로프로 등 아이돌 굿즈 중고 판매·매입 전문점 (구 자니즈/STARTO 굿즈는 취급 종료)",
-   "en": "TRIO DX, a buy-and-sell shop for used idol goods (Sakamichi, =LOVE/≠ME/≒JOY, AKB, Hello! Project); ex-Johnny's/STARTO goods are no longer handled"
-  }
- ],
- "verified_at": "2026-09-04",
+ "uncurated_floors": [],
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.akibacultureszone.com/",
   "https://www.akibacultureszone.com/access/",
@@ -72,7 +46,12 @@
   "https://akiba-pc.watch.impress.co.jp/docs/news/news/2136836.html",
   "https://ja.wikipedia.org/wiki/AKIBA%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BAZONE",
   "https://visit-chiyoda.tokyo/app/spot/detail/823",
-  "https://www.gltjp.com/en/directory/item/17131/"
+  "https://www.gltjp.com/en/directory/item/17131/",
+  "https://www.akibacultureszone.com/shop/30",
+  "https://www.akibacultureszone.com/shop/34",
+  "https://www.akibacultureszone.com/shop/35",
+  "https://www.akibacultureszone.com/shop/1246",
+  "https://api.fxtwitter.com/trio_cultures"
  ],
  "osm_id": "way/87148124",
  "photo": {
