@@ -88,21 +88,23 @@
    "이름 함정: '역앞점'이지만 라디오회관 2F로, 같은 체인의 1F 라디오회관점과 다른 매장이다.",
    "포켓몬 카드는 취급하지 않는다. 포켓몬은 같은 건물 1F 라디오회관점으로.",
    "아키하바라에서 드물게 중고 베이블레이드X 파츠를 사고파는 매장이며, 캐릭터 슬리브 취급도 많다.",
-   "건담 아세널 베이스·함대컬렉션 아케이드·FGO 아케이드 같은 아케이드 카드가 강점이다."
+   "함대컬렉션 아케이드·영걸대전·FGO 아케이드 같은 아케이드 카드가 강점이다."
   ],
   "en": [
    "Name trap: 'Ekimae' notwithstanding, it is on 2F of Radio Kaikan and is a different shop from the chain's 1F branch here.",
    "It does not stock Pokemon cards; for those use the 1F Radio Kaikan branch in the same building.",
    "One of the few Akihabara shops buying and selling used BEYBLADE X parts, with a deep character-sleeve selection.",
-   "Arcade card games are a strength: Gundam Arsenal Base, KanColle Arcade and Fate/Grand Order Arcade."
+   "Arcade card games are a strength: KanColle Arcade, Eiketsu Taisen and Fate/Grand Order Arcade."
   ]
  },
  "official_url": "https://www.hbst.net/shop/30/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/HBSTekimae"
+ },
  "chain": "hobby-station",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.hbst.net/shop/30/",
   "https://akihabara-radiokaikan.co.jp/shoplist/hobbystation-2/",

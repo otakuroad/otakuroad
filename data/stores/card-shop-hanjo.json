@@ -26,13 +26,12 @@
   "oripa",
   "buyback",
   "psa",
-  "duel_space",
   "used",
   "new"
  ],
  "one_line": {
-  "ko": "포켓몬·원피스 카드 싱글과 오리파, PSA 감정품 매입. 지하 대전석 있음",
-  "en": "Pokemon and One Piece card singles, oripa and PSA buyback, with basement duel seats"
+  "ko": "포켓몬·원피스 카드 통판 전문점. 지하 1층 실점포는 매입과 온라인 주문 점두 수령 전용",
+  "en": "Pokemon and One Piece card mail-order shop; its basement store handles buyback and online-order pickup only"
  },
  "building_id": "takarada-chuo-dori-building",
  "floors": [
@@ -60,14 +59,16 @@
  "tips": {
   "ko": [
    "점주가 스플래툰 프로게이머·유튜버 '한조(はんじょう)' 씨로, 매장 이름이 그대로 점주 이름이다.",
-   "공식 사이트는 '점휴일인 화요일을 제외하고 원칙 13:00~19:00'이라고만 안내한다. 영업시간 단축·연장은 공식 X(@cardshophanjou)에 공지되므로 방문 전 확인.",
-   "포켓몬카드와 원피스카드가 중심이고 오리파·PSA 감정품 매입도 취급한다. 매장 안에 듀얼 스페이스가 있다.",
+   "판매는 통판(EC) 사이트에서만 이뤄지고 실점포는 매입과 온라인 주문 점두 수령 전용이다. 대전 스페이스는 없다.",
+   "공식 사이트는 점두 수령 시간을 '점휴일인 화요일을 제외하고 원칙 13:00~19:00'이라고만 안내한다. 공식 X(@cardshophanjou)에는 일반 매입 접수 14:00~19:00, 예약이 몰려 일반 매입을 일시 중단 중이라고 적혀 있으므로 방문 전 확인이 필요하다.",
+   "포켓몬카드와 원피스카드가 중심이고 오리파(はんじょうオリジナルパック)와 PSA 감정품도 취급한다.",
    "온라인 주문 상품의 점두 수령은 발송완료 메일 도착 후 7일 이내, 신분증 지참이 필요하며 점두 결제는 불가하다."
   ],
   "en": [
    "The owner is Hanjou, a Splatoon pro player and YouTuber, and the shop simply carries his name.",
-   "The official site only states 'in principle 13:00-19:00, except Tuesday, the shop's closing day'. Shortened or extended hours are posted on X (@cardshophanjou), so check before you go.",
-   "The stock is mostly Pokemon and One Piece singles, with oripa and PSA-graded buyback; there is a duel space inside.",
+   "Selling is done only through the online shop; the physical basement store is for buyback and for collecting online orders. There is no duel space.",
+   "The official site only gives pickup times as 'in principle 13:00-19:00, except Tuesday, the shop's closing day'. The X account (@cardshophanjou) states general buyback reception of 14:00-19:00 and that walk-in buyback is currently suspended because of a backlog of bookings, so check before going.",
+   "The stock is mostly Pokemon and One Piece cards, with the shop's own oripa packs and PSA-graded items.",
    "In-store pickup of online orders runs for seven days after the dispatch email, needs photo ID, and cannot be paid for at the counter."
   ]
  },
@@ -78,12 +79,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.cardshop-hanjou.jp/info",
   "https://www.cardshop-hanjou.jp/",
   "https://www.cardshop-hanjou.jp/page/7",
-  "https://akihabara-cardmap.com/ja/shop/card-shop-hanjo/"
+  "https://akihabara-cardmap.com/ja/shop/card-shop-hanjo/",
+  "https://x.com/cardshophanjou"
  ],
  "osm_id": null
 }

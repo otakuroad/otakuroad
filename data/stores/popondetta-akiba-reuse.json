@@ -86,13 +86,13 @@
  },
  "tips": {
   "ko": [
-   "포폰데타 체인에서 중고만 취급하는 매장 중 가장 넓다. 신품을 찾는다면 도보 3분 거리의 아키하바라점으로 간다.",
+   "포폰데타 체인에서 중고만 취급하는 매장 중 최대급 규모다. 신품을 찾는다면 도보 3분 거리의 아키하바라점으로 간다.",
    "레일 레이아웃은 4선·시간당 300엔이며 예약과 좌석 지정을 받지 않는다. 대여 차량이 없어 자기 차량을 가져가야 한다.",
    "재고 문의는 인건비를 이유로 받지 않는다고 공식 안내되어 있다.",
    "각종 카드를 쓸 수 있지만 상품권은 받지 않는다."
   ],
   "en": [
-   "The largest used-only floor in the Popondetta chain; for new stock go to the Akihabara main store three minutes away.",
+   "One of the largest used-only floors in the Popondetta chain; for new stock go to the Akihabara main store three minutes away.",
    "The rental layout has four tracks at 300 yen an hour, with no reservations or seat choice, and no trains to hire — bring your own.",
    "The shop states it does not answer stock enquiries, to keep staffing costs down.",
    "Cards are accepted but gift vouchers are not."
@@ -103,12 +103,13 @@
  "chain": "popondetta",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.popondetta.com/akibareuse/index.html",
   "https://www.popondetta.com/akihabara/index.html",
   "https://www.popondetta.com/",
-  "https://www.openstreetmap.org/node/11779681421"
+  "https://www.openstreetmap.org/node/11779681421",
+  "https://news.popondetta.com/blog/"
  ],
  "osm_id": "node/11779681421"
 }

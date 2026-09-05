@@ -63,7 +63,7 @@
   "source_url": "https://www.gamers.co.jp/shop/detail.php?id=4"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -84,7 +84,7 @@
    "2,200엔(세금 포함) 구매마다 구매 특전 시트가 배포되며, 다른 층에서 산 상품은 특전 대상이 아니다."
   ],
   "en": [
-   "On days it expects crowds the shop switches to an advance entry lottery: apply from two months before your visit until 14:00 seven days ahead, with results posted from 15:00 six days ahead on the reservation site.",
+   "On days it expects crowds the shop switches to an advance entry lottery: apply from two months before your visit until 14:00 seven days ahead, with results posted from 15:00 seven days ahead on the reservation site.",
    "Reserved entry requires the booker in person with government photo ID matching the booking plus the live reservation screen; screenshots and printouts are refused, and there is no re-entry once you leave.",
    "Arrive at the 1F escalator about ten minutes before your slot. Primary-school children and younger must be with a guardian.",
    "A purchase bonus sheet is handed out per 2,200 yen (tax incl.) spent in the store; purchases made on other floors do not count."
@@ -97,7 +97,7 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.animate-onlineshop.jp/corner/cc/ensemble_stars_store/cd/2573/",
   "https://www.gamers.co.jp/shop/detail.php?id=4",

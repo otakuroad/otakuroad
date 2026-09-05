@@ -669,6 +669,13 @@
    "date": "2026-07-20",
    "note": "Relocating, destination unannounced: the shop's own X (@magipoke_Akiba) announced the move on 2026-07-16 and a final day at エトランゼ18秋葉原 5F of 2026-07-20; as of 2026-09-06 no new address has been published and the chain's store page is stale. Remove this entry and add a fresh record once the new location opens.",
    "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2077606244177842667&token=a"
+  },
+  {
+   "name_ja": "トレカーバンクル",
+   "name_en": "Toreca Buncle",
+   "reason": "moved_out_of_akiba",
+   "note": "Left Akihabara: the shop's own 特定商取引法 page now names 株式会社エス at 東京都新宿区西新宿3-2-26立花ビル2階 (until the 2026-06-12 archive it named 株式会社レイライン at 外神田1-16-10 ニュー秋葉原センタービル403), and its staff message says it relaunched online-only as トレカーバンクル+ in August 2026. Nothing remains at the New Akihabara Center 4F address.",
+   "source_url": "https://cardbuncle.com/?mode=sk"
   }
  ]
 }

@@ -42,8 +42,30 @@
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田4-2-7 TIT秋葉原4F",
- "hours": null,
- "tax_free": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun"
+    ],
+    "open": "10:30",
+    "close": "18:30"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 X 프로필에 영업시간 10:30~18:30으로만 적혀 있고 정기휴일·공휴일 안내는 없다. 날짜별 변경은 공식 X(@shinsoku_akb4th)에 올라온다.",
+   "en": "The shop's official X profile gives a flat 10:30-18:30 and states no regular closing day or separate public-holiday hours; day-by-day changes are posted on X (@shinsoku_akb4th)."
+  },
+  "source_url": "https://x.com/shinsoku_akb4th"
+ },
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": "both",
  "adult_content": {
@@ -59,15 +81,17 @@
  },
  "tips": {
   "ko": [
-   "2026년 5월 2일 매입 전용으로 선행 오픈해 5월 16일 정식 개점했다. 체인의 아키하바라 6개 점포 가운데 하나이며 매입 취급점 목록에도 올라 있다.",
+   "2026년 5월 2일 매입 전용으로 선행 오픈해 5월 16일 정식 개점했다. 체인의 아키하바라 6개 점포(본점·2호점·3호점·4호점·6호점·매입센터) 가운데 하나다.",
    "취급 타이틀은 포켓몬카드·유희왕·원피스카드·크로스스타즈·유니온아리나가 중심이다.",
-   "공식 사이트에 점포별 영업시간이 공개돼 있지 않다(전화 문의는 11:00-21:00). 방문 전 공식 X(@shinsoku_akb4th) 확인 권장.",
+   "공식 X 프로필에 영업시간 10:30~18:30으로 안내되어 있다(체인 전화 문의는 11:00-21:00). 날짜별 변경이 있으므로 방문 전 공식 X(@shinsoku_akb4th) 확인 권장.",
+   "면세(TAX FREE) 판매를 내걸고 있어 외국인 관광객도 면세로 살 수 있다.",
    "카드 매장이 하나뿐인 잡거빌딩이라 1층에 매장 간판이 잘 보이지 않는다. 층별 안내판에서 4층 표기를 확인하고 올라가면 된다."
   ],
   "en": [
-   "Pre-opened as a buyback counter on 2 May 2026 and fully opened on 16 May. It is one of the chain's six Akihabara branches and is listed as a buyback location.",
+   "Pre-opened as a buyback counter on 2 May 2026 and fully opened on 16 May. It is one of the chain's six Akihabara branches (main store, 2nd, 3rd, 4th, 6th and the buyback centre).",
    "The titles handled are Pokemon, Yu-Gi-Oh, One Piece, Cross Stars and Union Arena.",
-   "No per-store opening hours are published on the official site (phone enquiries 11:00-21:00), so check the shop's X account (@shinsoku_akb4th) before going.",
+   "The shop's official X profile gives opening hours of 10:30-18:30 (the chain phone line is 11:00-21:00). Times change from day to day, so check @shinsoku_akb4th before going.",
+   "The shop advertises tax-free (TAX FREE) sales, so overseas visitors can buy duty free.",
    "It is the only card shop in an otherwise concept-cafe building, so there is little signage at street level; check the floor board for 4F and go up."
   ]
  },
@@ -78,12 +102,13 @@
  "chain": "shinsoku",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://shinsoku-tcg.com/store-plans/akihabara-unification",
   "https://www.cardshop-shinsoku.jp/info",
   "https://shinsoku-tcg.com/kaitori",
-  "https://shinsoku-tcg.com/"
+  "https://shinsoku-tcg.com/",
+  "https://x.com/shinsoku_akb4th"
  ],
  "osm_id": null
 }

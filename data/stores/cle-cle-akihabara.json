@@ -122,12 +122,14 @@
  "chain": "tamtam",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://clecle.me/",
   "https://clecle.me/shop",
   "https://www.hs-tamtam.jp/shop/clecle-akihabara.html",
-  "https://hobby.watch.impress.co.jp/docs/special/2093379.html"
+  "https://hobby.watch.impress.co.jp/docs/special/2093379.html",
+  "https://clecle.me/faq",
+  "https://www.hs-tamtam.jp/shop/akihabara.html"
  ],
  "osm_id": null
 }

@@ -104,7 +104,7 @@
  "chain": "jan-gle",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://jan-gle.jp/hpgen/HPB/entries/3.html",
   "https://jan-gle.jp/",
@@ -112,7 +112,8 @@
   "https://jan-gle.jp/hpgen/HPB/entries/7.html",
   "https://jan-gle.jp/hpgen/HPB/shop/sitemap.html",
   "https://www.jan-gle.com/",
-  "https://jungle-scs.co.jp/?page_id=21"
+  "https://jungle-scs.co.jp/?page_id=21",
+  "https://www.jan-gle.com/kaitori/method/method01"
  ],
  "osm_id": null
 }

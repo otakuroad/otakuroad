@@ -58,12 +58,15 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": null,
-  "note": {
-   "ko": "건물은 10:00 개관이지만 매장은 12:00 오픈. 연말연시 등 임시 시간 변경은 라디오회관 공지(7F DOLK)에 올라온다",
-   "en": "The building opens at 10:00 but the shop opens at 12:00; temporary changes are posted as '7F DOLK' notices on the Radio Kaikan site"
+  "regular_holiday": {
+   "ko": "연말연시를 제외하고 연중무휴",
+   "en": "Open year-round except the New Year period"
   },
-  "source_url": "https://dolk.jp/pages/dollstock/"
+  "note": {
+   "ko": "건물은 10:00 개관이지만 매장은 12:00 오픈. 태풍·연말연시 같은 임시 변경은 매장 X(@DDollstock)에 올라온다",
+   "en": "The building opens at 10:00 but the shop opens at 12:00; temporary changes such as typhoons and the New Year period are posted on the shop's X account @DDollstock"
+  },
+  "source_url": "https://dolk.jp/portal/generic/radiohall"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -81,26 +84,30 @@
  },
  "tips": {
   "ko": [
-   "12:00에 열어 건물(10:00)보다 늦다. 오전에는 같은 층 아존 레이블숍(11:00)만 열려 있다.",
+   "12:00에 열어 건물(10:00)보다 늦다. 같은 층에서는 트레카파크 AKIBA 라지관점(10:00)과 아존 레이블숍(11:00)이 먼저 연다.",
    "간다스다초의 DOLK 도쿄 본점은 별개 매장이다. 재고와 취급 브랜드가 다르므로 목적 상품이 있으면 어느 점포인지 확인할 것.",
    "돌 본체 중심 구성이라 위그·아이·의상 등 용품 종류는 본점보다 적다."
   ],
   "en": [
-   "It opens at 12:00, later than the building's 10:00; before then only Azone Label Shop (11:00) is open on this floor.",
+   "It opens at 12:00, later than the building's 10:00; on the same floor Treca Park AKIBA (10:00) and Azone Label Shop (11:00) open earlier.",
    "DOLK Tokyo Main Store in Kanda-Sudacho is a separate shop with different stock, so check which branch has the doll you want.",
    "The line-up is built around the dolls themselves, so wigs, eyes and outfits are fewer here than at the main store."
   ]
  },
- "official_url": "https://dolk.jp/pages/dollstock/",
- "sns": {},
+ "official_url": "https://dolk.jp/portal/generic/radiohall",
+ "sns": {
+  "x": "https://x.com/DDollstock"
+ },
  "chain": "dolk",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://dolk.jp/pages/dollstock/",
   "https://akihabara-radiokaikan.co.jp/shoplist/dolk/",
-  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://dolk.jp/portal/generic/radiohall",
+  "https://akihabara-radiokaikan.co.jp/shoplist/treca-park/"
  ],
  "osm_id": null
 }

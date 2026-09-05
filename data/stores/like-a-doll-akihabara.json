@@ -97,13 +97,15 @@
  "chain": "yukimi",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akiba-maidcafe.co.jp/likeadoll/",
   "https://akiba-maidcafe.co.jp/",
   "https://akiba-maidcafe.co.jp/en/",
   "https://akiba-maidcafe.co.jp/company/",
-  "https://www.homes.co.jp/archive/b-42429373/"
+  "https://www.homes.co.jp/archive/b-42429373/",
+  "https://akiba-maidcafe.co.jp/magical-lollipop/",
+  "https://akibazettai.com/shop/"
  ],
  "osm_id": "node/11042181490"
 }

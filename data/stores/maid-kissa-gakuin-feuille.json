@@ -88,23 +88,23 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 동쪽에 면한 9층짜리 스미요시(住吉) 빌딩 4층으로, 1층 입구에서 엘리베이터를 탄다. 같은 건물 6층이 메이드리밍 본점, 7층이 치요다 레일센터라 층 표시를 확인하고 내린다.",
-  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line and five from the JR Akihabara Electric Town exit. It is on 4F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance. Maidreamin's main store is on 6F and Chiyoda Rail Center on 7F, so check the floor sign."
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 6분. 주오도리 동쪽에 면한 9층짜리 스미요시(住吉) 빌딩 4층으로, 1층 입구에서 엘리베이터를 탄다. 같은 건물 6층이 메이드리밍 본점, 7층이 치요다 레일센터라 층 표시를 확인하고 내린다.",
+  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line and six minutes from JR Akihabara. It is on 4F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance. Maidreamin's main store is on 6F and Chiyoda Rail Center on 7F, so check the floor sign."
  },
  "tips": {
   "ko": [
-   "2026년에 창업 20주년을 맞은 노포 메이드카페로, 메이드에게 캐릭터 설정을 두지 않고 카운터석에서 대화하는 방식이 특징이다.",
+   "2019년 11월에 창업 14주년 이벤트를 연 노포 메이드카페(2005년 개업)로, 메이드에게 캐릭터 설정을 두지 않고 카운터석에서 대화하는 방식이 특징이다.",
    "공식 요금표(2023-08-18 갱신) 기준 첫 방문 60분 1,600엔, 재방문 60분 1,800엔이며 좌석료·음료 1잔·메이드와의 미니게임이 포함된다. 평일에는 90분 세트(첫 방문 2,100엔, 재방문 2,400엔)도 있다.",
    "여성 손님과 커플은 언제나 1,600엔이고, 점내 한정으로 메이드복을 무료로 빌려 직접 가져온 카메라로 사진을 찍을 수 있다.",
    "코나페 디렉터리 '카페룬'의 매장 정보에는 VISA·Mastercard와 PayPay 결제 가능, 예약·전세·단체 이용 불가, 전석 금연으로 안내되어 있다.",
-   "평일 개점이 17:00이라 낮에는 문을 열지 않는다. 임시 개점 시간 변경이 잦으므로 방문 전 공식 X 확인이 필요하다."
+   "34석(테이블 18석·카운터 16석) 규모다. 평일 개점이 17:00이라 낮에는 문을 열지 않고, 임시 개점 시간 변경이 잦으므로 방문 전 공식 X 확인이 필요하다."
   ],
   "en": [
-   "A long-running maid cafe that reached its 20th anniversary in 2026; the maids are given no character personas and the layout is built around counter seats for conversation.",
+   "A long-running maid cafe that held its 14th-anniversary event in November 2019, so it dates from 2005; the maids are given no character personas and the layout is built around counter seats for conversation.",
    "The official price page (updated 2023-08-18) lists 1,600 yen for a first 60-minute visit and 1,800 yen afterwards, covering the seat, one drink and a mini-game with a maid; on weekdays there are also 90-minute sets at 2,100 / 2,400 yen.",
    "Women and couples pay 1,600 yen at any time, and a maid dress can be borrowed free of charge for photos taken inside the shop with your own camera.",
    "The Caferun concafe directory lists VISA and Mastercard plus PayPay, no reservations, no private hire, no groups, and a fully non-smoking room.",
-   "It opens at 17:00 on weekdays, so it is shut during the day; opening times change often, so check the official X account before going."
+   "There are 34 seats (18 at tables, 16 at the counter). It opens at 17:00 on weekdays, so it is shut during the day, and opening times change often, so check the official X account before going."
   ]
  },
  "official_url": "https://filles.jp/",
@@ -114,13 +114,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://filles.jp/",
   "https://filles.jp/store/",
   "https://filles.jp/system/",
   "https://shop.caferun.jp/shop/6086/",
-  "https://concafego.com/shop/e3b736dc322b9f006f44b9e9/"
+  "https://concafego.com/shop/e3b736dc322b9f006f44b9e9/",
+  "https://x.com/filles_maidcafe"
  ],
  "osm_id": "node/6086147632"
 }

@@ -110,13 +110,14 @@
  "chain": "fullcomp",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://fullcomp.jp/akihabara/access/",
   "https://fullcomp.jp/akihabara/",
   "https://fullcomp.jp/",
   "https://fullcomp.jp/radiokaikan/access/",
-  "https://akihabara-radiokaikan.co.jp/floor-guide/"
+  "https://akihabara-radiokaikan.co.jp/floor-guide/",
+  "https://fullcomp.jp/akihabara/item/"
  ],
  "osm_id": null
 }

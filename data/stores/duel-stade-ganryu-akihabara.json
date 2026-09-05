@@ -103,11 +103,12 @@
  "chain": "duel-stade",
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.wonder.co.jp/tcg/",
   "https://x.com/Ganryu_6610",
-  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2183"
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2183",
+  "https://api.fxtwitter.com/Ganryu_6610"
  ],
  "osm_id": "node/10855816863"
 }
