@@ -1,0 +1,364 @@
+{
+ "entries": [
+  {
+   "ja": "アニメイト",
+   "ko": "애니메이트",
+   "en": "animate",
+   "note": "애니메이트로 통일. 아니메이토 아님"
+  },
+  {
+   "ja": "ゲーマーズ",
+   "ko": "게이머즈",
+   "en": "Gamers",
+   "note": "게이머즈로 통일"
+  },
+  {
+   "ja": "らしんばん",
+   "ko": "라신방",
+   "en": "Lashinbang",
+   "note": "라신방으로 통일. 라싱방 아님"
+  },
+  {
+   "ja": "まんだらけ",
+   "ko": "만다라케",
+   "en": "Mandarake",
+   "note": "만다라케로 통일"
+  },
+  {
+   "ja": "駿河屋",
+   "ko": "스루가야",
+   "en": "Surugaya",
+   "note": "스루가야로 통일. 슈루가야 아님"
+  },
+  {
+   "ja": "ソフマップ",
+   "ko": "소프맵",
+   "en": "Sofmap",
+   "note": "소프맵으로 통일"
+  },
+  {
+   "ja": "メロンブックス",
+   "ko": "멜론북스",
+   "en": "Melonbooks",
+   "note": "멜론북스로 통일. 메론북스 아님"
+  },
+  {
+   "ja": "とらのあな",
+   "ko": "토라노아나",
+   "en": "Toranoana",
+   "note": "2022년 아키하바라 전 점포 폐점. excluded.json 참조"
+  },
+  {
+   "ja": "コトブキヤ",
+   "ko": "코토부키야",
+   "en": "Kotobukiya",
+   "note": "코토부키야로 통일"
+  },
+  {
+   "ja": "あみあみ",
+   "ko": "아미아미",
+   "en": "AmiAmi",
+   "note": "아미아미로 통일"
+  },
+  {
+   "ja": "ボークス",
+   "ko": "볼크스",
+   "en": "Volks",
+   "note": "볼크스로 통일. 보크스 아님"
+  },
+  {
+   "ja": "海洋堂",
+   "ko": "카이요도",
+   "en": "Kaiyodo",
+   "note": "카이요도로 통일"
+  },
+  {
+   "ja": "スーパーポテト",
+   "ko": "슈퍼포테이토",
+   "en": "Super Potato",
+   "note": "슈퍼포테이토로 통일. 수퍼포테이토 아님"
+  },
+  {
+   "ja": "トレーダー",
+   "ko": "트레이더",
+   "en": "Trader",
+   "note": "트레이더로 통일"
+  },
+  {
+   "ja": "晴れる屋",
+   "ko": "하레루야",
+   "en": "Hareruya",
+   "note": "하레루야2는 포켓몬 카드 전문, 하레루야는 MTG 전문으로 별개 브랜드"
+  },
+  {
+   "ja": "イエローサブマリン",
+   "ko": "옐로서브마린",
+   "en": "Yellow Submarine",
+   "note": "옐로서브마린으로 통일. 약칭 이에사부(イエサブ)"
+  },
+  {
+   "ja": "カードラボ",
+   "ko": "카드라보",
+   "en": "Card Labo",
+   "note": "카드라보로 통일. 약칭 카드라"
+  },
+  {
+   "ja": "ホビーステーション",
+   "ko": "호비스테이션",
+   "en": "Hobby Station",
+   "note": "호비스테이션으로 통일. 약칭 호비스테"
+  },
+  {
+   "ja": "タイトーステーション",
+   "ko": "타이토 스테이션",
+   "en": "Taito Station",
+   "note": "타이토 스테이션으로 통일"
+  },
+  {
+   "ja": "シルクハット",
+   "ko": "실크햇",
+   "en": "Silk Hat",
+   "note": "실크햇으로 통일"
+  },
+  {
+   "ja": "あっとほぉーむカフェ",
+   "ko": "앳홈카페",
+   "en": "@home cafe",
+   "note": "앳홈카페로 통일. 표기 @home cafe 병기"
+  },
+  {
+   "ja": "めいどりーみん",
+   "ko": "메이드리밍",
+   "en": "Maidreamin",
+   "note": "메이드리밍으로 통일"
+  },
+  {
+   "ja": "キュアメイドカフェ",
+   "ko": "큐어메이드카페",
+   "en": "Cure Maid Cafe",
+   "note": "큐어메이드카페로 통일"
+  },
+  {
+   "ja": "ヨドバシカメラ",
+   "ko": "요도바시카메라",
+   "en": "Yodobashi Camera",
+   "note": "아키바점은 요도바시 Akiba로 표기"
+  },
+  {
+   "ja": "ビックカメラ",
+   "ko": "빅카메라",
+   "en": "Bic Camera",
+   "note": "빅카메라로 통일. 비크카메라 아님"
+  },
+  {
+   "ja": "ドン・キホーテ",
+   "ko": "돈키호테",
+   "en": "Don Quijote",
+   "note": "돈키호테로 통일. 약칭 돈키"
+  },
+  {
+   "ja": "秋葉原ラジオ会館",
+   "ko": "아키하바라 라디오회관",
+   "en": "Akihabara Radio Kaikan",
+   "note": "라디오회관으로 줄여 부름"
+  },
+  {
+   "ja": "ジーストア",
+   "ko": "지스토어",
+   "en": "Gee Store",
+   "note": "지스토어로 통일. 코스파(COSPA) 브랜드 운영"
+  },
+  {
+   "ja": "電気街口",
+   "ko": "전기가 출구",
+   "en": "Electric Town Exit",
+   "note": "JR 아키하바라역 서쪽 출구. 이 앱의 기본 기준점"
+  },
+  {
+   "ja": "中央通り",
+   "ko": "주오도리",
+   "en": "Chuo-dori",
+   "note": "주오도리로 통일. 중앙거리로 번역하지 않음"
+  },
+  {
+   "ja": "昭和通り",
+   "ko": "쇼와도리",
+   "en": "Showa-dori",
+   "note": "쇼와도리로 통일"
+  },
+  {
+   "ja": "末広町",
+   "ko": "스에히로초",
+   "en": "Suehirocho",
+   "note": "스에히로초로 통일"
+  },
+  {
+   "ja": "外神田",
+   "ko": "소토칸다",
+   "en": "Sotokanda",
+   "note": "주소 표기는 일본어 원문 유지, 한국어 설명에서만 소토칸다"
+  },
+  {
+   "ja": "免税",
+   "ko": "면세",
+   "en": "Tax-free",
+   "note": "배지 라벨"
+  },
+  {
+   "ja": "ガチャポン",
+   "ko": "가챠폰",
+   "en": "Gachapon",
+   "note": "캡슐토이. 태그 gacha"
+  },
+  {
+   "ja": "ガンプラ",
+   "ko": "건프라",
+   "en": "Gunpla",
+   "note": "태그 gunpla"
+  },
+  {
+   "ja": "同人誌",
+   "ko": "동인지",
+   "en": "Doujinshi",
+   "note": "카테고리 doujin_manga"
+  },
+  {
+   "ja": "トレカ",
+   "ko": "트레카",
+   "en": "Trading cards",
+   "note": "카테고리 trading_card. 트레이딩 카드의 준말"
+  }
+ ],
+ "store_names": [
+  {
+   "ja": "AKB48劇場",
+   "ko": "AKB48 극장",
+   "en": "AKB48 Theater"
+  },
+  {
+   "ja": "秋葉原ガチャポン会館",
+   "ko": "아키하바라 가챠폰 회관",
+   "en": "Akihabara Gachapon Kaikan"
+  },
+  {
+   "ja": "あみあみ秋葉原フィギュアタワー店",
+   "ko": "아미아미 아키하바라 피규어타워점",
+   "en": "AmiAmi Akihabara Figure Tower"
+  },
+  {
+   "ja": "アニメイト秋葉原1号館",
+   "ko": "애니메이트 아키하바라 1호관",
+   "en": "animate Akihabara 1st Building"
+  },
+  {
+   "ja": "BEEP秋葉原店",
+   "ko": "BEEP 아키하바라",
+   "en": "BEEP Akihabara"
+  },
+  {
+   "ja": "カードラボ 秋葉原ラジオ会館本店",
+   "ko": "카드라보 아키하바라 라디오회관 본점",
+   "en": "Card Labo Akihabara Radio Kaikan Main Store"
+  },
+  {
+   "ja": "AKIHABARAゲーマーズ本店",
+   "ko": "아키하바라 게이머즈 본점",
+   "en": "AKIHABARA Gamers Main Store"
+  },
+  {
+   "ja": "Hey（Hirose Entertainment Yard）",
+   "ko": "HEY (헤이)",
+   "en": "Hey (Hirose Entertainment Yard)"
+  },
+  {
+   "ja": "K-BOOKS秋葉原本館",
+   "ko": "K-BOOKS 아키하바라 본관",
+   "en": "K-BOOKS Akihabara Honkan"
+  },
+  {
+   "ja": "海洋堂ホビーロビー東京",
+   "ko": "카이요도 호비로비 도쿄",
+   "en": "Kaiyodo Hobby Lobby Tokyo"
+  },
+  {
+   "ja": "コトブキヤ秋葉原館",
+   "ko": "코토부키야 아키하바라관",
+   "en": "Kotobukiya Akihabara"
+  },
+  {
+   "ja": "らしんばん秋葉原店新館",
+   "ko": "라신방 아키하바라점 신관",
+   "en": "Lashinbang Akihabara Shinkan"
+  },
+  {
+   "ja": "まんだらけコンプレックス",
+   "ko": "만다라케 컴플렉스",
+   "en": "Mandarake Complex"
+  },
+  {
+   "ja": "メロンブックス秋葉原1号店",
+   "ko": "멜론북스 아키하바라 1호점",
+   "en": "Melonbooks Akihabara 1st Store"
+  },
+  {
+   "ja": "レトロげーむキャンプ 秋葉原店",
+   "ko": "레트로 게임 캠프",
+   "en": "Retro Game Camp Akihabara"
+  },
+  {
+   "ja": "シルクハット秋葉原",
+   "ko": "실크햇 아키하바라",
+   "en": "Silk Hat Akihabara"
+  },
+  {
+   "ja": "ソフマップAKIBA アミューズメント館",
+   "ko": "소프맵 AKIBA 어뮤즈먼트관",
+   "en": "Sofmap AKIBA Amusement Hall"
+  },
+  {
+   "ja": "スーパーポテト秋葉原店",
+   "ko": "슈퍼포테이토 아키하바라점",
+   "en": "Super Potato Akihabara"
+  },
+  {
+   "ja": "駿河屋 秋葉原本館",
+   "ko": "스루가야 아키하바라 본관",
+   "en": "Surugaya Akihabara Main Store"
+  },
+  {
+   "ja": "TAMASHII NATIONS STORE TOKYO（魂ネイションズストア東京）",
+   "ko": "타마시 네이션즈 스토어 도쿄",
+   "en": "TAMASHII NATIONS STORE TOKYO"
+  },
+  {
+   "ja": "トレーダー秋葉原本店",
+   "ko": "트레이더 아키하바라 본점",
+   "en": "Trader Akihabara Main Store"
+  },
+  {
+   "ja": "ボークス秋葉原ホビー天国2",
+   "ko": "볼크스 아키하바라 호비천국2",
+   "en": "Volks Akihabara Hobby Tengoku 2"
+  },
+  {
+   "ja": "イエローサブマリン秋葉原本店★ミント",
+   "ko": "옐로서브마린 아키하바라 본점 민트",
+   "en": "Yellow Submarine Akihabara★MINT"
+  },
+  {
+   "ja": "AKIBAカルチャーズZONE",
+   "ko": "AKIBA 컬처즈존",
+   "en": "AKIBA Cultures Zone"
+  },
+  {
+   "ja": "ドン・キホーテ秋葉原店",
+   "ko": "돈키호테 아키하바라점",
+   "en": "Don Quijote Akihabara"
+  },
+  {
+   "ja": "秋葉原ラジオ会館",
+   "ko": "아키하바라 라디오회관",
+   "en": "Akihabara Radio Kaikan"
+  }
+ ]
+}
