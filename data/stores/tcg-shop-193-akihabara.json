@@ -42,9 +42,21 @@
  },
  "building_id": "imai-building",
  "floors": [
-  "2F"
+  "2F",
+  "4F"
  ],
- "floor_guide": [],
+ "floor_guide": [
+  {
+   "floor": "2F",
+   "ko": "매장 카운터와 판매 층",
+   "en": "Shop counter and sales floor"
+  },
+  {
+   "floor": "4F",
+   "ko": "대회·이벤트 공간. 부시로드·호로라이브 카드게임 공식 취급점 명단은 이 층 주소로 등록돼 있다",
+   "en": "Tournament and event floor; Bushiroad's and hololive's official dealer lists register the shop at this floor"
+  }
+ ],
  "location": null,
  "street_segment": null,
  "address_ja": "東京都千代田区外神田3-2-14 今井ビル2F",
@@ -117,7 +129,8 @@
  "source_urls": [
   "https://193tcg.com/user_data/shopinfo",
   "https://193tcg.com/",
-  "https://akibatoreka.com/introduce/1137"
+  "https://akibatoreka.com/introduce/1137",
+  "https://hololive-official-cardgame.com/shop/"
  ],
  "osm_id": "node/12953576364"
 }
