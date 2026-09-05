@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.otakuroad.map",
+      "sha256_cert_fingerprints": [
+        "45:3A:F0:EB:7C:40:F2:C5:0A:78:ED:5C:E7:3E:C3:CB:D7:93:4C:58:DE:AD:61:7F:7D:F7:A8:09:7B:19:06:15"
+      ]
+    }
+  }
+]
