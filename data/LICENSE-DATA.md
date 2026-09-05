@@ -20,7 +20,20 @@ Images under `public/photos/` are licensed individually; see `public/photos/CRED
 ## 편집 콘텐츠 / Editorial text
 
 한국어·영어 설명문(`one_line`, `how_to_find`, `tips`, `floor_guide`)은 직접 작성한 것으로,
-데이터셋과 함께 ODbL 로 제공하되 별도 라이선스를 적용할 수 있습니다.
+데이터셋과 함께 ODbL 로 제공합니다.
+The Korean and English descriptions are written for this project and released with the dataset under ODbL.
+
+## 코드 / Source code
+
+저장소의 소스 코드는 MIT 입니다. 루트의 [LICENSE](../LICENSE) 를 보세요.
+The source code in this repository is MIT licensed; see [LICENSE](../LICENSE).
+
+## 기여물 / Contributions
+
+기여해 주신 데이터는 ODbL, 코드는 MIT 로 공개됩니다.
+직접 찍은 사진을 주실 때는 이슈에 라이선스를 밝혀 주세요. CC BY 4.0 이나 CC0 이 가장 쓰기 좋습니다.
+Contributed data is published under ODbL and contributed code under MIT. If you offer your own
+photograph, state the licence in the issue — CC BY 4.0 or CC0 are the easiest to work with.
 
 ## 아이콘 / Icons
 

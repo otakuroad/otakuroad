@@ -1,0 +1,57 @@
+name: "새 매장 제보 / Suggest a shop"
+description: "지도에 없는 서브컬처 매장을 알고 있습니다 / A subculture shop that is missing from the map"
+title: "[신규] "
+labels: ["data", "new-shop"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        아직 수록하지 못한 후보 221곳이 `data/backlog.json` 에 있습니다. 이미 있는지 먼저 봐주시면 좋지만, 몰라도 괜찮습니다.
+        221 candidates we could not confirm are already listed in `data/backlog.json`, but do not worry about checking first.
+  - type: input
+    id: name
+    attributes:
+      label: 가게 이름 / Shop name
+      description: "일본어 정식 이름이 있으면 가장 좋습니다 / The official Japanese name is ideal"
+      placeholder: "カードショップ○○ 秋葉原店"
+    validations:
+      required: true
+  - type: input
+    id: address
+    attributes:
+      label: 주소와 층 / Address and floor
+      placeholder: "東京都千代田区外神田3-15-5 MNビル4F"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 분류 / Category
+      options:
+        - 애니 굿즈·종합 / Anime goods
+        - 동인지·만화 / Doujinshi & manga
+        - 피규어·프라모델 / Figures & hobby
+        - 레트로 게임 / Retro games
+        - 트레카·보드게임 / Trading cards & board games
+        - 오락실 / Arcade
+        - 메이드·컨셉 카페 / Maid & concept cafe
+        - 아이돌 극장·라이브 / Idol theatre & live
+        - 코스프레·캐릭터 의류 / Cosplay & apparel
+        - 전자상가·호비층 / Electronics with a hobby floor
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 무엇을 파는 곳인가요 / What does it sell
+      placeholder: "포켓몬 카드 싱글 위주, 듀얼 스페이스 있음"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 공식 사이트나 X / Official site or X account
+      description: |
+        이게 없으면 수록하기 어렵습니다. 출처 없이는 넣지 않는 것이 이 저장소의 규칙입니다.
+        Without one it is hard to add: this repository does not publish a record with no source.
+      placeholder: "https://..."

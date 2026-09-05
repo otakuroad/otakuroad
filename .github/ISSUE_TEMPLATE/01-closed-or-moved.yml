@@ -1,0 +1,51 @@
+name: "문 닫음 · 이전 / Closed or moved"
+description: "지도에 있는 가게가 없어졌거나 다른 곳으로 옮겼습니다 / A shop on the map has closed or moved"
+title: "[폐점/이전] "
+labels: ["data", "closed-or-moved"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        아키하바라는 몇 달마다 바뀝니다. 알려주시면 지도에서 내리고 폐점 목록에 넣습니다.
+        Akihabara turns over constantly. We will remove the shop and add it to the deny-list so it cannot come back.
+  - type: input
+    id: store
+    attributes:
+      label: 가게 / Shop
+      description: "매장 카드의 '오류 신고'로 오셨다면 이미 채워져 있습니다 / Prefilled if you came from the app's report button"
+      placeholder: "예: 슈퍼포테이토 아키하바라점 (super-potato-akihabara)"
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: 무슨 일인가요 / What happened
+      options:
+        - 완전히 문을 닫았습니다 / Closed for good
+        - 다른 주소로 옮겼습니다 / Moved to another address
+        - 같은 건물 안에서 층이 바뀌었습니다 / Moved to a different floor in the same building
+        - 이름이 바뀌었습니다 / Renamed
+        - 다른 가게가 들어왔습니다 / A different shop is there now
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: 언제 / When
+      description: "정확한 날짜를 모르면 '2026년 8월쯤'처럼 대략도 괜찮습니다 / An approximate month is fine"
+      placeholder: "2026-08-31"
+  - type: input
+    id: newplace
+    attributes:
+      label: 옮겼다면 새 주소 / New address, if it moved
+      placeholder: "東京都千代田区外神田3-15-4 2F"
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 근거 / How do you know
+      description: |
+        공식 사이트나 X 게시글 링크가 가장 좋고, 직접 가보셨다면 그렇게 적어주세요. 사진이 있으면 붙여주세요.
+        A link to the shop's site or X post is best. If you went there yourself, just say so — and attach a photo if you have one.
+      placeholder: "공식 X에 8월 30일 폐점 공지가 있습니다: https://x.com/..."
+    validations:
+      required: true

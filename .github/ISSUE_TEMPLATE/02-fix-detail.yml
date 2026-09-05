@@ -1,0 +1,49 @@
+name: "정보 수정 / Fix a detail"
+description: "영업시간, 층, 주소, 면세 같은 정보가 틀렸습니다 / Hours, floor, address, tax-free or similar is wrong"
+title: "[수정] "
+labels: ["data"]
+body:
+  - type: input
+    id: store
+    attributes:
+      label: 가게 / Shop
+      placeholder: "예: 카드라보 아키하바라 라디오회관 본점 (card-labo-akihabara-radio-kaikan)"
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: 어떤 정보인가요 / Which detail
+      multiple: true
+      options:
+        - 영업시간 / Opening hours
+        - 정기휴일 / Regular closing day
+        - 층 / Floor
+        - 주소 / Address
+        - 지도 위 핀 위치 / Pin position on the map
+        - 면세 / Tax-free
+        - 결제 수단 / Payment methods
+        - 취급 품목 설명 / What the shop sells
+        - 가게 이름 표기 / How the name is written
+        - 그 밖 / Something else
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 지금 뭐라고 나오고, 뭐가 맞나요 / What it says now, and what it should say
+      placeholder: |
+        지금: 매일 11:00-20:00
+        실제: 평일 12:00-20:00, 토·일·공휴일 11:00-20:00, 수요일 휴무
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 근거 / Source
+      description: |
+        공식 페이지 링크가 가장 좋습니다. 구글 지도 링크는 근거로 쓰지 않습니다 — 가게 공식 페이지를 알려주세요.
+        A link to the shop's own page is best. Google Maps links are not used as sources.
+      placeholder: "https://www.c-labo.jp/shop/akihabara/"
+    validations:
+      required: true

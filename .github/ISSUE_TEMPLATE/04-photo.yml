@@ -1,0 +1,55 @@
+name: "사진 제공 / Offer a photo"
+description: "가게 외관 사진을 찍었습니다 / You photographed a shopfront"
+title: "[사진] "
+labels: ["photo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        409곳 중 사진이 있는 곳은 약 100곳뿐입니다. 위키미디어 커먼즈에 5층 트레카 매장 사진은 존재하지 않기 때문에,
+        직접 찍은 사진이 이 격차를 메울 유일한 방법입니다.
+
+        Only about 100 of the 409 shops have a photo. Commons simply has no storefront for a fifth-floor card shop,
+        so photographs taken on the ground are the only way to close the gap.
+  - type: input
+    id: store
+    attributes:
+      label: 가게 / Shop
+      placeholder: "예: 만다라케 컴플렉스 (mandarake-complex)"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **사진은 이 이슈에 그대로 끌어다 놓으시면 됩니다 / Drag the photo straight into this issue.**
+
+        도움이 되는 사진은 이렇습니다 / What works well:
+        - 간판이 읽히는 정면 외관 / the storefront with the sign legible
+        - 건물 입주 매장이면 세로 간판이나 층별 안내판 / for an upper-floor shop, the vertical signboard or the floor board
+        - 사람 얼굴이 주제가 되지 않게 / people should not be the subject
+  - type: dropdown
+    id: license
+    attributes:
+      label: 라이선스 / Licence
+      description: |
+        직접 찍은 사진만 올려주세요. 다른 사람의 사진이나 가게 홈페이지 이미지는 쓸 수 없습니다.
+        Only photos you took yourself. Someone else's photo, or an image from the shop's website, cannot be used.
+      options:
+        - CC BY 4.0 (이름만 표시해 주면 됨 / credit me)
+        - CC0 (아무 조건 없이 / no conditions)
+        - CC BY-SA 4.0
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: 표시할 이름 / How to credit you
+      placeholder: "GitHub 아이디도 괜찮습니다 / your GitHub handle is fine"
+  - type: input
+    id: taken
+    attributes:
+      label: 촬영 시기 / When it was taken
+      description: "카드에 연도를 표시합니다. 오래된 외관을 지금 모습으로 오해하지 않게 하려는 것입니다 / The year is shown on the card so an old facade is not read as current"
+      placeholder: "2026-09"
+    validations:
+      required: true
