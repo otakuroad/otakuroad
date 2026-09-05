@@ -1,0 +1,30 @@
+---
+/**
+ * Bare-domain landing. Astro's i18n `redirectToDefaultLocale` emits a two-second meta refresh, which
+ * leaves anyone typing the domain staring at a "Redirecting…" notice, so that option is off in
+ * astro.config.mjs and this page renders the redirect itself: an immediate meta refresh for clients
+ * without JS, `location.replace` for everyone else (no history entry, so Back does not bounce here),
+ * plus the canonical and noindex tags the generated page carried. Keep in sync with astro.config.mjs.
+ */
+import { DEFAULT_LOCALE } from '@/i18n'
+
+const target = `/${DEFAULT_LOCALE}/`
+const canonical = new URL(target, Astro.site ?? Astro.url).href
+---
+
+<!doctype html>
+<html lang={DEFAULT_LOCALE}>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={canonical} />
+    <title>otakuroad</title>
+    <script is:inline define:vars={{ target }}>
+      location.replace(target)
+    </script>
+  </head>
+  <body>
+    <a href={target}>otakuroad</a>
+  </body>
+</html>

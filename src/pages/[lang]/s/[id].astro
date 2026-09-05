@@ -1,0 +1,427 @@
+---
+/**
+ * `/{ko|en}/s/{id}` — the prerendered store page (PLAN §4.3).
+ *
+ * Same content as the sheet card, rendered as standalone HTML so a shared link reads well on its own
+ * and search engines can index it. No island: this page ships no MapLibre and no client JS.
+ */
+import HoursTable from '@/components/page/HoursTable.astro'
+import PhotoTile from '@/components/PhotoTile.svelte'
+import StoreRow from '@/components/page/StoreRow.astro'
+import { buildings, stores } from '@/data/generated'
+import Page from '@/layouts/Page.astro'
+import { DEFAULT_ANCHOR } from '@/lib/geo'
+import {
+  badgesFor,
+  categoryLabel,
+  directionsUrl,
+  indexBuildings,
+  locationLine,
+  reportErrorUrl,
+  statusBanner,
+} from '@/lib/format'
+import { colorFor } from '@/lib/glyphs'
+import { storeJsonLd } from '@/lib/schema-org'
+import { LOCALES, t, type Locale } from '@/i18n'
+
+export function getStaticPaths() {
+  // Driven entirely by the generated dataset — new files under data/stores/ appear here for free.
+  return LOCALES.flatMap((lang) => stores.map((store) => ({ params: { lang, id: store.id }, props: { store } })))
+}
+
+const lang = Astro.params.lang as Locale
+const { store } = Astro.props
+
+const site = Astro.site ?? new URL('https://otakuroad.pages.dev')
+const path = `/s/${store.id}`
+const pageUrl = new URL(`/${lang}${path}`, site)
+
+const buildingById = indexBuildings(buildings)
+const building = store.building_id === null ? null : (buildingById.get(store.building_id) ?? null)
+const where = locationLine(store, buildingById, DEFAULT_ANCHOR, lang)
+const badges = badgesFor(store, lang)
+const banner = statusBanner(store, lang)
+const sameBuilding =
+  store.building_id === null ? [] : stores.filter((s) => s.building_id === store.building_id && s.id !== store.id)
+const sameChain = store.chain === null ? [] : stores.filter((s) => s.chain === store.chain && s.id !== store.id)
+
+const title = `${store.name[lang]} — ${t(lang, 'app.title')}`
+const description = store.one_line[lang]
+const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
+---
+
+<Page
+  lang={lang}
+  title={title}
+  description={description}
+  path={path}
+  image={store.photo?.url ?? null}
+  mapHref={`/${lang}/?s=${store.id}`}
+  jsonLd={jsonLd}
+>
+  <article>
+    {
+      banner && (
+        <p class="banner">
+          {banner.date && <b>{t(lang, 'meta.effective_date', { date: banner.date })}</b>}
+          {banner.text}
+        </p>
+      )
+    }
+
+    <div class="head">
+      <PhotoTile photo={store.photo} kind={store.category} size="lg" />
+      <div>
+        <h1>{store.name[lang]}</h1>
+        <p class="ja" lang="ja">{store.name.ja}</p>
+        <p class="alt">{lang === 'ko' ? store.name.en : store.name.ko}</p>
+        <a class="cat" href={`/${lang}/c/${store.category}`}>
+          <i class="dot" style={`background:${colorFor(store.category)}`}></i>
+          {categoryLabel(store.category, lang)}
+        </a>
+      </div>
+    </div>
+
+    <p class="where">{where}</p>
+
+    {
+      badges.length > 0 && (
+        <ul class="badges">
+          {badges.map((badge) => (
+            <li class:list={['badge', badge.tone]}>{badge.label}</li>
+          ))}
+        </ul>
+      )
+    }
+
+    <p class="one">{store.one_line[lang]}</p>
+
+    <div class="actions">
+      <a class="cta" href={`/${lang}/?s=${store.id}`}>{t(lang, 'page.open_in_map')}</a>
+      {
+        store.location && (
+          <a class="ghost" href={directionsUrl(store.location)} rel="noopener nofollow" target="_blank">
+            {t(lang, 'action.directions')}
+          </a>
+        )
+      }
+      {
+        store.official_url && (
+          <a class="ghost" href={store.official_url} rel="noopener nofollow" target="_blank">
+            {t(lang, 'action.official_site')}
+          </a>
+        )
+      }
+    </div>
+
+    <section>
+      <h2>{t(lang, 'section.hours')}</h2>
+      {
+        store.hours === null ? (
+          <p class="body">{t(lang, 'status.unknown_hours')}</p>
+        ) : (
+          <HoursTable hours={store.hours} lang={lang} verifiedAt={store.verified_at} />
+        )
+      }
+    </section>
+
+    {
+      store.floor_guide.length > 0 && (
+        <section>
+          <h2>{t(lang, 'section.floor_guide')}</h2>
+          <dl class="floors">
+            {store.floor_guide.map((entry) => (
+              <>
+                <dt class:list={{ r18: store.adult_content.floors.includes(entry.floor) }}>{entry.floor}</dt>
+                <dd>{entry[lang]}</dd>
+              </>
+            ))}
+          </dl>
+        </section>
+      )
+    }
+
+    {
+      store.how_to_find && (
+        <section>
+          <h2>{t(lang, 'section.how_to_find')}</h2>
+          <p class="body">{store.how_to_find[lang]}</p>
+        </section>
+      )
+    }
+
+    {
+      store.tips && store.tips[lang].length > 0 && (
+        <section>
+          <h2>{t(lang, 'section.tips')}</h2>
+          <ul class="tips">
+            {store.tips[lang].map((tip) => (
+              <li>{tip}</li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      building && (
+        <section>
+          <h2>{t(lang, 'section.same_building')}</h2>
+          <p class="body">
+            <a class="inline" href={`/${lang}/b/${building.id}`}>
+              {t(lang, 'building.floor_guide')}: {building.name[lang]}
+            </a>
+          </p>
+          {sameBuilding.map((other) => (
+            <StoreRow store={other} lang={lang} buildings={buildingById} />
+          ))}
+        </section>
+      )
+    }
+
+    {
+      sameChain.length > 0 && (
+        <section>
+          <h2>{t(lang, 'section.same_chain')}</h2>
+          {sameChain.map((other) => (
+            <StoreRow store={other} lang={lang} buildings={buildingById} />
+          ))}
+        </section>
+      )
+    }
+
+    <section>
+      <h2>{t(lang, 'section.address')}</h2>
+      <p class="body" lang="ja">{store.address_ja}</p>
+    </section>
+
+    {store.photo && <p class="credit">{t(lang, 'section.photo_credit')}: {store.photo.credit}</p>}
+
+    <footer class="prov">
+      <p>{t(lang, 'meta.verified_at', { date: store.verified_at })}</p>
+      <h2 class="sources-title">{t(lang, 'section.sources')}</h2>
+      <ul class="sources">
+        {
+          store.source_urls.map((url) => (
+            <li>
+              <a href={url} rel="nofollow noopener" target="_blank">
+                {url}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+      <p>
+        <a class="inline" href={reportErrorUrl('store', store.id, lang)} rel="noopener" target="_blank">
+          {t(lang, 'meta.report_error')}
+        </a>
+      </p>
+    </footer>
+  </article>
+</Page>
+
+<style>
+  .banner {
+    margin-bottom: 16px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background: #fff4c2;
+    color: #7a4f00;
+    font-size: 13.5px;
+    line-height: 1.5;
+  }
+  .banner b {
+    font-weight: 700;
+  }
+
+  .head {
+    display: grid;
+    grid-template-columns: 84px minmax(0, 1fr);
+    gap: 16px;
+    align-items: start;
+  }
+  h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+  .ja,
+  .alt {
+    margin-top: 4px;
+    font-size: 13px;
+    color: var(--color-text-tertiary);
+  }
+  .cat {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 10px;
+    padding: 5px 11px 5px 9px;
+    border-radius: 14px;
+    background: var(--color-surface-muted);
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex: none;
+  }
+
+  .where {
+    margin-top: 16px;
+    font-size: 15px;
+    color: var(--color-text-secondary);
+  }
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+  }
+  .badge {
+    font-size: 12.5px;
+    font-weight: 600;
+    padding: 4px 9px;
+    border-radius: 7px;
+    border: 1px solid var(--color-border);
+    color: var(--color-text-secondary);
+  }
+  .badge.muted {
+    background: var(--color-surface-muted);
+    border-color: transparent;
+  }
+  .badge.warn {
+    color: #7a4f00;
+    background: #fff4c2;
+    border-color: transparent;
+  }
+  .one {
+    margin-top: 16px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+  }
+  .cta,
+  .ghost {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--tap-min);
+    padding: 0 16px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .cta {
+    background: var(--color-text);
+    color: var(--color-text-inverse);
+  }
+  .ghost {
+    border: 1px solid var(--color-border);
+    color: var(--color-text);
+  }
+
+  section {
+    margin-top: 28px;
+  }
+  h2 {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-tertiary);
+  }
+  .body {
+    margin-top: 8px;
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--color-text-secondary);
+  }
+  .inline {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .floors {
+    margin-top: 8px;
+    display: grid;
+    grid-template-columns: 46px minmax(0, 1fr);
+    row-gap: 8px;
+    column-gap: 12px;
+    font-size: 14px;
+  }
+  .floors dt {
+    font-weight: 700;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .floors dt.r18 {
+    color: var(--color-text-tertiary);
+  }
+  .floors dd {
+    margin: 0;
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+  }
+
+  .tips {
+    margin-top: 8px;
+    display: grid;
+    gap: 10px;
+  }
+  .tips li {
+    position: relative;
+    padding-left: 16px;
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: var(--color-text-secondary);
+  }
+  .tips li::before {
+    content: '';
+    position: absolute;
+    left: 3px;
+    top: 9px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--color-text-tertiary);
+  }
+
+  .credit {
+    margin-top: 20px;
+    font-size: 11.5px;
+    color: var(--color-text-tertiary);
+    line-height: 1.5;
+  }
+  .prov {
+    margin-top: 28px;
+    padding-top: 16px;
+    border-top: 1px solid var(--color-border);
+    font-size: 12.5px;
+    color: var(--color-text-tertiary);
+  }
+  .sources-title {
+    margin-top: 12px;
+  }
+  .sources {
+    margin-top: 6px;
+    display: grid;
+    gap: 4px;
+  }
+  .sources a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    overflow-wrap: anywhere;
+  }
+  .prov p {
+    margin-top: 10px;
+  }
+</style>

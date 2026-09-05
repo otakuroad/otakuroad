@@ -1,0 +1,112 @@
+---
+/**
+ * One store in a listing on a prerendered page (category page, building page, related links).
+ *
+ * Deliberately no open/closed state: these pages are built once and would otherwise assert a
+ * "지금 영업중" that is stale the moment the build finishes. The weekly hours live on the store page.
+ */
+import PhotoTile from '@/components/PhotoTile.svelte'
+import type { Building, Store } from '@/data/schema'
+import { badgesFor, categoryLabel, locationLine } from '@/lib/format'
+import { colorFor } from '@/lib/glyphs'
+import { DEFAULT_ANCHOR } from '@/lib/geo'
+import type { Locale } from '@/i18n'
+
+interface Props {
+  store: Store
+  lang: Locale
+  buildings: ReadonlyMap<string, Building>
+}
+
+const { store, lang, buildings } = Astro.props
+
+const badges = badgesFor(store, lang)
+const where = locationLine(store, buildings, DEFAULT_ANCHOR, lang)
+---
+
+<a class="row" href={`/${lang}/s/${store.id}`}>
+  <PhotoTile photo={store.photo} kind={store.category} dim={store.status.state !== 'open'} />
+  <span class="mid">
+    <span class="nm">{store.name[lang]}</span>
+    <span class="ja" lang="ja">{store.name.ja}</span>
+    <span class="sub">
+      <i class="dot" style={`background:${colorFor(store.category)}`}></i>
+      {categoryLabel(store.category, lang)}
+      {badges.map((badge) => <span class="mini">{badge.label}</span>)}
+    </span>
+    <span class="one">{store.one_line[lang]}</span>
+    <span class="where">{where}</span>
+  </span>
+</a>
+
+<style>
+  .row {
+    /*
+      Two columns, not three: on a 390px page a right-hand location column has to ellipsise to
+      "주오..." beside any realistic store name, so the location line sits under the description
+      where it can always be read in full.
+    */
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr);
+    column-gap: 12px;
+    align-items: start;
+    padding: 12px 8px;
+    margin: 0 -8px;
+    border-radius: 10px;
+    border-top: 1px solid var(--color-border);
+  }
+  .row:hover {
+    background: var(--color-surface-muted);
+  }
+  .mid {
+    min-width: 0;
+  }
+  .nm {
+    display: block;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.3;
+  }
+  .ja {
+    display: block;
+    margin-top: 2px;
+    font-size: 12px;
+    color: var(--color-text-tertiary);
+  }
+  .sub {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: center;
+    margin-top: 3px;
+    font-size: 12.5px;
+    color: var(--color-text-secondary);
+  }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex: none;
+  }
+  .mini {
+    font-size: 10.5px;
+    font-weight: 600;
+    padding: 1px 5px;
+    border-radius: 4px;
+    background: var(--color-surface-muted);
+    color: var(--color-text-secondary);
+  }
+  .one {
+    display: block;
+    margin-top: 4px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--color-text-secondary);
+  }
+  .where {
+    display: block;
+    margin-top: 4px;
+    font-size: 12.5px;
+    color: var(--color-text-tertiary);
+  }
+</style>

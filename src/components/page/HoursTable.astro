@@ -1,0 +1,80 @@
+---
+/**
+ * The weekly hours table, shared by the store page and (via each tenant link) the building page.
+ * Uses the same `hoursTable` collapsing as the sheet card so the two never disagree, but does not
+ * highlight "today": a page built once cannot know when it is being read.
+ */
+import type { Hours } from '@/data/schema'
+import { hoursDayLabel } from '@/lib/format'
+import { hoursTable } from '@/lib/hours'
+import { t, type Locale } from '@/i18n'
+
+interface Props {
+  hours: Hours
+  lang: Locale
+  verifiedAt: string
+}
+
+const { hours, lang, verifiedAt } = Astro.props
+
+const rows = hoursTable(hours)
+---
+
+<table class="hours">
+  <caption class="visually-hidden">{t(lang, 'section.hours')}</caption>
+  <tbody>
+    {
+      rows.map((row) => (
+        <tr>
+          <th scope="row">{hoursDayLabel(row.days, lang)}</th>
+          <td>{row.windows.length === 0 ? t(lang, 'hours.closed') : row.windows.join(', ')}</td>
+        </tr>
+      ))
+    }
+    {
+      hours.regular_holiday && (
+        <tr>
+          <th scope="row">{t(lang, 'hours.regular_holiday')}</th>
+          <td>{hours.regular_holiday[lang]}</td>
+        </tr>
+      )
+    }
+  </tbody>
+</table>
+
+{hours.note && <p class="note">{hours.note[lang]}</p>}
+<p class="note">
+  {t(lang, 'hours.source')} · <a href={hours.source_url} rel="nofollow noopener">{hours.source_url}</a> ·
+  {t(lang, 'meta.verified_at', { date: verifiedAt })}
+</p>
+
+<style>
+  .hours {
+    margin-top: 8px;
+    border-collapse: collapse;
+    font-size: 14px;
+    font-variant-numeric: tabular-nums;
+  }
+  .hours th {
+    text-align: left;
+    font-weight: 400;
+    color: var(--color-text-secondary);
+    padding: 4px 16px 4px 0;
+    white-space: nowrap;
+    vertical-align: top;
+  }
+  .hours td {
+    padding: 4px 0;
+  }
+  .note {
+    margin-top: 8px;
+    font-size: 12.5px;
+    line-height: 1.55;
+    color: var(--color-text-tertiary);
+    overflow-wrap: anywhere;
+  }
+  .note a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+</style>

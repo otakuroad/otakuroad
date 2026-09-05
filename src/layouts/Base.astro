@@ -1,0 +1,31 @@
+---
+import '@/styles/tokens.css'
+import '@/styles/global.css'
+import type { Locale } from '@/i18n'
+
+interface Props {
+  lang: Locale
+  title: string
+  description?: string
+}
+
+const { lang, title, description } = Astro.props
+---
+
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta name="generator" content={Astro.generator} />
+    <!-- Canonical, hreflang, Open Graph and JSON-LD for the prerendered share pages (PLAN §4.3). -->
+    <slot name="head" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

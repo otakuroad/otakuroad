@@ -1,0 +1,196 @@
+---
+/**
+ * `/{ko|en}/c/{category}` — the prerendered category page (PLAN §4.3),
+ * e.g. "아키하바라 피규어·프라모델 샵 7곳".
+ *
+ * Built for all ten categories whether or not the seed set has stores in them yet, so the URL is
+ * stable as `data/stores/` grows.
+ */
+import Glyph from '@/components/Glyph.svelte'
+import StoreRow from '@/components/page/StoreRow.astro'
+import { CATEGORIES, CATEGORY_BY_KEY, type CategoryKey } from '@/data/categories'
+import { buildings, stores } from '@/data/generated'
+import Page from '@/layouts/Page.astro'
+import { DEFAULT_ANCHOR } from '@/lib/geo'
+import { walkingMinutes } from '@/lib/geo'
+import { indexBuildings } from '@/lib/format'
+import { categoryJsonLd } from '@/lib/schema-org'
+import { LOCALES, t, type Locale } from '@/i18n'
+
+export function getStaticPaths() {
+  return LOCALES.flatMap((lang) =>
+    CATEGORIES.map((category) => ({ params: { lang, category: category.key }, props: { key: category.key } })),
+  )
+}
+
+const lang = Astro.params.lang as Locale
+const { key } = Astro.props as { key: CategoryKey }
+
+const site = Astro.site ?? new URL('https://otakuroad.pages.dev')
+const path = `/c/${key}`
+const pageUrl = new URL(`/${lang}${path}`, site)
+
+const buildingById = indexBuildings(buildings)
+const meta = CATEGORY_BY_KEY[key]
+
+// Landmarks first, then nearest to the Electric Town exit — the same order the map's list uses.
+const matching = stores
+  .filter((s) => s.category === key)
+  .slice()
+  .sort(
+    (a, b) =>
+      a.priority - b.priority ||
+      (a.location === null ? 9999 : walkingMinutes(DEFAULT_ANCHOR, a.location)) -
+        (b.location === null ? 9999 : walkingMinutes(DEFAULT_ANCHOR, b.location)),
+  )
+
+const dataAsOf =
+  [...stores.map((s) => s.verified_at), ...buildings.map((b) => b.verified_at)].sort().at(-1) ?? ''
+
+const heading = t(lang, 'page.category_heading', { category: meta.label[lang], count: matching.length })
+const description = t(lang, 'page.category_intro', { category: meta.label[lang], date: dataAsOf })
+const jsonLd = categoryJsonLd(key, matching, lang, pageUrl, site, heading)
+---
+
+<Page
+  lang={lang}
+  title={`${heading} — ${t(lang, 'app.title')}`}
+  description={description}
+  path={path}
+  image={matching.find((s) => s.photo !== null)?.photo?.url ?? null}
+  mapHref={`/${lang}/?c=${key}`}
+  jsonLd={jsonLd}
+>
+  <div class="head">
+    <span class="tile" style={`background:${meta.color}`}>
+      <Glyph kind={key} size={30} />
+    </span>
+    <div>
+      <h1>{heading}</h1>
+      <p class="ja" lang="ja">{meta.label.ja}</p>
+    </div>
+  </div>
+
+  <p class="intro">{description}</p>
+
+  <p class="actions">
+    <a class="cta" href={`/${lang}/?c=${key}`}>{t(lang, 'page.open_in_map')}</a>
+  </p>
+
+  {
+    matching.length === 0 ? (
+      <p class="empty">{t(lang, 'page.no_stores')}</p>
+    ) : (
+      <section>
+        {matching.map((store) => (
+          <StoreRow store={store} lang={lang} buildings={buildingById} />
+        ))}
+      </section>
+    )
+  }
+
+  <section class="others">
+    <h2>{t(lang, 'page.categories')}</h2>
+    <ul class="chips">
+      {
+        CATEGORIES.filter((c) => c.key !== key).map((c) => (
+          <li>
+            <a class="chip" href={`/${lang}/c/${c.key}`}>
+              <i class="dot" style={`background:${c.color}`} />
+              {c.label[lang]}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</Page>
+
+<style>
+  .head {
+    display: grid;
+    grid-template-columns: 60px minmax(0, 1fr);
+    gap: 16px;
+    align-items: center;
+  }
+  .tile {
+    width: 60px;
+    height: 60px;
+    border-radius: 14px;
+    display: grid;
+    place-items: center;
+  }
+  h1 {
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+  .ja {
+    margin-top: 4px;
+    font-size: 13px;
+    color: var(--color-text-tertiary);
+  }
+  .intro {
+    margin-top: 16px;
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--color-text-secondary);
+  }
+  .actions {
+    margin-top: 18px;
+  }
+  .cta {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--tap-min);
+    padding: 0 16px;
+    border-radius: 12px;
+    background: var(--color-text);
+    color: var(--color-text-inverse);
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .empty {
+    margin-top: 28px;
+    color: var(--color-text-secondary);
+  }
+  section {
+    margin-top: 24px;
+  }
+  .others {
+    margin-top: 36px;
+    padding-top: 20px;
+    border-top: 1px solid var(--color-border);
+  }
+  h2 {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-tertiary);
+  }
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    min-height: 38px;
+    padding: 0 14px;
+    border-radius: 19px;
+    border: 1px solid var(--color-border);
+    font-size: 13.5px;
+    font-weight: 500;
+  }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+  }
+</style>

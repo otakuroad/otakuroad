@@ -1,0 +1,5 @@
+# otakuroad — Akihabara subculture store map
+User-agent: *
+Allow: /
+
+Sitemap: https://otakuroad.pages.dev/sitemap-index.xml

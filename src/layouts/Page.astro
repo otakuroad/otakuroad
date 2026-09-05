@@ -1,0 +1,187 @@
+---
+/**
+ * Layout for the prerendered content pages (`/s/`, `/b/`, `/c/`, PLAN §4.3).
+ *
+ * These are deliberately not the map: no island, no MapLibre, no client JS at all. They exist so a
+ * shared link opens something readable and indexable, and every one of them offers a way back into
+ * the map at the matching state.
+ */
+import Base from './Base.astro'
+import { LOCALES, t, type Locale } from '@/i18n'
+
+interface Props {
+  lang: Locale
+  title: string
+  description: string
+  /** Path after the locale prefix, e.g. `/s/super-potato-akihabara`. */
+  path: string
+  /** Absolute or root-relative image for Open Graph. */
+  image?: string | null
+  /** Deep link back into the map island, e.g. `/ko/?s=super-potato-akihabara`. */
+  mapHref: string
+  jsonLd?: unknown
+}
+
+const { lang, title, description, path, image = null, mapHref, jsonLd } = Astro.props
+
+const site = Astro.site ?? new URL('https://otakuroad.pages.dev')
+const canonical = new URL(`/${lang}${path}`, site).href
+const ogImage = image === null ? null : new URL(image, site).href
+---
+
+<Base lang={lang} title={title} description={description}>
+  <Fragment slot="head">
+    <link rel="canonical" href={canonical} />
+    {
+      LOCALES.map((code) => (
+        <link rel="alternate" hreflang={code} href={new URL(`/${code}${path}`, site).href} />
+      ))
+    }
+    <link rel="alternate" hreflang="x-default" href={new URL(`/ko${path}`, site).href} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t(lang, 'app.title')} />
+    <meta property="og:locale" content={lang === 'ko' ? 'ko_KR' : 'en_US'} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
+
+    {
+      jsonLd && (
+        <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} is:inline />
+      )
+    }
+  </Fragment>
+
+  <a class="skip" href="#content">{t(lang, 'page.skip_to_content')}</a>
+
+  <header class="topbar">
+    <a class="wordmark" href={`/${lang}/`}>
+      <svg width="16" height="22" viewBox="0 0 18 24" aria-hidden="true">
+        <rect x="1" y="1" width="16" height="22" rx="3" fill="#1F2328"></rect>
+        <rect x="4" y="4.5" width="10" height="2.6" rx="1" fill="#E5484D"></rect>
+        <rect x="4" y="8.7" width="10" height="2.6" rx="1" fill="#8E4EC6"></rect>
+        <rect x="4" y="12.9" width="10" height="2.6" rx="1" fill="#3E63DD"></rect>
+        <rect x="4" y="17.1" width="10" height="2.6" rx="1" fill="#30A46C"></rect>
+      </svg>
+      <span>{t(lang, 'app.title')}</span>
+    </a>
+    <nav class="topnav">
+      <a class="map-link" href={mapHref}>{t(lang, 'page.open_in_map')}</a>
+      <span class="langs">
+        {
+          LOCALES.map((code) => (
+            <a class:list={['lang', { on: code === lang }]} href={`/${code}${path}`} hreflang={code}>
+              {code === 'ko' ? '한국어' : 'English'}
+            </a>
+          ))
+        }
+      </span>
+    </nav>
+  </header>
+
+  <main id="content" tabindex="-1">
+    <slot />
+  </main>
+
+  <footer class="pagefoot">
+    <p>{t(lang, 'info.data_note')}</p>
+    <p class="credits">{t(lang, 'info.credits')}</p>
+  </footer>
+</Base>
+
+<style>
+  .skip {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    transform: translateY(-200%);
+    background: var(--color-text);
+    color: var(--color-text-inverse);
+    padding: 10px 14px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    z-index: 10;
+  }
+  .skip:focus-visible {
+    transform: none;
+  }
+
+  .topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .wordmark {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    min-height: var(--tap-min);
+  }
+  .topnav {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-size: 13px;
+  }
+  .map-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--tap-min);
+    padding: 0 12px;
+    border-radius: var(--radius-pill);
+    background: var(--color-text);
+    color: var(--color-text-inverse);
+    font-weight: 600;
+  }
+  .langs {
+    display: inline-flex;
+    gap: 2px;
+  }
+  .lang {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--tap-min);
+    padding: 0 8px;
+    border-radius: 8px;
+    color: var(--color-text-secondary);
+  }
+  .lang.on {
+    color: var(--color-text);
+    font-weight: 700;
+  }
+
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 20px 20px 40px;
+    outline: none;
+  }
+
+  .pagefoot {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 20px;
+    border-top: 1px solid var(--color-border);
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--color-text-tertiary);
+    display: grid;
+    gap: 8px;
+  }
+</style>

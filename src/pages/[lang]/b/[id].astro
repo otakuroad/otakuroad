@@ -1,0 +1,313 @@
+---
+/**
+ * `/{ko|en}/b/{id}` — the prerendered building page (PLAN §4.3).
+ *
+ * The floor stack is rendered top floor → B1F, the same order as the signboard outside and as the
+ * sheet's directory, with curated tenants linking to their own pages and uncurated floors kept as
+ * one grey line each.
+ */
+import PhotoTile from '@/components/PhotoTile.svelte'
+import StoreRow from '@/components/page/StoreRow.astro'
+import { buildings, stores } from '@/data/generated'
+import type { Store } from '@/data/schema'
+import Page from '@/layouts/Page.astro'
+import { indexBuildings, reportErrorUrl } from '@/lib/format'
+import { colorFor } from '@/lib/glyphs'
+import { buildingJsonLd } from '@/lib/schema-org'
+import { LOCALES, t, type Locale } from '@/i18n'
+
+export function getStaticPaths() {
+  return LOCALES.flatMap((lang) =>
+    buildings.map((building) => ({ params: { lang, id: building.id }, props: { building } })),
+  )
+}
+
+const lang = Astro.params.lang as Locale
+const { building } = Astro.props
+
+const site = Astro.site ?? new URL('https://otakuroad.pages.dev')
+const path = `/b/${building.id}`
+const pageUrl = new URL(`/${lang}${path}`, site)
+
+const buildingById = indexBuildings(buildings)
+const tenants = stores.filter((s) => s.building_id === building.id)
+
+/** B1F → -1, 1F → 1, RF → 100, so the stack reads like the vertical signboard. */
+function floorRank(label: string): number {
+  if (label === 'RF') return 100
+  if (label.startsWith('B')) return -Number(label.slice(1, -1))
+  return Number(label.slice(0, -1))
+}
+
+interface FloorRow {
+  floor: string
+  stores: Store[]
+  note: string | null
+}
+
+const floorRows: FloorRow[] = [...building.floors]
+  .sort((a, b) => floorRank(b) - floorRank(a))
+  .map((floor) => ({
+    floor,
+    stores: tenants.filter((s) => s.floors.includes(floor)),
+    note: building.uncurated_floors.find((u) => u.floor === floor)?.[lang] ?? null,
+  }))
+
+const title = `${building.name[lang]} — ${t(lang, 'app.title')}`
+const description = t(lang, 'page.building_meta', { name: building.name[lang], count: tenants.length })
+const jsonLd = buildingJsonLd(building, tenants, lang, pageUrl, site)
+---
+
+<Page
+  lang={lang}
+  title={title}
+  description={description}
+  path={path}
+  image={building.photo?.url ?? null}
+  mapHref={`/${lang}/?b=${building.id}`}
+  jsonLd={jsonLd}
+>
+  <article>
+    <div class="head">
+      <PhotoTile photo={building.photo} kind="building" size="lg" />
+      <div>
+        <h1>{building.name[lang]}</h1>
+        <p class="ja" lang="ja">{building.name.ja}</p>
+        <p class="alt">{t(lang, 'building.tenants', { count: tenants.length })}</p>
+      </div>
+    </div>
+
+    <div class="actions">
+      <a class="cta" href={`/${lang}/?b=${building.id}`}>{t(lang, 'page.open_in_map')}</a>
+      {
+        building.floor_guide_url && (
+          <a class="ghost" href={building.floor_guide_url} rel="noopener nofollow" target="_blank">
+            {t(lang, 'building.floor_guide')}
+          </a>
+        )
+      }
+    </div>
+
+    <section>
+      <h2>{t(lang, 'section.floors')}</h2>
+      <ol class="stack">
+        {
+          floorRows.map((row) => (
+            <li class="floor">
+              <span class="f">{row.floor}</span>
+              <span class="c">
+                {row.stores.map((store) => (
+                  <a class="tenant" href={`/${lang}/s/${store.id}`}>
+                    <i class="dot" style={`background:${colorFor(store.category)}`} />
+                    <span class="nm">{store.name[lang]}</span>
+                  </a>
+                ))}
+                {row.note && <span class="note">{row.note}</span>}
+              </span>
+            </li>
+          ))
+        }
+      </ol>
+    </section>
+
+    {
+      tenants.length > 0 && (
+        <section>
+          <h2>{t(lang, 'section.tenants')}</h2>
+          {tenants.map((store) => (
+            <StoreRow store={store} lang={lang} buildings={buildingById} />
+          ))}
+        </section>
+      )
+    }
+
+    {
+      building.hours_note && (
+        <section>
+          <h2>{t(lang, 'building.hours_note')}</h2>
+          <p class="body">{building.hours_note[lang]}</p>
+        </section>
+      )
+    }
+
+    {
+      building.exit_hint && (
+        <section>
+          <h2>{t(lang, 'building.exit_hint')}</h2>
+          <p class="body">{building.exit_hint[lang]}</p>
+        </section>
+      )
+    }
+
+    <section>
+      <h2>{t(lang, 'section.address')}</h2>
+      <p class="body" lang="ja">{building.address_ja}</p>
+    </section>
+
+    {building.photo && <p class="credit">{t(lang, 'section.photo_credit')}: {building.photo.credit}</p>}
+
+    <footer class="prov">
+      <p>{t(lang, 'meta.verified_at', { date: building.verified_at })}</p>
+      <h2 class="sources-title">{t(lang, 'section.sources')}</h2>
+      <ul class="sources">
+        {
+          building.source_urls.map((url) => (
+            <li>
+              <a href={url} rel="nofollow noopener" target="_blank">
+                {url}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+      <p>
+        <a class="inline" href={reportErrorUrl('building', building.id, lang)} rel="noopener" target="_blank">
+          {t(lang, 'meta.report_error')}
+        </a>
+      </p>
+    </footer>
+  </article>
+</Page>
+
+<style>
+  .head {
+    display: grid;
+    grid-template-columns: 84px minmax(0, 1fr);
+    gap: 16px;
+    align-items: start;
+  }
+  h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+  .ja,
+  .alt {
+    margin-top: 4px;
+    font-size: 13px;
+    color: var(--color-text-tertiary);
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 20px;
+  }
+  .cta,
+  .ghost {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--tap-min);
+    padding: 0 16px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .cta {
+    background: var(--color-text);
+    color: var(--color-text-inverse);
+  }
+  .ghost {
+    border: 1px solid var(--color-border);
+  }
+
+  section {
+    margin-top: 28px;
+  }
+  h2 {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-tertiary);
+  }
+  .body {
+    margin-top: 8px;
+    font-size: 14.5px;
+    line-height: 1.65;
+    color: var(--color-text-secondary);
+  }
+
+  .stack {
+    margin-top: 10px;
+  }
+  .floor {
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr);
+    border-top: 1px solid var(--color-border);
+  }
+  .f {
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 0.04em;
+    text-align: right;
+    padding: 10px 8px 10px 0;
+    border-right: 2px solid var(--color-text);
+    font-variant-numeric: tabular-nums;
+  }
+  .c {
+    padding: 10px 0 10px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    justify-content: center;
+    min-width: 0;
+  }
+  .tenant {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 24px;
+    font-weight: 600;
+    font-size: 14.5px;
+  }
+  .tenant .nm {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    overflow-wrap: anywhere;
+  }
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex: none;
+  }
+  .note {
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--color-text-tertiary);
+    overflow-wrap: anywhere;
+  }
+
+  .credit {
+    margin-top: 20px;
+    font-size: 11.5px;
+    color: var(--color-text-tertiary);
+  }
+  .prov {
+    margin-top: 28px;
+    padding-top: 16px;
+    border-top: 1px solid var(--color-border);
+    font-size: 12.5px;
+    color: var(--color-text-tertiary);
+  }
+  .sources-title {
+    margin-top: 12px;
+  }
+  .sources {
+    margin-top: 6px;
+    display: grid;
+    gap: 4px;
+  }
+  .sources a,
+  .inline {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    overflow-wrap: anywhere;
+  }
+  .prov p {
+    margin-top: 10px;
+  }
+</style>
