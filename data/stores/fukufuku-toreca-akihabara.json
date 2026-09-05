@@ -25,8 +25,6 @@
   "duel_masters",
   "weiss_schwarz",
   "shadowverse_evolve",
-  "gundam_card",
-  "union_arena",
   "single_card",
   "duel_space",
   "buyback",
@@ -45,13 +43,13 @@
  "floor_guide": [
   {
    "floor": "2F",
-   "ko": "유희왕·포켓몬 카드게임·원피스 카드게임·듀얼마스터즈",
-   "en": "Yu-Gi-Oh!, Pokemon Card Game, One Piece Card Game and Duel Masters"
+   "ko": "유희왕·포켓몬 카드게임·원피스 카드게임",
+   "en": "Yu-Gi-Oh!, Pokemon Card Game and One Piece Card Game"
   },
   {
    "floor": "3F",
-   "ko": "바이스슈발츠·섀도우버스 에볼브·건담 카드게임·유니온 아리나",
-   "en": "Weiss Schwarz, Shadowverse Evolve, Gundam Card Game and Union Arena"
+   "ko": "바이스슈발츠·섀도우버스 에볼브",
+   "en": "Weiss Schwarz and Shadowverse Evolve"
   },
   {
    "floor": "4F",
@@ -112,13 +110,13 @@
  "tips": {
   "ko": [
    "평일은 13:00에 문을 열어 토·일·공휴일(10:00)보다 3시간 늦다. 오전에 평일 방문하면 헛걸음이다.",
-   "2층은 유희왕·포켓몬·원피스·듀얼마스터즈, 3층은 바이스슈발츠·섀도우버스 에볼브·건담·유니온 아리나로 나뉘어 있어 찾는 타이틀에 맞춰 층을 고르면 빠르다.",
+   "2층은 유희왕·포켓몬·원피스, 3층은 바이스슈발츠·섀도우버스 에볼브로 나뉘어 있어 찾는 타이틀에 맞춰 층을 고르면 빠르다.",
    "4층 84석 듀얼 스페이스는 아키하바라에서도 손꼽히는 규모로, 대회·이벤트가 없는 시간대에는 개방된다.",
    "매입(買取)도 함께 하며 접수 마감은 폐점보다 이르다. 카드 결제·면세 여부는 공식 안내가 없으므로 현금을 준비하는 편이 안전하다."
   ],
   "en": [
    "Weekday opening is 13:00, three hours later than the 10:00 weekend and holiday opening, so a weekday morning visit is wasted.",
-   "2F is Yu-Gi-Oh!, Pokemon, One Piece and Duel Masters; 3F is Weiss Schwarz, Shadowverse Evolve, Gundam Card Game and Union Arena, so pick the floor for the title you want.",
+   "2F is Yu-Gi-Oh!, Pokemon and One Piece; 3F is Weiss Schwarz and Shadowverse Evolve, so pick the floor for the title you want.",
    "The 84-seat duel space on 4F is one of the largest play spaces in Akihabara and is open when no tournament or event is running.",
    "The shop also buys cards, and the buyback counter stops taking items before closing. Card acceptance and tax-free are not stated officially, so bring cash."
   ]

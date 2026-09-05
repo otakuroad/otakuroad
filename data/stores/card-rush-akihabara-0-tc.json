@@ -101,16 +101,16 @@
  },
  "tips": {
   "ko": [
-   "45석 대전 공간이 있어 카드러시 아키하바라 점포 중 가장 크다. 취급 타이틀은 유희왕·MTG·포켓몬·원피스·섀도우버스 에볼브·듀얼마스터즈·뱅가드·배틀스피리츠·디지몬 9종.",
+   "92석 대전 공간이 있어 카드러시 아키하바라 점포 중 가장 크다. 판매 취급 타이틀은 유희왕·MTG·포켓몬·원피스·섀도우버스 에볼브·듀얼마스터즈·뱅가드·배틀스피리츠·디지몬 9종.",
    "평일은 13:00에야 문을 연다. 오전에 가려면 토·일·공휴일(11:00 개점)에 맞출 것.",
    "싱글 외에 오리파와 중고 미개봉 팩, 슬리브·덱케이스·플레이매트 등 서플라이도 판다.",
-   "같은 아키하바라의 1호점·1.5호점은 영업을 쉬고 있고 2호점은 여기서 200m쯤 서쪽의 다른 건물이다. '0호점TC'라는 간판을 확인할 것."
+   "같은 아키하바라의 1호점(호시노빌딩 3층)은 임시휴업을 끝내고 매입 전용 창구로 재개했고, 2호점은 여기서 200m쯤 서쪽의 다른 건물이다. '0호점TC'라는 간판을 확인할 것."
   ],
   "en": [
-   "With 45 duel seats this is the largest of the chain's Akihabara stores. It covers nine titles: Yu-Gi-Oh!, MTG, Pokemon, One Piece, Shadowverse Evolve, Duel Masters, Vanguard, Battle Spirits and Digimon.",
+   "With 92 duel seats this is the largest of the chain's Akihabara stores. Its sales line-up covers nine titles: Yu-Gi-Oh!, MTG, Pokemon, One Piece, Shadowverse Evolve, Duel Masters, Vanguard, Battle Spirits and Digimon.",
    "Weekday opening is a late 13:00; for a morning visit come on Saturday, Sunday or a public holiday (11:00).",
    "Besides singles it sells oripa mystery packs, used sealed boosters and supplies such as sleeves, deck cases and playmats.",
-   "The chain's Akihabara No.1 and No.1.5 stores are on hiatus and No.2 is a different building about 200 m west, so check for the 0号店TC sign."
+   "The chain's Akihabara No.1 store (Hoshino Building 3F) has come back from its temporary closure as a buyback-only counter, and No.2 is a different building about 200 m west, so check for the 0号店TC sign."
   ]
  },
  "official_url": "https://www.cardrush.jp/page/57",
@@ -119,13 +119,16 @@
  },
  "chain": "card-rush",
  "priority": 2,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://www.cardrush.jp/page/57",
   "https://akibatoreka.com/introduce/2363",
   "https://www.openstreetmap.org/node/6243154797",
-  "https://www.openstreetmap.org/way/47127857"
+  "https://www.openstreetmap.org/way/47127857",
+  "https://www.cardrush.jp/page/102",
+  "https://cardrush.media/buying_prices_card_titles",
+  "https://syndication.twitter.com/srv/timeline-profile/screen-name/cardrush_akiba0"
  ],
  "osm_id": "node/6243154797"
 }

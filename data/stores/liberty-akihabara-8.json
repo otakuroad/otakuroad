@@ -24,14 +24,12 @@
   "used",
   "figure",
   "prize_figure",
-  "gacha",
-  "capsule_toy",
   "anime_goods",
   "buyback"
  ],
  "one_line": {
-  "ko": "리버티 빌딩 1층의 중고 애니 피규어 매장, 가챠폰 코너 병설",
-  "en": "Liberty Building 1F: used anime figures with a gachapon corner"
+  "ko": "리버티 빌딩 1층의 중고 애니 피규어 매장, 위층 11호점은 건프라·미니카",
+  "en": "Liberty Building 1F: used anime figures, with Gunpla and minicars at Store 11 upstairs"
  },
  "building_id": null,
  "floors": [

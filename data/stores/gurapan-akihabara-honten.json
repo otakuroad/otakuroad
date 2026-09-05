@@ -23,6 +23,7 @@
   "one_piece_card",
   "weiss_schwarz",
   "shadowverse_evolve",
+  "pokemon_card",
   "singles",
   "oripa",
   "duel_space",
@@ -34,8 +35,8 @@
   "new"
  ],
  "one_line": {
-  "ko": "원피스카드·바이스슈발츠·섀도우버스 에볼브 싱글과 오리파, 20석 대전 공간",
-  "en": "One Piece, Weiss Schwarz and Shadowverse Evolve singles, oripa packs, 20 duel seats"
+  "ko": "원피스카드·바이스슈발츠·섀도우버스 에볼브 싱글과 오리파, 대전 공간",
+  "en": "One Piece, Weiss Schwarz and Shadowverse Evolve singles, oripa packs, in-store duel space"
  },
  "building_id": null,
  "floors": [
@@ -97,13 +98,13 @@
  },
  "tips": {
   "ko": [
-   "가게 안에 20석 규모의 대전 공간이 있어 산 카드를 바로 써볼 수 있다.",
+   "가게 안에 대전 공간이 있어 산 카드를 바로 써볼 수 있다. 점포 공인 대회도 열린다.",
    "간판 상품인 '그라판 오리파'는 300엔대부터 2만엔대까지 가격대가 넓다.",
    "공식 X가 캐시리스 결제 대응을 밝히고 있다. 매입도 받는다.",
    "토·일·공휴일은 10:00에 열어 평일보다 두 시간 빠르다."
   ],
   "en": [
-   "There is a 20-seat play space inside, so cards bought here can be tried on the spot.",
+   "There is a play space inside, so cards bought here can be tried on the spot; the shop runs sanctioned tournaments.",
    "The shop's signature 'Gurapan oripa' random packs run from around 300 yen to the 20,000-yen class.",
    "The official X says cashless payment is accepted; the shop also buys cards.",
    "Weekends and public holidays open at 10:00, two hours earlier than weekdays."
@@ -115,14 +116,16 @@
  },
  "chain": "gurapan",
  "priority": 2,
- "confidence": "high",
+ "confidence": "medium",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://gurapan.jp/help/about",
   "https://gurapan.jp/",
   "https://gurapan.jp/help/tradelaw",
   "https://x.com/Akibagrapan",
-  "https://akihabara-cardmap.com/ja/shop/grand-panda-canyon-akihabara/"
+  "https://akihabara-cardmap.com/ja/shop/grand-panda-canyon-akihabara/",
+  "https://map.pokemon-card.com/map/14207",
+  "https://grandpandacanyon.blog111.fc2.com/"
  ],
  "osm_id": "node/5051279059"
 }

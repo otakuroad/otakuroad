@@ -108,11 +108,12 @@
  },
  "chain": "kabe-no-mise",
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "http://www.radiocenter.jp/shop/sh59.htm",
-  "https://akibatoreka.com/introduce/1110"
+  "https://akibatoreka.com/introduce/1110",
+  "http://www.radiocenter.jp/"
  ],
  "osm_id": null
 }

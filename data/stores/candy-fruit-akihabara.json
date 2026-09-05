@@ -67,7 +67,7 @@
   "source_url": "https://candyfruit.com/akihabara/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -103,7 +103,8 @@
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://candyfruit.com/akihabara/",
-  "https://www.candyfruit.com/"
+  "https://www.candyfruit.com/",
+  "https://www.candyfruit.com/lounge/"
  ],
  "osm_id": "way/94727608"
 }

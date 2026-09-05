@@ -46,7 +46,7 @@
   "lng": 139.770644
  },
  "street_segment": "ura_dori",
- "address_ja": "東京都千代田区外神田3-8-1 3F・4F",
+ "address_ja": "東京都千代田区外神田3-8-1 YSビル3F・4F",
  "hours": {
   "rules": [
    {
@@ -88,13 +88,13 @@
  "tips": {
   "ko": [
    "공식 점포 페이지에 TAX FREE 매장으로 표시되어 있다.",
-   "하드오프와 한 건물을 쓰는 복합점이라 같은 3·4층에서 중고 오디오·게임기도 함께 볼 수 있다.",
+   "같은 YS빌딩을 쓰는 복합점이다. 지하 1층부터 2층까지가 하드오프 아키하바라 2호점(중고 오디오·게임기·PC·카메라)이고, 3·4층이 호비오프다.",
    "약 180m 앞의 하드오프 아키하바라 1호점(외신전3-11-2 록빌 B1F·2F·3F)은 악기·오디오·카메라 중심의 별개 매장이다.",
    "프라이즈 경품부터 프리미엄 상품까지 매입한다고 점장 코멘트에 안내되어 있다."
   ],
   "en": [
    "The official store page marks it as a TAX FREE shop.",
-   "It is a combined store sharing the building with Hard Off, so used audio and game hardware sit on the same 3F-4F.",
+   "It shares the YS Building with Hard Off Akihabara No.2: B1F to 2F is Hard Off (used audio, game hardware, PCs, cameras) and 3F-4F is Hobby Off.",
    "Hard Off Akihabara No.1, 180 m away at Sotokanda 3-11-2 Rock Building B1F/2F/3F, is a separate shop focused on instruments, audio and cameras.",
    "The manager's note says they buy everything from crane-game prize items up to premium collectibles."
   ]
@@ -107,7 +107,8 @@
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://www.hardoff.co.jp/shop/detail/?p=108032",
-  "https://www.hardoff.co.jp/shop/detail/?p=101062"
+  "https://www.hardoff.co.jp/shop/detail/?p=101062",
+  "https://www.hardoff.co.jp/shop/detail/?p=101104"
  ],
  "osm_id": "node/13139741091"
 }

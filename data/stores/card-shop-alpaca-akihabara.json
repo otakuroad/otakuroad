@@ -38,32 +38,7 @@
  },
  "street_segment": null,
  "address_ja": "東京都千代田区外神田2-3-7 アーバンファーストビル1F",
- "hours": {
-  "rules": [
-   {
-    "days": [
-     "mon",
-     "tue",
-     "thu",
-     "fri",
-     "sat",
-     "sun",
-     "hol"
-    ],
-    "open": "13:00",
-    "close": "20:00"
-   }
-  ],
-  "regular_holiday": {
-   "ko": "수요일 휴무",
-   "en": "Closed Wednesdays"
-  },
-  "note": {
-   "ko": "평일·토·일·공휴일 모두 13:00-20:00으로 같고, 매입 접수는 19:00에 마감된다.",
-   "en": "Same 13:00-20:00 on weekdays, weekends and holidays; the buyback counter closes at 19:00."
-  },
-  "source_url": "https://x.com/cardshop_alpaca"
- },
+ "hours": null,
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -94,7 +69,7 @@
  },
  "chain": "alpaca",
  "priority": 3,
- "confidence": "medium",
+ "confidence": "low",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://x.com/cardshop_alpaca",

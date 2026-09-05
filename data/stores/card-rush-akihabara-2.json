@@ -30,7 +30,6 @@
   "duel_masters",
   "vanguard",
   "battle_spirits",
-  "weiss_schwarz",
   "digimon_card",
   "shadowverse_evolve",
   "sealed_box",
@@ -77,10 +76,7 @@
     "close": "21:00"
    }
   ],
-  "regular_holiday": {
-   "ko": "부정기 휴무(不定休)",
-   "en": "Irregular closing days"
-  },
+  "regular_holiday": null,
   "note": {
    "ko": "공식 사이트는 이 시간이 카드러시 전 점포 공통이라고 안내한다. 평일은 13:00, 토·일·공휴일은 11:00 개점으로 시작 시간이 다르다.",
    "en": "The official site states these hours are the same at every Card Rush branch. Opening differs by day: 13:00 on weekdays, 11:00 on weekends and public holidays."
@@ -127,7 +123,9 @@
   "https://www.cardrush.jp/page/68",
   "https://www.cardrush.jp/page/57",
   "https://www.cardrush.jp/page/102",
-  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2224"
+  "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2224",
+  "https://cardrush.media/buying_prices_card_titles",
+  "https://syndication.twitter.com/srv/timeline-profile/screen-name/cardrush_akiba2"
  ],
  "osm_id": "node/10137262918"
 }

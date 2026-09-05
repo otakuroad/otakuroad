@@ -107,12 +107,13 @@
  "sns": {},
  "chain": "akibaoo",
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://www.akibaoo.co.jp/static/n/company/",
   "https://www.akibaoo.com/",
-  "https://www.akibaoo.co.jp/"
+  "https://www.akibaoo.co.jp/",
+  "https://www.akibaoo.com/static/n/company/"
  ],
  "osm_id": null
 }

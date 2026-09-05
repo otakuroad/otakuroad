@@ -85,13 +85,13 @@
   "ko": [
    "구판(旧裏面) 포켓몬카드와 '빛나는 포켓몬' 시리즈, 절판 박스 같은 컬렉션성 높은 물건 위주다. 수십만 엔대 카드가 쇼케이스에 들어가 있다.",
    "포켓몬카드 PSA10·싱글을 상한 없이 현장 현금으로 매입한다고 밝히고 있다.",
-   "에디온 AKIBA 지하 1층의 카드컬렉트 아키하바라(본점)와는 다른 점포다. 별관 쪽이 고액·빈티지 중심.",
+   "공식 사이트가 싣고 있는 같은 계열 점포는 라오크스 아키하바라 지하 1층 트레카몰의 CHIKA점(소토칸다 1-2-9 B1)이다. HANARE 쪽이 고액·빈티지 중심.",
    "포켓몬카드 전문점이라 다른 타이틀은 취급하지 않는다."
   ],
   "en": [
    "Focused on collectable one-offs: old-back Pokemon cards, the Shining Pokemon series and out-of-print boxes, with cards in the hundreds of thousands of yen in the cases.",
    "It advertises on-the-spot cash buyback of Pokemon PSA10 and singles with no upper limit.",
-   "This is not the Card Collect shop in the B1F of EDION AKIBA; the HANARE annex is the high-value and vintage side.",
+   "The sister shop listed on the official site is the CHIKA branch in the trading-card mall on B1 of Laox Akihabara (Sotokanda 1-2-9); HANARE is the high-value and vintage side.",
    "A Pokemon-card specialist - other card games are not stocked."
   ]
  },
@@ -101,13 +101,14 @@
  },
  "chain": "card-collect",
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://x.com/cardcollect_HNR",
   "https://x.com/cardcollect_",
   "https://cardcollect.jp/pages/map",
-  "https://akihabara-cardmap.com/ja/shop/card-collect-hanare/"
+  "https://akihabara-cardmap.com/ja/shop/card-collect-hanare/",
+  "https://syndication.twitter.com/srv/timeline-profile/screen-name/cardcollect_HNR"
  ],
  "osm_id": null
 }

@@ -48,39 +48,7 @@
  },
  "street_segment": "ura_dori",
  "address_ja": "東京都千代田区外神田1-8-5 毛利ビル1F",
- "hours": {
-  "rules": [
-   {
-    "days": [
-     "mon",
-     "tue",
-     "wed",
-     "thu",
-     "fri"
-    ],
-    "open": "12:00",
-    "close": "19:30"
-   },
-   {
-    "days": [
-     "sat",
-     "sun",
-     "hol"
-    ],
-    "open": "11:30",
-    "close": "19:00"
-   }
-  ],
-  "regular_holiday": {
-   "ko": "부정기 휴무. 연말연시 휴무",
-   "en": "Irregular closing days; closed over the New Year period"
-  },
-  "note": {
-   "ko": "매입(買取) 접수는 평일 18:00까지, 토·일·공휴일 18:30까지. 체인 공식 사이트가 닫혀 있어 영업시간은 아키하바라 트레카맵(秋葉原トレカマップ) 등록 정보 기준이며, 임시 변경은 X(@Kujimahha_hobby) 공지 확인",
-   "en": "Buyback is taken until 18:00 on weekdays and 18:30 on weekends and holidays. The chain's own site is offline, so these hours come from the Akihabara Toreka Map directory listing; check X (@Kujimahha_hobby) for temporary changes"
-  },
-  "source_url": "https://akibatoreka.com/introduce/1098"
- },
+ "hours": null,
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "both",
@@ -115,7 +83,7 @@
  },
  "chain": "mach",
  "priority": 3,
- "confidence": "medium",
+ "confidence": "low",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://akibatoreka.com/introduce/1098",

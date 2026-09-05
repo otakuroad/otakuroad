@@ -140,7 +140,9 @@
   ]
  },
  "official_url": "https://card-wings.com/store_information",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/torecano_tower"
+ },
  "chain": "card-wings",
  "priority": 2,
  "confidence": "high",

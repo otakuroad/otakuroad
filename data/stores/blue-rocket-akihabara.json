@@ -29,7 +29,7 @@
  ],
  "one_line": {
   "ko": "PSA 감정 포켓몬카드와 미개봉 박스를 파는 중2층 소형 전문점",
-  "en": "Small mezzanine shop selling PSA-graded Pokemon cards and sealed boxes; cash only"
+  "en": "Small mezzanine shop selling PSA-graded Pokemon cards and sealed boxes"
  },
  "building_id": null,
  "floors": [],
@@ -39,7 +39,7 @@
   "lng": 139.775238
  },
  "street_segment": "showa_dori",
- "address_ja": "〒101-0023 東京都千代田区神田松永町16 横川ビル M2F（中2階）",
+ "address_ja": "〒101-0023 東京都千代田区神田松永町16 横川ビル M2F",
  "hours": {
   "rules": [
    {

@@ -19,7 +19,7 @@
   "ウォーハンマーストア",
   "ゲームズワークショップ"
  ],
- "category": "trading_card",
+ "category": "figure_hobby",
  "tags": [
   "miniature",
   "wargame",
@@ -47,36 +47,7 @@
  },
  "street_segment": "ura_dori",
  "address_ja": "東京都千代田区外神田1-7-5 フロントプレイス秋葉原1F",
- "hours": {
-  "rules": [
-   {
-    "days": [
-     "mon",
-     "tue",
-     "wed",
-     "thu",
-     "fri"
-    ],
-    "open": "12:00",
-    "close": "20:00"
-   },
-   {
-    "days": [
-     "sat",
-     "sun",
-     "hol"
-    ],
-    "open": "10:00",
-    "close": "21:00"
-   }
-  ],
-  "regular_holiday": null,
-  "note": {
-   "ko": "평일과 주말·공휴일의 개점 시각이 다르다(평일 12:00, 토·일·공휴일 10:00). 시간은 공식 X(@WHSCafeTokyo)에 공지된다.",
-   "en": "Opening time differs on weekdays (12:00) and weekends/holidays (10:00). Changes are posted on the official X account (@WHSCafeTokyo)."
-  },
-  "source_url": "https://x.com/WHSCafeTokyo"
- },
+ "hours": null,
  "tax_free": null,
  "payment": "unknown",
  "secondhand": "new",
@@ -109,7 +80,7 @@
  },
  "chain": "games-workshop",
  "priority": 2,
- "confidence": "high",
+ "confidence": "medium",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://warhammer.jp/how-to-buy/",

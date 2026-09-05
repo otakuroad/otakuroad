@@ -20,23 +20,20 @@
  ],
  "category": "electronics",
  "tags": [
-  "trading_card",
   "video_game",
+  "game_software",
   "plamo",
   "gunpla",
   "figure",
   "tamashii_nations",
-  "card_sleeve",
-  "deck_case",
+  "character_goods",
+  "minicar",
   "new",
-  "pokemon_card",
-  "yugioh",
-  "duel_masters",
-  "battle_spirits"
+  "tax_free"
  ],
  "one_line": {
-  "ko": "7층 완구·호비 매장에서 트레카·프라모델·피규어·게임을 파는 대형 가전 양판점",
-  "en": "Big-box electronics store; the 7F toy floor has trading cards, plamo, figures and games"
+  "ko": "7층 완구·게임 매장에서 프라모델·피규어·타마시 네이션즈·게임을 파는 대형 가전 양판점",
+  "en": "Big-box electronics store; the 7F toy and game floor has plastic kits, figures, Tamashii Nations and games"
  },
  "building_id": null,
  "floors": [
@@ -51,8 +48,8 @@
  "floor_guide": [
   {
    "floor": "7F",
-   "ko": "완구·호비·게임 매장. 포켓몬 카드, 유희왕 OCG·러시듀얼, 듀얼마스터즈, 배틀 스피리츠 신품 부스터와 슬리브·카드로더·덱케이스·스토리지, 타마시 네이션즈 피규어와 프라모델, 비디오게임 소프트",
-   "en": "Toy, hobby and game floor: new boosters for Pokemon Card Game, Yu-Gi-Oh! OCG and Rush Duel, Duel Masters and Battle Spirits, plus sleeves, card loaders, deck cases and storage; Tamashii Nations figures, plastic kits and video games"
+   "ko": "완구·게임 매장. 완구, 캐릭터 완구, 레고, 퍼즐, 식완, 미니카, 프라모델, 피규어, 타마시 네이션즈, 게임·게임 소프트, VR. 기프트 래핑 서비스도 이 층에서 받는다.",
+   "en": "Toy and game floor: toys, character toys, LEGO, puzzles, candy toys, minicars, plastic kits, figures, Tamashii Nations, games and game software, VR; gift wrapping is offered on this floor."
   }
  ],
  "location": {
@@ -61,8 +58,31 @@
  },
  "street_segment": "chuo_dori",
  "address_ja": "東京都千代田区外神田4-1-1",
- "hours": null,
- "tax_free": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "22:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 점포 페이지에 연중무휴 10:00~22:00로 적혀 있다. 점포 대표 전화 접수도 10:00~22:00.",
+   "en": "The official store page states 年中無休 (no closing days), 10:00-22:00; the store phone line is answered on the same hours."
+  },
+  "source_url": "https://www.biccamera.co.jp/shoplist/shop-121.html"
+ },
+ "tax_free": true,
  "payment": "unknown",
  "secondhand": "new",
  "adult_content": {
@@ -73,29 +93,34 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "주오도리에 면한 대형 가전 양판점 건물로, 볼크스 아키하바라 호비천국2 바로 남쪽이다. 2017년 6월 소프맵 아키하바라 점포를 개장해 문을 열었다. 완구·호비·트레카는 7층 한 층뿐이니 1~6층 가전 매장을 지나쳐 곧장 7층으로 올라가면 된다.",
-  "en": "The big electronics block on Chuo-dori immediately south of Volks Akihabara Hobby Tengoku 2, opened in June 2017 in the converted Sofmap Akihabara store. Toys, hobby goods and cards are on 7F only, so ride straight past the appliance floors."
+  "ko": "주오도리에 면한 대형 가전 양판점 건물로, 볼크스 아키하바라 호비천국2 바로 남쪽이다. 2017년 6월 소프맵 아키하바라 점포를 개장해 문을 열었다. 완구·호비·게임은 7층 한 층뿐이니 1~6층 가전 매장을 지나쳐 곧장 7층으로 올라가면 된다.",
+  "en": "The big electronics block on Chuo-dori immediately south of Volks Akihabara Hobby Tengoku 2, opened in June 2017 in the converted Sofmap Akihabara store. Toys, hobby goods and games are on 7F only, so ride straight past the appliance floors."
  },
  "tips": {
   "ko": [
-   "1~6층은 가전·PC·스마트폰·미용가전 매장이고, 트레카·프라모델·피규어는 7층에만 있다.",
-   "영업시간이 자료마다 21:00 폐점과 22:00 폐점으로 엇갈린다. 공식 페이지를 확인하지 못했으니 늦은 시간 방문은 피하는 편이 안전하다."
+   "1층 PC 본체·애플숍, 2층 게이밍 PC·PC 주변기기, 3층 휴대폰·오디오, 4층 미용가전·의약품·주류, 5층 카메라·시계, 6층 생활가전·TV이고, 완구·프라모델·피규어·게임은 7층에만 있다.",
+   "연중무휴 10:00~22:00 영업이라 저녁 늦게 들러도 된다.",
+   "공식 층 안내의 7층 취급 상품에 트레이딩 카드는 들어 있지 않다. 트레카가 목적이면 다른 매장을 찾는 편이 낫다.",
+   "면세 대응 점포다. 1만 엔 이상 구매하면 제휴 주차장 2시간 무료이며, 주차권과 영수증을 1층 종합안내에 가져가면 된다."
   ],
   "en": [
-   "Floors 1F-6F are appliances, PCs, phones and beauty gear; cards, plastic kits and figures are on 7F only.",
-   "Sources disagree on closing time (21:00 vs 22:00) and the official page could not be checked, so do not count on a late visit."
+   "1F is PCs and the Apple shop, 2F gaming PCs and peripherals, 3F phones and audio, 4F beauty appliances, medicines and alcohol, 5F cameras and watches, 6F home appliances and TVs; toys, plastic kits, figures and games are on 7F only.",
+   "Open every day 10:00-22:00, so a late-evening visit works.",
+   "Trading cards are not in the official 7F product list, so look elsewhere if cards are the point of the trip.",
+   "A tax-free store. Spend 10,000 yen or more and partner parking is free for two hours: take the parking ticket and receipt to the 1F information counter."
   ]
  },
  "official_url": "https://www.biccamera.co.jp/shoplist/shop-121.html",
  "sns": {},
  "chain": "biccamera",
  "priority": 2,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://akibatoreka.com/introduce/2132",
   "https://akibatoreka.com/",
-  "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%AF%E3%82%AB%E3%83%A1%E3%83%A9"
+  "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%AF%E3%82%AB%E3%83%A1%E3%83%A9",
+  "https://www.biccamera.co.jp/shoplist/shop-121.html"
  ],
  "osm_id": "node/5875272064",
  "photo": {

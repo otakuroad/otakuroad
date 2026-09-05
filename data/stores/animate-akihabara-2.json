@@ -104,8 +104,10 @@
  "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
-  "level": "none",
-  "floors": []
+  "level": "floor",
+  "floors": [
+   "4F"
+  ]
  },
  "status": {
   "state": "open"
@@ -139,7 +141,8 @@
  "source_urls": [
   "https://www.animate.co.jp/shop/akihabara/",
   "https://www.animate.co.jp/shop/akihabara/floor/",
-  "https://www.animate.co.jp/shop/akihabara/access/"
+  "https://www.animate.co.jp/shop/akihabara/access/",
+  "https://prtimes.jp/main/html/rd/p/000008769.000016756.html"
  ],
  "osm_id": "node/13390443972"
 }

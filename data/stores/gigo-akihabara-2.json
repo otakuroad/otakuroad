@@ -69,7 +69,10 @@
    "ko": "연중무휴",
    "en": "Open year-round"
   },
-  "note": null,
+  "note": {
+   "ko": "2층 GiGO 콜라보 카페 스탠드는 10:00-20:00(라스트오더 19:45)으로 오락실과 영업시간이 다르다.",
+   "en": "The GiGO collab cafe stand on 2F runs 10:00-20:00 with last order at 19:45, unlike the arcade floors."
+  },
   "source_url": "https://www.gigo.co.jp/shops/akihabara2"
  },
  "tax_free": null,
@@ -109,7 +112,8 @@
  "source_urls": [
   "https://www.gigo.co.jp/shops/akihabara2",
   "https://www.gigo.co.jp/shops/cafestand-akihabara3",
-  "https://prize-lab.com/game-center/akiba/"
+  "https://prize-lab.com/game-center/akiba/",
+  "https://www.gigo.co.jp/shops/cafestand-akihabara2"
  ],
  "osm_id": "node/11017003645",
  "photo": {

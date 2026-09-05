@@ -49,33 +49,33 @@
  "floor_guide": [
   {
    "floor": "B1F",
-   "ko": "이차원 작품 전반, 건담 등 액션 피규어",
-   "en": "General 2D-series goods and action figures such as Gundam"
+   "ko": "판매 층 · 이차원 작품 전반, 건담 등 액션 피규어",
+   "en": "Sales floor: general 2D-series goods and action figures such as Gundam"
   },
   {
    "floor": "1F",
-   "ko": "유행 작품 코너",
-   "en": "Currently trending titles"
+   "ko": "판매 층 · 유행 작품 코너",
+   "en": "Sales floor: currently trending titles"
   },
   {
    "floor": "2F",
-   "ko": "피규어, 인형, 잡화",
-   "en": "Figures, plush toys and miscellany"
+   "ko": "매입 층 · 피규어, 인형, 잡화. 판매 매장이 아니라 매입 창구다",
+   "en": "Buyback floor: figures, plush toys and miscellany - this is the buying counter, not a sales floor"
   },
   {
    "floor": "3F",
-   "ko": "원피스·드래곤볼·나루토·귀멸의 칼날 등 소년만화 작품",
-   "en": "One Piece, Dragon Ball, Naruto, Demon Slayer and other shonen titles"
+   "ko": "점프 작품 층 · 원피스·드래곤볼·나루토·귀멸의 칼날 등",
+   "en": "Jump titles floor: One Piece, Dragon Ball, Naruto, Demon Slayer and more"
   },
   {
    "floor": "4F",
-   "ko": "도검난무·트위스티드 원더랜드·블루록·스파이 패밀리 등",
-   "en": "Touken Ranbu, Twisted Wonderland, Blue Lock, Spy x Family and similar titles"
+   "ko": "여성향·팬시 층 · 도검난무·트위스티드 원더랜드·블루록·스파이 패밀리 등",
+   "en": "Women's and fancy floor: Touken Ranbu, Twisted Wonderland, Blue Lock, Spy x Family and more"
   },
   {
    "floor": "5F",
-   "ko": "버추얼(VTuber·보컬로이드) 작품 층. 공식 페이지에는 개장 공사와 11월 하순 오픈 예정 문구가 남아 있다",
-   "en": "Virtual (VTuber and Vocaloid) floor; the official page still carries a renovation notice and a late-November reopening line"
+   "ko": "버추얼 작품 층 · 홀로라이브·니지산지·하츠네 미쿠 등. 공식 페이지에는 개장 공사와 11월 하순 오픈 예정 문구가 남아 있다",
+   "en": "Virtual titles floor: Hololive, Nijisanji, Hatsune Miku and more; the official page still carries a renovation notice and a late-November reopening line"
   }
  ],
  "location": {
@@ -124,13 +124,13 @@
  },
  "tips": {
   "ko": [
-   "층마다 작품 장르가 갈려 있어 찾는 작품에 맞춰 층을 고르면 빠르다. 3층 소년만화, 4층 여성향 작품, 5층 버추얼.",
-   "매입은 11:00-19:00 접수이며 월요일은 매입만 쉰다.",
+   "층마다 작품 장르가 갈려 있어 찾는 작품에 맞춰 층을 고르면 빠르다. B1층·1층이 판매 층이고 3층 점프 작품, 4층 여성향·팬시, 5층 버추얼이다.",
+   "2층은 판매 매장이 아니라 매입 층이다. 매입은 11:00-19:00 접수 마감, 19:30 완전 종료이며 월요일은 매입만 쉰다.",
    "5층 버추얼 층은 개장 공사를 거쳤고 공식 페이지 안내문이 갱신되지 않은 상태라, 방문 전 X 계정(@mulanakiba_chuo)을 확인하면 확실하다."
   ],
   "en": [
-   "Each floor covers a different set of series, so head straight to the right one: 3F shonen titles, 4F josei titles, 5F virtual.",
-   "Buyback runs 11:00-19:00 and is the only thing closed on Mondays.",
+   "Each floor covers a different set of series, so head straight to the right one: B1F and 1F are the sales floors, 3F Jump titles, 4F women's and fancy titles, 5F virtual.",
+   "2F is the buyback floor, not a sales floor. Buyback reception closes at 19:00 and finishes completely at 19:30, and Monday is the only thing that closes.",
    "The 5F virtual floor went through a refurbishment and the official page notice has not been updated, so check the shop's X account (@mulanakiba_chuo) before going."
   ]
  },

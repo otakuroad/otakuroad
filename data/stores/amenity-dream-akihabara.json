@@ -93,14 +93,8 @@
     "close": "20:00"
    }
   ],
-  "regular_holiday": {
-   "ko": "연중무휴",
-   "en": "Open year-round"
-  },
-  "note": {
-   "ko": "매입 접수는 평일 20:00, 토·일·공휴일 19:00까지로 영업시간보다 짧다",
-   "en": "Buyback intake closes earlier than the shop: 20:00 on weekdays, 19:00 on weekends and public holidays"
-  },
+  "regular_holiday": null,
+  "note": null,
   "source_url": "https://amenitydream.co.jp/shop/tokyo-akihabara/"
  },
  "tax_free": null,
@@ -141,7 +135,9 @@
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://amenitydream.co.jp/shop/tokyo-akihabara/",
-  "https://akibatoreka.com/introduce/1106"
+  "https://akibatoreka.com/introduce/1106",
+  "https://amenitydream.co.jp/shop",
+  "https://amenitydream.co.jp/matches/?shop=7"
  ],
  "osm_id": "node/11181831637"
 }
