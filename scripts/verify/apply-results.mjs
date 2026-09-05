@@ -1,5 +1,5 @@
-// Apply agent verification results to data/stores.
-// usage: node apply-results.mjs <results-dir> [--approve id:path,id:path] [--skip id:path,...] [--dry]
+// Apply agent verification results to data/stores (default) or data/buildings (--kind buildings).
+// usage: node apply-results.mjs <results-dir> [--kind stores|buildings] [--approve id:path,id:path] [--skip id:path,...] [--dry]
 // Uses <results-dir>/../evidence-report.json: a change is applied only when its evidence was verified,
 // or when it is listed in --approve. Closures remove the record and append to data/excluded.json.
 import { existsSync, readdirSync, readFileSync, writeFileSync, unlinkSync } from 'node:fs'
@@ -16,8 +16,11 @@ const flag = (name) => {
 const approve = flag('--approve')
 const skip = flag('--skip')
 const dry = rest.includes('--dry')
+const kind = rest.includes('--kind') ? rest[rest.indexOf('--kind') + 1] : 'stores'
+const RECORD_DIR = kind === 'buildings' ? 'data/buildings' : 'data/stores'
 
 const FORBIDDEN = new Set(['id', 'verified_at', 'source_urls', 'photo', 'photos', 'osm_id', 'location'])
+const ALLOWED_BUILDING = new Set(['floors', 'uncurated_floors', 'hours_note', 'exit_hint', 'address_ja', 'name', 'official_url', 'floor_guide_url'])
 const report = new Map(JSON.parse(readFileSync(join(resultsDir, '..', 'evidence-report.json'), 'utf8')).map((r) => [r.id, r]))
 
 function setPath(obj, path, value) {
@@ -38,7 +41,7 @@ let excludedAdded = 0
 for (const f of readdirSync(resultsDir).filter((x) => x.endsWith('.json')).sort()) {
   const r = JSON.parse(readFileSync(join(resultsDir, f), 'utf8'))
   const id = r.id ?? f.replace(/\.json$/, '')
-  const file = join(ROOT, 'data/stores', `${id}.json`)
+  const file = join(ROOT, RECORD_DIR, `${id}.json`)
   if (!existsSync(file)) {
     summary.skipped.push(`${id}: no such record`)
     continue
@@ -50,7 +53,7 @@ for (const f of readdirSync(resultsDir).filter((x) => x.endsWith('.json')).sort(
   const pending = []
 
   // closure
-  if (r.closure && (r.verdict === 'closed' || r.verdict === 'moved')) {
+  if (kind === 'stores' && r.closure && (r.verdict === 'closed' || r.verdict === 'moved')) {
     const key = `${id}:closure`
     if (skip.has(key)) summary.skipped.push(key)
     else if (evidenceOk('closure', 0) || approve.has(key)) {
@@ -76,7 +79,7 @@ for (const f of readdirSync(resultsDir).filter((x) => x.endsWith('.json')).sort(
   ;(r.changes ?? []).forEach((c, i) => {
     const key = `${id}:${c.path}`
     const root = c.path.split('.')[0]
-    if (FORBIDDEN.has(root)) {
+    if (FORBIDDEN.has(root) || (kind === 'buildings' && !ALLOWED_BUILDING.has(root))) {
       summary.skipped.push(`${key} (forbidden field)`)
       return
     }
@@ -94,10 +97,10 @@ for (const f of readdirSync(resultsDir).filter((x) => x.endsWith('.json')).sort(
   const newSources = (r.add_source_urls ?? []).filter((u) => typeof u === 'string' && /^https?:\/\//.test(u) && !store.source_urls.includes(u))
   if (r.verdict !== 'unverifiable' || applied.length > 0) {
     store.source_urls = [...store.source_urls, ...newSources]
-    if (store.hours && !store.source_urls.includes(store.hours.source_url)) store.source_urls.push(store.hours.source_url)
-    if (['high', 'medium', 'low'].includes(r.confidence)) store.confidence = r.confidence
+    if (kind === 'stores' && store.hours && !store.source_urls.includes(store.hours.source_url)) store.source_urls.push(store.hours.source_url)
+    if (kind === 'stores' && ['high', 'medium', 'low'].includes(r.confidence)) store.confidence = r.confidence
     store.verified_at = TODAY
-  } else if (r.confidence === 'low') {
+  } else if (kind === 'stores' && r.confidence === 'low') {
     store.confidence = 'low'
   }
   if (!dry) writeFileSync(file, JSON.stringify(store, null, 1) + '\n')
