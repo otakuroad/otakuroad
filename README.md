@@ -39,6 +39,7 @@ npm run dev        # http://localhost:4321/ko/  (English: /en/)
 
 ```bash
 npm run validate   # 데이터 검사 / validate the dataset
+npm run audit      # 의심 패턴 감사 (게이트 아님) / heuristic audit of the dataset, never a gate
 npm run check      # 타입 검사 / type-check
 npm test           # 단위 테스트 / unit tests
 npm run build      # 정적 빌드 → dist/ (899 pages)

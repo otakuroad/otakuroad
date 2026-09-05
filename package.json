@@ -16,6 +16,7 @@
     "precheck": "npm run build:data",
     "check": "astro check",
     "validate": "tsx scripts/validate.ts",
+    "audit": "tsx scripts/audit.ts",
     "build:data": "tsx scripts/build-data.ts",
     "test": "vitest run"
   },
