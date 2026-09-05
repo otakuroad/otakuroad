@@ -114,14 +114,16 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akibacc.com/",
   "https://akibacc.com/price-system/",
   "https://akibacc.com/games/",
   "https://shop.caferun.jp/shop/7203/",
   "https://concafego.com/shop/f91dfeac40e94cbffab02c59/",
-  "https://cafecon.jp/a02/a0201/a020101/a02010101/"
+  "https://cafecon.jp/a02/a0201/a020101/a02010101/",
+  "https://api.fxtwitter.com/AkibaGuild",
+  "https://amenitydream.co.jp/shop/tokyo-akihabara/"
  ],
  "osm_id": "node/2263796306"
 }

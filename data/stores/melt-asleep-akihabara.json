@@ -97,17 +97,19 @@
  },
  "official_url": "https://melt-asleep.jp/",
  "sns": {
+  "x": "https://x.com/Meltasleep",
   "instagram": "https://www.instagram.com/meltasleep/"
  },
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://melt-asleep.jp/",
   "https://melt-asleep.jp/news/",
   "https://melt-asleep.jp/system/",
-  "https://www.openstreetmap.org/way/89182758"
+  "https://www.openstreetmap.org/way/89182758",
+  "https://api.fxtwitter.com/Meltasleep"
  ],
  "osm_id": null
 }

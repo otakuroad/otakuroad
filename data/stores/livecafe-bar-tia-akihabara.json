@@ -66,7 +66,7 @@
      "sun",
      "hol"
     ],
-    "open": "13:00",
+    "open": "16:00",
     "close": "23:00"
    }
   ],
@@ -75,10 +75,10 @@
    "en": "Closed Mondays"
   },
   "note": {
-   "ko": "공식 사이트는 '평일 18:00~23:00(L.O 22:30) / 토·일·공휴일 13:00~23:00(L.O 22:30)'만 적고 정기휴무를 표기하지 않지만, 공식 X 프로필에 '바 영업 【정기휴무: 월요일】'이라고 되어 있어 월요일을 뺐다. 라이브·대관이 잡힌 날은 개장 시간이 달라진다.",
-   "en": "The official site gives only weekdays 18:00-23:00 and weekends/holidays 13:00-23:00 (last order 22:30) with no closing day, but the official X profile states \"bar hours, regular holiday: Monday\", so Monday is excluded here. Doors open at different times on days booked for a live."
+   "ko": "가게가 X 프로필에서 안내하는 공식 lit.link 점포 정보 기준으로 월요일은 店休日, 화~금 18:00~23:00, 토·일 16:00~23:00이다. 라스트오더는 22:30(공식 사이트). '土日祝はライブの時間によって、オープン時間が変わります'라고 적혀 있어 라이브가 잡힌 주말·공휴일은 개장 시간이 달라진다. 공식 사이트 theia-live.com에는 아직 '토·일·공휴일 13:00~23:00'이 남아 있고 정기휴무 표기도 없어 두 페이지가 엇갈린다.",
+   "en": "The shop's own lit.link store info - the link its X profile points to - gives Monday closed, Tue-Fri 18:00-23:00 and Sat/Sun 16:00-23:00; last order is 22:30 per the official site. It adds that on weekends and holidays the opening time shifts with the live schedule. The official site theia-live.com still shows 13:00-23:00 for weekends and lists no closing day, so the two pages disagree."
   },
-  "source_url": "https://www.theia-live.com/"
+  "source_url": "https://lit.link/LCBTheia"
  },
  "tax_free": null,
  "payment": "cards_ok",
@@ -96,16 +96,16 @@
  },
  "tips": {
   "ko": [
-   "요금은 시간제 무제한 음료로 60분 2,500엔부터(프리미엄 60분 3,000엔부터). 캐스트 드링크 1,000엔, 체키 1,000엔, 리퀘스트 스테이지 1,000엔이 별도다.",
-   "라이브 이용은 '박스대 0엔, 손님 1인 3,300엔(2시간 무제한 음료 포함)' 조건이라 지하 아이돌·아니송 계열 대관 라이브가 자주 열린다. 라이브 일정은 공식 X(@live_theia)에서 확인.",
+   "요금은 시간제 무제한 음료로 60분 3,000엔부터(프리미엄 60분 3,500엔부터). 캐스트 드링크 1,200엔, 캐스트 체키 1,200엔, 리퀘스트 스테이지 1,200엔, 오리지널 칵테일 1,800엔이 별도다.",
+   "라이브 이용은 '박스대 0엔, 손님 1인 3,300엔(2시간 무제한 음료 포함)' 조건이라 지하 아이돌·아니송 계열 대관 라이브가 자주 열린다. 수용 인원은 30명 정도가 한계이고, 라이브 일정은 공식 X(@live_theia)에서 확인.",
    "신용카드와 PayPay로 결제하면 세금이 10%가 아니라 15%로 붙는다고 공식 시스템 페이지에 적혀 있다.",
-   "월요일은 정기휴무. 평일은 18시, 토·일·공휴일은 13시 개점이다."
+   "월요일은 정기휴무. 화~금은 18시, 토·일·공휴일은 16시 개점이다. 다만 공식 사이트에는 아직 토·일·공휴일 13시로 남아 있으니 방문 전 X 공지를 확인하는 편이 낫다."
   ],
   "en": [
-   "Pricing is time-based all-you-can-drink from 2,500 yen for 60 minutes (premium from 3,000). A cast drink, a cheki and a request stage are 1,000 yen each on top.",
-   "Live use is advertised at zero venue fee with 3,300 yen per guest including two hours of all-you-can-drink, so underground idol and anisong acts book it often; the schedule is on X (@live_theia).",
+   "Pricing is time-based all-you-can-drink from 3,000 yen for 60 minutes (premium from 3,500). A cast drink, a cast cheki and a request stage are 1,200 yen each and an original cocktail is 1,800.",
+   "Live use is advertised at zero venue fee with 3,300 yen per guest including two hours of all-you-can-drink, so underground idol and anisong acts book it often; capacity tops out around 30 and the schedule is on X (@live_theia).",
    "The official system page states that tax is charged at 15% instead of 10% when paying by credit card or PayPay.",
-   "Closed Mondays; doors at 18:00 on weekdays and 13:00 at weekends and on public holidays."
+   "Closed Mondays; doors at 18:00 Tuesday to Friday and 16:00 at weekends and on public holidays. The official site still shows 13:00 for weekends, so check the X feed before going."
   ]
  },
  "official_url": "https://www.theia-live.com/",
@@ -114,12 +114,15 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "high",
- "verified_at": "2026-09-05",
+ "confidence": "medium",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.theia-live.com/",
   "https://www.theia-live.com/system",
-  "https://x.com/live_theia"
+  "https://x.com/live_theia",
+  "https://lit.link/LCBTheia",
+  "https://api.fxtwitter.com/live_theia",
+  "https://www.theia-live.com/rental"
  ],
  "osm_id": "node/11789247424"
 }

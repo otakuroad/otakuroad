@@ -117,12 +117,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://lilian-plian.com/",
   "https://lilian-plian.com/js/data.js?v=20260904ad",
   "https://lilian-plian.com/shop/",
-  "https://lit.link/lilianplian"
+  "https://lit.link/lilianplian",
+  "https://api.fxtwitter.com/lp_akiba"
  ],
  "osm_id": "node/9566449973"
 }

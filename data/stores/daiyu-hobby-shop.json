@@ -104,10 +104,11 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://daiyu-hobby.com/pages/about",
-  "https://daiyu-hobby.com/"
+  "https://daiyu-hobby.com/",
+  "https://daiyu-hobby.com/blogs/news"
  ],
  "osm_id": "node/4970231996"
 }

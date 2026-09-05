@@ -112,12 +112,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://azumayamtg.com/help/about",
   "https://azumayamtg.com/",
   "https://x.com/azumayamtg",
-  "https://akihabara-cardmap.com/ja/shop/azumaya/"
+  "https://akihabara-cardmap.com/ja/shop/azumaya/",
+  "https://azumayamtg.com/help/tradelaw"
  ],
  "osm_id": "node/6331228139"
 }

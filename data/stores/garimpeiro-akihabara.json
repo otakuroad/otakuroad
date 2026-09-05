@@ -98,10 +98,12 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://garimpeiro.buyshop.jp/law",
-  "https://garimpeiro.buyshop.jp/"
+  "https://garimpeiro.buyshop.jp/",
+  "https://garimpeiro.buyshop.jp/about",
+  "https://ameblo.jp/garimpeiro-toys/"
  ],
  "osm_id": "node/6373354339"
 }

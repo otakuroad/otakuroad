@@ -17,20 +17,21 @@
  "category": "trading_card",
  "tags": [
   "singles",
-  "digimon_card",
-  "battle_spirits",
-  "shadowverse_evolve",
-  "vanguard",
-  "yugioh",
   "gundam_card_game",
+  "one_piece_card",
+  "digimon_card",
+  "dragon_ball_card",
+  "union_arena",
   "gundam_war",
   "retro_tcg",
   "duel_space",
-  "buyback"
+  "buyback",
+  "new",
+  "used"
  ],
  "one_line": {
-  "ko": "디지몬·배틀스피리츠 싱글과 건담워 등 서비스 종료 TCG를 파는 카드 전문점",
-  "en": "Singles for Digimon, Battle Spirits and Vanguard, plus discontinued retro TCGs"
+  "ko": "건담카드게임·원피스·디지몬 등 반다이 TCG 싱글과 건담워 같은 서비스 종료 카드까지 다루는 전문점",
+  "en": "Bandai TCG specialist - Gundam Card Game, One Piece and Digimon singles, plus discontinued sets such as Gundam War"
  },
  "building_id": null,
  "floors": [
@@ -43,7 +44,38 @@
  },
  "street_segment": null,
  "address_ja": "東京都千代田区外神田1-6-1 外神田ビル3F",
- "hours": null,
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "12:00",
+    "close": "18:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "화요일 휴무",
+   "en": "Closed Tuesdays"
+  },
+  "note": {
+   "ko": "공식 통판 사이트에는 영업시간 안내가 없고, 공식 X(@cardland_akiba) 프로필과 매달 새로 올리는 영업 안내 트윗이 유일한 1차 정보다. 신탄 준비나 임시 단축 영업으로 며칠씩 쉬는 주가 있으니 방문 전 X를 확인하는 편이 좋다.",
+   "en": "The mail-order site publishes no hours; the shop's X profile (@cardland_akiba) and the hours post it re-issues each month are the only primary statements. It also closes early or for several days at a time when a new set is being prepared, so check X before going."
+  },
+  "source_url": "https://x.com/cardland_akiba/status/2094376133383069778"
+ },
  "tax_free": null,
  "payment": "cash_only",
  "secondhand": "both",
@@ -62,14 +94,14 @@
   "ko": [
    "매장 결제는 현금과 PayPay만 받는다. 신용카드·계좌이체는 공식 온라인 주문 전용이다.",
    "듀얼 스페이스 18석이 있고 300엔 이상 구매하면 이용할 수 있다.",
-   "서비스가 끝난 건담워·구 디지몬카드·크루세이드 같은 레트로 TCG를 다루는 드문 가게다.",
-   "공식 사이트에 영업시간 안내가 없다. 일본 카드숍 디렉터리는 화요일 정기휴무에 평일·토 12:00-20:00, 일요일 12:00-18:00으로 안내하므로 방문 전 X(@cardland_akiba)를 확인하는 편이 좋다."
+   "서비스가 끝난 건담워·구 디지몬카드 같은 레트로 TCG를 다루는 드문 가게다.",
+   "화요일이 정기휴무이고 일요일·공휴일은 18시에 닫는다. 신탄 발매 준비로 며칠 연속 쉬는 주가 있어 공식 X(@cardland_akiba)의 월별 영업 안내 트윗을 확인하는 편이 좋다."
   ],
   "en": [
    "At the counter only cash and PayPay are accepted; credit cards and bank transfer apply to the official online shop.",
    "There is an 18-seat duel space, free to use with a purchase of 300 yen or more.",
-   "It is one of the few shops still handling retired TCGs such as Gundam War, the old Digimon card game and Crusade.",
-   "No official opening hours are published; Japanese card-shop directories list Tue closed, 12:00-20:00 weekdays and Saturday, 12:00-18:00 Sunday, so check X (@cardland_akiba) first."
+   "It is one of the few shops still handling retired TCGs such as Gundam War and the old Digimon card game.",
+   "Closed Tuesdays, and Sundays and public holidays end at 18:00. It sometimes shuts for several days to prepare a new set, so read the monthly hours post on the shop's X (@cardland_akiba)."
   ]
  },
  "official_url": "https://www.cardland-kamata.com/",
@@ -79,13 +111,16 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.cardland-kamata.com/info",
   "https://www.cardland-kamata.com/",
   "https://tcg.build-divide.com/official/store_search/57",
   "https://digimoncard.com/products/shop/shoplist.php?pref=8&municipal=%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA",
-  "https://akibatoreka.com/introduce/1086"
+  "https://akibatoreka.com/introduce/1086",
+  "https://www.cardland-kamata.com/page/2",
+  "https://x.com/cardland_akiba",
+  "https://x.com/cardland_akiba/status/2094376133383069778"
  ],
  "osm_id": "way/91529477"
 }

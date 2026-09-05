@@ -88,8 +88,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "스에히로초 북쪽, 쿠라마에바시도리에 면한 하세가와 빌딩(長谷川ビル) 2층. 건물 1층의 밀리터리 숍 사이드암즈(サイドアームズ)가 표식이며, 입구는 큰길 정면이 아니라 건물 옆쪽에 있다. 도쿄메트로 긴자선 스에히로초역에서 도보 2분, 지요다선 유시마역에서 도보 5분, JR 아키하바라역에서 도보 8분.",
-  "en": "On 2F of the Hasegawa Building facing Kuramaebashi-dori north of Suehirocho. The military shop Side Arms on the ground floor is the landmark, and the entrance is on the side of the building, not on the main street. Two minutes from Suehirocho (Ginza line), five from Yushima (Chiyoda line), eight from JR Akihabara."
+  "ko": "스에히로초 북쪽, 쿠라마에바시도리에 면한 하세가와 빌딩(長谷川ビル) 2층. 같은 건물 4층에 든 밀리터리 숍 사이드암즈(サイドアームズ)의 간판이 표식이며, 입구는 큰길 정면이 아니라 건물 옆쪽에 있다. 도쿄메트로 긴자선 스에히로초역에서 도보 2분, 지요다선 유시마역에서 도보 5분, JR 아키하바라역에서 도보 8분.",
+  "en": "On 2F of the Hasegawa Building facing Kuramaebashi-dori north of Suehirocho. The sign for the military shop Side Arms, which is on 4F of the same building, is the landmark, and the entrance is on the side of the building, not on the main street. Two minutes from Suehirocho (Ginza line), five from Yushima (Chiyoda line), eight from JR Akihabara."
  },
  "tips": {
   "ko": [
@@ -112,7 +112,7 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://arrows-llc.com/?page_id=37",
   "https://arrows-llc.com/"

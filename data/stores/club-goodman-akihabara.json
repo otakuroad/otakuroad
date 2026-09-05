@@ -41,7 +41,7 @@
   "lng": 139.776515
  },
  "street_segment": "showa_dori",
- "address_ja": "〒101-0026 東京都千代田区神田佐久間河岸55 ASビル（朝風染常ビル）B1F",
+ "address_ja": "〒101-0026 東京都千代田区神田佐久間河岸55 ASビル B1F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",
@@ -80,13 +80,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://club.goodman2020.com/",
   "https://club.goodman2020.com/contents/INFO",
   "https://club.goodman2020.com/contents/menu",
   "https://club.goodman2020.com/space_infos",
-  "https://club.goodman2020.com/events?date=2026%2F09"
+  "https://club.goodman2020.com/events?date=2026%2F09",
+  "https://studio.goodman2020.com/access"
  ],
  "osm_id": "node/13087231931"
 }

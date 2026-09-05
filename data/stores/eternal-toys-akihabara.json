@@ -105,17 +105,20 @@
   ]
  },
  "official_url": "https://eternal-toys.com/store/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/etatoy0117"
+ },
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://eternal-toys.com/store/",
   "https://eternal-toys.com/about/",
   "https://eternal-toys.com/",
   "https://eternaltoys.shop-pro.jp/",
-  "https://eternaltoys.shop-pro.jp/?mode=sk"
+  "https://eternaltoys.shop-pro.jp/?mode=sk",
+  "https://x.com/etatoy0117/status/2017082279705596218"
  ],
  "osm_id": null
 }

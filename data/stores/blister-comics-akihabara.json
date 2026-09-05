@@ -72,10 +72,10 @@
    "ko": "평일은 13:00 개점으로 토·일·공휴일(11:00)보다 두 시간 늦다",
    "en": "Weekdays open at 13:00, two hours later than weekends and public holidays (11:00)"
   },
-  "source_url": "https://blistercomics.jp/"
+  "source_url": "http://blistercomics.jp/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": "new",
  "adult_content": {
   "level": "none",
@@ -92,22 +92,28 @@
   "ko": [
    "매주 신간(店舗発売) 입하 리스트를 공식 사이트 첫 화면에 올리고 PREVIEWS 원서 예약도 받는다",
    "원서 리프뿐 아니라 일본어 번역판과 코믹 보관용 박스·슬리브도 함께 판다",
-   "면세·카드 결제 안내가 공식 사이트에 없으므로 현금을 준비하는 편이 안전하다"
+   "매장 결제는 현금·신용카드·PayPay·au PAY·Airペイ를 받는다. 면세는 공식 사이트에 안내가 없다"
   ],
   "en": [
    "The weekly in-store release list is posted on the front page of the official site, and PREVIEWS pre-orders are taken",
    "Besides English floppies it stocks Japanese translated editions and comic boxes, bags and boards",
-   "Neither tax-free nor card acceptance is stated on the official site, so bring cash to be safe"
+   "At the counter cash, credit cards, PayPay, au PAY and Airpay are all accepted; tax-free is not mentioned anywhere on the official site"
   ]
  },
- "official_url": "https://blistercomics.jp/",
- "sns": {},
+ "official_url": "http://blistercomics.jp/",
+ "sns": {
+  "x": "https://x.com/BLISTER_comics",
+  "instagram": "https://www.instagram.com/blister_comics/"
+ },
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
-  "https://blistercomics.jp/"
+  "https://blistercomics.jp/",
+  "http://blistercomics.jp/",
+  "http://blistercomics.jp/?mode=sk",
+  "https://x.com/BLISTER_comics"
  ],
  "osm_id": "node/5181116182"
 }

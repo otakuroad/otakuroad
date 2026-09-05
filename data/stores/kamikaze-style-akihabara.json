@@ -20,6 +20,7 @@
  "category": "cosplay",
  "tags": [
   "new",
+  "used",
   "character_apparel",
   "t_shirt",
   "anime_collab",
@@ -28,12 +29,13 @@
   "eco_bag"
  ],
  "one_line": {
-  "ko": "애니 콜라보 티셔츠·개그 티셔츠와 밀리터리 의류, 에코백을 파는 1층 의류점",
-  "en": "Anime-collaboration and gag T-shirts, hoodies, military wear and eco bags"
+  "ko": "애니 콜라보 티셔츠·개그 티셔츠와 밀리터리·구제 의류, 에코백을 파는 1·2층 의류점",
+  "en": "Anime-collaboration and gag T-shirts, hoodies, military and used clothing and eco bags over two floors"
  },
  "building_id": null,
  "floors": [
-  "1F"
+  "1F",
+  "2F"
  ],
  "floor_guide": [],
  "location": {
@@ -71,7 +73,7 @@
  },
  "tax_free": null,
  "payment": "unknown",
- "secondhand": "new",
+ "secondhand": "both",
  "adult_content": {
   "level": "none",
   "floors": []
@@ -80,8 +82,8 @@
   "state": "open"
  },
  "how_to_find": {
-  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 3분, 주오도리 두 블록 서쪽의 외신전 3-6번지 블록. 5층짜리 아데가와(阿出川) 빌딩 1층 노면 점포이며, 같은 블록 쇼헤이바시도리 쪽 마루야마 빌딩(1층 신소쿠 매입센터)에서 남동쪽으로 30m 남짓이다. 한 블록 동쪽 잔크도리의 하드오프·호비오프에서도 걸어서 1분.",
-  "en": "Three minutes from exit 3 of Tokyo Metro Suehirocho on the Ginza line, in the 3-6 block two blocks west of Chuo-dori. It is the street-level unit on 1F of the five-storey Adegawa Building, about 30 m southeast of the Maruyama Building (Shinsoku buying centre on its ground floor) on Shohei-bashi-dori. Hard Off and Hobby Off on Junk Street, one block east, are a minute away."
+  "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 3분, 주오도리 두 블록 서쪽의 외신전 3-6번지 블록. 5층짜리 아데가와(阿出川) 빌딩 1·2층을 쓰는 노면 점포이며, 같은 블록 쇼헤이바시도리 쪽 마루야마 빌딩(1층 신소쿠 매입센터)에서 남동쪽으로 30m 남짓이다. 한 블록 동쪽 잔크도리의 하드오프·호비오프에서도 걸어서 1분.",
+  "en": "Three minutes from exit 3 of Tokyo Metro Suehirocho on the Ginza line, in the 3-6 block two blocks west of Chuo-dori. It occupies 1F and 2F of the five-storey Adegawa Building and is entered at street level, about 30 m southeast of the Maruyama Building (Shinsoku buying centre on its ground floor) on Shohei-bashi-dori. Hard Off and Hobby Off on Junk Street, one block east, are a minute away."
  },
  "tips": {
   "ko": [
@@ -104,14 +106,16 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "high",
- "verified_at": "2026-09-05",
+ "confidence": "medium",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://kamikazestyle.com/",
   "https://kamikazestyle.com/?mode=sk",
   "https://kamikazestyle.com/?mode=f2",
   "https://kamikazestyle.com/?mode=f1",
-  "https://www.openstreetmap.org/node/1916532537"
+  "https://www.openstreetmap.org/node/1916532537",
+  "https://kamikazestyle.com/shop/",
+  "https://api.fxtwitter.com/kamikaze_akiba"
  ],
  "osm_id": "node/1916532537"
 }

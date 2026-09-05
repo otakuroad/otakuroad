@@ -101,13 +101,15 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://akiba-mermaid.com/",
   "https://akiba-mermaid.com/contact/",
   "https://akiba-mermaid.com/system/",
   "https://lit.link/mermaidakiba",
-  "https://shop.caferun.jp/shop/6030/"
+  "https://shop.caferun.jp/shop/6030/",
+  "https://akiba-mermaid.com/schedule/",
+  "https://api.fxtwitter.com/mermaid_bar"
  ],
  "osm_id": "way/217384205"
 }

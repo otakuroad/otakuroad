@@ -111,11 +111,12 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.kadenken.com/",
   "https://www.kadenken.com/view/guide",
-  "https://www.tokyoradiodepart.co.jp/shop.html"
+  "https://www.tokyoradiodepart.co.jp/shop.html",
+  "https://www.tokyoradiodepart.co.jp/floor.html"
  ],
  "osm_id": "node/10183630256"
 }

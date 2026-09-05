@@ -60,17 +60,17 @@
  },
  "tips": {
   "ko": [
-   "고정 영업시간이 없다. 이벤트가 있는 날만 열리므로 공식 스케줄 페이지나 X(@iv_akihabara)에서 그날 일정을 먼저 확인한다.",
-   "바 영업일은 대체로 23:00-5:00이고 입장료 1,500엔에 드링크 2잔이 포함된다. 이 시간대에는 DJ 부스를 손님에게 개방해 직접 틀어볼 수 있다.",
+   "영업시간이 날마다 달라진다. 이벤트가 없는 날에도 바 영업을 하지만 아예 쉬는 날(CLOSE)도 있으니 공식 스케줄 페이지나 X(@iv_akihabara)에서 그날 일정을 먼저 확인한다.",
+   "바 영업은 저녁 18:00-23:00과 심야 23:00-5:00 두 틀로 나뉘고, 어느 쪽이든 입장료 1,500엔에 드링크 2잔이 포함된다. 이 시간대에는 DJ 부스를 손님에게 개방해 직접 틀어볼 수 있다.",
    "영국 KEF Blade 스피커와 CDJ-3000 4대, DJM-A9를 갖췄고 스탠딩 정원은 약 70명이다.",
-   "평일 12:00-17:00에는 DJ 연습용 부스 대여를 받는다. 최소 2시간, 시간당 2,200엔, 최대 4명이며 부스 안에서는 음식물 섭취가 안 된다.",
+   "평일 12:00-17:00에는 DJ 연습용 부스 대여를 받는다. 최소 2시간·최대 5시간, 시간당 2,200엔, 최대 4명이며 부스 안에서는 음식물 섭취가 안 된다.",
    "2025년 5월 11일 개업한 곳으로 일부 이벤트는 Twitch(twitch.tv/iv_akihabara)로 중계된다."
   ],
   "en": [
-   "There are no fixed opening hours: the venue opens only on event days, so check the official schedule page or X (@iv_akihabara) before going.",
-   "On bar nights it usually runs 23:00-5:00 with a 1,500 yen entry that includes two drinks; the DJ booth is open for customers to play.",
+   "Opening hours change from day to day. The venue also runs as a bar on days with no event, but some days are closed altogether, so check the official schedule page or X (@iv_akihabara) before going.",
+   "Bar operation comes in two bands, 18:00-23:00 and 23:00-5:00; either way entry is 1,500 yen including two drinks, and the DJ booth is open for customers to play.",
    "Equipment is KEF Blade speakers, four CDJ-3000s and a DJM-A9, with a standing capacity of about 70.",
-   "Weekdays 12:00-17:00 the DJ booth can be rented for practice: two hours minimum, 2,200 yen an hour, up to four people, no eating or drinking inside the booth.",
+   "Weekdays 12:00-17:00 the DJ booth can be rented for practice: two to five hours, 2,200 yen an hour, up to four people, no eating or drinking inside the booth.",
    "It opened on 2025-05-11 and streams some events on Twitch (twitch.tv/iv_akihabara)."
   ]
  },
@@ -81,13 +81,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://iv-akiba.com/",
   "https://iv-akiba.com/about",
   "https://iv-akiba.com/booth-rental",
   "https://iv-akiba.com/schedule",
-  "https://iv-akiba.com/schedule/event/20260905_night"
+  "https://iv-akiba.com/schedule/event/20260905_night",
+  "https://iv-akiba.com/schedule/event/20260918_day"
  ],
  "osm_id": null
 }

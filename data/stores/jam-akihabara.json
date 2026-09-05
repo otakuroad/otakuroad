@@ -71,7 +71,7 @@
   "source_url": "https://jam-akiba.com/"
  },
  "tax_free": null,
- "payment": "unknown",
+ "payment": "cards_ok",
  "secondhand": null,
  "adult_content": {
   "level": "none",
@@ -99,14 +99,17 @@
   ]
  },
  "official_url": "https://jam-akiba.com/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/jam_akihabara"
+ },
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://jam-akiba.com/",
-  "https://jam-akiba.com/about/"
+  "https://jam-akiba.com/about/",
+  "https://jam-akiba.com/menu/"
  ],
  "osm_id": "node/2952193647"
 }

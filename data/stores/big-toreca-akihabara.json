@@ -21,7 +21,6 @@
  "category": "trading_card",
  "tags": [
   "pokemon_card",
-  "yugioh",
   "one_piece_card",
   "dragon_ball_card",
   "singles",
@@ -35,8 +34,8 @@
   "used"
  ],
  "one_line": {
-  "ko": "포켓몬·유희왕 컬렉션 싱글과 PSA 감정 카드, 오리파. 매입 창구도 운영",
-  "en": "Pokemon and Yu-Gi-Oh collector singles, PSA-graded cards, oripa and a buyback counter"
+  "ko": "포켓몬·원피스·드래곤볼 컬렉션 싱글과 PSA 감정 카드, 오리파. 매입 창구도 운영",
+  "en": "Pokemon, One Piece and Dragon Ball collector singles, PSA-graded cards, oripa and a buyback counter"
  },
  "building_id": null,
  "floors": [
@@ -95,13 +94,13 @@
  "tips": {
   "ko": [
    "평일은 13:00, 토·일은 12:00 오픈으로 여는 시간이 다르다. 마감은 매일 20:00.",
-   "포켓몬·유희왕 컬렉션 카드와 PSA 감정품 비중이 높고 오리파도 취급한다. 듀얼 스페이스와 대회는 없다.",
+   "포켓몬·원피스·드래곤볼 컬렉션 카드와 PSA 감정품 비중이 높고 오리파도 취급한다. 듀얼 스페이스와 대회는 없다.",
    "매입은 그 자리에서 현금 지급을 내세우며 당일 매입표를 공식 X(@TCG_BIGTOREKA)에 올린다. 우편 매입은 LINE으로 접수.",
    "슬리브·덱케이스·플레이매트 등 서플라이도 갖추고 있다."
   ],
   "en": [
    "Opens at 13:00 on weekdays but 12:00 on Saturday and Sunday; it closes at 20:00 every day.",
-   "Weighted toward Pokemon and Yu-Gi-Oh collector singles and PSA-graded slabs, with oripa packs. There is no duel space and no tournaments.",
+   "Weighted toward Pokemon, One Piece and Dragon Ball collector singles and PSA-graded slabs, with oripa packs. There is no duel space and no tournaments.",
    "Buyback is paid in cash on the spot, and the day's buy rates are posted on the shop's X account (@TCG_BIGTOREKA); mail-in buyback is arranged through LINE.",
    "Supplies (sleeves, deck cases, playmats) are stocked as well."
   ]
@@ -113,13 +112,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.big-toreka.jp/page/4",
   "https://www.big-toreka.jp/",
   "https://www.big-toreka.jp/info",
   "https://x.com/TCG_BIGTOREKA",
-  "https://akibatoreka.com/introduce/2352"
+  "https://akibatoreka.com/introduce/2352",
+  "https://www.big-toreka.jp/category"
  ],
  "osm_id": null
 }

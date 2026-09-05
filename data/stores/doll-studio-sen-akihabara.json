@@ -71,8 +71,8 @@
    "en": "Open year-round"
   },
   "note": {
-   "ko": "공식 사이트 秋葉原店 안내는 12:00-20:00, 정기휴일 없음. 일부 지도 서비스와 SNS 글에는 11:00-19:00으로 적혀 있으므로 방문 전 X(@akiba_sendoll) 확인.",
-   "en": "The official Akihabara page states 12:00-20:00 with no regular closing day. Some map listings and social posts say 11:00-19:00, so check X (@akiba_sendoll) before going."
+   "ko": "공식 사이트 秋葉原店 안내와 공식 X 계정의 2026년 4월 27일 게시글 모두 12:00-20:00, 정기휴일 없음으로 적고 있다. 다만 X 계정 이름과 소개글에는 '11～19시 영업'으로 적혀 있어 표기가 엇갈리므로 방문 전 X(@akiba_sendoll) 확인.",
+   "en": "The official Akihabara page and the shop's own X post of 2026-04-27 both state 12:00-20:00 with no regular closing day. The X account's display name and bio, however, advertise 11:00-19:00, so check X (@akiba_sendoll) before going."
   },
   "source_url": "https://www.from-sen.com/html/page93.html"
  },
@@ -110,7 +110,7 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.from-sen.com/html/page93.html",
   "https://www.from-sen.com/",

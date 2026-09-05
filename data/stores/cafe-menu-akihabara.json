@@ -9,12 +9,16 @@
   "카페 메뉴",
   "카페메뉴",
   "카페 MENU",
+  "파블로 메뉴",
   "cafe MENU",
   "cafeMENU",
   "cafe MENU 秋葉原",
   "cafe&bar MENU",
   "カフェメニュー",
   "秋葉原MENU",
+  "秋葉原MENU店",
+  "PABLO×MENU",
+  "PABLO×MENU 秋葉原MENU店",
   "cafebarMENU"
  ],
  "category": "maid_cafe",
@@ -104,12 +108,14 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://cafeandbar-menu.owst.jp/",
   "https://cafeandbar-menu.owst.jp/map",
   "https://www.hotpepper.jp/strJ003324302/",
-  "https://collabo-cafe.com/events/collabo/manosaba-cafe-menu-akihabara2025/"
+  "https://collabo-cafe.com/events/collabo/manosaba-cafe-menu-akihabara2025/",
+  "https://x.com/cafebarMENU",
+  "https://x.com/menu_all0516"
  ],
  "osm_id": null
 }

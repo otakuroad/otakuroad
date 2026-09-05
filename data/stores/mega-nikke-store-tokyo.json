@@ -108,11 +108,13 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://algernonproduct.co.jp/meganikke-store/",
   "https://market.algernonproduct.co.jp/blog/2024/08/07/174837",
-  "https://map.yahoo.co.jp/v3/place/j8ETyfS7aik"
+  "https://map.yahoo.co.jp/v3/place/j8ETyfS7aik",
+  "https://api.fxtwitter.com/MEGANIKKESTORE",
+  "https://akiba-pc.watch.impress.co.jp/docs/news/news/2134854.html"
  ],
  "osm_id": null
 }

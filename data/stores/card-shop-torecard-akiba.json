@@ -35,7 +35,7 @@
   "supplies",
   "used",
   "new",
-  "cards_ok"
+  "cash_only"
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·원피스 싱글과 오리파, 플레이어용 16석 무료 듀얼 스페이스",
@@ -54,7 +54,7 @@
  "address_ja": "東京都千代田区外神田4-4-3 小木曽ビル4F",
  "hours": null,
  "tax_free": null,
- "payment": "cards_ok",
+ "payment": "cash_only",
  "secondhand": "both",
  "adult_content": {
   "level": "none",
@@ -71,13 +71,13 @@
   "ko": [
    "유희왕 세계대회 우승 경력 스태프가 상주해 덱 상담을 받을 수 있다고 점포 소개에 적혀 있다.",
    "타이틀별 통판 사이트(포켓몬·유희왕·원피스)를 따로 운영해 방문 전 재고를 확인할 수 있다.",
-   "현금 외에 신용카드 결제가 가능하다.",
+   "점두 결제는 현금만 받는다. 공식 통판 사이트에 적힌 신용카드는 온라인 주문용이고, 매장 수령 결제는 현금뿐이라고 안내한다.",
    "공식 통판 사이트에 영업시간 표기가 없다. 늦은 오후에 여는 날이 있으니 공식 X(@_torecard)를 확인한다."
   ],
   "en": [
    "The shop's own listing says staff include Yu-Gi-Oh! world champions, so deck advice is part of the service.",
    "It runs separate web shops per title (Pokemon, Yu-Gi-Oh!, One Piece), so you can check stock before visiting.",
-   "Credit cards are accepted alongside cash.",
+   "The counter takes cash only: the credit cards listed on the web shop are for online orders, and the shop states that in-store payment is cash.",
    "No opening hours are published on the official web shop; it opens in the afternoon on some days, so check X (@_torecard)."
   ]
  },
@@ -88,13 +88,15 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://torecard-poke.ocnk.net/info",
   "https://torecard-poke.ocnk.net/",
   "https://akibatoreka.com/introduce/2323",
   "https://akihabara-cardmap.com/ja/shop/card-shop-trecard/",
-  "https://torecamap.co.jp/column/akihabara/"
+  "https://torecamap.co.jp/column/akihabara/",
+  "https://torecard-poke.ocnk.net/help",
+  "https://x.com/_torecard/status/2087115194896113970"
  ],
  "osm_id": "node/5068098450"
 }

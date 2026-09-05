@@ -21,8 +21,6 @@
  "tags": [
   "robot",
   "transformers",
-  "sofubi",
-  "godzilla",
   "ev",
   "gadget",
   "experience",
@@ -88,13 +86,13 @@
  },
  "tips": {
   "ko": [
-   "SF 로봇 애니메이션 '태양의 용자 파이버드'의 전고 2.5m 변형 로봇 '용자 파이버리온'이 상설 전시되어 있고, 구경만 해도 무료다.",
+   "동인 서클 '용자기술연구소(勇者技術研究所)'가 만드는 전고 2.5m 변형 로봇 '파이버리온'이 상설 전시되어 있고, 구경만 해도 무료다. 애니메이션 캐릭터가 아니라 이 서클의 오리지널 용자 로봇이다.",
    "상반신 조종 체험은 사전 예약제이며 정비 기간에는 전시만 하는 경우가 있으니 공식 사이트에서 상태를 확인한다.",
    "전동 카트 'JOY카트'는 2시간부터 대여할 수 있고, 아키바 딥 트래블 투어의 집합·접수 장소를 겸한다.",
    "같은 SEEKBASE 안에 소프비 전문점 만다라케 CoCoo, 중고 레코드점 레코팬, 3호동의 레트로 게임점 BEEP이 있어 함께 돌기 좋다."
   ],
   "en": [
-   "The 2.5 m transforming robot 'Yusha Fiberion', from the mecha anime Brave Fighter of Sun Fighbird, is on permanent display and free to look at.",
+   "The 2.5 m transforming robot 'Fiberion', built by the doujin circle Yusha Giken (勇者技術研究所), is on permanent display and free to look at. It is that circle's own original brave robot, not a character from an anime.",
    "Piloting its upper body is by advance booking and is sometimes suspended for maintenance, so check the official site before going.",
    "The JOY Cart electric kart rents from two hours, and the shop doubles as the meeting point and desk for Akiba Deep Travel tours.",
    "The same SEEKBASE strip holds Mandarake CoCoo (sofubi), the used-record shop RECOfan and, in building 3, the retro-game shop BEEP."
@@ -108,13 +106,17 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://robolabo.tokyo/",
   "https://www.jrtk.jp/seekbase/shop/",
   "https://akiba.or.jp/store/akiba-robolabo-meetup/",
   "https://www.openstreetmap.org/node/12459847420",
-  "https://www.openstreetmap.org/node/12459847422"
+  "https://www.openstreetmap.org/node/12459847422",
+  "https://robolabo.tokyo/concept",
+  "https://www.jrtk.jp/seekbase/",
+  "https://y-giken.xrea.jp/%e3%83%95%e3%82%a1%e3%82%a4%e3%83%90%e3%83%aa%e3%82%aa%e3%83%b3/",
+  "https://robolabo.square.site/"
  ],
  "osm_id": null
 }

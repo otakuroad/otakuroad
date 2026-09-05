@@ -35,7 +35,8 @@
  "floors": [
   "1F",
   "2F",
-  "3F"
+  "3F",
+  "4F"
  ],
  "floor_guide": [
   {
@@ -52,6 +53,11 @@
    "floor": "3F",
    "ko": "리허설 스튜디오 301(드럼 교실)·302(밴드용)·303(드럼 2대)",
    "en": "Rehearsal studios 301 for drum lessons, 302 for bands and 303 with two drum kits"
+  },
+  {
+   "floor": "4F",
+   "ko": "아프레코(사후 녹음)를 할 수 있는 수록 스튜디오. 2·3층 리허설 스튜디오 요금표에는 나오지 않는다",
+   "en": "A recording studio set up for post-sync (afureco) voice recording; it is not listed in the published 2F/3F rehearsal-studio price list"
   }
  ],
  "location": {
@@ -59,7 +65,7 @@
   "lng": 139.776203
  },
  "street_segment": "showa_dori",
- "address_ja": "〒101-0025 東京都千代田区神田佐久間町2-11 第一中利ビル1F〜3F",
+ "address_ja": "〒101-0025 東京都千代田区神田佐久間町2-11 第一中利ビル1F〜4F",
  "hours": null,
  "tax_free": null,
  "payment": "unknown",
@@ -96,12 +102,18 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://beck-akiba.com/",
   "https://beck-akiba.com/access.html",
   "https://beck-akiba.com/fee_1f.html",
-  "https://www.navitime.co.jp/poi?spot=02022-1428425"
+  "https://www.navitime.co.jp/poi?spot=02022-1428425",
+  "https://beck-akiba.com/beck%e3%82%a2%e3%82%ad%e3%83%90.html",
+  "https://beck-akiba.com/%e9%81%8b%e5%96%b6%e4%bc%9a%e7%a4%be.html",
+  "https://beck-akiba.com/fee_studio1-html.html",
+  "https://beck-akiba.com/layout.html",
+  "https://beck-akiba.com/bar.html",
+  "https://api.fxtwitter.com/BECK_AKIBA"
  ],
  "osm_id": "node/13909726002"
 }

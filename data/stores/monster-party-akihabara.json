@@ -93,7 +93,7 @@
  "tips": {
   "ko": [
    "화·수요일은 정기휴무. 월·목·금 17:00-22:00, 토·일·공휴일 15:00-20:00이며 라스트오더는 폐점 1시간 전이다.",
-   "차지(입장) 요금과 1드링크 오더제로 운영된다. 90분 단위로 차지가 붙고 이후 60분마다 1오더를 추가한다.",
+   "입장료 1,000엔을 내면 90분 동안 있을 수 있고, 그 뒤로는 60분마다 1오더씩 추가해야 한다.",
    "알코올은 취급하지 않는 논알코올 카페다. 로테이블 3석·하이테이블 3석·카운터 1석뿐인 아주 작은 가게라 혼잡할 수 있다.",
    "점주가 직접 만드는 소프비(연질 비닐) 몬스터 인형과 굿즈를 매장 한쪽에서 판매하고, 2숏 체키도 찍을 수 있다.",
    "매장과 캐스트 촬영이 가능하지만 삼각대·플래시 등 큰 장비는 영업 중 금지. 무료 Wi-Fi가 있고 비밀번호는 캐스트에게 물으면 된다.",
@@ -101,8 +101,8 @@
   ],
   "en": [
    "Closed Tuesdays and Wednesdays; Mon/Thu/Fri 17:00-22:00, Sat/Sun/holidays 15:00-20:00, last order one hour before closing.",
-   "A table charge plus a one-drink order is required: the charge covers 90 minutes, then one more order every 60 minutes after that.",
-   "No alcohol is served. It is tiny — three low tables, three high tables and a single counter seat — so it fills up fast.",
+   "A 1,000 yen entry fee covers 90 minutes; after that you have to add one more order every 60 minutes.",
+   "No alcohol is served. It is tiny - three low tables, three high tables and a single counter seat - so it fills up fast.",
    "The owner makes the sofubi (soft-vinyl) monster figures sold in the shop corner, and two-shot cheki photos are available.",
    "Photos of the room and of the cast are allowed, but tripods and flash rigs are not during business hours. Free Wi-Fi; ask the cast for the password.",
    "The shop opened in Sotokanda in 2018, moved to Asakusa in 2022 and later returned to Akihabara on the Okachimachi side, so older listings still carry the previous address."
@@ -116,7 +116,7 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.monsterparty.tokyo/access",
   "https://www.monsterparty.tokyo/q-a",
@@ -124,7 +124,9 @@
   "https://www.monsterparty.tokyo/",
   "https://www.monsterparty.tokyo/service",
   "https://maidcafe-guide.com/2025/05/24/maidcafe-guide-monsterparty-20250515/",
-  "https://x.com/hi_monsterparty"
+  "https://x.com/hi_monsterparty",
+  "https://www.monsterparty.tokyo/en",
+  "https://api.fxtwitter.com/hi_monsterparty"
  ],
  "osm_id": "node/6572678286"
 }

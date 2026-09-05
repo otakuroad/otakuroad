@@ -108,11 +108,12 @@
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://concafeland.tokyo/",
   "https://gjgf300.gorp.jp/",
-  "https://www.pokepara.jp/tokyo/m9/a10034/shop17476/"
+  "https://www.pokepara.jp/tokyo/m9/a10034/shop17476/",
+  "https://concafeland.tokyo/access"
  ],
  "osm_id": null
 }

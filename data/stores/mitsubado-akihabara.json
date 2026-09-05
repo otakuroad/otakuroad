@@ -93,14 +93,18 @@
   ]
  },
  "official_url": "https://www.mitubado.com/",
- "sns": {},
+ "sns": {
+  "x": "https://x.com/mitsubado"
+ },
  "chain": null,
  "priority": 3,
  "confidence": "high",
- "verified_at": "2026-09-05",
+ "verified_at": "2026-09-06",
  "source_urls": [
   "https://www.mitubado.com/",
-  "https://www.mitubado.com/access"
+  "https://www.mitubado.com/access",
+  "https://www.mitubado.com/cosplay",
+  "https://api.fxtwitter.com/mitsubado"
  ],
  "osm_id": "way/88984275"
 }
