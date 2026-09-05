@@ -208,6 +208,34 @@ export function thumbUrl(photo: Photo): string {
   return `${photo.url.slice(0, -'.jpg'.length)}-thumb.jpg`
 }
 
+/**
+ * The photo to show for a store, and whether it is really the store's own.
+ *
+ * Only a few dozen of the four hundred shops have a photo of their own — Wikimedia Commons simply
+ * does not hold storefronts for a fifth-floor card shop. But a shop inside one of the curated
+ * buildings has something almost as useful: the building it is in. Showing that facade, labelled as
+ * the building rather than passed off as the shop, is what a visitor actually needs to find the
+ * door; `fromBuilding` carries the name so every surface can say so.
+ */
+export interface StorePhoto {
+  photo: Photo
+  /** Null when the photo is the shop's own; otherwise the building the facade belongs to. */
+  fromBuilding: Building | null
+}
+
+export function storePhoto(store: Store, buildings: BuildingIndex): StorePhoto | null {
+  if (store.photo !== null) return { photo: store.photo, fromBuilding: null }
+  if (store.building_id === null) return null
+  const building = buildings.get(store.building_id)
+  if (building === undefined || building.photo === null) return null
+  return { photo: building.photo, fromBuilding: building }
+}
+
+/** "라디오회관 외관" — what a borrowed building photo is showing. */
+export function photoCaption(from: Building, locale: Locale): string {
+  return t(locale, 'photo.of_building', { building: from.name[locale] })
+}
+
 /** "2015" from a `taken_on` of `2015`, `2015-04` or `2015-04-13`. */
 export function photoYear(photo: Photo): string | null {
   return photo.taken_on === null ? null : photo.taken_on.slice(0, 4)

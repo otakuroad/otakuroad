@@ -97,5 +97,13 @@
   "https://akibatoreka.com/",
   "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%AF%E3%82%AB%E3%83%A1%E3%83%A9"
  ],
- "osm_id": "node/5875272064"
+ "osm_id": "node/5875272064",
+ "photo": {
+  "url": "/photos/bic-camera-akiba.jpg",
+  "kind": "exterior",
+  "credit": "Tokumeigakarinoaoshima · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bic_Camera_AKIBA.jpg",
+  "taken_on": "2018"
+ }
 }

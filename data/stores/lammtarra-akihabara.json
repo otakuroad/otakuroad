@@ -123,5 +123,13 @@
   "https://lammaki1f.blog.jp/",
   "http://akibamap.info/archives/17203371.html"
  ],
- "osm_id": "way/216931509"
+ "osm_id": "way/216931509",
+ "photo": {
+  "url": "/photos/lammtarra-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Marufish from Alor Setar, Malaysia · CC BY-SA 2.0 · Wikimedia Commons",
+  "license": "CC BY-SA 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Lammtarra_Akihabara_shop_at_night_(%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97,_%E5%A4%96%E7%A5%9E%E7%94%B01)_(2009-11-16_21.01.34_by_Marufish).jpg",
+  "taken_on": "2009-11-16"
+ }
 }

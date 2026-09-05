@@ -109,5 +109,13 @@
   "https://akihabara-radiokaikan.co.jp/floor-guide/",
   "https://hjweb.jp/shop/8940/"
  ],
- "osm_id": null
+ "osm_id": null,
+ "photo": {
+  "url": "/photos/azone-label-shop-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Yuukokusya · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:AKIHABARA_New_Radio_Kaikan.jpg",
+  "taken_on": "2014-07-20"
+ }
 }

@@ -99,5 +99,13 @@
  "source_urls": [
   "https://www.leisurelan.co.jp/store/gpakiba.html"
  ],
- "osm_id": "node/6241716988"
+ "osm_id": "node/6241716988",
+ "photo": {
+  "url": "/photos/game-panic-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Stephen Kelly from San Francisco, CA, USA · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Game_Panic_Building,_Akihabara_(53417093770).jpg",
+  "taken_on": "2023-10-18"
+ }
 }

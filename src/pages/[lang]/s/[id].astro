@@ -17,8 +17,10 @@ import {
   directionsUrl,
   indexBuildings,
   locationLine,
+  photoCaption,
   reportErrorUrl,
   statusBanner,
+  storePhoto,
 } from '@/lib/format'
 import { colorFor } from '@/lib/glyphs'
 import { storeJsonLd } from '@/lib/schema-org'
@@ -38,6 +40,7 @@ const pageUrl = new URL(`/${lang}${path}`, site)
 
 const buildingById = indexBuildings(buildings)
 const building = store.building_id === null ? null : (buildingById.get(store.building_id) ?? null)
+const shown = storePhoto(store, buildingById)
 const where = locationLine(store, buildingById, DEFAULT_ANCHOR, lang)
 const badges = badgesFor(store, lang)
 const banner = statusBanner(store, lang)
@@ -70,7 +73,7 @@ const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
     }
 
     <div class="head">
-      <PhotoTile photo={store.photo} kind={store.category} size="lg" />
+      <PhotoTile photo={shown?.photo ?? null} ofBuilding={shown?.fromBuilding?.name[lang] ?? null} kind={store.category} size="lg" />
       <div>
         <h1>{store.name[lang]}</h1>
         <p class="ja" lang="ja">{store.name.ja}</p>
@@ -195,7 +198,16 @@ const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
       <p class="body" lang="ja">{store.address_ja}</p>
     </section>
 
-    {store.photo && <p class="credit">{t(lang, 'section.photo_credit')}: {store.photo.credit}</p>}
+    {shown && (
+      <p class="credit">
+        {[
+          shown.fromBuilding === null ? null : photoCaption(shown.fromBuilding, lang),
+          `${t(lang, 'section.photo_credit')}: ${shown.photo.credit}`,
+        ]
+          .filter((part) => part !== null)
+          .join(' · ')}
+      </p>
+    )}
 
     <footer class="prov">
       <p>{t(lang, 'meta.verified_at', { date: store.verified_at })}</p>

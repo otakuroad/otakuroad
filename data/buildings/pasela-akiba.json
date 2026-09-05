@@ -64,5 +64,13 @@
   "https://www.pasela.co.jp/paselive/shop/parms_akihabara/",
   "https://www.grace-bali.com/shop/akihabara/enkai/"
  ],
- "osm_id": "way/230818893"
+ "osm_id": "way/230818893",
+ "photo": {
+  "url": "/photos/pasela-akiba.jpg",
+  "kind": "exterior",
+  "credit": "RuinDig/Yuki Uchida · CC BY 4.0 · Wikimedia Commons",
+  "license": "CC BY 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo---2025-06-18_067.jpg",
+  "taken_on": "2025-06-18"
+ }
 }

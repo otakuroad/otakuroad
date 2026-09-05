@@ -98,5 +98,13 @@
   "https://www.lammtarra.com/shop/%E3%82%A2%E3%83%AA%E3%83%90%E3%83%90%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/",
   "https://www.lammtarra.com/shop_list/"
  ],
- "osm_id": null
+ "osm_id": null,
+ "photo": {
+  "url": "/photos/alibaba-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Bject · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Alibaba_Akihabara_store_IMG_5998.jpg",
+  "taken_on": "2021-12-05"
+ }
 }

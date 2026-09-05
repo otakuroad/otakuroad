@@ -4,7 +4,7 @@
    * small, a category dot, the open state as text, the location line and the tax-free badge.
    * Shared by the nearby list, the saved list, the overlap mini-list and search results.
    */
-  import { listWhere, nextOpenHint, openStateShort, openStateTone } from '@/lib/format'
+  import { listWhere, nextOpenHint, openStateShort, openStateTone, storePhoto } from '@/lib/format'
   import { colorFor } from '@/lib/glyphs'
   import type { AppState, ListItem } from '@/lib/app-state.svelte'
   import { t } from '@/i18n'
@@ -21,6 +21,7 @@
   const store = $derived(item.store)
   const building = $derived(item.building)
   const openState = $derived(store === null ? null : app.openStateOf(store.id))
+  const shown = $derived(store === null ? null : storePhoto(store, app.buildingById))
   const where = $derived(
     store === null
       ? null
@@ -81,7 +82,8 @@
   data-row-id={item.id}
 >
   <PhotoTile
-    photo={store?.photo ?? building?.photo ?? null}
+    photo={shown?.photo ?? building?.photo ?? null}
+    ofBuilding={shown?.fromBuilding?.name[app.locale] ?? null}
     kind={store === null ? 'building' : store.category}
     dim={store !== null && store.status.state !== 'open'}
   />

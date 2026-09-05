@@ -127,5 +127,13 @@
   "https://www.tokyoradiodepart.co.jp/floor.html",
   "https://www.tokyoradiodepart.co.jp/access.html"
  ],
- "osm_id": "way/41261020"
+ "osm_id": "way/41261020",
+ "photo": {
+  "url": "/photos/tokyo-radio-depart.jpg",
+  "kind": "exterior",
+  "credit": "かなぷー · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo_Radio_Department_store_20170211.jpg",
+  "taken_on": "2017"
+ }
 }

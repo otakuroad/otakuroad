@@ -101,5 +101,13 @@
   "https://twinbox.info/",
   "https://www.twinbox.info/about"
  ],
- "osm_id": null
+ "osm_id": null,
+ "photo": {
+  "url": "/photos/twinbox-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Beryllium Transistor · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Twin_Box_AKIHABARA.jpg",
+  "taken_on": "2022-08-20"
+ }
 }

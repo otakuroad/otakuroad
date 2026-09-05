@@ -143,5 +143,13 @@
   "https://akihabara-radiokaikan.co.jp/29035/",
   "https://ja.wikipedia.org/wiki/K-BOOKS"
  ],
- "osm_id": "node/3099886373"
+ "osm_id": "node/3099886373",
+ "photo": {
+  "url": "/photos/k-books-akihabara-honkan.jpg",
+  "kind": "exterior",
+  "credit": "Akihabara Radio Kaikan (2022-10-18 12.49.52 by John Seb Barber).jpg:Fl · CC BY 4.0 · Wikimedia Commons",
+  "license": "CC BY 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_Radio_Kaikan_(2022-10-18_12.49.52_by_John_Seb_Barber)ed.jpg",
+  "taken_on": "2022-10-18"
+ }
 }

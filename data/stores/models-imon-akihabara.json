@@ -118,5 +118,13 @@
   "https://www.imon.co.jp/MONTA/",
   "https://www.imon.co.jp/MODELS/MONTATOP.MBR/HTML"
  ],
- "osm_id": "node/1915189422"
+ "osm_id": "node/1915189422",
+ "photo": {
+  "url": "/photos/models-imon-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "photo: Qurren (talk) Taken with Samsung Galaxy S9 (NTT docomo SC-02K) · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Uchida_Building_(Akihabara).jpg",
+  "taken_on": "2019-11-02"
+ }
 }

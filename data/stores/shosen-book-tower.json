@@ -166,5 +166,13 @@
  "source_urls": [
   "https://www.shosen.co.jp/tower/"
  ],
- "osm_id": "node/1986281361"
+ "osm_id": "node/1986281361",
+ "photo": {
+  "url": "/photos/shosen-book-tower.jpg",
+  "kind": "exterior",
+  "credit": "Guilhem Vellut from Annecy, France · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Book_Tower_@_Akihabara_(11403360133).jpg",
+  "taken_on": "2013-12-16"
+ }
 }

@@ -139,5 +139,13 @@
   "https://torecamap.co.jp/shops/tokyo/r13001/s13001001/2241",
   "https://akihabara.kokosil.net/ja/place/00001c00000000000002000000340704"
  ],
- "osm_id": "node/2276977429"
+ "osm_id": "node/2276977429",
+ "photo": {
+  "url": "/photos/card-kingdom-akihabara-ekimae.jpg",
+  "kind": "exterior",
+  "credit": "Bject · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_scenery_IMG_5991.jpg",
+  "taken_on": "2021-12-05"
+ }
 }

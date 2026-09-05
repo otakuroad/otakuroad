@@ -100,5 +100,13 @@
   "https://akihabara-radiokaikan.co.jp/shoplist/the-akiba/",
   "https://akihabara-radiokaikan.co.jp/floor-guide/"
  ],
- "osm_id": null
+ "osm_id": null,
+ "photo": {
+  "url": "/photos/giftshop-the-akiba-radio-kaikan.jpg",
+  "kind": "exterior",
+  "credit": "Dick Thomas Johnson from Tokyo, Japan · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_Radio_Kaikan_(52497450673).jpg",
+  "taken_on": "2022-08-21"
+ }
 }

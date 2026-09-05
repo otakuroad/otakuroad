@@ -50,5 +50,13 @@
   "https://goakihabara.com/jp/shop/ichigo-akihabaraeki-mae-biru",
   "https://prtimes.jp/main/html/rd/p/000000410.000034930.html"
  ],
- "osm_id": "way/89023087"
+ "osm_id": "way/89023087",
+ "photo": {
+  "url": "/photos/ichigo-akihabara-ekimae-building.jpg",
+  "kind": "exterior",
+  "credit": "Tokumeigakarinoaoshima · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:SEGA_Akihabara_No.4_store.jpg",
+  "taken_on": "2018-11-23"
+ }
 }

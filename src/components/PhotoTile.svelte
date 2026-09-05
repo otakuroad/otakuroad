@@ -16,9 +16,14 @@
     /** sm = 44px list thumb, md = 56px building header, lg = 84px card head. */
     size?: 'sm' | 'md' | 'lg'
     dim?: boolean
+    /**
+     * Set when the photo is the shop's building rather than the shop itself. A corner marker says
+     * so at every size, since the tile is far too small to carry the building's name.
+     */
+    ofBuilding?: string | null
   }
 
-  let { photo, kind, size = 'sm', dim = false }: Props = $props()
+  let { photo, kind, size = 'sm', dim = false, ofBuilding = null }: Props = $props()
 
   const px = $derived(size === 'lg' ? 84 : size === 'md' ? 56 : 44)
   const src = $derived(photo === null ? null : size === 'sm' ? thumbUrl(photo) : photo.url)
@@ -27,7 +32,10 @@
 
 <div class="phwrap {size}" class:dim>
   {#if photo !== null && src !== null}
-    <img class="ph" {src} alt="" width={px} height={px} loading="lazy" decoding="async" />
+    <img class="ph" {src} alt="" title={ofBuilding ?? undefined} width={px} height={px} loading="lazy" decoding="async" />
+    {#if ofBuilding !== null}
+      <i class="of-bldg" aria-hidden="true"><Glyph kind="building" size={size === 'lg' ? 13 : 10} /></i>
+    {/if}
     {#if year}<i class="yr">{year}</i>{/if}
   {:else}
     <div class="ph tile" style:background={colorFor(kind)}>
@@ -68,6 +76,23 @@
   .tile {
     display: grid;
     place-items: center;
+  }
+  /* Marks a borrowed building facade, so it is never mistaken for the shop's own storefront. */
+  .of-bldg {
+    position: absolute;
+    left: 3px;
+    top: 3px;
+    display: grid;
+    place-items: center;
+    padding: 2px;
+    border-radius: 5px;
+    background: rgba(31, 35, 40, 0.74);
+    line-height: 0;
+  }
+  .lg .of-bldg {
+    left: 5px;
+    top: 5px;
+    padding: 3px;
   }
   .yr {
     position: absolute;

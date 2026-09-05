@@ -88,5 +88,13 @@
   "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=32",
   "https://ja.wikipedia.org/wiki/AKB48%E5%8A%87%E5%A0%B4"
  ],
- "osm_id": "node/4879949024"
+ "osm_id": "node/4879949024",
+ "photo": {
+  "url": "/photos/akb48-theater.jpg",
+  "kind": "exterior",
+  "credit": "Dick Thomas Johnson from Tokyo, Japan · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_(53152265910).jpg",
+  "taken_on": "2023-07-23"
+ }
 }

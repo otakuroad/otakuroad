@@ -48,7 +48,14 @@
    "en": "Rental office floor (the building's owner-operator company among others); nothing open to visitors"
   }
  ],
- "photo": null,
+ "photo": {
+  "url": "/photos/akihabara-nomura-building.jpg",
+  "kind": "exterior",
+  "credit": "Bject · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_scenery_IMG_5991.jpg",
+  "taken_on": "2021-12-05"
+ },
  "verified_at": "2026-09-05",
  "source_urls": [
   "https://cardkingdom.jp/akihabaraekimae/",

@@ -111,5 +111,13 @@
   "https://www.gigo.co.jp/shops/cafestand-akihabara3",
   "https://prize-lab.com/game-center/akiba/"
  ],
- "osm_id": "node/11017003645"
+ "osm_id": "node/11017003645",
+ "photo": {
+  "url": "/photos/gigo-akihabara-2.jpg",
+  "kind": "exterior",
+  "credit": "Stephen Kelly from San Francisco, CA, USA · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:GiGo_Gaming_Arcade,_Akihabara_(53416976669).jpg",
+  "taken_on": "2023-10-18"
+ }
 }

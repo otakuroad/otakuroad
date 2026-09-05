@@ -7,7 +7,7 @@
  */
 import PhotoTile from '@/components/PhotoTile.svelte'
 import type { Building, Store } from '@/data/schema'
-import { badgesFor, categoryLabel, locationLine } from '@/lib/format'
+import { badgesFor, categoryLabel, locationLine, storePhoto } from '@/lib/format'
 import { colorFor } from '@/lib/glyphs'
 import { DEFAULT_ANCHOR } from '@/lib/geo'
 import type { Locale } from '@/i18n'
@@ -22,10 +22,11 @@ const { store, lang, buildings } = Astro.props
 
 const badges = badgesFor(store, lang)
 const where = locationLine(store, buildings, DEFAULT_ANCHOR, lang)
+const shown = storePhoto(store, buildings)
 ---
 
 <a class="row" href={`/${lang}/s/${store.id}`}>
-  <PhotoTile photo={store.photo} kind={store.category} dim={store.status.state !== 'open'} />
+  <PhotoTile photo={shown?.photo ?? null} ofBuilding={shown?.fromBuilding?.name[lang] ?? null} kind={store.category} dim={store.status.state !== 'open'} />
   <span class="mid">
     <span class="nm">{store.name[lang]}</span>
     <span class="ja" lang="ja">{store.name.ja}</span>

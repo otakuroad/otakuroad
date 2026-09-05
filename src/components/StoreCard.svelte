@@ -14,8 +14,10 @@
     directionsUrl,
     hoursDayLabel,
     locationLine,
+    photoCaption,
     reportErrorUrl,
     statusBanner,
+    storePhoto,
   } from '@/lib/format'
   import { colorFor } from '@/lib/glyphs'
   import { hoursTable, todayRowIndex } from '@/lib/hours'
@@ -42,6 +44,18 @@
   })
 
   const locale = $derived(app.locale)
+  const shown = $derived(storePhoto(store, app.buildingById))
+  // Built as one string: Svelte trims whitespace around block tags, which ate the separator space.
+  const creditLine = $derived(
+    shown === null
+      ? ''
+      : [
+          shown.fromBuilding === null ? null : photoCaption(shown.fromBuilding, locale),
+          `${t(locale, 'section.photo_credit')}: ${shown.photo.credit}`,
+        ]
+          .filter((part) => part !== null)
+          .join(' · '),
+  )
   const openState = $derived(app.openStateOf(store.id))
   const banner = $derived(statusBanner(store, locale))
   const badges = $derived(badgesFor(store, locale))
@@ -106,7 +120,7 @@
   {/if}
 
   <div class="card-head">
-    <PhotoTile photo={store.photo} kind={store.category} size="lg" />
+    <PhotoTile photo={shown?.photo ?? null} ofBuilding={shown?.fromBuilding?.name[app.locale] ?? null} kind={store.category} size="lg" />
     <div>
       <h3>{store.name[locale]}</h3>
       <p class="ja">{store.name.ja}</p>
@@ -260,8 +274,8 @@
   </button>
 </div>
 
-{#if store.photo !== null}
-  <p class="credit">{t(locale, 'section.photo_credit')}: {store.photo.credit}</p>
+{#if shown !== null}
+  <p class="credit">{creditLine}</p>
 {/if}
 
 <footer class="prov">

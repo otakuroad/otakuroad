@@ -55,5 +55,13 @@
   "https://www.atre.co.jp/akihabara/floorguide/27/116/",
   "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%AC%E7%A7%8B%E8%91%89%E5%8E%9F"
  ],
- "osm_id": "way/89028748"
+ "osm_id": "way/89028748",
+ "photo": {
+  "url": "/photos/atre-akihabara-1.jpg",
+  "kind": "exterior",
+  "credit": "Dick Thomas Johnson from Tokyo, Japan · CC BY 2.0 · Wikimedia Commons",
+  "license": "CC BY 2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_Station_(53443591298).jpg",
+  "taken_on": "2023-12-09"
+ }
 }

@@ -133,5 +133,13 @@
   "https://web.archive.org/web/20240531215328/https://www.suruga-ya.jp/feature/akihabara/index.html",
   "https://www.openstreetmap.org/node/5923650913"
  ],
- "osm_id": "node/5923650913"
+ "osm_id": "node/5923650913",
+ "photo": {
+  "url": "/photos/surugaya-akihabara-ekimae.jpg",
+  "kind": "exterior",
+  "credit": "Bject · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akihabara_Surugaya_IMG_5995.jpg",
+  "taken_on": "2021-12-05"
+ }
 }

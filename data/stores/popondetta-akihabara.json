@@ -153,5 +153,13 @@
   "https://www.popondetta.com/akibareuse/index.html",
   "https://www.openstreetmap.org/node/2276456261"
  ],
- "osm_id": "node/2276456261"
+ "osm_id": "node/2276456261",
+ "photo": {
+  "url": "/photos/popondetta-akihabara.jpg",
+  "kind": "exterior",
+  "credit": "Bject · CC BY-SA 4.0 · Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%E7%A7%8B%E8%91%89%E5%8E%9F_2019%E5%B9%B4CIMG4275.jpg",
+  "taken_on": "2018-06-23"
+ }
 }
