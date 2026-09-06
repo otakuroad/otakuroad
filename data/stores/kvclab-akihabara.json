@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "아케이드 기판·컨트롤 박스·레버·버튼·영상 변환기를 파는 기판 소유자용 전문점",
-  "en": "Arcade PCBs, control boxes, levers, buttons and video converters for arcade board owners"
+  "en": "Arcade PCBs, control boxes, levers, buttons and video converters for arcade board owners",
+  "ja": "アーケード基板やコントロールボックス、レバー・ボタン、映像変換器を扱う基板専門店"
  },
  "building_id": null,
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "월·수·금요일 정기휴무",
-   "en": "Closed Monday, Wednesday and Friday"
+   "en": "Closed Monday, Wednesday and Friday",
+   "ja": "月曜・水曜・金曜が定休日です"
   },
   "note": {
    "ko": "영업일은 화·목·토·일 나흘뿐이다. 공휴일 영업 여부는 공식 안내가 없고, 임시 휴업과 여름·연말 휴업은 공식 X(@KVClab)와 사이트 공지에 올라온다.",
-   "en": "Open only four days a week (Tue, Thu, Sat, Sun). Public-holiday opening is not stated; temporary and seasonal closures are posted on the site and on X (@KVClab)."
+   "en": "Open only four days a week (Tue, Thu, Sat, Sun). Public-holiday opening is not stated; temporary and seasonal closures are posted on the site and on X (@KVClab).",
+   "ja": "営業日は火・木・土・日の4日間だけです。祝日の営業については公式の案内がなく、臨時休業や夏季・年末年始の休みは公式X（@KVClab）とサイトの告知に出ます。"
   },
   "source_url": "https://kvc.jp/"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역에서 서쪽으로 도보 4분, 쇼헤이바시(昌平橋) 교차로에 면한 쇼헤이바시추오빌딩 2층. 2022년 7월 도쿄라디오데파트에서 이곳으로 이전했다. 전자상가 중심부에서 떨어진 소토칸다 2초메 강가 블록이다.",
-  "en": "Four minutes west of JR Akihabara Station, on 2F of the Shoheibashi Chuo Building facing the Shoheibashi crossing. The shop moved here from Tokyo Radio Depart in July 2022, so it sits in the Sotokanda 2-chome riverside block away from the main Electric Town strip."
+  "en": "Four minutes west of JR Akihabara Station, on 2F of the Shoheibashi Chuo Building facing the Shoheibashi crossing. The shop moved here from Tokyo Radio Depart in July 2022, so it sits in the Sotokanda 2-chome riverside block away from the main Electric Town strip.",
+  "ja": "JR秋葉原駅から西へ徒歩4分、昌平橋交差点に面した昌平橋中央ビルの2Fです。2022年7月に東京ラジオデパートからこの場所に移転したため、電気街の中心から離れた外神田2丁目の川沿いのブロックにあります。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,12 @@
    "Besides JAMMA arcade PCBs it stocks control boxes, Sanwa and Seimitsu levers and buttons, harnesses and RGB video converters.",
    "The shop also buys stock (kaitori) and takes items on consignment.",
    "Some listings give the building as 'Sotokanda Building 2F'; the official address is Shoheibashi Chuo Building 2F."
+  ],
+  "ja": [
+   "月曜・水曜・金曜は定休日です。営業は火・木・土・日の11:00〜19:00だけですので、曜日を確かめてからお出かけください。",
+   "JAMMAのアーケード基板のほか、コントロールボックス、三和・セイミツのレバーとボタン、ハーネス、RGBの映像変換器も販売しています。",
+   "買取と委託販売も受け付けています。",
+   "一部のサイトには「外神田ビル2F」と書かれていますが、公式の表記は昌平橋中央ビル2Fです。"
   ]
  },
  "official_url": "https://kvc.jp/",

@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "전기가 출구에서 가장 가까운 지점, B1~2층에 중고 애니 피규어와 소형 피규어",
-  "en": "Closest Liberty branch to the station: used anime figures and small figures on B1-2F"
+  "en": "Closest Liberty branch to the station: used anime figures and small figures on B1-2F",
+  "ja": "駅から一番近いリバティー、B1F〜2Fに中古アニメフィギュアと小型フィギュア"
  },
  "building_id": "liberty-2gokan",
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 점포 목록 기준 11:00-20:30, 연중무휴. 코코실 등 일본 디렉터리에는 10:30-20:00 같은 옛 시간이 남아 있다.",
-   "en": "The official store list gives 11:00-20:30 daily, open year-round. Japanese directories such as Kokosil still show older hours like 10:30-20:00."
+   "en": "The official store list gives 11:00-20:30 daily, open year-round. Japanese directories such as Kokosil still show older hours like 10:30-20:00.",
+   "ja": "公式の店舗一覧では11:00〜20:30、年中無休となっています。ココシルなど日本の情報サイトには10:30〜20:00といった古い営業時間が残っています。"
   },
   "source_url": "https://liberty-kaitori.com/shop"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 2분으로 리버티 7개 지점 중 역에서 가장 가깝다. 라디오회관 남쪽 블록의 세로로 긴 건물이며, 지하 1층~2층이 2호점, 같은 건물 3~4층이 6호점이다.",
-  "en": "Two minutes from the JR Akihabara Electric Town Exit — the closest of Liberty's seven branches to the station. It occupies B1 to 2F of a narrow building in the block south of Radio Kaikan; 3F and 4F of the same building are Store 6."
+  "en": "Two minutes from the JR Akihabara Electric Town Exit — the closest of Liberty's seven branches to the station. It occupies B1 to 2F of a narrow building in the block south of Radio Kaikan; 3F and 4F of the same building are Store 6.",
+  "ja": "JR秋葉原駅の電気街口から徒歩2分で、リバティー7店舗のなかで駅から最も近い店です。ラジオ会館の南側のブロックに建つ細長いビルのB1F〜2Fを使っており、同じビルの3F・4Fは6号店です。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,11 @@
    "It is the closest branch to the station and the strongest on small figures, so the chain's own route starts here.",
    "Tax-free needs your original passport and 5,500 yen (tax included) in one branch. From November 2026 the tax comes back as an airport refund rather than a discount at the register.",
    "Store 6 on 3F and 4F is a separate shop in the same building, handling used anime figures and idol photos and goods (Nogizaka46, Sakurazaka46 and the like)."
+  ],
+  "ja": [
+   "駅から最も近く、小型フィギュアの品ぞろえが一番充実しているため、チェーン自身が案内する巡回ルートもこの店から始まります。",
+   "免税にはパスポートの原本と、1店舗で税込5,500円以上の購入が必要です。2026年11月からはレジでの値引きではなく、空港での払い戻しという形で税金が戻る方式に変わります。",
+   "3F・4Fの6号店は同じビルにありますが別の店舗で、中古アニメフィギュアと、乃木坂46・櫻坂46などのアイドル生写真・グッズを扱っています。"
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",

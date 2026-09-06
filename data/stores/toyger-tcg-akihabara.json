@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스 트레카 싱글과 자체 브랜드 슬리브·플레이매트, 24시까지 영업",
-  "en": "Pokemon and One Piece singles plus TOYGER's own sleeves and playmats; open until midnight"
+  "en": "Pokemon and One Piece singles plus TOYGER's own sleeves and playmats; open until midnight",
+  "ja": "ポケモン・ワンピースのシングルと自社ブランドのスリーブ・プレイマット、24時まで営業"
  },
  "building_id": "senju-building-7",
  "floors": [
@@ -70,7 +71,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 22:00까지. 공식 통판 사이트에는 점포 영업시간 안내가 아예 없고, 개점 때 점포 X 계정(@TOYGER_TCG)이 공지한 시간이 지금까지 나온 유일한 공식 안내다. 태풍 등으로 조기 폐점하는 날은 X로 공지되므로 방문 전 확인 권장",
-   "en": "Buyback desk closes at 22:00. The online-shop site carries no store hours at all; these are the times the shop announced on its own X account (@TOYGER_TCG) when it opened, the only official statement published so far. Early closings (typhoons and the like) are announced on X, so check before going"
+   "en": "Buyback desk closes at 22:00. The online-shop site carries no store hours at all; these are the times the shop announced on its own X account (@TOYGER_TCG) when it opened, the only official statement published so far. Early closings (typhoons and the like) are announced on X, so check before going",
+   "ja": "買取カウンターは22:00に終わります。通販サイトには店舗の営業時間がまったく載っておらず、この時間は開店の際に店の公式Xアカウント（@TOYGER_TCG）が告知したもので、今のところ唯一公表されている公式の案内です。台風などで早じまいする日はXで告知されるので、行く前に確認するのがおすすめです。"
   },
   "source_url": "https://x.com/TOYGER_TCG/status/1862293651449422136"
  },
@@ -86,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3b 출구에서 도보 2분, JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 서쪽에 면한 千住ビル 3층이며, 지하 1층은 리버티 1호점, 4층은 풀콤프 아키하바라점, 6층은 AKIBA-HOBBY가 들어선 세로형 잡거빌딩이다. 지도 앱과 OSM은 같은 건물을 恵光ビル로 표기하기도 한다. 2024년 8월 폐점한 겟츄야 아키바점 자리.",
-  "en": "Two minutes from exit 3b of Suehirocho Station (Ginza Line) and five from the JR Akihabara Electric Town exit. It is on 3F of the Senju Building on the west side of Chuo-dori, a stacked tenant block with Liberty No.1 in the basement (B1F), Fullcomp Akihabara on 4F and AKIBA-HOBBY on 6F; some maps and OSM label the same building Keiko Building. The unit is the former Getchu-ya Akiba, which closed in August 2024."
+  "en": "Two minutes from exit 3b of Suehirocho Station (Ginza Line) and five from the JR Akihabara Electric Town exit. It is on 3F of the Senju Building on the west side of Chuo-dori, a stacked tenant block with Liberty No.1 in the basement (B1F), Fullcomp Akihabara on 4F and AKIBA-HOBBY on 6F; some maps and OSM label the same building Keiko Building. The unit is the former Getchu-ya Akiba, which closed in August 2024.",
+  "ja": "東京メトロ銀座線の末広町駅3b出口から徒歩2分、JR秋葉原駅の電気街口からは徒歩5分です。中央通りの西側に面した千住ビル7の3Fで、B1Fにリバティー 秋葉原1号店、4Fにフルコンプ秋葉原店、6Fにアキバホビー秋葉原店が入る縦型の雑居ビルです。地図アプリやOSMでは、同じ建物を恵光ビルと表記していることもあります。この区画は2024年8月に閉店したGetchu-ya Akibaの跡です。"
  },
  "tips": {
   "ko": [
@@ -100,6 +103,12 @@
    "There is a free play space, announced as 24 seats at opening and later as up to 28; playmats are provided.",
    "It is the direct store of the TCG supply brand TOYGER, so you can pick its sleeves, deck cases and playmats off the shelf.",
    "The shop's X profile (@TOYGER_TCG) advertises tax-free sales and credit card, e-money, transit IC and QR payment, but no official web page states this."
+  ],
+  "ja": [
+   "24:00まで営業していて、秋葉原のカードショップでは最も遅くまで開いています。平日は15:00にならないと開かないので、昼間に行かないよう気をつけてください。",
+   "無料の対戦スペースがあり、開店時は24席、その後は最大28席と案内されています。プレイマットも用意されています。",
+   "TCGサプライブランドTOYGERの直営店なので、自社のスリーブやデッキケース、プレイマットを現物で選んで買えます。",
+   "店のXのプロフィール（@TOYGER_TCG）には免税販売とクレジットカード・電子マネー・交通系IC・QR決済への対応が書かれていますが、公式のウェブページには載っていません。"
   ]
  },
  "official_url": "https://toygertcg.com/",

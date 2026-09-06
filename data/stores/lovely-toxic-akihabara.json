@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "2026년 7월에 문을 연 아이돌×메이드 콘셉트 카페. 무대와 체키·오므라이스가 있다",
-  "en": "Idol-and-maid concept cafe that opened in July 2026, with a stage, cheki photos and omurice"
+  "en": "Idol-and-maid concept cafe that opened in July 2026, with a stage, cheki photos and omurice",
+  "ja": "2026年7月オープンのアイドル×メイドのコンセプトカフェ、ステージとチェキ・オムライス"
  },
  "building_id": "akiba-asobikan",
  "floors": [
@@ -53,7 +54,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 가드 아래 대형 오락실 실크햇 아키하바라를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리가 나오고, 왼편에 층마다 콘셉트 카페 간판이 세로로 붙은 7층 건물 아키바아소비관이 있다. 1층 노면 매장은 프라페코이고, 그 옆 엘리베이터나 계단으로 2층에 올라가면 이 가게다.",
-  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara, the arcade under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and the seven-storey Akiba Asobikan with its vertical column of concept-cafe signs is on the left. Frapeko fills the street-level unit; take the lift or stairs beside it to 2F."
+  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara, the arcade under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and the seven-storey Akiba Asobikan with its vertical column of concept-cafe signs is on the left. Frapeko fills the street-level unit; take the lift or stairs beside it to 2F.",
+  "ja": "JR秋葉原駅の電気街口から徒歩5分です。中央通りの高架下にあるゲームセンターのシルクハット秋葉原を過ぎ、3本目の路地を右（北）へ曲がると神田明神通りに出て、左手にコンセプトカフェの看板が縦に並ぶ7階建てのアキバあそび館があります。1Fの路面の区画はフラペコで、その横のエレベーターか階段で2Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -67,6 +69,12 @@
    "A first-visit rate of 1,500 yen for 40 minutes, described as all-inclusive, is announced on its X feed.",
    "Alongside original champagne and cast drinks there are name-decorated omurice and pancakes and a drawn-on cheki at 3,000 yen, all of which can also be ordered remotely through the shop's own BASE online shop.",
    "The same operator runs the sister shop Sugar Sweet in Akihabara and both sites use nearly the same design, which makes them easy to confuse."
+  ],
+  "ja": [
+   "公式サイトにも特定商取引法に基づく表記にも営業時間が書かれていません。その日に営業しているかどうかと開店時刻は、店のX（@LovelyToxic_akb）の固定ポストで確認してください。",
+   "初めてのお客さん向けに、すべて込みという40分1,500円の料金がXの告知で案内されています。",
+   "オリジナルシャンパンやキャストドリンクのほかに、名前を描いてくれるオムライスやパンケーキ、落書きチェキ（3,000円）があり、いずれも店の公式BASEオンラインショップから遠隔で注文することもできます。",
+   "同じ運営会社が秋葉原で姉妹店のシュガースイートも運営しており、サイトのデザインがほとんど同じなので混同しやすくなっています。"
   ]
  },
  "photo": null,

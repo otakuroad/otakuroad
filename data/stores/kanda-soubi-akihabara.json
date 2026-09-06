@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "중고 노트북·데스크톱과 OA기기를 다루는 정크 전문점. 주말 위주로 예약제로 연다",
-  "en": "A junk shop for used laptops, desktops and OA gear, opening mainly at weekends by reservation"
+  "en": "A junk shop for used laptops, desktops and OA gear, opening mainly at weekends by reservation",
+  "ja": "中古ノートPC・デスクトップとOA機器のジャンク専門店、主に土日に予約制で営業"
  },
  "building_id": "new-akihabara-center",
  "floors": [
@@ -52,7 +53,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 선로변 뉴 아키하바라 센터 빌딩의 간판 아래 통로로 들어가 안쪽 엘리베이터로 4층까지 올라가면 4층 2호실이다. 4층은 7~10평짜리 소형 임대 구획이 늘어선 층이라 문패를 보고 찾아야 한다.",
-  "en": "One minute from the JR Akihabara Electric Town Exit. Enter under the signboards of the New Akihabara Center Building beside the tracks, take the lift at the back up to 4F and look for room 2. The floor is a row of small leased units, so read the door plates."
+  "en": "One minute from the JR Akihabara Electric Town Exit. Enter under the signboards of the New Akihabara Center Building beside the tracks, take the lift at the back up to 4F and look for room 2. The floor is a row of small leased units, so read the door plates.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分です。線路沿いのニュー秋葉原センタービルの看板の下の通路から入り、奥のエレベーターで4Fまで上がって2号室を探します。4Fは小さな貸し区画が並ぶ階ですので、扉の表札を見ながら進んでください。"
  },
  "tips": {
   "ko": [
@@ -66,6 +68,12 @@
    "The earlier slots are booked through Air Reserve; from the 'free' time given in each post (14:00 Saturday and 13:00 Sunday in that example) you can walk in without a booking.",
    "The account name currently warns that the shop is closed for the whole of October 2026, so do not make the trip that month.",
    "Opened on 19 September 2020, it is the Kanda branch of K&N Ltd; the phone is 03-6811-6127. Photos inside are allowed, but photographing Windows licence stickers alone is banned."
+  ],
+  "ja": [
+   "営業日と時間は週ごとに変わり、その週の予定が公式Xに出ます。2026年9月5日（土）は10:00〜18:00、9月6日（日）は10:00〜17:00と案内されました。",
+   "前半の時間帯はAirリザーブの予約制で、告知に書かれた「フリー」の時刻（上の例では土曜は14時、日曜は13時）からは予約なしで入れます。",
+   "2026年10月は休業と公式Xのアカウント名に掲げられていますので、その月は足を運ばないようご注意ください。",
+   "2020年9月19日に開店したジャンク専門店で、有限会社K&Nの神田営業所です。問い合わせは03-6811-6127。店内の撮影はできますが、Windowsのライセンスシールだけを撮ることは禁止されています。"
   ]
  },
  "photo": null,

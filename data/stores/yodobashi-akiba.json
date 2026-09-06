@@ -47,7 +47,8 @@
  ],
  "one_line": {
   "ko": "6F 게임·완구 매장에서 프라모델·피규어·철도모형·트레카를 파는 역 앞 대형 전자상가",
-  "en": "Station-front electronics store; 6F games and toys has plamo, figures, train models, TCG"
+  "en": "Station-front electronics store; 6F games and toys has plamo, figures, train models, TCG",
+  "ja": "駅前の大型家電店。6Fのゲーム・玩具売り場にプラモデル、フィギュア、鉄道模型、トレカ"
  },
  "building_id": null,
  "floors": [
@@ -62,32 +63,38 @@
   {
    "floor": "1F",
    "ko": "휴대폰·통신, 노트북·데스크톱 PC, 태블릿, Apple 숍. 요도바시닷컴 주문 상품 수취 카운터와 골드포인트카드 플러스 카운터도 이 층",
-   "en": "Mobile phones and accessories, laptops and desktop PCs, tablets, Apple shop. The yodobashi.com order pickup counter and the Gold Point Card Plus counter are on this floor"
+   "en": "Mobile phones and accessories, laptops and desktop PCs, tablets, Apple shop. The yodobashi.com order pickup counter and the Gold Point Card Plus counter are on this floor",
+   "ja": "携帯電話・通信、ノートパソコンとデスクトップパソコン、タブレット、Appleショップです。ヨドバシ・ドット・コムの注文商品の受け取りカウンターとゴールドポイントカード・プラスのカウンターもこのフロアにあります。"
   },
   {
    "floor": "2F",
    "ko": "PC 주변기기·프린터·PC 액세서리, 게이밍 기기(VR·마우스·키보드·모니터·체어·헤드셋), PC 소프트와 PC용 게임 소프트, 전자문구·문방구(캐릭터 문구), 여행용품, 주류, AV 소프트(영상·음악). 매입 카운터와 래핑 카운터가 있다",
-   "en": "PC peripherals, printers and accessories, gaming gear (VR, mice, keyboards, monitors, chairs, headsets), PC software including PC games, electronic and general stationery (character stationery), travel goods, alcohol, video and music software. Buyback and gift-wrapping counters are here"
+   "en": "PC peripherals, printers and accessories, gaming gear (VR, mice, keyboards, monitors, chairs, headsets), PC software including PC games, electronic and general stationery (character stationery), travel goods, alcohol, video and music software. Buyback and gift-wrapping counters are here",
+   "ja": "パソコン周辺機器、プリンター、パソコンアクセサリー、ゲーミング機器（VR、マウス、キーボード、モニター、チェア、ヘッドセット）、PCゲームソフトを含むPCソフト、電子文具・文房具（キャラクター文具）、旅行用品、お酒、映像・音楽ソフトのフロアです。買取カウンターとラッピングカウンターもここにあります。"
   },
   {
    "floor": "3F",
    "ko": "필름·디지털·비디오 카메라와 교환렌즈, 사진 프린트, 시계·시계수리, 브랜드 잡화, 이·미용 가전, 화장품, 일용품, 의약품",
-   "en": "Film, digital and video cameras with lenses, photo printing, watches and watch repair, brand goods, beauty appliances, cosmetics, daily goods and pharmaceuticals"
+   "en": "Film, digital and video cameras with lenses, photo printing, watches and watch repair, brand goods, beauty appliances, cosmetics, daily goods and pharmaceuticals",
+   "ja": "フィルムカメラ、デジタルカメラ、ビデオカメラと交換レンズ、写真プリント、時計と時計修理、ブランド雑貨、理美容家電、化粧品、日用品、医薬品のフロアです。"
   },
   {
    "floor": "4F",
    "ko": "오디오(이어폰·헤드폰·스피커·DTM·DJ 기기), TV·블루레이 레코더·프로젝터, 악기(전자피아노·전자키보드·기타·베이스)",
-   "en": "Audio (earphones, headphones, speakers, DTM and DJ gear), TVs, Blu-ray recorders and projectors, musical instruments (digital pianos, keyboards, guitars, basses)"
+   "en": "Audio (earphones, headphones, speakers, DTM and DJ gear), TVs, Blu-ray recorders and projectors, musical instruments (digital pianos, keyboards, guitars, basses)",
+   "ja": "オーディオ（イヤホン、ヘッドホン、スピーカー、DTM・DJ機器）、テレビ、Blu-rayレコーダー、プロジェクター、楽器（電子ピアノ、電子キーボード、ギター、ベース）のフロアです。"
   },
   {
    "floor": "5F",
    "ko": "공조·주방·생활가전, 조명기구와 방범·방재 용품, 해외용 가전, 보청기",
-   "en": "Air conditioning, kitchen and household appliances, lighting, security and disaster-prep goods, appliances for overseas use, hearing aids"
+   "en": "Air conditioning, kitchen and household appliances, lighting, security and disaster-prep goods, appliances for overseas use, hearing aids",
+   "ja": "空調・キッチン・生活家電、照明器具、防犯・防災用品、海外向け家電、補聴器のフロアです。"
   },
   {
    "floor": "6F",
    "ko": "게임(본체·소프트·주변기기·공략본·e스포츠)과 완구·호비 매장: 프라모델과 프라모델용 공구, 피규어, 철도모형, 라디콘, 트레이딩 카드, 가챠가챠, 크레인게임, 보드게임, 캐릭터 굿즈, 식완, 봉제인형, 퍼즐. 같은 층에 자전거·피트니스·아웃도어 용품 코너도 있다",
-   "en": "Games (consoles, software, accessories, strategy guides, esports) plus the toy and hobby section: plastic model kits and modelling tools, figures, model trains, RC, trading cards, gacha machines, crane games, board games, character goods, candy toys, plush and puzzles. Bicycles, fitness and outdoor gear share the floor"
+   "en": "Games (consoles, software, accessories, strategy guides, esports) plus the toy and hobby section: plastic model kits and modelling tools, figures, model trains, RC, trading cards, gacha machines, crane games, board games, character goods, candy toys, plush and puzzles. Bicycles, fitness and outdoor gear share the floor",
+   "ja": "ゲーム（本体、ソフト、周辺機器、攻略本、eスポーツ）と玩具・ホビーの売り場で、プラモデルとプラモデル用の工具、フィギュア、鉄道模型、ラジコン、トレーディングカード、ガチャガチャ、クレーンゲーム、ボードゲーム、キャラクターグッズ、食玩、ぬいぐるみ、パズルが並びます。自転車、フィットネス、アウトドア用品も同じフロアです。"
   }
  ],
  "location": {
@@ -116,7 +123,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매장(1F~6F)은 전층 9:30–22:00, 공식 페이지에 정기휴일 표기 없음(연중무휴). 같은 건물이라도 B1F·7F 전문점 층은 9:30–22:00, 8F 레스토랑가는 11:00–23:00, 9F 골프숍은 11:00–22:00, 골프연습장·배팅센터는 10:30–23:00으로 다르다. 공식 페이지에 '시간외 수취 카운터 있음' 안내가 있다.",
-   "en": "The store (1F-6F) runs 9:30-22:00 on every floor and the official page lists no regular closing day. In the same building the B1F and 7F specialty floors run 9:30-22:00, the 8F restaurant floor 11:00-23:00, the 9F golf shop 11:00-22:00, and the golf range and batting centre 10:30-23:00. The official page notes an after-hours pickup counter."
+   "en": "The store (1F-6F) runs 9:30-22:00 on every floor and the official page lists no regular closing day. In the same building the B1F and 7F specialty floors run 9:30-22:00, the 8F restaurant floor 11:00-23:00, the 9F golf shop 11:00-22:00, and the golf range and batting centre 10:30-23:00. The official page notes an after-hours pickup counter.",
+   "ja": "売り場（1F〜6F）は全フロア9:30〜22:00で、公式ページに定休日の記載はありません。同じ建物でもB1F・7Fの専門店フロアは9:30〜22:00、8Fのレストラン街は11:00〜23:00、9Fのゴルフショップは11:00〜22:00、ゴルフ練習場とバッティングセンターは10:30〜23:00です。公式ページには時間外の受け取りカウンターがあると書かれています。"
   },
   "source_url": "https://www.yodobashi.com/ec/store/0018/"
  },
@@ -132,7 +140,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 쇼와도리 출구(昭和通り口)에서 도보 1분. 역 동쪽에 붙어 선 지상 9층 건물로 상층부에 ヨドバシAkiba 간판이 크게 붙어 있고, 공식 안내는 아키하바라역 5개 노선과 직결이라고 적고 있다. 역 쪽 1F 입구로 들어가 에스컬레이터나 엘리베이터로 6F까지 올라가면 게임·완구 매장이다.",
-  "en": "One minute on foot from the JR Akihabara Showa-dori exit: the nine-storey block on the east side of the station with the ヨドバシAkiba sign high on the facade, which the operator lists as connected to all five Akihabara station lines. Enter on 1F on the station side and ride the escalator or lift to 6F for the games and toys section."
+  "en": "One minute on foot from the JR Akihabara Showa-dori exit: the nine-storey block on the east side of the station with the ヨドバシAkiba sign high on the facade, which the operator lists as connected to all five Akihabara station lines. Enter on 1F on the station side and ride the escalator or lift to 6F for the games and toys section.",
+  "ja": "JR秋葉原駅昭和通り口から徒歩1分、駅の東側に建つ地上9階の建物で、上の方にヨドバシAkibaの看板が大きく付いています。運営会社は秋葉原駅の5路線と直結していると案内しています。駅側の1Fの入口から入り、エスカレーターかエレベーターで6Fへ上がるとゲーム・玩具の売り場です。"
  },
  "tips": {
   "ko": [
@@ -146,6 +155,12 @@
    "It stays open until 22:00, so it is one of the few places in Akihabara where you can still browse plastic models and trading cards after the Chuo-dori goods shops close at 20:00.",
    "Hours differ by floor in the same building: B1F and 7F specialty shops 9:30-22:00, 8F restaurants 11:00-23:00, 9F golf shop 11:00-22:00, golf range and batting centre 10:30-23:00.",
    "The official pages say nothing about tax-free service, so bring your passport and ask at the register. There is a buyback counter on 2F and a yodobashi.com order pickup counter on 1F."
+  ],
+  "ja": [
+   "6Fが目当てなら、1Fの入口からエスカレーターかエレベーターでそのまま上がってください。自転車やフィットネス、アウトドア用品もゲーム・玩具と同じフロアにあります。",
+   "22:00まで開いているので、中央通りのグッズ店が20:00に閉まったあとでもプラモデルやトレカを見られる数少ない店です。",
+   "同じ建物でもフロアごとに営業時間が違います。B1F・7Fの専門店は9:30〜22:00、8Fのレストラン街は11:00〜23:00、9Fのゴルフショップは11:00〜22:00、ゴルフ練習場とバッティングセンターは10:30〜23:00です。",
+   "免税に対応しているかどうかは公式ページに案内がないので、パスポートを持参してレジで確認してください。2Fに買取カウンター、1Fにヨドバシ・ドット・コムの注文商品の受け取りカウンターがあります。"
   ]
  },
  "official_url": "https://www.yodobashi.com/ec/store/0018/",

@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "애니 콜라보 티셔츠·개그 티셔츠와 밀리터리·구제 의류, 에코백을 파는 1·2층 의류점",
-  "en": "Anime-collaboration and gag T-shirts, hoodies, military and used clothing and eco bags over two floors"
+  "en": "Anime-collaboration and gag T-shirts, hoodies, military and used clothing and eco bags over two floors",
+  "ja": "アニメコラボ・ギャグTシャツやパーカー、ミリタリー・古着とエコバッグの1・2F衣料店"
  },
  "building_id": null,
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트 표기는 11:00~20:00, 정기휴일 없음. 임시 휴업은 공식 X(@kamikaze_akiba)에 공지된다.",
-   "en": "The official site gives 11:00-20:00 with no regular closing day; temporary closures are posted on X (@kamikaze_akiba)."
+   "en": "The official site gives 11:00-20:00 with no regular closing day; temporary closures are posted on X (@kamikaze_akiba).",
+   "ja": "公式サイトの表記は11:00〜20:00で、定休日はありません。臨時休業は公式X（@kamikaze_akiba）で告知されます。"
   },
   "source_url": "https://kamikazestyle.com/"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 3분, 주오도리 두 블록 서쪽의 외신전 3-6번지 블록. 5층짜리 아데가와(阿出川) 빌딩 1·2층을 쓰는 노면 점포이며, 같은 블록 쇼헤이바시도리 쪽 마루야마 빌딩(1층 신소쿠 매입센터)에서 남동쪽으로 30m 남짓이다. 한 블록 동쪽 잔크도리의 하드오프·호비오프에서도 걸어서 1분.",
-  "en": "Three minutes from exit 3 of Tokyo Metro Suehirocho on the Ginza line, in the 3-6 block two blocks west of Chuo-dori. It occupies 1F and 2F of the five-storey Adegawa Building and is entered at street level, about 30 m southeast of the Maruyama Building (Shinsoku buying centre on its ground floor) on Shohei-bashi-dori. Hard Off and Hobby Off on Junk Street, one block east, are a minute away."
+  "en": "Three minutes from exit 3 of Tokyo Metro Suehirocho on the Ginza line, in the 3-6 block two blocks west of Chuo-dori. It occupies 1F and 2F of the five-storey Adegawa Building and is entered at street level, about 30 m southeast of the Maruyama Building (Shinsoku buying centre on its ground floor) on Shohei-bashi-dori. Hard Off and Hobby Off on Junk Street, one block east, are a minute away.",
+  "ja": "東京メトロ銀座線の末広町駅3番出口から徒歩3分、中央通りから2ブロック西の外神田3-6のブロックです。5階建ての阿出川ビルの1Fと2Fを使う路面店で、昌平橋通り沿いの丸山ビル（1Fにシンソク秋葉原買取センター）から南東へ30mほどの場所にあります。1ブロック東のジャンク通りにあるハードオフ・ホビーオフからも徒歩1分です。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,12 @@
    "Open every day 11:00-20:00 — late enough for an evening stop, but it does close at 20:00.",
    "In-store payment methods and tax-free service are not stated on the official site, so bring cash to be safe.",
    "Sold-out designs are often still available from the shop's official Rakuten, Amazon and Yahoo Shopping stores."
+  ],
+  "ja": [
+   "アニメコラボやギャグプリントのTシャツが主力ですが、ミリタリー衣料や雑貨も同じ売り場に混ざっていますので、キャラクター商品だけをお探しなら陳列棚を種類で分けて見るほうが早いです。",
+   "年中無休で11:00〜20:00の営業です。夕方に立ち寄れる程度には遅くまで開いていますが、20:00に閉まる点はご注意ください。",
+   "店頭の支払い方法と免税の対応は公式サイトに記載がありませんので、現金を用意しておくほうが安心です。",
+   "売り切れたデザインは、楽天・Amazon・Yahoo!ショッピングの公式オンラインストアに残っていることがあります。"
   ]
  },
  "official_url": "https://kamikazestyle.com/",

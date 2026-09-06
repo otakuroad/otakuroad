@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "구판(구 뒷면)부터 최신 확장팩까지 포켓몬 카드만 사고파는 전문점",
-  "en": "Pokemon-cards-only shop buying and selling everything from old-back cards to the newest sets"
+  "en": "Pokemon-cards-only shop buying and selling everything from old-back cards to the newest sets",
+  "ja": "旧裏面から最新の拡張パックまでポケモンカードだけを売買する専門店"
  },
  "building_id": "asano-building",
  "floors": [
@@ -66,7 +67,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포 공식 X 프로필(@ninnin_akiba2)에 적힌 평일 13:00~20:00, 토·일·공휴일 11:00~20:00 기준이다. 체인 공식 사이트 머리글의 '연중무휴 접수 13:00-20:00'은 대표 전화(1호점) 기준이라 2호점 영업시간과는 다르다.",
-   "en": "These are the hours on the shop's own X profile (@ninnin_akiba2): 13:00-20:00 on weekdays, 11:00-20:00 on Saturdays, Sundays and public holidays. The '13:00-20:00, open all year' line in the chain site header is the main (Store 1) phone desk, not this branch."
+   "en": "These are the hours on the shop's own X profile (@ninnin_akiba2): 13:00-20:00 on weekdays, 11:00-20:00 on Saturdays, Sundays and public holidays. The '13:00-20:00, open all year' line in the chain site header is the main (Store 1) phone desk, not this branch.",
+   "ja": "店の公式Xプロフィール（@ninnin_akiba2）に載っている平日13:00-20:00、土日祝11:00-20:00が基準です。チェーンのサイトのヘッダーにある年中無休13:00-20:00という一文は代表電話（1号店）のもので、この店のものではありません。"
   },
   "source_url": "https://x.com/ninnin_akiba2"
  },
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리를 따라 남쪽으로 약 100m, 아파호텔 〈아키하바라 스에히로초 에키마에〉 바로 북쪽에 붙은 좁은 6층 건물 아사노 빌딩 2층. JR 아키하바라역 전기가 출구에서는 주오도리를 따라 북쪽으로 도보 5분이다. 1층 노면의 PDG 컬렉터스 숍 3호점 간판이 표식이고, 그 옆 건물 입구로 들어가 2층으로 올라간다.",
-  "en": "About 100 m south of Tokyo Metro Ginza Line Suehirocho along Chuo-dori, in the narrow six-storey Asano Building immediately north of the APA Hotel Akihabara Suehirocho-Ekimae; from the JR Electric Town Exit it is five minutes north along Chuo-dori. The street-level PDG Collector's Shop No.3 sign marks the spot - go in through the building entrance beside it and up to 2F."
+  "en": "About 100 m south of Tokyo Metro Ginza Line Suehirocho along Chuo-dori, in the narrow six-storey Asano Building immediately north of the APA Hotel Akihabara Suehirocho-Ekimae; from the JR Electric Town Exit it is five minutes north along Chuo-dori. The street-level PDG Collector's Shop No.3 sign marks the spot - go in through the building entrance beside it and up to 2F.",
+  "ja": "東京メトロ銀座線末広町駅から中央通りを南に約100m、アパホテル〈秋葉原末広町駅前〉のすぐ北隣に建つ細長い6階建ての麻野ビルの2Fです。JR秋葉原駅の電気街口からは中央通りを北へ徒歩5分です。1Fの路面にあるPDG collector's shop 秋葉原3号店の看板が目印で、その脇のビルの入口から入って2Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -96,6 +99,12 @@
    "It opens at 13:00 on weekdays and only at 11:00 on Saturdays, Sundays and holidays, so a morning visit has to be at the weekend.",
    "A Pokemon-card specialist - the chain's own store list gives its handled title simply as 'Pokemon'. Phone 03-3527-1320.",
    "Mail-in buyback is arranged through the chain site (nin-nin-pokeka.jp), and the shop says large lots of old-back and old-set cards are welcome."
+  ],
+  "ja": [
+   "外神田3-8-7のフジビル2Fにある1号店とは別の店舗です。2号店は旧裏面から最新の拡張パックまで揃う旧弾コーナーと特価コーナーを前面に出しています。",
+   "平日は13:00に開店し、11:00に開くのは土日祝だけなので、午前中に行くなら週末になります。",
+   "チェーンの店舗一覧で取扱タイトルがポケモンとだけ書かれているポケモンカードの専門店です。電話は03-3527-1320です。",
+   "宅配買取はチェーンのサイト（nin-nin-pokeka.jp）で受け付けており、旧裏面や旧弾をまとめて持ち込んでも歓迎すると案内しています。"
   ]
  },
  "photo": null,

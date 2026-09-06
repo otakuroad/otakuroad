@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "진공관·저항·커넥터 등 전자부품 노점 약 36곳이 B1~3층에 모인 부품 상가",
-  "en": "About 36 electronic-parts stalls over B1F-3F: vacuum tubes, resistors, connectors"
+  "en": "About 36 electronic-parts stalls over B1F-3F: vacuum tubes, resistors, connectors",
+  "ja": "真空管・抵抗・コネクタなど電子部品の売り場約36軒がB1F〜3Fに集まる部品ビル"
  },
  "building_id": null,
  "floors": [
@@ -42,22 +43,26 @@
   {
    "floor": "B1F",
    "ko": "중고·정크 PC와 부품, 전원 트랜스 매장(秋葉原最終処分場, ゼネラルトランス販売, 湘南通商 등)",
-   "en": "Used and junk PCs, parts and transformers (Akihabara Saishu Shobunjo, General Trans Hanbai, Shonan Tsusho and others)"
+   "en": "Used and junk PCs, parts and transformers (Akihabara Saishu Shobunjo, General Trans Hanbai, Shonan Tsusho and others)",
+   "ja": "中古・ジャンクのPCや部品、トランスの売り場（秋葉原最終処分場、ゼネラルトランス販売、湘南通商など）があります。"
   },
   {
    "floor": "1F",
    "ko": "케이스·섀시(奥澤), LED와 일반 전자부품(サンライズ, パーツランド), 마이크로파·고주파 부품, 마이컴·전자공작 키트(PCN秋葉原, Shigezone), PC 주변기기(家電のケンちゃん)",
-   "en": "Cases and chassis (Okuzawa), LEDs and general parts (Sunrise, Parts Land), microwave and RF components, microcontroller and maker kits (PCN Akihabara, Shigezone) and PC peripherals (Kaden no Ken-chan)"
+   "en": "Cases and chassis (Okuzawa), LEDs and general parts (Sunrise, Parts Land), microwave and RF components, microcontroller and maker kits (PCN Akihabara, Shigezone) and PC peripherals (Kaden no Ken-chan)",
+   "ja": "ケースやシャーシ（奥澤）、LEDと一般の電子部品（サンライズ、パーツランド）、マイクロ波・高周波部品、マイコンや電子工作キット（PCN秋葉原、Shigezone）、PC周辺機器（家電のケンちゃん）が並びます。"
   },
   {
    "floor": "2F",
    "ko": "진공관 전문점(真空管長谷川, 桜屋電機2F店), 저항·콘덴서 등 오디오 부품(海神無線), 케이스·기판 재료(エスエス無線), 그리고 오타마톤으로 알려진 明和電機 매장",
-   "en": "Vacuum-tube specialists (Shinkukan Hasegawa, Sakuraya Denki 2F), resistors, capacitors and audio parts (Kaijin Musen), cases and board materials (SS Musen), and the Maywa Denki nonsense-instrument shop known for the Otamatone"
+   "en": "Vacuum-tube specialists (Shinkukan Hasegawa, Sakuraya Denki 2F), resistors, capacitors and audio parts (Kaijin Musen), cases and board materials (SS Musen), and the Maywa Denki nonsense-instrument shop known for the Otamatone",
+   "ja": "真空管の専門店（真空管長谷川、桜屋電機2F店）、抵抗やコンデンサーなどのオーディオ部品（海神無線）、ケースと基板材料（エスエス無線）、そしてオタマトーンで知られる明和電機のナンセンス楽器の店があります。"
   },
   {
    "floor": "3F",
    "ko": "특수 전자부품(斉藤電気商会), 수입 진공관과 부품(サンエイ電機), AC 어댑터·팬·오디오 플러그(平澤電気), 중고 PC 부품(AKIBAJUNKS)",
-   "en": "Special electronic components (Saito Denki Shokai), imported vacuum tubes and parts (San-ei Denki), AC adapters, fans and audio plugs (Hirasawa Denki) and used PC parts (AKIBAJUNKS)"
+   "en": "Special electronic components (Saito Denki Shokai), imported vacuum tubes and parts (San-ei Denki), AC adapters, fans and audio plugs (Hirasawa Denki) and used PC parts (AKIBAJUNKS)",
+   "ja": "特殊な電子部品（斉藤電気商会）、輸入の真空管と部品（サンエイ電機）、ACアダプターやファン、オーディオプラグ（平澤電気）、中古のPCパーツ（AKIBAJUNKS）が入っています。"
   }
  ],
  "location": {
@@ -86,7 +91,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "건물 안내는 10:00~19:00이지만 공식 페이지도 '점포마다 다르니 각 매장에 직접 확인하라'고 적고 있다. 정기휴일은 명시돼 있지 않다.",
-   "en": "The building lists 10:00-19:00 but the official page itself says hours differ by tenant and asks you to check with each shop. No regular holiday is stated."
+   "en": "The building lists 10:00-19:00 but the official page itself says hours differ by tenant and asks you to check with each shop. No regular holiday is stated.",
+   "ja": "建物の案内は10:00〜19:00ですが、公式ページ自体が営業時間は店舗ごとに異なるとして、各店に直接確認するよう求めています。定休日の記載はありません。"
   },
   "source_url": "https://www.tokyoradiodepart.co.jp/access.html"
  },
@@ -102,7 +108,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 개찰을 오른쪽으로 나오면 바로 앞에 광장이 있고, 거기서 왼쪽으로 걷는다. 큰길 위를 지나는 소부선 고가가 표식이며 그 아래 횡단보도를 건너면 맞은편에 건물이 보인다. 공식 안내로 도보 2분.",
-  "en": "Leave the JR Akihabara Electric Town ticket gate to the right; the plaza is straight ahead, and from there you walk left. The Sobu-line viaduct over the main road is the landmark - cross at the crossing beneath it and the building is on the far side. The official page calls it a two-minute walk."
+  "en": "Leave the JR Akihabara Electric Town ticket gate to the right; the plaza is straight ahead, and from there you walk left. The Sobu-line viaduct over the main road is the landmark - cross at the crossing beneath it and the building is on the far side. The official page calls it a two-minute walk.",
+  "ja": "JR秋葉原駅の電気街口の改札を右に出ると正面に広場があり、そこから左へ歩きます。大通りをまたぐ総武線の高架が目印で、その下の横断歩道を渡ると向かい側に建物が見えます。公式の案内では徒歩2分です。"
  },
  "tips": {
   "ko": [
@@ -114,6 +121,11 @@
    "Floor after floor of one- and two-metre parts counters. There is no anime or game retail here: it is vacuum tubes, resistors, connectors and maker kits, a shopping stop rather than a sightseeing one.",
    "The Maywa Denki shop on 2F sells nonsense instruments such as the Otamatone and its goods, worth a look even if you do not solder.",
    "The building runs 10:00-19:00 but each stall keeps its own hours and holidays, so many counters are shut in the evening."
+  ],
+  "ja": [
+   "幅1〜2mの部品売り場が各フロアにびっしり並ぶ建物です。アニメやゲームの商品はなく、真空管や抵抗、コネクタ、工作キットが中心で、観光よりも部品の買い出し向けです。",
+   "2Fの明和電機の店舗では、オタマトーンのようなナンセンス楽器とグッズを販売しており、電子工作に縁がなくても見る価値があります。",
+   "建物全体は10:00〜19:00ですが、売り場ごとに営業時間や休みが違うため、夕方には閉まっているところが多くあります。"
   ]
  },
  "official_url": "https://www.tokyoradiodepart.co.jp/",

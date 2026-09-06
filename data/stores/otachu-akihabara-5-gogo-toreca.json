@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "지하 1층 트레카 전문점. 포켓몬·원피스 카드 싱글·박스와 32석 대전 공간",
-  "en": "Basement card shop for Pokemon and One Piece singles and boxes, with a 32-seat duel space"
+  "en": "Basement card shop for Pokemon and One Piece singles and boxes, with a 32-seat duel space",
+  "ja": "B1Fのトレカ店、ポケモン・ワンピースのシングルやボックスと32席のデュエルスペース"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "체인 공식 점포 페이지에 연중무휴 11:00~20:00으로 실려 있다. 대회 일정과 임시 휴업은 공식 사이트의 대회 이벤트 스케줄과 X(@otachu_akiba0)에서 확인.",
-   "en": "The chain's official store page lists it as open year-round, 11:00-20:00. Tournament dates and temporary closures are listed on the official site's event schedule and on X (@otachu_akiba0)."
+   "en": "The chain's official store page lists it as open year-round, 11:00-20:00. Tournament dates and temporary closures are listed on the official site's event schedule and on X (@otachu_akiba0).",
+   "ja": "チェーンの公式店舗ページには年中無休11:00〜20:00と載っています。大会の日程や臨時休業は、公式サイトのイベントスケジュールとX（@otachu_akiba0）に載ります。"
   },
   "source_url": "https://otachu-akiba.com/1gocard/"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 7분. 주오도리 서쪽 뒷골목의 스에히로(末広) 빌딩 지하 1층으로, 1층에는 중고 완구점 정글(ジャングル)이 있다. 건물 옆 계단으로 내려간다.",
-  "en": "Seven minutes from the JR Akihabara Electric Town Exit, in the basement of the Suehiro Building on the back street west of Chuo-dori; the used-toy shop Jungle occupies its ground floor. Take the stairs down beside the entrance."
+  "en": "Seven minutes from the JR Akihabara Electric Town Exit, in the basement of the Suehiro Building on the back street west of Chuo-dori; the used-toy shop Jungle occupies its ground floor. Take the stairs down beside the entrance.",
+  "ja": "JR秋葉原駅電気街口から徒歩7分、中央通りの西側の裏通りに建つ末広ビルのB1Fで、1Fには中古玩具店のジャングルが入っています。入口の脇の階段から下ります。"
  },
  "tips": {
   "ko": [
@@ -104,6 +108,13 @@
    "The basement floorplate is large and stock is deep. Card Shop Hanjo shares the same basement, which makes price comparison easy.",
    "Cash, credit cards and e-money are accepted. Tax-free is not advertised.",
    "It opened as the No.0 branch, was renumbered No.5 and absorbed the old No.1 card store - which is why the official URL is still /1gocard."
+  ],
+  "ja": [
+   "32席のデュエルスペースがあり、ポケモンとワンピースの大会が頻繁に開かれるので、大会の時間帯は席が埋まります。日程は公式サイトの大会イベントスケジュールで確認してください。",
+   "扱うタイトルにはポケモンカードゲーム、ワンピースカードゲーム、遊戯王、ヴァイスシュヴァルツ、ドラゴンボールスーパーダイバーズなどがあります。",
+   "地下の売り場は広く在庫も豊富です。同じ地下にカードショップはんじょう 秋葉原があるので、相場を比べやすいです。",
+   "現金、クレジットカード、電子マネーが使えます。免税の案内はありません。",
+   "もともと0号店として開店し、5号店に番号が変わって旧1号店のカード館を吸収しました。公式のURLがいまも/1gocardなのはそのためです。"
   ]
  },
  "official_url": "https://otachu-akiba.com/1gocard/",

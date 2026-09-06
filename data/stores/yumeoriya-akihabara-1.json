@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "1990~2000년대 헤이세이 애니·게임 중고 굿즈를 모은 소형 레트로 전문점",
-  "en": "Small retro shop for used 1990s-2000s Heisei anime and game merchandise"
+  "en": "Small retro shop for used 1990s-2000s Heisei anime and game merchandise",
+  "ja": "1990〜2000年代の平成アニメ・ゲームの中古グッズを集めた小さなレトロ専門店"
  },
  "building_id": null,
  "floors": [
@@ -65,7 +66,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://www.yumeoriya.jp/store/"
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 전자상가에서 남쪽으로 간다강을 건넌 간다스다초 2초메, 후쿠신(福信) 빌딩 1층. JR 아키하바라역에서 도보 4분 정도이며 도영 이와모토초역에서도 가깝다. 1990~2000년대 아키하바라 소형 점포의 분위기를 재현한 좁은 매장이다.",
-  "en": "In Kanda-Sudacho 2-chome, south across the Kanda river from the Electric Town, on the ground floor of the Fukushin Building. About four minutes on foot from JR Akihabara, and close to Iwamotocho on the Toei line. The narrow interior recreates a small 1990s-2000s Akihabara shop."
+  "en": "In Kanda-Sudacho 2-chome, south across the Kanda river from the Electric Town, on the ground floor of the Fukushin Building. About four minutes on foot from JR Akihabara, and close to Iwamotocho on the Toei line. The narrow interior recreates a small 1990s-2000s Akihabara shop.",
+  "ja": "電気街から神田川を渡って南へ行った神田須田町2丁目、福信ビルの1Fです。JR秋葉原駅から徒歩4分ほどで、都営線の岩本町駅からも近い場所にあります。狭い店内は1990〜2000年代の秋葉原の小さな店を再現しています。"
  },
  "tips": {
   "ko": [
@@ -96,6 +99,12 @@
    "It buys as well as sells, so it also works if you are clearing out goods from the same era.",
    "The shop here is the No.1 branch's new building, open since 4 October 2025; the old building traded for the last time on 24 November 2025.",
    "Sister shops No.2 (Yumeoriya Cute, girls' toys) and No.3 (Yumeoriya Kids, boys' toys) carry completely different stock."
+  ],
+  "ja": [
+   "サクラ大戦、ときめきメモリアル、Key、Leaf、京都アニメーション、デ・ジ・キャラットといった平成の初期から中期の作品に特化しています。",
+   "販売だけでなく買取も行っているので、同じ年代のグッズを整理したいときにも使えます。",
+   "ここにあるのは2025年10月4日に開いた1号店の新館で、旧館は2025年11月24日に営業を終えました。",
+   "姉妹店の2号店（夢織屋きゅ〜と、女児向け玩具）と3号店（夢織屋キッズ、男児向け玩具）は扱う商品がまったく違います。"
   ]
  },
  "official_url": "https://www.yumeoriya.jp/",

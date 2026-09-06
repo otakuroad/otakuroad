@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드·원피스 카드 중심의 트레카 전문점, 쇼헤이바시도리 1층",
-  "en": "Trading card shop on Shohei-bashi-dori dealing mainly in Pokemon and One Piece cards"
+  "en": "Trading card shop on Shohei-bashi-dori dealing mainly in Pokemon and One Piece cards",
+  "ja": "昌平橋通り沿いの、ポケモンカードとワンピースカード中心のトレカ店"
  },
  "building_id": null,
  "floors": [
@@ -71,11 +72,13 @@
   ],
   "regular_holiday": {
    "ko": "수요일 정기휴무",
-   "en": "Closed on Wednesdays"
+   "en": "Closed on Wednesdays",
+   "ja": "水曜定休"
   },
   "note": {
    "ko": "영업시간은 공식 X(@chase_akiba) 프로필 기준. 트레카 디렉터리에는 일요일 개점이 13:00으로 실려 있어 일요일 오전에 가려면 확인이 필요하다.",
-   "en": "Hours follow the shop's own X profile (@chase_akiba); one card-shop directory lists a 13:00 Sunday opening instead, so check before an early Sunday visit."
+   "en": "Hours follow the shop's own X profile (@chase_akiba); one card-shop directory lists a 13:00 Sunday opening instead, so check before an early Sunday visit.",
+   "ja": "営業時間は店舗の公式X（@chase_akiba）のプロフィールに基づいています。あるカードショップのディレクトリでは日曜の開店が13:00となっているので、日曜の午前中に行くなら確認してください。"
   },
   "source_url": "https://x.com/chase_akiba"
  },
@@ -91,12 +94,14 @@
   "effective_date": "2026-08-08",
   "note": {
    "ko": "2026년 8월 8일 개점. 옛 전자부품점 타카히로전자(다카츠키무선) 자리라 오래된 지도에는 아직 전자부품점으로 표시된다.",
-   "en": "Opened on 8 August 2026 in the former Takahiro Denshi (Takatsuki Musen) electronics-parts shop, which older maps still show at this spot."
+   "en": "Opened on 8 August 2026 in the former Takahiro Denshi (Takatsuki Musen) electronics-parts shop, which older maps still show at this spot.",
+   "ja": "2026年8月8日に開店しました。電子部品店だったタカヒロ電子（高槻無線）の跡地で、古い地図にはまだ電子部品店として表示されています。"
   }
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 약 5분, 오차노미즈역에서도 도보 5분 거리의 쇼헤이바시도리 서쪽 편. 전자부품점 타카히로전자가 있던 1층 점포 자리이며, 북쪽으로 30m쯤에 PC 매장 오리오스펙이 있다.",
-  "en": "About five minutes from the JR Akihabara Electric Town exit, and five from Ochanomizu, on Shohei-bashi-dori. It occupies the ground-floor unit that used to be the Takahiro Denshi parts shop, roughly 30 m south of the PC shop Oliospec."
+  "en": "About five minutes from the JR Akihabara Electric Town exit, and five from Ochanomizu, on Shohei-bashi-dori. It occupies the ground-floor unit that used to be the Takahiro Denshi parts shop, roughly 30 m south of the PC shop Oliospec.",
+  "ja": "JR秋葉原駅の電気街口から徒歩約5分、御茶ノ水駅からも徒歩5分の昌平橋通り沿いです。PCショップのオリオスペックから南へ30mほどの場所で、以前は電子部品店のタカヒロ電子が入っていた1階の区画です。"
  },
  "tips": {
   "ko": [
@@ -110,6 +115,12 @@
    "The focus is Pokemon and One Piece cards, and the shop buys cards over the counter. There is no duel space for play.",
    "A card-shop directory lists cash as the only payment method, so bring cash to be safe.",
    "It opened in August 2026, so addresses and hours still differ between sites - check the official X account before going."
+  ],
+  "ja": [
+   "水曜が定休日で、平日の開店は13:00と遅めです。土日祝は12:00に開きます。",
+   "ポケモンカードとワンピースカードが中心で、店頭買取も受け付けています。対戦用のデュエルスペースはありません。",
+   "カードショップのディレクトリには支払い方法が現金のみと記載されているので、現金を用意していくと安心です。",
+   "2026年8月に開店したため、住所や営業時間の情報がサイトによって異なります。行く前に公式Xを確認してください。"
   ]
  },
  "official_url": null,

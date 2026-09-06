@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "가면라이더 전문점. DX 변신벨트·CSM·S.H.피규어아츠·소프비·일번쿠지 취급",
-  "en": "Kamen Rider specialty shop: DX henshin belts, CSM, S.H.Figuarts, sofubi and Ichiban Kuji"
+  "en": "Kamen Rider specialty shop: DX henshin belts, CSM, S.H.Figuarts, sofubi and Ichiban Kuji",
+  "ja": "仮面ライダー専門店、DX変身ベルトやCSM、S.H.Figuarts、ソフビ、一番くじ"
  },
  "building_id": "akihabara-nomura-building",
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "체인 공식 점포 페이지에 연중무휴 11:00~20:00으로 실려 있다. 같은 건물 아래층의 카드킹덤·호비랜드 포치와 영업시간이 다르다.",
-   "en": "The chain's official store page lists it as open year-round, 11:00-20:00, different from Card Kingdom and Hobby Land Pochi on the lower floors of the same building."
+   "en": "The chain's official store page lists it as open year-round, 11:00-20:00, different from Card Kingdom and Hobby Land Pochi on the lower floors of the same building.",
+   "ja": "チェーンの公式店舗ページには年中無休11:00〜20:00と載っており、同じビルの下の階に入るカードキングダムやホビーランドぽちとは営業時間が違います。"
   },
   "source_url": "https://otachu-akiba.com/3go/"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, AKIHABARA 게이머즈 본점 옆 아키하바라 노무라 빌딩 8층. 1층 카드킹덤 옆 건물 엘리베이터로 8층까지 올라간다.",
-  "en": "One minute from JR Akihabara's Electric Town Exit, on 8F of the Akihabara Nomura Building next to AKIHABARA Gamers. Take the building elevator beside the 1F Card Kingdom up to 8F."
+  "en": "One minute from JR Akihabara's Electric Town Exit, on 8F of the Akihabara Nomura Building next to AKIHABARA Gamers. Take the building elevator beside the 1F Card Kingdom up to 8F.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分、AKIHABARAゲーマーズ本店の隣に建つ秋葉原野村ビルの8Fです。1Fのカードキングダムの脇にあるビルのエレベーターで8Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,11 @@
    "The only Kamen-Rider-only shop in Akihabara, so complete used DX henshin belts and CSM sets can be compared side by side.",
    "Besides cash it takes VISA, Mastercard, JCB, AMEX, Diners, Discover and UnionPay, transit IC (Suica/PASMO), iD, Edy, QUICPay, nanaco, WAON, PayPay and Alipay.",
    "It also buys items in. The sibling No.4 store (1-15-9, 7F of the Ichigo Akihabara Ekimae Building) is a Gundam and Gunpla specialist and pairs well with a visit here."
+  ],
+  "ja": [
+   "秋葉原で仮面ライダーだけを扱う唯一の店なので、DX変身ベルトやCSMの完品の中古を並べて見比べられます。",
+   "現金のほか、VISA、Mastercard、JCB、AMEX、ダイナース、Discover、銀聯のカードと、交通系IC（Suica・PASMO）、iD、Edy、QUICPay、nanaco、WAON、PayPay、Alipayが使えます。",
+   "買取も受け付けています。系列の4号店（1-15-9、いちご秋葉原駅前ビル7F）はガンダム・ガンプラの専門店なので、あわせて回るとよいです。"
   ]
  },
  "official_url": "https://otachu-akiba.com/3go/",

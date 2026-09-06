@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "의류 브랜드 HONEY MEW가 프로듀스한 메이드카페. 식사·음료와 체키 촬영",
-  "en": "Maid cafe produced by the clothing brand HONEY MEW: food, drinks and cheki photos"
+  "en": "Maid cafe produced by the clothing brand HONEY MEW: food, drinks and cheki photos",
+  "ja": "アパレルブランドHONEY MEWプロデュースのメイドカフェ、食事・ドリンクとチェキ撮影"
  },
  "building_id": "a-front",
  "floors": [
@@ -61,7 +62,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 15:00~23:00. 정기휴일 안내는 공식 사이트에 없다.",
-   "en": "17:00-23:00 on weekdays and 15:00-23:00 at weekends and public holidays, per the official site; no regular closing day is stated."
+   "en": "17:00-23:00 on weekdays and 15:00-23:00 at weekends and public holidays, per the official site; no regular closing day is stated.",
+   "ja": "公式サイトによると平日は17:00〜23:00、土日祝は15:00〜23:00です。定休日の記載はありません。"
   },
   "source_url": "https://akiba-maidcafe.co.jp/sweetcat/"
  },
@@ -77,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "돈키호테 아키하바라점 뒤편(동쪽) 골목의 A-FRONT 빌딩 최상층인 10층. 1층 대만 음료점 CoCo都可 옆 입구에서 엘리베이터를 타며, 같은 건물 8층은 자매점 래빗 캐슬, 4~6층은 다른 회사의 콘셉트 카페다.",
-  "en": "Top floor (10F) of A-FRONT, on the back street behind (east of) Don Quijote Akihabara. Take the lift from the entrance beside the CoCo Tokka bubble-tea stand; the sister shop Rabbit Castle is on 8F and other operators' concept cafes fill 4F-6F."
+  "en": "Top floor (10F) of A-FRONT, on the back street behind (east of) Don Quijote Akihabara. Take the lift from the entrance beside the CoCo Tokka bubble-tea stand; the sister shop Rabbit Castle is on 8F and other operators' concept cafes fill 4F-6F.",
+  "ja": "ドン・キホーテ秋葉原店の裏（東側）の裏通りに建つA-FRONTの最上階10Fです。タピオカドリンクのCoCo都可の横にある入口からエレベーターで上がります。同じビルの8Fには姉妹店のRabbit Castle（ラビットキャッスル）、4F〜6Fには別の運営会社のコンセプトカフェが入っています。"
  },
  "tips": {
   "ko": [
@@ -91,6 +94,12 @@
    "The shop opened on 13 July 2026.",
    "The uniforms are designed by HONEY MEW, the clothing brand that produced the cafe.",
    "The official site posts prices only as images and names no payment methods, so bring cash to be safe."
+  ],
+  "ja": [
+   "開店は平日が17:00、土日祝が15:00で、昼間は営業していません。",
+   "2026年7月13日にオープンしました。",
+   "制服は、この店をプロデュースしたアパレルブランドHONEY MEWのデザインです。",
+   "公式サイトは料金を画像でしか掲載しておらず、支払い方法の記載もないため、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://akiba-maidcafe.co.jp/sweetcat/",

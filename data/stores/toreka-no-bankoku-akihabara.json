@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·디지몬 등 트레카 싱글과 미개봉 박스를 파는 리버티 5호관 6층 전문점",
-  "en": "Trading-card specialist on 6F of Liberty No.5, selling Pokemon, One Piece and Digimon singles and sealed boxes"
+  "en": "Trading-card specialist on 6F of Liberty No.5, selling Pokemon, One Piece and Digimon singles and sealed boxes",
+  "ja": "ポケモン・ワンピース・デジモンのシングルと未開封BOXを扱うリバティー5号館6Fの専門店"
  },
  "building_id": "liberty-5gokan",
  "floors": [
@@ -70,7 +71,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 감정 접수는 19:30까지. 공식 사이트는 월~금과 토·일만 적어 두고 공휴일 영업시간은 따로 밝히지 않았다.",
-   "en": "Buyback assessment is accepted until 19:30. The official site states only Monday-Friday and Saturday-Sunday hours; public holidays are not spelled out."
+   "en": "Buyback assessment is accepted until 19:30. The official site states only Monday-Friday and Saturday-Sunday hours; public holidays are not spelled out.",
+   "ja": "買取の査定は19:30まで受け付けています。公式サイトには月曜から金曜と土日の営業時間しか書かれておらず、祝日については明記されていません。"
   },
   "source_url": "https://torekanobankoku.com/"
  },
@@ -86,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리 동쪽 보도를 따라 남쪽으로 도보 2분, JR 아키하바라역 전기가 출구에서는 주오도리를 따라 북쪽으로 도보 5분. 1층 앞 인도에 가챠폰 기계가 늘어선 9층짜리 리버티 5호관에서, 매장 오른쪽에 있는 건물 입구로 들어가 엘리베이터로 6층까지 올라간다. 같은 4-5-1 번지의 KHK빌딩(스루가야 아니메·호비관)은 다른 건물이다.",
-  "en": "Two minutes south of Ginza-line Suehirocho along the east pavement of Chuo-dori, or five minutes north of the JR Akihabara Electric Town Exit. At the nine-storey Liberty No.5 building, marked by the row of gachapon machines on the pavement, use the building entrance to the right of the shopfront and take the lift to 6F. The KHK Building under the same 4-5-1 address (Surugaya Anime & Hobby) is a different building."
+  "en": "Two minutes south of Ginza-line Suehirocho along the east pavement of Chuo-dori, or five minutes north of the JR Akihabara Electric Town Exit. At the nine-storey Liberty No.5 building, marked by the row of gachapon machines on the pavement, use the building entrance to the right of the shopfront and take the lift to 6F. The KHK Building under the same 4-5-1 address (Surugaya Anime & Hobby) is a different building.",
+  "ja": "銀座線の末広町駅から中央通りの東側の歩道を南へ徒歩2分、JR秋葉原駅の電気街口からは北へ徒歩5分です。歩道にガチャポンの機械が並ぶ9階建てのリバティー5号館で、店舗の右手にある建物の入口から入り、エレベーターで6Fまで上がります。同じ4-5-1の住所のKHKビル（駿河屋 秋葉原アニメ・ホビー館）は別の建物です。"
  },
  "tips": {
   "ko": [
@@ -100,6 +103,12 @@
    "Since the end of June 2026 tax-free refunds are handled at the physical store, for short-term visitors to Japan spending over 5,000 yen before tax in store.",
    "Beyond Pokemon and One Piece the range covers Digimon, Gundam Card Game, Dragon Ball Fusion World, Ultraman, TCG Fire Emblem 0, Quintessential Quintuplets, Haikyu and Detective Conan.",
    "It is run by Bankoku Co., Ltd. under Tokyo antique-dealer licence 301032006733; the phone is 03-6903-1927, and postal buyback and BUYEE proxy orders are accepted."
+  ],
+  "ja": [
+   "月曜から金曜は13:00-20:00、土日は12:00-20:00の営業で、買取の査定受付は19:30に終わります。",
+   "2026年6月末から、実店舗でも免税の還付を受けられるようになりました。対象は、税抜5,000円を超える買い物を店内でする短期滞在の訪日客です。",
+   "ポケモンとワンピースのほか、デジモン、ガンダムカードゲーム、ドラゴンボール フュージョンワールド、ウルトラマン、TCGファイアーエムブレム0、五等分の花嫁、ハイキュー、名探偵コナンまで扱っています。",
+   "運営は株式会社万国で、東京都の古物商許可（301032006733）のもとで営業しています。電話は03-6903-1927で、郵送買取やBUYEEの代行注文にも対応しています。"
   ]
  },
  "photo": null,

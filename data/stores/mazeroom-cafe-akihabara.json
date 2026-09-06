@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "현역 아이돌이 캐스트로 접객하는 콘셉트 카페. 오므라이스·음료와 가라오케",
-  "en": "Concept cafe staffed by working live idols: omurice, drinks and karaoke"
+  "en": "Concept cafe staffed by working live idols: omurice, drinks and karaoke",
+  "ja": "現役のライブアイドルがキャストを務めるコンセプトカフェ、オムライスやドリンクとカラオケ"
  },
  "building_id": null,
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 6분. 주오도리 서쪽 뒷길 외신다 3-7 블록의 3층짜리 작은 건물 AKIHABARA CROSS. 바로 북쪽에 이사미야 제8빌딩이 붙어 있고, 평소 영업은 1층 노면 점포에서 한다.",
-  "en": "One minute from Ginza-line Suehirocho and six from JR Akihabara, on the back street west of Chuo-dori in the Sotokanda 3-7 block: AKIHABARA CROSS, a small three-storey building next to Isamiya Building 8. Day-to-day trading is on the street-level 1F."
+  "en": "One minute from Ginza-line Suehirocho and six from JR Akihabara, on the back street west of Chuo-dori in the Sotokanda 3-7 block: AKIHABARA CROSS, a small three-storey building next to Isamiya Building 8. Day-to-day trading is on the street-level 1F.",
+  "ja": "銀座線の末広町駅から徒歩1分、JR秋葉原駅から徒歩6分、中央通りの西側の裏通り、外神田3-7のブロックにあります。イサミヤ第8ビルの隣に建つ3階建ての小さなビルAKIHABARA CROSSで、普段の営業は1Fの路面の売り場で行っています。"
  },
  "tips": {
   "ko": [
@@ -71,6 +73,13 @@
    "The cast are working live idols and trainees, so the atmosphere depends on who is on shift; there is omurice drawing and karaoke.",
    "The old official site (mazeroom.net, now expired) listed cash plus VISA, MasterCard, JCB, AMEX and Diners cards and PayPay, Suica, PASMO, QUICPay, nanaco, WAON, Edy and iD e-money; worth re-checking after the 2026 renovation.",
    "It moved here from its old premises in Sotokanda 1-5 (Suehatsu Building) in September 2019, and some maps and directories still carry the old address."
+  ],
+  "ja": [
+   "営業時間は日によって変わり、その日の時間が開店の知らせとともにX（@mazeroomcafe）に投稿されるので、行く前に確かめてください。",
+   "2026年7月にリニューアルし、7月10日から15日にプレオープン、7月23日にグランドオープンしました。内装もメニューも制服もすべて新しくなり、公式サイトは準備中です。",
+   "キャストは現役のライブアイドルと研究生なので、出勤しているメンバーによって雰囲気が変わります。オムライスへのお絵描きとカラオケがあります。",
+   "旧公式サイト（mazeroom.net、現在は失効）には、現金のほかVISA、MasterCard、JCB、AMEX、ダイナースのクレジットカードと、PayPay、Suica、PASMO、QUICPay、nanaco、WAON、Edy、iDの電子マネーが使えると載っていました。2026年のリニューアル後は改めて確かめておくとよいです。",
+   "2019年9月に外神田1-5の旧店舗（末初ビル）から今の場所に移っており、古い住所のまま載っている地図やディレクトリもあります。"
   ],
   "en_note": null
  },

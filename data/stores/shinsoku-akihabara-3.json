@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "주오도리 노면 1층·B1층 점포. 포켓몬·원피스 카드 싱글과 매입",
-  "en": "Street-level 1F/B1F card shop on Chuo-dori; Pokemon and One Piece singles and buyback"
+  "en": "Street-level 1F/B1F card shop on Chuo-dori; Pokemon and One Piece singles and buyback",
+  "ja": "中央通り沿いの路面1F・B1F店舗、ポケモン・ワンピースのシングルと買取"
  },
  "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "체인 공식 점포 안내(혼잡 상황 페이지) 기준 매일 11:30~19:30이고 매입 접수는 11:30~19:00까지다. 공식 X 프로필에는 아직 11:00~20:30으로 적혀 있으나 매일 올라오는 개점 안내와 점포 안내 모두 11:30~19:30이다.",
-   "en": "11:30-19:30 every day on the chain's own store list, with buyback reception until 19:00. The shop's X profile still says 11:00-20:30, but the store list and its daily opening posts both give 11:30-19:30."
+   "en": "11:30-19:30 every day on the chain's own store list, with buyback reception until 19:00. The shop's X profile still says 11:00-20:30, but the store list and its daily opening posts both give 11:30-19:30.",
+   "ja": "チェーン公式の店舗一覧では毎日11:30〜19:30で、買取受付は19:00までです。店舗Xのプロフィールにはまだ11:00〜20:30と書かれていますが、店舗一覧も毎日の開店告知も11:30〜19:30となっています。"
   },
   "source_url": "https://shinsoku-tcg.com/stores/congestion"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽 면, 긴자선 스에히로초역에서 도보 2분·JR 아키하바라역에서 도보 6분. 스루가야 프라모델관(2·3층)과 메이드리밍 아이돌도리점(4층)이 들어선 共益外神田第1ビル 1층 노면 점포이며, 매장은 1층과 지하 1층 두 층을 쓴다.",
-  "en": "On the east side of Chuo-dori, two minutes from Suehirocho Station and six from JR Akihabara. It is the street-level unit of the Kyoeki Sotokanda No.1 Building, the one with Surugaya's plastic-model store on 2F-3F and Maidreamin Idol-dori on 4F; the shop uses 1F and B1F."
+  "en": "On the east side of Chuo-dori, two minutes from Suehirocho Station and six from JR Akihabara. It is the street-level unit of the Kyoeki Sotokanda No.1 Building, the one with Surugaya's plastic-model store on 2F-3F and Maidreamin Idol-dori on 4F; the shop uses 1F and B1F.",
+  "ja": "中央通りの東側、末広町駅から徒歩2分、JR秋葉原駅から徒歩6分です。2F・3Fに駿河屋 秋葉原プラモデル館、4Fにめいどりーみん 秋葉原アイドル通り店が入る共益外神田第1ビルの路面店で、店舗は1FとB1Fを使っています。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,14 @@
    "Buyback covers Pokemon, One Piece, Yu-Gi-Oh, Dragon Ball and Weiss Schwarz - singles, boxes, sealed items and PSA-graded cards.",
    "It advertises tax-free sales, so bring a passport to have the consumption tax taken off.",
    "Liberty's 4th and 5th stores and Surugaya's anime and hobby building are on the same Chuo-dori block, so they combine well in one walk."
+  ],
+  "ja": [
+   "チェーンの旗艦店で、2026年5月2日に販売のみの先行オープン、5月20日に正式オープンしました。路面店なので、階段やエレベーターを使わずそのまま入れます。",
+   "1Fが販売フロア、B1Fが買取フロアです。査定用の個室（VIPルーム）があり、高額な取引を通路で行わずに済みます。",
+   "公式の店舗一覧では11:30〜19:30、買取受付は19:00までとなっています。店舗Xのプロフィールにある11:00〜20:30は古い情報なので、行く前に@shinsoku_akb3rdの当日の開店告知を確認してください。",
+   "買取の対象はポケモン、ワンピース、遊戯王、ドラゴンボール、ヴァイスシュヴァルツで、シングル、BOX、未開封品、PSA鑑定品を扱います。",
+   "免税販売を掲げているので、パスポートを持っていけば消費税が引かれます。",
+   "同じ中央通りのブロックにリバティー 秋葉原4号店とリバティー秋葉原5号店、駿河屋 秋葉原アニメ・ホビー館があり、まとめて回るのに向いています。"
   ]
  },
  "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",

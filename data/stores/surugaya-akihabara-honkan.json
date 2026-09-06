@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "중고 피규어·애니 잡화·PC 동인 소프트를 8개 층에 나눠 파는 잔쿠도리 대형 중고점",
-  "en": "Eight floors of used figures, anime goods and PC/doujin software; 5F-6F adults only"
+  "en": "Eight floors of used figures, anime goods and PC/doujin software; 5F-6F adults only",
+  "ja": "中古のフィギュア・アニメ雑貨・PC同人ソフトが8フロア、5F・6Fは成人専用"
  },
  "building_id": null,
  "floors": [
@@ -52,27 +53,32 @@
   {
    "floor": "1F",
    "ko": "2026-09-14 포켓몬 카드 중심 트레카 전문층으로 리뉴얼 오픈(09-07~09-13 공사 휴업)",
-   "en": "Reopens 14 Sep 2026 as a trading card floor centred on Pokemon cards (closed 7-13 Sep for work)"
+   "en": "Reopens 14 Sep 2026 as a trading card floor centred on Pokemon cards (closed 7-13 Sep for work)",
+   "ja": "2026年9月14日にポケモンカードを中心としたトレカのフロアとしてリニューアルオープンします（9月7日から13日は工事で休業）。"
   },
   {
    "floor": "2F",
    "ko": "매입 카운터(피규어·완구·애니 잡화·가전·PC 동인 소프트 등)",
-   "en": "Buyback counter (figures, toys, anime goods, appliances, PC and doujin software)"
+   "en": "Buyback counter (figures, toys, anime goods, appliances, PC and doujin software)",
+   "ja": "買取カウンターで、フィギュア、玩具、アニメ雑貨、家電、PC・同人ソフトを受け付けます。"
   },
   {
    "floor": "5F",
    "ko": "성인 전용층 — 성인용 상품만 취급, 18세 미만 출입 불가",
-   "en": "Adults-only floor stocking adult items only — no entry under 18"
+   "en": "Adults-only floor stocking adult items only — no entry under 18",
+   "ja": "成人向け商品だけを扱う成人専用フロアで、18歳未満は入れません。"
   },
   {
    "floor": "6F",
    "ko": "성인 전용층(5F에서 이어짐) — 18세 미만 출입 불가",
-   "en": "Second adults-only floor continuing from 5F — no entry under 18"
+   "en": "Second adults-only floor continuing from 5F — no entry under 18",
+   "ja": "5Fから続く2つ目の成人専用フロアで、18歳未満は入れません。"
   },
   {
    "floor": "8F",
    "ko": "이벤트 스페이스(그라비아 아이돌 이벤트 등, 개최 시에만 입장)",
-   "en": "Event space used for gravure idol and similar events; open only during events"
+   "en": "Event space used for gravure idol and similar events; open only during events",
+   "ja": "グラビアアイドルなどのイベントに使われるイベントスペースで、開催時のみ入場できます。"
   }
  ],
  "location": {
@@ -107,7 +113,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "1F는 2026-09-07~09-13 개장 공사로 휴업하며 2F~7F는 정상 영업, 09-14에 1F가 포켓몬 카드 중심 트레카 전문층으로 리뉴얼 오픈한다. 8F 이벤트 스페이스는 이벤트 개최 시에만 이용할 수 있다.",
-   "en": "1F is closed for renovation 7-13 Sep 2026 (2F-7F open as usual) and reopens on 14 Sep as a Pokemon-card trading card floor. The 8F event space is open only during events."
+   "en": "1F is closed for renovation 7-13 Sep 2026 (2F-7F open as usual) and reopens on 14 Sep as a Pokemon-card trading card floor. The 8F event space is open only during events.",
+   "ja": "1Fは2026年9月7日から13日まで改装工事で休業し（2Fから7Fは通常営業）、9月14日にポケモンカード中心のトレカのフロアとしてリニューアルオープンします。8Fのイベントスペースはイベントの開催時のみ利用できます。"
   },
   "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html"
  },
@@ -126,7 +133,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 한 블록 서쪽인 잔쿠도리(ジャンク通り) 동편에 선 8층짜리 좁은 건물로, 파란 바탕의 駿河屋 간판이 층마다 걸려 있다. 바로 옆이 하드오프 아키하바라 1호점과 APA 호텔이고 같은 편 약 30m 남쪽이 만다라케 컴플렉스다. 층별 구성은 1F 입구 옆 플로어 가이드 게시판에서 확인할 수 있다.",
-  "en": "A narrow eight-storey building on the east side of Junk Street (ジャンク通り), one block west of Chuo-dori, with blue 駿河屋 signs on every floor. Hard Off Akihabara No.1 and the APA Hotel are next door and Mandarake Complex is about 30 m south on the same side. The floor guide board stands by the 1F entrance."
+  "en": "A narrow eight-storey building on the east side of Junk Street (ジャンク通り), one block west of Chuo-dori, with blue 駿河屋 signs on every floor. Hard Off Akihabara No.1 and the APA Hotel are next door and Mandarake Complex is about 30 m south on the same side. The floor guide board stands by the 1F entrance.",
+  "ja": "中央通りから一本西のジャンク通りの東側に建つ、細長い8階建てのビルで、各階に青い駿河屋の看板が掛かっています。隣がハードオフ秋葉原1号店とアパホテル、同じ側の約30m南がまんだらけコンプレックスです。フロアガイドの掲示板は1Fの入口の脇にあります。"
  },
  "tips": {
   "ko": [
@@ -140,6 +148,12 @@
    "5F and 6F are adults-only floors carrying adult items exclusively; no entry under 18.",
    "The buyback counter is on 2F. Photo ID is required every time and a member card is issued at your first sale; some books, pamphlets and doujinshi are not bought here.",
    "1F closes for renovation 7-13 Sep 2026 and reopens on 14 Sep as a Pokemon-card trading card floor, absorbing the Trading Card & Board Game annex that closed on 30 Aug."
+  ],
+  "ja": [
+   "開店は平日11:00、土日・祝日10:00です。8フロアをすべて回るなら1時間以上みておくとよいでしょう。",
+   "5Fと6Fは成人向け商品だけを扱う成人専用フロアで、18歳未満は入れません。",
+   "買取カウンターは2Fです。毎回身分証が必要で、初めての買取のときに会員証を登録します。一部の書籍やパンフレット、同人誌は買取の対象外です。",
+   "1Fは2026年9月7日から13日まで改装のため休業し、9月14日にポケモンカード中心のトレカ専門フロアとしてオープンします。8月30日に閉店したトレカ・ボードゲーム館の機能を引き継ぐフロアです。"
   ]
  },
  "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html",

@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "구판 포켓몬·구 디지카 등 중고 트레카 싱글 판매와 매입. 앱 magi의 실매장",
-  "en": "Used card singles including old-back Pokemon and old Digimon, plus a buyback counter"
+  "en": "Used card singles including old-back Pokemon and old Digimon, plus a buyback counter",
+  "ja": "旧裏面ポケモンや旧デジモンなど中古トレカのシングル販売と買取カウンター"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -68,7 +69,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "판매 12:00~20:00, 매입 접수 12:00~18:00. 건물(10:00 개관)보다 두 시간 늦게 연다.",
-   "en": "Sales 12:00-20:00, buyback desk 12:00-18:00. It opens two hours later than the building, which opens at 10:00."
+   "en": "Sales 12:00-20:00, buyback desk 12:00-18:00. It opens two hours later than the building, which opens at 10:00.",
+   "ja": "販売は12:00〜20:00、買取の受付は12:00〜18:00です。10:00に開館する建物より2時間遅い開店になります。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/magi-%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
  },
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 5F. 라신방 라디오회관점·카이요도 호비로비 도쿄와 같은 층이며, 엘리베이터에서 내려 중고 카드 쇼케이스가 늘어선 구획이 magi다.",
-  "en": "On 5F of Radio Kaikan, the floor shared with Lashinbang and Kaiyodo Hobby Lobby Tokyo. Off the elevator, magi is the unit lined with used-card showcases."
+  "en": "On 5F of Radio Kaikan, the floor shared with Lashinbang and Kaiyodo Hobby Lobby Tokyo. Off the elevator, magi is the unit lined with used-card showcases.",
+  "ja": "ラジオ会館の5Fで、らしんばん秋葉原ラジオ会館店や海洋堂ホビーロビー東京と同じフロアです。エレベーターを降りて、中古カードのショーケースが並んでいる区画がmagiです。"
  },
  "tips": {
   "ko": [
@@ -100,6 +103,13 @@
    "Sales start at 12:00 and the buy desk closes at 18:00, so if you reach Radio Kaikan in the morning, do the other floors first.",
    "Besides cash it takes credit cards, UnionPay, PayPay, MerPay, iD, QUICPay, transit IC, Rakuten Edy, nanaco, WAON, PREMO and J-Debit.",
    "It is a different shop from Cardshop magi Akihabara at Sotokanda 3-14-9 and that shop's annex."
+  ],
+  "ja": [
+   "トレカ・ゲーム・スニーカーの中古取引アプリmagiが運営する実店舗で、2023年3月の開店です。中古シングルの販売と買取を行っていて、委託販売は受け付けていません。",
+   "旧裏面のポケモンカードや旧デジモンカード、ムシキング、ガッシュベルなど、ほかの店ではあまり見かけない品ぞろえが強みです。",
+   "販売は12:00から、買取の受付は18:00までなので、午前中にラジオ会館に着いたときはほかのフロアから回るとよいです。",
+   "現金のほか、クレジットカード、銀聯、PayPay、メルペイ、iD、QUICPay、交通系IC、楽天Edy、nanaco、WAON、PREMO、J-Debitが使えます。",
+   "外神田3-14-9のカードショップmagi秋葉原店およびその別館とは別の店舗です。"
   ]
  },
  "official_url": "https://cardshopmagi.com/shop/magi-radio/",

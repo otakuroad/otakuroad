@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "라오쿠스 5층 트레카모올에 있는 트레카 판매·매입점. 매입 접수는 18:30에 마감한다",
-  "en": "Trading-card shop with a buyback desk on the 5F Toreca Mall floor; buyback closes at 18:30"
+  "en": "Trading-card shop with a buyback desk on the 5F Toreca Mall floor; buyback closes at 18:30",
+  "ja": "5Fトレカモールのトレカ販売・買取店、買取の受付は18:30まで"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -61,7 +62,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "가게가 직접 밝힌 11:00-19:00이고, 운영사가 발표한 5층 트레카모올 영업시간과도 같다. 매입은 18:30까지만 접수하니 팔 카드가 있으면 그전에 가야 한다.",
-   "en": "11:00-19:00 as the shop itself states, matching the operator's published hours for the 5F Toreca Mall floor. Buyback items are only accepted until 18:30, so arrive earlier if you are selling."
+   "en": "11:00-19:00 as the shop itself states, matching the operator's published hours for the 5F Toreca Mall floor. Buyback items are only accepted until 18:30, so arrive earlier if you are selling.",
+   "ja": "店が自ら示している11:00〜19:00で、運営会社が発表した5Fトレカモールの営業時間とも同じです。買取は18:30までしか受け付けないので、売るカードがあるならそれより早めに行ってください。"
   },
   "source_url": "https://x.com/starriversakiba"
  },
@@ -77,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 도보 1분, 만세바시 교차로의 파란 에디온 AKIBA(라오쿠스 아키하바라 본점) 건물이다. 라오쿠스 쪽 입구에서 엘리베이터로 5층에 올라가면 트레카 전문점이 늘어선 트레카모올 플로어이고, 그 안의 한 부스다.",
-  "en": "One minute south of the JR Electric Town Exit along Chuo-dori, in the blue EDION AKIBA (Laox Akihabara Main Store) building at the Manseibashi crossing. Take the elevator from the Laox-side entrance to 5F, the Toreca Mall floor lined with card booths; this is one of them."
+  "en": "One minute south of the JR Electric Town Exit along Chuo-dori, in the blue EDION AKIBA (Laox Akihabara Main Store) building at the Manseibashi crossing. Take the elevator from the Laox-side entrance to 5F, the Toreca Mall floor lined with card booths; this is one of them.",
+  "ja": "JR秋葉原駅電気街口から中央通りを南へ徒歩1分、万世橋交差点に建つ青いエディオンAKIBA（ラオックス 秋葉原本店）のビルです。ラオックス側の入口からエレベーターで5Fに上がると、トレカ専門店のブースが並ぶトレカモールのフロアで、この店はそのうちの1軒です。"
  },
  "tips": {
   "ko": [
@@ -89,6 +92,11 @@
    "The buyback desk stops accepting cards at 18:30, half an hour before closing.",
    "The shop states it cannot check stock by phone or DM, so you have to come and look.",
    "The 5F Toreca Mall floor opened on 14 March 2026 at 111 tsubo, so you can compare several shops' buyback offers without leaving the floor."
+  ],
+  "ja": [
+   "買取カウンターは閉店の30分前の18:30でカードの受付を終えます。",
+   "電話やDMでは在庫の確認を受け付けていないと店が明言しているので、在庫は直接見に行く必要があります。",
+   "5Fのトレカモールは2026年3月14日にオープンした111坪のフロアなので、複数の店の買取価格をその場で比べられます。"
   ]
  },
  "photo": null,

@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "메이드 카페 체인 본점, 36석. 오므라이스·음료와 메이드 체키 촬영",
-  "en": "The chain's 36-seat flagship maid cafe: omurice, drinks and cheki photos with maids"
+  "en": "The chain's 36-seat flagship maid cafe: omurice, drinks and cheki photos with maids",
+  "ja": "チェーンの本店にあたる36席のメイドカフェ、オムライスやドリンクとメイドのチェキ撮影"
  },
  "building_id": "sumiyoshi-building",
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "월·화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점. 폐점은 매일 23:00.",
-   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily."
+   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily.",
+   "ja": "月曜と火曜は11:30開店、それ以外の曜日と祝日は10:30開店です。閉店は毎日23:00です。"
   },
   "source_url": "https://maidreamin.com/shop/detail.html?id=1"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리 동쪽에 면한 9층짜리 스미요시(住吉) 빌딩 6층으로, 1층 입구에서 엘리베이터를 탄다.",
-  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line, five minutes from JR Akihabara. It is on 6F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance."
+  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line, five minutes from JR Akihabara. It is on 6F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩1分、JR秋葉原駅から徒歩5分です。中央通りに面した9階建ての住吉ビルの6Fで、1Fの入口からエレベーターに乗ります。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,11 @@
    "Charge is 880 yen per person per hour plus at least one drink or dish; each extra hour is another 880 yen. During HYPER slots it is 3,800 yen an hour with free drinks.",
    "Monday and Tuesday open at 11:30, an hour later than the other days (10:30).",
    "No smoking throughout, with free Wi-Fi and phone charging. VISA, Mastercard, JCB, AMEX, Diners plus PayPay, au PAY, Rakuten Pay and UnionPay are accepted."
+  ],
+  "ja": [
+   "料金は1人1時間880円のチャージにドリンクか料理を1品以上の注文が必要で、延長も1時間ごとに880円です。HYPERの時間帯は1時間3,800円で飲み放題になります。",
+   "月曜と火曜は11:30開店で、ほかの曜日（10:30）より1時間遅くなります。",
+   "全席禁煙で、無料Wi-Fiと携帯の充電が使えます。VISA、Mastercard、JCB、AMEX、ダイナースのほか、PayPay、au PAY、楽天ペイ、銀聯カードが使えます。"
   ]
  },
  "official_url": "https://maidreamin.com/shop/detail.html?id=1",

@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "돈키호테 아키하바라점 6·7층 오락실. 최신 게임기를 갖추고 밤 11시 55분까지 영업",
-  "en": "Two-floor arcade on 6F-7F of Don Quijote Akihabara with current cabinets, open until 23:55"
+  "en": "Two-floor arcade on 6F-7F of Don Quijote Akihabara with current cabinets, open until 23:55",
+  "ja": "ドン・キホーテ秋葉原店6・7Fの2フロアのゲームセンター、最新機種をそろえ23:55まで営業"
  },
  "building_id": "don-quijote-akihabara",
  "floors": [
@@ -55,11 +56,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "None (open year-round)"
+   "en": "None (open year-round)",
+   "ja": "なし（年中無休）"
   },
   "note": {
    "ko": "운영사 야마자키야 공식 점포안내 기준 10:00~23:55, 연중무휴. 돈키호테 테넌트 페이지에는 아직 10:00~1:00으로 적혀 있으나 운영사 표기를 따랐다.",
-   "en": "10:00-23:55, open year-round, per operator Yamazakiya's own store listing. Don Quijote's tenant page still shows 10:00-1:00, but the operator's own figure is used here."
+   "en": "10:00-23:55, open year-round, per operator Yamazakiya's own store listing. Don Quijote's tenant page still shows 10:00-1:00, but the operator's own figure is used here.",
+   "ja": "運営会社ヤマザキヤの公式店舗案内によると10:00〜23:55で年中無休です。ドン・キホーテのテナントページにはまだ10:00〜1:00と出ていますが、ここでは運営会社の表記に従っています。"
   },
   "source_url": "https://www.yamazakiya.co.jp/shop/syutoken/"
  },
@@ -75,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 돈키호테 아키하바라점 건물(미나미빌딩) 엘리베이터로 6층. 5층 코스프레관·앳홈카페, 8층 AKB48 극장과 같은 건물이며 오락실은 6·7층 두 개 층이다.",
-  "en": "Take the elevator in the Don Quijote Akihabara building (Minami Building) on Chuo-dori to 6F. The arcade occupies 6F and 7F, above the 5F cosplay hall and @home cafe and below the AKB48 Theater on 8F."
+  "en": "Take the elevator in the Don Quijote Akihabara building (Minami Building) on Chuo-dori to 6F. The arcade occupies 6F and 7F, above the 5F cosplay hall and @home cafe and below the AKB48 Theater on 8F.",
+  "ja": "中央通りのドン・キホーテ秋葉原店（南ビル）のエレベーターで6Fへ上がります。ゲームセンターは6Fと7Fの2フロアで、5Fのコスプレ館とあっとほぉーむカフェ 秋葉原ドンキ店の上、8FのAKB48劇場の下にあたります。"
  },
  "tips": {
   "ko": [
@@ -87,6 +91,11 @@
    "Open until 23:55, one of the later-closing arcades in Akihabara.",
    "The official description notes that staff greet customers in maid costume.",
    "Run by Yamazakiya's Tokyo Leisure Land; a separate venue from the No.1 store at Sotokanda 1-9-5."
+  ],
+  "ja": [
+   "23:55まで営業しており、秋葉原では遅くまで開いているゲーセンの一つです。",
+   "スタッフがメイド衣装で接客することが、公式の紹介文に明記されています。",
+   "運営はヤマザキヤの東京レジャーランドで、外神田1-9-5にある1号店とは別の店舗です。"
   ]
  },
  "official_url": "https://www.yamazakiya.co.jp/shop/",

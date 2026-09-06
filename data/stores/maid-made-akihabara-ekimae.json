@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "미래에서 온 메이드 콘셉트 카페. 오므라이스·파르페와 체키 촬영, 메이드 라이브",
-  "en": "Future-themed maid cafe: omurice, parfaits, cheki photos and maid live shows"
+  "en": "Future-themed maid cafe: omurice, parfaits, cheki photos and maid live shows",
+  "ja": "未来をテーマにしたメイドカフェ、オムライスやパフェとチェキ・メイドライブ"
  },
  "building_id": null,
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "라스트 오더 21:30. 이용은 60분 단위이며 60분을 넘기면 연장 요금과 추가 음료 주문이 필요하다.",
-   "en": "Last order 21:30. Seating runs in 60-minute blocks; going over means an extension charge and one more drink."
+   "en": "Last order 21:30. Seating runs in 60-minute blocks; going over means an extension charge and one more drink.",
+   "ja": "ラストオーダーは21:30です。利用は60分単位で、60分を超えると延長料金とドリンクの追加注文が必要になります。"
   },
   "source_url": "https://made-maid.com/shop/3"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구(전기가 남쪽 개찰구)에서 도보 30초. 개찰구를 나와 남쪽으로, 오른쪽에 남코(오락실)·왼쪽에 뉴데이즈(편의점)가 있는 큰길을 직진하다가 왼쪽에 스타벅스가 보이는 모퉁이에서 우회전한다. 오른쪽 가라오케관 옆 엘리베이터로 10층까지 올라간다.",
-  "en": "Thirty seconds from the JR Akihabara Electric Town (south) ticket gate. Leave the gate heading south, walk straight along the wide street with the namco arcade on your right and a NewDays on your left, then turn right at the corner where a Starbucks appears on the left. Karaoke-kan is on your right; the lift beside it goes up to 10F."
+  "en": "Thirty seconds from the JR Akihabara Electric Town (south) ticket gate. Leave the gate heading south, walk straight along the wide street with the namco arcade on your right and a NewDays on your left, then turn right at the corner where a Starbucks appears on the left. Karaoke-kan is on your right; the lift beside it goes up to 10F.",
+  "ja": "JR秋葉原駅の電気街（南）改札口から30秒です。改札を出て南へ向かい、右手にゲームセンターのnamco秋葉原店、左手にニューデイズがある大通りをまっすぐ進み、左にスターバックスが見える角を右に曲がります。右手にカラオケ館があり、その横のエレベーターで10Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,12 @@
    "Forty-seven seats, no smoking, with Wi-Fi and power outlets. Cash and credit cards (VISA, Mastercard, AMEX, JCB, Diners, DISCOVER) are accepted.",
    "The maids are 'magiaroids' sent from the future to learn human emotion; a point card banks 1 EP per 500 yen spent and unlocks events and goods.",
    "The draws are ketchup-drawn omurice, parfaits, cheki instant photos and maid live shows. The chain's main store is in Osu, Nagoya."
+  ],
+  "ja": [
+   "ログイン料金は60分ごとに税込880円で、あわせてドリンクを1杯以上注文します。延長のたびに料金とドリンクが1杯ずつ加わります。",
+   "47席で禁煙、Wi-Fiとコンセントが使えます。支払いは現金とクレジットカード（VISA・Mastercard・AMEX・JCB・Diners・DISCOVER）に対応しています。",
+   "メイドは人間の感情を学ぶために未来から来たマギロイドという設定で、500円ごとに1EPがたまるポイントカードでイベントやグッズの機能が解放されます。",
+   "ケチャップで絵を描くオムライス、パフェ、チェキ、メイドライブが主な内容です。チェーンの本店は名古屋の大須にあります。"
   ]
  },
  "official_url": "https://made-maid.com/shop/3",

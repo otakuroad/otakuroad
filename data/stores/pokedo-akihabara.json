@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "포켓몬카드 싱글을 사고파는 전문점. 듀얼 스페이스는 없다",
-  "en": "Pokemon card singles bought and sold; no duel space"
+  "en": "Pokemon card singles bought and sold; no duel space",
+  "ja": "ポケモンカードのシングル販売と買取、デュエルスペースはなし"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -55,7 +56,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포 매입 계정 X(@Pokedou_AkibaK)가 반복해서 올리는 안내에 영업시간 11:00~19:00, 매입 접수 11:00~18:40으로 적혀 있다. 트레카모올 5층 운영사가 발표한 층 영업시간과도 같다. 임시 휴업은 X(@Pokedou_Akiba)에 공지된다.",
-   "en": "The shop's own buy-list X account (@Pokedou_AkibaK) repeatedly posts 11:00-19:00, with the buyback desk taking items only until 18:40. This matches the 5F floor hours the mall operator announced. Temporary closures go up on X (@Pokedou_Akiba)."
+   "en": "The shop's own buy-list X account (@Pokedou_AkibaK) repeatedly posts 11:00-19:00, with the buyback desk taking items only until 18:40. This matches the 5F floor hours the mall operator announced. Temporary closures go up on X (@Pokedou_Akiba).",
+   "ja": "店の買取用X（@Pokedou_AkibaK）が繰り返し投稿している案内には、営業時間11:00-19:00、買取受付は18:40までと書かれています。これはモールの運営会社が発表した5階フロアの営業時間とも一致します。臨時休業はX（@Pokedou_Akiba）で告知されます。"
   },
   "source_url": "https://x.com/Pokedou_AkibaK/status/2094967848271815113"
  },
@@ -71,7 +73,8 @@
  },
  "how_to_find": {
   "ko": "만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 5층 트레카모올 안. 원 디렉터리 정보에는 층이 빠져 있는 경우가 많은데 실제로는 5층이며, 엘리베이터로 올라간다.",
-  "en": "On the 5F Toreca Mall floor of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Many listings omit the floor, but it is 5F - take the elevator."
+  "en": "On the 5F Toreca Mall floor of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Many listings omit the floor, but it is 5F - take the elevator.",
+  "ja": "万世橋交差点にある青いビル（エディオンAKIBA・ラオックス 秋葉原本店）5階のトレカモーールのフロアにあります。フロアの記載がない案内も多いのですが実際は5階なので、エレベーターで上がってください。"
  },
  "tips": {
   "ko": [
@@ -81,6 +84,10 @@
   "en": [
    "Opened with the 5F Toreca Mall floor on 14 March 2026.",
    "Has a sister shop in Mito, Ibaraki."
+  ],
+  "ja": [
+   "2026年3月14日、5階のトレカモーールのオープンと同時に入った店舗です。",
+   "茨城県の水戸にも姉妹店があります。"
   ]
  },
  "official_url": null,

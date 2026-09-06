@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "매입 없이 판매만 하는 2개 층 매장. 포켓몬·원피스 카드 싱글과 미개봉 박스",
-  "en": "Sales-only two-floor card store on Chuo-dori; Pokemon and One Piece singles and boxes"
+  "en": "Sales-only two-floor card store on Chuo-dori; Pokemon and One Piece singles and boxes",
+  "ja": "中央通り沿いの販売専門2フロア店舗、ポケモン・ワンピースのシングルとBOX"
  },
  "building_id": null,
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "영업시간은 공식 사이트가 아니라 점포 공식 X 프로필(@shinsoku_akb6th)에 적힌 12:00~20:00 기준이다. 요일별 구분은 안내돼 있지 않다.",
-   "en": "The 12:00-20:00 hours come from the shop's own X profile (@shinsoku_akb6th), not the chain website; no separate weekday/weekend times are given."
+   "en": "The 12:00-20:00 hours come from the shop's own X profile (@shinsoku_akb6th), not the chain website; no separate weekday/weekend times are given.",
+   "ja": "営業時間はチェーンの公式サイトではなく、店舗公式Xのプロフィール（@shinsoku_akb6th）に書かれた12:00〜20:00によります。平日と土日の区別は案内されていません。"
   },
   "source_url": "https://x.com/shinsoku_akb6th"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 면, JR 아키하바라역에서 도보 5분·긴자선 스에히로초역에서 도보 2분. 문을 닫은 '산코 아키하바라 총본점(サンコー秋葉原総本店)' 자리에 들어선 노면 1층 매장이며, 신스에히로 빌딩(新末広ビル) 1층과 2층을 쓴다.",
-  "en": "On the west side of Chuo-dori, five minutes from JR Akihabara and two from Suehirocho. It took over the street-level site of the closed Sanko Akihabara Sohonten and uses 1F and 2F of the Shin-Suehiro Building."
+  "en": "On the west side of Chuo-dori, five minutes from JR Akihabara and two from Suehirocho. It took over the street-level site of the closed Sanko Akihabara Sohonten and uses 1F and 2F of the Shin-Suehiro Building.",
+  "ja": "中央通りの西側、JR秋葉原駅から徒歩5分、末広町駅から徒歩2分です。閉店したサンコー秋葉原総本店の路面の跡地に入り、新末広ビルの1Fと2Fを使っています。"
  },
  "tips": {
   "ko": [
@@ -95,6 +98,12 @@
    "High-value singles are laid out in custom-built showcases, so you can look before you buy.",
    "The shop advertises tax-free sales, so bring your passport.",
    "The 12:00-20:00 hours come from the shop's X profile (@shinsoku_akb6th); the chain site does not publish them, and short-notice changes are posted on X."
+  ],
+  "ja": [
+   "2026年8月10日にチェーン初の販売専門店としてオープンし、ここでは買取を行っていません。売る場合は、どちらも数分の距離にあるシンソク秋葉原買取センター（丸山ビル1F）かシンソク秋葉原3号店をご利用ください。",
+   "高額シングルは特注のショーケースに並べられており、買う前に実物を見て選べます。",
+   "免税販売を掲げているので、パスポートをお持ちください。",
+   "営業時間12:00〜20:00は店舗のXプロフィール（@shinsoku_akb6th）によるもので、チェーンの公式サイトには掲載されておらず、急な変更もXで告知されます。"
   ]
  },
  "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",

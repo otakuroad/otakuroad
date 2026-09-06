@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "PSA 감정품과 미개봉 BOX, 매장 한정 오리파를 파는 포켓몬 카드 전문점",
-  "en": "Pokemon-card specialist selling PSA graded cards, sealed boxes and shop-only oripa"
+  "en": "Pokemon-card specialist selling PSA graded cards, sealed boxes and shop-only oripa",
+  "ja": "PSA鑑定品や未開封BOX、店舗限定オリパを扱うポケモンカード専門店"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "11:00-19:00은 운영사 팔레트그룹이 5층 트레카모올 전체 영업시간으로 공식 발표한 시간이고, 가게 자신도 평일 오전 11시 오픈을 X에 올린다. 다만 같은 5층에도 평일 12시에 여는 점포가 있어 정확한 시간은 X(@Quest_TCG_AKIBA)에서 확인하는 편이 안전하다.",
-   "en": "11:00-19:00 is the time the operator Palette Group published for the whole 5F Toreca Mall floor, and the shop's own X posts confirm an 11:00 weekday opening. Some booths on the same floor open at 12:00 instead, so check X (@Quest_TCG_AKIBA) before going."
+   "en": "11:00-19:00 is the time the operator Palette Group published for the whole 5F Toreca Mall floor, and the shop's own X posts confirm an 11:00 weekday opening. Some booths on the same floor open at 12:00 instead, so check X (@Quest_TCG_AKIBA) before going.",
+   "ja": "11:00-19:00は、運営会社のパレットグループが5階のトレカモーール全体の営業時間として公式に発表した時間で、店自身も平日11時の開店をXに投稿しています。ただし同じ5階には平日12時に開く店舗もあるため、正確な時間はX（@Quest_TCG_AKIBA）で確認しておくと安心です。"
   },
   "source_url": "https://x.com/Quest_TCG_AKIBA/status/2029127674883653804"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점)이다. 가전 매장이 아니라 라오쿠스 쪽 입구에서 엘리베이터로 5층에 올라가면 트레카모올 플로어가 나오고, 그 안에 부스로 들어가 있다.",
-  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Skip the electronics floors: take the elevator from the Laox-side entrance to 5F, which is the Toreca Mall floor, and the shop is one of the booths on it."
+  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Skip the electronics floors: take the elevator from the Laox-side entrance to 5F, which is the Toreca Mall floor, and the shop is one of the booths on it.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを南へ1〜2分、万世橋交差点にある青いビル（エディオンAKIBA・ラオックス 秋葉原本店）です。家電のフロアではなく、ラオックス側の入口からエレベーターで5階のトレカモーールのフロアに上がると、その中のブースの一つがこの店です。"
  },
  "tips": {
   "ko": [
@@ -92,6 +95,11 @@
    "It concentrates on Pokemon cards: PSA graded cards, sealed boxes, singles and shop-only oripa packs.",
    "The 5F Toreca Mall floor opened on 14 March 2026 at 111 tsubo, with the HAO Akihabara crane-game corner and a battle space on the same floor.",
    "There is no official website, so restock news and same-day opening notices appear only on X (@Quest_TCG_AKIBA)."
+  ],
+  "ja": [
+   "ポケモンカード一本に絞った店で、PSA鑑定品や未開封BOX、シングル、店舗限定のオリパが主力です。",
+   "5階のトレカモーールは2026年3月14日に111坪の規模でオープンし、同じフロアにはクレーンゲームのコーナーHAO秋葉原とバトルスペースが並んでいます。",
+   "公式サイトがないため、入荷情報やその日の営業案内はX（@Quest_TCG_AKIBA）にだけ掲載されます。"
   ]
  },
  "photo": null,

@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "N게이지 차량·키트·부품과 16번 플라스틱 완성품, 철도 서적·DVD를 갖춘 철도모형 전문점",
-  "en": "Railway model shop for N-gauge trains, kits, parts, 16-ban plastic models, books and DVDs"
+  "en": "Railway model shop for N-gauge trains, kits, parts, 16-ban plastic models, books and DVDs",
+  "ja": "Nゲージの車両・キット・パーツと16番プラスチック製品、鉄道書籍やDVDの鉄道模型店"
  },
  "building_id": null,
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일은 20:30까지, 토·일·공휴일은 19:00까지로 폐점 시간이 다르다.",
-   "en": "Closes at 20:30 on weekdays but 19:00 on weekends and public holidays."
+   "en": "Closes at 20:30 on weekdays but 19:00 on weekends and public holidays.",
+   "ja": "平日は20:30、土日祝は19:00に閉店します。"
   },
   "source_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 개찰구가 가장 가깝다. 전기가 북쪽 출구로 나와 좌회전해 아트레를 따라 걷다가 주오도리를 건넌 뒤, 마쓰모토키요시와 게임센터 사이의 길로 들어가 소부선 고가를 따라 서쪽으로 3~4분 걸으면 KFC 대각선 맞은편 건물이 우치다 빌딩(内田ビル)이다. 1층 전자부품점 하마다전자(浜田電子)가 표식이며, 하마다전자와 나사 전문점 네지노 니시카와(ネジの西川) 사이의 입구로 들어가 엘리베이터나 계단으로 3층에 올라간다.",
-  "en": "The Electric Town ticket gate at JR Akihabara is the closest. Take the Electric Town north exit, turn left, follow Atre and cross Chuo-dori, then take the street between Matsumoto Kiyoshi and the game arcade and follow the Sobu-line viaduct west for 3-4 minutes; the Uchida Building is the one diagonally opposite the KFC. The parts shop Hamada Denshi on the ground floor is the landmark, and the entrance is between Hamada Denshi and the screw shop Neji no Nishikawa - take the lift or the stairs to 3F."
+  "en": "The Electric Town ticket gate at JR Akihabara is the closest. Take the Electric Town north exit, turn left, follow Atre and cross Chuo-dori, then take the street between Matsumoto Kiyoshi and the game arcade and follow the Sobu-line viaduct west for 3-4 minutes; the Uchida Building is the one diagonally opposite the KFC. The parts shop Hamada Denshi on the ground floor is the landmark, and the entrance is between Hamada Denshi and the screw shop Neji no Nishikawa - take the lift or the stairs to 3F.",
+  "ja": "JR秋葉原駅では電気街口の改札がいちばん近いです。電気街北口を出て左に曲がり、アトレに沿って歩いて中央通りを渡ったら、マツモトキヨシとゲームセンターの間の道に入り、総武線の高架沿いに西へ3〜4分歩きます。KFCの斜向かいのビルが内田ビルで、1Fの部品店、浜田電子が目印です。入口は浜田電子とネジ専門店のネジの西川の間にあり、エレベーターか階段で3Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -103,6 +107,12 @@
    "The Akihabara branch centres on N-gauge trains, kits and parts plus 16-ban plastic models; 16-ban kits and scenery are barely stocked. Finished N-gauge sets are displayed as full train formations.",
    "It stays open to 20:30 on weekdays but closes at 19:00 on weekends and holidays, so avoid a late weekend visit.",
    "Besides cash and the shop's own IMON'S card, ordinary credit cards and e-money are accepted; only konbini payment is web-order-only."
+  ],
+  "ja": [
+   "中古・委託・アウトレットのMONTAが同じ3Fにあるので、新品と中古を一度に見ることができます。",
+   "秋葉原店はNゲージの車両・キット・パーツと16番のプラスチック製品が中心で、16番のキットや情景用品はほとんど置いていません。Nゲージの完成品セットは編成のまま展示されています。",
+   "平日は20:30まで開いていますが、土日祝は19:00に閉まるので、週末の遅い時間の訪問は避けたほうがよいです。",
+   "現金と自社のIMON'Sカードのほか、一般のクレジットカードや電子マネーでも支払えます。コンビニ決済だけはオンライン通信販売専用です。"
   ]
  },
  "official_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP",

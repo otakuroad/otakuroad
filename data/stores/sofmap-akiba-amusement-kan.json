@@ -42,7 +42,8 @@
  ],
  "one_line": {
   "ko": "신품·중고 게임과 피규어, 프라모델, 애니 굿즈를 층별로 나눈 소프맵의 8층 취미 전문관",
-  "en": "Sofmap's eight floors: new and used games, figures, model kits, anime goods, collab cafe"
+  "en": "Sofmap's eight floors: new and used games, figures, model kits, anime goods, collab cafe",
+  "ja": "ソフマップの8フロア、新品・中古のゲームやフィギュア、プラモデル、アニメグッズ、コラボカフェ"
  },
  "building_id": null,
  "floors": [
@@ -59,42 +60,50 @@
   {
    "floor": "1F",
    "ko": "신품 호비·피규어, 타마시 네이션즈(반다이) 코너",
-   "en": "New figures and hobby items; Tamashii Nations (Bandai) corner"
+   "en": "New figures and hobby items; Tamashii Nations (Bandai) corner",
+   "ja": "新品のホビー・フィギュアと、魂ネイションズ（バンダイ）のコーナーがあります。"
   },
   {
    "floor": "2F",
    "ko": "신품 프라모델, 공구, 도료",
-   "en": "New plastic model kits, tools and paints"
+   "en": "New plastic model kits, tools and paints",
+   "ja": "新品のプラモデル、工具、塗料を扱います。"
   },
   {
    "floor": "3F",
    "ko": "신품·중고 콘솔 게임기와 소프트, 소프트 매입 카운터",
-   "en": "New and used console hardware and games; software buyback counter"
+   "en": "New and used console hardware and games; software buyback counter",
+   "ja": "新品・中古のコンシューマーゲーム機とソフト、ソフトの買取カウンターがあります。"
   },
   {
    "floor": "4F",
    "ko": "신품 PC 게임(성인용)",
-   "en": "New PC games (adult)"
+   "en": "New PC games (adult)",
+   "ja": "新品のPCゲーム（成人向け）を扱います。"
   },
   {
    "floor": "5F",
    "ko": "애니 영상 소프트(신품·중고), 애니·성우 음악 CD, 중고 PC 게임(성인용)",
-   "en": "Anime Blu-ray/DVD (new and used), anime and voice-actor CDs, used adult PC games"
+   "en": "Anime Blu-ray/DVD (new and used), anime and voice-actor CDs, used adult PC games",
+   "ja": "アニメの映像ソフト（新品・中古）、アニメ・声優の音楽CD、中古の成人向けPCゲームを扱います。"
   },
   {
    "floor": "6F",
    "ko": "애니메가×소프맵: 신품 애니 굿즈·코믹스",
-   "en": "Animega x Sofmap: new anime goods and comics"
+   "en": "Animega x Sofmap: new anime goods and comics",
+   "ja": "アニメガ×ソフマップで、新品のアニメグッズとコミックスを扱います。"
   },
   {
    "floor": "7F",
    "ko": "STELLAMAP Cafe(콜라보 카페) 11:00–20:00, 라스트오더 19:15",
-   "en": "STELLAMAP Cafe (collab cafe), 11:00-20:00, last order 19:15"
+   "en": "STELLAMAP Cafe (collab cafe), 11:00-20:00, last order 19:15",
+   "ja": "コラボカフェのSTELLAMAP Cafe（ステラマップカフェ）で、11:00〜20:00、ラストオーダーは19:15です。"
   },
   {
    "floor": "8F",
    "ko": "이벤트 플로어(아이돌·그라비아 이벤트)",
-   "en": "Event floor (idol and gravure events)"
+   "en": "Event floor (idol and gravure events)",
+   "ja": "イベントフロアで、アイドルやグラビアのイベントが開かれます。"
   }
  ],
  "location": {
@@ -122,11 +131,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입(당일 지급)은 폐점 2시간 전까지 접수하며 혼잡 시 더 일찍 마감. 7F STELLAMAP Cafe는 라스트오더 19:15.",
-   "en": "Buyback with same-day payment is accepted until 2 hours before closing, earlier when busy. 7F STELLAMAP Cafe last order 19:15."
+   "en": "Buyback with same-day payment is accepted until 2 hours before closing, earlier when busy. 7F STELLAMAP Cafe last order 19:15.",
+   "ja": "当日支払いの買取は閉店の2時間前までの受付で、混雑時はさらに早く締め切ります。7FのSTELLAMAP Cafe（ステラマップカフェ）はラストオーダー19:15です。"
   },
   "source_url": "https://www.sofmap.com/tenpo/?id=shops&sid=akiba_ams"
  },
@@ -145,7 +156,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리로 나가 북쪽으로 약 3분, 주오도리 서쪽 보도에 면한 8층 건물(히라오카 빌딩). 남쪽 실크햇(구 GiGO 1호관)과 북쪽 HEY 오락실 사이의 SOFMAP 로고 간판이 목표. 1F 피규어 매장으로 들어가 엘리베이터로 위층 이동.",
-  "en": "From the JR Akihabara Electric Town exit walk to Chuo-dori and go north about 3 minutes; the eight-storey Hiraoka Building faces the west sidewalk. Look for the SOFMAP logo between Silk Hat (ex-GiGO 1) to the south and the HEY arcade to the north, enter via the 1F figure floor and take the elevator up."
+  "en": "From the JR Akihabara Electric Town exit walk to Chuo-dori and go north about 3 minutes; the eight-storey Hiraoka Building faces the west sidewalk. Look for the SOFMAP logo between Silk Hat (ex-GiGO 1) to the south and the HEY arcade to the north, enter via the 1F figure floor and take the elevator up.",
+  "ja": "JR秋葉原駅電気街口から中央通りに出て北へ約3分、西側の歩道に面した8階建ての平岡ビルです。南のシルクハット秋葉原（旧GiGO1号館）と北のゲームセンターHey（Hirose Entertainment Yard）の間にあるSOFMAPのロゴ看板が目印で、1Fのフィギュア売り場から入ってエレベーターで上の階に向かいます。"
  },
  "tips": {
   "ko": [
@@ -159,6 +171,12 @@
    "Game software buyback is at the 3F counter; same-day payment is accepted until 2 hours before closing, earlier when busy.",
    "7F STELLAMAP Cafe has 40 non-smoking seats and free Wi-Fi; the collab changes often, so check the official site for the current run and how to get in.",
    "All of 4F and part of 5F are adult PC game sections; age checks may apply."
+  ],
+  "ja": [
+   "免税手続きは専用カウンターがなく、各フロアのレジで対応しています（パスポートをお持ちください）。",
+   "ゲームソフトの買取は3Fのカウンターです。当日支払い分の受付は閉店の2時間前までで、混雑時はさらに早く締め切ります。",
+   "7FのSTELLAMAP Cafe（ステラマップカフェ）は40席の全席禁煙で、無料Wi-Fiが使えます。コラボ作品がよく変わるので、開催内容と入店方法は公式サイトで確認してください。",
+   "4F全体と5Fの一部は成人向けPCゲームの売り場で、年齢確認がある場合があります。"
   ]
  },
  "official_url": "https://www.sofmap.com/tenpo/?id=shops&sid=akiba_ams",

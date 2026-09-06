@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "원피스 카드 전문점. 싱글·오리파 판매와 매입, 영어 응대와 해외 발송",
-  "en": "One Piece card specialist selling singles and oripa, with buyback and English service"
+  "en": "One Piece card specialist selling singles and oripa, with buyback and English service",
+  "ja": "ワンピースカードの専門店、シングルとオリパの販売に買取と英語対応"
  },
  "building_id": null,
  "floors": [
@@ -67,7 +68,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 19:00에 닫고 토·일·공휴일만 21:00까지 연다. 정기휴일 안내는 공식 사이트에 없다.",
-   "en": "Weekdays close at 19:00; only Saturdays, Sundays and public holidays run to 21:00. The official site lists no regular closing day."
+   "en": "Weekdays close at 19:00; only Saturdays, Sundays and public holidays run to 21:00. The official site lists no regular closing day.",
+   "ja": "平日は19:00に閉まり、21:00まで開いているのは土日祝だけです。公式サイトに定休日の記載はありません。"
   },
   "source_url": "https://oneties-japan.com/"
  },
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "간다강을 건너 남쪽 간다스다초 2초메, 도에이 신주쿠선 이와모토초역에서 도보 1분·JR 아키하바라역에서 도보 5분. 2층이 소프비·디자이너 토이 숍 One up. 아키하바라점(신아키바)인 타마진(玉甚)빌딩의 1층 노면 점포다.",
-  "en": "South across the Kanda river in Kanda-Sudacho 2-chome, one minute from Iwamotocho on the Toei Shinjuku line and five from JR Akihabara. It is the ground-floor unit of the Tamajin Building, whose 2F is the sofubi and designer-toy shop One up. Akihabara (Shin-Akiba)."
+  "en": "South across the Kanda river in Kanda-Sudacho 2-chome, one minute from Iwamotocho on the Toei Shinjuku line and five from JR Akihabara. It is the ground-floor unit of the Tamajin Building, whose 2F is the sofubi and designer-toy shop One up. Akihabara (Shin-Akiba).",
+  "ja": "神田川を渡った南側の神田須田町2丁目で、都営新宿線の岩本町駅から徒歩1分、JR秋葉原駅から5分です。玉甚ビルの1Fに入る路面の店舗で、2Fはソフビとデザイナーズトイの店、One up. 秋葉原店（シン・アキバ）です。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,12 @@
    "English-speaking staff are on hand; overseas orders go through Instagram DM, paid by credit card, Wise or PayPal.",
    "Weekdays 13:00-19:00 and weekends/holidays 13:00-21:00, so it shuts early on weekdays.",
    "Opened August 2023, licensed as a second-hand dealer (No. 431010058611); mail-in buyback is accepted from anywhere in Japan."
+  ],
+  "ja": [
+   "扱うタイトルはワンピースカードだけで、ほかのゲームは一切ありません。",
+   "英語を話せるスタッフがおり、海外からの注文はInstagramのDMで受け付け、支払いはクレジットカード、Wise、PayPalです。",
+   "平日は13:00〜19:00、土日祝は13:00〜21:00なので、平日は早く閉まります。",
+   "2023年8月の開店で、古物商の許可（第431010058611号）を受けています。宅配買取は全国から受け付けています。"
   ]
  },
  "official_url": "https://oneties-japan.com/",

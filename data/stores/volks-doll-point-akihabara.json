@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "슈퍼돌피·돌피드림 구체관절인형과 위그·눈·의상, 케어 용품 판매",
-  "en": "Super Dollfie and Dollfie Dream ball-jointed dolls, wigs, eyes, outfits and care goods"
+  "en": "Super Dollfie and Dollfie Dream ball-jointed dolls, wigs, eyes, outfits and care goods",
+  "ja": "スーパードルフィーとドルフィードリームの球体関節人形、ウィッグ・アイ・衣装・お手入れ用品"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(건물 휴관일 제외)",
-   "en": "Open year-round except building closure days"
+   "en": "Open year-round except building closure days",
+   "ja": "年中無休（建物の休館日を除く）"
   },
   "note": {
    "ko": "평일은 11:00, 토·일·공휴일은 10:00 개점. 같은 8F의 호비스퀘어와 시간이 같으며, 사원 연수·리뉴얼로 임시 휴업하는 날이 있어 라디오회관 공지(8F 볼크스)를 확인",
-   "en": "Opens 11:00 on weekdays and 10:00 at weekends and holidays, the same as Hobby Square on the same 8F. Occasional whole-day closures for staff training or renovation are posted as '8F Volks' notices on the Radio Kaikan site"
+   "en": "Opens 11:00 on weekdays and 10:00 at weekends and holidays, the same as Hobby Square on the same 8F. Occasional whole-day closures for staff training or renovation are posted as '8F Volks' notices on the Radio Kaikan site",
+   "ja": "平日は11:00、土日・祝日は10:00に開き、同じ8Fのボークス ホビースクエア秋葉原と同じ時間です。社員研修やリニューアルで丸一日休むことがあり、ラジオ会館のサイトに「8F ボークス」のお知らせとして掲載されます。"
   },
   "source_url": "https://dollfie.volks.co.jp/shop/dolpo/"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 8F 전체가 볼크스이며, 엘리베이터에서 내려 한쪽이 돌포인트(인형), 반대쪽이 호비스퀘어(모형)다. 인형을 찾는다면 돌피 쇼케이스와 촬영 부스가 있는 쪽으로.",
-  "en": "The whole 8F of Radio Kaikan is Volks: step off the elevator and Doll Point (dolls) is on one side, Hobby Square (model kits) on the other. For dolls, head towards the Dollfie showcases and photo booths."
+  "en": "The whole 8F of Radio Kaikan is Volks: step off the elevator and Doll Point (dolls) is on one side, Hobby Square (model kits) on the other. For dolls, head towards the Dollfie showcases and photo booths.",
+  "ja": "ラジオ会館の8Fは全体がボークスです。エレベーターを降りると片側がドールポイント（人形）、反対側がホビースクエア（模型）なので、人形が目当てならドルフィーのショーケースと撮影ブースのある側へ進んでください。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "A self-care desk (free tools for fitting parts and grooming wigs), photo spaces and the DD Museum display mean you can look around without buying.",
    "There are Akihabara-only limited items you will not find in the online store.",
    "It is a different shop from Volks Akihabara Hobby Tengoku 2 at Sotokanda 4-2-10."
+  ],
+  "ja": [
+   "ボークス公式のドルフィードリームのフラッグシップストアで、ヘッド、ボディ、ウィッグ、アイを組み合わせて、完成した人形をその日に持ち帰れる「DDドリームチョイス」のサービスがあります。",
+   "パーツの取り付けやウィッグのお手入れの道具を無料で使えるセルフケアデスク、撮影スペース、DDミュージアムの展示があるので、買わなくても見て回れます。",
+   "オンラインストアにはない秋葉原限定の商品があります。",
+   "外神田4-2-10のボークス秋葉原ホビー天国2とは別の店です。"
   ]
  },
  "official_url": "https://dollfie.volks.co.jp/shop/dolpo/",

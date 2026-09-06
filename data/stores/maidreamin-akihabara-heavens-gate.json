@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "360도 무대의 메이드 라이브 공연을 보며 식사하는 대형 메이드 레스토랑",
-  "en": "Large maid restaurant with a 360-degree stage: maid live shows with food and drink"
+  "en": "Large maid restaurant with a 360-degree stage: maid live shows with food and drink",
+  "ja": "360度ステージのメイドライブを食事やドリンクとともに楽しむ大型メイドレストラン"
  },
  "building_id": "ichigo-akihabara-ekimae-building",
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "월·화만 11:30 오픈이고 수~일과 공휴일은 10:30 오픈. 공식 점포 페이지의 요일별 영업시간 기준이다.",
-   "en": "Only Monday and Tuesday open at 11:30; Wednesday to Sunday and public holidays open at 10:30, per the official store page's day-by-day listing."
+   "en": "Only Monday and Tuesday open at 11:30; Wednesday to Sunday and public holidays open at 10:30, per the official store page's day-by-day listing.",
+   "ja": "月曜と火曜だけが11:30開店で、水曜から日曜と祝日は10:30開店です。公式の店舗ページに載っている曜日ごとの営業時間によります。"
   },
   "source_url": "https://maidreamin.com/shop/detail.html?id=6"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 개찰구에서 도보 10초, namco가 들어 있는 흰색 빌딩 6F. 1층 이치반쿠지 코너 옆 빌딩 입구에서 엘리베이터를 타고 올라간다.",
-  "en": "Ten seconds from the Electric Town Exit ticket gates, on 6F of the white building that houses namco. Enter beside the 1F Ichiban Kuji corner and take the building elevator up."
+  "en": "Ten seconds from the Electric Town Exit ticket gates, on 6F of the white building that houses namco. Enter beside the 1F Ichiban Kuji corner and take the building elevator up.",
+  "ja": "電気街口の改札から徒歩10秒、namco秋葉原店が入る白いビルの6Fです。1Fの一番くじコーナーの横にあるビルの入口から入り、エレベーターで上がります。"
  },
  "tips": {
   "ko": [
@@ -98,6 +102,12 @@
    "During HYPER slots there is a 3,800 yen one-hour all-you-can-drink course.",
    "Sixty seats around a 360-degree stage — the most performance-led of the Akihabara maidreamin branches.",
    "Opening is 11:30 on Mon and Tue but 10:30 the rest of the week and on holidays, so check the day before a morning visit."
+  ],
+  "ja": [
+   "料金は1時間880円のチャージに1人1オーダー制で、延長も1時間880円です。",
+   "HYPERが開催される時間帯には、1時間3,800円の飲み放題コースがあります。",
+   "60席の店内に360度ステージがあり、秋葉原のめいどりーみんの店舗の中でもっともライブの比重が大きい店です。",
+   "開店は月曜と火曜が11:30、ほかの曜日と祝日は10:30なので、午前中に行くときは曜日を確かめてください。"
   ]
  },
  "official_url": "https://maidreamin.com/shop/detail.html?id=6",

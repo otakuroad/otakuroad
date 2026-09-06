@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "보드게임·TRPG·워게임·주사위의 신품·중고·동인 판매와 유료 플레이 테이블",
-  "en": "New, used and doujin board games, TRPG books, wargames and dice; paid play tables"
+  "en": "New, used and doujin board games, TRPG books, wargames and dice; paid play tables",
+  "ja": "新品・中古・同人のボードゲームやTRPG、ウォーゲーム、ダイス。有料のプレイテーブルあり"
  },
  "building_id": "shioda-tour-akihabara-building",
  "floors": [
@@ -71,11 +72,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입 접수는 폐점 30분 전까지(평일 19:30, 토 19:30, 일·공휴일 18:30). 수량이 많으면 몇 시간 걸리거나 다음 날 사정이 될 수 있다",
-   "en": "Buyback intake closes 30 minutes before the shop (19:30 Mon-Sat, 18:30 Sun and holidays); large lots can take hours or be appraised the next day"
+   "en": "Buyback intake closes 30 minutes before the shop (19:30 Mon-Sat, 18:30 Sun and holidays); large lots can take hours or be appraised the next day",
+   "ja": "買取の受付は閉店の30分前まで（月〜土は19:30、日曜・祝日は18:30）です。点数が多いと数時間かかったり、翌日の査定になったりすることがあります。"
   },
   "source_url": "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9frpg%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/"
  },
@@ -91,7 +94,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 스에히로초역 방면 塩田トゥール秋葉原 빌딩 6층. 라디오회관 6층의 옐로서브마린 아키하바라 본점 민트와는 다른 매장으로, 이쪽은 트레카가 아니라 아날로그 게임 전문점이다.",
-  "en": "6F of the Shioda Tour Akihabara building east of Chuo-dori toward Suehirocho. It is a different shop from Yellow Submarine Akihabara MINT on 6F of Radio Kaikan: this branch handles analogue games rather than trading cards."
+  "en": "6F of the Shioda Tour Akihabara building east of Chuo-dori toward Suehirocho. It is a different shop from Yellow Submarine Akihabara MINT on 6F of Radio Kaikan: this branch handles analogue games rather than trading cards.",
+  "ja": "中央通りの東側、末広町駅の方へ進んだところにある塩田トゥール秋葉原ビルの6Fです。ラジオ会館6Fのイエローサブマリン秋葉原本店★ミントとは別の店で、こちらはトレカではなくアナログゲームを扱います。"
  },
  "tips": {
   "ko": [
@@ -105,6 +109,12 @@
    "Buyback covers board games, TRPGs and simulation games only - no trading cards.",
    "Doujin board games, doujin TRPG books and doujin dice are stocked year-round, which makes it a good stop for post-Comiket titles.",
    "It closes at 19:00 on Sundays and public holidays, an hour earlier than the rest of the week."
+  ],
+  "ja": [
+   "プレイスペースは有料です。平日は2名1,000円、3〜4名2,000円、5〜6名3,000円、土日・祝日は2名2,000円、3〜4名3,000円、5〜6名4,000円で、店内で一定額以上買うと別の料金が適用されます。",
+   "買取の対象はボードゲーム、TRPG、シミュレーションゲームだけで、トレカは受け付けていません。",
+   "同人のボードゲームや同人TRPG、同人ダイスを常時扱っているので、コミケのあとの作品を探すのにも向いています。",
+   "日曜・祝日は19:00に閉まり、ほかの曜日より1時間早くなります。"
   ]
  },
  "official_url": "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9frpg%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97/",

@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "빌딩 8층의 유희왕·포켓몬 카드 전문점. 초기판·구판 싱글 판매와 매입",
-  "en": "8F card shop for Yu-Gi-Oh and Pokemon: vintage and current singles, sales and buyback"
+  "en": "8F card shop for Yu-Gi-Oh and Pokemon: vintage and current singles, sales and buyback",
+  "ja": "8Fの遊戯王・ポケモンカードの店、旧版から現行までのシングル販売と買取"
  },
  "building_id": null,
  "floors": [
@@ -67,11 +68,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "체인 공식 점포 페이지에 연중무휴 11:00~20:00으로 실려 있다. 임시 휴업·시간 변경은 공식 사이트 공지와 X(@otachu2go)에 올라온다.",
-   "en": "The chain's official store page lists it as open year-round, 11:00-20:00. Temporary closures and changed hours are posted in the site's news feed and on X (@otachu2go)."
+   "en": "The chain's official store page lists it as open year-round, 11:00-20:00. Temporary closures and changed hours are posted in the site's news feed and on X (@otachu2go).",
+   "ja": "チェーンの公式店舗ページには年中無休11:00〜20:00と載っています。臨時休業や時間の変更は、サイトのお知らせとX（@otachu2go）に掲載されます。"
   },
   "source_url": "https://otachu-akiba.com/2go/"
  },
@@ -87,7 +90,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 6분, 도쿄메트로 스에히로초역이 더 가깝다. 주오도리 동쪽의 9층짜리 고구레스에히로(小暮末広) 빌딩으로, 1층 엘리베이터로 8층까지 올라간다. 같은 건물 위층에는 PDG 컬렉터 숍이 있다.",
-  "en": "Six minutes from the JR Akihabara Electric Town Exit, and closer to Tokyo Metro Suehirocho. It is on 8F of the nine-storey Kogure Suehiro Building east of Chuo-dori; take the ground-floor elevator up. PDG Collector Shop is on the upper floors of the same building."
+  "en": "Six minutes from the JR Akihabara Electric Town Exit, and closer to Tokyo Metro Suehirocho. It is on 8F of the nine-storey Kogure Suehiro Building east of Chuo-dori; take the ground-floor elevator up. PDG Collector Shop is on the upper floors of the same building.",
+  "ja": "JR秋葉原駅電気街口から徒歩6分で、東京メトロの末広町駅のほうが近いです。中央通りの東側に建つ9階建ての小暮末広ビルの8Fで、1Fのエレベーターで上がります。同じビルの上の階にはPDG collector's shopが入っています。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,12 @@
    "There is no duel or play space here - use the No.5 branch's basement for that.",
    "Credit cards, e-money (transit IC, iD, QUICPay and others), PayPay and Alipay are accepted. Tax-free is not advertised.",
    "Mail-in buyback is also accepted. The antique dealer licence is issued by the Niigata Prefectural Public Safety Commission (461020002392)."
+  ],
+  "ja": [
+   "在庫は遊戯王とポケモンカードの初期版・旧裏面のシングルに寄っているので、最新の拡張パックが目当てなら同じチェーンの5号店のほうが向いています。",
+   "対戦やプレイのスペースはここにはありません。プレイが目的なら5号店の地下を使ってください。",
+   "クレジットカード、電子マネー（交通系IC、iD、QUICPayなど）、PayPay、Alipayが使えます。免税の案内はありません。",
+   "宅配買取も受け付けています。古物商許可は新潟県公安委員会（461020002392）の交付です。"
   ]
  },
  "official_url": "https://otachu-akiba.com/2go/",

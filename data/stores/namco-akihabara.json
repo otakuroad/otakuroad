@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "반다이남코 직영 오락실. 크레인게임·비디오게임과 가샤폰·이치반쿠지·카드게임 공식숍",
-  "en": "Bandai Namco arcade: crane and video games, official Gashapon, Ichiban Kuji and card shops"
+  "en": "Bandai Namco arcade: crane and video games, official Gashapon, Ichiban Kuji and card shops",
+  "ja": "バンダイナムコのゲームセンター、クレーンゲームやビデオゲームと公式ショップ"
  },
  "building_id": "ichigo-akihabara-ekimae-building",
  "floors": [
@@ -51,32 +52,38 @@
   {
    "floor": "B1F",
    "ko": "비디오 게임 층. 「기동전사 건담 익스트림 버서스2」 대수를 몰아 놓고 대회·교류 이벤트를 연다",
-   "en": "Video game floor built around Mobile Suit Gundam Extreme Vs. 2 cabinets, with regular tournaments and meetups"
+   "en": "Video game floor built around Mobile Suit Gundam Extreme Vs. 2 cabinets, with regular tournaments and meetups",
+   "ja": "ビデオゲームのフロアで、「機動戦士ガンダム エクストリームバーサス2」の筐体を中心に、大会や交流イベントが定期的に開かれます"
   },
   {
    "floor": "1F",
    "ko": "크레인 게임과 반프레스토 캐릭터 피규어 전문 코너 「반프레야 아키바 피규어 컬렉션」, 「이치반쿠지 공식숍 아키하바라점」",
-   "en": "Crane games, the Banpuresya Akiba Figure Collection corner for Banpresto character figures, and the Ichiban Kuji Official Shop"
+   "en": "Crane games, the Banpuresya Akiba Figure Collection corner for Banpresto character figures, and the Ichiban Kuji Official Shop",
+   "ja": "クレーンゲームと、バンプレストのキャラクターフィギュアを扱うバンプレ屋 アキバフィギュアコレクションのコーナー、一番くじ公式ショップ 秋葉原店があります"
   },
   {
    "floor": "2F",
    "ko": "크레인 게임 층. namco 한정 경품과 인기 캐릭터 경품 중심",
-   "en": "Crane game floor with namco-exclusive prizes and current character prizes"
+   "en": "Crane game floor with namco-exclusive prizes and current character prizes",
+   "ja": "クレーンゲームのフロアで、namco限定の景品や今のキャラクター景品が並びます"
   },
   {
    "floor": "3F",
    "ko": "비디오 게임 층. 「태고의 달인」 등 음악·체감 게임과 정기 이벤트",
-   "en": "Video game floor with Taiko no Tatsujin and other music/motion cabinets, plus regular events"
+   "en": "Video game floor with Taiko no Tatsujin and other music/motion cabinets, plus regular events",
+   "ja": "ビデオゲームのフロアで、「太鼓の達人」などの音楽・体感ゲームの筐体と定期イベントがあります"
   },
   {
    "floor": "4F",
    "ko": "캡슐토이 전문점 「가샤폰 반다이 오피셜숍 아키하바라점」. 같은 층에 「가샤폰노 데파토 아키하바라점」이 병설돼 두 매장 합쳐 800면 규모다",
-   "en": "Gashapon Bandai Official Shop Akihabara, a capsule-toy specialty store, with Gashapon no Depato Akihabara co-located on the same floor; 800 machine faces between them"
+   "en": "Gashapon Bandai Official Shop Akihabara, a capsule-toy specialty store, with Gashapon no Depato Akihabara co-located on the same floor; 800 machine faces between them",
+   "ja": "カプセルトイ専門店のガシャポンバンダイオフィシャルショップ秋葉原店があり、同じ階にガシャポンのデパート秋葉原店も併設されていて、2店合わせて800面の規模です"
   },
   {
    "floor": "5F",
    "ko": "반다이 카드게임 공식숍 「덱스타 DECKS STADIUM」. 플레이 스페이스와 대회 운영",
-   "en": "BANDAI CARD GAMES official shop DECKS STADIUM, with a play space and tournaments"
+   "en": "BANDAI CARD GAMES official shop DECKS STADIUM, with a play space and tournaments",
+   "ja": "BANDAI CARD GAMES 公式ショップ デクスタ -DECKS STADIUM- で、プレイスペースと大会があります"
   }
  ],
  "location": null,
@@ -101,11 +108,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "오락실 본체는 10:00-23:00. 층 안의 공식숍은 시간이 달라 가샤폰 반다이 오피셜숍은 10:00-23:00, 이치반쿠지 공식숍과 BANDAI CARD GAMES 공식숍(DECKS STADIUM)은 10:00-21:00이다.",
-   "en": "The arcade itself runs 10:00-23:00. The in-store official shops differ: Gashapon Bandai Official Shop 10:00-23:00, Ichiban Kuji Official Shop and the BANDAI CARD GAMES shop (DECKS STADIUM) 10:00-21:00."
+   "en": "The arcade itself runs 10:00-23:00. The in-store official shops differ: Gashapon Bandai Official Shop 10:00-23:00, Ichiban Kuji Official Shop and the BANDAI CARD GAMES shop (DECKS STADIUM) 10:00-21:00.",
+   "ja": "ゲームセンター自体は10:00-23:00です。館内の公式ショップは時間が異なり、ガシャポンバンダイオフィシャルショップ秋葉原店は10:00-23:00、一番くじ公式ショップ 秋葉原店とBANDAI CARD GAMES 公式ショップ デクスタ -DECKS STADIUM- は10:00-21:00です。"
   },
   "source_url": "https://bandainamco-am.co.jp/game_center/loc/akihabara/"
  },
@@ -121,7 +130,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구를 나오면 바로 정면에 보이는 흰색 빌딩(옛 세가 아키하바라 4호관·GiGO 4호관). 역에서 도보 1분이며 B1F부터 5F까지 전부 namco다.",
-  "en": "The white building straight ahead as you leave JR Akihabara's Electric Town Exit (the former Sega / GiGO Akihabara Building 4). One minute from the gate; namco fills B1F through 5F."
+  "en": "The white building straight ahead as you leave JR Akihabara's Electric Town Exit (the former Sega / GiGO Akihabara Building 4). One minute from the gate; namco fills B1F through 5F.",
+  "ja": "JR秋葉原駅の電気街口を出ると正面に見える白いビル（旧セガ／GiGO秋葉原4号館）です。改札から徒歩1分で、B1Fから5Fまでがnamcoです。"
  },
  "tips": {
   "ko": [
@@ -135,6 +145,12 @@
    "The 4F Gashapon shop stays open to 23:00, but the 1F Ichiban Kuji shop and the 5F card-game shop close at 21:00, so come earlier if you are after merchandise.",
    "B1F is given over to Mobile Suit Gundam Extreme Vs. 2, with frequent tournaments and player meetups.",
    "The official installed-cabinet list is Mobile Suit Gundam Extreme Vs. 2 Over Boost, Gundam Arsenal Base, Taiko no Tatsujin, maimai DX PRiSM and CHUNITHM VERSE."
+  ],
+  "ja": [
+   "16歳未満は18:00以降は入場できず、保護者同伴なら22:00まで入れます。18歳未満は22:00以降は入場できません。",
+   "4Fのガシャポンのショップは23:00までですが、1Fの一番くじのショップと5Fのカードゲームのショップは21:00に閉まるので、グッズが目当てなら早めに行ってください。",
+   "B1Fは「機動戦士ガンダム エクストリームバーサス2」に充てられたフロアで、大会やプレイヤーの交流イベントが頻繁に開かれます。",
+   "公式の設置機種一覧に載っているのは「機動戦士ガンダム エクストリームバーサス2 オーバーブースト」「機動戦士ガンダム アーセナルベース」「太鼓の達人」「maimai でらっくす PRiSM」「CHUNITHM VERSE」です。"
   ]
  },
  "official_url": "https://bandainamco-am.co.jp/game_center/loc/akihabara/",

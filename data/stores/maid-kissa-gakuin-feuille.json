@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "카운터석 중심 메이드 카페. 메이드와의 대화, 체키, 여성 손님 메이드복 대여",
-  "en": "Counter-seat maid cafe: talk with the maids, cheki photos, maid-dress loan for women"
+  "en": "Counter-seat maid cafe: talk with the maids, cheki photos, maid-dress loan for women",
+  "ja": "カウンター席中心のメイド喫茶、メイドとの会話やチェキ、女性客はメイド服の貸し出し"
  },
  "building_id": "sumiyoshi-building",
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休"
   },
   "note": {
    "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 13:00~23:00. 정기휴일은 부정기이며 화요일에 쉬는 주가 많다. 날짜별 영업시간·휴무와 개점 시각 변경은 공식 X(@filles_maidcafe)에 올라온다.",
-   "en": "17:00-23:00 on weekdays and 13:00-23:00 at weekends and public holidays, per the official site. Closing days are irregular and often fall on a Tuesday; day-by-day hours and changed opening times are posted on X (@filles_maidcafe)."
+   "en": "17:00-23:00 on weekdays and 13:00-23:00 at weekends and public holidays, per the official site. Closing days are irregular and often fall on a Tuesday; day-by-day hours and changed opening times are posted on X (@filles_maidcafe).",
+   "ja": "公式サイトによると平日は17:00〜23:00、土日祝は13:00〜23:00です。定休日は不定期で火曜日にあたることが多く、日ごとの営業時間や変更された開店時刻はX（@filles_maidcafe）に掲載されます。"
   },
   "source_url": "https://filles.jp/store/"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 6분. 주오도리 동쪽에 면한 9층짜리 스미요시(住吉) 빌딩 4층으로, 1층 입구에서 엘리베이터를 탄다. 같은 건물 6층이 메이드리밍 본점, 7층이 치요다 레일센터라 층 표시를 확인하고 내린다.",
-  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line and six minutes from JR Akihabara. It is on 4F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance. Maidreamin's main store is on 6F and Chiyoda Rail Center on 7F, so check the floor sign."
+  "en": "One minute from Suehirocho on the Tokyo Metro Ginza line and six minutes from JR Akihabara. It is on 4F of the nine-storey Sumiyoshi Building facing Chuo-dori; take the lift from the ground-floor entrance. Maidreamin's main store is on 6F and Chiyoda Rail Center on 7F, so check the floor sign.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩1分、JR秋葉原駅から徒歩6分です。中央通りに面した9階建ての住吉ビルの4Fで、1Fの入口からエレベーターに乗ります。6Fにめいどりーみん 秋葉原 本店、7Fにチヨダレールセンターが入っているので、階数の表示を確認して降りてください。"
  },
  "tips": {
   "ko": [
@@ -105,6 +109,13 @@
    "Women and couples pay 1,600 yen at any time, and a maid dress can be borrowed free of charge for photos taken inside the shop with your own camera.",
    "The Caferun concafe directory lists VISA and Mastercard plus PayPay, no reservations, no private hire, no groups, and a fully non-smoking room.",
    "There are 34 seats (18 at tables, 16 at the counter). It opens at 17:00 on weekdays, so it is shut during the day, and opening times change often, so check the official X account before going."
+  ],
+  "ja": [
+   "2019年11月に14周年のイベントを開いた老舗のメイド喫茶で、2005年からの店です。メイドにキャラクター設定を持たせず、カウンター席で会話を楽しむつくりになっています。",
+   "公式の料金ページ（2023年8月18日更新）では初回60分1,600円、2回目以降は60分1,800円で、席料とドリンク1杯、メイドとのミニゲームが含まれます。平日には90分のセット（2,100円／2,400円）もあります。",
+   "女性客とカップルはいつでも1,600円で、メイド服を無料で借り、自分のカメラで店内の写真を撮ることができます。",
+   "コンカフェのディレクトリであるカフェルンの店舗情報では、VISA・MastercardとPayPayが利用可能、予約・貸切・団体利用は不可、全席禁煙と案内されています。",
+   "席数は34席（テーブル18席、カウンター16席）です。平日は17:00開店で昼間は開いておらず、開店時刻の変更も多いので、行く前に公式Xを確認してください。"
   ]
  },
  "official_url": "https://filles.jp/",

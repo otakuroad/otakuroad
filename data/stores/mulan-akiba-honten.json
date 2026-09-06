@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "1층은 신품·중고 게임·CD·DVD·피규어·만화, 2~3층은 성인 매장인 리사이클숍",
-  "en": "1F new and used games, CDs, DVDs, figures and comics; 2F-3F are adult floors"
+  "en": "1F new and used games, CDs, DVDs, figures and comics; 2F-3F are adult floors",
+  "ja": "1Fは新品・中古のゲームやCD、DVD、フィギュア、漫画、2F〜3Fは成人向けフロア"
  },
  "building_id": null,
  "floors": [
@@ -45,17 +46,20 @@
   {
    "floor": "1F",
    "ko": "애니메이션·게임·아이돌 등 일반 층",
-   "en": "General floor: anime, games, idol goods and so on"
+   "en": "General floor: anime, games, idol goods and so on",
+   "ja": "アニメ、ゲーム、アイドルなどの一般フロアです"
   },
   {
    "floor": "2F",
    "ko": "중고·2차원 층 (R-18)",
-   "en": "Used and 2D floor (R-18)"
+   "en": "Used and 2D floor (R-18)",
+   "ja": "中古・二次元のフロアです（R-18）"
   },
   {
    "floor": "3F",
    "ko": "성인 상품·이벤트 층 (R-18)",
-   "en": "Adult goods and event floor (R-18)"
+   "en": "Adult goods and event floor (R-18)",
+   "ja": "成人向け商品とイベントのフロアです（R-18）"
   }
  ],
  "location": {
@@ -84,7 +88,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포 공식 사이트 기준 연중무휴 10:00-21:00이다. 매입 접수는 19:00에 끝나고 매주 월요일은 1층 매입 카운터만 쉰다(월요일이 공휴일이면 다음 화요일). 체인 점포 목록의 10:00-22:30과 '일요일 20:00 단축 영업' 표기는 오래된 값이다.",
-   "en": "The store's own site gives 10:00-21:00 every day, year-round. Buyback reception ends at 19:00 and the 1F buyback counter alone closes on Mondays (the following Tuesday when that Monday is a public holiday). The 10:00-22:30 and the 'Sunday 20:00 shortened hours' still shown on the chain store list are out of date."
+   "en": "The store's own site gives 10:00-21:00 every day, year-round. Buyback reception ends at 19:00 and the 1F buyback counter alone closes on Mondays (the following Tuesday when that Monday is a public holiday). The 10:00-22:30 and the 'Sunday 20:00 shortened hours' still shown on the chain store list are out of date.",
+   "ja": "店の公式サイトでは年中無休で10:00-21:00となっています。買取の受付は19:00に終わり、月曜日は1Fの買取カウンターだけが休みです（その月曜日が祝日の場合は翌火曜日）。チェーンの店舗一覧にまだ載っている10:00-22:30や日曜20:00までの短縮営業という表記は古い値です。"
   },
   "source_url": "https://e-mulan.com/top/?page_id=189"
  },
@@ -100,7 +105,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 5분, 주오도리 서쪽 소부선 고가 아래(JR高架下) 점포열에 있다. 같은 이름의 주오도리 호비관과는 다른 매장이다.",
-  "en": "Five minutes from the JR Akihabara Electric Town exit, in the shop row under the Sobu Line viaduct west of Chuo-dori. It is a different shop from the Chuo-dori Hobby Kan of the same name."
+  "en": "Five minutes from the JR Akihabara Electric Town exit, in the shop row under the Sobu Line viaduct west of Chuo-dori. It is a different shop from the Chuo-dori Hobby Kan of the same name.",
+  "ja": "JR秋葉原駅電気街口から徒歩5分、中央通りの西側、総武線の高架下に並ぶ店舗の一角にあります。同じ名前の買取販売市場ムーランAKIBA中央通りホビー館とは別の店舗です。"
  },
  "status": {
   "state": "open"
@@ -117,6 +123,12 @@
    "Open 10:00-21:00 every day, year-round. Buyback reception ends at 19:00 and the 1F buyback counter alone closes on Mondays (the following Tuesday when that Monday is a public holiday).",
    "It is a buy-and-sell recycle shop, so the 1F stock mixes new and used items.",
    "3F doubles as the event floor, where performer appearances are held."
+  ],
+  "ja": [
+   "一般向けは1Fだけで、2Fと3Fは成人向けフロアです。未成年や家族連れなら1Fで済ませてください。",
+   "年中無休で10:00-21:00の営業です。買取の受付は19:00に終わり、月曜日は1Fの買取カウンターだけが休みになります（その月曜日が祝日の場合は翌火曜日）。",
+   "買取も行うリサイクルショップなので、1Fの在庫は新品と中古が混ざっています。",
+   "3Fはイベントフロアも兼ねており、出演者が登場するイベントが開かれます。"
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E6%9C%AC%E5%BA%97/",

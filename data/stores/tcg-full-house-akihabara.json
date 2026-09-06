@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드와 원피스 카드만 취급하는 1층 소형 카드점, 매입 카운터 있음",
-  "en": "Small ground-floor shop dealing only in Pokemon and One Piece cards, with buyback"
+  "en": "Small ground-floor shop dealing only in Pokemon and One Piece cards, with buyback",
+  "ja": "ポケモンカードとワンピースカードだけを扱う1階の小さなカード店、買取あり"
  },
  "building_id": null,
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 4번 출구에서 북쪽으로 1분, JR 아키하바라역에서는 도보 8분. 카레집 모치즈키 카레(モチヅキカレー) 옆 나카테쓰빌딩 제1(中鉄ビル第一) 1층 101호 노면 점포다. 아키하바라 카드숍 밀집 구역에서 벗어난 오카치마치 방면이라 주변이 조용하다.",
-  "en": "One minute north of Ginza-line Suehirocho exit 4, eight minutes from JR Akihabara. Street-level unit 101 in Chutetsu Building No.1, next to the curry shop Mochizuki Curry. It sits past the dense card-shop strip, toward Okachimachi, so the block is quiet."
+  "en": "One minute north of Ginza-line Suehirocho exit 4, eight minutes from JR Akihabara. Street-level unit 101 in Chutetsu Building No.1, next to the curry shop Mochizuki Curry. It sits past the dense card-shop strip, toward Okachimachi, so the block is quiet.",
+  "ja": "銀座線の末広町駅4番出口から北へ1分、JR秋葉原駅からは徒歩8分です。カレー店のモチヅキカレーの隣、中鉄ビル第一の1階101号という路面店です。カードショップが密集する一帯を抜けた御徒町寄りにあり、周辺は静かです。"
  },
  "tips": {
   "ko": [
@@ -67,6 +69,11 @@
    "A new shop that pre-opened in late May 2026, so it does not appear in older maps or guides.",
    "It carries only Pokemon and One Piece cards; for other games head back south past Suehirocho.",
    "Its X profile (@tcg_fullhouse) gives daily hours of 12:00-20:00 and cash-only payment (cashless is promised later). There is no official website, so check X before going."
+  ],
+  "ja": [
+   "2026年5月下旬にプレオープンした新しい店舗のため、古い地図やガイドには載っていません。",
+   "扱うのはポケモンカードとワンピースカードだけなので、ほかのタイトルを探すなら末広町駅より南へ戻ることになります。",
+   "店舗のXプロフィール（@tcg_fullhouse）では営業時間を毎日12:00〜20:00、支払いは現金のみ（キャッシュレスは今後導入予定）としています。公式サイトがないので、行く前にXを確認してください。"
   ]
  },
  "official_url": null,

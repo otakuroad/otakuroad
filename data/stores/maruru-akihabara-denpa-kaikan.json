@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "JR역 가드 아래 전파회관 1층, 애니 피규어를 파는 작은 매장",
-  "en": "Anime figures from a small unit in Denpa Kaikan under the tracks by Akihabara Station"
+  "en": "Anime figures from a small unit in Denpa Kaikan under the tracks by Akihabara Station",
+  "ja": "秋葉原駅の高架下、秋葉原電波会館1Fでアニメのフィギュアを売る小さな店舗"
  },
  "building_id": "akihabara-denpa-kaikan",
  "floors": [
@@ -58,7 +59,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구(북쪽)에서 도보 1분, 소부선 고가 아래 아키하바라 전파회관 1층. 부품점 다나카무선전기(田中無線電機) 파츠점 바로 옆의 작은 점포로, 전자부품 가게들 사이에 피규어 진열장이 있어 눈에 띈다.",
-  "en": "A minute from the JR Akihabara Electric Town exit (north side), on 1F of Akihabara Denpa Kaikan under the Sobu line viaduct. It is the small unit right beside the parts shop Tanaka Musen Denki, and its figure cases stand out among the electronics stalls."
+  "en": "A minute from the JR Akihabara Electric Town exit (north side), on 1F of Akihabara Denpa Kaikan under the Sobu line viaduct. It is the small unit right beside the parts shop Tanaka Musen Denki, and its figure cases stand out among the electronics stalls.",
+  "ja": "JR秋葉原駅の電気街口（北側）から徒歩1分、総武線の高架下にある秋葉原電波会館の1Fです。パーツ店の田中無線電機のすぐ隣の小さな店舗で、電子部品の店が並ぶ中にフィギュアのショーケースがあるので目につきます。"
  },
  "tips": {
   "ko": [
@@ -68,6 +70,10 @@
   "en": [
    "Some Japanese coverage of the August 2025 opening called it a new shop in the Radio Center; it actually sits in the adjoining Denpa Kaikan.",
    "A separate branch, FIGURE HOBBY MARURU 6th Store, opened in the same building in March 2026 in the former Tiger Musen unit."
+  ],
+  "ja": [
+   "2025年8月の開店のとき、日本の一部の媒体は秋葉原ラジオセンターの新店舗として紹介しましたが、実際にあるのは隣の秋葉原電波会館です。",
+   "同じ建物の旧タイガー無線の区画には、2026年3月に別店舗のFIGURE HOBBY MARURU 6号店が開店しました。"
   ]
  },
  "official_url": null,

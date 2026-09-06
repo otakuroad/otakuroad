@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 전문점. 싱글·미개봉 팩·오리파 판매와 매입, 64석 무료 대전석",
-  "en": "Pokemon-card specialist: singles, sealed packs and oripa, buyback, and 64 free play seats"
+  "en": "Pokemon-card specialist: singles, sealed packs and oripa, buyback, and 64 free play seats",
+  "ja": "ポケモンカード専門店、シングル・未開封パック・オリパと買取、無料対戦席64席"
  },
  "building_id": null,
  "floors": [
@@ -68,7 +69,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일 13:00, 토·일·공휴일 12:00 개점. 정기휴무 안내는 공식 어디에도 없다.",
-   "en": "Opens at 13:00 on weekdays and at 12:00 on weekends and public holidays. No regular closing day is stated in any official source."
+   "en": "Opens at 13:00 on weekdays and at 12:00 on weekends and public holidays. No regular closing day is stated in any official source.",
+   "ja": "平日は13:00、土日・祝日は12:00の開店です。定休日はどの公式の情報にも書かれていません。"
   },
   "source_url": "https://www.tcsb.jp/"
  },
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 스에히로초역과 아키하바라역 중간의 千住ビル 5층. 길가에 매장 간판이 거의 없으므로 건물 앞에 도착하면 안으로 들어가 엘리베이터로 5층까지 올라간다. 공식 사이트 Access 페이지에 스에히로초역·아키하바라역·주오도리 교차로에서 오는 도보 경로 영상이 걸려 있다.",
-  "en": "5F of the Senju Building east of Chuo-dori, midway between Suehirocho and Akihabara stations. There is almost no street-level signage: reach the building, go inside and take the elevator to 5F. The official Access page links walking-route videos from Suehirocho Station, Akihabara Station and the Chuo-dori crossing."
+  "en": "5F of the Senju Building east of Chuo-dori, midway between Suehirocho and Akihabara stations. There is almost no street-level signage: reach the building, go inside and take the elevator to 5F. The official Access page links walking-route videos from Suehirocho Station, Akihabara Station and the Chuo-dori crossing.",
+  "ja": "中央通りの東側、末広町駅と秋葉原駅のちょうど中間にある千住ビルの5Fです。通りに面した看板はほとんどないので、建物まで来たら中に入り、エレベーターで5Fへ上がってください。公式サイトのAccessページには、末広町駅・秋葉原駅・中央通りの交差点からの徒歩ルートの動画が載っています。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,12 @@
    "The play space has 32 tables for 64 people and is free to use, but Pokemon cards only.",
    "Pokemon is the only title stocked, so go elsewhere for Yu-Gi-Oh, One Piece and the rest.",
    "It regularly runs 'Night Party' meetups with a beginners' slot; dates are posted on the official site and the shop's X account."
+  ],
+  "ja": [
+   "2022年11月に外神田3-2-11で開店し、2025年8月30日にこの場所へ移転しました。地図アプリには古い住所が残っているものもあります。",
+   "対戦スペースは32卓64人分で利用は無料ですが、ポケモンカード専用です。",
+   "扱うタイトルはポケモンカードだけなので、遊戯王やワンピースなどを探すなら別の店へどうぞ。",
+   "初心者枠のある交流会「ナイトパーティー」を定期的に開いています。日程は公式サイトと店のXアカウントで告知されます。"
   ]
  },
  "official_url": "https://www.tcsb.jp/",

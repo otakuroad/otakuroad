@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "N게이지·HO게이지 철도 모형과 건축 모형용 1/30~1/500 미니어처 인형 전문점",
-  "en": "1/30 to 1/500 miniature people for railway, diorama and architectural models"
+  "en": "1/30 to 1/500 miniature people for railway, diorama and architectural models",
+  "ja": "鉄道模型やジオラマ、建築模型に使う1/30〜1/500のミニチュア人形"
  },
  "building_id": null,
  "floors": [
@@ -72,11 +73,13 @@
   ],
   "regular_holiday": {
    "ko": "화·수요일 휴무",
-   "en": "Closed Tuesdays and Wednesdays"
+   "en": "Closed Tuesdays and Wednesdays",
+   "ja": "火曜・水曜定休"
   },
   "note": {
    "ko": "평일 폐점 시각이 공식 사이트 안에서도 갈린다. 매달 갱신되는 사이드바 달력과 배송 안내는 13:00~20:00, 점포안내 본문은 20시 30분, 특정상거래법 페이지는 15~20시로 적혀 있어 여기서는 달력 기준 20:00을 따랐다. 저녁 늦게 갈 계획이면 X·인스타그램 공지를 먼저 확인. 모형 전시회 출전 기간에는 며칠씩 임시 휴업한다.",
-   "en": "The official site contradicts itself on the weekday closing time: the monthly-updated sidebar calendar and the shipping pages say 13:00-20:00, the store-guide text says 20:30 and the legal-notice page says 15:00-20:00, so the calendar's 20:00 is used here. Check X or Instagram before a late visit. The shop shuts for several days when it exhibits at model conventions."
+   "en": "The official site contradicts itself on the weekday closing time: the monthly-updated sidebar calendar and the shipping pages say 13:00-20:00, the store-guide text says 20:30 and the legal-notice page says 15:00-20:00, so the calendar's 20:00 is used here. Check X or Instagram before a late visit. The shop shuts for several days when it exhibits at model conventions.",
+   "ja": "平日の閉店時刻は公式サイトの中でも食い違っています。毎月更新されるサイドバーのカレンダーと配送の案内は13:00〜20:00、店舗案内の本文は20:30、特定商取引法のページは15:00〜20:00となっているため、ここではカレンダーの20:00に合わせました。夜遅くに行くならXかInstagramを先に確認してください。模型の展示会に出展する期間は数日休みます。"
   },
   "source_url": "https://yfs-figure.com/?mode=f3"
  },
@@ -92,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 중심가에서 주오도리를 따라 북쪽으로 올라간 우에노 방면. JR 오카치마치역, 긴자선 우에노히로코지역, 지요다선 유시마역에서 각각 도보 3분, 히비야선 나카오카치마치역에서 약 6분이라고 공식 점포안내에 적혀 있다. 東京閣ビル 2층이며, 가게 인스타그램은 '우사기야(도라야키집) 옆 건물 2층'이라고 안내한다.",
-  "en": "North of the Akihabara core, up Chuo-dori towards Ueno. The official store guide gives three minutes from JR Okachimachi, Ginza-line Ueno-hirokoji and Chiyoda-line Yushima, and about six minutes from Hibiya-line Naka-okachimachi. It is on 2F of the Tokyokaku Building (東京閣ビル); the shop's Instagram describes it as the second floor of the building next to the Usagiya dorayaki shop."
+  "en": "North of the Akihabara core, up Chuo-dori towards Ueno. The official store guide gives three minutes from JR Okachimachi, Ginza-line Ueno-hirokoji and Chiyoda-line Yushima, and about six minutes from Hibiya-line Naka-okachimachi. It is on 2F of the Tokyokaku Building (東京閣ビル); the shop's Instagram describes it as the second floor of the building next to the Usagiya dorayaki shop.",
+  "ja": "秋葉原の中心から中央通りを北へ、上野の方へ上がったところです。公式の店舗案内では、JR御徒町駅、銀座線上野広小路駅、千代田線湯島駅からそれぞれ徒歩3分、日比谷線仲御徒町駅から約6分とされています。東京閣ビルの2Fで、店のInstagramは、うさぎやというどら焼き店の隣のビルの2階と案内しています。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,12 @@
    "Beyond 1/150 (N), 1/87 (HO) and 1/220 (Z) railway figures it carries 1/30-1/500 architectural and design-model people, dollhouse furniture, ball-jointed dolls, interior lighting and finished dioramas.",
    "The official store guide offers a service where you set your own model train on one of the shop's dioramas and photograph it for ten minutes.",
    "It closes for several days when exhibiting at shows such as the Japan International Model Railway Convention, so check the calendar on the official site first."
+  ],
+  "ja": [
+   "火曜・水曜が定休日です。平日は13:00、土日・祝日は12:00の開店なので、午前中は開いていません。",
+   "1/150（Nゲージ）、1/87（HO）、1/220（Z）の鉄道模型用の人形のほかに、1/30〜1/500の建築・デザイン模型用の人形、ドールハウスの家具、球体関節人形、室内灯、完成品のジオラマまで扱っています。",
+   "公式の店舗案内には、自分の車両を店のジオラマに載せて10分間撮影できるサービスがあると書かれています。",
+   "国際鉄道模型コンベンションなどの展示会に出展する期間は数日休むので、まず公式サイトのカレンダーを確認してください。"
   ]
  },
  "official_url": "https://yfs-figure.com/",

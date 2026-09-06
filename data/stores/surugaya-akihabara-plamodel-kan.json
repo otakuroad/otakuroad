@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "2·3층에 신품·중고 프라모델과 도료·공구, 프라모 잡지·트레이딩 피규어·식완",
-  "en": "New and used plastic model kits on two floors, plus paints, tools, magazines and shokugan"
+  "en": "New and used plastic model kits on two floors, plus paints, tools, magazines and shokugan",
+  "ja": "2フロアにわたる新品・中古のプラモデルと塗料・工具・雑誌・食玩"
  },
  "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
@@ -70,11 +71,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일 11:00, 토·일·공휴일 10:00 개점에 연중무휴. 2층과 3층은 전화번호가 따로 있다.",
-   "en": "Opens 11:00 on weekdays and 10:00 at weekends and on public holidays, open year-round. 2F and 3F have separate phone numbers."
+   "en": "Opens 11:00 on weekdays and 10:00 at weekends and on public holidays, open year-round. 2F and 3F have separate phone numbers.",
+   "ja": "開店は平日が11:00、土日祝が10:00で、年中無休です。2Fと3Fは電話番号が別になっています。"
   },
   "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html"
  },
@@ -90,7 +93,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 주오도리를 따라 남쪽으로 도보 2~3분, 주오도리 서쪽 편의 8층짜리 공익 소토칸다 제1빌딩(共益外神田第1ビル)이다. 1층이 메이드카페 마이퍼스트메이드라 길에서는 메이드카페처럼 보이지만, 건물 입구 옆 층별 안내에 駿河屋 간판이 있고 계단·엘리베이터로 2층에 오르면 매장이다. 2층과 3층이 각각 별도 매장처럼 계산대를 따로 둔다.",
-  "en": "Two to three minutes south of Ginza-line Suehirocho station along Chuo-dori, in the eight-storey Kyoei Sotokanda No.1 Building on the west side. The ground floor is the My First Maid cafe, so the street frontage reads as a maid cafe; look for the 駿河屋 panel on the floor board by the entrance and take the stairs or lift to 2F. 2F and 3F each have their own register."
+  "en": "Two to three minutes south of Ginza-line Suehirocho station along Chuo-dori, in the eight-storey Kyoei Sotokanda No.1 Building on the west side. The ground floor is the My First Maid cafe, so the street frontage reads as a maid cafe; look for the 駿河屋 panel on the floor board by the entrance and take the stairs or lift to 2F. 2F and 3F each have their own register.",
+  "ja": "銀座線の末広町駅から中央通りを南へ2〜3分、西側に建つ8階建ての共益外神田第1ビルにあります。1階がメイドカフェのMyFirstMaid（マイファーストメイド）のため通りからはメイドカフェに見えますが、入口脇のフロアガイドで駿河屋の表示を探し、階段かエレベーターで2Fへ上がってください。2Fと3Fはそれぞれレジが分かれています。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,13 @@
    "Buyback here covers only plastic models and modelling magazines; figures and anime goods go to Surugaya's Akihabara Main Store and games to the Game Store.",
    "Selling needs a member card, and photo ID every time. Free Wi-Fi is available in the shop.",
    "Maidreamin Idol-dori is on 4F of the same building and the arcade-card shop Maron no Kakurega on 5F."
+  ],
+  "ja": [
+   "平日は11:00、土日祝は10:00の開店ですので、朝から立ち寄る予定なら曜日を確認してください。",
+   "取り扱いはプラモデル全般に加えて、塗料や工具、模型雑誌、トレーディングフィギュア、食玩です。",
+   "こちらの買取はプラモデルと模型雑誌のみで、フィギュアやアニメグッズは駿河屋 秋葉原本館、ゲームは駿河屋 秋葉原ゲーム館へ持ち込むことになります。",
+   "買取には会員証が必要で、写真付き身分証は毎回提示します。店内では無料Wi-Fiが使えます。",
+   "同じビルの4Fにはめいどりーみん 秋葉原アイドル通り店、5Fにはアーケードカードのお店マロンの隠れ家 秋葉原店が入っています。"
   ]
  },
  "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_plamodel/index.html",

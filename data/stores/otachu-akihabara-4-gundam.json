@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "건담 프라모델·완성품 피규어 전문 중고·신품 매장. 매입도 함께 취급",
-  "en": "Gundam specialist: used and new gunpla, Robot Spirits and Metal Build figures; buyback too"
+  "en": "Gundam specialist: used and new gunpla, Robot Spirits and Metal Build figures; buyback too",
+  "ja": "ガンダム専門店、中古と新品のガンプラやROBOT魂・METAL BUILD、買取も"
  },
  "building_id": "ichigo-akihabara-ekimae-building",
  "floors": [
@@ -63,7 +64,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://otachu-akiba.com/4go/access/"
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "전기가 출구에서 namco가 든 흰색 빌딩 쪽으로 직진해, 1층 이치반쿠지 공식숍 코너 옆의 빌딩 입구로 들어간다. 안쪽 간판에서 왼쪽으로 꺾어 막다른 곳의 엘리베이터를 타고 7F.",
-  "en": "From the Electric Town Exit walk straight toward the white namco building; the entrance is beside the 1F Ichiban Kuji shop corner. Turn left at the sign inside and take the elevator at the end up to 7F."
+  "en": "From the Electric Town Exit walk straight toward the white namco building; the entrance is beside the 1F Ichiban Kuji shop corner. Turn left at the sign inside and take the elevator at the end up to 7F.",
+  "ja": "電気街口からnamcoの入る白いビルに向かってまっすぐ進むと、1Fの一番くじ公式ショップ 秋葉原店のコーナーの脇が入口です。中の案内表示のところで左に曲がり、突き当たりのエレベーターで7Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -96,6 +99,13 @@
    "Cash plus VISA, Mastercard, JCB, AMEX, UnionPay, Suica/PASMO and PayPay, Alipay, WeChat Pay.",
    "Staff use a real-time translation device for English, and the site has a Korean guide page.",
    "Beyond gunpla it stocks Metal Build, Robot Spirits, Chogokin, SD Gundam, Ichiban Kuji prizes and shokugan — Gundam only."
+  ],
+  "ja": [
+   "在庫の約80%は買い取った中古品で、新品もあわせて置いています。取扱品はガンダムだけで7,000点以上です。",
+   "免税は行っていません。表示価格は消費税10%込みです。",
+   "現金のほか、VISA、Mastercard、JCB、AMEX、銀聯、Suica・PASMO、PayPay、Alipay、WeChat Payが使えます。",
+   "スタッフがリアルタイム翻訳機を使うので英語でも尋ねられ、サイトには韓国語の案内ページもあります。",
+   "ガンプラのほかにMETAL BUILD、ROBOT魂、超合金、SDガンダム、一番くじの景品、食玩を置いており、扱うのはガンダムだけです。"
   ]
  },
  "official_url": "https://otachu-akiba.com/4go/",

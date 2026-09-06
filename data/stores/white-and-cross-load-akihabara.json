@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "미소녀게임·VTuber 콜라보 카페 이벤트를 상시 여는 콘셉트 카페바",
-  "en": "Concept cafe-bar running back-to-back collab cafes for bishoujo games and VTubers"
+  "en": "Concept cafe-bar running back-to-back collab cafes for bishoujo games and VTubers",
+  "ja": "美少女ゲームやVTuberのコラボカフェを次々に開くコンセプトカフェバー"
  },
  "building_id": null,
  "floors": [
@@ -61,7 +62,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 2~3분, JR 아키하바라역에서 도보 5분. 주오도리 동쪽, 스루가야 게임관과 트레이더 본점 사이의 9층짜리 오기소 빌딩(小木曽ビル) 3층이다. 같은 건물 4층은 카드숍 토레카드, 6층은 라이브 카페바 테이아.",
-  "en": "Two to three minutes from Ginza-line Suehirocho and five from JR Akihabara. 3F of the nine-storey Ogiso Building on the east side of Chuo-dori, between Surugaya's game store and Trader's main store; the card shop Torecard is on 4F and the live cafe-bar Theia on 6F."
+  "en": "Two to three minutes from Ginza-line Suehirocho and five from JR Akihabara. 3F of the nine-storey Ogiso Building on the east side of Chuo-dori, between Surugaya's game store and Trader's main store; the card shop Torecard is on 4F and the live cafe-bar Theia on 6F.",
+  "ja": "銀座線末広町駅から徒歩2〜3分、JR秋葉原駅から徒歩5分です。中央通りの東側、駿河屋 秋葉原ゲーム館とトレーダー秋葉原本店の間に建つ9階建ての小木曽ビルの3Fで、同じビルの4Fがカードショップ トレカード 秋葉原、6FがLive cafe & Bar テイアです。"
  },
  "tips": {
   "ko": [
@@ -77,6 +79,13 @@
    "The official site gives neither an address nor an opening-hours line, but its event notice lists entry rounds starting 11:30 on weekdays and 12:00 at weekends and holidays, with free entry after 20:00. The address and floor come from the official X profile (@whitecrossload); the closing time is not officially confirmed (listing sites say 23:00).",
    "Even during an event run there is roughly one 店休日 (closed day) a week, so check the date on the official site or X before going.",
    "Collab and media enquiries go to whitecrossloadcafe@gmail.com."
+  ],
+  "ja": [
+   "決まったコンセプトよりコラボイベントが売りの店で、美少女ゲームのブランド（Circus、HOOKSOFT、みなとそふとなど）やVTuber事務所のコラボカフェが2026年もほぼ毎月続いています。開催中の作品と期間は公式サイトのトップページの告知に出ます。",
+   "料金は入場料が1時間500円で、1時間ごとにドリンクを1杯注文する方式です。初めての方には1,000〜2,000円のセットが別にあります。",
+   "公式サイトには住所も営業時間の記載もありませんが、イベントの案内には入場の回が平日は11:30、土日・祝日は12:00に始まり、20:00以降は自由入場と書かれています。住所とフロアは公式Xのプロフィール（@whitecrossload）にあり、閉店時刻は公式には確認できません（情報サイトは23:00としています）。",
+   "イベントの期間中でも週に1回ほど店休日があるので、行く前に公式サイトかXで日付を確認してください。",
+   "コラボやメディアの取材の問い合わせはwhitecrossloadcafe@gmail.comで受け付けています。"
   ]
  },
  "official_url": "https://whitecrossload.girly.jp/",

@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드와 이치반쿠지, 프라이즈 피규어를 파는 스에히로초 쿠지 매장",
-  "en": "Pokemon cards, Ichiban Kuji draws and prize figures, by Suehirocho station"
+  "en": "Pokemon cards, Ichiban Kuji draws and prize figures, by Suehirocho station",
+  "ja": "末広町駅そばのポケモンカードと一番くじ、プライズフィギュアの店"
  },
  "building_id": "akihabara-tora-building",
  "floors": [
@@ -58,11 +59,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "체인 공식 사이트가 닫혀 있어 영업시간은 점포 공식 X(@Mach_Suehirocho) 프로필 표기 기준. 2026년 1월 31일 개점한 신규 점포라 변경 가능성이 있으므로 방문 전 X 확인 권장",
-   "en": "The chain website is offline, so these hours are as stated on the shop's own X profile (@Mach_Suehirocho). The shop opened on 2026-01-31 and is still new, so check X before visiting"
+   "en": "The chain website is offline, so these hours are as stated on the shop's own X profile (@Mach_Suehirocho). The shop opened on 2026-01-31 and is still new, so check X before visiting",
+   "ja": "チェーンの公式サイトが閉じているため、この営業時間は店の公式X（@Mach_Suehirocho）のプロフィールの表記によるものです。2026年1月31日に開店したばかりの新しい店なので、行く前にXを確認してください。"
   },
   "source_url": "https://x.com/Mach_Suehirocho"
  },
@@ -78,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 2번 출구에서 도보 1분. 주오도리 동쪽 면, 아키하바라 도라(虎) 빌딩 1층 노면 매장으로 2026년 1월까지 마치캬라 아키하바라점이 있던 자리다.",
-  "en": "One minute from Exit 2 of Suehirocho station on the Tokyo Metro Ginza line, on the east side of Chuo-dori. It is the ground-floor unit of the Akihabara Tora Building, the space Machi Chara Akihabara occupied until January 2026."
+  "en": "One minute from Exit 2 of Suehirocho station on the Tokyo Metro Ginza line, on the east side of Chuo-dori. It is the ground-floor unit of the Akihabara Tora Building, the space Machi Chara Akihabara occupied until January 2026.",
+  "ja": "東京メトロ銀座線の末広町駅2番出口から徒歩1分、中央通りの東側です。秋葉原虎ビルの1Fの路面店で、2026年1月までMachi Chara Akihabaraが入っていた場所です。"
  },
  "tips": {
   "ko": [
@@ -92,6 +96,12 @@
    "Cash, credit cards, electronic money and PayPay are accepted.",
    "The shopfront art and mascot were drawn by the illustrator Terada Tera, and card sleeves with the same artwork are sold in store.",
    "Hours are the same 11:30-19:30 every day, but it sits at the north end of Chuo-dori, over ten minutes' walk from the shops around Akihabara station."
+  ],
+  "ja": [
+   "2026年1月31日に開店した新しい店舗です。2026年1月12日に閉店したMachi Chara Akihabaraの区画と電話番号をそのまま引き継いでいます。",
+   "現金のほか、クレジットカード、電子マネー、PayPayが使えます。",
+   "看板とマスコットのイラストはイラストレーターの寺田てらさんが手がけていて、同じ絵柄のカードスリーブを店内で販売しています。",
+   "営業時間は毎日11:30〜19:30で曜日を気にする必要はありませんが、中央通りの北の端にあり、秋葉原駅周辺の店からは徒歩10分以上離れています。"
   ]
  },
  "official_url": null,

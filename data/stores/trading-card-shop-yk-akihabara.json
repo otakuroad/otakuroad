@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 컬렉션 중심 1층 매장. 구판 카드와 오리파 판매, 카드 매입",
-  "en": "Ground-floor Pokemon card shop for collectors: old-back cards, oripa and buyback"
+  "en": "Ground-floor Pokemon card shop for collectors: old-back cards, oripa and buyback",
+  "ja": "1Fのコレクター向けポケモンカード店。旧裏面のカードやオリパ、買取"
  },
  "building_id": null,
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "월말 휴무",
-   "en": "Closed at the end of the month"
+   "en": "Closed at the end of the month",
+   "ja": "月末休み"
   },
   "note": {
    "ko": "운영사 주식회사 YK World 공식 사이트가 평일·토·일·공휴일 모두 12:00~20:00으로 안내한다. 매입 접수는 12:00~19:00, 정기휴무 '월말'은 매장 공식 X(@akiba_yk) 프로필 표기다.",
-   "en": "The operator's own site (YK World) lists 12:00-20:00 on weekdays and on Saturdays, Sundays and public holidays alike. Buyback is taken 12:00-19:00, and the 'end of the month' closing day comes from the shop's X profile (@akiba_yk)."
+   "en": "The operator's own site (YK World) lists 12:00-20:00 on weekdays and on Saturdays, Sundays and public holidays alike. Buyback is taken 12:00-19:00, and the 'end of the month' closing day comes from the shop's X profile (@akiba_yk).",
+   "ja": "運営会社YK Worldの公式サイトは、平日も土曜・日曜・祝日も12:00〜20:00としています。買取の受付は12:00〜19:00で、定休日の「月末」は店のXのプロフィール（@akiba_yk）の表記です。"
   },
   "source_url": "https://ykworld.co.jp/service/"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 서쪽으로 두 블록 들어간 쇼헤이바시도리(昌平橋通り) 변, 소토칸다 3-2의 第2ナガシマビル 1층 도로변 매장. JR 아키하바라역 전기가 출구에서 도보 7분, 긴자선 스에히로초역에서 도보 5분 거리다.",
-  "en": "A street-level shop on 1F of the Dai-2 Nagashima Building on Shoheibashi-dori, two blocks west of Chuo-dori in Sotokanda 3-2. About seven minutes from the JR Electric Town Exit and five from Suehirocho."
+  "en": "A street-level shop on 1F of the Dai-2 Nagashima Building on Shoheibashi-dori, two blocks west of Chuo-dori in Sotokanda 3-2. About seven minutes from the JR Electric Town Exit and five from Suehirocho.",
+  "ja": "中央通りから西へ2ブロック入った外神田3-2、昌平橋通り沿いの第2ナガシマビル1Fの路面店です。JRの電気街口から徒歩7分ほど、末広町駅からは5分ほどです。"
  },
  "tips": {
   "ko": [
@@ -105,6 +109,13 @@
    "A second Akihabara branch opened in June 2026 at Sotokanda 4-6-10 (10:00-18:00) and 'Toreca Room' opened in December 2025 at Sotokanda 4-9-2, Senju Building 5, 8F. This record is the No.1 store.",
    "Native-speaking staff handle several languages and the company site takes visit reservations; mail order runs through yk-collection.jp.",
    "It opened on 2023-11-03 and is a small shop with no duel space."
+  ],
+  "ja": [
+   "品ぞろえは旧裏面のカードや鑑定品を含むコレクター向けのポケモンカードが中心で、実戦用のデッキのパーツを探す店ではありません。",
+   "運営会社の公式サイトは、平日も土日・祝日も12:00〜20:00と載せています。店のXのプロフィールにはこれに加えて、買取の受付が12:00〜19:00、定休日は月末と書かれています。",
+   "2026年6月に外神田4-6-10へ秋葉原の2号店（10:00〜18:00）が、2025年12月には外神田4-9-2の千住ビル5の8Fに「トレカルーム」が開きました。ここは1号店です。",
+   "ネイティブのスタッフがいて多言語に対応し、会社のサイトから来店の予約も受け付けています。通信販売はyk-collection.jpで行っています。",
+   "2023年11月3日に開店した小さな店で、対戦スペースはありません。"
   ]
  },
  "official_url": "https://ykworld.co.jp/service/",

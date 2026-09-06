@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "아이카츠·프리티 시리즈·아이프리 등 여아용 카드가 주력인 카드 매장, 매일 매입",
-  "en": "Card shop specialising in girls' arcade-card titles such as Aikatsu, Pretty Series and Aipri; daily buyback"
+  "en": "Card shop specialising in girls' arcade-card titles such as Aikatsu, Pretty Series and Aipri; daily buyback",
+  "ja": "アイカツ・プリティーシリーズ・アイプリなど女児向けカードが主力、毎日買取"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -59,11 +60,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(빌딩 휴관일 제외)",
-   "en": "Open year-round except building closure days"
+   "en": "Open year-round except building closure days",
+   "ja": "年中無休（ビルの休館日を除く）"
   },
   "note": {
    "ko": "판매는 11:00~20:00으로 건물 개관(10:00)보다 1시간 늦고, 매입 접수는 12:00~19:00이다. 상황에 따라 매입이 조기 종료되며 공지는 X(@kaizoku_card3)에 올라온다.",
-   "en": "Sales run 11:00-20:00, an hour later than the building's 10:00 opening, and the buyback desk takes items 12:00-19:00. Buyback can end early, with notices posted on X (@kaizoku_card3)."
+   "en": "Sales run 11:00-20:00, an hour later than the building's 10:00 opening, and the buyback desk takes items 12:00-19:00. Buyback can end early, with notices posted on X (@kaizoku_card3).",
+   "ja": "販売は11:00〜20:00で、建物の開館（10:00）より1時間遅い開店です。買取の受付は12:00〜19:00で、状況によって早く終わることがあり、告知はX（@kaizoku_card3）に出ます。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%ab%e3%83%bc%e3%83%89%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e8%b2%b7%e8%b3%8a%e7%8e%8b%e3%80%80%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
  },
@@ -79,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 2층. 에스컬레이터로 올라가면 하비코로 완구 라디오회관점, 호비스테이션 아키하바라 역전점, 렌탈 쇼케이스 아스톱과 같은 층이고, 카드 쇼케이스와 슬리브 진열대가 붙은 카운터가 이 매장이다.",
-  "en": "Radio Kaikan 2F. The escalator brings you to a floor shared with Havikoro Toy, Hobby Station Ekimae and the ASTOP rental showcase; this shop is the counter lined with card cases and racks of sleeves."
+  "en": "Radio Kaikan 2F. The escalator brings you to a floor shared with Havikoro Toy, Hobby Station Ekimae and the ASTOP rental showcase; this shop is the counter lined with card cases and racks of sleeves.",
+  "ja": "秋葉原ラジオ会館の2Fです。エスカレーターで上がると、ハビコロ玩具 ラジオ会館店、ホビーステーション 秋葉原駅前店、レンタルショーケース アストップ ラジオ会館店と同じフロアで、カードのショーケースとスリーブの棚が並ぶカウンターがこのお店です。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,13 @@
    "Radio Kaikan lists its makers as Konami, Bandai and Bushiroad, and it also sells assorted cards and card supplies such as sleeves and playmats.",
    "The Yahoo Shopping storefront linked from the Radio Kaikan page (asimani) now returns 404, so you cannot check stock in advance.",
    "A Kaizokuoh shop with the same name also operates on 3F of AKIBA Cultures Zone; the official site stresses that the two branches carry different titles."
+  ],
+  "ja": [
+   "扱うタイトルはアイカツシリーズ・プリティーシリーズ・おねがい！／ひみつのアイプリ・プリキュアといった女児向けカードにほぼ偏っています。遊戯王・ポケモン・ワンピースカードは、同じ会社のカードショップ 買賊王／ハビコロ玩具 カルチャーズ店（AKIBAカルチャーズZONE 3F）が担当です。",
+   "買取の受付は12:00〜19:00で、状況によって早く終わることがありますので、カードを持ち込む前にX（@kaizoku_card3）の告知を確認するほうがよいです。",
+   "ラジオ会館の案内では取扱メーカーがコナミ・バンダイ・ブシロードと書かれていて、トレカ各種とスリーブ・プレイマットなどのカードサプライも販売しています。",
+   "ラジオ会館の案内からリンクされているYahoo!ショッピングの店舗（asimani）は現在404になっているため、在庫を事前に確認することはできません。",
+   "AKIBAカルチャーズZONEの3Fにも同じ名前の買賊王がありますので、混同しないようご注意ください。公式の案内も、2店舗で扱うタイトルが違うと明記しています。"
   ]
  },
  "official_url": "https://www.kaizokuo.online/",

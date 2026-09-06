@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "얼음나라 콘셉트 메이드 카페 1·2층. 파르페·오므라이스와 체키·카드 배틀",
-  "en": "Ice-kingdom maid cafe on 1F-2F: parfaits, omurice, cheki photos and card battles"
+  "en": "Ice-kingdom maid cafe on 1F-2F: parfaits, omurice, cheki photos and card battles",
+  "ja": "1F・2Fの氷の国コンセプトのメイドカフェ、パフェやオムライスとチェキ・カードバトル"
  },
  "building_id": null,
  "floors": [
@@ -41,12 +42,14 @@
   {
    "floor": "1F",
    "ko": "얼음과 보석을 테마로 한 파티세리 겸 카페·숍",
-   "en": "Ice-and-jewel patisserie: the cafe and shop floor"
+   "en": "Ice-and-jewel patisserie: the cafe and shop floor",
+   "ja": "氷と宝石をテーマにしたパティスリーで、カフェとショップのフロアです。"
   },
   {
    "floor": "2F",
    "ko": "체키·카드 배틀 등 놀이 중심 어뮤즈먼트 플로어이자 라이브가 열리는 메인 플로어",
-   "en": "Amusement floor for cheki photos and card battles; also the main floor where live shows are held"
+   "en": "Amusement floor for cheki photos and card battles; also the main floor where live shows are held",
+   "ja": "チェキやカードバトルを楽しむアミューズメントフロアで、ライブが行われるメインフロアでもあります。"
   }
  ],
  "location": {
@@ -75,7 +78,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 기준 10:00-23:00, 라스트오더 22:30이며 22:00 이후에는 심야 요금이 붙는다. 공연 일정과 임시 변경은 공식 EVENT 페이지와 X(@lp_akiba)에 올라온다.",
-   "en": "The official site gives 10:00-23:00 with last orders at 22:30; a late-night rate applies after 22:00. Performance times and temporary changes are posted on the official EVENT page and on X (@lp_akiba)."
+   "en": "The official site gives 10:00-23:00 with last orders at 22:30; a late-night rate applies after 22:00. Performance times and temporary changes are posted on the official EVENT page and on X (@lp_akiba).",
+   "ja": "公式サイトでは10:00〜23:00、ラストオーダーは22:30で、22:00以降は深夜料金がかかります。公演の時間や臨時の変更は公式のEVENTページとX（@lp_akiba）に掲載されます。"
   },
   "source_url": "https://lilian-plian.com/"
  },
@@ -91,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 뒷길, 만다라케 컴플렉스에서 북쪽으로 약 50m·아파호텔 옆에 있는 DB 아키하바라 빌딩. 1층 카페는 길에서 바로 들어갈 수 있고 2층이 놀이 플로어다. 같은 건물 4층은 극장 KIRARIZA, 5층은 聖氷女教会로 같은 그룹이 운영한다.",
-  "en": "On the back street west of Chuo-dori, about 50 m north of Mandarake Complex and next to the APA Hotel: the DB Akihabara Building. The 1F cafe opens straight off the street and 2F is the amusement floor; the same group runs the KIRARIZA theatre on 4F and the Seihyojo church floor on 5F."
+  "en": "On the back street west of Chuo-dori, about 50 m north of Mandarake Complex and next to the APA Hotel: the DB Akihabara Building. The 1F cafe opens straight off the street and 2F is the amusement floor; the same group runs the KIRARIZA theatre on 4F and the Seihyojo church floor on 5F.",
+  "ja": "中央通りの西側の裏通り、まんだらけコンプレックスから北へ約50m、アパホテルの隣に建つDB秋葉原ビルです。1Fのカフェは通りからそのまま入れて、2Fがアミューズメントフロアです。同じグループが4Fの劇場KIRARIZAと5Fの聖氷女教会も運営しています。"
  },
  "tips": {
   "ko": [
@@ -107,6 +112,13 @@
    "The KIRARIZA theatre on 4F has daily performances and live shows also run on the 2F main floor; check the official EVENT page for the day's timetable.",
    "The official site states that credit cards and transit IC payments are accepted.",
    "Prices are quoted in-store in 'lily', the shop's currency; one lily equals one yen."
+  ],
+  "ja": [
+   "入場料は1時間2,200円からで、飲み放題とゆきだま10個が含まれ、1時間ごとに自動で延長されます。",
+   "フードは800円から、ドリンクは500円からで、オムライスやパフェ、フレンチトーストといったメイドカフェの定番メニューがそろっています。",
+   "4Fの劇場KIRARIZAでは毎日公演があり、2Fのメインフロアでもライブが行われます。その日のスケジュールは公式のEVENTページで確認してください。",
+   "公式サイトには、クレジットカードと交通系ICでの支払いに対応していると書かれています。",
+   "店内では料金をリリという独自の通貨単位で案内していて、1リリは1円です。"
   ]
  },
  "official_url": "https://lilian-plian.com/",

@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "라이브 스테이지가 있는 캐스트 카페바. 지하 아이돌 라이브 대관과 체키·무제한 음료",
-  "en": "Cast cafe-bar with a live stage: underground idol gigs, cheki and all-you-can-drink"
+  "en": "Cast cafe-bar with a live stage: underground idol gigs, cheki and all-you-can-drink",
+  "ja": "ライブステージのあるキャストカフェバー、地下アイドルのライブとチェキ・飲み放題"
  },
  "building_id": null,
  "floors": [
@@ -72,11 +73,13 @@
   ],
   "regular_holiday": {
    "ko": "월요일 휴무",
-   "en": "Closed Mondays"
+   "en": "Closed Mondays",
+   "ja": "月曜定休"
   },
   "note": {
    "ko": "가게가 X 프로필에서 안내하는 공식 lit.link 점포 정보 기준으로 월요일은 店休日, 화~금 18:00~23:00, 토·일 16:00~23:00이다. 라스트오더는 22:30(공식 사이트). '土日祝はライブの時間によって、オープン時間が変わります'라고 적혀 있어 라이브가 잡힌 주말·공휴일은 개장 시간이 달라진다. 공식 사이트 theia-live.com에는 아직 '토·일·공휴일 13:00~23:00'이 남아 있고 정기휴무 표기도 없어 두 페이지가 엇갈린다.",
-   "en": "The shop's own lit.link store info - the link its X profile points to - gives Monday closed, Tue-Fri 18:00-23:00 and Sat/Sun 16:00-23:00; last order is 22:30 per the official site. It adds that on weekends and holidays the opening time shifts with the live schedule. The official site theia-live.com still shows 13:00-23:00 for weekends and lists no closing day, so the two pages disagree."
+   "en": "The shop's own lit.link store info - the link its X profile points to - gives Monday closed, Tue-Fri 18:00-23:00 and Sat/Sun 16:00-23:00; last order is 22:30 per the official site. It adds that on weekends and holidays the opening time shifts with the live schedule. The official site theia-live.com still shows 13:00-23:00 for weekends and lists no closing day, so the two pages disagree.",
+   "ja": "店のXプロフィールからリンクされているlit.linkの店舗情報では、月曜が定休日、火〜金が18:00〜23:00、土日が16:00〜23:00で、ラストオーダーは公式サイトによると22:30です。土日祝は開店時刻がライブのスケジュールによって変わるとも書かれています。公式サイトのtheia-live.comには今も土日13:00〜23:00と載っていて定休日の記載もなく、2つのページで内容が食い違っています。"
   },
   "source_url": "https://lit.link/LCBTheia"
  },
@@ -92,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 2~3분, JR 아키하바라역에서 도보 5분. 주오도리 동쪽, 스루가야 게임관과 트레이더 본점 사이에 있는 9층짜리 오기소 빌딩(小木曽ビル) 6층이다. 같은 건물 3층은 콜라보 카페 화이트 앤 크로스로드, 4층은 카드숍 토레카드다.",
-  "en": "Two to three minutes from Ginza-line Suehirocho and five from JR Akihabara. 6F of the nine-storey Ogiso Building on the east side of Chuo-dori, between Surugaya's game store and Trader's main store. The collab cafe White & CrossLoad is on 3F of the same building and the card shop Torecard on 4F."
+  "en": "Two to three minutes from Ginza-line Suehirocho and five from JR Akihabara. 6F of the nine-storey Ogiso Building on the east side of Chuo-dori, between Surugaya's game store and Trader's main store. The collab cafe White & CrossLoad is on 3F of the same building and the card shop Torecard on 4F.",
+  "ja": "銀座線の末広町駅から徒歩2〜3分、JR秋葉原駅から徒歩5分です。中央通りの東側、駿河屋 秋葉原ゲーム館とトレーダー秋葉原本店の間に建つ9階建ての小木曽ビルの6Fで、同じビルの3FにコラボカフェのCollaPro Café Bar White ＆ CrossLoad、4Fにカードショップ トレカード 秋葉原が入っています。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,12 @@
    "Live use is advertised at zero venue fee with 3,300 yen per guest including two hours of all-you-can-drink, so underground idol and anisong acts book it often; capacity tops out around 30 and the schedule is on X (@live_theia).",
    "The official system page states that tax is charged at 15% instead of 10% when paying by credit card or PayPay.",
    "Closed Mondays; doors at 18:00 Tuesday to Friday and 16:00 at weekends and on public holidays. The official site still shows 13:00 for weekends, so check the X feed before going."
+  ],
+  "ja": [
+   "料金は時間制の飲み放題で60分3,000円から（プレミアムは3,500円から）です。キャストドリンク、キャストチェキ、リクエストステージがそれぞれ1,200円、オリジナルカクテルが1,800円で別途かかります。",
+   "ライブ利用は箱代0円、来場者1人3,300円（2時間の飲み放題込み）と案内されているため、地下アイドルやアニソン系の出演者がよく利用します。収容人数は30人ほどが上限で、スケジュールはX（@live_theia）に載ります。",
+   "公式のシステムページには、クレジットカードやPayPayで支払う場合の税は10%ではなく15%になると書かれています。",
+   "月曜は定休日で、火曜から金曜は18:00、土日と祝日は16:00開店です。公式サイトには今も土日13:00と出ているので、行く前にXの告知を確認してください。"
   ]
  },
  "official_url": "https://www.theia-live.com/",

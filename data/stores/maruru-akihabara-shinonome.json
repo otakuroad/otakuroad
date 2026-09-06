@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "애니 캐릭터 피규어를 파는 4층 소형 매장, MARURU 체인 1호점",
-  "en": "Anime character figures in a small 4F unit; the first shop of the MARURU chain"
+  "en": "Anime character figures in a small 4F unit; the first shop of the MARURU chain",
+  "ja": "4Fの小さな売り場でアニメキャラクターのフィギュアを扱うMARURUチェーンの1号店"
  },
  "building_id": null,
  "floors": [
@@ -51,7 +52,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도, 아키바오~ 7호점(あきばお〜 七號店)이 1층에 있는 소토칸다 3-14-7 도운도 빌딩(東雲堂ビル)의 4층. 레트로게임캠프는 같은 3-14-7 번지지만 옆 건물(新末広ビルC) 1층이라 헷갈리기 쉽다. 길에서는 보이지 않으니 건물 안 계단이나 엘리베이터로 4층까지 올라가야 한다.",
-  "en": "West side of Chuo-dori, on 4F of the Tounmedo Building (東雲堂ビル) at Sotokanda 3-14-7, whose ground floor holds Akibaoo No.7. Retro Game Camp shares the same street number but is in the neighbouring Shin-Suehiro Bldg C, so the two are easy to confuse. Nothing is visible from the street: go inside and take the stairs or lift up to 4F."
+  "en": "West side of Chuo-dori, on 4F of the Tounmedo Building (東雲堂ビル) at Sotokanda 3-14-7, whose ground floor holds Akibaoo No.7. Retro Game Camp shares the same street number but is in the neighbouring Shin-Suehiro Bldg C, so the two are easy to confuse. Nothing is visible from the street: go inside and take the stairs or lift up to 4F.",
+  "ja": "中央通りの西側、外神田3-14-7の東雲堂ビルの4Fで、1Fにはあきばお～七號店が入っています。レトロげーむキャンプ秋葉原店は同じ番地ですが隣の新末広ビルCにあるので、混同しやすいところです。通りからは何も見えないので、建物の中に入って階段かエレベーターで4Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -61,6 +63,10 @@
   "en": [
    "This is the chain's original shop, and being on 4F rather than at street level it is easy to walk past.",
    "No official hours are published and it can be shut, so keep the chain's street-level branches on Chuo-dori and in Denpa Kaikan as a fallback."
+  ],
+  "ja": [
+   "MARURUチェーンでいちばん先にできた店舗で、路面店ではなくビルの4Fにあるため通り過ぎやすいです。",
+   "公式の営業時間の案内がなく閉まっていることもあるので、同じチェーンの中央通りと秋葉原電波会館の路面店を代わりに考えておくとよいです。"
   ]
  },
  "official_url": null,

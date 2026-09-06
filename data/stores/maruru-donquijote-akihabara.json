@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "돈키호테 1층 노면 매장. 드래곤볼·원피스·나루토·세일러문 피규어",
-  "en": "Dragon Ball, One Piece, Naruto and Sailor Moon figures in a 1F unit of Don Quijote"
+  "en": "Dragon Ball, One Piece, Naruto and Sailor Moon figures in a 1F unit of Don Quijote",
+  "ja": "ドン・キホーテ秋葉原店1Fの区画、ドラゴンボールやワンピース、NARUTO、セーラームーンのフィギュア"
  },
  "building_id": "don-quijote-akihabara",
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "돈키호테 아키하바라점 본체는 24시간 영업이지만 이 테넌트는 11:00-20:00만 영업한다.",
-   "en": "Don Quijote Akihabara itself trades 24 hours, but this tenant unit only opens 11:00-20:00."
+   "en": "Don Quijote Akihabara itself trades 24 hours, but this tenant unit only opens 11:00-20:00.",
+   "ja": "ドン・キホーテ秋葉原店自体は24時間営業ですが、このテナントの区画は11:00〜20:00だけの営業です。"
   },
   "source_url": "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=10180"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "돈키호테 아키하바라점 1층에서 주오도리에 면한 바깥쪽 점포 구획에 있다. 돈키호테 매장 내부가 아니라 보도에서 바로 들어가는 작은 노면 점포이며, 2022~2023년 호비숍 '야샤도(夜叉堂)'가 있던 자리다.",
-  "en": "In the outward-facing shop space on the Chuo-dori side of Don Quijote Akihabara's 1F. You enter it straight from the pavement rather than from inside the store; it took over the unit the hobby shop Yashado held in 2022-23."
+  "en": "In the outward-facing shop space on the Chuo-dori side of Don Quijote Akihabara's 1F. You enter it straight from the pavement rather than from inside the store; it took over the unit the hobby shop Yashado held in 2022-23.",
+  "ja": "ドン・キホーテ秋葉原店の1Fのうち、中央通り側の外に面した店舗区画にあります。ドン・キホーテの店内からではなく歩道から直接入る店で、2022〜2023年にホビーショップの夜叉堂が入っていた区画です。"
  },
  "tips": {
   "ko": [
@@ -90,6 +94,10 @@
   "en": [
    "The unit is tiny and packed to the walls with figures, with a line-up aimed mainly at overseas visitors.",
    "Don Quijote never closes, but this shop shuts at 20:00, so do not count on a late-night visit."
+  ],
+  "ja": [
+   "区画はとても狭く、壁までびっしりとフィギュアが並んでいます。品ぞろえは主に海外からの観光客に向けたものです。",
+   "ドン・キホーテは休みなく営業していますが、この店は20:00に閉まるので、夜遅い時間の訪問はあてにできません。"
   ]
  },
  "official_url": "https://www.donki.com/store/shop_tenant.php?shop_id=98&tenant_id=10180",

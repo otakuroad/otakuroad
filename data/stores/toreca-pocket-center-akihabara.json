@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 싱글과 1996년 구판 카드, 해외 서플라이를 파는 5층 매장",
-  "en": "Fifth-floor Pokemon card shop: singles, 1996 old-back cards and overseas supplies"
+  "en": "Fifth-floor Pokemon card shop: singles, 1996 old-back cards and overseas supplies",
+  "ja": "5Fのポケモンカード店、シングルと1996年の旧裏面カード、海外サプライ"
  },
  "building_id": null,
  "floors": [
@@ -56,7 +57,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 북쪽 끝, 긴자선 스에히로초역에 가까운 외신다 3-16 블록의 '다이산 빌딩(ダイサンビル)' 5층 501호. 노면 점포가 아니라 눈에 띄는 간판이 없으므로 건물 입구의 층별 안내에서 501호를 확인하고 엘리베이터로 올라간다.",
-  "en": "At the north end of Chuo-dori near Suehirocho station on the Ginza Line: room 501 on 5F of the Daisan Building in the 3-16 block. It is an upstairs shop with no street-level presence, so check the lobby board for 501 and take the elevator."
+  "en": "At the north end of Chuo-dori near Suehirocho station on the Ginza Line: room 501 on 5F of the Daisan Building in the 3-16 block. It is an upstairs shop with no street-level presence, so check the lobby board for 501 and take the elevator.",
+  "ja": "中央通りの北の端、銀座線の末広町駅に近い3-16のブロックに建つダイサンビル5Fの501号室です。路面には出ていない上の階の店なので、入口の案内板で501号室を確かめてエレベーターで上がってください。"
  },
  "tips": {
   "ko": [
@@ -70,6 +72,12 @@
    "Alongside current standard-legal cards it carries 1996 old-back Pokemon cards and past-regulation stock.",
    "The range of overseas supplies (sleeves, playmats) is unusually wide for a shop this size.",
    "The Pokemon Card official store finder registers it as a Pokemon Card Gym, so it runs sanctioned gym battles and has play space. Phone 050-1808-7913."
+  ],
+  "ja": [
+   "公式ホームページはありません。カードショップのディレクトリ「トレカの地図」は、平日14:00-20:00、土日13:00-20:00、祝日は休み、そのほか不定休と載せています。午前中は開いていません。",
+   "現行のスタンダードのカードに加えて、1996年の旧裏面のポケモンカードや過去のレギュレーションのカードも扱っています。",
+   "海外サプライ（スリーブやプレイマット）の品ぞろえは、この規模の店としては珍しく幅広くなっています。",
+   "ポケモンカード公式の店舗検索に「ポケモンカードジム」として登録されているので、公認のジムバトルが開かれ、対戦スペースもあります。電話は050-1808-7913です。"
   ]
  },
  "official_url": null,

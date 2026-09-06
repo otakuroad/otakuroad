@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "작은 악마 콘셉트 메이드카페. 오므라이스·파스타·파르페와 캐스트 체키",
-  "en": "Little-devil concept maid cafe: omurice, pasta, parfaits and cast cheki photos"
+  "en": "Little-devil concept maid cafe: omurice, pasta, parfaits and cast cheki photos",
+  "ja": "小悪魔コンセプトのメイドカフェ、オムライスやパスタ、パフェとキャストのチェキ"
  },
  "building_id": null,
  "floors": [
@@ -84,11 +85,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울에는 특별 연장 영업이 있고, 캐스트 생일 이벤트일에는 15:00 시작 등으로 시각이 달라진다.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours, and cast birthday events start at other times such as 15:00."
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours, and cast birthday events start at other times such as 15:00.",
+   "ja": "金曜・土曜と祝日の前日は実際には翌朝05:00まで営業していますが、表では24:00で区切っています。夏と冬には特別な延長営業があり、キャストの誕生日イベントの日は15:00開始など時刻が変わります。"
   },
   "source_url": "https://prettydevilmate.com/access"
  },
@@ -104,7 +107,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내 기준 긴자선 스에히로초역에서 도보 약 1분, JR 아키하바라역에서 약 4분. 주오도리 동쪽 이스즈(いすゞ) 빌딩 2층이며, 같은 건물 8층의 자매점 스타라이트노벨과 혼동하기 쉬우니 층을 확인한다. 붉은색과 푸른색을 쓴 소악마 콘셉트 인테리어가 표식이다.",
-  "en": "About one minute from Suehirocho Station and four from JR Akihabara by the shop's own directions, on 2F of the Isuzu Building east of Chuo-dori. Its sister shop StarLightNovel is on 8F of the same building, so check the floor; the interior is done in the red-and-blue little-devil colours."
+  "en": "About one minute from Suehirocho Station and four from JR Akihabara by the shop's own directions, on 2F of the Isuzu Building east of Chuo-dori. Its sister shop StarLightNovel is on 8F of the same building, so check the floor; the interior is done in the red-and-blue little-devil colours.",
+  "ja": "店の案内では末広町駅から徒歩1分ほど、JR秋葉原駅からは4分ほどで、中央通り東側のいすゞビル2階です。同じビルの8階が姉妹店のスターライトノベルなのでフロアを確かめてください。赤と青を使った小悪魔コンセプトの内装が目印です。"
  },
  "tips": {
   "ko": [
@@ -120,6 +124,13 @@
    "Opens 17:00 on weekdays and 12:00 on Saturdays, Sundays and holidays; Fridays, Saturdays and the eve of a holiday run to 05:00 the next morning.",
    "Photographing or recording the cast and asking for their contact details are forbidden; only food, drinks and the decor may be photographed.",
    "The menu changes each season and events bring limited drinks and bromides, announced on the News page."
+  ],
+  "ja": [
+   "料金は最初の60分が1,000円（税込1,100円）とワンドリンク制で、60分を過ぎると30分ごとに500円（550円）が自動で延長され、60分ごとにドリンク代が加わります。店内では金額を「💋」（キス）の単位で案内されます。",
+   "お酒を出すため、年齢確認で身分証の提示を求められることがあります。パスポートを持参してください。",
+   "平日は17:00、土日祝は12:00の開店で、金曜・土曜と祝日の前日は翌朝05:00まで営業します。",
+   "キャストの撮影や録音、連絡先を聞くことは禁止で、撮影できるのは料理やドリンク、店内の装飾だけです。",
+   "メニューは季節ごとに変わり、イベントに合わせた限定ドリンクやブロマイドも登場します。いずれも公式のNewsで告知されます。"
   ]
  },
  "official_url": "https://prettydevilmate.com/",

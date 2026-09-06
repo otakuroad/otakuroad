@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "패미컴·슈퍼패미컴·게임보이 중심의 중고 레트로 게임 소프트와 본체 전문점. 전 상품 동작 확인 후 판매.",
-  "en": "Used Famicom, Super Famicom and Game Boy carts and consoles, all tested before sale."
+  "en": "Used Famicom, Super Famicom and Game Boy carts and consoles, all tested before sale.",
+  "ja": "ファミコンやスーパーファミコン、ゲームボーイの中古ソフトと本体、全品動作確認済み"
  },
  "building_id": null,
  "floors": [
@@ -47,12 +48,14 @@
   {
    "floor": "1F",
    "ko": "메이저 타이틀 중심의 소프트·본체·주변기기, 매입 카운터",
-   "en": "Mainstream titles, consoles, controllers and accessories; buyback counter"
+   "en": "Mainstream titles, consoles, controllers and accessories; buyback counter",
+   "ja": "メジャータイトル中心のソフトや本体、コントローラーなどの周辺機器と、買取カウンターがあります。"
   },
   {
    "floor": "2F",
    "ko": "마이너·심층 타이틀 중심의 소프트",
-   "en": "Niche and deep-cut titles"
+   "en": "Niche and deep-cut titles",
+   "ja": "マイナーな作品や深いタイトルのソフトが中心です。"
   }
  ],
  "location": {
@@ -81,7 +84,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 페이지 기준 매일 11:00-20:00이며 정기휴일 표기는 없음. 매입 접수는 11:00-18:30까지만. 산책 잡지 '산타쓰'(2025) 등 제3자 안내에는 11:00-19:55·부정기 휴무로 적혀 있어 마감 직전 방문은 피하는 편이 안전함.",
-   "en": "Official page lists 11:00-20:00 daily and no regular holiday; buyback reception ends at 18:30. Third-party listings (san-tatsu, 2025) give 11:00-19:55 and irregular closures, so avoid arriving right at closing time."
+   "en": "Official page lists 11:00-20:00 daily and no regular holiday; buyback reception ends at 18:30. Third-party listings (san-tatsu, 2025) give 11:00-19:55 and irregular closures, so avoid arriving right at closing time.",
+   "ja": "公式ページには毎日11:00-20:00とあり、定休日の記載はありません。買取の受付は18:30までです。第三者の案内（さんたつ、2025年）には11:00-19:55・不定休とあるので、閉店間際の来店は避けるほうが安全です。"
   },
   "source_url": "https://www.retrogamecamp.com/shop.html"
  },
@@ -97,7 +101,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도를 스에히로초 방향(북쪽)으로 걷다가, 아키바오~ 7호점(빨간 차양)과 같은 신스에히로 빌딩에서 그 옆 점포를 찾으면 됨. 건물 벽면의 노란 도트 그래픽 간판(www.retrogamecamp.com)이 표식이고, 그 아래 좁게 열린 1층 매장이 입구. 안쪽 계단으로 2층까지 이어짐.",
-  "en": "Walk north up the west sidewalk of Chuo-dori toward Suehirocho. The shop shares the Shin-Suehiro Building with Akibaoo No.7 (red awning) and sits in the unit beside it. The marker is the yellow pixel-art banner on the wall reading www.retrogamecamp.com; the narrow open shopfront underneath is the entrance, with stairs inside up to 2F."
+  "en": "Walk north up the west sidewalk of Chuo-dori toward Suehirocho. The shop shares the Shin-Suehiro Building with Akibaoo No.7 (red awning) and sits in the unit beside it. The marker is the yellow pixel-art banner on the wall reading www.retrogamecamp.com; the narrow open shopfront underneath is the entrance, with stairs inside up to 2F.",
+  "ja": "中央通りの西側の歩道を末広町方面へ北に歩き、あきばお～七號店（赤い日よけ）と同じ新末広ビルの、その隣の区画を探してください。壁に掛かるwww.retrogamecamp.comと書かれた黄色いドット絵の看板が目印で、その下の狭く開いた1階の店先が入口、中の階段で2階へ続いています。"
  },
  "tips": {
   "ko": [
@@ -111,6 +116,12 @@
    "Every item is tested before sale; carts with a replaced save battery are marked with a sticker and carry a 5-year battery warranty.",
    "The Dungeon branch (ダンジョン店, Sotokanda 3-14-6, Keiko Bldg B1) still listed on the official site and in map apps closed in June 2020; its stock and buyback moved here. Do not walk to that address.",
    "No official information on tax-free or card acceptance, so bring cash to be safe."
+  ],
+  "ja": [
+   "買取の受付は11:00-18:30と閉店より早いので、売りたい物があれば午後のうちに来店してください。",
+   "全商品を動作確認したうえで販売しており、セーブ用の内蔵電池を交換した商品にはシールが貼られ、電池の5年保証が付きます。",
+   "公式サイトや地図アプリに今も残るダンジョン店（外神田3-14-6 恵光ビルB1）は2020年6月に閉店し、商品と買取業務はこの店に移りました。その住所へは行かないでください。",
+   "免税やカード決済の可否について公式の案内がないので、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://www.retrogamecamp.com/",

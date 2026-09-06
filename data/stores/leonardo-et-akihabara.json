@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "절판 항공기·전차·함선 프라모델 중고 재고와 도료·중고 툴을 파는 모형점",
-  "en": "Hard-to-find and discontinued aircraft, tank and ship model kits, paints and used tools"
+  "en": "Hard-to-find and discontinued aircraft, tank and ship model kits, paints and used tools",
+  "ja": "絶版の航空機・戦車・艦船プラモデルの中古在庫と塗料・中古工具を扱う模型店"
  },
  "building_id": null,
  "floors": [
@@ -72,11 +73,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트가 2021년 이후 갱신되지 않았다. 시간이 바뀌었을 수 있으므로 방문 전 03-5846-5151로 확인하는 편이 안전하다.",
-   "en": "The official site has not been updated since 2021, so ring 03-5846-5151 before travelling in case the hours have changed."
+   "en": "The official site has not been updated since 2021, so ring 03-5846-5151 before travelling in case the hours have changed.",
+   "ja": "公式サイトは2021年以降更新されていません。時間が変わっている可能性がありますので、来店前に03-5846-5151で確認するほうが安心です。"
   },
   "source_url": "http://www.leonardoet.com/"
  },
@@ -92,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 3분, 주오도리 동쪽 소토칸다 5초메의 마키타(槇田) 빌딩 1층 노면 점포. 가게가 직접 공개한 좌표는 35.7039305, 139.7723018이다.",
-  "en": "Three minutes from Suehirocho station on the Ginza line, at street level in the Makita Building in Sotokanda 5-chome, east of Chuo-dori. The shop publishes its own coordinates as 35.7039305, 139.7723018."
+  "en": "Three minutes from Suehirocho station on the Ginza line, at street level in the Makita Building in Sotokanda 5-chome, east of Chuo-dori. The shop publishes its own coordinates as 35.7039305, 139.7723018.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩3分、中央通りの東側、外神田5丁目の槇田ビル1Fの路面店です。お店が公開している座標は35.7039305、139.7723018です。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,12 @@
    "Its trademark is the bargain corner of 'bag kits' — assorted parts bundled into one bag.",
    "Buy-back is taken over the counter except on Thursdays; the owner may be out, so phone first. ID is required and under-18s cannot sell.",
    "Paints, used compressors and airbrushes, tools and second-hand modelling reference books are sold too."
+  ],
+  "ja": [
+   "旧模型店レオナルドの後継店舗で、絶版・希少なキットの在庫が中心です。ラジコンは扱っていません。",
+   "いくつものパーツをまとめて詰めた袋キットの特価コーナーが、このお店の名物です。",
+   "買取は木曜日を除いて店頭で受け付けていますが、店長が不在のこともありますので、電話で確認してからお持ちください。身分証明書が必要で、18歳未満の方の買取はできません。",
+   "塗料や中古のコンプレッサー・エアブラシなどの工具類、中古の模型資料集も一緒に販売しています。"
   ]
  },
  "official_url": "http://www.leonardoet.com/",

@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "애니 티셔츠와 일본어 개그 티셔츠 전문점. 토트백·오리지널 프린트도 취급",
-  "en": "T-shirt shop for anime prints and Japanese joke tees, plus tote bags and printing"
+  "en": "T-shirt shop for anime prints and Japanese joke tees, plus tote bags and printing",
+  "ja": "アニメプリントと日本語のギャグTシャツの店。トートバッグやプリントの注文も"
  },
  "building_id": null,
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "연중 거의 무휴",
-   "en": "Open almost every day"
+   "en": "Open almost every day",
+   "ja": "ほぼ休みなし"
   },
   "note": {
    "ko": "공식 사이트에 영업시간 페이지가 없어 매장 공식 X(@akibawakuta) 프로필의 '12:00~20:00, 연중 거의 무휴' 표기를 옮긴 것이다. 인스타그램 프로필에는 12:00~19:30, 지도 서비스에는 11:00 개점으로 실린 곳도 있어 마감 직전 방문은 피하는 편이 좋다.",
-   "en": "The website has no hours page, so these come from the shop's own X profile (@akibawakuta), which states 12:00-20:00 and almost no closing days. Its Instagram profile shows 12:00-19:30 and some map listings show an 11:00 opening, so avoid arriving right before closing."
+   "en": "The website has no hours page, so these come from the shop's own X profile (@akibawakuta), which states 12:00-20:00 and almost no closing days. Its Instagram profile shows 12:00-19:30 and some map listings show an 11:00 opening, so avoid arriving right before closing.",
+   "ja": "公式サイトに営業時間のページがないため、店のXのプロフィール（@akibawakuta）にある「12:00〜20:00、ほぼ休みなし」という表記によるものです。Instagramのプロフィールは12:00〜19:30、地図サービスには11:00開店と載っているところもあるので、閉店間際に行くのは避けてください。"
   },
   "source_url": "https://x.com/akibawakuta"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 30초, 아트레 아키하바라 옆 골목의 1층 노면 점포다. 라디오회관에서 역 쪽으로 한 블록 걸으면 되고, 가게 앞에 티셔츠를 걸어 두어 눈에 띈다.",
-  "en": "A ground-floor shopfront on the lane beside Atre Akihabara, about 30 seconds from the JR Electric Town Exit - one block from Radio Kaikan towards the station. T-shirts hung outside make it easy to spot."
+  "en": "A ground-floor shopfront on the lane beside Atre Akihabara, about 30 seconds from the JR Electric Town Exit - one block from Radio Kaikan towards the station. T-shirts hung outside make it easy to spot.",
+  "ja": "JRの電気街口から30秒ほど、アトレ秋葉原の脇の路地に面した1Fの路面店で、ラジオ会館から駅の方へ1ブロックのところです。店の前にTシャツを掛けているので見つけやすいです。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,12 @@
    "No cosplay costumes here - only printed apparel and accessories such as T-shirts, hoodies and tote bags.",
    "Licensed anime tees (Gundam, Evangelion, Sonic, One Piece) sit alongside Japanese-pun novelty shirts.",
    "It also takes custom print orders. The same items are sold through the shop's online store at wakuwakutaro.stores.jp, and the shop's phone number is 03-3527-1301."
+  ],
+  "ja": [
+   "公式サイトに営業時間の記載はなく、店のXのプロフィールは12:00〜20:00でほぼ休みなし、Instagramのプロフィールは12:00〜19:30としているので、行く前にSNSを確認してください。",
+   "コスプレ衣装は扱っていません。Tシャツやパーカー、トートバッグといったプリントの衣類と雑貨だけです。",
+   "ガンダム、エヴァンゲリオン、ソニック、ONE PIECEといったライセンス品のアニメTシャツと、日本語の言葉遊びのTシャツが並んでいます。",
+   "オリジナルプリントの注文も受け付けています。同じ商品は店のオンラインストアwakuwakutaro.stores.jpでも買え、店の電話番号は03-3527-1301です。"
   ]
  },
  "official_url": "https://wakuwaku21.co.jp/",

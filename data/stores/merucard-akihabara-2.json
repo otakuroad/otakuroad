@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "듀얼마스터즈·유니온아리나·건담카드 싱글 판매와 매입, 54석 대전석",
-  "en": "Duel Masters, Union Arena and Gundam card singles and buyback, with 54 duel seats"
+  "en": "Duel Masters, Union Arena and Gundam card singles and buyback, with 54 duel seats",
+  "ja": "デュエル・マスターズやユニオンアリーナ、ガンダムカードのシングル販売と買取、54席の対戦席"
  },
  "building_id": "imai-building",
  "floors": [
@@ -70,11 +71,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 점포 페이지 기준 정기휴일 없음. 1호점과 영업시간이 같다.",
-   "en": "The official store page lists no regular closing day; the hours match the 1st store."
+   "en": "The official store page lists no regular closing day; the hours match the 1st store.",
+   "ja": "公式の店舗ページに定休日の記載はなく、営業時間は1号店と同じです。"
   },
   "source_url": "https://akihabara-cardshop.com/shop/"
  },
@@ -90,7 +93,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 6분. 빅카메라 아키하바라점 방향으로 나가 주오도리 신호를 건너 벨살레 아키하바라(住友不動産 秋葉原빌딩) 쪽으로 건넌 뒤, 벨살레와 소프맵 사이 좁은 길을 100m쯤 직진하면 로손과 아키바오가 나온다. 그 옆 이마이(今井)빌딩 5층이며, 같은 건물 2층에는 TCG숍 193이 있다.",
-  "en": "Six minutes from the JR Akihabara Electric Town exit. Head toward Bic Camera Akihabara, cross the Chuo-dori signal to the Belle Salle Akihabara side, then follow the narrow street between Belle Salle and Sofmap for about 100 m past a Lawson to the Akibaoo store. The Imai Building next to it holds the shop on 5F; TCG Shop 193 is on 2F of the same building."
+  "en": "Six minutes from the JR Akihabara Electric Town exit. Head toward Bic Camera Akihabara, cross the Chuo-dori signal to the Belle Salle Akihabara side, then follow the narrow street between Belle Salle and Sofmap for about 100 m past a Lawson to the Akibaoo store. The Imai Building next to it holds the shop on 5F; TCG Shop 193 is on 2F of the same building.",
+  "ja": "JR秋葉原駅電気街口から徒歩6分です。ビックカメラAKIBAの方向へ進み、中央通りの信号を渡ってベルサール秋葉原側に出たら、ベルサール秋葉原とソフマップの間の細い道をローソンを過ぎて100mほど進むとあきばお～があります。その隣の今井ビルの5Fが店舗で、同じビルの2Fにはトレーディングカードショップ193 秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,13 @@
    "Cash, credit cards and electronic money are accepted here (no payment methods are listed for the 1st store).",
    "The shop moved to this address on 5 December 2024; listings that still give Hakugin Kaikan 2F at Sotokanda 3-10-10 are out of date.",
    "Buyback is over the counter only, with no mail-in service. Staff serve in Japanese, though translation apps are fine."
+  ],
+  "ja": [
+   "2号店ではデュエル・マスターズ、ユニオンアリーナ、ガンダムカードゲーム、シャドウバース エボルヴ、コナンTCG、ホロライブTCG、ディズニー ロルカナ、クロススターズを扱います。ポケモン、遊戯王、ワンピース、ドラゴンボールは1号店（外神田1-8-7、神林ビル2F）の担当です。",
+   "54席のデュエルスペースがあり、大会やイベントも開かれます。1号店には対戦スペースがありません。",
+   "現金のほかクレジットカードと電子マネーが使えます（1号店については支払い方法の案内がありません）。",
+   "2024年12月5日に現在の住所へ移転しており、外神田3-10-10の白銀会館2Fと案内している情報は古いものです。",
+   "買取は店頭のみで、郵送買取は受け付けていません。接客は日本語ですが、翻訳アプリの使用は問題ありません。"
   ]
  },
  "official_url": "https://akihabara-cardshop.com/shop/",

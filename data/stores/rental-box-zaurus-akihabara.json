@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "개인 출품자가 쇼케이스를 빌려 파는 중고 철도모형·트레카·피규어",
-  "en": "Rental showcase where private sellers list used model trains, trading cards and figures"
+  "en": "Rental showcase where private sellers list used model trains, trading cards and figures",
+  "ja": "個人の出品者が中古の鉄道模型やトレカ、フィギュアを並べるレンタルショーケース"
  },
  "building_id": "senju-building-7",
  "floors": [
@@ -72,11 +73,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 홈페이지가 없어 영업시간은 점포 공식 X 계정(@akb_rb_zaurus) 프로필 안내를 따른다. 평일·공휴일 11:00-21:00, 토·일 10:00-21:00이며, 옛 계정(@rb_zaurus)과 오래된 디렉터리에는 아직 10:00-22:00으로 남아 있다.",
-   "en": "There is no official website, so the hours follow the shop's own X profile (@akb_rb_zaurus): 11:00-21:00 on weekdays and public holidays, 10:00-21:00 on Saturday and Sunday. The old account (@rb_zaurus) and older directories still list 10:00-22:00."
+   "en": "There is no official website, so the hours follow the shop's own X profile (@akb_rb_zaurus): 11:00-21:00 on weekdays and public holidays, 10:00-21:00 on Saturday and Sunday. The old account (@rb_zaurus) and older directories still list 10:00-22:00.",
+   "ja": "公式サイトがないため、営業時間は店の公式Xプロフィール（@akb_rb_zaurus）に従い、平日と祝日は11:00-21:00、土曜と日曜は10:00-21:00です。旧アカウント（@rb_zaurus）や古い情報サイトには、今も10:00-22:00と残っています。"
   },
   "source_url": "https://x.com/akb_rb_zaurus"
  },
@@ -92,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 도보 2분, 주오도리 서쪽 千住ビル7(옛 표기 恵光ビル) 2층. 같은 건물 지하가 리버티 1호점, 6층이 아키바호비이고, 옆 신스에히로 빌딩에는 레트로 게임 캠프가 있다. 1층 입구에서 계단이나 엘리베이터로 2층까지 올라간다.",
-  "en": "Two minutes from Suehirocho Station Exit 3, on the west side of Chuo-dori: 2F of Senju Building 7 (older listings call it 恵光ビル / Keiko Building). Liberty No.1 is in the same building's basement and AKIBA-HOBBY on 6F, with Retro Game Camp in the Shin-Suehiro Building next door. Take the stairs or the lift up one floor from the ground-floor entrance."
+  "en": "Two minutes from Suehirocho Station Exit 3, on the west side of Chuo-dori: 2F of Senju Building 7 (older listings call it 恵光ビル / Keiko Building). Liberty No.1 is in the same building's basement and AKIBA-HOBBY on 6F, with Retro Game Camp in the Shin-Suehiro Building next door. Take the stairs or the lift up one floor from the ground-floor entrance.",
+  "ja": "末広町駅の3番出口から徒歩2分、中央通り西側の千住ビル7（古い案内では恵光ビル）の2階で、1階の入口から階段かエレベーターで一つ上がります。同じビルの地下にはリバティー 秋葉原1号店、6階にはアキバホビー秋葉原店があり、隣の新末広ビルにはレトロげーむキャンプ秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -104,6 +108,11 @@
    "It is a consignment showcase rented by private sellers, so the stock changes constantly; the staff are not card specialists and cannot answer detailed price questions.",
    "Model trains, Yu-Gi-Oh! and Pokemon singles, sealed packs and sleeves are mixed together on one floor, so scan the whole room rather than hunting for a section.",
    "Listed as cash only."
+  ],
+  "ja": [
+   "個人がショーケースを借りて出品する委託販売なので、在庫は絶えず入れ替わります。スタッフはカードの専門ではないため、相場や商品の詳しい内容を尋ねるのは難しいです。",
+   "鉄道模型と遊戯王・ポケモンのシングル、未開封パック、スリーブが一つのフロアに混ざっているので、特定のコーナーを探すより全体を見渡すほうが早いです。",
+   "支払いは現金のみと案内されています。"
   ]
  },
  "official_url": null,

@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "PSA 감정품과 미개봉 박스를 현금으로 사들이는 트레카모올 5층 매입 카운터",
-  "en": "Buyback counter on the 5F card mall taking PSA-graded cards and sealed boxes for cash"
+  "en": "Buyback counter on the 5F card mall taking PSA-graded cards and sealed boxes for cash",
+  "ja": "PSA鑑定品と未開封BOXを現金で買い取るトレカモール5Fの買取カウンター"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -61,7 +62,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "운영사 공식 사이트가 아키하바라 지점을 11:00~19:00(최종 접수 18:45), 연중무휴(연말연시 제외)로 안내하고, 점포 X도 '18:45 매입·지급 종료 / 19:00 폐점'으로 올린 적이 있다. 다만 X 프로필은 영업시간을 11:00~18:45, 매입 접수를 12:30~18:45로 적어 두 안내가 조금 다르니 18:45 이후에는 매입이 끝난다고 보는 편이 안전하다.",
-   "en": "The operator's own site gives the Akihabara branch as 11:00-19:00 with a last intake at 18:45, open all year except the New Year period, and the shop's X has posted '18:45 buying and payouts end / 19:00 close'. Its X profile, however, summarises the hours as 11:00-18:45 with buyback reception 12:30-18:45, so treat 18:45 as the real cut-off for selling."
+   "en": "The operator's own site gives the Akihabara branch as 11:00-19:00 with a last intake at 18:45, open all year except the New Year period, and the shop's X has posted '18:45 buying and payouts end / 19:00 close'. Its X profile, however, summarises the hours as 11:00-18:45 with buyback reception 12:30-18:45, so treat 18:45 as the real cut-off for selling.",
+   "ja": "運営会社の公式サイトは秋葉原店を11:00〜19:00（最終受付18:45）、年末年始を除き年中無休と案内しており、店舗のXにも「18:45買取・支払い終了／19:00閉店」と投稿されたことがあります。一方でXのプロフィールは営業時間を11:00〜18:45、買取受付を12:30〜18:45と書いていて案内が少し違いますので、売るなら18:45が実質の締め切りと考えるほうが安全です。"
   },
   "source_url": "https://tobansyoji.co.jp/company/"
  },
@@ -77,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 5층. 라오쿠스 쪽 엘리베이터로 5층에 올라가면 트레카모올 5F 플로어이고 그 안의 매입 카운터다.",
-  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Ride the Laox-side elevator to 5F; the counter sits inside the Toreca Mall floor."
+  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Ride the Laox-side elevator to 5F; the counter sits inside the Toreca Mall floor.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを南へ1〜2分、万世橋交差点の角にある青いビル（エディオンAKIBA・ラオックス 秋葉原本店）の5Fです。ラオックス側のエレベーターで5Fに上がるとトレカモールのフロアで、その中にある買取カウンターです。"
  },
  "tips": {
   "ko": [
@@ -91,6 +94,12 @@
    "Buying and payouts stop at 18:45 and the shop closes at 19:00, so arriving just before closing is too late to sell.",
    "It advertises strengthened buying of PSA-graded Pokemon cards and sealed boxes, and says payouts are made entirely in cash.",
    "The operator is Toban Shoji; the Akihabara branch takes walk-in buying only (no mail-in), while the head office in Setagaya and a Kawasaki branch handle the rest."
+  ],
+  "ja": [
+   "買取は事前予約制です。公式サイトで会員登録と買取の申込を済ませてから、身分証明書と品物を持ってお越しください。",
+   "買取と支払いは18:45に終わり、閉店は19:00ですので、閉店間際に行くと受付が締め切られています。",
+   "ポケモンのPSA鑑定品と未開封BOXの買取を特に強化していると告知しており、代金は全額現金で支払うとしています。",
+   "運営会社は東磐商事です。秋葉原店は店頭買取のみで郵送買取は受け付けておらず、世田谷の本社と川崎店が別にあります。"
   ]
  },
  "photo": null,

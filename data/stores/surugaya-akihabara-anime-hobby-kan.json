@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "철도모형·미니카·특촬 완구·트레이딩 피규어를 4개 층에서 파는 신·중고 매장",
-  "en": "Four floors of new and used model trains, minicars, tokusatsu toys and trading figures"
+  "en": "Four floors of new and used model trains, minicars, tokusatsu toys and trading figures",
+  "ja": "鉄道模型・ミニカー・特撮玩具・トレーディングフィギュアの新品と中古が4フロア"
  },
  "building_id": null,
  "floors": [
@@ -81,7 +82,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 점포 페이지 기준 평일은 11:00, 토·일·공휴일은 10:00 개점이다. 일부 일본 디렉터리는 아직 매일 10:00~21:00·연중무휴로 적고 있으니 평일 이른 시간 방문은 피하는 편이 좋다.",
-   "en": "The official store page gives 11:00 on weekdays and 10:00 on weekends and public holidays. Some Japanese directories still list 10:00-21:00 every day, so do not arrive early on a weekday."
+   "en": "The official store page gives 11:00 on weekdays and 10:00 on weekends and public holidays. Some Japanese directories still list 10:00-21:00 every day, so do not arrive early on a weekday.",
+   "ja": "公式の店舗ページでは平日11:00、土日・祝日10:00の開店です。一部の日本のディレクトリにはまだ毎日10:00〜21:00と載っているので、平日の早い時間に行くのは避けてください。"
   },
   "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html"
  },
@@ -97,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 1번 출구에서 주오도리를 따라 남쪽으로 도보 3분, JR 아키하바라역 전기가 출구에서는 도보 6분. 주오도리 동쪽 보도에 면한 폭 좁은 4층 건물 KHK빌딩 전체가 이 매장이며, 파란 駿河屋 간판이 표식이다. 바로 남쪽에 붙은 9층 건물 1층은 리버티 5호점.",
-  "en": "Three minutes south along Chuo-dori from Ginza-line Suehirocho exit 1, or six minutes from JR Akihabara's Electric Town Exit. The whole of the narrow four-story KHK Building on the east sidewalk of Chuo-dori is the shop, marked by the blue 駿河屋 sign; Liberty Store 5 occupies the ground floor of the nine-story building right next door to the south."
+  "en": "Three minutes south along Chuo-dori from Ginza-line Suehirocho exit 1, or six minutes from JR Akihabara's Electric Town Exit. The whole of the narrow four-story KHK Building on the east sidewalk of Chuo-dori is the shop, marked by the blue 駿河屋 sign; Liberty Store 5 occupies the ground floor of the nine-story building right next door to the south.",
+  "ja": "銀座線末広町駅1番出口から中央通りを南へ徒歩3分、JR秋葉原駅電気街口からは徒歩6分です。中央通りの東側の歩道に面した細長い4階建てのKHKビル全体がこの店で、青い駿河屋の看板が目印です。すぐ南隣の9階建てのビルの1Fにはリバティー秋葉原5号店が入っています。"
  },
  "tips": {
   "ko": [
@@ -113,6 +116,13 @@
    "Buyback here covers only N-gauge, minicars, figures, trading figures, tokusatsu toys, shokugan and tokusatsu DVD/Blu-ray. Other genres go to the Surugaya Akihabara Buyback Center, which takes all genres; selling needs a member card and photo ID every time.",
    "Refurbished used railway models certified by the model-train maker Katsumi are sold here as a regular line.",
    "Free Wi-Fi in store, and the O2O service lets you get an online 'anshin' quote first and bring the items straight to this counter."
+  ],
+  "ja": [
+   "取り扱いは鉄道模型・ミニカー・特撮玩具なので、アニメのキャラクターグッズや同人誌を探すなら駿河屋 秋葉原本館か駿河屋 秋葉原駅前店へ向かってください。",
+   "2026年9月12日から16日はエレベーター工事で終日エレベーターが使えないと、店舗のXで告知されています。その期間は4Fまで階段で上り下りすることになります。",
+   "この店の買取対象はNゲージ、ミニカー、フィギュア、トレーディングフィギュア、特撮玩具、食玩、特撮のDVD・Blu-rayだけです。ほかのジャンルは全ジャンルを受け付ける駿河屋 秋葉原買取センターへ持ち込むことになり、買取には会員証と毎回の身分証が必要です。",
+   "鉄道模型メーカーのカツミの認証を受けた整備済みの中古鉄道模型を、常時販売しています。",
+   "店内では無料Wi-Fiが使え、オンラインの「あんしん買取」で先に見積もりを取ってそのまま持ち込むO2O買取も受け付けています。"
   ]
  },
  "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_animehobby/index.html",

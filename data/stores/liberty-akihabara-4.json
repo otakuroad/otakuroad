@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "공식 이치반쿠지 추첨대와 중고 피규어·게임·CD를 갖춘 주오도리 매장",
-  "en": "Official Ichiban Kuji lottery counter plus used figures, games and CDs on Chuo-dori"
+  "en": "Official Ichiban Kuji lottery counter plus used figures, games and CDs on Chuo-dori",
+  "ja": "一番くじの公式実施店と中古フィギュア・ゲーム・CDが並ぶ中央通りの店舗"
  },
  "building_id": null,
  "floors": [],
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 점포 목록 기준 11:00-20:30, 연중무휴. OSM 등에는 평일 11:00-21:00, 토 10:30-21:00 같은 옛 시간이 남아 있다.",
-   "en": "The official store list gives 11:00-20:30 daily, open year-round. OSM and some directories still carry older hours such as 11:00-21:00 on weekdays and 10:30-21:00 on Saturdays."
+   "en": "The official store list gives 11:00-20:30 daily, open year-round. OSM and some directories still carry older hours such as 11:00-21:00 on weekdays and 10:30-21:00 on Saturdays.",
+   "ja": "公式の店舗一覧では11:00〜20:30、年中無休となっています。OSMなど一部の情報サイトには、平日11:00〜21:00、土曜10:30〜21:00といった古い営業時間が残っています。"
   },
   "source_url": "https://liberty-kaitori.com/shop"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 스루가야 아키하바라 게임관과 트레이더 본점 사이 구간의 9층짜리 小木曽(오기소) 빌딩 저층부. 리버티 1호점과는 주오도리를 사이에 두고 거의 마주 본다.",
-  "en": "On the east side of Chuo-dori, in the low floors of the nine-storey Ogiso Building between Surugaya's game store and Trader's main store. It faces Liberty Store 1 almost directly across Chuo-dori."
+  "en": "On the east side of Chuo-dori, in the low floors of the nine-storey Ogiso Building between Surugaya's game store and Trader's main store. It faces Liberty Store 1 almost directly across Chuo-dori.",
+  "ja": "中央通りの東側、駿河屋 秋葉原ゲーム館とトレーダー秋葉原本店の間に建つ9階建ての小木曽ビルの低層階です。中央通りを挟んでリバティー 秋葉原1号店とほぼ向かい合っています。"
  },
  "tips": {
   "ko": [
@@ -93,6 +97,11 @@
    "The official guide bills this branch as the Ichiban Kuji outlet and says new lots arrive weekly here, though the chain lists Ichiban Kuji as sold at every Liberty branch.",
    "It is tax-free like the rest of the chain: original passport, 5,500 yen or more (tax included) in this branch.",
    "The floor is not published officially - look for the Liberty signage on the lower floors of the building."
+  ],
+  "ja": [
+   "公式の案内はこの店を一番くじの実施店として紹介し、毎週新しいロットが入ると書いていますが、一番くじの取り扱い自体はリバティー全店で共通と案内されています。",
+   "ほかの店舗と同じく免税に対応しており、パスポートの原本と、この店舗での税込5,500円以上の購入が条件です。",
+   "階数は公式には公開されていません。ビルの低層階に出ているリバティーの看板を目印にしてください。"
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",

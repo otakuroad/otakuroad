@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "동인지·만화·라노벨·굿즈를 파는 멜론북스 1호점. 남성향 R-18 코너와 여성향 코너가 함께 있음",
-  "en": "Melonbooks' first Akihabara store: new doujinshi, manga, goods; R-18 and women's corners"
+  "en": "Melonbooks' first Akihabara store: new doujinshi, manga, goods; R-18 and women's corners",
+  "ja": "新刊同人誌やマンガ、グッズを扱うメロンブックス1号店、R-18と女性向けのコーナーあり"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open every day (no regular holiday)"
+   "en": "Open every day (no regular holiday)",
+   "ja": "年中無休（定休日なし）"
   },
   "note": {
    "ko": "공식 페이지 기준 전일 10:00~21:00. 임시 휴업·시간 변경은 매장 X 계정(@melon_akiba)에 공지되며, 2026년 8월 22일에는 폭우 침수로 임시 휴업 후 재개했다",
-   "en": "10:00-21:00 every day per the official page. Temporary closures and hour changes are posted on the store's X account (@melon_akiba); the store closed briefly on 2026-08-22 after rain flooding and has since reopened"
+   "en": "10:00-21:00 every day per the official page. Temporary closures and hour changes are posted on the store's X account (@melon_akiba); the store closed briefly on 2026-08-22 after rain flooding and has since reopened",
+   "ja": "公式ページによると毎日10:00〜21:00です。臨時休業や営業時間の変更は店舗のX（@melon_akiba）で告知され、2026年8月22日には大雨による浸水で臨時休業したあと営業を再開しました。"
   },
   "source_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=4"
  },
@@ -90,7 +93,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 도보 3분, 주황색 'Hey' 간판이 걸린 오락실 건물의 지하 1층. 보도에서 Hey 1F 입구 옆 지하 계단으로 내려가면 멜론 로고 간판이 보인다.",
-  "en": "Three minutes from the JR Akihabara Electric Town Exit along Chuo-dori, in the basement of the arcade with the orange 'Hey' sign. From the sidewalk take the stairs down beside Hey's 1F entrance; the melon logo marks the door."
+  "en": "Three minutes from the JR Akihabara Electric Town Exit along Chuo-dori, in the basement of the arcade with the orange 'Hey' sign. From the sidewalk take the stairs down beside Hey's 1F entrance; the melon logo marks the door.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを徒歩3分、オレンジ色のHeyの看板が掛かったゲームセンターの地下です。歩道からHeyの1Fの入口の横にある地下への階段を下りると、メロンのロゴが目印の入口があります。"
  },
  "tips": {
   "ko": [
@@ -104,6 +108,12 @@
    "Cash plus VISA, Mastercard, JCB, AMEX and other major cards and e-money; shopping bags cost 5 yen each",
    "Buying 18+ items requires an age check; Melonbooks runs a card-based age-verification system",
    "Online-order pickup is not here but at the Akihabara Store Pickup Hall (Suzuki Bldg, Sotokanda 1-3-7, 12:00-20:30 daily)"
+  ],
+  "ja": [
+   "免税は税抜5,000円以上が対象で、本人のパスポートをレジに提示して手続きします（代理の申請はできません）。",
+   "現金のほか、VISA、Mastercard、JCB、AMEXなどの主要なクレジットカードと電子マネーが使えます。ショッピングバッグは1枚5円の有料です。",
+   "18歳以上向けの商品を買うときは年齢確認があり、メロンブックスはカード方式の年齢確認システムを運用しています。",
+   "通販商品の店舗受取はこの店ではなく、メロンブックス秋葉原店舗受取館（外神田1-3-7 鈴木ビル、毎日12:00〜20:30）で受け付けます。"
   ]
  },
  "official_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=4",

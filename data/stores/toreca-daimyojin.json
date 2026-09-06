@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "포켓몬카드 전문 매입점. PSA 감정품·구판 카드·미개봉 박스 사정",
-  "en": "Pokemon card buying specialist: PSA-graded, old-back vintage cards and sealed boxes"
+  "en": "Pokemon card buying specialist: PSA-graded, old-back vintage cards and sealed boxes",
+  "ja": "ポケモンカードの買取専門店、PSA鑑定品・旧裏の古いカード・未開封BOX"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 목요일 정기휴무",
-   "en": "Closed every Thursday"
+   "en": "Closed every Thursday",
+   "ja": "毎週木曜日"
   },
   "note": {
    "ko": "매입 접수는 평일 13:30~19:30, 토·일·공휴일 12:30~19:30. 폐점은 20:00이지만 19:30 시점에 매입 접수가 없으면 조기 종료하는 경우가 있다고 공식 사이트에 명시되어 있다.",
-   "en": "Buyback is taken 13:30-19:30 on weekdays and 12:30-19:30 on weekends and holidays. Closing is 20:00, but the official site warns the shop may close early if no buyback customer is waiting at 19:30."
+   "en": "Buyback is taken 13:30-19:30 on weekdays and 12:30-19:30 on weekends and holidays. Closing is 20:00, but the official site warns the shop may close early if no buyback customer is waiting at 19:30.",
+   "ja": "買取の受付は平日13:30〜19:30、土日祝12:30〜19:30です。閉店は20:00ですが、19:30の時点で買取のお客がいない場合は早じまいすることがあると公式サイトに明記されています。"
   },
   "source_url": "https://www.tcdaimyoujin.com/"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 7분, JR 아키하바라역에서 도보 8분, 주오선 오차노미즈역에서 도보 9분(공식 사이트 안내). 소토칸다 2초메 서쪽, 간다묘진 아래 골목의 가와사키(川崎) 빌딩 1층이라 전기가 상점가 중심부에서는 떨어져 있다.",
-  "en": "Seven minutes from Suehirocho on the Ginza line, eight from JR Akihabara and nine from Ochanomizu, per the official site. Ground floor of the Kawasaki Building on a side street in western Sotokanda 2-chome below Kanda Myojin, away from the main electronics blocks."
+  "en": "Seven minutes from Suehirocho on the Ginza line, eight from JR Akihabara and nine from Ochanomizu, per the official site. Ground floor of the Kawasaki Building on a side street in western Sotokanda 2-chome below Kanda Myojin, away from the main electronics blocks.",
+  "ja": "公式サイトによると、銀座線の末広町駅から徒歩7分、JR秋葉原駅から徒歩8分、御茶ノ水駅から徒歩9分です。神田明神の下、外神田2丁目の西側の路地にある川崎ビルの1階で、電気街の中心のブロックからは離れています。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "It explicitly takes PSA-graded cards, old-back (early design) cards, sealed boxes and rare singles.",
    "Closed every Thursday, and opening time differs: 13:00 on Mon/Tue/Wed/Fri, 12:00 on weekends and holidays.",
    "The official site refreshes its high-price buyback list daily, so you can check rates before going. The shop also runs Mercari and BASE online stores."
+  ],
+  "ja": [
+   "買取に特化した小規模な専門店で、扱うのはポケモンカードだけです。遊戯王やワンピース、ほかのTCGは取り扱っていません。",
+   "PSA鑑定品、旧裏（初期デザイン）のカード、未開封BOX、レアカードまで査定の対象と明記しています。",
+   "毎週木曜が定休日で、開店時刻は月・火・水・金が13:00、土日祝が12:00と異なります。",
+   "公式サイトの高額買取リストが毎日更新されるので、行く前に価格を確認できます。メルカリとBASEのオンライン店舗も運営しています。"
   ]
  },
  "official_url": "https://www.tcdaimyoujin.com/",

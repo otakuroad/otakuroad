@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "5층은 철도모형과 미니카, 4층은 프라모델·라디콘·밀리터리 모형과 도료·공구",
-  "en": "5F railway models and minicars; 4F plastic kits, RC, military models, paints and tools"
+  "en": "5F railway models and minicars; 4F plastic kits, RC, military models, paints and tools",
+  "ja": "5Fは鉄道模型とミニカー、4Fはプラモデル・ラジコン・ミリタリー模型と塗料・工具"
  },
  "building_id": null,
  "floors": [
@@ -44,12 +45,14 @@
   {
    "floor": "4F",
    "ko": "라디콘(RC)·프라모델·밀리터리 모형 매장과 도료·공구 코너",
-   "en": "Radio control, plastic model kits and military models, plus paints and tools"
+   "en": "Radio control, plastic model kits and military models, plus paints and tools",
+   "ja": "ラジコン、プラモデル、ミリタリー模型に加えて、塗料と工具を扱うフロアです。"
   },
   {
    "floor": "5F",
    "ko": "철도모형 매장과 다이캐스트 미니카 매장",
-   "en": "Railway models and the die-cast minicar counter"
+   "en": "Railway models and the die-cast minicar counter",
+   "ja": "鉄道模型と、ダイキャストミニカーの売り場があるフロアです。"
   }
  ],
  "location": {
@@ -84,7 +87,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 페이지에 정기휴일 표기는 없다. 오래된 지도·검색 정보에는 9:00 개점·21:00 폐점으로 남아 있으나, 현재 공식 안내는 평일 11:00~20:00, 토·일·공휴일 10:00~20:00이다.",
-   "en": "The official page states no regular closing day. Older map and directory listings still show 09:00-21:00; the current official hours are 11:00-20:00 on weekdays and 10:00-20:00 on weekends and holidays."
+   "en": "The official page states no regular closing day. Older map and directory listings still show 09:00-21:00; the current official hours are 11:00-20:00 on weekdays and 10:00-20:00 on weekends and holidays.",
+   "ja": "公式ページに定休日の記載はありません。古い地図やディレクトリの情報には09:00〜21:00と残っていますが、現在の公式の営業時間は平日11:00〜20:00、土日祝10:00〜20:00です。"
   },
   "source_url": "http://www.hs-tamtam.jp/shop/akihabara.html"
  },
@@ -100,7 +104,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 4번 출구 바로 앞의 사카이 스에히로(サカイ末広) 빌딩 4·5층. 아키하바라 전기가 중심부에서 주오도리를 따라 북쪽으로 도보 8분쯤 올라간 위치라 역 앞 상권과는 떨어져 있다. 1층에서 엘리베이터로 올라가며, 같은 빌딩 6층에는 하로프로 오피셜숍이 있다.",
-  "en": "On 4F and 5F of the Sakai Suehiro Building, right outside Exit 4 of Suehirocho station on the Ginza line. It is about eight minutes north along Chuo-dori from the main Electric Town area, away from the station-front cluster. Take the lift from 1F; the Hello! Project Official Shop is on 6F of the same building."
+  "en": "On 4F and 5F of the Sakai Suehiro Building, right outside Exit 4 of Suehirocho station on the Ginza line. It is about eight minutes north along Chuo-dori from the main Electric Town area, away from the station-front cluster. Take the lift from 1F; the Hello! Project Official Shop is on 6F of the same building.",
+  "ja": "銀座線の末広町駅4番出口を出てすぐ、サカイ末広ビルの4Fと5Fです。秋葉原の電気街の中心から中央通りを北へ8分ほど上がった場所で、駅前の集積エリアからは離れています。1Fからエレベーターで上がり、同じビルの6Fにはハロー！プロジェクト オフィシャルショップが入っています。"
  },
  "tips": {
   "ko": [
@@ -114,6 +119,12 @@
    "Weekdays open at 11:00 and weekends and holidays at 10:00 - an hour earlier; both close at 20:00.",
    "The official page states there is no store parking.",
    "The same Sakai Suehiro Building also holds military and airsoft shops on B1F and 2F and the Hello! Project Official Shop on 6F, so several unrelated hobbies sit in one stack."
+  ],
+  "ja": [
+   "4Fと5Fは電話番号が別です（5Fの鉄道模型・ミニカーは03-5816-5667、4FのRC・プラモデル・ミリタリー・工具は03-5816-5668）。在庫の問い合わせは目的のフロアにかけてください。",
+   "平日は11:00、土日祝は10:00の開店で、土日祝のほうが1時間早く開きます。閉店はどちらも20:00です。",
+   "公式ページには、店舗の駐車場はないと記載されています。",
+   "同じサカイ末広ビルにはB1Fと2Fにミリタリー・エアソフトガンの店、6Fにハロー！プロジェクト オフィシャルショップが入っており、一棟に性格の違う趣味の店が並んでいます。"
   ]
  },
  "official_url": "http://www.hs-tamtam.jp/shop/akihabara.html",

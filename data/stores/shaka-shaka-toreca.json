@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "뱅가드·디지몬·유니온 아레나·원피스·건담 카드 싱글과 오리파, 듀얼 스페이스",
-  "en": "Singles and oripa for Vanguard, Digimon, Union Arena, One Piece and Gundam Card Game, with a duel space"
+  "en": "Singles and oripa for Vanguard, Digimon, Union Arena, One Piece and Gundam Card Game, with a duel space",
+  "ja": "ヴァンガード・デジモン・ユニオンアリーナ・ワンピース・ガンダムカードゲームのシングルとオリパ、デュエルスペースあり"
  },
  "building_id": null,
  "floors": [
@@ -77,7 +78,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 온라인 스토어에는 영업시간 안내가 없고, 점포 공식 X 프로필에 적힌 시간이다. 정기휴무 안내는 공식 어디에도 없다.",
-   "en": "The official online store publishes no hours; these are the times stated on the shop's own X profile. No regular closing day is stated in any official source."
+   "en": "The official online store publishes no hours; these are the times stated on the shop's own X profile. No regular closing day is stated in any official source.",
+   "ja": "公式オンラインストアに営業時間の記載はなく、これは店舗公式Xのプロフィールに書かれている時間です。定休日はどの公式情報にも記載がありません。"
   },
   "source_url": "https://x.com/shakashakatorek"
  },
@@ -93,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 스에히로초 방면, 1층이 빈티지 완구점 玩具古今東西(Toys GOLDEN☆AGE)인 6층짜리 고바야시(小林) 빌딩의 5층. 바로 남쪽 옆 건물이 e☆이어폰 아키하바라 본점이다.",
-  "en": "On the Suehirocho stretch of Chuo-dori, 5F of the six-storey Kobayashi Building whose ground floor is the vintage toy shop Toys GOLDEN☆AGE; the e-earphone flagship is in the next building south."
+  "en": "On the Suehirocho stretch of Chuo-dori, 5F of the six-storey Kobayashi Building whose ground floor is the vintage toy shop Toys GOLDEN☆AGE; the e-earphone flagship is in the next building south.",
+  "ja": "中央通りの末広町寄り、1Fがヴィンテージ玩具店の玩具古今東西（Toys GOLDEN☆AGE）になっている6階建ての小林ビルの5Fです。南隣のビルにはe☆イヤホン本店が入っています。"
  },
  "tips": {
   "ko": [
@@ -107,6 +110,12 @@
    "Per the shop's X profile the titles stocked are Vanguard, Digimon Card Game, Union Arena, hololive card game, Dragon Ball Fusion World, One Piece Card Game and Gundam Card Game - go elsewhere for Pokemon or Yu-Gi-Oh singles.",
    "There is a duel space and tournaments for the titles it carries, but no official source gives the seat count (directories disagree, 28 vs 30) or the usage conditions.",
    "Phone 03-5289-3125. Payment methods (credit card, cash on delivery, bank transfer, convenience-store payment) and in-store pickup are published for the online store only; in-store card acceptance is not stated."
+  ],
+  "ja": [
+   "公式オンラインストア（Shopify）に営業時間の記載はありません。店舗公式Xのプロフィールでは平日12:00〜21:00、土日・祝日11:00〜21:00となっており、定休日の記載はありません。",
+   "店舗Xのプロフィールによると、取り扱いタイトルはヴァンガード、デジモンカードゲーム、ユニオンアリーナ、ホロライブカードゲーム、ドラゴンボールフュージョンワールド、ワンピースカードゲーム、ガンダムカードゲームです。ポケモンや遊戯王のシングルをお探しなら、ほかの店のほうがよいでしょう。",
+   "デュエルスペースがあり、取り扱いタイトルの大会も開かれますが、席数（ディレクトリによって28席と30席に分かれています）や利用条件は公式に案内されていません。",
+   "電話は03-5289-3125です。支払い方法（クレジットカード、代金引換、銀行振込、コンビニ決済）と店舗受け取りが公表されているのはオンラインストアについてのみで、店頭でのカード利用の可否は案内されていません。"
   ]
  },
  "official_url": "https://shakashakatoreka.myshopify.com/",

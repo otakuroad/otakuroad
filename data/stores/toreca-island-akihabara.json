@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·원피스·바이스 싱글과 서플라이를 파는 1층 노면 매장",
-  "en": "Pokemon, Yu-Gi-Oh, One Piece and Weiss Schwarz singles and supplies, street level"
+  "en": "Pokemon, Yu-Gi-Oh, One Piece and Weiss Schwarz singles and supplies, street level",
+  "ja": "ポケモン・遊戯王・ワンピース・ヴァイスシュヴァルツのシングルとサプライを扱う路面店"
  },
  "building_id": null,
  "floors": [
@@ -59,11 +60,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "영업시간 11:00-20:00은 공식 X 프로필, 연중무휴는 아키하바라 트레카 디렉터리 기준. 매입 접수는 19:30까지.",
-   "en": "The 11:00-20:00 comes from the shop's official X profile and the year-round opening from the Akihabara card directory; buyback is accepted only until 19:30."
+   "en": "The 11:00-20:00 comes from the shop's official X profile and the year-round opening from the Akihabara card directory; buyback is accepted only until 19:30.",
+   "ja": "営業時間11:00-20:00は店の公式Xのプロフィール、年中無休は秋葉原のトレカ店ディレクトリによるものです。買取の受付は19:30までです。"
   },
   "source_url": "https://x.com/ShaoNian49600"
  },
@@ -79,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 스에히로초역에서 도보 2분, 주오도리에서 동쪽으로 한 블록 들어간 소토칸다 5-6-14 아키하바라 KD빌딩 1층 노면 점포(101호). 커피점 마츠자키커피와 같은 블록이다.",
-  "en": "Two minutes from Suehirocho station, a street-level unit (No.101) on 1F of the Akihabara KD Building at Sotokanda 5-6-14, one block east of Chuo-dori and on the same block as Matsuzaki Coffee."
+  "en": "Two minutes from Suehirocho station, a street-level unit (No.101) on 1F of the Akihabara KD Building at Sotokanda 5-6-14, one block east of Chuo-dori and on the same block as Matsuzaki Coffee.",
+  "ja": "末広町駅から徒歩2分、中央通りから東へ一本入った外神田5-6-14の秋葉原KDビル1Fの路面店（101号）です。同じブロックにMatsuzaki Coffeeがあります。"
  },
  "tips": {
   "ko": [
@@ -93,6 +97,12 @@
    "It started out on PSA-graded cards and sealed boxes, so graded stock is a strength; supplies such as playmats and sleeves were added later.",
    "Buyback is taken only until 19:30, so allow time if you are selling.",
    "Being off the Chuo-dori main drag, it stays comparatively quiet even at weekends."
+  ],
+  "ja": [
+   "ポケモン・遊戯王OCG・ワンピース・ヴァイスシュヴァルツの4タイトルだけを扱っているので、それぞれのシングルを見比べやすくなっています。",
+   "PSA鑑定品と未開封BOXから始まった店なので鑑定品の在庫が強く、プレイマットやスリーブといったサプライは後から加わりました。",
+   "買取の受付は19:30までなので、売るつもりなら余裕をもって行ってください。",
+   "中央通りの大通りから外れているので、土日でも比較的すいています。"
   ]
  },
  "official_url": null,

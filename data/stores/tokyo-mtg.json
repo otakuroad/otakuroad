@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "매직 더 개더링 싱글과 미개봉 팩, 36석 대전 공간을 갖춘 MTG 전문점",
-  "en": "Magic: The Gathering singles, sealed product and a 36-seat play space"
+  "en": "Magic: The Gathering singles, sealed product and a 36-seat play space",
+  "ja": "マジック：ザ・ギャザリングのシングルと未開封品、36席のプレイスペース"
  },
  "building_id": null,
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일",
-   "en": "Tuesdays"
+   "en": "Tuesdays",
+   "ja": "火曜日"
   },
   "note": {
    "ko": "매입 접수는 개점부터 20:00까지, 월요일(공휴일 제외)은 16:00-20:00만 받는다. 플레이 스페이스는 월·수·목·금 15:00부터, 토·일·공휴일은 11:00부터 개방. 임시 휴업이 있어 공식 사이트는 구글 영업시간을 최신 정보로 안내한다.",
-   "en": "Buyback runs from opening to 20:00, and on Mondays (except public holidays) only 16:00-20:00. The play space opens at 15:00 Mon/Wed/Thu/Fri and 11:00 on weekends and holidays. Temporary closures happen; the shop points to its Google listing as the most current hours."
+   "en": "Buyback runs from opening to 20:00, and on Mondays (except public holidays) only 16:00-20:00. The play space opens at 15:00 Mon/Wed/Thu/Fri and 11:00 on weekends and holidays. Temporary closures happen; the shop points to its Google listing as the most current hours.",
+   "ja": "買取の受付は開店から20:00までで、月曜（祝日を除く）のみ16:00〜20:00です。プレイスペースは月・水・木・金が15:00から、土日祝は11:00から開きます。臨時休業があるため、店舗は最新の営業時間としてGoogleの登録情報を案内しています。"
   },
   "source_url": "https://tokyomtg.com/content.html?p=storeintro"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 4분, 히비야선 아키하바라역에서 도보 2분, 신주쿠선 이와모토초역 A6 출구 바로 앞의 이와모토초빌딩 5층. 소토칸다 2초메(외신전 2-2-3)에서 이곳으로 이전했으므로 지도 앱이나 예전 안내에 남아 있는 옛 주소로 가지 않도록 주의.",
-  "en": "Iwamotocho Building 5F: four minutes from JR Akihabara's Showa-dori exit, two from Hibiya-line Akihabara, and right outside exit A6 of Shinjuku-line Iwamotocho. The shop relocated here from Sotokanda 2-2-3, so ignore the old address that map apps and older guides still show."
+  "en": "Iwamotocho Building 5F: four minutes from JR Akihabara's Showa-dori exit, two from Hibiya-line Akihabara, and right outside exit A6 of Shinjuku-line Iwamotocho. The shop relocated here from Sotokanda 2-2-3, so ignore the old address that map apps and older guides still show.",
+  "ja": "岩本町ビルの5Fで、JR秋葉原駅の昭和通り口から徒歩4分、日比谷線の秋葉原駅から徒歩2分、新宿線の岩本町駅A6出口を出てすぐです。外神田2-2-3からこの場所へ移転したので、地図アプリや古い案内に残っている旧住所は無視してください。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,13 @@
    "Play space is free with tournament entry or a purchase (2,000 yen weekdays, 3,000 yen weekends and holidays); otherwise it costs 500 yen on weekdays and 1,000 yen at weekends.",
    "There is a gallery corner selling MTG original art, prints and art prints, with artist events held most months.",
    "Mail-in buyback is currently suspended because of the relocation."
+  ],
+  "ja": [
+   "マジック：ザ・ギャザリングだけを扱う専門店で、ほかのTCGは置いていません。",
+   "火曜が定休日なので、秋葉原中心部のカードショップと合わせて回るなら曜日を確認してください。",
+   "プレイスペースは大会に参加するか、平日2,000円・土日祝3,000円以上の購入で利用できます。それ以外は平日500円、土日1,000円の利用料がかかります。",
+   "MTGの原画や版画、アートプリントを販売するギャラリーコーナーがあり、アーティストを招いたイベントもほぼ毎月開かれます。",
+   "移転の影響で、郵送での買取は現在停止しています。"
   ]
  },
  "official_url": "https://tokyomtg.com/content.html?p=storeintro",

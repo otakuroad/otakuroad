@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "JR 아키하바라역 개찰 안 굿즈점. 2주~2개월마다 바뀌는 애니·게임 콜라보 한정 굿즈",
-  "en": "Limited anime and game collaboration goods, inside the JR Akihabara ticket gates"
+  "en": "Limited anime and game collaboration goods, inside the JR Akihabara ticket gates",
+  "ja": "JR秋葉原駅の改札内にあるアニメ・ゲームのコラボ限定グッズ店"
  },
  "building_id": null,
  "floors": [
@@ -67,7 +68,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 21시, 토·일·공휴일은 20시 폐점. 개찰 안 점포라 역 영업시간을 따른다.",
-   "en": "Closes at 21:00 on weekdays and 20:00 at weekends and on public holidays; it sits inside the ticket gates and follows station hours."
+   "en": "Closes at 21:00 on weekdays and 20:00 at weekends and on public holidays; it sits inside the ticket gates and follows station hours.",
+   "ja": "閉店は平日が21:00、土日祝が20:00です。改札内の店舗なので、駅の営業時間に従います。"
   },
   "source_url": "https://www.ecute.jp/akihabara/shop/5640"
  },
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 1층 개찰 안 상업구역 에큐트 아키하바라 안, 전기가 출구 개찰구와 중앙 개찰구 사이 통로에 있다. 개찰 밖에서는 들어갈 수 없고 승차권이나 입장권이 필요하다.",
-  "en": "Inside the JR Akihabara ticket gates on the 1F concourse, in the ecute Akihabara zone between the Electric Town gate and the Central gate. It cannot be reached from outside the gates — you need a ticket or a platform ticket."
+  "en": "Inside the JR Akihabara ticket gates on the 1F concourse, in the ecute Akihabara zone between the Electric Town gate and the Central gate. It cannot be reached from outside the gates — you need a ticket or a platform ticket.",
+  "ja": "JR秋葉原駅の改札内、1階コンコースのエキュート秋葉原のエリアにあり、電気街口の改札と中央改札口の間の通路に位置します。改札の外からは入れないので、乗車券か入場券が必要です。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,12 @@
    "The whole line-up rotates every two weeks to two months. The April 2025 opening ran on Mobile Suit Gundam GQuuuuuuX, and the stock leans on items sold only here.",
    "A digital photo service called WithShot lets you be photographed alongside a character or artist in the shop.",
    "It is run by TOPPAN; the matching online store lives separately on the Fan Xross mall."
+  ],
+  "ja": [
+   "改札内の店舗なので、秋葉原で乗り換えるときや降りるついでに寄るのがいちばん楽です。そうでなければ改札で入場券を買って入ります。",
+   "扱う作品は2週間から2か月の周期でまるごと入れ替わります。2025年4月の開店企画は「機動戦士Gundam GQuuuuuuX」で、ここでしか買えない限定商品が中心です。",
+   "店内では、キャラクターやアーティストと一緒に写れるデジタル撮影サービス「WithShot」を利用できます。",
+   "運営はTOPPANで、対応するオンラインストアはFan Xrossモールに別途あります。"
   ]
  },
  "official_url": "https://www.ecute.jp/akihabara/shop/5640",

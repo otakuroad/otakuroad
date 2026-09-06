@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "B1~1층은 애니 DVD·게임·피규어 할인 판매, 2층 위는 성인 DVD 층인 6층 매장",
-  "en": "Discount anime DVDs, games and figures on B1F-1F; adult DVD floors from 2F up"
+  "en": "Discount anime DVDs, games and figures on B1F-1F; adult DVD floors from 2F up",
+  "ja": "B1F〜1FはアニメDVD・ゲーム・フィギュアの割引販売、2F以上は成人向けDVDの階"
  },
  "building_id": null,
  "floors": [
@@ -75,7 +76,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 페이지 표기는 '10:00~22:00, 일요일은 21시까지'. 공휴일 영업시간은 따로 안내되어 있지 않다.",
-   "en": "The official page states 10:00-22:00, Sundays until 21:00. Public-holiday hours are not stated separately."
+   "en": "The official page states 10:00-22:00, Sundays until 21:00. Public-holiday hours are not stated separately.",
+   "ja": "公式ページの表記は10:00〜22:00で、日曜は21時までです。祝日の営業時間は別途案内されていません。"
   },
   "source_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AD%E3%83%90/"
  },
@@ -96,7 +98,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 주오도리 쪽 미오스(ミオス) 본관 빌딩. 아미아미 아키하바라 피규어타워 바로 옆이며, 지하 1층부터 5층까지 전체가 매장이다.",
-  "en": "One minute from the JR Akihabara Electric Town exit, in the Mios Honkan Building toward Chuo-dori, right next to the AmiAmi Akihabara Figure Tower. The shop fills the whole building from B1F to 5F."
+  "en": "One minute from the JR Akihabara Electric Town exit, in the Mios Honkan Building toward Chuo-dori, right next to the AmiAmi Akihabara Figure Tower. The shop fills the whole building from B1F to 5F.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分、中央通り側のミオス本館ビルです。あみあみ秋葉原フィギュアタワー店のすぐ隣で、B1Fから5Fまで建物全体が売り場になっています。"
  },
  "tips": {
   "ko": [
@@ -108,6 +111,11 @@
    "The official page advertises tax-free on purchases over 5,000 yen.",
    "The general anime DVD, game and figure stock sits on B1F and 1F; 2F and above are adult DVD floors, so stay on the lower two floors with minors or family.",
    "Sunday closing is 21:00, an hour earlier than the rest of the week."
+  ],
+  "ja": [
+   "公式ページに、5,000円以上の購入で免税になるという案内があります。",
+   "一般のアニメDVD・ゲーム・フィギュアはB1Fと1Fにまとまっていて、2F以上は成人向けDVDの階ですので、未成年の方やご家族連れの場合は下の2フロアだけをご利用ください。",
+   "日曜は21:00閉店で、ほかの曜日より1時間早く閉まります。"
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AD%E3%83%90/",

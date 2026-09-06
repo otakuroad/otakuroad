@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 플레이어용 싱글·슬리브와 이치반쿠지·오리파를 파는 쿠지 전문점",
-  "en": "Ichiban Kuji and oripa packs plus play-grade Pokemon TCG singles and sleeves"
+  "en": "Ichiban Kuji and oripa packs plus play-grade Pokemon TCG singles and sleeves",
+  "ja": "一番くじやオリパと、ポケモンカードのプレイ用シングル・スリーブ"
  },
  "building_id": null,
  "floors": [
@@ -61,7 +62,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 5분 안팎. 주오도리 서쪽 뒷골목으로 들어가 부품점 센고쿠전상(千石電商) 아키하바라 본점 바로 서쪽에 붙은 모리(毛利) 빌딩 1층 노면 매장이다. 코토부키야 아키하바라관에서 같은 골목을 서쪽으로 조금 더 가면 된다.",
-  "en": "About five minutes from the JR Akihabara Electric Town Exit, on the back street west of Chuo-dori. It is the ground-floor unit of the Mouri Building, immediately west of the parts shop Sengoku Densho Akihabara Main Store, a little further west along the same lane from Kotobukiya Akihabara."
+  "en": "About five minutes from the JR Akihabara Electric Town Exit, on the back street west of Chuo-dori. It is the ground-floor unit of the Mouri Building, immediately west of the parts shop Sengoku Densho Akihabara Main Store, a little further west along the same lane from Kotobukiya Akihabara.",
+  "ja": "JR秋葉原駅の電気街口から徒歩5分ほど、中央通りの西側の裏通りにあります。パーツショップの千石電商 秋葉原本店のすぐ西隣にある毛利ビルの1Fの路面店で、コトブキヤ秋葉原館から同じ通りを西へ少し進んだところです。"
  },
  "tips": {
   "ko": [
@@ -75,6 +77,12 @@
    "Buyback closes more than an hour before the shop does (18:00 weekdays, 18:30 weekends and holidays).",
    "The chain's Radio Kaikan 1F branch is a three-minute walk away; kuji stock differs, so it is worth checking both.",
    "The chain website (kuji-mahha.com) is currently unreachable, so the X account is effectively the only source of current information."
+  ],
+  "ja": [
+   "平日は12:00、土日祝は11:30に開店し、土日は閉店も30分早くなります。休みは不定期なので、行く前にXを確認しておくと安心です。",
+   "買取の受付は閉店より1時間以上早く終わります（平日18:00、土日祝18:30）。",
+   "同じチェーンのラジオ会館1Fにあるマッハ ラジオ会館店が徒歩3分の距離で、くじの在庫が違うので両方を見ておくとよいです。",
+   "チェーンの公式サイト（kuji-mahha.com）は現在つながらないため、最新の情報はXアカウントが事実上唯一の窓口です。"
   ]
  },
  "official_url": null,

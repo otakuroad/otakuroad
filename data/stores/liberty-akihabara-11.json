@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "리버티 빌딩 2층, 건프라·반다이 완성품 로봇과 도요타·닛산 미니카",
-  "en": "Liberty Building 2F: Gunpla, Bandai finished robots and Toyota/Nissan diecast minicars"
+  "en": "Liberty Building 2F: Gunpla, Bandai finished robots and Toyota/Nissan diecast minicars",
+  "ja": "リバティービル2F、ガンプラとバンダイの完成品ロボット、トヨタ・日産のミニカー"
  },
  "building_id": null,
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입(買取) 접수는 18:00까지만 받고, 판매 매장은 20:30까지 열려 있다.",
-   "en": "The buyback counter only takes items until 18:00; the shop floor stays open until 20:30."
+   "en": "The buyback counter only takes items until 18:00; the shop floor stays open until 20:30.",
+   "ja": "買取の受付は18:00までで、販売の売り場は20:30まで開いています。"
   },
   "source_url": "https://liberty-kaitori.com/shop"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "8호점과 같은 리버티 빌딩 2층. 1층 8호점 안쪽 계단이나 엘리베이터로 한 층 올라가면 된다. 스에히로초역 쪽 주오도리 동쪽 구간.",
-  "en": "One floor above Store 8 in the same Liberty Building — take the stairs or lift up from the ground-floor shop. East side of Chuo-dori toward Suehirocho."
+  "en": "One floor above Store 8 in the same Liberty Building — take the stairs or lift up from the ground-floor shop. East side of Chuo-dori toward Suehirocho.",
+  "ja": "リバティー 秋葉原8号店と同じリバティービルの2Fです。1Fの8号店の奥にある階段かエレベーターで1つ上の階に上がります。中央通りの東側、末広町駅寄りの区間です。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,11 @@
    "Gunpla, Bandai finished robots, diecast minicars and model trains sit on one floor, which suits anyone hunting only robot and vehicle models.",
    "Some sources call the building the Quark Akihabara Building; the address is the same 4-7-1 Sotokanda and Quark Co. is the operating company.",
    "Tax-free plus card, transit IC and QR payment work here as at every branch."
+  ],
+  "ja": [
+   "ガンプラとバンダイの完成品ロボット、ダイキャストのミニカーや鉄道模型が1つのフロアにまとまっているので、ロボットや乗り物の模型だけを見たい方には効率がよいです。",
+   "一部の資料ではこの建物をクォーク秋葉原ビルと記していますが、住所は同じ外神田4-7-1で、運営会社が株式会社クォークです。",
+   "免税とカード・交通系IC・QR決済への対応は全店共通です。"
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",

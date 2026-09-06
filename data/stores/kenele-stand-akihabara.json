@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "JR 아키하바라역 개찰 안 3층, 어른 컬렉터용 미니어처 캡슐토이 전문점",
-  "en": "Capsule-toy shop on 3F inside the JR Akihabara ticket gates; collector miniatures"
+  "en": "Capsule-toy shop on 3F inside the JR Akihabara ticket gates; collector miniatures",
+  "ja": "JR秋葉原駅の改札内3F、大人のコレクター向けミニチュアカプセルトイの専門店"
  },
  "building_id": null,
  "floors": [
@@ -62,7 +63,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 점포 목록 기준 10:00~21:00. 역 개찰 안 매장이라 역 운영 상황에 따라 달라질 수 있다.",
-   "en": "10:00-21:00 per the official shop list. It sits inside the ticket gates, so station operations can affect access."
+   "en": "10:00-21:00 per the official shop list. It sits inside the ticket gates, so station operations can affect access.",
+   "ja": "公式の店舗一覧では10:00〜21:00です。駅の改札内の店舗ですので、駅の運営状況によって変わることがあります。"
   },
   "source_url": "https://kenelephant.co.jp/kenelestand/"
  },
@@ -78,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 개찰 안, 소부선(3층) 6번 홈 뒤 콘코스. 좌표는 역 건물 기준이며 역 밖에서는 들어갈 수 없다.",
-  "en": "Inside the JR Akihabara ticket gates on the 3F Sobu Line concourse behind platform 6. The pin marks the station building; you cannot reach it from the street."
+  "en": "Inside the JR Akihabara ticket gates on the 3F Sobu Line concourse behind platform 6. The pin marks the station building; you cannot reach it from the street.",
+  "ja": "JR秋葉原駅の改札内、総武線（3F）6番ホーム裏のコンコースにあります。地図のピンは駅舎の位置ですので、駅の外からは入れません。"
  },
  "tips": {
   "ko": [
@@ -88,6 +91,10 @@
   "en": [
    "It is inside the gates, so you need a ticket or IC card to reach it - not accessible on a shopping-only trip.",
    "Stock is Kenelephant's own adult-collector capsule toys, such as 1/12-scale miniatures, rather than anime character goods, with new series monthly."
+  ],
+  "ja": [
+   "改札内の店舗ですので、乗車券かICカードで改札を通らないと利用できません。秋葉原の街だけを見て回る予定でしたら入れません。",
+   "キャラクターグッズよりも、1/12スケールのミニチュアのような大人のコレクター向けのケンエレファント自社カプセルトイが中心で、新作が毎月入荷します。"
   ]
  },
  "official_url": "https://kenelephant.co.jp/kenelestand/",

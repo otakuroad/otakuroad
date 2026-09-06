@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "아톰 등 데즈카 오사무 캐릭터 굿즈와 애니 티셔츠·머그컵을 파는 UDX 2층 매장",
-  "en": "UDX 2F shop for Astro Boy and Tezuka character goods, anime T-shirts and mugs"
+  "en": "UDX 2F shop for Astro Boy and Tezuka character goods, anime T-shirts and mugs",
+  "ja": "アトムなど手塚キャラクターのグッズとアニメTシャツ・マグカップを扱うUDX 2Fの店"
  },
  "building_id": null,
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 월요일(공휴일이면 다음 화요일). 연말연시에도 며칠 쉰다",
-   "en": "Closed Mondays (the following Tuesday when Monday is a public holiday), plus a few days over the New Year"
+   "en": "Closed Mondays (the following Tuesday when Monday is a public holiday), plus a few days over the New Year",
+   "ja": "毎週月曜日（月曜が祝日の場合は翌火曜日）。年末年始も数日休み"
   },
   "note": {
    "ko": "매장은 11:00-19:00이지만 매장이 들어 있는 관광 안내 창구 아키바 인포는 17:30에 끝난다. 전시·이벤트 기간에는 시간이 바뀔 수 있어 공식 SNS 확인 권장.",
-   "en": "The shop runs 11:00-19:00 but AKIBA INFO, the tourist counter it sits inside, closes at 17:30. Hours can shift during exhibitions and events, so check the shop's social accounts."
+   "en": "The shop runs 11:00-19:00 but AKIBA INFO, the tourist counter it sits inside, closes at 17:30. Hours can shift during exhibitions and events, so check the shop's social accounts.",
+   "ja": "店舗は11:00〜19:00ですが、店が入っている観光案内カウンターのAKIBA INFO.は17:30に終わります。展示やイベントの期間は時間が変わることがあるので、店舗の公式SNSを確認してください。"
   },
   "source_url": "https://www.akiba-information.jp/html/akibainfo/about-info.html"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 북쪽으로 도보 3분, 주오도리 동쪽의 아키하바라 UDX 2층. 데크로 올라가 2층 통로변에 있으며, 관광 안내 창구(AKIBA INFO.)를 겸하고 있어 아톰 간판이 붙은 카운터가 표식이다.",
-  "en": "Three minutes north of the JR Akihabara Electric Town exit, on 2F of Akihabara UDX east of Chuo-dori. Take the deck up to the 2F walkway; the shop doubles as the AKIBA INFO. tourist counter, marked by its Astro Boy signage."
+  "en": "Three minutes north of the JR Akihabara Electric Town exit, on 2F of Akihabara UDX east of Chuo-dori. Take the deck up to the 2F walkway; the shop doubles as the AKIBA INFO. tourist counter, marked by its Astro Boy signage.",
+  "ja": "JR秋葉原駅の電気街口から北へ徒歩3分、中央通りの東側にある秋葉原UDXの2Fです。デッキから2Fの通路に上がると、店は観光案内カウンターのAKIBA INFO.を兼ねており、アトムの看板が目印になります。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,12 @@
    "The tourist information counter shuts at 17:30, so come earlier if you want maps or leaflets.",
    "Besides Tezuka character items, much of the stock is anime T-shirts, bags, mugs and ZIPPO lighters.",
    "The 2F space often hosts illustration exhibitions, so the layout changes with whatever is running."
+  ],
+  "ja": [
+   "毎週月曜日が定休日で、月曜が祝日の場合は翌火曜が休みになります。秋葉原では珍しい定休日なので、日程を組むときに気をつけてください。",
+   "観光案内カウンターは17:30に終わるので、地図やパンフレットが必要ならそれより前に立ち寄ってください。",
+   "手塚キャラクターの商品のほか、アニメTシャツやバッグ、マグカップ、ZIPPOといった雑貨の比率が大きめです。",
+   "2Fのスペースではイラストの展示がよく開かれており、その時々の内容によって売り場の構成が変わります。"
   ]
  },
  "official_url": "https://tokyoatomshop.stores.jp/",

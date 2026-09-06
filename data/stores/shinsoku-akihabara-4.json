@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·유희왕 카드 싱글과 매입을 다루는 4층 트레카 매장",
-  "en": "Fourth-floor card shop for Pokemon, One Piece and Yu-Gi-Oh singles, with buyback"
+  "en": "Fourth-floor card shop for Pokemon, One Piece and Yu-Gi-Oh singles, with buyback",
+  "ja": "ポケモン・ワンピース・遊戯王のシングルと買取を扱う4Fのトレカ店"
  },
  "building_id": "tit-akihabara",
  "floors": [
@@ -61,7 +62,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 X 프로필에 영업시간 10:30~18:30으로만 적혀 있고 정기휴일·공휴일 안내는 없다. 날짜별 변경은 공식 X(@shinsoku_akb4th)에 올라온다.",
-   "en": "The shop's official X profile gives a flat 10:30-18:30 and states no regular closing day or separate public-holiday hours; day-by-day changes are posted on X (@shinsoku_akb4th)."
+   "en": "The shop's official X profile gives a flat 10:30-18:30 and states no regular closing day or separate public-holiday hours; day-by-day changes are posted on X (@shinsoku_akb4th).",
+   "ja": "店舗公式Xのプロフィールには営業時間10:30〜18:30とだけあり、定休日や祝日の別の営業時間は記載されていません。日ごとの変更はX（@shinsoku_akb4th）で告知されます。"
   },
   "source_url": "https://x.com/shinsoku_akb4th"
  },
@@ -77,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 긴자선 스에히로초역에서 도보 5분. 주오도리 동쪽, 트레이더 아키하바라 본점 빌딩 바로 뒤 골목에 있는 지상 5층 건물 TIT秋葉原의 4층이다. 같은 건물 지하 1층 Like a Doll, 2층 아키바 절대영역 A.D.2045, 3층 매지컬 롤리팝은 모두 콘셉트카페이므로, 카드 매장은 엘리베이터로 4층까지 올라가야 나온다.",
-  "en": "Four minutes from the JR Akihabara Electric Town Exit, five from Suehirocho on the Ginza line. It is 4F of TIT Akihabara, the five-storey building on the lane just behind the Trader Akihabara main store, east of Chuo-dori. B1F (Like a Doll), 2F (Akiba Zettai Ryoiki A.D.2045) and 3F (Magical Lollipop) are all concept cafes, so take the lift past them to 4F for the card shop."
+  "en": "Four minutes from the JR Akihabara Electric Town Exit, five from Suehirocho on the Ginza line. It is 4F of TIT Akihabara, the five-storey building on the lane just behind the Trader Akihabara main store, east of Chuo-dori. B1F (Like a Doll), 2F (Akiba Zettai Ryoiki A.D.2045) and 3F (Magical Lollipop) are all concept cafes, so take the lift past them to 4F for the card shop.",
+  "ja": "JR秋葉原駅電気街口から徒歩4分、銀座線末広町駅から徒歩5分です。中央通りの東側、トレーダー秋葉原本店のビルのすぐ裏の路地に建つ5階建てのTIT秋葉原の4Fにあります。B1FのLike a Doll、2Fのアキバ絶対領域 A.D.2045、3Fの魔法メイドカフェ マジカルロリポップはいずれもコンセプトカフェなので、エレベーターでその上の4Fまで上がってください。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,13 @@
    "The shop's official X profile gives opening hours of 10:30-18:30 (the chain phone line is 11:00-21:00). Times change from day to day, so check @shinsoku_akb4th before going.",
    "The shop advertises tax-free (TAX FREE) sales, so overseas visitors can buy duty free.",
    "It is the only card shop in an otherwise concept-cafe building, so there is little signage at street level; check the floor board for 4F and go up."
+  ],
+  "ja": [
+   "2026年5月2日に買取専用として先行オープンし、5月16日に正式オープンしました。チェーンの秋葉原6店舗（本店、2号店、3号店、4号店、6号店、買取センター）のひとつです。",
+   "取り扱いタイトルはポケモン、遊戯王、ワンピース、クロススターズ、ユニオンアリーナです。",
+   "店舗公式Xのプロフィールでは営業時間10:30〜18:30と案内されています（チェーンの電話受付は11:00〜21:00）。日によって時間が変わるので、行く前に@shinsoku_akb4thを確認してください。",
+   "免税（TAX FREE）販売を掲げているので、海外からの旅行者も免税で購入できます。",
+   "コンセプトカフェばかりのビルで唯一のカードショップのため、1Fには看板がほとんど出ていません。フロアガイドで4Fの表記を確かめてから上がってください。"
   ]
  },
  "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",

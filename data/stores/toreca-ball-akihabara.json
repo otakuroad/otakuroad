@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "전기가 출구에서 도보 1분, 포켓몬카드와 원피스카드를 사고파는 2층 트레카 전문점",
-  "en": "Pokemon and One Piece card shop a minute from the Electric Town Exit, buying and selling on 2F"
+  "en": "Pokemon and One Piece card shop a minute from the Electric Town Exit, buying and selling on 2F",
+  "ja": "電気街口から徒歩1分、2Fでポケモンカードとワンピースカードを売買するトレカ専門店"
  },
  "building_id": "new-akihabara-center",
  "floors": [
@@ -69,7 +70,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 최종 접수는 평일·주말 모두 19:00. 운영사 공식 사이트의 점포 안내에 적힌 시간이다.",
-   "en": "Buyback is accepted until 19:00 on weekdays and weekends alike; the times are those given in the store guide on the operator's own site."
+   "en": "Buyback is accepted until 19:00 on weekdays and weekends alike; the times are those given in the store guide on the operator's own site.",
+   "ja": "買取の最終受付は平日も土日も19:00です。時間は運営会社の公式サイトの店舗案内に記載されているものです。"
   },
   "source_url": "https://torecaball.com/infopage/index.html"
  },
@@ -85,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 선로변에 길게 붙어 있는 뉴 아키하바라 센터 빌딩의 간판 아래 통로로 들어가 엘리베이터로 2층에 올라간 뒤, 복도를 끝까지 걸어 가장 안쪽 구획으로 간다. 같은 건물 B1층은 트레카라프테르, 1층은 카드숍 Lotus, 5층은 트레카데이즈, 6층은 트레카브레이크라 층마다 다른 카드숍이 있다.",
-  "en": "One minute from the JR Akihabara Electric Town Exit. Go in under the signboards of the long New Akihabara Center Building beside the tracks, take the lift to 2F and walk the corridor to the very end. The same building holds Toreca Raftel on B1F, Card Shop Lotus on 1F, Toreca Days on 5F and Toreca Break on 6F, so check the floor."
+  "en": "One minute from the JR Akihabara Electric Town Exit. Go in under the signboards of the long New Akihabara Center Building beside the tracks, take the lift to 2F and walk the corridor to the very end. The same building holds Toreca Raftel on B1F, Card Shop Lotus on 1F, Toreca Days on 5F and Toreca Break on 6F, so check the floor.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分です。線路沿いに長く続くニュー秋葉原センタービルの看板の下の通路から入り、エレベーターで2Fに上がって廊下をいちばん奥まで歩きます。同じビルのB1Fにはカードショップ トレカラフテル、1Fにはカードショップ Lotus 秋葉原店、5Fにはトレカデイズ秋葉原店、6Fにはカードショップ トレカブレイクが入っているので、フロアを確認してください。"
  },
  "tips": {
   "ko": [
@@ -99,6 +102,12 @@
    "It sits at the far end of the 2F corridor and is not visible from the entrance; the shop's pinned post on X walks you there in photos.",
    "The range is Pokemon and One Piece cards, with buyback and sales alongside frequent oripa packs and lucky bags.",
    "Its mail-order shop lists PSA-graded cards and singles as 店舗併売品 (also sold in store), which is a useful way to gauge stock and prices before visiting."
+  ],
+  "ja": [
+   "平日は13:00〜20:00、土日祝は12:00〜20:00の営業で、買取の最終受付は19:00で終わります。",
+   "2Fの廊下のいちばん奥にあり、入口からは見えません。店舗のXの固定ポストが、そこまでの道順を写真で案内しています。",
+   "取り扱いはポケモンカードとワンピースカードが中心で、買取・販売とあわせてオリパや福袋を頻繁に出しています。",
+   "通販店ではPSA鑑定品やシングルが「店舗併売品」として掲載されており、行く前に相場や在庫の様子をつかむのに役立ちます。"
   ]
  },
  "photo": null,

@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "역 앞 3층의 실전용 싱글카드 매장. 포켓몬·유희왕·원피스·듀얼마스터즈 4개 타이틀",
-  "en": "Third-floor shop by the station for Pokemon, Yu-Gi-Oh, One Piece and Duel Masters play singles"
+  "en": "Third-floor shop by the station for Pokemon, Yu-Gi-Oh, One Piece and Duel Masters play singles",
+  "ja": "駅のそばの3Fで扱うポケモン・遊戯王・ワンピース・デュエル・マスターズの実戦用シングル"
  },
  "building_id": "akiba1131-building",
  "floors": [
@@ -68,7 +69,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 폐점 15분 전까지. 평일은 13시 개점으로 토·일·공휴일(11시)보다 늦다. 정기휴일 안내는 없지만 재고 정리 등으로 임시휴업하는 날이 있어 방문 전 점포 X(@toreca_tradia2)를 확인하는 편이 좋다.",
-   "en": "Buyback reception closes 15 minutes before the shop. Weekdays open at 13:00, later than the 11:00 weekend and holiday opening. No regular closing day is published, but the shop shuts occasionally for stocktaking, so check its X account (@toreca_tradia2) first."
+   "en": "Buyback reception closes 15 minutes before the shop. Weekdays open at 13:00, later than the 11:00 weekend and holiday opening. No regular closing day is published, but the shop shuts occasionally for stocktaking, so check its X account (@toreca_tradia2) first.",
+   "ja": "買取の受付は閉店の15分前までです。平日は13:00開店で、土日・祝日の11:00より遅くなります。定休日は公表されていませんが、棚卸しなどで臨時休業することがあるので、まず店のXアカウント（@toreca_tradia2）を確認してください。"
   },
   "source_url": "https://www.toreca-tradia.com/shop/"
  },
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 소프맵 AKIBA 어뮤즈먼트관 맞은편 Akiba1131 빌딩 3층으로, 같은 건물 9층에는 다른 회사의 토레카루 아키하바라 역앞점이 있으니 층을 착각하지 않도록 한다.",
-  "en": "One minute from the Electric Town exit of JR Akihabara, in the Akiba1131 Building opposite Sofmap AKIBA Amusement Hall. Take the lift to 3F - 9F of the same building is a different company's shop, Torecaru Akihabara Ekimae."
+  "en": "One minute from the Electric Town exit of JR Akihabara, in the Akiba1131 Building opposite Sofmap AKIBA Amusement Hall. Take the lift to 3F - 9F of the same building is a different company's shop, Torecaru Akihabara Ekimae.",
+  "ja": "JR秋葉原駅電気街口から徒歩1分、ソフマップAKIBA アミューズメント館の向かいのAkiba1131.bldgです。エレベーターで3Fへ上がってください。同じビルの9Fは別の会社のトレカル秋葉原駅前店です。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,12 @@
    "It shares an operator with Tradia Akihabara Honten on 4F of the Gachapon Kaikan, so visiting both raises the chance of finding a given title; the main shop keeps different hours, 11:00-20:00 on weekdays and Saturdays and 11:00-19:00 on Sundays and holidays.",
    "Stock leans towards practical deck cards bought one at a time rather than high-value collector pieces. The four titles listed officially are Pokemon, Yu-Gi-Oh, One Piece and Duel Masters.",
    "The branch does have its own X account, @toreca_tradia2 (its Beems-era account, simply renamed); temporary closures and stock notices are posted there. The main shop posts as @toreca_tradia."
+  ],
+  "ja": [
+   "2022年9月10日にトレーディアからビームス秋葉原駅チカ店に名前が変わり、その後またトレーディアに戻りました。ビームスと書かれた古い看板やディレクトリの表記も同じ店を指しています。",
+   "秋葉原ガチャポン会館4Fのトレカ専門店トレーディア秋葉原本店と運営が同じなので、両方を回ると目当てのタイトルが見つかりやすくなります。本店は営業時間が違い、平日と土曜は11:00〜20:00、日曜・祝日は11:00〜19:00です。",
+   "高額なコレクション向けのカードよりも、1枚ずつ買い足していく実戦用のデッキのカードが中心の品ぞろえです。公式に挙げられているタイトルはポケモン、遊戯王、ワンピース、デュエル・マスターズの4つです。",
+   "この店には専用のXアカウント@toreca_tradia2（ビームス時代のアカウントを改名したもの）があり、臨時休業や在庫の告知はそこに出ます。本店のアカウントは@toreca_tradiaです。"
   ]
  },
  "official_url": "https://www.toreca-tradia.com/shop/",

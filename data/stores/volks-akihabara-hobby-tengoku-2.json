@@ -46,7 +46,8 @@
  ],
  "one_line": {
   "ko": "건프라·도료·공구부터 PVC 피규어·트레카까지 7층 호비 빌딩, 6·7F는 애니 팝업 이벤트홀",
-  "en": "Seven floors: Gunpla, paints and tools, PVC figures, TCG; anime pop-up events on 6F–7F"
+  "en": "Seven floors: Gunpla, paints and tools, PVC figures, TCG; anime pop-up events on 6F–7F",
+  "ja": "ガンプラ、塗料・工具、PVCフィギュア、TCGの7フロア。6F・7Fはアニメのポップアップイベント"
  },
  "building_id": null,
  "floors": [
@@ -62,37 +63,44 @@
   {
    "floor": "1F",
    "ko": "렌탈 케이스(개인 위탁 진열장)·트렌드 상품·캐릭터 굿즈, 팝업 특설 코너",
-   "en": "Rental showcases (owner-consigned items), trend items, character goods, pop-up corner"
+   "en": "Rental showcases (owner-consigned items), trend items, character goods, pop-up corner",
+   "ja": "レンタルショーケース（個人の委託品）、トレンド商品、キャラクターグッズ、ポップアップの特設コーナーです。"
   },
   {
    "floor": "2F",
    "ko": "캐릭터 굿즈·컬렉션 피규어(식완·박스 피규어·캔배지)",
-   "en": "Character goods and collection figures (shokugan, box figures, can badges)"
+   "en": "Character goods and collection figures (shokugan, box figures, can badges)",
+   "ja": "キャラクターグッズとコレクションフィギュア（食玩、ボックスフィギュア、缶バッジ）のフロアです。"
   },
   {
    "floor": "3F",
    "ko": "도료·공구·재료·미니어처, 스페인 수성 도료 파레호(Vallejo) 직수입",
-   "en": "Paints, tools and materials, miniatures; directly imported Vallejo acrylics"
+   "en": "Paints, tools and materials, miniatures; directly imported Vallejo acrylics",
+   "ja": "塗料、工具、材料、ミニチュアのフロアで、直輸入のファレホ（Vallejo）の水性塗料も扱います。"
   },
   {
    "floor": "4F",
    "ko": "건프라 등 캐릭터 프라모델·완성품 토이, 볼크스 오리지널(F.S.S. IMS·브로커즈·캬라구민), 고객 작품 상설 전시, 로봇 모형 무료 촬영 스페이스(매일 12:00~18:00)",
-   "en": "Gunpla and character plastic kits, finished action toys, Volks originals (F.S.S. IMS, V.L.O.C.K.ers, Chara-gumin), permanent customer model display, free robot-model photo space (daily 12:00-18:00)"
+   "en": "Gunpla and character plastic kits, finished action toys, Volks originals (F.S.S. IMS, V.L.O.C.K.ers, Chara-gumin), permanent customer model display, free robot-model photo space (daily 12:00-18:00)",
+   "ja": "ガンプラなどのキャラクタープラモデルと完成品トイ、ボークスオリジナル（F.S.S. IMS、V.L.O.C.K.ers、キャラグミン）、お客様の作品の常設展示、ロボット模型の無料撮影スペース（毎日12:00〜18:00）があります。"
   },
   {
    "floor": "5F",
    "ko": "PVC 피규어·토이·트레이딩 카드, 피규어·TCG 중고 매입 카운터",
-   "en": "PVC figures, toys, trading cards, used buy-back counter for figures and TCG"
+   "en": "PVC figures, toys, trading cards, used buy-back counter for figures and TCG",
+   "ja": "PVCフィギュア、トイ、トレーディングカードと、フィギュア・TCGの中古買取カウンターがあります。"
   },
   {
    "floor": "6F",
    "ko": "이벤트 홀(애니 팝업숍·성우 캐스트 이벤트)",
-   "en": "Event hall (anime pop-up shops, voice-cast events)"
+   "en": "Event hall (anime pop-up shops, voice-cast events)",
+   "ja": "イベントホールで、アニメのポップアップショップや声優のキャストイベントが行われます。"
   },
   {
    "floor": "7F",
    "ko": "이벤트 홀",
-   "en": "Event hall"
+   "en": "Event hall",
+   "ja": "イベントホールです。"
   }
  ],
  "location": {
@@ -126,11 +134,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "6·7F 이벤트홀은 행사마다 기간·시간이 다름(2026년 팝업은 대부분 평일 11:00~19:00, 주말·공휴일 10:00~19:00). 4F 무료 촬영 스페이스는 매일 12:00~18:00, 이벤트 개최 시 중단.",
-   "en": "The 6F-7F event halls run on event-specific dates and hours (2026 pop-ups are mostly weekdays 11:00-19:00, weekends and holidays 10:00-19:00). The free 4F photo space runs daily 12:00-18:00 and pauses during events."
+   "en": "The 6F-7F event halls run on event-specific dates and hours (2026 pop-ups are mostly weekdays 11:00-19:00, weekends and holidays 10:00-19:00). The free 4F photo space runs daily 12:00-18:00 and pauses during events.",
+   "ja": "6F・7Fのイベントホールは催しごとに期間と時間が違います（2026年のポップアップは多くが平日11:00〜19:00、土日・祝日10:00〜19:00）。4Fの無料撮影スペースは毎日12:00〜18:00で、イベント開催中は休みます。"
   },
   "source_url": "https://hobby.volks.co.jp/shop/hobbytengoku2/"
  },
@@ -146,7 +156,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽 보도. 빅카메라 AKIBA가 정면에 보이는 사거리를 건너 빅카메라를 지나면 바로 금색 외벽의 7층 건물이다. 북쪽 옆집이 트레이더 아키하바라 본점, 애니메이트 1호관과 돈키호테는 그보다 더 북쪽. 1F 정면 입구로 들어가 엘리베이터나 계단으로 올라간다.",
-  "en": "East sidewalk of Chuo-dori. Cross the intersection where Bic Camera AKIBA faces you, pass Bic Camera, and the seven-floor building with the gold facade is right there; Trader Akihabara's main store is the next door north, with animate 1st Building and Don Quijote further on. Enter at the 1F front and take the elevator or stairs."
+  "en": "East sidewalk of Chuo-dori. Cross the intersection where Bic Camera AKIBA faces you, pass Bic Camera, and the seven-floor building with the gold facade is right there; Trader Akihabara's main store is the next door north, with animate 1st Building and Don Quijote further on. Enter at the 1F front and take the elevator or stairs.",
+  "ja": "中央通りの東側の歩道です。ビックカメラAKIBAが正面に見える交差点を渡り、ビックカメラを過ぎるとすぐに金色の外壁の7階建てのビルがあります。北隣がトレーダー秋葉原本店で、アニメイト秋葉原1号館とドン・キホーテ秋葉原店はさらにその先です。1Fの正面から入り、エレベーターか階段で上がってください。"
  },
  "tips": {
   "ko": [
@@ -160,6 +171,12 @@
    "Pop-up shops and cast events on 6F-7F run on event-specific dates and hours and may cap entry when crowded; check the official X account or SR News blog first.",
    "This is the only Volks store that carries TCG: singles and card supplies are on 5F, and the used buy-back counter for figures and TCG is on the same floor.",
    "Dollfie Dream and Super Dollfie are not sold here; go to Doll Point Akihabara / Hobby Square Akihabara on Radio Kaikan 8F."
+  ],
+  "ja": [
+   "ボークス公式の免税店です（2022年11月に再開）。短期滞在の旅行者向けなので、パスポートをお持ちください。",
+   "6F・7Fのポップアップショップやキャストイベントは催しごとに期間と時間が違い、混雑時には入場を制限することがあるので、まず公式XアカウントかSRニュースのブログを確認してください。",
+   "TCGを扱うボークスの店舗はここだけです。シングルカードとサプライは5Fで、フィギュアとTCGの中古買取カウンターも同じフロアにあります。",
+   "ドルフィードリームとスーパードルフィーはここでは扱っていません。ラジオ会館8Fのボークス ドールポイント秋葉原とボークス ホビースクエア秋葉原へどうぞ。"
   ]
  },
  "official_url": "https://hobby.volks.co.jp/shop/hobbytengoku2/",

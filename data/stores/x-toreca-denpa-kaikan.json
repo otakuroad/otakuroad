@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스 트레카 오리파(랜덤팩) 자판기가 늘어선 무인 매장",
-  "en": "Unstaffed shop of oripa (random card pack) vending machines for Pokemon and One Piece TCG"
+  "en": "Unstaffed shop of oripa (random card pack) vending machines for Pokemon and One Piece TCG",
+  "ja": "ポケモン・ワンピースのオリパ（ランダムパック）の自販機が並ぶ無人店舗"
  },
  "building_id": "akihabara-denpa-kaikan",
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 소부선 고가에 붙은 아키하바라 전파회관(秋葉原電波会館) 1층 모서리 구획. 2026년 3월 22일 실점포를 닫은 전자부품점 나카데전기상회(ナカデ電気商会) 자리이며, 같은 구획에 가챠폰 코너가 등을 맞대고 들어서 있다.",
-  "en": "A minute from JR Akihabara's Electric Town Exit, in the corner unit on 1F of Akihabara Denpa Kaikan, hard against the Sobu line viaduct. It took the space of the electronics-parts shop Nakade Denki Shokai, which shut its physical store on 22 March 2026; a capsule-toy corner backs onto it in the same block."
+  "en": "A minute from JR Akihabara's Electric Town Exit, in the corner unit on 1F of Akihabara Denpa Kaikan, hard against the Sobu line viaduct. It took the space of the electronics-parts shop Nakade Denki Shokai, which shut its physical store on 22 March 2026; a capsule-toy corner backs onto it in the same block.",
+  "ja": "JR秋葉原駅電気街口から徒歩1分、総武線の高架にぴったり沿って建つ秋葉原電波会館の1Fの角の区画です。2026年3月22日に実店舗を閉めた電子部品店のナカデ電気商会の跡に入っており、同じ区画にはカプセルトイのコーナーが背中合わせに入っています。"
  },
  "tips": {
   "ko": [
@@ -69,6 +71,12 @@
    "The official site covers the online oripa service only and publishes no hours or closing days for this vending-machine unit, so opening times are not guaranteed.",
    "Buyback is handled not here but at a separate shop of the same brand, Akihabara Ex-Toreca Kaitori-ten, which opened on 8 June 2026.",
    "Card Kingdom's 2nd store and the figure shop Maruru are on the same 1F of Denpa Kaikan, so the three can be seen in one stop."
+  ],
+  "ja": [
+   "店員のいない無人店舗で、区画の中にあるのはオリパ（ランダムカードパック）の自販機だけです。シングルの購入や相談のできるカウンターはありません。",
+   "公式サイトはオンラインのオリパのサービスだけを案内していて、この自販機の区画の営業時間や定休日は公開していないため、開いている時間は保証されません。",
+   "買取はこの店ではなく、2026年6月8日に開いた同じブランドの別の店舗、秋葉原エクストレカ買取店で受け付けています。",
+   "同じ電波会館の1Fにカードキングダム秋葉原2号店とフィギュアショップのMARURUがあるので、3店をまとめて見て回れます。"
   ]
  },
  "official_url": "https://oripa.ex-toreca.com/",

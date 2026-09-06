@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "포켓몬카드 싱글·오리파와 듀얼 스페이스. 심야까지 여는 개인 포케카 전문점",
-  "en": "Pokemon card singles, oripa and duel space; an owner-run shop open until late at night"
+  "en": "Pokemon card singles, oripa and duel space; an owner-run shop open until late at night",
+  "ja": "シングル・オリパとデュエルスペースがある、深夜まで開く個人経営のポケカ店"
  },
  "building_id": null,
  "floors": [],
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休"
   },
   "note": {
    "ko": "점포가 직접 운영하는 온라인 스토어(BASE)의 특정상거래법 표기에 '営業時間：15:00-24:00　定休日：不定'으로 적혀 있다. 요일별 구분은 없고 별도의 영업시간 안내 페이지도 없으므로 당일 영업은 X(@popsan_akb)에서 확인하는 편이 좋다.",
-   "en": "The shop's own BASE online store gives 15:00-24:00 with irregular closing days in its legal notice. There is no day-by-day breakdown and no separate hours page, so check X (@popsan_akb) for the day."
+   "en": "The shop's own BASE online store gives 15:00-24:00 with irregular closing days in its legal notice. There is no day-by-day breakdown and no separate hours page, so check X (@popsan_akb) for the day.",
+   "ja": "店が運営するBASEのオンラインストアの特定商取引法表記に、営業時間15:00-24:00、定休日は不定と記載されています。曜日ごとの区分も営業時間の案内ページもないので、その日の営業はX（@popsan_akb）で確認してください。"
   },
   "source_url": "https://popman.shopselect.net/law"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "소토칸다 4초메, 간다소방서 근처의 제2 히우라(第2日浦) 빌딩. 주오도리에서 동쪽으로 들어간 골목이라 찾기 어려운 편이니 지도를 켜고 가는 편이 좋다. 바로 옆 번지 4-13-2는 KKT 아키하바라 빌딩(호비숍 안코우)이다.",
-  "en": "The Dai-2 Hiura Building in Sotokanda 4-chome, near the Kanda Fire Station. It is on a back street east of Chuo-dori and easy to miss, so navigate with a map; the adjacent lot 4-13-2 is the KKT Akihabara Building (Hobby Shop Ankou)."
+  "en": "The Dai-2 Hiura Building in Sotokanda 4-chome, near the Kanda Fire Station. It is on a back street east of Chuo-dori and easy to miss, so navigate with a map; the adjacent lot 4-13-2 is the KKT Akihabara Building (Hobby Shop Ankou).",
+  "ja": "外神田4丁目、神田消防署の近くに建つ第2日浦ビルです。中央通りから東に入った裏通りで見つけにくいので地図を見ながら向かうとよく、隣の4-13-2はKKT秋葉原ビル（HOBBY SHOPあんこう AKIHABARA店）です。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,12 @@
    "A one-person owner-run shop; listings say the owner will explain card restrictions and help you look for cards, which suits beginners.",
    "There is a duel space inside and Pokemon card events such as gym battles are held there; the official Pokemon card store finder registers it as a Pokemon Card Gym.",
    "Do not expect big-chain stock levels or buyback rates; the draw is the late-night play environment and the owner's advice."
+  ],
+  "ja": [
+   "秋葉原のカードショップの中でも遅くまで開いており、店が運営するオンラインストアの特定商取引法表記には15:00-24:00・不定休とあります。曜日ごとの案内はないので、その日の営業はX（@popsan_akb）で確認してください。",
+   "店長が一人で切り盛りする個人商店で、カードの規制を説明してくれたりカード探しを手伝ってくれたりするため初心者に向いている、と紹介されています。",
+   "店内にデュエルスペースがあり、ジムバトルなどのポケモンカードのイベントが開かれます。ポケモンカード公式の店舗検索にもポケモンカードジムとして登録されています。",
+   "大型チェーンのような在庫量や買取価格は期待できません。深夜まで遊べる対戦環境と店長のアドバイスが目当ての店です。"
   ],
   "en_note": null
  },

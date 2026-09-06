@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "'이상형 여자친구' 콘셉트 카페바. 캐스트 접객과 체키·음료, 18세 이상 입장",
-  "en": "Girlfriend-themed concept cafe bar: cast chat, cheki and drinks, entry from age 18"
+  "en": "Girlfriend-themed concept cafe bar: cast chat, cheki and drinks, entry from age 18",
+  "ja": "理想の彼女がコンセプトのカフェバー、キャストの接客とチェキ・ドリンク、18歳以上"
  },
  "building_id": null,
  "floors": [
@@ -63,7 +64,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 액세스 페이지의 표기는 '（全日）17:00〜25:00'으로 실제 마감은 다음 날 01:00이지만, 표에서는 24:00으로 끊어 적었다. 정기휴무는 공식 페이지에 적혀 있지 않다.",
-   "en": "The official access page states 17:00-25:00 every day, i.e. a 01:00 close the next morning; the table caps it at 24:00. No regular closing day is stated officially."
+   "en": "The official access page states 17:00-25:00 every day, i.e. a 01:00 close the next morning; the table caps it at 24:00. No regular closing day is stated officially.",
+   "ja": "公式のアクセスページの表記は「（全日）17:00〜25:00」で、実際の閉店は翌日の01:00ですが、表では24:00で区切って書かれています。定休日は公式ページに記載がありません。"
   },
   "source_url": "https://kimikano.tokyo/access"
  },
@@ -79,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내는 '아키하바라역 전기가 출구 도보 30초'라고 적고 있지만, 실제 건물은 반대편 쇼와도리 출구 쪽 오하시 빌딩(大橋ビル) 4층 401호다. 1층이 고고카레(ゴーゴーカレー)인 9층 건물이고, 같은 건물 6층은 컨셉카페 먀오먀오.",
-  "en": "The official page says \"30 seconds from Akihabara's Electric Town exit\", but the building is actually on the Showa-dori side: Ohashi Building 4F, room 401. It is the nine-storey block with Go Go Curry on the ground floor; the concept cafe Myaomyao is on 6F."
+  "en": "The official page says \"30 seconds from Akihabara's Electric Town exit\", but the building is actually on the Showa-dori side: Ohashi Building 4F, room 401. It is the nine-storey block with Go Go Curry on the ground floor; the concept cafe Myaomyao is on 6F.",
+  "ja": "公式の案内は「秋葉原駅電気街口から徒歩30秒」と書いていますが、実際の建物は反対側の昭和通り口側にある大橋ビル4Fの401号室です。1Fがゴーゴーカレーの9階建てのビルで、同じ建物の6Fにはコンセプトカフェのみゃおみゃおが入っています。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,12 @@
    "The official system page states that entry is limited to ages 18 and over.",
    "The same Kimikano group runs a separate Akihabara shop, the \"Dokidoki\" branch at 外神田1-15-13 Akihabara B&V Building 7F. Do not mix the two up when booking or attending events.",
    "The price and menu page is image-only, so ask on X (@kimikano_akiba) if you want the charge system in advance."
+  ],
+  "ja": [
+   "全曜日17:00から翌日の01:00（25:00）まで営業しています。",
+   "入店は満18歳以上のみと公式のシステムページに明記されています。",
+   "同じキミカノグループが秋葉原に「キミの彼女になりたい！ ドキドキ店」（外神田1-15-13 秋葉原B&Vビル7F）を別に運営しています。予約やイベントのときに2つの店舗を混同しないようご注意ください。",
+   "料金・メニューのページは画像のみでテキストでは確認できません。料金体系は来店前にX（@kimikano_akiba）で問い合わせるほうが確実です。"
   ]
  },
  "official_url": "https://kimikano.tokyo/",

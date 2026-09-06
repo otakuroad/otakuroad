@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "중고·신품 게임과 레트로 게임, 피규어를 1F~7F에서 파는 주오도리 대형 매장",
-  "en": "Used and new console games, retro games and figures on seven floors facing Chuo-dori"
+  "en": "Used and new console games, retro games and figures on seven floors facing Chuo-dori",
+  "ja": "中央通りに面した7フロアの中古・新品ゲーム、レトロゲーム、フィギュアの店"
  },
  "building_id": null,
  "floors": [
@@ -52,42 +53,50 @@
   {
    "floor": "B1F",
    "ko": "매입 플로어(게임·피규어·DVD/블루레이 매입 접수)",
-   "en": "Buyback floor (games, figures, DVD/Blu-ray)"
+   "en": "Buyback floor (games, figures, DVD/Blu-ray)",
+   "ja": "ゲーム、フィギュア、DVD・Blu-rayの買取フロアです。"
   },
   {
    "floor": "1F",
    "ko": "중고 TV게임(닌텐도), 신품 TV게임, 해외판 게임",
-   "en": "Used console games (Nintendo), new console games, import games"
+   "en": "Used console games (Nintendo), new console games, import games",
+   "ja": "中古のテレビゲーム（任天堂）、新品のテレビゲーム、海外版ゲームのフロアです。"
   },
   {
    "floor": "2F",
    "ko": "중고 TV게임(플레이스테이션·Xbox), 레트로 게임, DVD·블루레이, CD",
-   "en": "Used console games (PlayStation, Xbox), retro games, DVD/Blu-ray, CD"
+   "en": "Used console games (PlayStation, Xbox), retro games, DVD/Blu-ray, CD",
+   "ja": "中古のテレビゲーム（プレイステーション、Xbox）、レトロゲーム、DVD・Blu-ray、CDのフロアです。"
   },
   {
    "floor": "3F",
    "ko": "피규어(소년만화·애니메이션 계열)",
-   "en": "Figures (shonen manga and anime)"
+   "en": "Figures (shonen manga and anime)",
+   "ja": "フィギュアのフロアで、少年漫画・アニメ系を扱います。"
   },
   {
    "floor": "4F",
    "ko": "피규어(로봇·특촬 계열), 프라모델, 캐릭터 굿즈",
-   "en": "Figures (robots and tokusatsu), plastic models, character goods"
+   "en": "Figures (robots and tokusatsu), plastic models, character goods",
+   "ja": "フィギュア（ロボット・特撮系）、プラモデル、キャラクターグッズのフロアです。"
   },
   {
    "floor": "5F",
    "ko": "피규어(게임·미소녀 계열)",
-   "en": "Figures (games and bishojo)"
+   "en": "Figures (games and bishojo)",
+   "ja": "フィギュアのフロアで、ゲーム・美少女系を扱います。"
   },
   {
    "floor": "6F",
    "ko": "PC 게임 소프트, 성인 애니메이션·성인 코믹 — 18세 미만 이용 불가",
-   "en": "PC game software, adult anime and adult comics - 18+ only"
+   "en": "PC game software, adult anime and adult comics - 18+ only",
+   "ja": "PCゲームソフトと成人向けアニメ・成人向けコミックのフロアで、18歳未満は入れません。"
   },
   {
    "floor": "7F",
    "ko": "실사 계열 성인 DVD·블루레이, 이미지 비디오 — 18세 미만 이용 불가",
-   "en": "Live-action adult DVD/Blu-ray and image videos - 18+ only"
+   "en": "Live-action adult DVD/Blu-ray and image videos - 18+ only",
+   "ja": "実写系の成人向けDVD・Blu-rayとイメージビデオのフロアで、18歳未満は入れません。"
   }
  ],
  "location": {
@@ -115,11 +124,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "판매 층은 1F~7F, B1F는 매입 전용 층. 공식 페이지는 영업시간이 바뀔 수 있으니 톱페이지를 확인하라고 안내한다.",
-   "en": "Sales floors are 1F-7F and B1F is the buyback floor. The official page notes hours can change and asks visitors to check its top page."
+   "en": "Sales floors are 1F-7F and B1F is the buyback floor. The official page notes hours can change and asks visitors to check its top page.",
+   "ja": "販売フロアは1F〜7Fで、B1Fは買取フロアです。公式ページは営業時間が変わることがあるとして、トップページの確認を案内しています。"
   },
   "source_url": "https://www.e-trader.jp/akiba-trader-a101/"
  },
@@ -138,7 +149,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에 면한 지하 1층~지상 7층짜리 트레이더 본점 빌딩. 타이토 스테이션 오락실 건물 바로 남쪽, 빅카메라 AKIBA 북쪽이며 1층 입구가 주오도리 보도에 바로 접해 있다. B1F 매입 층부터 7F까지 건물 전체가 트레이더다.",
-  "en": "The Trader Honten building on Chuo-dori, B1F to 7F. It stands just south of the Taito Station arcade building and north of Bic Camera AKIBA; the 1F entrance opens onto the Chuo-dori sidewalk, and the whole building from the B1F buyback floor up to 7F is Trader."
+  "en": "The Trader Honten building on Chuo-dori, B1F to 7F. It stands just south of the Taito Station arcade building and north of Bic Camera AKIBA; the 1F entrance opens onto the Chuo-dori sidewalk, and the whole building from the B1F buyback floor up to 7F is Trader.",
+  "ja": "中央通りに面したB1F〜7Fのトレーダー本店のビルです。タイトーステーション秋葉原店のビルのすぐ南、ビックカメラAKIBAの北に建ち、1Fの入口は中央通りの歩道に面していて、B1Fの買取フロアから7Fまで建物全体がトレーダーです。"
  },
  "tips": {
   "ko": [
@@ -152,6 +164,12 @@
    "6F and 7F are adult floors (PC games, adult anime and comics, live-action adult DVD/Blu-ray) and are off-limits to anyone under 18.",
    "Selling happens on 1F-7F; buyback is accepted only at the B1F buyback floor, where Japanese secondhand-dealer law requires photo ID such as a passport.",
    "Besides cash, credit cards (Visa, Mastercard, JCB, AMEX, Diners Club, UnionPay), e-money and QR payments are accepted. The official page says nothing about tax-free service."
+  ],
+  "ja": [
+   "中央通りをはさんだ向かい（西側）の旧本店は2024年5月6日に閉店し、旧トレーダー3号店の跡地に新しく建てたこのビルで2024年5月23日に再オープンしました。2024年より前の地図やブログの記事は違う場所を指しています。",
+   "6Fと7Fは成人向けフロア（PCゲーム、成人向けアニメ・コミック、実写の成人向けDVD・Blu-ray）で、18歳未満は入れません。",
+   "販売は1F〜7F、買取の受付はB1Fの買取フロアだけです。日本の古物営業法により、買取にはパスポートなどの写真付き本人確認書類が必要です。",
+   "現金のほか、クレジットカード（Visa、Mastercard、JCB、AMEX、ダイナースクラブ、銀聯）、電子マネー、QR決済が使えます。免税に対応しているかどうかは公式ページに案内がありません。"
   ]
  },
  "official_url": "https://www.e-trader.jp/akiba-trader-a101/",

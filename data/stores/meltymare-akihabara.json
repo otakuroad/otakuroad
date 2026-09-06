@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "그림에서 튀어나온 소녀 콘셉트 카페＆바. 음료 무제한 세트와 체키",
-  "en": "Concept cafe and bar themed on girls stepping out of paintings; drink sets and cheki"
+  "en": "Concept cafe and bar themed on girls stepping out of paintings; drink sets and cheki",
+  "ja": "絵から抜け出した少女をテーマにしたコンセプトカフェ＆バー、飲み放題セットとチェキ"
  },
  "building_id": null,
  "floors": [
@@ -60,7 +61,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 도보 1분, 주오도리 서쪽 면의 아키하바라 M2 빌딩 5층. 공식 X 안내대로 1층 라멘집 하카타후류 아키하바라 총본점이 있는 건물이며, 입구 안쪽 엘리베이터로 5층까지 올라간다. 같은 5층에 남장 카페 슈바르츠 슈발리에가 있어 층별 안내판에서 이름을 확인하는 편이 빠르다.",
-  "en": "One minute from exit 3 of Ginza-line Suehirocho, on 5F of the Akihabara M2 Building on the west side of Chuo-dori. As the shop's X account puts it, look for the building with the ramen shop Hakata Furyu on the ground floor and take the elevator just inside to 5F. Schwartz Chevalier is also on 5F, so check the names on the floor board."
+  "en": "One minute from exit 3 of Ginza-line Suehirocho, on 5F of the Akihabara M2 Building on the west side of Chuo-dori. As the shop's X account puts it, look for the building with the ramen shop Hakata Furyu on the ground floor and take the elevator just inside to 5F. Schwartz Chevalier is also on 5F, so check the names on the floor board.",
+  "ja": "銀座線の末広町駅3番出口から徒歩1分、中央通りの西側の秋葉原M2ビルの5Fです。店の公式Xの案内どおり、1Fにラーメン店の博多風龍が入っているビルを探し、入ってすぐのエレベーターで5Fに上がります。同じ5Fに男装喫茶 SCHWARTZ CHEVALIERがあるので、フロアの案内板で名前を確かめるのが早いです。"
  },
  "tips": {
   "ko": [
@@ -76,6 +78,13 @@
    "There is no official website, so the hours cannot be pinned down: the shop's Instagram says 17:00-23:00 while Japanese concept-cafe directories list 18:00 to 05:00 the next morning. Check the X account before going.",
    "Per the shop's Instagram, a 60-minute charge is 2,000 yen with one order, and all-you-can-drink with alcohol is around 3,000 yen. Cheki and original champagne are available.",
    "Only electronic cigarettes may be smoked; there is Wi-Fi and reservations are taken."
+  ],
+  "ja": [
+   "以前の店名はベルベット（Velvet）で、古い名前のまま残っている地図やレビューも多く、その後リニューアルしています。",
+   "コンセプトは魔法にかかって絵から抜け出した少女たちで、店では営業日を展覧予定、来店を来館と呼んでいます。",
+   "公式サイトがないため営業時間が確定できません。店のInstagramは17:00〜23:00、日本のコンカフェのディレクトリは18:00から翌05:00までと書いているので、行く前にXのアカウントを確認する必要があります。",
+   "店のInstagramの案内では、60分のチャージが2,000円でワンオーダー制、アルコールの飲み放題は3,000円台です。チェキとオリジナルのシャンパンがあります。",
+   "喫煙は電子タバコだけ可能で、Wi-Fiがあり、予約も受け付けています。"
   ]
  },
  "official_url": null,

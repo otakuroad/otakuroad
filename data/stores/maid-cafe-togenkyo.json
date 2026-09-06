@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "메이드가 직접 만드는 가정식과 홍차. 인형 동반 손님도 환영",
-  "en": "Maid cafe where the maids cook: home-style food, tea, dolls welcome at the table"
+  "en": "Maid cafe where the maids cook: home-style food, tea, dolls welcome at the table",
+  "ja": "メイドが手作りする家庭料理と紅茶のメイド喫茶、人形連れも歓迎"
  },
  "building_id": null,
  "floors": [
@@ -75,11 +76,13 @@
   ],
   "regular_holiday": {
    "ko": "수요일 정기휴무(앱 예약제 메이드 이벤트만 진행)",
-   "en": "Closed Wednesdays, which are kept for app-booked maid events"
+   "en": "Closed Wednesdays, which are kept for app-booked maid events",
+   "ja": "水曜定休（アプリ予約制のメイドイベントのみ実施）"
   },
   "note": {
    "ko": "라스트오더는 식사 22:00, 음료·디저트·체키 22:30. 수요일은 정기휴무로 앱 예약제 메이드 이벤트만 열리지만, 수요일이 공휴일이면 12:00~23:00으로 평소처럼 연다. 목~일에는 08:00~11:00 모닝 영업이 따로 붙고, 금요일은 11:30~17:00 카레 뷔페에서 이어 17:00부터 통상 영업으로 넘어간다. 그달의 날짜별 영업시간은 공식 블로그에 매달 올라온다.",
-   "en": "Last order is 22:00 for food and 22:30 for drinks, desserts and cheki. Wednesday is the regular closing day, given over to app-booked maid events, though a Wednesday that falls on a public holiday opens 12:00-23:00 as usual. A separate morning service runs 08:00-11:00 from Thursday to Sunday, and Friday runs straight through from the 11:30-17:00 curry buffet into normal service at 17:00. A day-by-day timetable is posted on the official blog each month."
+   "en": "Last order is 22:00 for food and 22:30 for drinks, desserts and cheki. Wednesday is the regular closing day, given over to app-booked maid events, though a Wednesday that falls on a public holiday opens 12:00-23:00 as usual. A separate morning service runs 08:00-11:00 from Thursday to Sunday, and Friday runs straight through from the 11:30-17:00 curry buffet into normal service at 17:00. A day-by-day timetable is posted on the official blog each month.",
+   "ja": "ラストオーダーはフードが22:00、ドリンク・デザート・チェキが22:30です。水曜日は定休日でアプリ予約制のメイドイベントにあてられますが、水曜が祝日にあたる場合は通常どおり12:00〜23:00で営業します。木曜から日曜は08:00〜11:00のモーニング営業が別にあり、金曜は11:30〜17:00のカレーバイキングからそのまま17:00の通常営業へ続きます。日ごとの営業時間は毎月公式ブログに掲載されます。"
   },
   "source_url": "http://blog.livedoor.jp/tougenkyoumaid/"
  },
@@ -95,7 +98,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 서쪽 뒷길로 들어간 이시즈카(石塚) 빌딩 1층으로, 길에 면한 지상층이라 계단을 오를 필요가 없다. JR 아키하바라역 전기가 출구에서 도보 약 5분이며, 몇 집 건너에 메이드카페 more fun이 있다.",
-  "en": "Ground floor of the Ishizuka Building on a back street west of Chuo-dori, at street level with no stairs to climb. About 5 minutes from the JR Akihabara Electric Town exit; the maid cafe more fun is a few doors away."
+  "en": "Ground floor of the Ishizuka Building on a back street west of Chuo-dori, at street level with no stairs to climb. About 5 minutes from the JR Akihabara Electric Town exit; the maid cafe more fun is a few doors away.",
+  "ja": "中央通りから西の裏通りに入った石塚ビルの1Fで、通りに面した地上階なので階段を上る必要がありません。JR秋葉原駅の電気街口から徒歩5分ほどで、数軒先にメイドカフェのmore funがあります。"
  },
  "tips": {
   "ko": [
@@ -111,6 +115,13 @@
    "Free Wi-Fi and power outlets are available, and chargers can be borrowed.",
    "The shop does not publish a phone number; enquiries go by email (tougenkyoumaid@gmail.com), and Wednesday events are booked through the official app.",
    "Wednesday is a regular closing day used only for app-booked maid events. Mon, Tue and Thu open at 17:00, Friday at 11:30 with the curry buffet, and Sat, Sun and holidays at 12:00, with a separate 08:00-11:00 morning service from Thursday to Sunday. The official about page still lists only 'weekdays 17:00-23:00', so check the monthly timetable on the blog before going."
+  ],
+  "ja": [
+   "2008年12月にオープンした小さな店で、料理やお菓子作りから掃除までメイドが自分たちで行っています。新人のメイドは最初の3か月間、料理とお菓子作りを学びます。",
+   "人形（ドール）を連れてくるお客さんも歓迎していて、人形サイズのデザートメニューもあります。",
+   "無料のWi-Fiとコンセントが使え、充電器も貸してもらえます。",
+   "電話番号は公開しておらず、問い合わせはメール（tougenkyoumaid@gmail.com）で受け付けています。水曜日のイベントの予約は公式アプリから行います。",
+   "水曜日は定休日で、アプリ予約制のメイドイベントだけが開かれます。月・火・木は17:00、金曜はカレーバイキングから11:30、土・日・祝日は12:00開店で、木曜から日曜には08:00〜11:00のモーニング営業が別にあります。公式サイトのaboutページには今も平日17:00〜23:00としか書かれていないので、行く前にブログのその月のスケジュールを確認してください。"
   ]
  },
  "official_url": "http://tougenkyoumaid.com/",

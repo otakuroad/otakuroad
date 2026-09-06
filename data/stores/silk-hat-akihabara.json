@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "크레인게임 4개 층·리듬게임 2개 층·카드게임의 9층 오락실, 건담 EXVS2 58대",
-  "en": "Nine-floor arcade: 4 floors of crane games, 2 of rhythm games, 58 Gundam EXVS2 units"
+  "en": "Nine-floor arcade: 4 floors of crane games, 2 of rhythm games, 58 Gundam EXVS2 units",
+  "ja": "9フロアのゲームセンター、クレーンゲーム4フロアとリズムゲーム2フロア、ガンダムEXVS2が58台"
  },
  "building_id": null,
  "floors": [
@@ -51,47 +52,56 @@
   {
    "floor": "B1F",
    "ko": "비디오게임 — 건담 EXVS2 인피니트 부스트 58대(일본 최대급, 시간제 대여 예약)",
-   "en": "Video games: 58 Gundam Extreme Versus 2 Infinite Boost cabinets (largest bank in Japan; time-slot rental)"
+   "en": "Video games: 58 Gundam Extreme Versus 2 Infinite Boost cabinets (largest bank in Japan; time-slot rental)",
+   "ja": "ビデオゲームのフロアで、ガンダムエクストリームバーサス2 インフィニットブーストを58台そろえています（日本最大級、時間制レンタル）。"
   },
   {
    "floor": "1F",
    "ko": "크레인게임 — 인형·잡화 경품",
-   "en": "Crane games: plush and character-goods prizes"
+   "en": "Crane games: plush and character-goods prizes",
+   "ja": "クレーンゲームのフロアで、ぬいぐるみやキャラクターグッズが景品です。"
   },
   {
    "floor": "2F",
    "ko": "크레인게임 — 인형·잡화 경품, 경품과 함께 찍는 포토 스팟",
-   "en": "Crane games: plush and goods prizes, plus a photo spot for shooting with your prize"
+   "en": "Crane games: plush and goods prizes, plus a photo spot for shooting with your prize",
+   "ja": "クレーンゲームのフロアで、ぬいぐるみや雑貨の景品に加えて、獲った景品と一緒に撮れるフォトスポットがあります。"
   },
   {
    "floor": "3F",
    "ko": "크레인게임 — 피규어 경품(신작부터 정번까지), 포토 스팟",
-   "en": "Crane games: figure prizes from new releases to standards, plus a photo spot"
+   "en": "Crane games: figure prizes from new releases to standards, plus a photo spot",
+   "ja": "クレーンゲームのフロアで、新作から定番までのフィギュア景品とフォトスポットがあります。"
   },
   {
    "floor": "4F",
    "ko": "크레인게임 — 피규어 경품(신작부터 정번까지)",
-   "en": "Crane games: figure prizes from new releases to standards"
+   "en": "Crane games: figure prizes from new releases to standards",
+   "ja": "クレーンゲームのフロアで、新作から定番までのフィギュア景品を扱います。"
   },
   {
    "floor": "5F",
    "ko": "카드게임 — 건담 아스널 베이스, 오레카배틀2, 포켓몬 프렌다, 히미츠노 아이프리, 아이프리 버스",
-   "en": "Card games: Gundam Arsenal Base, Oreca Battle 2, Pokemon Frenda, Himitsu no Aipri, Aipri Verse"
+   "en": "Card games: Gundam Arsenal Base, Oreca Battle 2, Pokemon Frenda, Himitsu no Aipri, Aipri Verse",
+   "ja": "カードゲームのフロアで、ガンダムアーセナルベース、オレカバトル2、ポケモンフレンダ、ひみつのアイプリ、アイプリバースがあります。"
   },
   {
    "floor": "6F",
    "ko": "리듬게임(세가·반다이남코 계열) — 태고의 달인, CHUNITHM, maimai 디럭스, 온게키, 드럼매니아·기타프릭스 아레나 모델",
-   "en": "Rhythm games (Sega and Bandai Namco titles): Taiko no Tatsujin, CHUNITHM, maimai DX, Ongeki, DrumMania and GuitarFreaks Arena Model"
+   "en": "Rhythm games (Sega and Bandai Namco titles): Taiko no Tatsujin, CHUNITHM, maimai DX, Ongeki, DrumMania and GuitarFreaks Arena Model",
+   "ja": "リズムゲーム（セガ・バンダイナムコ系）のフロアで、太鼓の達人、CHUNITHM、maimai DX、オンゲキ、ドラムマニアとギターフリークスのアリーナモデルがあります。"
   },
   {
    "floor": "7F",
    "ko": "리듬게임(코나미 BEMANI) — beatmania IIDX 라이트닝 모델 13대(배신 대응 기체 포함), SOUND VOLTEX 발키리 모델 9대",
-   "en": "Rhythm games (Konami BEMANI): 13 beatmania IIDX Lightning Model cabinets (one streaming-ready), 9 SOUND VOLTEX Valkyrie Model"
+   "en": "Rhythm games (Konami BEMANI): 13 beatmania IIDX Lightning Model cabinets (one streaming-ready), 9 SOUND VOLTEX Valkyrie Model",
+   "ja": "リズムゲーム（コナミBEMANI）のフロアで、beatmania IIDXライトニングモデル13台（うち1台は配信対応）とSOUND VOLTEXヴァルキリーモデル9台があります。"
   },
   {
    "floor": "8F",
    "ko": "BEMANI STUDIO(배신용 부스) · 다트 DARTSLIVE3 8대 · 이치방쿠지 등 캐릭터 쿠지와 굿즈 판매",
-   "en": "BEMANI STUDIO (streaming booth), darts (8 DARTSLIVE3), Ichiban Kuji character lotteries and goods"
+   "en": "BEMANI STUDIO (streaming booth), darts (8 DARTSLIVE3), Ichiban Kuji character lotteries and goods",
+   "ja": "BEMANI STUDIO（配信用ブース）、ダーツのDARTSLIVE3が8台、一番くじなどのキャラクターくじとグッズ販売があります。"
   }
  ],
  "location": {
@@ -119,11 +129,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "None (open year-round)"
+   "en": "None (open year-round)",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "전 층 같은 시간에 열고 닫는다. 전화 문의 접수는 평일 10:00~17:00만.",
-   "en": "All floors keep the same hours; phone inquiries are taken weekdays 10:00-17:00 only."
+   "en": "All floors keep the same hours; phone inquiries are taken weekdays 10:00-17:00 only.",
+   "ja": "全フロアが同じ時間に開いて同じ時間に閉まります。電話でのお問い合わせ受付は平日10:00〜17:00のみです。"
   },
   "source_url": "https://am.silkhat-entertainment.co.jp/shop/akihabara/"
  },
@@ -138,13 +150,15 @@
   "state": "open",
   "note": {
    "ko": "2025-11-22 개업. 2025-08-31 폐관한 GiGO 아키하바라 1호관(구 세가 1호관, 1992년 하이테크랜드 세가 신토쿠로 개점) 자리다.",
-   "en": "Opened 2025-11-22 in the former GiGO Akihabara No.1 building (ex-Sega No.1, a game centre since 1992), which closed on 2025-08-31."
+   "en": "Opened 2025-11-22 in the former GiGO Akihabara No.1 building (ex-Sega No.1, a game centre since 1992), which closed on 2025-08-31.",
+   "ja": "2025年11月22日に開業しました。2025年8月31日に閉館したGiGO秋葉原1号館（旧セガ1号館、1992年からのゲームセンター）の跡地です。"
   },
   "effective_date": "2025-11-22"
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도, 소프맵 AKIBA 어뮤즈먼트관에서 남쪽으로 20~30m 내려간 흰색 9층(B1F~8F) 건물. JR 아키하바라역 전기가 출구에서 도보 3분이고, 건물 바로 뒤(서쪽)가 도쿄 라디오 데파트다. 2025년 8월까지 GiGO 아키하바라 1호관이던 자리.",
-  "en": "On the west pavement of Chuo-dori, 20-30 m south of Sofmap AKIBA Amusement-kan: a white nine-floor building (B1F-8F), three minutes from the JR Akihabara Denkigai Exit, with Tokyo Radio Depart immediately behind it to the west. It was GiGO Akihabara No.1 until August 2025."
+  "en": "On the west pavement of Chuo-dori, 20-30 m south of Sofmap AKIBA Amusement-kan: a white nine-floor building (B1F-8F), three minutes from the JR Akihabara Denkigai Exit, with Tokyo Radio Depart immediately behind it to the west. It was GiGO Akihabara No.1 until August 2025.",
+  "ja": "中央通りの西側の歩道、ソフマップAKIBA アミューズメント館から南へ20〜30m下ったところに建つ白い9フロア（B1F〜8F）のビルで、JR秋葉原駅電気街口から徒歩3分です。すぐ裏の西側は東京ラジオデパートです。2025年8月まではGiGO秋葉原1号館でした。"
  },
  "tips": {
   "ko": [
@@ -158,6 +172,12 @@
    "Crane games run 1F-2F for plush and goods and 3F-4F for figures; the photo spots where you shoot with your prize are on 2F and 3F.",
    "Rhythm games are split: 6F has Taiko no Tatsujin, CHUNITHM, maimai and Ongeki, 7F has beatmania IIDX and SOUND VOLTEX.",
    "Open 10:00-24:00 all year, but payment methods and tax-free status are not stated on the official page, so bring coins and cash."
+  ],
+  "ja": [
+   "B1Fのガンダムエクストリームバーサス2 インフィニットブースト58台と8FのBEMANI STUDIOは、公式予約サイト（airrsv）で時間制のレンタル予約を受け付けています。受付期間でないと予約メニューは開きません。",
+   "クレーンゲームは1F・2Fがぬいぐるみや雑貨、3F・4Fがフィギュアの景品で、景品と一緒に撮るフォトスポットは2Fと3Fにあります。",
+   "音ゲーはフロアで分かれていて、6Fが太鼓の達人・CHUNITHM・maimai・オンゲキ、7Fがbeatmania IIDXとSOUND VOLTEXです。",
+   "10:00〜24:00で年中無休ですが、決済手段や免税の可否は公式ページに書かれていないので、小銭と現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://am.silkhat-entertainment.co.jp/shop/akihabara/",

@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "판매 진열 없이 매입만 하는 6층 포켓몬 카드 중심 트레카 매입 전문점",
-  "en": "Buyback-only trading card counter on 6F, mainly Pokemon cards, with no sales floor"
+  "en": "Buyback-only trading card counter on 6F, mainly Pokemon cards, with no sales floor",
+  "ja": "販売フロアのない6Fの買取専門トレカカウンター、ポケモンカードが中心"
  },
  "building_id": null,
  "floors": [
@@ -63,7 +64,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 18:00에 끝나고 미감정(素体) 카드 접수는 17:00에 끝난다. 정기 휴무일은 공지되어 있지 않다.",
-   "en": "Buyback reception closes at 18:00, and at 17:00 for ungraded loose cards. No regular closing day is published."
+   "en": "Buyback reception closes at 18:00, and at 17:00 for ungraded loose cards. No regular closing day is published.",
+   "ja": "買取の受付は18:00に終わり、未鑑定の素体カードは17:00に終わります。定休日は公表されていません。"
   },
   "source_url": "https://x.com/TCK_akihabara"
  },
@@ -79,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 중앙 개찰구에서 도보 2분, 요도바시 Akiba 바로 북쪽 블록의 하세가와(長谷川) 빌딩 6층 601호. 도로에 면한 매장이 아니라 사무실 층이므로 엘리베이터로 올라가야 한다.",
-  "en": "Two minutes from the JR Akihabara central exit, in the Hasegawa Building on the block immediately north of Yodobashi Akiba, room 601 on 6F. It is an office floor rather than a street-level shop, so take the lift up."
+  "en": "Two minutes from the JR Akihabara central exit, in the Hasegawa Building on the block immediately north of Yodobashi Akiba, room 601 on 6F. It is an office floor rather than a street-level shop, so take the lift up.",
+  "ja": "JR秋葉原駅の中央改札口から徒歩2分、ヨドバシカメラ マルチメディアAkibaのすぐ北のブロックに建つ長谷川ビルの6F・601号室です。路面店ではなくオフィスのフロアなので、エレベーターで上がってください。"
  },
  "tips": {
   "ko": [
@@ -91,6 +94,11 @@
    "There is no sales floor - it is a buying counter only, so it is not a place to shop for cards; selling is done through the online shop at shop.japan-toreca.com.",
    "It is open 12:00-20:00, but buyback reception ends at 18:00 and at 17:00 for ungraded loose cards.",
    "The price-search site linked from the official X account (@TCK_akihabara) lets you look up what they pay for a card before you go, which makes comparing quotes with other shops easy."
+  ],
+  "ja": [
+   "販売フロアのない買取専門のカウンターなので、カードを買いに行く場所ではありません。販売は通信販売（shop.japan-toreca.com）で行っています。",
+   "営業時間は12:00-20:00ですが、買取の受付は18:00まで、未鑑定の素体カードは17:00までです。",
+   "公式Xアカウント（@TCK_akihabara）からリンクされている買取価格の検索サイトで、行く前にそのカードの買取価格を調べられるので、他店との相見積もりを比べやすくなっています。"
   ]
  },
  "official_url": "https://shop.japan-toreca.com/",

@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "PSA 감정품과 유희왕 20th 등 고액 컬렉션 카드를 사고파는 6층 매장",
-  "en": "Sixth-floor shop buying and selling PSA slabs and high-value collector cards"
+  "en": "Sixth-floor shop buying and selling PSA slabs and high-value collector cards",
+  "ja": "PSA鑑定品と高額のコレクションカードを売買する6Fの店"
  },
  "building_id": "new-akihabara-center",
  "floors": [
@@ -63,7 +64,8 @@
   ],
   "regular_holiday": {
    "ko": "수요일 휴무",
-   "en": "Closed Wednesdays"
+   "en": "Closed Wednesdays",
+   "ja": "水曜日休み"
   },
   "note": null,
   "source_url": "https://x.com/torekabreak"
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 남쪽, 외신다 1-16 블록의 '뉴 아키하바라 센터(ニュー秋葉原センター)' 6층 602호. 1층 이자카야 신지다이(新時代)가 표지이고, 건물 안쪽(奥) 엘리베이터를 타고 6층으로 올라간다. 1·2층의 작은 점포 통로에서는 보이지 않는 상층 점포다. 같은 건물 지하 1층에는 트레카라프텔, 5층에는 트레카데이즈가 있다.",
-  "en": "South of the JR Akihabara Electric Town exit, in the 1-16 block: room 602 on 6F of New Akihabara Center. The Shinjidai izakaya on the ground floor is the landmark, and you take the elevator at the back of the building up to 6F. It is an upper-floor unit invisible from the 1F/2F warren of small shops. Toreca Raftel is in the same building on B1F and Toreca Days on 5F."
+  "en": "South of the JR Akihabara Electric Town exit, in the 1-16 block: room 602 on 6F of New Akihabara Center. The Shinjidai izakaya on the ground floor is the landmark, and you take the elevator at the back of the building up to 6F. It is an upper-floor unit invisible from the 1F/2F warren of small shops. Toreca Raftel is in the same building on B1F and Toreca Days on 5F.",
+  "ja": "JR秋葉原駅の電気街口の南、外神田1-16のブロックにあるニュー秋葉原センタービル6Fの602号室です。1階の居酒屋・新時代が目印で、建物の奥のエレベーターで6Fに上がります。1F・2Fの小さな店が入り組んだ通路からは見えない、上層階の区画です。同じビルのB1Fにはカードショップ トレカラフテル、5Fにはトレカデイズ秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,12 @@
    "Stock leans to high-value collector material such as PSA slabs and Yu-Gi-Oh 20th-anniversary cards, with an emphasis on buying. For playable singles other shops are a better bet.",
    "Oripa packs are sold across a wide price range.",
    "There is a mail-order site, torekabreak.com, run by ISM LLC from room 602; the phone is 070-3276-8778 and the shop is on X (@torekabreak) and YouTube (@torekabreak), where it posts a video showing the way up to 6F."
+  ],
+  "ja": [
+   "店舗自身のXプロフィールによる営業時間は、月・火・木・金が13:00〜20:00、土・日が12:00〜20:00で、水曜は定休日です。",
+   "PSA鑑定品や遊戯王20周年のカードといった高額のコレクション商品が中心で、買取に重きを置いています。プレイ用のシングルを探すなら、ほかの店舗のほうが向いています。",
+   "オリパは幅広い価格帯で取り扱っています。",
+   "通販サイトのtorekabreak.comがあり、602号室のISM合同会社が運営しています。電話は070-3276-8778で、X（@torekabreak）とYouTube（@torekabreak）があり、YouTubeには6Fまでの行き方を紹介する動画が上がっています。"
   ]
  },
  "official_url": "https://www.torekabreak.com/",

@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "레트로 완구·피규어·프라모델·미니카·철도모형 매입 전용 카운터, 판매 매장 없음",
-  "en": "Buy-only counter for retro toys, figures, plastic models, minicars and model trains"
+  "en": "Buy-only counter for retro toys, figures, plastic models, minicars and model trains",
+  "ja": "レトロ玩具・フィギュア・プラモデル・ミニカー・鉄道模型の買取専門カウンター"
  },
  "building_id": null,
  "floors": [
@@ -71,11 +72,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매장 10:00-19:00, 연중무휴. 전화 접수(03-5817-8666)는 10:00-22:00로 더 길다. 공식 점포 데이터에는 '통상대로 영업 중'이라고 표시되어 있다.",
-   "en": "Counter 10:00-19:00 every day; the phone line (03-5817-8666) takes calls 10:00-22:00. The official shop data currently reads 'trading as normal'."
+   "en": "Counter 10:00-19:00 every day; the phone line (03-5817-8666) takes calls 10:00-22:00. The official shop data currently reads 'trading as normal'.",
+   "ja": "カウンターは毎日10:00-19:00で、電話（03-5817-8666）の受付は10:00-22:00です。公式の店舗データには現在「通常どおり営業中」と表示されています。"
   },
   "source_url": "https://www.toysking.jp/shop-tokyo.html"
  },
@@ -91,7 +94,8 @@
  },
  "how_to_find": {
   "ko": "쇼와도리 동쪽, JR 아키하바라역에서 도보 10분·긴자선 스에히로초역에서 도보 8분(히비야선 나카오카치마치역에서는 도보 6분). 다이토 1초메의 CROBIS 아키하바라(クロビス秋葉原) 빌딩 1층 노면 점포이며, 같은 1층에 자매점인 중고 의류 매입점 리아크로 아키하바라점이 들어와 있다.",
-  "en": "East of Showa-dori, ten minutes from JR Akihabara and eight from Ginza-line Suehirocho (six from Hibiya-line Naka-okachimachi). Street level of the CROBIS Akihabara building in Taito 1-chome; its sister used-clothing counter, Riakuro Akihabara, shares the same ground floor."
+  "en": "East of Showa-dori, ten minutes from JR Akihabara and eight from Ginza-line Suehirocho (six from Hibiya-line Naka-okachimachi). Street level of the CROBIS Akihabara building in Taito 1-chome; its sister used-clothing counter, Riakuro Akihabara, shares the same ground floor.",
+  "ja": "昭和通りの東側、JR秋葉原駅から徒歩10分、銀座線の末広町駅から徒歩8分（日比谷線の仲御徒町駅からは徒歩6分）です。台東1丁目のクロビス秋葉原の1F路面店で、姉妹店の古着買取カウンターであるリアクロ秋葉原店が同じ1Fに入っています。"
  },
  "tips": {
   "ko": [
@@ -105,6 +109,12 @@
    "It takes toys broadly: retro toys, figures, plastic models, chogokin, model trains, dolls, sofubi, minicars, radio control and arcade prizes. Instruments, cameras, audio gear and fishing tackle are also accepted here.",
    "The official shop notice states that Apple products are currently not being accepted.",
    "The Tokyo buying centre moved here from Bunkyo-ku, so older listings may still show the previous address."
+  ],
+  "ja": [
+   "買取専門の窓口で、販売の売り場はなく、見て回れる商品もありません。",
+   "レトロ玩具、フィギュア、プラモデル、超合金、鉄道模型、人形、ソフビ、ミニカー、ラジコン、ゲームセンターの景品まで、玩具全般を幅広く受け付けます。楽器・カメラ・オーディオ機器・釣具もこの店舗で受け付けています。",
+   "公式の店舗案内には、現在アップル製品の取り扱いを停止していると明記されています。",
+   "東京買取センターは文京区からこの場所へ移転したので、古い案内には以前の住所が残っていることがあります。"
   ]
  },
  "official_url": "https://www.toysking.jp/shop-tokyo.html",

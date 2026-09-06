@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "개인이 위탁한 중고 피규어·캐릭터 굿즈가 채워진 1층 렌탈 쇼케이스 매장",
-  "en": "Ground-floor rental showcase of collector-consigned used figures and character goods"
+  "en": "Ground-floor rental showcase of collector-consigned used figures and character goods",
+  "ja": "個人が委託した中古フィギュアやキャラグッズが並ぶ1階のレンタルショーケース"
  },
  "building_id": "mn-building",
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "정기 휴일은 없지만 1월 1일은 쉰다",
-   "en": "No regular closing day, but the shop is shut on 1 January"
+   "en": "No regular closing day, but the shop is shut on 1 January",
+   "ja": "定休日なし（1月1日は休み）"
   },
   "note": {
    "ko": "공식 페이지는 '平日 / 日祝日'만 구분한다. 토요일 20:00 마감은 공식 연말연시 공지의 '3일(토) 11:00~20:00' 안내로 확인된다. 임시 변경은 공식 사이트 첫 화면과 X(@PORDAKIHABARA)에 날짜별로 공지된다.",
-   "en": "The official page splits its hours into weekdays and Sundays/holidays only; the Saturday 20:00 close is confirmed by the shop's own New Year notice, which lists the 3rd (Sat) at 11:00-20:00. Day-by-day changes are posted on the shop's front page and X (@PORDAKIHABARA)."
+   "en": "The official page splits its hours into weekdays and Sundays/holidays only; the Saturday 20:00 close is confirmed by the shop's own New Year notice, which lists the 3rd (Sat) at 11:00-20:00. Day-by-day changes are posted on the shop's front page and X (@PORDAKIHABARA).",
+   "ja": "公式ページは平日と日祝しか区分していません。土曜の20:00閉店は、3日（土）を11:00-20:00と記した店の年末年始のお知らせで確認できます。日ごとの変更は店の公式サイトのトップページとX（@PORDAKIHABARA）で告知されます。"
   },
   "source_url": "https://www.pord.co.jp/shop.php"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 가챠폰 회관(MN빌딩) 1층 안쪽에 있다. 가챠폰 회관 안내로는 긴자선 스에히로초역에서 도보 2분, JR 아키하바라역 전기가 출구에서 도보 7분. 1층 캡슐토이 기계 사이를 지나 안쪽으로 들어가면 쇼케이스가 늘어서 있다.",
-  "en": "At the back of the ground floor of Akihabara Gachapon Kaikan (the MN Building). The Kaikan's own directions give two minutes from Ginza-line Suehirocho and seven from JR Akihabara's Electric Town Exit; walk in past the capsule-toy machines on 1F and the showcases are at the rear."
+  "en": "At the back of the ground floor of Akihabara Gachapon Kaikan (the MN Building). The Kaikan's own directions give two minutes from Ginza-line Suehirocho and seven from JR Akihabara's Electric Town Exit; walk in past the capsule-toy machines on 1F and the showcases are at the rear.",
+  "ja": "秋葉原ガチャポン会館（MNビル）の1階の奥にあります。会館の案内では銀座線の末広町駅から徒歩2分、JR秋葉原駅の電気街口から徒歩7分で、1階のカプセルトイの機械の間を通って奥へ進むとショーケースが並んでいます。"
  },
  "tips": {
   "ko": [
@@ -98,6 +102,12 @@
    "Closes an hour earlier, at 19:00, on Sundays and public holidays.",
    "The same shop sells online as 'Golden Drop' on Yahoo! Shopping and Rakuten.",
    "Card shops fill 3F and 4F of the same MN Building, so capsule toys, figures and cards are all in one stop."
+  ],
+  "ja": [
+   "ショーケースごとに出品者が違う委託販売なので、価格も商品も絶えず変わります。同じ商品を複数のケースで見比べてみてください。",
+   "日曜と祝日は1時間早い19:00に閉まります。",
+   "同じ店がYahoo!ショッピングと楽天で「Golden Drop」の名前でも販売しています。",
+   "同じMNビルの3階と4階はカードショップなので、カプセルトイとフィギュア、カードを一度に見て回れます。"
   ]
  },
  "official_url": "https://www.pord.co.jp/",

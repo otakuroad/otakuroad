@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "원피스 카드 전문점. 싱글·상위 프로모·해외판과 오리파, PSA 감정품",
-  "en": "One Piece card specialist: singles, top promos, overseas prints, oripa and PSA slabs"
+  "en": "One Piece card specialist: singles, top promos, overseas prints, oripa and PSA slabs",
+  "ja": "ワンピースカード専門店、シングル・上位プロモ・海外版・オリパ・PSA鑑定品"
  },
  "building_id": "new-akihabara-center",
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休"
   },
   "note": {
    "ko": "매장 공식 X 계정 프로필에 적힌 평일 13:00-20:00, 토·일 12:00-20:00을 옮긴 것이다. 공식 사이트의 점포안내 페이지는 2025년 10월 이전 점포(17호)의 주소와 토·일·공휴일 11:00 개점을 그대로 두고 있어 믿을 수 없다. 공휴일 영업시간은 확인되지 않았고, 매입 창구는 판매장보다 늦게 열고 일찍 닫는다.",
-   "en": "Taken from the shop's own X profile (13:00-20:00 weekdays, 12:00-20:00 Saturday and Sunday). The store-info page on the official site is out of date — it still carries the pre-October-2025 room 17 address and an 11:00 weekend opening. Public-holiday hours are unconfirmed, and the buy-back counter opens later and closes earlier than the shop floor."
+   "en": "Taken from the shop's own X profile (13:00-20:00 weekdays, 12:00-20:00 Saturday and Sunday). The store-info page on the official site is out of date — it still carries the pre-October-2025 room 17 address and an 11:00 weekend opening. Public-holiday hours are unconfirmed, and the buy-back counter opens later and closes earlier than the shop floor.",
+   "ja": "店の公式Xのプロフィールにある平日13:00-20:00、土日12:00-20:00を採っています。公式サイトの店舗案内ページは情報が古く、2025年10月より前の17号室の住所と土日11:00開店の表記が残っています。祝日の営業時間は確認できておらず、買取カウンターは売り場より遅く開いて早く閉まります。"
   },
   "source_url": "https://x.com/card_raftel"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 남쪽 출구로 나와 곧장 직진하다 횡단보도를 건너면 이소마루수산(磯丸水産) 왼편에 뉴 아키하바라 센터 빌딩이 있고, 그 지하 1층이다. 2025년 10월 같은 건물 안에서 더 넓은 테넌트로 옮겼으므로 예전 17호실 안내로는 찾을 수 없다.",
-  "en": "Leave JR Akihabara by the Electric Town south exit, walk straight on and cross at the crossing: the New Akihabara Center building stands to the left of Isomaru Suisan, and the shop is on its B1F. It moved to a larger unit inside the same building in October 2025, so the old room 17 directions no longer work."
+  "en": "Leave JR Akihabara by the Electric Town south exit, walk straight on and cross at the crossing: the New Akihabara Center building stands to the left of Isomaru Suisan, and the shop is on its B1F. It moved to a larger unit inside the same building in October 2025, so the old room 17 directions no longer work.",
+  "ja": "JR秋葉原駅の電気街口の南側の出口を出てまっすぐ進み、横断歩道を渡ると、磯丸水産の左手にニュー秋葉原センタービルが建っていて、その建物のB1Fです。2025年10月に同じ建物の中のより広い区画へ移ったので、以前の17号室の案内では見つかりません。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,12 @@
    "Storefront sales at the old room 17 ended on 14 October 2025 and the shop reopened on 21 October in a larger unit in the same building; the official site's store-info page still shows the old address and the old hours.",
    "It is one of the few Akihabara shops where you can pick overseas prints (Chinese edition and the like), top-tier promos and PSA slabs off the shelf.",
    "Selling and buy-back sit in separate tenant units, and the buy-back counter keeps shorter hours than the shop floor."
+  ],
+  "ja": [
+   "扱うのはワンピースカードだけです。ポケモンや遊戯王などほかのタイトルは、同じ建物にある別のカードショップへ行く必要があります。",
+   "2025年10月14日に旧17号店舗での店頭販売を終え、10月21日に同じ建物の中のより広い区画で営業を再開しました。公式サイトの店舗案内ページには、いまも旧住所と旧営業時間が載ったままです。",
+   "海外版（中国語版など）や上位のプロモ、PSA鑑定品を現物で選べる、秋葉原では数少ない店です。",
+   "販売と買取は別々のテナントの区画に分かれていて、買取カウンターのほうが売り場より営業時間が短くなっています。"
   ]
  },
  "official_url": "https://www.tcg-raftel.com/",

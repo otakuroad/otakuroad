@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·원피스 싱글과 PSA 감정 카드를 사고파는 1층 노면 매장",
-  "en": "Yu-Gi-Oh, Pokemon and One Piece singles and PSA graded cards at street level"
+  "en": "Yu-Gi-Oh, Pokemon and One Piece singles and PSA graded cards at street level",
+  "ja": "遊戯王やポケモン、ワンピースのシングルとPSA鑑定カードを扱う1Fの路面店"
  },
  "building_id": null,
  "floors": [
@@ -58,7 +59,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 3분, 소토칸다 1-3-9 마스다빌딩(マスダビル) 1층 노면 점포. 원래 정크숍 니치베이쇼지(日米商事)가 쓰던 1층 자리로, 니치베이쇼지는 같은 건물 3층으로 올라갔다.",
-  "en": "Three minutes west of JR Akihabara's Electric Town Exit, at street level in the Masuda Building (マスダビル) at Sotokanda 1-3-9. It took over the ground floor left by the junk shop Nichibei Shoji, which moved up to 3F of the same building."
+  "en": "Three minutes west of JR Akihabara's Electric Town Exit, at street level in the Masuda Building (マスダビル) at Sotokanda 1-3-9. It took over the ground floor left by the junk shop Nichibei Shoji, which moved up to 3F of the same building.",
+  "ja": "JR秋葉原駅の電気街口から西へ徒歩3分、外神田1-3-9のマスダビルの1Fの路面店です。ジャンクショップの日米商事が使っていた1Fの区画に入り、日米商事は同じビルの3Fに移りました。"
  },
  "tips": {
   "ko": [
@@ -72,6 +74,12 @@
    "It buys Yu-Gi-Oh, Pokemon and One Piece singles, PSA graded cards, sealed boxes and supplies, paying out in cash on the spot.",
    "There is no official website; hours and closures are posted only on X (@MEETS_tcg_akiba). Listings give 13:00-20:00 with irregular closing days.",
    "There is no duel or play space."
+  ],
+  "ja": [
+   "大阪・日本橋に本店を置くカードショップの秋葉原店で、2025年3月に日米商事の1Fの区画に入りました。",
+   "遊戯王、ポケモンカード、ワンピースカードのシングルやPSA鑑定カード、未開封のボックス、サプライまで買取します。買取代金はその場で現金で支払われます。",
+   "公式サイトはなく、営業時間や休みはX（@MEETS_tcg_akiba）にだけ載ります。案内されている時間は13:00〜20:00で、休みは不定期です。",
+   "対戦のためのデュエルスペースやプレイスペースはありません。"
   ]
  },
  "official_url": null,

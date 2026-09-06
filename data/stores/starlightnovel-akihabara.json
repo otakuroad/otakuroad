@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "밤하늘 콘셉트 메이드카페. 오므라이스·케이크 플레이트·안주류와 캐스트 체키",
-  "en": "Night-sky themed maid cafe on 8F: omurice, cake plates, small dishes and cast cheki"
+  "en": "Night-sky themed maid cafe on 8F: omurice, cake plates, small dishes and cast cheki",
+  "ja": "夜空をテーマにした8Fのメイドカフェ、オムライスやケーキプレート、おつまみとキャストのチェキ"
  },
  "building_id": null,
  "floors": [
@@ -84,11 +85,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 공식 안내는 연중무휴이며 여름·겨울에 특별 연장 영업이 있다고만 밝히고, 캐스트 생일·게스트 급사 이벤트일에는 개·폐점 시각이 달라진다.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. The official notice says only that the shop is open year-round with special extended hours in summer and winter; cast birthday and guest-service events shift the opening and closing times."
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. The official notice says only that the shop is open year-round with special extended hours in summer and winter; cast birthday and guest-service events shift the opening and closing times.",
+   "ja": "金・土曜と祝日の前日は実際には翌05:00まで営業しますが、表では24:00で区切っています。公式の案内は年中無休で夏と冬に特別な延長営業があるとだけ伝えており、キャストの誕生日やゲスト給仕のイベント日は開店・閉店の時刻が変わります。"
   },
   "source_url": "https://starlightnovel.com/access"
  },
@@ -104,7 +107,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내 기준 긴자선 스에히로초역에서 도보 약 1분, JR 아키하바라역에서 약 4분. 주오도리 동쪽의 이스즈(いすゞ) 빌딩 8층으로, 엘리베이터로 올라간다. 같은 건물 2층은 자매점 프리티데빌메이트라 층을 헷갈리기 쉽다.",
-  "en": "About one minute from Suehirocho Station and four from JR Akihabara by the shop's own directions. Take the lift to 8F of the Isuzu Building on the east side of Chuo-dori; its sister shop PrettyDevilMate is on 2F of the same building, so watch the floor."
+  "en": "About one minute from Suehirocho Station and four from JR Akihabara by the shop's own directions. Take the lift to 8F of the Isuzu Building on the east side of Chuo-dori; its sister shop PrettyDevilMate is on 2F of the same building, so watch the floor.",
+  "ja": "店の案内では末広町駅から徒歩約1分、JR秋葉原駅から約4分です。中央通りの東側にあるいすゞビルの8Fまでエレベーターで上がりますが、同じビルの2Fには姉妹店のプリティデビルメイトが入っているので階にご注意ください。"
  },
  "tips": {
   "ko": [
@@ -120,6 +124,13 @@
    "When it is busy you may be asked to change seats, share a table, or accept a 90-minute limit.",
    "Photographing or recording the cast and asking for their contact details are forbidden; only food, drinks and the decor may be photographed.",
    "The System page has an English explanation of the charges, and News lists the monthly events and special hours."
+  ],
+  "ja": [
+   "最初の60分がチャージ1,000円（税込1,100円）とドリンク1杯の注文制で、以降は30分ごとに自動で500円（550円）が加算され、そのたびにドリンクを1杯注文します。店内では金額を★の単位で案内しています。",
+   "平日は17:00、土日・祝日は12:00に開店し、金・土曜と祝日の前日は翌05:00まで営業します。",
+   "混雑時は席の移動や相席、90分制をお願いされることがあります。",
+   "キャストの撮影・録音と連絡先を尋ねることは禁止で、撮影できるのは料理やドリンク、店内の装飾だけです。",
+   "公式サイトのSystemページには料金の英語での説明があり、Newsには月ごとのイベントと特別営業時間が掲載されます。"
   ]
  },
  "official_url": "https://starlightnovel.com/",

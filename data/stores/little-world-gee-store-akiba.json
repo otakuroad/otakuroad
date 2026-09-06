@@ -43,7 +43,8 @@
  ],
  "one_line": {
   "ko": "아조네·오비츠 돌 소체와 인형 옷·가발·소품을 파는 돌 전문점. 촬영 공간 병설",
-  "en": "Doll specialty shop: Azone and Obitsu doll bodies, doll clothes, wigs and a photo space"
+  "en": "Doll specialty shop: Azone and Obitsu doll bodies, doll clothes, wigs and a photo space",
+  "ja": "アゾンやオビツのドール素体、ドール服・ウィッグを扱うドール専門店、撮影スペース併設"
  },
  "building_id": "onoden-honkan",
  "floors": [
@@ -72,7 +73,8 @@
   ],
   "regular_holiday": {
    "ko": "정기 휴일 없음(연시와 연 2회 재고조사 때 휴업)",
-   "en": "No regular closing day; shut over New Year and for stocktaking twice a year"
+   "en": "No regular closing day; shut over New Year and for stocktaking twice a year",
+   "ja": "定休日なし（年始と年2回の棚卸しは休業）"
   },
   "note": null,
   "source_url": "https://www.little-world.net/"
@@ -89,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 전기가 출구 앞의 랜드마크 오노덴 본관 4층. 4층 전체가 지스토어 아키바이고 리틀월드는 그 안의 돌 코너로, 별도 입구는 없다. 같은 층에 큐어메이드카페가 있다.",
-  "en": "4F of the Onoden main building, the landmark on Chuo-dori by the Electric Town exit. The whole floor is Gee Store Akiba and Little World is the doll corner inside it, with no separate entrance; Cure Maid Cafe is on the same floor."
+  "en": "4F of the Onoden main building, the landmark on Chuo-dori by the Electric Town exit. The whole floor is Gee Store Akiba and Little World is the doll corner inside it, with no separate entrance; Cure Maid Cafe is on the same floor.",
+  "ja": "中央通りの電気街口前のランドマークであるオノデン本館の4Fです。フロア全体がジーストア・アキバで、リトルワールドはその中のドールコーナーにあたり、専用の入口はありません。同じフロアにキュアメイドカフェがあります。"
  },
  "tips": {
   "ko": [
@@ -103,6 +106,12 @@
    "Stock centres on Azone Pureneemo-family and Obitsu doll bodies, wigs, mini outfits and props. Azone's own shop, Azone Labelshop, is a separate store on 7F of Radio Kaikan.",
    "There is no regular closing day, but it shuts over New Year and on the two stocktaking days each year.",
    "The shop exhibits regularly at the I-Doll doll events, so stock can be thin while an event is on."
+  ],
+  "ja": [
+   "ジーストア・アキバと営業時間と電話番号を共有するショップインショップなので、ジーストア・アキバが閉まればこちらも閉まります。",
+   "アゾンのピュアニーモ系やオビツのドール素体、ウィッグ、ミニサイズの衣装や小物が中心です。アゾンの直営店であるアゾンレーベルショップ秋葉原は、ラジオ会館7Fにある別の店舗です。",
+   "定休日はありませんが、年始と年2回の棚卸しの日は休みます。",
+   "ドールイベントのI・Dollに定期的に出店しているため、開催期間中は在庫が薄くなることがあります。"
   ]
  },
  "official_url": "https://www.little-world.net/",

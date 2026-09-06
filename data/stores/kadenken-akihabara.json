@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "PC-98·MSX 등 레트로 PC와 게임기 부품, 동인 하드웨어를 파는 라디오데파트 1층 매장",
-  "en": "Radio Depart stall selling retro PC and console hardware, parts and doujin hardware kits"
+  "en": "Radio Depart stall selling retro PC and console hardware, parts and doujin hardware kits",
+  "ja": "東京ラジオデパート1Fのレトロパソコン・ゲーム機のパーツと同人ハードの店"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일·수요일 정기휴무",
-   "en": "Closed Tuesdays and Wednesdays"
+   "en": "Closed Tuesdays and Wednesdays",
+   "ja": "火曜日・水曜日が定休日です"
   },
   "note": {
    "ko": "화·수요일은 정기휴무라 공휴일이라도 문을 열지 않는다. 1월 1~3일 휴무이며 그 밖에 부정기 휴무가 있고, 임시 휴업은 X(@kadenken)에 공지된다.",
-   "en": "Closed every Tuesday and Wednesday, public holidays included. Also shut 1-3 January, with occasional irregular closures announced on X (@kadenken)."
+   "en": "Closed every Tuesday and Wednesday, public holidays included. Also shut 1-3 January, with occasional irregular closures announced on X (@kadenken).",
+   "ja": "火曜日と水曜日は定休日で、祝日でも営業しません。1月1日から3日も休みで、そのほかに不定期の休みがあり、臨時休業はX（@kadenken）で告知されます。"
   },
   "source_url": "https://www.kadenken.com/view/guide"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 고가선을 따라 도보 2분, 전자부품 상가인 도쿄 라디오데파트(외신다1-10-11) 1층 안쪽의 작은 점포다. 건물 자체는 B1층~3층에 약 36개 부품점이 들어선 곳이라 층 안내판에서 점포명을 확인하고 들어가면 빠르다.",
-  "en": "Two minutes from the JR Akihabara Electric Town exit along the elevated railway, inside the Tokyo Radio Depart electronics-parts arcade (1-10-11). It is a small unit on the ground floor; the building packs about 36 parts shops into B1F-3F, so check the directory board on the way in."
+  "en": "Two minutes from the JR Akihabara Electric Town exit along the elevated railway, inside the Tokyo Radio Depart electronics-parts arcade (1-10-11). It is a small unit on the ground floor; the building packs about 36 parts shops into B1F-3F, so check the directory board on the way in.",
+  "ja": "JR秋葉原駅の電気街口から高架沿いに徒歩2分、電子部品の商店街である東京ラジオデパート（外神田1-10-11）の1F奥にある小さな店舗です。建物にはB1F〜3Fに約36軒の部品店が入っていますので、入口のフロアガイドで店名を確かめてから進むと早いです。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "Stock covers retro PCs such as PC-98, PC-88 and MSX, software from the Famicom to PlayStation era, doujin hardware and mod kits like SPFM, and spare parts for vintage Macs.",
    "Web stock and shop stock are tracked separately, so the shop does not do in-store pickup for online orders.",
    "The 'shop-only' items announced on X (@kadenken) cannot be bought by mail order - you have to come in."
+  ],
+  "ja": [
+   "火曜と水曜は休みで、営業する平日（月・木・金）の開店は12:30と、土日祝の11:00より遅くなります。",
+   "PC-98・PC-88・MSXなどのレトロパソコン、ファミコンからプレイステーション世代までのソフト、SPFMのような同人ハードや改造キット、旧型Macの補修パーツをあわせて扱っています。",
+   "通信販売の在庫と店頭の在庫は別に管理されているため、ネット注文の店頭受け取りや、キャンセルしてからの再注文は受け付けていません。",
+   "X（@kadenken）で告知される店舗限定商品は通信販売では買えず、店頭でのみ購入できます。"
   ]
  },
  "official_url": "https://www.kadenken.com/",

@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "심해 콘셉트 메이드 카페&바. 음료·간단한 식사와 캐스트 접객, 새벽 1시까지 영업",
-  "en": "Deep-sea concept maid cafe and bar: drinks, light food and cast service until 1:00am"
+  "en": "Deep-sea concept maid cafe and bar: drinks, light food and cast service until 1:00am",
+  "ja": "深海をコンセプトにしたメイドカフェ＆バー、ドリンクや軽食とキャストの接客で翌1:00まで"
  },
  "building_id": null,
  "floors": [
@@ -59,11 +60,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 안내는 16:00~翌1:00(25:00)이지만 표에는 24:00으로 끊어 표기했다. 정기휴일은 없다.",
-   "en": "The official site states 16:00 to 1:00 the next morning; the table caps it at 24:00. No regular closing day."
+   "en": "The official site states 16:00 to 1:00 the next morning; the table caps it at 24:00. No regular closing day.",
+   "ja": "公式の案内は16:00から翌朝1:00までですが、表では24:00で区切って記載しています。定休日はありません。"
   },
   "source_url": "https://akiba-mermaid.com/contact/"
  },
@@ -79,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 한 블록 동쪽, 아키하바라역과 스에히로초역 사이 뒷골목의 10층짜리 MT빌딩 9층. 1층 입구에서 엘리베이터를 타고 9층으로 올라간다. 같은 건물 10층에는 운영이 다른 걸즈바가 있으므로 엘리베이터 층 표시를 확인한다.",
-  "en": "9F of the ten-storey MT Building, one block east of Chuo-dori on the back street between Akihabara and Suehirocho stations. Take the lift from the ground-floor entrance; a separate girls bar occupies 10F of the same building, so check the floor sign."
+  "en": "9F of the ten-storey MT Building, one block east of Chuo-dori on the back street between Akihabara and Suehirocho stations. Take the lift from the ground-floor entrance; a separate girls bar occupies 10F of the same building, so check the floor sign.",
+  "ja": "中央通りから一本東、秋葉原駅と末広町駅の間の裏通りに建つ10階建てのMTビルの9Fです。1Fの入口からエレベーターで上がります。同じビルの10Fには運営の異なるガールズバーがあるので、階の表示を確かめてください。"
  },
  "tips": {
   "ko": [
@@ -91,6 +95,11 @@
    "Opens at 16:00, so it is shut during the day; open year-round, closing at 1:00 the next morning per the official site.",
    "The charge system and menu are posted only as images and no payment methods are stated, so bring cash to be safe.",
    "The cast working that day is posted daily on the official Schedule page and on X (@mermaid_bar)."
+  ],
+  "ja": [
+   "16:00開店なので昼の間は開いていません。年中無休で、公式の案内では閉店は翌朝1:00です。",
+   "料金システムとメニューは公式サイトに画像でしか載っておらず、支払い方法の案内もないので、現金を用意していくほうが安心です。",
+   "その日出勤するキャストは、公式サイトのスケジュールのページとX（@mermaid_bar）に毎日載ります。"
   ]
  },
  "official_url": "https://akiba-mermaid.com/",

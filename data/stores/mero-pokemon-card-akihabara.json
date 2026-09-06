@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "포켓몬카드만 취급하는 싱글 판매·매입 전문점. 듀얼 스페이스는 없다",
-  "en": "Pokemon cards only: singles sold and bought, no duel space"
+  "en": "Pokemon cards only: singles sold and bought, no duel space",
+  "ja": "ポケモンカードだけを扱うシングルの販売・買取専門店、デュエルスペースはなし"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -58,7 +59,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포 공식 X(@MERO_akihabara)가 개점 공지에 직접 적은 시간이다. 운영사 BABY STEPS 공식 점포 페이지에는 세 지점 모두 10:30~19:00으로 실려 있지만, 아키하바라점이 매일 올리는 개점 공지는 11:00 개점이다.",
-   "en": "These are the hours the shop's own X account (@MERO_akihabara) states in its opening posts. The BABY STEPS corporate store pages list 10:30-19:00 for all three branches, but the Akihabara shop's own daily opening posts say it opens at 11:00."
+   "en": "These are the hours the shop's own X account (@MERO_akihabara) states in its opening posts. The BABY STEPS corporate store pages list 10:30-19:00 for all three branches, but the Akihabara shop's own daily opening posts say it opens at 11:00.",
+   "ja": "店の公式X（@MERO_akihabara）が開店の知らせに書いている時間です。運営のBABY STEPSの公式の店舗ページには3店とも10:30〜19:00と載っていますが、秋葉原店が毎日出している開店の知らせでは11:00開店です。"
   },
   "source_url": "https://x.com/MERO_akihabara/status/2053653476459393493"
  },
@@ -74,7 +76,8 @@
  },
  "how_to_find": {
   "ko": "만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 5층. 가전 매장 층을 지나 엘리베이터로 5층에 올라가면 트레카모올 5층 플로어이고 그 안의 부스다.",
-  "en": "Fifth floor of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Ride the elevator past the electronics floors to 5F; the shop is a booth on the Toreca Mall floor."
+  "en": "Fifth floor of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Ride the elevator past the electronics floors to 5F; the shop is a booth on the Toreca Mall floor.",
+  "ja": "万世橋の交差点の角に建つ青いビル（エディオンAKIBA／ラオックス 秋葉原本店）の5Fです。家電のフロアをエレベーターで通り過ぎて5Fまで上がると、トレカモーールのフロアで、その中のブースです。"
  },
  "tips": {
   "ko": [
@@ -84,6 +87,10 @@
   "en": [
    "Singles sales and buyback only - there is no duel space in the shop itself, though the 5F floor has a shared battle space.",
    "Run by BABY STEPS; the official store pages list three branches - Shibuya, Nihonbashi and Akihabara."
+  ],
+  "ja": [
+   "ポケモンカードのシングルの販売と買取だけを行い、店そのものにデュエルスペースはありませんが、5Fのフロアには共用のバトルスペースがあります。",
+   "運営はBABY STEPSで、公式の店舗案内に載っているのは渋谷、日本橋、秋葉原の3店です。"
   ]
  },
  "official_url": "https://baby-steps.co.jp/stores/akihabara/",

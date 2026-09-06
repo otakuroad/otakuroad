@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "역 앞 라옥스 본점. 2층이 캐릭터 굿즈·호비 상품·가챠 코너",
-  "en": "Laox's Akihabara main store; 2F is character goods, hobby items and gacha machines"
+  "en": "Laox's Akihabara main store; 2F is character goods, hobby items and gacha machines",
+  "ja": "駅前のラオックス本店、2Fがキャラクターグッズ・ホビー商品・ガチャのコーナー"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -39,17 +40,20 @@
   {
    "floor": "1F",
    "ko": "시계, 브랜드 가방, 위스키, 금 제품",
-   "en": "Watches, brand bags, whisky and gold"
+   "en": "Watches, brand bags, whisky and gold",
+   "ja": "時計、ブランドバッグ、ウイスキー、金製品を扱います。"
   },
   {
    "floor": "2F",
    "ko": "캐릭터 굿즈, 호비 상품, 스포츠 용품, 가챠 기계",
-   "en": "Character goods, hobby items, sports goods and gacha machines"
+   "en": "Character goods, hobby items, sports goods and gacha machines",
+   "ja": "キャラクターグッズ、ホビー商品、スポーツ用品、ガチャの機械が並びます。"
   },
   {
    "floor": "3F",
    "ko": "미용가전, 화장품, 건강보조식품, 생활가전",
-   "en": "Beauty appliances, cosmetics, supplements and household electronics"
+   "en": "Beauty appliances, cosmetics, supplements and household electronics",
+   "ja": "美容家電、化粧品、健康補助食品、生活家電を扱います。"
   }
  ],
  "location": null,
@@ -75,7 +79,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 안내는 10:30~19:30이며 1층만 20:00까지 영업한다. 정기휴일 표기는 없다.",
-   "en": "The official listing gives 10:30-19:30, with 1F alone open until 20:00. No regular closing day is stated."
+   "en": "The official listing gives 10:30-19:30, with 1F alone open until 20:00. No regular closing day is stated.",
+   "ja": "公式の案内は10:30〜19:30で、1Fのみ20:00まで営業します。定休日の表記はありません。"
   },
   "source_url": "https://laox-globalretailing.co.jp/laox_store/stores/akihabara/"
  },
@@ -91,7 +96,8 @@
  },
  "how_to_find": {
   "ko": "外神田1-2-9 건물의 1~3층이 라옥스다. 애니·캐릭터 굿즈와 가챠 기계는 2층 한 층뿐이고, 1층은 시계·명품 가방·주류, 3층은 미용가전·화장품 매장이다.",
-  "en": "Laox occupies 1F-3F of the building at Sotokanda 1-2-9. Character goods, hobby items and gacha are on 2F only; 1F is watches, brand bags and liquor and 3F is beauty appliances and cosmetics."
+  "en": "Laox occupies 1F-3F of the building at Sotokanda 1-2-9. Character goods, hobby items and gacha are on 2F only; 1F is watches, brand bags and liquor and 3F is beauty appliances and cosmetics.",
+  "ja": "外神田1-2-9のビルの1F〜3Fがラオックスです。アニメ・キャラクターグッズとガチャの機械は2Fの1フロアだけで、1Fは時計・ブランドバッグ・酒類、3Fは美容家電と化粧品の売り場です。"
  },
  "tips": {
   "ko": [
@@ -103,6 +109,11 @@
    "If you are here for goods, 2F is the only floor that matters; the rest is duty-free souvenirs and beauty appliances.",
    "It closes at 19:30 (20:00 on 1F), earlier than most goods shops nearby.",
    "The jewellery shop Chow Tai Fook Akihabara shares 1F at the same address."
+  ],
+  "ja": [
+   "グッズが目的でしたら2Fだけを見れば十分です。ほかの階は免税のおみやげと美容家電が中心です。",
+   "19:30閉店（1Fのみ20:00）で、周りのグッズショップより早く閉まります。",
+   "同じ住所の1Fには、ジュエリーの周大福 秋葉原店も入っています。"
   ]
  },
  "official_url": "https://laox-globalretailing.co.jp/laox_store/stores/akihabara/",

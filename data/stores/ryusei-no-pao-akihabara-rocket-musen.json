@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·원피스 등 20여 종 트레카 싱글카드 판매와 매입, 1~3층 규모",
-  "en": "Pokemon, Yu-Gi-Oh and One Piece singles, bought and sold across three floors"
+  "en": "Pokemon, Yu-Gi-Oh and One Piece singles, bought and sold across three floors",
+  "ja": "ポケモンや遊戯王、ワンピースのシングルを売買する3フロアの店"
  },
  "building_id": null,
  "floors": [
@@ -77,7 +78,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 13:00 개점, 토·일·공휴일은 10:00 개점으로 다르다. 구글 지도와 일부 카드숍 디렉터리는 매일 10:00-20:00으로 표기하지만 공식 점포 안내 기준은 평일 13:00이다.",
-   "en": "Opens at 13:00 on weekdays but 10:00 on weekends and public holidays. Google and some card-shop directories list 10:00-20:00 every day; the chain's own shop page gives 13:00 on weekdays."
+   "en": "Opens at 13:00 on weekdays but 10:00 on weekends and public holidays. Google and some card-shop directories list 10:00-20:00 every day; the chain's own shop page gives 13:00 on weekdays.",
+   "ja": "平日は13:00、土日祝は10:00の開店で時間が異なります。Googleや一部のカードショップの情報サイトは毎日10:00-20:00と表記していますが、チェーンの公式の店舗ページでは平日は13:00です。"
   },
   "source_url": "https://pao-toreka.com/shop.html"
  },
@@ -93,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 오차노미즈 방면으로 도보 3분. '로켓 아마추어무선 본관 빌딩(ロケットアマチュア無線本館ビル)' 1~3층 전체를 쓴다. JR 고가 아래 무란AKIBA 본점과 오락실 도쿄 레저랜드 사이 블록이다.",
-  "en": "Three minutes from JR Akihabara's Electric Town Exit, walking towards Ochanomizu. It takes the whole of 1F-3F of the Rocket Amateur Radio Honkan building, on the block between Mulan AKIBA under the JR viaduct and the Tokyo Leisure Land arcade."
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, walking towards Ochanomizu. It takes the whole of 1F-3F of the Rocket Amateur Radio Honkan building, on the block between Mulan AKIBA under the JR viaduct and the Tokyo Leisure Land arcade.",
+  "ja": "JR秋葉原駅の電気街口から御茶ノ水方面へ徒歩3分です。ロケットアマチュア無線本館ビルの1階から3階までを丸ごと使っており、JRの高架下の買取販売市場ムーランAKIBA本店とゲームセンターの東京レジャーランドの間のブロックにあります。"
  },
  "tips": {
   "ko": [
@@ -107,6 +110,12 @@
    "Over twenty titles - Pokemon, Yu-Gi-Oh, Duel Masters, One Piece, Magic, Vanguard, Weiss Schwarz - both sold and bought.",
    "Phone 03-6206-9780; shop news is posted on the branch X account @PAOtoreka_akiba.",
    "Tax-free and card acceptance are not stated anywhere official, so bring cash to be safe."
+  ],
+  "ja": [
+   "平日の開店は13:00と遅めです。午前中にこのブロックを回るなら、10:00に開く土日祝に合わせるほうがよいでしょう。",
+   "ポケモン、遊戯王、デュエル・マスターズ、ワンピース、マジック、ヴァンガード、ヴァイスシュヴァルツなど20種類以上を扱い、販売と買取の両方を行っています。",
+   "問い合わせは03-6206-9780、店の情報は公式X（@PAOtoreka_akiba）に掲載されます。",
+   "免税やカード決済の可否は公式の案内に書かれていないので、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://pao-toreka.com/shop.html",

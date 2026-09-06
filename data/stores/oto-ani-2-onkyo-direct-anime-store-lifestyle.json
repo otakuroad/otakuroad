@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 콜라보 일본술과 의류·액세서리·손목시계를 파는 온쿄 직영 2호점",
-  "en": "ONKYO's second shop: anime-collab sake, apparel, accessories, watches and earphones"
+  "en": "ONKYO's second shop: anime-collab sake, apparel, accessories, watches and earphones",
+  "ja": "アニメコラボの日本酒・アパレル・アクセサリー・時計・イヤホンを扱うONKYO直営2号店"
  },
  "building_id": null,
  "floors": [
@@ -63,7 +64,8 @@
   ],
   "regular_holiday": {
    "ko": "월요일 휴무(월요일이 공휴일이면 영업하고 다음 날 화요일에 쉼)",
-   "en": "Closed Mondays; when Monday is a public holiday it opens and closes the following Tuesday instead"
+   "en": "Closed Mondays; when Monday is a public holiday it opens and closes the following Tuesday instead",
+   "ja": "月曜日（祝日の場合は営業し、翌火曜日が休み）"
   },
   "note": null,
   "source_url": "https://onkyoanime-lifestyle.com/about"
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 2분, 소토칸다 5초메 6번 블록에 선 13층 맨션 '오픈 레지덴시아 치요다 소토칸다'의 1층 노면 점포. 이어폰·커스텀 IEM 중심의 1호점(소토칸다 3-15-7 세키네빌딩)과는 걸어서 5분쯤 떨어진 별개 매장이다.",
-  "en": "Two minutes from Suehirocho station on the Ginza line, a street-level unit on the ground floor of the 13-storey Open Residencia Chiyoda Sotokanda condominium in Sotokanda 5-chome block 6. It is a separate shop about five minutes' walk from the earphone-focused No.1 store at Sotokanda 3-15-7."
+  "en": "Two minutes from Suehirocho station on the Ginza line, a street-level unit on the ground floor of the 13-storey Open Residencia Chiyoda Sotokanda condominium in Sotokanda 5-chome block 6. It is a separate shop about five minutes' walk from the earphone-focused No.1 store at Sotokanda 3-15-7.",
+  "ja": "銀座線の末広町駅から徒歩2分、外神田5丁目6番地に建つ13階建てのマンション、オープンレジデンシア千代田外神田の1階に入る路面店です。イヤホン中心の1号店（外神田3-15-7）からは徒歩5分ほど離れた別の店舗です。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,12 @@
    "Earphones, headphones and ear-moulded custom IEMs belong to the No.1 store; this second shop leads with collaboration sake and wine, apparel, accessories and watches.",
    "The 'Matured by ONKYO' sake and wine, aged with music vibration, can be tasted in the shop.",
    "Cash, credit cards (Visa, Mastercard, JCB, Amex, Diners, Discover, UnionPay), transport IC and other e-money, and QR payments such as PayPay, d-barai, Rakuten Pay, Alipay and WeChat Pay are all accepted; tax-free service is not stated officially."
+  ],
+  "ja": [
+   "定休日は月曜日です。月曜が祝日にあたる日は営業し、代わりに翌火曜日が休みになります。",
+   "イヤホンやヘッドホン、耳型を採って作るカスタムIEMは1号店の担当で、この2号店はコラボの日本酒やワイン、アパレル、アクセサリー、時計が中心です。",
+   "音楽の振動で熟成させた「Matured by ONKYO」の日本酒とワインは、店内で試飲できます。",
+   "現金のほか、クレジットカード（Visa、Mastercard、JCB、Amex、Diners、Discover、銀聯）、交通系ICなどの電子マネー、PayPay、d払い、楽天ペイ、Alipay、WeChat PayといったQR決済が使えます。免税についての公式な案内はありません。"
   ]
  },
  "official_url": "https://onkyoanime-lifestyle.com/",

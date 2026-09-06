@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·원피스 등 컬렉터용 트레카 싱글 판매와 매입, 대전 공간 없음",
-  "en": "Collector trading card singles and buyback: Pokemon, Yu-Gi-Oh!, One Piece. No duel space"
+  "en": "Collector trading card singles and buyback: Pokemon, Yu-Gi-Oh!, One Piece. No duel space",
+  "ja": "ポケモン・遊戯王・ワンピースなどコレクター向けトレカの販売と買取、対戦スペースなし"
  },
  "building_id": null,
  "floors": [
@@ -71,11 +72,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무. 공휴일도 같은 시간에 영업하며 휴무일은 매달 공식 영업 스케줄에 표시된다",
-   "en": "Irregular closing days; holidays keep the same hours and closures are marked on the monthly schedule"
+   "en": "Irregular closing days; holidays keep the same hours and closures are marked on the monthly schedule",
+   "ja": "不定休（祝日も同じ営業時間で、休業日は毎月の営業スケジュールに表示されます）"
   },
   "note": {
    "ko": "공식 사이트의 월별 '영업 스케줄' 이미지 기준으로 매일 14:00-20:00이며, 2026년 9월은 30일(수)만 점휴일이다. 일부 트레카 정보 사이트에는 12:00-18:30 같은 옛 시간이 남아 있다.",
-   "en": "The official monthly schedule image shows 14:00-20:00 every day; in September 2026 only the 30th is closed. Some card-shop directories still list older hours such as 12:00-18:30."
+   "en": "The official monthly schedule image shows 14:00-20:00 every day; in September 2026 only the 30th is closed. Some card-shop directories still list older hours such as 12:00-18:30.",
+   "ja": "公式サイトの月ごとの営業スケジュールの画像では毎日14:00〜20:00となっていて、2026年9月は30日のみ休業です。一部のトレカ情報サイトには12:00〜18:30といった古い営業時間が残っています。"
   },
   "source_url": "https://cardshopmagi.com/shop/magi-akiba/"
  },
@@ -91,7 +94,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리를 따라 아키하바라 방향으로 도보 약 3분(JR 아키하바라역 전기가 출구에서는 약 5분), 주오도리 서쪽 편 第26東ビル 5층. 레트로 게임 캠프(외신다 3-14-7)와 같은 블록의 바로 남쪽 건물이다.",
-  "en": "About three minutes from Suehirocho station exit 3 down Chuo-dori toward Akihabara (about five minutes from the JR Electric Town exit), on the west side of Chuo-dori in the Dai-26 Higashi Building, 5F. It is the building just south of Retro Game Camp at Sotokanda 3-14-7."
+  "en": "About three minutes from Suehirocho station exit 3 down Chuo-dori toward Akihabara (about five minutes from the JR Electric Town exit), on the west side of Chuo-dori in the Dai-26 Higashi Building, 5F. It is the building just south of Retro Game Camp at Sotokanda 3-14-7.",
+  "ja": "末広町駅3番出口から中央通りを秋葉原方面へ徒歩3分ほど（JR秋葉原駅の電気街口からは徒歩5分ほど）、中央通りの西側に建つ第26東ビルの5Fです。外神田3-14-7のレトロげーむキャンプ秋葉原店のすぐ南隣のビルです。"
  },
  "tips": {
   "ko": [
@@ -105,6 +109,12 @@
    "The official page lists only cash and QR payments (PayPay, Alipay, EPOS Pay); credit cards are not mentioned, so bring cash.",
    "There is no duel space - this is a sales and buyback counter only. Look elsewhere if you want to play.",
    "Closing days are irregular, so check the monthly schedule on the official page or X (@magi_Akiba) before going."
+  ],
+  "ja": [
+   "開店は14:00で、秋葉原のトレカ店のなかでも遅いほうです。午前中に行くと無駄足になります。",
+   "公式ページに載っている支払い方法は現金とQR決済（PayPay・Alipay・EPOS Pay）だけで、クレジットカードの記載はないため、現金を用意していってください。",
+   "対戦スペースはなく、販売と買取だけの店舗です。カードをプレイする場所を探しているなら、ほかの店を当たってください。",
+   "休みは不定期なので、行く前に公式ページの月ごとの営業スケジュールかX（@magi_Akiba）を確認してください。"
   ]
  },
  "official_url": "https://cardshopmagi.com/shop/magi-akiba/",

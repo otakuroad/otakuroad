@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "중고 애니 캐릭터 굿즈·피규어·디스크·게임 소프트와 매입 카운터",
-  "en": "Used anime character goods, figures, discs and game software, with a buyback counter"
+  "en": "Used anime character goods, figures, discs and game software, with a buyback counter",
+  "ja": "中古のアニメキャラクターグッズ・フィギュア・ディスク・ゲームソフトと買取カウンター"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(건물 휴관일 제외)",
-   "en": "Open year-round except building closure days"
+   "en": "Open year-round except building closure days",
+   "ja": "年中無休（建物の休館日を除く）"
   },
   "note": {
    "ko": "매입(買取) 접수는 11:45~18:00으로 판매 시간보다 짧고, 신작·준신작 위주로 받는다.",
-   "en": "The buyback counter runs only 11:45-18:00 and focuses on recent and near-new items."
+   "en": "The buyback counter runs only 11:45-18:00 and focuses on recent and near-new items.",
+   "ja": "買取の受付は11:45〜18:00と販売の時間より短く、新作・準新作が中心です。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e3%82%89%e3%81%97%e3%82%93%e3%81%b0%e3%82%93%e7%a7%8b%e8%91%89%e5%8e%9f%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 5층. 카이요도 호비로비 도쿄, 아키바노엑스 라지관점, 우주선, magi와 같은 층이다. 역 전기가 출구에서 도보 1분인 라디오회관 안이라 AKIBA 컬처즈존의 라신방 신관과는 다른 점포다.",
-  "en": "Radio Kaikan 5F, sharing the floor with Kaiyodo Hobby Lobby Tokyo, Akiba no X, Uchusen and magi. It is a separate shop from the Lashinbang Shinkan in AKIBA Cultures Zone."
+  "en": "Radio Kaikan 5F, sharing the floor with Kaiyodo Hobby Lobby Tokyo, Akiba no X, Uchusen and magi. It is a separate shop from the Lashinbang Shinkan in AKIBA Cultures Zone.",
+  "ja": "秋葉原ラジオ会館の5Fで、海洋堂ホビーロビー東京、アキバのエックス ラジ館店、宇宙船 秋葉原ラジオ会館店、magi 秋葉原ラジオ会館店と同じフロアです。AKIBAカルチャーズZONEのらしんばん秋葉原店新館とは別の店舗です。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,12 @@
    "Buyback is 11:45-18:00 only and is aimed at recent and near-new stock, so older goods may be turned away.",
    "Alongside character goods and figures it handles Blu-ray/DVD/CD, books and doujinshi, and game software and hardware.",
    "Akihabara now has three Lashinbang shops: the larger Shinkan on 1F-2F of AKIBA Cultures Zone, this one, and the adults-only AKIBA DEEP BASE at Sotokanda 4-4-3, which is not on this map."
+  ],
+  "ja": [
+   "2024年8月8日に開店しました。同じ場所にあったTRIO ラジオ会館店とIN・PuLseは閉店していますので、古い情報を見て訪ねないようご注意ください。",
+   "買取の受付は11:45〜18:00で、新作・準新作が中心のため、古いグッズは受け付けてもらえないことがあります。",
+   "キャラクターグッズ・フィギュアのほかに、ブルーレイ/DVD/CD、書籍・同人誌、ゲームのソフトとハードも扱っています。",
+   "秋葉原のらしんばんは3店舗あります。売り場の広い新館はAKIBAカルチャーズZONEの1F〜2Fにあり、もう1つは成人向けのらしんばんAKIBA DEEP BASE（外神田4-4-3）で、こちらはこの地図には載っていません。"
   ]
  },
  "official_url": "https://www.lashinbang.com/store/156/",

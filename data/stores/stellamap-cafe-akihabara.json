@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "소프맵 7층의 콜라보 카페. 애니·게임 작품별 한정 메뉴와 특전 굿즈",
-  "en": "Collaboration cafe on Sofmap 7F: rotating anime and game menus with bonus goods"
+  "en": "Collaboration cafe on Sofmap 7F: rotating anime and game menus with bonus goods",
+  "ja": "ソフマップ7Fのコラボカフェ、作品ごとに変わるアニメ・ゲームの限定メニューと特典グッズ"
  },
  "building_id": null,
  "floors": [
@@ -63,7 +64,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "라스트오더 19:15. 콜라보 개최 중에는 대체로 75분 시간제 예약으로 운영되며(예: 11:00·12:30·14:00·15:30·17:00·18:30 시작), 콜라보와 콜라보 사이 준비 기간에는 문을 닫는 날이 있다. 개최 일정과 예약은 공식 페이지와 X(@SofmapCafe)에서 공지된다.",
-   "en": "Last order 19:15. While a collaboration is running the cafe is normally reservation-based in 75-minute slots (starting 11:00, 12:30, 14:00, 15:30, 17:00 and 18:30), and it closes on some days between collaborations for changeover. Schedules and bookings are announced on the official page and on X (@SofmapCafe)."
+   "en": "Last order 19:15. While a collaboration is running the cafe is normally reservation-based in 75-minute slots (starting 11:00, 12:30, 14:00, 15:30, 17:00 and 18:30), and it closes on some days between collaborations for changeover. Schedules and bookings are announced on the official page and on X (@SofmapCafe).",
+   "ja": "ラストオーダーは19:15です。コラボ開催中は75分の時間制の予約で運営されるのが基本で（開始は11:00・12:30・14:00・15:30・17:00・18:30）、コラボとコラボの間の入れ替え期間には休みになる日があります。開催スケジュールと予約は公式ページとX（@SofmapCafe）で告知されます。"
   },
   "source_url": "https://www.sofmap.com/pages/?id=stellamap_cafe&sid=shop"
  },
@@ -79,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도에 면한 8층짜리 히라오카 빌딩, 소프맵 AKIBA 어뮤즈먼트관 7층. 남쪽 실크햇과 북쪽 HEY 오락실 사이의 SOFMAP 간판이 목표이며, 1층 피규어 매장으로 들어가 엘리베이터로 7층까지 올라간다. JR 아키하바라역 전기가 출구에서 도보 약 3분.",
-  "en": "7F of the eight-storey Hiraoka Building on the west side of Chuo-dori, inside Sofmap AKIBA Amusement Hall. Look for the SOFMAP sign between Silk Hat to the south and the HEY arcade to the north, enter on the 1F figure floor and take the lift to 7F. About 3 minutes from the JR Akihabara Electric Town exit."
+  "en": "7F of the eight-storey Hiraoka Building on the west side of Chuo-dori, inside Sofmap AKIBA Amusement Hall. Look for the SOFMAP sign between Silk Hat to the south and the HEY arcade to the north, enter on the 1F figure floor and take the lift to 7F. About 3 minutes from the JR Akihabara Electric Town exit.",
+  "ja": "中央通りの西側に建つ8階建ての平岡ビル、ソフマップAKIBA アミューズメント館の7Fです。南のシルクハット秋葉原と北のゲームセンターHey（Hirose Entertainment Yard）の間にあるSOFMAPの看板が目印で、1Fのフィギュア売り場から入ってエレベーターで7Fに上がります。JR秋葉原駅電気街口から徒歩約3分です。"
  },
  "tips": {
   "ko": [
@@ -95,6 +98,13 @@
    "Without a reservation you can still walk in first-come from 15 minutes after a slot starts if seats are free.",
    "Ordering from the collab menu earns a bonus such as a random acrylic coaster, and a matching POP UP SHOP sells goods on the same floor and in Sofmap stores.",
    "Forty seats, all non-smoking, with free Wi-Fi."
+  ],
+  "ja": [
+   "コラボ作品は2〜4週間ごとに変わります。2026年9月時点では、9月17日から10月4日まで「花の芥-Re;bloom-」のコラボカフェが予定されています。",
+   "予約はTablecheckで受け付けており、1人1回500円の予約手数料をカードで支払います。返金はされませんが、事前予約特典のカードがもらえます。開催の前日と当日の予約に手数料はかかりません。",
+   "予約がなくても、各回の開始15分後から空席があれば先着順で入れます。",
+   "コラボメニューを注文するとランダムのアクリルコースターなどの特典が付き、同じ時期に同じフロアとソフマップの店舗でPOP UP SHOPのグッズが販売されます。",
+   "40席は全席禁煙で、無料Wi-Fiが使えます。"
   ]
  },
  "official_url": "https://www.sofmap.com/pages/?id=stellamap_cafe&sid=shop",

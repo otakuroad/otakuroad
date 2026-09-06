@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "시간당 880엔 차지의 메이드 카페, 오므라이스·체키와 메이드 라이브 무대",
-  "en": "Maid cafe with an 880 yen hourly charge, omurice, cheki photos and live song slots"
+  "en": "Maid cafe with an 880 yen hourly charge, omurice, cheki photos and live song slots",
+  "ja": "1時間880円チャージのメイドカフェ、オムライスやチェキ撮影と歌のライブ"
  },
  "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "월요일과 화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점, 마감은 매일 23:00이다. 요금은 1시간 880엔(1드링크 이상 주문), 연장 1시간 880엔이다.",
-   "en": "Mondays and Tuesdays open at 11:30; every other day and public holidays open at 10:30, all closing at 23:00. The charge is 880 yen an hour with one order, and 880 yen for each extension."
+   "en": "Mondays and Tuesdays open at 11:30; every other day and public holidays open at 10:30, all closing at 23:00. The charge is 880 yen an hour with one order, and 880 yen for each extension.",
+   "ja": "月曜と火曜は11:30開店、それ以外の曜日と祝日は10:30開店で、閉店はいずれも23:00です。料金は1時間880円（1オーダー制）で、延長は1時間880円です。"
   },
   "source_url": "https://maidreamin.com/shop/detail.html?id=3"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 3분. 주오도리변 공익 소토칸다 제1빌딩(共益外神田第1ビル) 4층으로, 1·지하1층 카드숍 신소쿠 아키하바라 3호점, 2·3층 스루가야 아키하바라 프라모델관, 5층 마론노카쿠레가, 8층 마이퍼스트메이드가 같은 건물에 있다. 1층 카드숍 옆 통로의 엘리베이터로 4층에 오른다.",
-  "en": "Two minutes from Ginza-line Suehirocho and three from JR Akihabara, on 4F of the Kyoei Sotokanda No.1 Building along Chuo-dori - the same building as Card Shop Shinsoku Akihabara 3 (1F and B1F), Surugaya's Plastic Model Store (2F-3F), Maron no Kakurega (5F) and MyFirstMaid (8F). Take the lift in the passage beside the ground-floor card shop up to 4F."
+  "en": "Two minutes from Ginza-line Suehirocho and three from JR Akihabara, on 4F of the Kyoei Sotokanda No.1 Building along Chuo-dori - the same building as Card Shop Shinsoku Akihabara 3 (1F and B1F), Surugaya's Plastic Model Store (2F-3F), Maron no Kakurega (5F) and MyFirstMaid (8F). Take the lift in the passage beside the ground-floor card shop up to 4F.",
+  "ja": "銀座線の末広町駅から徒歩2分、JR秋葉原駅から徒歩3分、中央通り沿いの共益外神田第1ビルの4Fです。1FとB1Fにシンソク秋葉原3号店、2F〜3Fに駿河屋 秋葉原プラモデル館、5Fにマロンの隠れ家 秋葉原店、8FにMyFirstMaidが入る同じビルです。1Fのカードショップの横の通路にあるエレベーターで4Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,13 @@
    "VISA, Mastercard, JCB, AMEX and Diners cards are taken, as are PayPay, au Pay, Rakuten Pay and UnionPay.",
    "Mondays and Tuesdays open at 11:30 rather than 10:30. Seats can be reserved through the official site.",
    "This branch runs frequent events (maid birthdays, inter-branch contests); the branch X account @idol_maidreamin posts the schedule."
+  ],
+  "ja": [
+   "1時間880円のチャージと1オーダー以上が基本で、延長も1時間880円です。飲食代は別にかかります。",
+   "46席で全席禁煙、喫煙スペースは別にあります。携帯の充電と無料Wi-Fiが使えます。",
+   "VISA、Mastercard、JCB、AMEX、ダイナースのクレジットカードのほか、PayPay、au PAY、楽天ペイ、銀聯（ユニオンペイ）も使えます。",
+   "月曜と火曜は10:30ではなく11:30の開店です。公式サイトから席の予約ができます。",
+   "メイドの誕生日イベントや店舗対抗の企画など、この店舗のイベントが頻繁に開かれます。日程は店舗の公式X（@idol_maidreamin）に載ります。"
   ]
  },
  "official_url": "https://maidreamin.com/shop/detail.html?id=3",

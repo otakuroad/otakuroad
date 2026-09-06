@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬 등 트레카 싱글과 슬리브·플레이매트, 카드 매입 카운터",
-  "en": "TCG singles (Yu-Gi-Oh!, Pokemon and more), sleeves, playmats and a card buyback counter"
+  "en": "TCG singles (Yu-Gi-Oh!, Pokemon and more), sleeves, playmats and a card buyback counter",
+  "ja": "遊戯王・ポケモンなどのトレカシングルとスリーブ・プレイマット、カード買取カウンター"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(빌딩 휴관일 제외)",
-   "en": "Open year-round except building closure days"
+   "en": "Open year-round except building closure days",
+   "ja": "年中無休（ビルの休館日を除く）"
   },
   "note": {
    "ko": "건물 전체 안내는 11:00~21:00이지만 3층 점포는 20:30 마감. 매입 접수는 12:00~19:15까지만 받는다.",
-   "en": "The building lists 11:00-21:00, but the 3F shops close at 20:30. Buyback reception runs 12:00-19:15 only."
+   "en": "The building lists 11:00-21:00, but the 3F shops close at 20:30. Buyback reception runs 12:00-19:15 only.",
+   "ja": "建物全体の案内は11:00〜21:00ですが、3Fの店舗は20:30で閉まります。買取の受付は12:00〜19:15までです。"
   },
   "source_url": "https://www.akibacultureszone.com/shop/34"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "1층 라신방 입구로 들어가 3층으로 올라가면 하비코로 완구 계열 매장 세 곳과 철도모형점 스케루톤이 한 층에 모여 있고, 그중 카드 케이스가 늘어선 카운터가 이 매장이다.",
-  "en": "Go up to 3F from the 1F Lashinbang entrance: the floor holds three Havikoro Toy shops plus the model-train shop Skeleton, and this one is the counter lined with card cases."
+  "en": "Go up to 3F from the 1F Lashinbang entrance: the floor holds three Havikoro Toy shops plus the model-train shop Skeleton, and this one is the counter lined with card cases.",
+  "ja": "1Fのらしんばん秋葉原店新館の入口から入って3Fに上がると、ハビコロ玩具系列の3店舗と鉄道模型のすけるとんが同じフロアに並んでいて、そのうちカードのケースが並ぶカウンターがこのお店です。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,11 @@
    "The titles handled are mainly Yu-Gi-Oh!, Weiss Schwarz, Pokemon and One Piece cards, plus snack-food cards and stickers, Pokemon-bread stickers, Animal Crossing amiibo cards and Phantom Trading; supplies such as sleeves, playmats and deck cases are sold too.",
    "Battle Spirits was dropped at the end of 2025 and only shelf stock remains, while data-carddass titles are handled by the company's Radio Kaikan branch (@kaizoku_card3).",
    "The same counter also sells and buys Havikoro Toy's character goods and figures."
+  ],
+  "ja": [
+   "扱うタイトルは遊戯王・ヴァイスシュヴァルツ・ポケモンカード・ワンピースカードが中心で、食玩のカードやシール、ポケモンパンのシール、どうぶつの森のamiiboカード、ファントラも扱っています。スリーブ・プレイマット・デッキケースといったサプライも一緒に販売しています。",
+   "バトルスピリッツは2025年で取り扱いが終わり店頭在庫のみになっていて、データカードダス（DCD）系は同じ会社のカードショップ買賊王 ラジオ会館店（@kaizoku_card3）が担当しています。",
+   "同じカウンターで、ハビコロ玩具のキャラクターグッズ・フィギュアの販売と買取も行っています。"
   ]
  },
  "official_url": "https://www.kaizokuo.online/",

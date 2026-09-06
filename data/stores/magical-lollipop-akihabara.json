@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "마법·마녀 콘셉트 메이드카페. 오므라이스 등 식사와 메이드 체키 촬영",
-  "en": "Magic-themed maid cafe serving omurice and drinks, with cheki photos with the maids"
+  "en": "Magic-themed maid cafe serving omurice and drinks, with cheki photos with the maids",
+  "ja": "魔法をテーマにしたメイドカフェ、オムライスやドリンクとメイドとのチェキ"
  },
  "building_id": "tit-akihabara",
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트에는 영업시간 표기가 없어, 운영사 주식회사 YUKIMI가 낸 보도자료의 '평일 17시~23시, 토·일·공휴일 15시~23시'를 따랐다. 정기 휴무일은 공식 발표가 없다.",
-   "en": "The shop's own site publishes no hours; these follow operator YUKIMI's own press release - weekdays 17:00-23:00, Sat/Sun/holidays 15:00-23:00. No regular closing day is officially announced."
+   "en": "The shop's own site publishes no hours; these follow operator YUKIMI's own press release - weekdays 17:00-23:00, Sat/Sun/holidays 15:00-23:00. No regular closing day is officially announced.",
+   "ja": "公式サイトには営業時間の表記がないため、運営会社の株式会社YUKIMIが出したプレスリリースの平日17:00〜23:00、土・日・祝日15:00〜23:00に従っています。定休日の公式な発表はありません。"
   },
   "source_url": "https://prtimes.jp/main/html/rd/p/000000001.000138894.html"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 동쪽, 트레이더 아키하바라 본점 빌딩 바로 뒤 골목에 있는 지상 5층 건물 TIT秋葉原의 3층. 같은 건물 지하 1층에 Like a Doll, 2층에 아키바 절대영역 A.D.2045가 있다.",
-  "en": "Three minutes from JR Akihabara's Electric Town Exit. TIT Akihabara is the five-storey building on the back street just east of the Trader Akihabara main-store building; this shop is on 3F, with Like a Doll in the basement and Akiba Zettai Ryoiki A.D.2045 on 2F."
+  "en": "Three minutes from JR Akihabara's Electric Town Exit. TIT Akihabara is the five-storey building on the back street just east of the Trader Akihabara main-store building; this shop is on 3F, with Like a Doll in the basement and Akiba Zettai Ryoiki A.D.2045 on 2F.",
+  "ja": "JR秋葉原駅の電気街口から徒歩3分です。TIT秋葉原はトレーダー秋葉原本店のビルのすぐ東側の裏通りに建つ地上5階建てのビルで、この店はその3F、地下1階にLike a Doll、2Fにアキバ絶対領域 A.D.2045が入っています。"
  },
  "tips": {
   "ko": [
@@ -91,6 +94,10 @@
   "en": [
    "The official site does not publish opening hours; check the shop's X account (@maid_Magical_L) before going.",
    "Like a Doll in the basement of the same building is a sister shop under the same operator, YUKIMI Inc."
+  ],
+  "ja": [
+   "公式サイトに営業時間の案内はありません。行く前に店のX（@maid_Magical_L）の告知を確認しておくと安心です。",
+   "同じビルの地下1階にあるLike a Dollは、同じ運営会社である株式会社YUKIMIの姉妹店です。"
   ]
  },
  "official_url": "https://akiba-maidcafe.co.jp/magical-lollipop/",

@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "A-FRONT 4층 칠죄종 콘셉트 카페. 오무라이스·피자·칵테일, 30분 300엔 차지",
-  "en": "Seven-deadly-sins concept cafe on A-FRONT 4F: omurice, pizza and cocktails"
+  "en": "Seven-deadly-sins concept cafe on A-FRONT 4F: omurice, pizza and cocktails",
+  "ja": "A-FRONT 4階の七つの大罪コンセプトカフェ、オムライスやピザとカクテル"
  },
  "building_id": "a-front",
  "floors": [
@@ -63,7 +64,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 기준 평일 18:00~24:00, 토·일·공휴일 17:00~24:00. 정기휴일 안내는 공식 사이트에 없다.",
-   "en": "18:00-24:00 on weekdays and 17:00-24:00 at weekends and public holidays, per the official site; no regular closing day is stated."
+   "en": "18:00-24:00 on weekdays and 17:00-24:00 at weekends and public holidays, per the official site; no regular closing day is stated.",
+   "ja": "公式サイトによると平日は18:00-24:00、土日祝は17:00-24:00です。定休日の案内は公式サイトにありません。"
   },
   "source_url": "https://sevendeadly.moe/index.html"
  },
@@ -79,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역·스에히로초역에서 각각 도보 3분. 1층에 대만 음료점 CoCo都可가 들어 있는 A-FRONT 빌딩 4층으로, 옆 입구의 엘리베이터를 탄다. 같은 건물 6·7층은 마지컬 트윈테일, 8층은 래빗 캐슬, 10층은 스위트 캣으로 층마다 운영사가 다르다.",
-  "en": "Three minutes from both JR Akihabara and Suehirocho, on 4F of A-FRONT — the tower with the CoCo Tokka bubble-tea stand at street level; take the lift beside it. Different operators run each floor: Magical Twintail on 6F-7F, Rabbit Castle on 8F and Sweet Cat on 10F."
+  "en": "Three minutes from both JR Akihabara and Suehirocho, on 4F of A-FRONT — the tower with the CoCo Tokka bubble-tea stand at street level; take the lift beside it. Different operators run each floor: Magical Twintail on 6F-7F, Rabbit Castle on 8F and Sweet Cat on 10F.",
+  "ja": "JR秋葉原駅からも末広町駅からも徒歩3分、1階にタピオカドリンクのCoCo都可が入るビルA-FRONTの4階で、その横のエレベーターで上がります。フロアごとに運営会社が違い、6階と7階がメイドカフェ マジカルツインテール、8階がRabbit Castle（ラビットキャッスル）、10階がすい〜ときゃっとです。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,12 @@
    "Pricing is a 300 yen per 30 minutes time charge plus a 1,700 yen all-you-can-drink plan (soft drinks, or cocktails for the same price) and food from 600 to 2,000 yen.",
    "It works as a cafe bar, serving omurice, curry and pizza alongside cocktails.",
    "No payment methods are stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "平日は18:00、土日祝は17:00の開店なので、昼間は営業していません。",
+   "料金は30分300円の時間チャージに、1,700円の飲み放題（ソフトドリンク、同じ料金でカクテルも可）と600〜2,000円のフードが加わる仕組みです。",
+   "オムライスやカレー、ピザといった食事をカクテルと一緒に出すカフェバーです。",
+   "支払い方法の公式な案内がないので、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://sevendeadly.moe/",

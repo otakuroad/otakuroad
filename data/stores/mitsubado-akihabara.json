@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 코스프레 의상 중고 판매와 매입 전문점. 의상 대여·메이크업 촬영 체험도 운영",
-  "en": "Used anime and game cosplay costumes, bought and sold, plus costume-rental photo service"
+  "en": "Used anime and game cosplay costumes, bought and sold, plus costume-rental photo service",
+  "ja": "アニメやゲームのコスプレ衣装の中古販売と買取、衣装レンタルの撮影サービス"
  },
  "building_id": null,
  "floors": [
@@ -61,7 +62,8 @@
   ],
   "regular_holiday": {
    "ko": "연말연시 외 무휴",
-   "en": "Open all year except the New Year period"
+   "en": "Open all year except the New Year period",
+   "ja": "年末年始を除き無休"
   },
   "note": null,
   "source_url": "https://www.mitubado.com/access"
@@ -78,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리 서쪽 뒷길의 사토(佐藤)빌딩 1층 길가 매장이며, 공식 안내대로 메이드복 전문점 캔디프루츠(KT빌딩) 대각선 맞은편이다.",
-  "en": "One minute from Suehirocho Station on the Ginza Line, five minutes from JR Akihabara. A street-level unit on the ground floor of the Sato Building on the back street west of Chuo-dori; as the shop's own directions say, it is diagonally opposite the maid-uniform shop Candy Fruit in the KT Building."
+  "en": "One minute from Suehirocho Station on the Ginza Line, five minutes from JR Akihabara. A street-level unit on the ground floor of the Sato Building on the back street west of Chuo-dori; as the shop's own directions say, it is diagonally opposite the maid-uniform shop Candy Fruit in the KT Building.",
+  "ja": "銀座線末広町駅から徒歩1分、JR秋葉原駅から徒歩5分です。中央通りの西側の裏通りに建つ佐藤ビルの1Fに入る路面の店舗で、店自身の案内どおり、KTビルに入るメイド服の店キャンディフルーツ秋葉原店の斜向かいにあります。"
  },
  "tips": {
   "ko": [
@@ -90,6 +93,11 @@
    "The shop moved to this address on 23 May 2023 and states a stock of about 1,000 items.",
    "It also buys costumes over the counter; the antique-dealer licence number is published on the site.",
    "Since March 2026 it runs a hands-free cosplay photo service bundling professional make-up with costume rental."
+  ],
+  "ja": [
+   "2023年5月23日に現在の場所へ移転し、在庫は約1,000点と案内しています。",
+   "店頭で衣装の買取も受け付けており、古物商許可番号をサイトで公開しています。",
+   "2026年3月からは、プロによるメイクと衣装レンタルをセットにした手ぶらでのコスプレ撮影サービスを行っています。"
   ]
  },
  "official_url": "https://www.mitubado.com/",

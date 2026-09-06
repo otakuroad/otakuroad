@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "메이드 카페 지점, 카운터 14석·테이블 16석. 오므라이스와 메이드 체키 촬영",
-  "en": "Maidreamin branch with 14 counter and 16 table seats: omurice and cheki photos"
+  "en": "Maidreamin branch with 14 counter and 16 table seats: omurice and cheki photos",
+  "ja": "カウンター14席・テーブル16席のめいどりーみんの店舗、オムライスとチェキ"
  },
  "building_id": null,
  "floors": [
@@ -67,11 +68,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "월·화요일만 11:30 개점이고 나머지 요일과 공휴일은 10:30 개점. 폐점은 매일 23:00.",
-   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily."
+   "en": "Opens at 11:30 on Monday and Tuesday, 10:30 on all other days and public holidays; closes at 23:00 daily.",
+   "ja": "月曜と火曜は11:30、それ以外の曜日と祝日は10:30に開店します。閉店は毎日23:00です。"
   },
   "source_url": "https://maidreamin.com/shop/detail.html?id=2"
  },
@@ -87,7 +90,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역에서 도보 3분. 주오도리 서쪽 뒷골목의 6층짜리 제니야(銭谷) 빌딩 3층이며, 같은 건물에 다른 콘셉트 카페들이 함께 들어와 있으니 층 표시를 확인한다. 2025년 5월 17일 '秋葉原ひみつきち'에서 지금 이름으로 바뀌어 옛 간판·지도 표기가 남아 있다.",
-  "en": "Three minutes from JR Akihabara, on 3F of the six-storey Zeniya Building on the back streets west of Chuo-dori; other concept cafes share the building, so check the floor sign. It was renamed from 'Akihabara Himitsukichi' on 17 May 2025, so the old name still appears on some maps."
+  "en": "Three minutes from JR Akihabara, on 3F of the six-storey Zeniya Building on the back streets west of Chuo-dori; other concept cafes share the building, so check the floor sign. It was renamed from 'Akihabara Himitsukichi' on 17 May 2025, so the old name still appears on some maps.",
+  "ja": "JR秋葉原駅から徒歩3分、中央通りの西側の裏通りに建つ6階建ての銭谷ビルの3Fです。同じビルにはほかのコンセプトカフェも入っているので、階数の表示を確認してください。2025年5月17日に秋葉原ひみつきちから改名したため、地図には今も古い名前が残っています。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,11 @@
    "880 yen per person per hour plus one order, and 880 yen for each extension; HYPER slots are 3,800 yen an hour with free drinks.",
    "It is small (14 counter and 16 table seats), so book ahead for a group. Opens 11:30 Mon-Tue and 10:30 otherwise.",
    "No smoking, free Wi-Fi and phone charging. Major credit cards plus PayPay, au PAY, Rakuten Pay and UnionPay are accepted."
+  ],
+  "ja": [
+   "料金は1人1時間880円と1オーダー制で、延長も1時間880円です。HYPERの時間帯は1時間3,800円で飲み放題になります。",
+   "カウンター14席・テーブル16席の小さな店舗なので、団体で行くときは予約しておくと安心です。開店は月・火が11:30、それ以外は10:30です。",
+   "全席禁煙で、無料のWi-Fiと携帯電話の充電が使えます。主要なクレジットカードのほか、PayPay・au PAY・楽天ペイ・銀聯カードが使えます。"
   ]
  },
  "official_url": "https://maidreamin.com/shop/detail.html?id=2",

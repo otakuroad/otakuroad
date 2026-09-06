@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "조형 메이커 카이요도 직영점. 리볼텍·캡슐Q·소프비·채색 완성품 신작을 취급",
-  "en": "Kaiyodo's own shop: Revoltech, Capsule Q gacha figures, sofubi and painted statues"
+  "en": "Kaiyodo's own shop: Revoltech, Capsule Q gacha figures, sofubi and painted statues",
+  "ja": "造形メーカー海洋堂の直営店、リボルテック・カプセルQ・ソフビ・彩色完成品の新作"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -62,7 +63,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "라디오회관 공식 매장 페이지 기준 11:00~20:00. 카이요도 자체 매장 페이지는 2014년 이후 갱신이 없는 상태로 평일 12:00~20:00 / 토·일·공휴일 11:00~19:00을 계속 표기하고 있어, 11시대와 19시 이후 방문은 확인 권장",
-   "en": "11:00–20:00 per Radio Kaikan's official shop page. Kaiyodo's own shop page, unchanged since 2014, still lists weekdays 12:00–20:00 and Sat/Sun/holidays 11:00–19:00, so confirm before arriving before noon or after 19:00"
+   "en": "11:00–20:00 per Radio Kaikan's official shop page. Kaiyodo's own shop page, unchanged since 2014, still lists weekdays 12:00–20:00 and Sat/Sun/holidays 11:00–19:00, so confirm before arriving before noon or after 19:00",
+   "ja": "秋葉原ラジオ会館の公式店舗ページでは11:00〜20:00です。海洋堂自身の店舗ページは2014年以降更新されないまま平日12:00〜20:00、土・日・祝11:00〜19:00と表示し続けていますので、11時台や19時以降に行く場合は確認をおすすめします。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/kaiyodo/"
  },
@@ -78,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "JR 전기가 출구 정면의 라디오회관 1F로 들어가 에스컬레이터나 엘리베이터로 5F. 같은 층에 라신방·magi·우주선·아키바노엑스·돌리테리아가 있고, 리볼텍·소프비가 진열된 카이요도 로고 매장이 목적지",
-  "en": "Enter Radio Kaikan (facing the JR Denkigai exit) and take the escalator or elevator to 5F. It shares the floor with Lashinbang, magi, Uchusen, Akiba no X and Dolly Teria; look for the Kaiyodo logo and the Revoltech / sofubi display."
+  "en": "Enter Radio Kaikan (facing the JR Denkigai exit) and take the escalator or elevator to 5F. It shares the floor with Lashinbang, magi, Uchusen, Akiba no X and Dolly Teria; look for the Kaiyodo logo and the Revoltech / sofubi display.",
+  "ja": "JRの電気街口の正面に建つ秋葉原ラジオ会館の1Fから入り、エスカレーターかエレベーターで5Fに上がります。同じ階にらしんばん秋葉原ラジオ会館店、magi 秋葉原ラジオ会館店、宇宙船 秋葉原ラジオ会館店、アキバのエックス ラジ館店、ドーリーテリア秋葉原ラジオ会館店があり、海洋堂のロゴとリボルテック・ソフビの陳列が目印です。"
  },
  "tips": {
   "ko": [
@@ -92,6 +95,12 @@
    "Uchusen (12:00–19:30), Akiba no X and magi share the same 5F, so figures can be compared on one floor",
    "Neither official page mentions tax-free service or card payment; ask at the counter",
    "New arrivals and shop exclusives are posted on X (@HobbyLobbyTokyo)"
+  ],
+  "ja": [
+   "営業時間の表記が2つの公式ページで違います。ラジオ会館のページは11:00〜20:00、海洋堂自身のページ（2014年以降更新なし）は平日12:00開店ですので、11時台の来店は空振りの可能性を見込んでおいてください。",
+   "同じ5Fに宇宙船 秋葉原ラジオ会館店（12:00〜19:30）、アキバのエックス ラジ館店、magi 秋葉原ラジオ会館店が集まっていて、フィギュアを1フロアで見比べられます。",
+   "免税やカード決済については、どちらの公式ページにも記載がありませんのでレジでご確認ください。",
+   "新製品の入荷や店舗限定品の情報はX（@HobbyLobbyTokyo）に出ます。"
   ]
  },
  "photo": null,

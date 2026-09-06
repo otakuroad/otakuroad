@@ -41,7 +41,8 @@
  ],
  "one_line": {
   "ko": "MTG·포켓몬·유희왕 TCG와 보드게임·TRPG, 신품·중고 프라모델·피규어를 한 층에 모은 종합점",
-  "en": "TCG (MTG, Pokemon, Yu-Gi-Oh), board games, TRPG, plus new and used figures and model kits"
+  "en": "TCG (MTG, Pokemon, Yu-Gi-Oh), board games, TRPG, plus new and used figures and model kits",
+  "ja": "TCG（MTG・ポケモン・遊戯王）とボードゲーム・TRPG、新品・中古のフィギュアとプラモデル"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -51,7 +52,8 @@
   {
    "floor": "6F",
    "ko": "한 층을 게임 플로어(TCG 팩·싱글, 보드게임, TRPG, 주사위, 서플라이)와 캐릭터 플로어(프라모델, 피규어, 식완, 이치방쿠지, 미니카, 공구·재료)로 나눠 운영",
-   "en": "One floor split into a Game floor (TCG packs and singles, board games, TRPG, dice, supplies) and a Character floor (model kits, figures, candy toys, Ichiban Kuji, Mini 4WD, tools and materials)"
+   "en": "One floor split into a Game floor (TCG packs and singles, board games, TRPG, dice, supplies) and a Character floor (model kits, figures, candy toys, Ichiban Kuji, Mini 4WD, tools and materials)",
+   "ja": "一つのフロアをゲームフロア（TCGのパックとシングル、ボードゲーム、TRPG、ダイス、サプライ）とキャラクターフロア（プラモデル、フィギュア、食玩、一番くじ、ミニ四駆、工具・材料）に分けて営業しています。"
   }
  ],
  "location": null,
@@ -76,11 +78,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입 접수는 12:00–19:00. 캐릭터 플로어와 게임 플로어의 영업시간은 같다. 유희왕·포켓몬 카드 매입은 사전에 매장 또는 전화로 상담 필요",
-   "en": "Buyback counter 12:00–19:00. The Character floor and the Game floor keep the same hours. Ask in store or call before bringing Yu-Gi-Oh or Pokemon cards for buyback"
+   "en": "Buyback counter 12:00–19:00. The Character floor and the Game floor keep the same hours. Ask in store or call before bringing Yu-Gi-Oh or Pokemon cards for buyback",
+   "ja": "買取カウンターは12:00〜19:00です。キャラクターフロアとゲームフロアの営業時間は同じです。遊戯王とポケモンカードの買取は、持ち込む前に店頭か電話でご相談ください。"
   },
   "source_url": "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9f%e6%9c%ac%e5%ba%97%e2%98%85%e3%83%9f%e3%83%b3%e3%83%88/"
  },
@@ -96,7 +100,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 앞 라디오회관 1F 정면 입구로 들어가 에스컬레이터나 엘리베이터로 6F. 6F 한 층 전체가 이 매장이며, 카드·보드게임 쪽과 프라모델·피규어 쪽으로 나뉜다.",
-  "en": "Enter Radio Kaikan (in front of JR Akihabara Electric Town exit) at the 1F main entrance and take the escalator or elevator to 6F. The whole 6F is this store, split into a card/board game side and a model kit/figure side."
+  "en": "Enter Radio Kaikan (in front of JR Akihabara Electric Town exit) at the 1F main entrance and take the escalator or elevator to 6F. The whole 6F is this store, split into a card/board game side and a model kit/figure side.",
+  "ja": "JR秋葉原駅電気街口の前のラジオ会館の1Fの正面入口から入り、エスカレーターかエレベーターで6Fへ上がります。6Fはフロア全体がこの店で、カード・ボードゲームの側と、プラモデル・フィギュアの側に分かれています。"
  },
  "tips": {
   "ko": [
@@ -110,6 +115,12 @@
    "Board game and TRPG buyback is not taken here. Only the separate Akihabara RPG Shop handles it — Sotokanda 4-6-1, 6F, about 10 minutes north, opening at 12:00 on weekdays.",
    "The 16-seat duel room is for tournaments only, with no free-play seating. Event schedules are posted on the Game floor X account (@YS_AKIHABARAGAM); Character floor arrivals on @YS_G_MINT.",
    "Scale and military models are not stocked. The store page still points to an 'Akihabara Scale Shop', but no such branch is in Yellow Submarine's store list as of September 2026, so do not go looking for it. Phone numbers differ by floor: Character 03-5298-3123, Game 03-3526-3828."
+  ],
+  "ja": [
+   "買取の受付は12:00〜19:00で、営業時間より短くなっています。対象はTCG、アーケードカード、キャラクタープラモデル、フィギュア、一番くじ、食玩、ミニ四駆です。",
+   "ボードゲームとTRPGの買取はここでは受け付けていません。北へ徒歩10分ほどの外神田4-6-1の6Fにあるイエローサブマリン 秋葉原RPGショップだけが対応していて、平日は12:00開店です。",
+   "16席のデュエルルームは大会専用で、自由に使える席はありません。大会の日程はゲームフロアのXアカウント（@YS_AKIHABARAGAM）、キャラクターフロアの入荷情報は@YS_G_MINTに出ます。",
+   "スケールモデルやミリタリーモデルは扱っていません。店舗ページは今も「秋葉原スケールショップ」を案内していますが、2026年9月時点でイエローサブマリンの店舗一覧にない店なので、探しに行かないでください。電話番号はフロアごとに違い、キャラクターフロアが03-5298-3123、ゲームフロアが03-3526-3828です。"
   ]
  },
  "official_url": "https://yellowsubmarine.co.jp/shop/%e7%a7%8b%e8%91%89%e5%8e%9f%e6%9c%ac%e5%ba%97%e2%98%85%e3%83%9f%e3%83%b3%e3%83%88/",

@@ -40,7 +40,8 @@
  ],
  "one_line": {
   "ko": "중고 만화·동인지·빈티지 완구·돌·코스프레 의상을 8개 층에 나눠 파는 수집가용 중고 전문점",
-  "en": "Used manga, doujinshi, vintage toys, dolls and cosplay on 8 floors for collectors"
+  "en": "Used manga, doujinshi, vintage toys, dolls and cosplay on 8 floors for collectors",
+  "ja": "中古マンガや同人誌、ビンテージ玩具、ドール、コスプレを8フロアで扱うコレクター向けの店"
  },
  "building_id": null,
  "floors": [
@@ -57,42 +58,50 @@
   {
    "floor": "1F",
    "ko": "매입 카운터 · JPA(캐릭터 지우개·미니 피규어 등 잡화) · 코스프레 의상",
-   "en": "Buyback counter, JPA (character erasers, mini figures and small goods), cosplay costumes"
+   "en": "Buyback counter, JPA (character erasers, mini figures and small goods), cosplay costumes",
+   "ja": "買取カウンターと、JPA（キャラクター消しゴムやミニフィギュアなどの雑貨）、コスプレ衣装の売り場です。"
   },
   {
    "floor": "2F",
    "ko": "디즈니 관련 굿즈",
-   "en": "Disney goods"
+   "en": "Disney goods",
+   "ja": "ディズニー関連のグッズの売り場です。"
   },
   {
    "floor": "3F",
    "ko": "소년 만화 · 빈티지 만화·잡지(점프 과월호 등)",
-   "en": "Shonen manga and vintage manga/magazines (back issues of Jump etc.)"
+   "en": "Shonen manga and vintage manga/magazines (back issues of Jump etc.)",
+   "ja": "少年マンガと、ジャンプのバックナンバーなどのビンテージのマンガ・雑誌の売り場です。"
   },
   {
    "floor": "4F",
    "ko": "남성향 동인지 · 성인 코믹 코너(18세 미만 이용 불가)",
-   "en": "Male-oriented doujinshi with an adult comics section (18+ only)"
+   "en": "Male-oriented doujinshi with an adult comics section (18+ only)",
+   "ja": "男性向け同人誌のフロアで、成人向けコミックのコーナーがあり18歳未満は利用できません。"
   },
   {
    "floor": "5F",
    "ko": "BL·소녀 만화 · 남성 아이돌 굿즈 · 여성향 동인지 · 마법소녀·돌",
-   "en": "BL and shojo manga, male idol goods, female-oriented doujinshi, magical girl toys and dolls"
+   "en": "BL and shojo manga, male idol goods, female-oriented doujinshi, magical girl toys and dolls",
+   "ja": "BLと少女マンガ、男性アイドルグッズ、女性向け同人誌、魔法少女の玩具とドールの売り場です。"
   },
   {
    "floor": "6F",
    "ko": "TOY: 아메토이 · 프라모델 · 프라이즈 피규어 · 레고",
-   "en": "Toys: American toys, plastic model kits, prize figures, LEGO"
+   "en": "Toys: American toys, plastic model kits, prize figures, LEGO",
+   "ja": "TOYのフロアで、アメトイ、プラモデル、プライズフィギュア、レゴがあります。"
   },
   {
    "floor": "7F",
    "ko": "TOY: 특촬 · 초합금 등 빈티지 완구",
-   "en": "Toys: tokusatsu and Chogokin vintage toys"
+   "en": "Toys: tokusatsu and Chogokin vintage toys",
+   "ja": "TOYのフロアで、特撮や超合金などのビンテージ玩具があります。"
   },
   {
    "floor": "8F",
    "ko": "TOY: 미소녀·로봇 피규어",
-   "en": "Toys: bishojo and robot figures"
+   "en": "Toys: bishojo and robot figures",
+   "ja": "TOYのフロアで、美少女やロボットのフィギュアがあります。"
   }
  ],
  "location": {
@@ -120,11 +129,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입 접수는 폐점 30분 전인 19:30까지. 면세 카운터는 19:00까지 운영.",
-   "en": "Buyback counter accepts items until 19:30 (30 min before closing). Tax-free counter closes at 19:00."
+   "en": "Buyback counter accepts items until 19:30 (30 min before closing). Tax-free counter closes at 19:00.",
+   "ja": "買取カウンターの受付は閉店の30分前の19:30までです。免税カウンターは19:00に閉まります。"
   },
   "source_url": "https://www.mandarake.co.jp/dir/cmp/"
  },
@@ -142,7 +153,8 @@
  },
  "how_to_find": {
   "ko": "주오도리(중앙대로)에서 서쪽으로 한 블록 들어간 뒷골목에 서 있는 온통 검은색 8층 건물로, 전기가 출구에서 도보 약 4분. 검은 외벽에 걸린 세로 'まんだらけ' 간판이 표지이며, 1층 매입 카운터 쪽 입구로 들어가거나 건물 측면 외부 계단으로 원하는 층에 바로 올라갈 수 있다.",
-  "en": "An all-black 8-storey building on the back street one block west of Chuo-dori, about 4 minutes from the Electric Town exit. Look for the vertical まんだらけ (Mandarake) banner on the dark facade; enter by the 1F buyback counter, or use the exterior staircase on the side of the building to go straight to an upper floor."
+  "en": "An all-black 8-storey building on the back street one block west of Chuo-dori, about 4 minutes from the Electric Town exit. Look for the vertical まんだらけ (Mandarake) banner on the dark facade; enter by the 1F buyback counter, or use the exterior staircase on the side of the building to go straight to an upper floor.",
+  "ja": "中央通りから一本西に入った裏通りに建つ、全面が黒い8階建てのビルで、電気街口から徒歩4分ほどです。黒い外壁に掛かった縦書きのまんだらけの看板が目印で、1Fの買取カウンター側の入口から入るほか、建物の側面の外階段で目当ての上の階に直接上がることもできます。"
  },
  "tips": {
   "ko": [
@@ -156,6 +168,12 @@
    "Cash plus VISA, Mastercard, JCB, Amex, transit IC cards and QR payments such as PayPay, Alipay and WeChat Pay are accepted.",
    "The 4F male-oriented doujinshi floor includes an adult comics and magazines section that is off-limits to anyone under 18.",
    "Trading cards, video games, CDs/DVDs and railway goods moved to the nearby Mandarake Complex 2 (Soto-Kanda 3-12-2), opened 30 Aug 2025. Buyback for both stores is handled on 1F here until 19:30 (sofubi and designer toys go to Mandarake CoCoo)."
+  ],
+  "ja": [
+   "免税はレジでパスポートを提示して番号札を受け取り、免税価格で支払って商品を預け、買い物が終わったら免税カウンター（19:00まで）でまとめて受け取る方式です。税抜5,000円以上が対象です。",
+   "現金のほか、VISA、Mastercard、JCB、Amexなどのクレジットカード、交通系ICカード、PayPayやAlipay、WeChat PayなどのQR決済が使えます。",
+   "4Fの男性向け同人誌のフロアには成人向けのコミックと雑誌のコーナーがあり、18歳未満は利用できません。",
+   "トレカ、ゲーム、CD/DVD、鉄道グッズは、2025年8月30日に開店した近くのまんだらけコンプレックス2（外神田3-12-2）に移りました。両店の買取はここの1Fで19:30まで受け付けます（ソフビとデザイナーズトイはまんだらけCoCoo）。"
   ]
  },
  "photo": {

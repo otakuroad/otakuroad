@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "워해머 40,000·에이지 오브 지그마 미니어처와 도료를 파는 공식 직영점, 카페 병설",
-  "en": "Games Workshop's own store: Warhammer 40,000 and Age of Sigmar miniatures, paints, a café"
+  "en": "Games Workshop's own store: Warhammer 40,000 and Age of Sigmar miniatures, paints, a café",
+  "ja": "ゲームズワークショップ直営。ウォーハンマー40,000とエイジ・オブ・シグマーのミニチュア、塗料、カフェ"
  },
  "building_id": null,
  "floors": [
@@ -60,7 +61,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 뒷골목, AKIBA 컬처즈존(外神田1-7-6) 서쪽 옆에 있는 오피스 빌딩 프론트플레이스 아키하바라의 1층 노면 점포.",
-  "en": "On the back street west of Chuo-dori, in the office building Front Place Akihabara just west of AKIBA Cultures Zone (Sotokanda 1-7-6); the shop is at street level on 1F."
+  "en": "On the back street west of Chuo-dori, in the office building Front Place Akihabara just west of AKIBA Cultures Zone (Sotokanda 1-7-6); the shop is at street level on 1F.",
+  "ja": "中央通りの西の裏通り、AKIBAカルチャーズZONE（外神田1-7-6）のすぐ西隣にあるオフィスビル、フロントプレイス秋葉原の1Fの路面店です。"
  },
  "tips": {
   "ko": [
@@ -72,6 +74,11 @@
    "A Games Workshop-run store: new Warhammer product only, no used trading or buyback.",
    "The official X account says free trial sessions (free miniature and rules intro) run on an ongoing basis.",
    "Phone 03-6381-0855."
+  ],
+  "ja": [
+   "ゲームズワークショップの直営店なので、扱うのはウォーハンマーの新品だけで、中古の売買や買取は行っていません。",
+   "公式Xアカウントによると、無料体験（ミニチュアの無料配布とルールの説明）を常時行っています。",
+   "電話番号は03-6381-0855です。"
   ]
  },
  "official_url": "https://warhammer.jp/how-to-buy/",

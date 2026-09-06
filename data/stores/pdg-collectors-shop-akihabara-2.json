@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "PDG 2호점 싱글관. 포켓몬 구판·싱글 카드 판매와 체인 매입 카운터",
-  "en": "PDG's singles floor: Pokemon singles and old-back cards, plus the chain's buying counter"
+  "en": "PDG's singles floor: Pokemon singles and old-back cards, plus the chain's buying counter",
+  "ja": "ポケモンのシングルや旧裏面カードを扱うPDGのシングル館、買取カウンターも"
  },
  "building_id": null,
  "floors": [
@@ -56,7 +57,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 1~2분. 주오도리 서쪽 한 줄 안쪽의 9층짜리 고구레스에히로(小暮末広) 빌딩 7층으로, 1층 엘리베이터를 탄다. 같은 건물 9층이 PDG 본점, 8층은 오타츄 2호점 트레카관이며 3호점은 남쪽 옆 아사노 빌딩 1층이다.",
-  "en": "One to two minutes from exit 3 of Ginza-line Suehirocho, on 7F of the nine-storey Kogure Suehiro Building one row back from the west side of Chuo-dori; take the ground-floor elevator. PDG's main store is on 9F and Otachu No.2's card floor on 8F, while the 3rd store is at street level in the Asano Building just south."
+  "en": "One to two minutes from exit 3 of Ginza-line Suehirocho, on 7F of the nine-storey Kogure Suehiro Building one row back from the west side of Chuo-dori; take the ground-floor elevator. PDG's main store is on 9F and Otachu No.2's card floor on 8F, while the 3rd store is at street level in the Asano Building just south.",
+  "ja": "銀座線・末広町駅の3番出口から徒歩1〜2分、中央通りの西側から一本入った9階建ての小暮末広ビル7階で、1階のエレベーターで上がります。同じビルの9階がPDGの本店、8階がおたちゅう。秋葉原2号店 トレカ館で、3号店は南隣の麻野ビル1階の路面店です。"
  },
  "tips": {
   "ko": [
@@ -68,6 +70,11 @@
    "No opening hours are published on the official site; check X (@PDGcollectors_2) before going.",
    "The 9F main store is the graded-slab floor while this 7F is the singles and buying counter, so the stock differs by floor.",
    "The 2nd store's X profile gives its address as the Asano Building next door, which contradicts the 7F address on the official site - read the floor board by the elevator before going up."
+  ],
+  "ja": [
+   "公式サイトに営業時間の案内はありません。訪れる前にX（@PDGcollectors_2）を確認しておくと安心です。",
+   "9階の本店は鑑定済みスラブ中心、この7階はシングルと買取カウンターが中心で、フロアごとに扱いが違います。",
+   "2号店のXプロフィールには住所が隣の麻野ビルと書かれていて、公式サイトの7階という表記と食い違っています。エレベーター前のフロアガイドを確認してから上がってください。"
   ]
  },
  "official_url": "https://pdg-collectorsshop.com/",

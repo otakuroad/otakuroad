@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "애니송·게임음악·아이돌송 DJ 이벤트를 여는 정원 150명 지하 클럽",
-  "en": "150-capacity basement club for anime-song, game-music and idol-song DJ events"
+  "en": "150-capacity basement club for anime-song, game-music and idol-song DJ events",
+  "ja": "アニソンやゲーム音楽、アイドルソングのDJイベントを開く定員150人の地下クラブ"
  },
  "building_id": null,
  "floors": [
@@ -41,12 +42,14 @@
   {
    "floor": "B1F",
    "ko": "DJ 부스와 메인 플로어, 바 카운터. 이벤트는 대부분 이 층에서 열린다",
-   "en": "The DJ booth, main dance floor and bar counter - almost every event runs down here"
+   "en": "The DJ booth, main dance floor and bar counter - almost every event runs down here",
+   "ja": "DJブースとメインフロア、バーカウンターがあり、イベントはほとんどがこの階で行われます"
   },
   {
    "floor": "1F",
    "ko": "라운지. 대관 시 지하 메인 플로어와 합쳐 최대 150명 규모로 쓴다",
-   "en": "The lounge, combined with the basement main floor for the venue's 150-person capacity"
+   "en": "The lounge, combined with the basement main floor for the venue's 150-person capacity",
+   "ja": "ラウンジで、地下のメインフロアと合わせて150人の定員になります"
   }
  ],
  "location": {
@@ -68,7 +71,8 @@
  },
  "how_to_find": {
   "ko": "쇼와도리 동쪽, 다이토구 아키하바라 3-11 블록의 지하. JR 아키하바라역 중앙 출구에서 도보 약 5분, 도쿄메트로 긴자선 스에히로초역에서 도보 약 5분이다. 주택가 안이라 개장 30분 전까지는 줄을 서지 말라는 안내가 붙어 있다.",
-  "en": "In a basement in the Taito-ku Akihabara 3-11 block east of Showa-dori, about five minutes from JR Akihabara's Central Exit and five from Suehirocho on the Ginza line. Homes surround the venue, so the queue only forms 30 minutes before doors."
+  "en": "In a basement in the Taito-ku Akihabara 3-11 block east of Showa-dori, about five minutes from JR Akihabara's Central Exit and five from Suehirocho on the Ginza line. Homes surround the venue, so the queue only forms 30 minutes before doors.",
+  "ja": "昭和通りの東側、台東区秋葉原3-11のブロックの地下にあり、JR秋葉原駅の中央改札口から約5分、銀座線の末広町駅からも5分です。周りは住宅なので、列ができるのは開場の30分前からです。"
  },
  "tips": {
   "ko": [
@@ -86,6 +90,14 @@
    "Capacity is about 150, coin lockers cost 300 yen, the cloakroom 500 yen, drinks and food start at 600 yen, and the venue is entirely non-smoking.",
    "Some events are streamed free on Twitch (twitch.tv/mogra).",
    "Open since 2009, it is the home of the anison DJ scene, with the long-running Anime Night party as its signature event."
+  ],
+  "ja": [
+   "入場時に全員の身分証を確認します。パスポートや運転免許証といった顔写真付きの現物の身分証が必要で、電子的な身分証は認められません。",
+   "深夜のイベントは20歳未満は入場できません。年齢や時間の条件はイベントごとに違うので、該当するイベントのページを確認してください。",
+   "入場料は現金のみです。前売りチケットはオンラインのLivePocketで販売されます。",
+   "定員は約150人、コインロッカーは300円、クロークは500円、ドリンクとフードは600円からで、店内は全面禁煙です。",
+   "一部のイベントはTwitch（twitch.tv/mogra）で無料配信されます。",
+   "2009年の開店以来アニソンDJシーンの拠点で、長く続く「アニメナイト!」が看板イベントです。"
   ]
  },
  "official_url": "https://club-mogra.jp/",

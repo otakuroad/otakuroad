@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "전 장르 매입 전용 카운터. 피규어·완구·게임·트레카를 사들이며 판매 매장은 없다",
-  "en": "All-genre walk-in buyback counter for figures, toys, games and cards; no sales floor"
+  "en": "All-genre walk-in buyback counter for figures, toys, games and cards; no sales floor",
+  "ja": "フィギュア・玩具・ゲーム・トレカを全ジャンル持ち込める買取専門カウンター、売り場はなし"
  },
  "building_id": null,
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매일 10:00~21:00으로 같다. 같은 건물 위층 매장이 2026년 가을에 바뀌므로 방문 전에 공식 페이지를 다시 확인하는 편이 좋다.",
-   "en": "The same 10:00-21:00 every day. The shops on the floors above are changing over in autumn 2026, so check the official page again before a trip."
+   "en": "The same 10:00-21:00 every day. The shops on the floors above are changing over in autumn 2026, so check the official page again before a trip.",
+   "ja": "毎日10:00〜21:00で同じです。同じビルの上の階の店舗が2026年の秋に入れ替わるので、行く前に公式ページをもう一度確認してください。"
   },
   "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 2~3분, JR 아키하바라역에서는 도보 7분. 주오도리에서 서쪽으로 한 골목 들어간 9층 건물 르 프라토 교와(ル・プラトー協和)의 1층이며, 바로 동쪽 옆이 아키하바라 가챠폰 회관이다. 길에서 파란 駿河屋 간판이 보이고 문을 열면 곧바로 매입 카운터다.",
-  "en": "Two to three minutes from Ginza-line Suehirocho station and seven from JR Akihabara. One street west of Chuo-dori, on the ground floor of the nine-storey Le Plateau Kyowa (ル・プラトー協和), with Akihabara Gachapon Kaikan right next door to the east. A blue 駿河屋 sign shows from the street and the buying counter is straight through the door."
+  "en": "Two to three minutes from Ginza-line Suehirocho station and seven from JR Akihabara. One street west of Chuo-dori, on the ground floor of the nine-storey Le Plateau Kyowa (ル・プラトー協和), with Akihabara Gachapon Kaikan right next door to the east. A blue 駿河屋 sign shows from the street and the buying counter is straight through the door.",
+  "ja": "銀座線末広町駅から徒歩2〜3分、JR秋葉原駅からは徒歩7分です。中央通りから一本西に入った9階建てのル・プラトー協和の1Fで、すぐ東隣が秋葉原ガチャポン会館です。通りから青い駿河屋の看板が見え、扉を入るとすぐ買取カウンターです。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,13 @@
    "Selling needs a member card and photo ID every time. Items without a barcode or tag may be valued as a lot, so hand in anything valuable separately.",
    "Call ahead if you are bringing more than three cardboard boxes. The 'anshin' online pre-quote service and the 'Sumatoku' fast-appraisal service are both accepted here.",
    "The official page still says the Trading Card & Board Game store is on 2F of the same building; it closed on 2026-08-30, and Surugaya Akihabara Game Store reopens in that space on 2026-09-25."
+  ],
+  "ja": [
+   "販売する店ではなく買取のカウンターなので、見て回る商品はありません。買い物をするなら駿河屋 秋葉原本館か駿河屋 秋葉原駅前店へ向かってください。",
+   "秋葉原のほかの駿河屋は自分の店で扱う品目しか買い取りませんが、ここは全ジャンルを受け付けるので、ジャンルの混ざった荷物はここへ持ち込むのがいちばん早いです。",
+   "買取には会員証が必要で、身分証は毎回提示します。バーコードや商品タグのない品はまとめて査定されることがあるので、高価なものは分けて出すとよいでしょう。",
+   "段ボール3箱を超える量を持ち込むときは事前の連絡が必要です。オンラインで先に見積もりを取る「あんしん買取」と、査定を早く済ませる「スマトク買取」もこちらで利用できます。",
+   "公式ページには同じビルの2Fにトレカ・ボードゲーム館があると今も書かれていますが、その店舗は2026年8月30日に閉店し、その場所には2026年9月25日に駿河屋 秋葉原ゲーム館が移転してオープンします。"
   ]
  },
  "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_kaitori/index.html",

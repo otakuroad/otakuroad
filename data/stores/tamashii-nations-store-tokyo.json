@@ -43,7 +43,8 @@
  ],
  "one_line": {
   "ko": "반다이 스피리츠 직영 피규어 매장. S.H.Figuarts·METAL BUILD 전시와 한정품 판매",
-  "en": "Bandai Spirits' flagship: S.H.Figuarts and METAL BUILD displays, store-exclusive figures"
+  "en": "Bandai Spirits' flagship: S.H.Figuarts and METAL BUILD displays, store-exclusive figures",
+  "ja": "バンダイスピリッツの旗艦店、S.H.FiguartsやMETAL BUILDの展示と店舗限定フィギュア"
  },
  "building_id": null,
  "floors": [
@@ -53,7 +54,8 @@
   {
    "floor": "1F",
    "ko": "입구 정면 NEW ITEM 존(신작·혼웹상점 시제품 전시), 오른쪽 SHOP 존(한정품·일부 일반 판매품), 왼쪽 EVENT 존(기획 전시)",
-   "en": "NEW ITEM zone straight ahead (new releases and Tamashii Web Shop prototypes), SHOP zone on the right (exclusives and select retail items), EVENT zone on the left (rotating exhibitions)"
+   "en": "NEW ITEM zone straight ahead (new releases and Tamashii Web Shop prototypes), SHOP zone on the right (exclusives and select retail items), EVENT zone on the left (rotating exhibitions)",
+   "ja": "入口正面がNEW ITEMゾーン（新作と魂ウェブ商店の試作品の展示）、右手がSHOPゾーン（限定品と一部の一般販売品）、左手がEVENTゾーン（入れ替えのある企画展示）です。"
   }
  ],
  "location": {
@@ -81,11 +83,13 @@
   ],
   "regular_holiday": {
    "ko": "정기휴일 없음(전시 교체·연말연시 임시 휴업 있음)",
-   "en": "No regular holiday (temporary closures for exhibition changeovers and New Year)"
+   "en": "No regular holiday (temporary closures for exhibition changeovers and New Year)",
+   "ja": "定休日なし（展示替えや年末年始に臨時休業あり）"
   },
   "note": {
    "ko": "요일·공휴일 구분 없이 10:00–20:00. 전시 교체 때는 EVENT 존만 휴업하거나 매장 전체가 종일 휴업하고(2026-01-29·03-26·07-09), 11월 TAMASHII NATION 기간에는 며칠 연속 휴업했다(2025-11-04~11-18). 매월 마지막 영업일은 18:00 조기 마감이 잦고 12/31·1/1은 휴업, 1/2~1/3은 17:00 마감. 방문 전 공식 영업 캘린더와 X(@tamashii_tnt)를 확인",
-   "en": "10:00-20:00 every day, weekends and public holidays included. During exhibition changeovers the EVENT zone alone closes or the whole store shuts for the day (29 Jan, 26 Mar, 9 Jul 2026), and it closed for several days around TAMASHII NATION in November (4-18 Nov 2025). The last business day of most months closes at 18:00; 31 Dec and 1 Jan are closed and 2-3 Jan end at 17:00. Check the official business calendar and X (@tamashii_tnt) before visiting"
+   "en": "10:00-20:00 every day, weekends and public holidays included. During exhibition changeovers the EVENT zone alone closes or the whole store shuts for the day (29 Jan, 26 Mar, 9 Jul 2026), and it closed for several days around TAMASHII NATION in November (4-18 Nov 2025). The last business day of most months closes at 18:00; 31 Dec and 1 Jan are closed and 2-3 Jan end at 17:00. Check the official business calendar and X (@tamashii_tnt) before visiting",
+   "ja": "土日祝を含めて毎日10:00〜20:00です。展示替えの際はEVENTゾーンのみ休業するか、店舗全体が終日休業となり（2026年1月29日・3月26日・7月9日）、11月のTAMASHII NATIONの期間には数日連続で休業しました（2025年11月4日〜18日）。多くの月は最終営業日が18:00の早じまいで、12月31日と1月1日は休業、1月2日〜3日は17:00閉店です。訪れる前に公式の営業カレンダーとX（@tamashii_tnt）を確認してください。"
   },
   "source_url": "https://tamashiiweb.com/store/tokyo/about/"
  },
@@ -101,7 +105,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구로 나와 오른쪽(북쪽)으로 돌면 고가 철로 아래를 따라 통로가 이어집니다. 도보 1분 안에 오른편, 옛 건담카페 자리에 TAMASHII NATIONS STORE TOKYO 로고 간판이 걸린 입구가 보입니다.",
-  "en": "Leave JR Akihabara's Electric Town exit and turn right (north) along the walkway under the elevated tracks. Within a minute the entrance is on your right, in the former Gundam Cafe space, marked with a TAMASHII NATIONS STORE TOKYO sign."
+  "en": "Leave JR Akihabara's Electric Town exit and turn right (north) along the walkway under the elevated tracks. Within a minute the entrance is on your right, in the former Gundam Cafe space, marked with a TAMASHII NATIONS STORE TOKYO sign.",
+  "ja": "JR秋葉原駅の電気街口を出て右（北）へ曲がり、高架下の通路沿いに進みます。1分ほどで右手に、旧ガンダムカフェの場所にTAMASHII NATIONS STORE TOKYOの看板が掲げられた入口が見えてきます。"
  },
  "tips": {
   "ko": [
@@ -115,6 +120,12 @@
    "Store exclusives carry per-person purchase limits; when crowded, entry may switch to numbered tickets or reservations. Overnight queuing is prohibited",
    "Pays with cash, credit cards (VISA, Mastercard, JCB, AMEX, etc.), Suica and other e-money, and code payments such as PayPay, AliPay+ and WeChat Pay",
    "Products are for ages 15+ (under-15s may enter with a guardian but cannot buy). No cloakroom and no customer restroom. Tax-free status is not stated officially, so ask at the register"
+  ],
+  "ja": [
+   "展示物のみの写真・動画撮影は許可されていますが、三脚や自撮り棒、店内でのライブ配信、ほかのお客さまが写る撮影は禁止です。",
+   "店舗限定品には一人あたりの購入数制限があり、混雑時は整理券や入場予約制に切り替わることがあります。徹夜での並びは禁止です。",
+   "支払いは現金のほか、クレジットカード（VISA、Mastercard、JCB、AMEXなど）、Suicaなどの電子マネー、PayPayやAliPay+、WeChat Payといったコード決済に対応しています。",
+   "商品は15歳以上が対象で、15歳未満は保護者同伴なら入場できますが購入はできません。荷物預かりとお客さま用トイレはありません。免税対応は公式に案内されていないので、レジで確認してください。"
   ]
  },
  "official_url": "https://tamashiiweb.com/store/tokyo/",

@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "특촬 히어로·로봇 애니·트랜스포머 등 남아 완구 신품·중고 전문점",
-  "en": "Boys' toys shop: tokusatsu hero, robot anime and Transformers items, new and used"
+  "en": "Boys' toys shop: tokusatsu hero, robot anime and Transformers items, new and used",
+  "ja": "特撮ヒーロー・ロボットアニメ・トランスフォーマーなど男児玩具の新品・中古専門店"
  },
  "building_id": null,
  "floors": [
@@ -65,7 +66,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://www.yumeoriya.jp/store-information3/"
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "주소는 지요다구 소토칸다가 아니라 다이토구 우에노 3초메로, 아키하바라 북동쪽 끝이다. 긴자선 스에히로초역과 JR 오카치마치역 사이, 키보드 전문점 유샤코보에서 남서쪽으로 한두 블록 떨어진 타운하이츠 우에노 1층.",
-  "en": "The address is Taito-ku Ueno 3-chome, not Chiyoda-ku Sotokanda: this is the north-east edge of the Akihabara area, between Suehirocho on the Ginza line and JR Okachimachi, a block or two south-west of the keyboard shop Yushakobo, on the ground floor of Town Heights Ueno."
+  "en": "The address is Taito-ku Ueno 3-chome, not Chiyoda-ku Sotokanda: this is the north-east edge of the Akihabara area, between Suehirocho on the Ginza line and JR Okachimachi, a block or two south-west of the keyboard shop Yushakobo, on the ground floor of Town Heights Ueno.",
+  "ja": "住所は千代田区外神田ではなく台東区上野3丁目で、秋葉原エリアの北東の端にあたります。銀座線の末広町駅とJR御徒町駅の間、キーボードショップの遊舎工房から南西に1〜2ブロックほどの、タウンハイツ上野1階です。"
  },
  "tips": {
   "ko": [
@@ -96,6 +99,12 @@
    "It handles both new and used items and also buys goods in.",
    "Open 12:00-20:00 year-round; advance-lottery details for events such as the Beyblade X tournaments are posted on the official X account (@yumeoriya_kids).",
    "Tax-free and card acceptance are not stated officially."
+  ],
+  "ja": [
+   "夢織屋の3号店で、1号店（神田須田町・平成レトロのアニメやゲーム）と2号店（女児玩具の夢織屋きゅ〜と）とは取り扱う商品がまったく異なります。",
+   "新品と中古の両方を扱っており、買取も行っています。",
+   "営業は12:00-20:00で年中無休、ベイブレードXの大会などイベントの事前抽選の情報は公式Xアカウント（@yumeoriya_kids）で告知されます。",
+   "免税やカード決済に対応しているかは、公式には案内されていません。"
   ]
  },
  "official_url": "https://www.yumeoriya.jp/store-information3/",

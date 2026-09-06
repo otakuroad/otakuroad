@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "지하 아이돌 상설 극장. 가면여자 등 매일 라이브와 공연 후 체키회",
-  "en": "Permanent underground idol theater: daily lives by Kamen Joshi and cheki photo sessions"
+  "en": "Permanent underground idol theater: daily lives by Kamen Joshi and cheki photo sessions",
+  "ja": "仮面女子が毎日ライブを行う地下アイドルの常設劇場、チェキ会も"
  },
  "building_id": "pasela-akiba",
  "floors": [
@@ -57,7 +58,8 @@
  },
  "how_to_find": {
   "ko": "파세라 리조트 AKIBA 건물 7층. JR 아키하바라역 전기가 남쪽 출구에서 도보 3~4분이며, 1층 로비의 엘리베이터로 7층까지 올라간다. 건물 밖에서는 아이돌 극장인지 알기 어려우므로 1층 파세라 접수에서 P.A.R.M.S 공연 안내를 확인하면 된다.",
-  "en": "On 7F of Pasela Resorts AKIBA, three to four minutes from the JR Akihabara Electric Town South Exit; take the lobby lift straight to 7F. Nothing outside marks it as an idol theater, so check the P.A.R.M.S event notice at the 1F Pasela reception."
+  "en": "On 7F of Pasela Resorts AKIBA, three to four minutes from the JR Akihabara Electric Town South Exit; take the lobby lift straight to 7F. Nothing outside marks it as an idol theater, so check the P.A.R.M.S event notice at the 1F Pasela reception.",
+  "ja": "JR秋葉原駅の電気街南口から徒歩3〜4分、パセラリゾーツAKIBA マルチエンターテインメントの7階で、1階ロビーのエレベーターでそのまま7階へ上がります。建物の外からはアイドル劇場とわからないので、1階のパセラ受付でP.A.R.M.Sの公演案内を確認してください。"
  },
  "tips": {
   "ko": [
@@ -71,6 +73,12 @@
    "Shows follow a daily schedule: Tokyo weekday performances usually open at 19:00 and run 19:30-21:05, with several afternoon and evening slots at weekends.",
    "Advance tickets for the Tokyo shows are sold through Eventify, around 2,000-3,500 yen including a drink, and merch and cheki sales follow the performance, so bring cash.",
    "There are no fixed opening hours - the hall only opens for scheduled performances, so check the official schedule before going."
+  ],
+  "ja": [
+   "約204㎡のホールにスタンディング300人・着席180人が入り、アイドルの常設劇場としては大きめです。アリスプロジェクト（仮面女子）の東京の常設ステージとして使われています。",
+   "公演は日ごとのスケジュール制で、東京公演の平日は19:00開場・19:30〜21:05が基本、土日は昼と夜に複数の回があります。",
+   "東京公演の前売券はイベンティファイで販売され、ドリンク込みで2,000〜3,500円ほどです。公演後にはグッズやチェキの販売が続くので、現金を用意しておくとよいでしょう。",
+   "決まった営業時間はなく、公演の予定に合わせてのみ開くので、訪れる前に必ず公式スケジュールを確認してください。"
   ]
  },
  "official_url": "https://www.pasela.co.jp/paselive/shop/parms_akihabara/",

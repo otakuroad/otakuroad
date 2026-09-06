@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "아이돌 지망 캐스트가 접객하는 콘셉트카페. 음료·샴페인과 체키 촬영",
-  "en": "Idol-training concept cafe: drinks, champagne and cheki photos with the cast"
+  "en": "Idol-training concept cafe: drinks, champagne and cheki photos with the cast",
+  "ja": "アイドル志望のキャストが接客するコンセプトカフェ、ドリンクやシャンパンとチェキ撮影"
  },
  "building_id": null,
  "floors": [
@@ -59,11 +60,13 @@
   ],
   "regular_holiday": {
    "ko": "1월 1일(元旦)만 휴무",
-   "en": "Closed on 1 January only"
+   "en": "Closed on 1 January only",
+   "ja": "1月1日のみ休み"
   },
   "note": {
    "ko": "공식 사이트 표기는 18:00~25:00(다음 날 01:00), 라스트오더 24:00이지만 표에는 24:00으로 끊어 적었다. 정기휴일은 元旦(1월 1일)뿐이고 그 외에는 연중무휴다. 이벤트일에는 개점 시각이 달라질 수 있어 공식 사이트 News를 확인하는 편이 좋다.",
-   "en": "The official site gives 18:00-25:00 (01:00 the next morning) with last orders at 24:00; the table caps the close at 24:00. The only regular closing day is 1 January. Event days can shift the opening time, so check the News page."
+   "en": "The official site gives 18:00-25:00 (01:00 the next morning) with last orders at 24:00; the table caps the close at 24:00. The only regular closing day is 1 January. Event days can shift the opening time, so check the News page.",
+   "ja": "公式サイトの表記は18:00〜25:00（翌朝01:00）でラストオーダーは24:00ですが、表では24:00で区切って記載しています。定休日は1月1日だけです。イベントの日は開店時刻が変わることがあるので、Newsのページを確認してください。"
   },
   "source_url": "https://melt-asleep.jp/"
  },
@@ -79,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽 편, 돈키호테 아키하바라점에서 스에히로초 방향으로 약 50m 올라간 지점의 8층짜리 松井ビル(마츠이 빌딩) 2층. 건물 입구에서 층별 간판을 확인하고 계단이나 엘리베이터로 2층에 올라간다. 같은 건물 3층은 별개 업소인 すっぴんカフェバー ナチュラリア다.",
-  "en": "On the east side of Chuo-dori about 50 m north of Don Quijote Akihabara: the eight-storey Matsui Building (松井ビル) at 4-4-9. Check the tenant board at the entrance and take the stairs or lift to 2F. The 3F of the same building is an unrelated cafe bar, Naturalia."
+  "en": "On the east side of Chuo-dori about 50 m north of Don Quijote Akihabara: the eight-storey Matsui Building (松井ビル) at 4-4-9. Check the tenant board at the entrance and take the stairs or lift to 2F. The 3F of the same building is an unrelated cafe bar, Naturalia.",
+  "ja": "中央通りの東側、ドン・キホーテ秋葉原店から北へ50mほどのところにある8階建ての松井ビル（4-4-9）です。入口のテナント案内を確かめて、階段かエレベーターで2Fに上がります。同じビルの3Fは関係のない別のカフェバー、ナチュラリアです。"
  },
  "tips": {
   "ko": [
@@ -93,6 +97,12 @@
    "1 January is the only regular closing day; otherwise it is open year-round.",
    "Reservations and same-day info go through the PokePara page linked from the official site; the phone number is 03-6811-6926 (18:00-25:00).",
    "The price list is posted only as images on the official system page, so amounts are hard to read in advance; a table charge, time charge and service charge are all listed separately."
+  ],
+  "ja": [
+   "18:00に開き、公式の表記では25:00（翌朝01:00）まで営業してラストオーダーは24:00なので、昼の時間帯の営業はありません。",
+   "定休日は1月1日だけで、それ以外は年中無休です。",
+   "予約と当日の案内は、公式サイトからリンクされているポケパラのページを通します。電話は03-6811-6926（18:00〜25:00）です。",
+   "料金表は公式のシステムのページに画像でしか載っておらず、金額を前もって読み取りにくいです。テーブルチャージ、時間料金、サービス料がそれぞれ別に書かれています。"
   ]
  },
  "official_url": "https://melt-asleep.jp/",

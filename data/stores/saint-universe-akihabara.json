@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "우주 콘셉트 메이드 카페＆바. 시간제 음료 무제한과 메이드 대화·체키",
-  "en": "Space-themed maid cafe and bar: timed all-you-can-drink sets, maid chat and cheki"
+  "en": "Space-themed maid cafe and bar: timed all-you-can-drink sets, maid chat and cheki",
+  "ja": "宇宙がテーマのメイドカフェ＆バー、時間制の飲み放題とメイドとの会話・チェキ"
  },
  "building_id": null,
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 월요일",
-   "en": "Closed Mondays"
+   "en": "Closed Mondays",
+   "ja": "毎週月曜日"
   },
   "note": {
    "ko": "공식 홈페이지 시스템 페이지에 적힌 시간이다. 사이트가 2017년 개점 당시 그대로라 실제 영업일과 시간은 매달 공식 X(@saintuniverse1)에 날짜별로 올라온다. 공휴일 영업은 명시가 없다.",
-   "en": "As stated on the shop's own System page. The site has not been updated since it opened in 2017, and the real day-by-day schedule is posted each month on the shop's X (@saintuniverse1). Public-holiday hours are not stated."
+   "en": "As stated on the shop's own System page. The site has not been updated since it opened in 2017, and the real day-by-day schedule is posted each month on the shop's X (@saintuniverse1). Public-holiday hours are not stated.",
+   "ja": "公式サイトのシステムページに記載された時間です。サイトは2017年の開店当時のままで、実際の営業日と時間は毎月公式X（@saintuniverse1）に日付ごとに掲載されます。祝日の営業についての記載はありません。"
   },
   "source_url": "http://s-universe.com/system/"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 도보 1분, 주오도리 서쪽 면의 아키하바라 M2 빌딩 6층. 공식 안내대로 1층 라멘집 하카타후류 아키하바라 총본점이 표식이며, 입구 안쪽 엘리베이터로 6층까지 올라간다. 같은 건물 5층에 남장 카페 슈바르츠 슈발리에와 멜티메어, 3층에 카드맥스가 있다.",
-  "en": "One minute from exit 3 of Ginza-line Suehirocho, on 6F of the Akihabara M2 Building on the west side of Chuo-dori. As the shop's own directions say, the ramen shop Hakata Furyu on the ground floor is the landmark; take the elevator just inside up to 6F. Schwartz Chevalier and Meltymare are on 5F and CARDMAX on 3F."
+  "en": "One minute from exit 3 of Ginza-line Suehirocho, on 6F of the Akihabara M2 Building on the west side of Chuo-dori. As the shop's own directions say, the ramen shop Hakata Furyu on the ground floor is the landmark; take the elevator just inside up to 6F. Schwartz Chevalier and Meltymare are on 5F and CARDMAX on 3F.",
+  "ja": "銀座線・末広町駅の3番出口から徒歩1分、中央通り西側の秋葉原M2ビル6階です。店の案内どおり1階のラーメン店・博多風龍が目印で、入口すぐのエレベーターで6階まで上がります。5階には男装喫茶 SCHWARTZ CHEVALIERとメルティメア、3階にはカードマックス秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,12 @@
    "There is no seat or cover charge; you pay for timed all-you-can-drink. Soft drinks are 800 yen for 30 minutes, 1,400 for 60 and 1,900 for 90; alcohol is 2,800 for 60 minutes, 5,000 for 120 and 7,000 for 180, with a discount for women.",
    "Cards accepted are VISA, JCB, AMEX and Mastercard.",
    "Opened in June 2017 on a space theme; the menu is written up as 'star drinks' and 'space food', and prices are counted in 'stell'."
+  ],
+  "ja": [
+   "公式サイトには火曜〜日曜の17:00-22:00、月曜定休と書かれています。ただしサイトは2017年の開店当時のままで、実際の営業日は毎月公式X（@saintuniverse1）に日付ごとに掲載されるため、訪れる前の確認が必要です。",
+   "席料やチャージは無料で、時間制の飲み放題で会計します。ソフトドリンクは30分800円、60分1,400円、90分1,900円、アルコールは60分2,800円、120分5,000円、180分7,000円で、女性のお客さんには割引があります。",
+   "カードはVISA、JCB、AMEX、Masterが使えます。",
+   "2017年6月に開店した宇宙がテーマの店で、メニューも「スタードリンク」「スペースフード」と名付けられ、価格の単位も「ステル」と書かれています。"
   ]
  },
  "official_url": "http://s-universe.com/",

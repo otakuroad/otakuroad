@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "N게이지·HO게이지 철도모형과 전투기·전차·함선 스케일모델, 미니카 트레이딩 피규어",
-  "en": "N and HO gauge railway models, aircraft/tank/ship scale kits and minicar trading figures"
+  "en": "N and HO gauge railway models, aircraft/tank/ship scale kits and minicar trading figures",
+  "ja": "Nゲージ・HOゲージの鉄道模型と戦闘機・戦車・艦船のスケールモデル、ミニカーのトレーディングフィギュア"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "건물 안내판의 11:00~21:00은 층마다 다르며, 3F 매장은 20:30에 닫는다.",
-   "en": "The building advertises 11:00-21:00, but that varies by floor: the 3F shops close at 20:30."
+   "en": "The building advertises 11:00-21:00, but that varies by floor: the 3F shops close at 20:30.",
+   "ja": "ビルが掲げる11:00〜21:00はフロアによって異なり、3Fの店舗は20:30に閉まります。"
   },
   "source_url": "https://www.akibacultureszone.com/shop/35"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "AKIBA 컬처즈존 3F. 1~2F 라신방 옆 엘리베이터나 계단으로 3층에 올라가면 층 대부분이 하비코로 완구 계열 매장이고, 그중 철도모형 진열장이 늘어선 구획이 이 가게다. 건물은 코토부키야 아키하바라관 바로 옆.",
-  "en": "Third floor of AKIBA Cultures Zone, the building next to Kotobukiya Akihabara. Take the lift or stairs past Lashinbang on 1F-2F; most of 3F is Havikoro Toy's counters, and this is the section lined with railway-model cases."
+  "en": "Third floor of AKIBA Cultures Zone, the building next to Kotobukiya Akihabara. Take the lift or stairs past Lashinbang on 1F-2F; most of 3F is Havikoro Toy's counters, and this is the section lined with railway-model cases.",
+  "ja": "コトブキヤ秋葉原館の隣に建つAKIBAカルチャーズZONEの3Fです。1F・2Fのらしんばんの脇のエレベーターか階段で上がると、3Fの大半はハビコロ玩具の売り場で、そのうち鉄道模型のショーケースが並ぶ一角がこの店です。"
  },
  "tips": {
   "ko": [
@@ -95,6 +98,12 @@
    "N gauge is the main line, with HO gauge and B-Train Shorty as well; scale models run to aircraft, tank and warship kits plus minicar trading figures.",
    "All of 3F shuts at 20:30, unlike @home cafe on 5F which runs to 22:00.",
    "It is a serious buyback shop: the in-store buying counter takes items 11:00-19:45 and the price list is posted by part number on the official blog (scaleton.livedoor.blog)."
+  ],
+  "ja": [
+   "AKIBAカルチャーズZONEで唯一の鉄道模型・スケールモデルの専門店で、同じフロアの隣り合う売り場はキャラクターグッズを扱っています。",
+   "主力はNゲージで、HOゲージやBトレインショーティーも扱います。スケールモデルは戦闘機・戦車・艦船のキットとミニカーのトレーディングフィギュアが中心です。",
+   "3Fは全体が20:30に閉まるので、22:00まで営業する5Fのあっとほぉーむカフェとは営業時間が違います。",
+   "買取に力を入れている店で、店頭の買取受付は11:00〜19:45、買取表は公式ブログ（scaleton.livedoor.blog）に品番ごとに掲載されています。"
   ]
  },
  "official_url": "https://scaleton.havikorotoy.com/",

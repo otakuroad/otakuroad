@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "B1층 통판 상품 수령 카운터와 1층 한정 굿즈 매장으로 이뤄진 멜론북스 TOKYO OTAKU SHOP",
-  "en": "Melonbooks online-order pickup on B1F and exclusive goods on 1F (TOKYO OTAKU SHOP)"
+  "en": "Melonbooks online-order pickup on B1F and exclusive goods on 1F (TOKYO OTAKU SHOP)",
+  "ja": "B1Fがメロンブックス通販の店舗受取、1Fが限定グッズのTOKYO OTAKU SHOP"
  },
  "building_id": null,
  "floors": [
@@ -42,12 +43,14 @@
   {
    "floor": "B1F",
    "ko": "수취관 — 멜론북스 통판 상품 매장 수령 전용 카운터, 이벤트 스페이스",
-   "en": "Uketori-kan: the counter for picking up Melonbooks online orders, plus an event space"
+   "en": "Uketori-kan: the counter for picking up Melonbooks online orders, plus an event space",
+   "ja": "受取館で、メロンブックスの通販商品を店舗で受け取るための専用カウンターとイベントスペースがあります。"
   },
   {
    "floor": "1F",
    "ko": "TOKYO OTAKU SHOP — 이곳에서만 파는 한정 굿즈 매장",
-   "en": "TOKYO OTAKU SHOP: goods sold only at this store"
+   "en": "TOKYO OTAKU SHOP: goods sold only at this store",
+   "ja": "TOKYO OTAKU SHOPで、この店だけで売っている限定グッズの売り場です。"
   }
  ],
  "location": {
@@ -75,11 +78,13 @@
   ],
   "regular_holiday": {
    "ko": "공식 정기휴무 없음",
-   "en": "No regular holiday listed"
+   "en": "No regular holiday listed",
+   "ja": "定休日の記載なし"
   },
   "note": {
    "ko": "공식 안내는 전일 12:00–20:30. 일부 지도에는 20:00 마감으로 남아 있다",
-   "en": "The official page gives 12:00-20:30 every day; some maps still show a 20:00 close"
+   "en": "The official page gives 12:00-20:30 every day; some maps still show a 20:00 close",
+   "ja": "公式の案内は毎日12:00〜20:30です。一部の地図には20:00閉店のまま残っています。"
   },
   "source_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=58"
  },
@@ -95,7 +100,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 2분 거리의 스즈키 빌딩. 지상 1층이 TOKYO OTAKU SHOP 매장이고, 통판 수령 카운터는 계단으로 내려가는 지하 1층에 따로 있다.",
-  "en": "The Suzuki Building, two minutes west of the JR Akihabara Electric Town exit. The 1F street-level shop is TOKYO OTAKU SHOP; the online-order pickup counter is downstairs on B1F."
+  "en": "The Suzuki Building, two minutes west of the JR Akihabara Electric Town exit. The 1F street-level shop is TOKYO OTAKU SHOP; the online-order pickup counter is downstairs on B1F.",
+  "ja": "JR秋葉原駅の電気街口から西へ徒歩2分の鈴木ビルです。1Fの路面の売り場がTOKYO OTAKU SHOPで、通販商品の受取カウンターは階段を下りたB1Fに別にあります。"
  },
  "tips": {
   "ko": [
@@ -109,6 +115,12 @@
    "The whole building is Melonbooks Group: 2F is the PC-game main floor (Uribou Zakka Akihabara), 3F-5F the Akiba Melon Gallery exhibition floors",
    "Tax-free, and cash, credit cards (VISA, Mastercard, JCB, AMEX and more) and e-money are accepted",
    "Online orders can only be collected at the dedicated B1F counter"
+  ],
+  "ja": [
+   "同人誌の新刊を自分で選びたいときは、この店ではなくメロンブックス秋葉原1号店（外神田1-10-5 廣瀬ビルB1F）へ行ってください。",
+   "建物全体がメロンブックスグループで、2FはPCゲームの本館（うりぼう雑貨 秋葉原店）、3F〜5FはAkiba Melon Galleryの展示フロアです。",
+   "免税に対応しており、現金のほかクレジットカード（VISA、Mastercard、JCB、AMEXなど）と電子マネーが使えます。",
+   "通販商品の店舗受取は、B1Fの専用カウンターでのみ受け付けます。"
   ]
  },
  "official_url": "https://www.melonbooks.co.jp/shop/shop.php?wp_id=58",

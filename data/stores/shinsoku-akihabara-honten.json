@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·유희왕 카드 싱글과 미개봉 박스, PSA 감정품을 사고파는 매장",
-  "en": "Pokemon, One Piece and Yu-Gi-Oh singles, sealed boxes and PSA slabs, bought and sold"
+  "en": "Pokemon, One Piece and Yu-Gi-Oh singles, sealed boxes and PSA slabs, bought and sold",
+  "ja": "ポケモン・ワンピース・遊戯王のシングル、未開封BOX、PSA鑑定品の販売と買取"
  },
  "building_id": null,
  "floors": [
@@ -63,7 +64,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1~2분, 주오도리에서 한 블록 안쪽 골목의 AKIHABARA KADAN(옛 花壇ビル) 3층. 1층 카드숍 minny, 2층 트레카뱅크, 4층 트레카스텔러가 들어선 카드숍 잡거빌딩으로, 엘리베이터로 3층까지 올라간다.",
-  "en": "One or two minutes from Suehirocho Station on the Ginza line, on the lane one block in from Chuo-dori: AKIHABARA KADAN (the former Kadan Building), 3F. The building is stacked with card shops - minny on 1F, Toreca Bank on 2F, Toreca Steller on 4F - so take the lift up to 3F."
+  "en": "One or two minutes from Suehirocho Station on the Ginza line, on the lane one block in from Chuo-dori: AKIHABARA KADAN (the former Kadan Building), 3F. The building is stacked with card shops - minny on 1F, Toreca Bank on 2F, Toreca Steller on 4F - so take the lift up to 3F.",
+  "ja": "銀座線末広町駅から徒歩1〜2分、中央通りから一本入った路地に建つAKIHABARA KADAN（旧・花壇ビル）の3Fです。1Fのminny、2FのToreca Bank、4FのToreca Stellerとカードショップが積み重なったビルなので、エレベーターで3Fまで上がってください。"
  },
  "tips": {
   "ko": [
@@ -77,6 +79,12 @@
    "No store hours are published on the official site and Japanese directories disagree (12:30-20:30 vs 12:30-21:00), so check the shop's X account (@shinsoku_akiba) before going.",
    "Other card shops occupy 1F, 2F and 4F of the same building, which makes it easy to compare prices without going outside.",
    "Shinsoku opened its 3rd, 4th and 6th stores plus a buyback centre during 2026 and has announced the 5th through 9th, so the branch numbers are easy to mix up."
+  ],
+  "ja": [
+   "チェーンの秋葉原本店で、ポケモンとワンピースに加えて遊戯王、ドラゴンボール、MTG、ユニオンアリーナまでと取り扱いの幅がいちばん広い店です。駅前のシンソク秋葉原2号店はポケモンとワンピースに絞っています。",
+   "公式サイトに店舗の営業時間は掲載されておらず、日本のディレクトリでも12:30〜20:30と12:30〜21:00に分かれているので、行く前に店舗のXアカウント（@shinsoku_akiba）を確認してください。",
+   "同じビルの1F・2F・4Fにもほかのカードショップが入っており、外に出ずに相場を比べられます。",
+   "シンソクは2026年に3号店・4号店・6号店と買取センターをオープンし、5号店から9号店までを予告しているため、号店の番号を取り違えやすくなっています。"
   ]
  },
  "official_url": "https://shinsoku-tcg.com/kaitori",

@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "중고 남성향 동인지·동인 ROM과 미소녀 게임·피규어·태피스트리를 파는 라신방 3호점",
-  "en": "Used men's doujinshi, doujin ROMs, bishoujo games, figures and tapestries; cash only"
+  "en": "Used men's doujinshi, doujin ROMs, bishoujo games, figures and tapestries; cash only",
+  "ja": "中古の男性向け同人誌・同人ROMと美少女ゲーム・フィギュア・タペストリー、現金のみ"
  },
  "building_id": null,
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "No regular holiday"
+   "en": "No regular holiday",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "판매는 전일 11:00–21:00, 매입 접수는 11:00–18:00",
-   "en": "Sales floor 11:00-21:00 every day; the buyback counter takes items 11:00-18:00"
+   "en": "Sales floor 11:00-21:00 every day; the buyback counter takes items 11:00-18:00",
+   "ja": "販売は毎日11:00〜21:00、買取カウンターの受付は11:00〜18:00です。"
   },
   "source_url": "https://www.lashinbang.com/store/196/"
  },
@@ -86,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 스루가야 프라모델관에서 북쪽으로 한 블록 간 秋葉原SIL 빌딩 3층. 긴자선 스에히로초역 1번 출구에서 도보 3분, JR 전기가 출구에서 도보 7분이며 엘리베이터로 3층까지 올라간다.",
-  "en": "3F of the Akihabara SIL Building on the east side of Chuo-dori, a block north of Surugaya's plastic-model store. Three minutes from Suehirocho exit 1, seven from the JR Electric Town exit; take the lift to 3F."
+  "en": "3F of the Akihabara SIL Building on the east side of Chuo-dori, a block north of Surugaya's plastic-model store. Three minutes from Suehirocho exit 1, seven from the JR Electric Town exit; take the lift to 3F.",
+  "ja": "中央通りの東側、駿河屋 秋葉原プラモデル館から北へ1ブロック行った秋葉原SILビルの3Fです。銀座線末広町駅1番出口から徒歩3分、JRの電気街口から徒歩7分で、エレベーターで3Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,12 @@
    "The stock leans heavily to men's doujinshi, bishoujo games and 18+ figures and comics, so expect an age check",
    "Buyback runs 11:00-18:00 and covers only men's doujinshi, doujin ROMs, bishoujo games, adult figures and comics and phone cards; anything else goes to the Shinkan or Radio Kaikan branch",
    "This is Lashinbang's third Akihabara shop; for general character goods the Shinkan (AKIBA Cultures Zone) and Radio Kaikan stores are larger"
+  ],
+  "ja": [
+   "支払いは日本円の現金のみで、カードは使えません（アニメイトポイントは利用できます）。免税には対応しています。",
+   "男性向け同人誌・美少女ゲーム・成人向けのフィギュアやコミックの比重が高く、店頭で年齢確認を受けることがあります。",
+   "買取の受付は11:00〜18:00で、男性向け同人誌・同人ROM・美少女ゲーム・成人向けフィギュアやコミック・テレカのみを扱います。それ以外の品はらしんばん秋葉原店新館か、らしんばん秋葉原ラジオ会館店へお持ちください。",
+   "秋葉原のらしんばん3号店にあたり、一般のキャラクターグッズはAKIBAカルチャーズZONEの新館やラジオ会館店のほうが売り場が広いです。"
   ]
  },
  "official_url": "https://www.lashinbang.com/store/196/",

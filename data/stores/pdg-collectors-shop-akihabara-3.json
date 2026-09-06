@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "PSA 등급 포켓몬 카드와 구판 싱글·미개봉 박스를 다루는 컬렉터용 트레카 매장",
-  "en": "Graded Pokemon cards, vintage singles and sealed boxes for collectors"
+  "en": "Graded Pokemon cards, vintage singles and sealed boxes for collectors",
+  "ja": "鑑定済みポケモンカードと旧版シングル、未開封BOXを扱うコレクター向けの店"
  },
  "building_id": "asano-building",
  "floors": [
@@ -52,7 +53,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 아사노(麻野) 빌딩 1층 노면 점포. 같은 건물 3층은 무기 모형점 부소쇼텐이고, 북쪽 옆 고구레스에히로 빌딩 9층에 PDG 본점, 7층에 2호점이 따로 있으니 층과 건물을 확인한다.",
-  "en": "Ground-floor shop in the Asano Building on the west side of Chuo-dori. The replica-weapon shop Busou Shouten is on 3F of the same building, and PDG's main store (9F) and 2nd store (7F) are in the Kogure Suehiro Building next door to the north."
+  "en": "Ground-floor shop in the Asano Building on the west side of Chuo-dori. The replica-weapon shop Busou Shouten is on 3F of the same building, and PDG's main store (9F) and 2nd store (7F) are in the Kogure Suehiro Building next door to the north.",
+  "ja": "中央通り西側の麻野ビル1階にある路面店です。同じビルの3階には模造武器を扱う武装商店があり、PDGの本店（9階）と2号店（7階）は北隣の小暮末広ビルにあります。"
  },
  "tips": {
   "ko": [
@@ -62,6 +64,10 @@
   "en": [
    "Opening hours are not published on the official site; check X (@PDGcollectors_3) before going.",
    "The main store and 2nd store are on upper floors of a different building in the same block - if the address reads 3-15-6, that is not this shop."
+  ],
+  "ja": [
+   "営業時間は公式サイトに公開されていません。訪れる前にX（@PDGcollectors_3）を確認しておくと安心です。",
+   "本店と2号店は同じ区画にある別のビルの上の階なので、住所が3-15-6となっていれば別の店舗です。"
   ]
  },
  "official_url": "https://pdg-collectorsshop.com/",

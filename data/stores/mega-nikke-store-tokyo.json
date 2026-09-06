@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "게임 '승리의 여신: 니케' 공식 상설 스토어. 아크릴·피규어·의류 판매",
-  "en": "Official permanent store for the game NIKKE: acrylic stands, figures and apparel"
+  "en": "Official permanent store for the game NIKKE: acrylic stands, figures and apparel",
+  "ja": "ゲーム「勝利の女神：NIKKE」の公式常設ストア、アクリルスタンドやフィギュア、アパレル"
  },
  "building_id": null,
  "floors": [
@@ -69,7 +70,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 15:00에야 문을 열고 20:00에 닫으며, 토·일·공휴일은 12:00~19:00으로 더 일찍 열고 일찍 닫는다.",
-   "en": "On weekdays it does not open until 15:00 and closes at 20:00; on weekends and holidays it runs 12:00-19:00, opening and closing earlier."
+   "en": "On weekdays it does not open until 15:00 and closes at 20:00; on weekends and holidays it runs 12:00-19:00, opening and closing earlier.",
+   "ja": "平日は15:00にならないと開かず20:00に閉まり、土日と祝日は12:00〜19:00で、開くのも閉まるのも早くなります。"
   },
   "source_url": "https://algernonproduct.co.jp/meganikke-store/"
  },
@@ -85,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역에서 도보 5~7분으로, 전기가 북쪽 출구를 나와 아트레1을 왼쪽에 두고 직진한 뒤 교차로를 건너 JR 고가 아래를 따라 서쪽으로 간다. 오른쪽에 녹지가 보이는 고가 밑에 캐릭터 태피스트리가 걸린 POP@P SPACE 입구가 있고, 안쪽 계단으로 2층에 올라간다.",
-  "en": "Five to seven minutes from JR Akihabara: leave by the Electric Town North Exit, walk past Atre 1 on your left, cross at the intersection and follow the JR viaduct west. With greenery on your right, the POP@P SPACE entrance appears under the overpass with character tapestries hung outside; take the interior stairs to 2F."
+  "en": "Five to seven minutes from JR Akihabara: leave by the Electric Town North Exit, walk past Atre 1 on your left, cross at the intersection and follow the JR viaduct west. With greenery on your right, the POP@P SPACE entrance appears under the overpass with character tapestries hung outside; take the interior stairs to 2F.",
+  "ja": "JR秋葉原駅から徒歩5〜7分です。電気街北口を出てアトレ秋葉原1を左手に見ながら直進し、交差点を渡ってJRの高架沿いに西へ進みます。右手に緑地が見えるあたりの高架下に、キャラクターのタペストリーが掛かったPOP@P SPACEの入口があり、中の階段で2Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -99,6 +102,12 @@
    "Entry tickets or a lottery are used when it is crowded, so check the official X account (@MEGANIKKESTORE).",
    "Purchases for resale are refused, and per-item purchase limits may apply.",
    "POP@P SPACE is a shared pop-up venue, so the other units in the building change from season to season."
+  ],
+  "ja": [
+   "公式サイトには、現金のほかクレジットカード、QR決済、アニメイトペイが使えると書かれています。",
+   "混雑するときは入店の整理券の配布や抽選が行われるので、公式X（@MEGANIKKESTORE）を確認してください。",
+   "転売目的の購入は断られ、商品ごとに購入数の制限がかかることがあります。",
+   "POP@P SPACEはポップアップが共同で入る施設なので、建物内のほかの区画の店は時期によって入れ替わります。"
   ]
  },
  "official_url": "https://algernonproduct.co.jp/meganikke-store/",

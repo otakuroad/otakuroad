@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "애니 피규어를 팔고 매입도 하는 주오도리 1층 소형 매장",
-  "en": "Small street-level figure shop on Chuo-dori that both sells and buys anime figures"
+  "en": "Small street-level figure shop on Chuo-dori that both sells and buys anime figures",
+  "ja": "アニメのフィギュアを売り、買取もする中央通りの小さな路面店"
  },
  "building_id": null,
  "floors": [
@@ -54,7 +55,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도를 스에히로초 방향으로 올라가다 잔파라(じゃんぱら) 아키하바라 5호점 바로 옆. 2024년 6월까지 '코로복쿠루 무료 흡연소'가 있던 프리지아 간다 빌딩 1층 노면 점포로, 피규어가 가득 쌓인 유리창이 표식이다.",
-  "en": "On the west sidewalk of Chuo-dori heading toward Suehirocho, immediately beside Janpara Akihabara No.5. It is the 1F street-front unit of the Freesia Kanda Building, where the Korobokkuru free smoking space stood until June 2024; the window stacked with figures is the marker."
+  "en": "On the west sidewalk of Chuo-dori heading toward Suehirocho, immediately beside Janpara Akihabara No.5. It is the 1F street-front unit of the Freesia Kanda Building, where the Korobokkuru free smoking space stood until June 2024; the window stacked with figures is the marker.",
+  "ja": "中央通りの西側の歩道を末広町の方向へ進んだ、じゃんぱら秋葉原5号店のすぐ隣です。2024年6月までコロボックル無料喫煙所があったフリージア神田ビルの1Fの路面店で、フィギュアが積まれたガラス窓が目印です。"
  },
  "tips": {
   "ko": [
@@ -64,6 +66,10 @@
   "en": [
    "It buys figures as well as selling them; buyback started before the full opening in August 2024.",
    "No page lists official opening hours, so check the shop's X account (@akihabaramaruru) before going."
+  ],
+  "ja": [
+   "売るだけでなくフィギュアの買取もしており、2024年8月の本格的な開店より前に買取から始めていました。",
+   "公式の営業時間を載せているページがないので、行く前に店の公式X（@akihabaramaruru）を確認してください。"
   ]
  },
  "official_url": null,

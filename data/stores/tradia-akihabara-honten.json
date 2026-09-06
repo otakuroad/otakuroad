@@ -40,7 +40,8 @@
  ],
  "one_line": {
   "ko": "듀얼 스페이스를 갖춘 트레카 전문점. 포켓몬·유희왕 싱글과 팩, 매입",
-  "en": "Trading card shop with duel space: Pokemon and Yu-Gi-Oh singles, sealed packs, buyback"
+  "en": "Trading card shop with duel space: Pokemon and Yu-Gi-Oh singles, sealed packs, buyback",
+  "ja": "デュエルスペースのあるトレカ専門店。ポケモン・遊戯王のシングルと未開封パック、買取"
  },
  "building_id": "mn-building",
  "floors": [
@@ -75,11 +76,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "토요일은 평일과 같은 20:00 마감이고 19:00 마감은 일요일·공휴일뿐. 매입 접수는 폐점 15분 전, 듀얼 스페이스 이용은 폐점 10분 전까지.",
-   "en": "Saturday closes at 20:00 like weekdays; only Sunday and public holidays close at 19:00. The buyback counter closes 15 minutes and the duel space 10 minutes before the shop."
+   "en": "Saturday closes at 20:00 like weekdays; only Sunday and public holidays close at 19:00. The buyback counter closes 15 minutes and the duel space 10 minutes before the shop.",
+   "ja": "土曜は平日と同じ20:00までで、19:00に閉まるのは日曜・祝日だけです。買取カウンターは閉店の15分前、デュエルスペースは10分前までです。"
   },
   "source_url": "https://www.toreca-tradia.com/shop/"
  },
@@ -95,7 +98,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목으로 들어가면 왼편에 1층이 가챠폰 회관인 MN빌딩이 있다. 캡슐 기계 옆 건물 입구로 들어가 4층으로 올라간다.",
-  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south on the west side of Chuo-dori and turn right into the first narrow one-way lane; the MN Building, with the Gachapon Kaikan capsule hall on its ground floor, is on the left. Enter beside the capsule machines and go up to 4F."
+  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south on the west side of Chuo-dori and turn right into the first narrow one-way lane; the MN Building, with the Gachapon Kaikan capsule hall on its ground floor, is on the left. Enter beside the capsule machines and go up to 4F.",
+  "ja": "銀座線末広町駅3番出口から中央通りの西側を南へ約90m歩き、最初の細い一方通行の路地を右に入ると、左手に1Fが秋葉原ガチャポン会館のカプセルトイの売り場になっているMNビルがあります。カプセルの機械の横から入って4Fへ上がってください。"
  },
  "tips": {
   "ko": [
@@ -109,6 +113,12 @@
    "The buyback counter closes 15 minutes and the duel space 10 minutes before the shop, so come early if you are selling or want to play.",
    "Card Shop CLIMAX on 3F (the old Toreca ONE unit) and Torecabirth on 6F of the same MN Building let you compare prices without leaving the building.",
    "The same company runs a second branch near the station, Tradia Akihabara Ekichika (Sotokanda 1-13-1, Akiba1131.Bldg 3F, weekdays 13:00-21:00, Sat/Sun/holidays 11:00-21:00)."
+  ],
+  "ja": [
+   "2021年2月にデュエルスペースのあるこの広い店舗へ移り、カードショップビームスからトレーディアへ名前を変えました。古い看板や地図の表記は今もビームスのままです。",
+   "買取カウンターは閉店の15分前、デュエルスペースは10分前に締め切るので、売却や対戦が目的なら早めに行ってください。",
+   "同じMNビルの3Fのカードショップ CLIMAX（旧トレカONEの区画）と6Fのカードショップ トレカバース 秋葉原なら、ビルを出ずに値段を比べられます。",
+   "同じ会社が駅の近くにもう1店、トレカ専門店トレーディア秋葉原駅チカ店（外神田1-13-1 Akiba1131.bldg 3F、平日13:00〜21:00、土日・祝日11:00〜21:00）を出しています。"
   ]
  },
  "official_url": "https://www.toreca-tradia.com/",

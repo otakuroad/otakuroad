@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "같은 3층에 붙어 있는 철도모형 중고·위탁·아웃렛 매장. 중고 매입도 받는다",
-  "en": "Used, consignment and outlet railway models, next to Models IMON on the same 3F"
+  "en": "Used, consignment and outlet railway models, next to Models IMON on the same 3F",
+  "ja": "同じ3FのModels IMON 秋葉原店の隣、中古・委託・アウトレットの鉄道模型"
  },
  "building_id": null,
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "모델스 이몬 아키하바라점과 같은 영업시간이다. 위탁품 출품·정산은 폐점 1시간 전, 매입 접수는 폐점 2시간 전까지만 받는다.",
-   "en": "Same hours as Models IMON Akihabara. Consignment drop-off and settlement stop one hour before closing, and buyback intake two hours before closing."
+   "en": "Same hours as Models IMON Akihabara. Consignment drop-off and settlement stop one hour before closing, and buyback intake two hours before closing.",
+   "ja": "営業時間はModels IMON 秋葉原店と同じです。委託品の出品と精算は閉店の1時間前、買取の受付は閉店の2時間前までです。"
   },
   "source_url": "https://www.imon.co.jp/MODELS/INDEX083.MBR/SHOP"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "모델스 이몬 아키하바라점과 같은 우치다 빌딩(内田ビル) 3층에 나란히 붙어 있다. 1층 전자부품점 HAMADA·센고쿠전상 옆 좁은 입구에서 엘리베이터나 계단으로 3층까지 올라가면 된다. 전화가 잘 연결되지 않을 때는 병설된 이몬 쪽(03-5296-1900)으로 연락한다.",
-  "en": "Shares 3F of the Uchida Building with Models IMON Akihabara. Enter through the narrow doorway beside the ground-floor parts shops HAMADA and Sengoku Densho and take the lift or stairs to 3F. If MONTA's phone line is down, the official notice says to call Models IMON on 03-5296-1900."
+  "en": "Shares 3F of the Uchida Building with Models IMON Akihabara. Enter through the narrow doorway beside the ground-floor parts shops HAMADA and Sengoku Densho and take the lift or stairs to 3F. If MONTA's phone line is down, the official notice says to call Models IMON on 03-5296-1900.",
+  "ja": "Models IMON 秋葉原店と同じ内田ビルの3Fに入っています。1Fの部品店HAMADAと千石電商の脇にある狭い入口から入り、エレベーターか階段で3Fに上がります。MONTAの電話がつながらないときは、公式の案内どおりModels IMON 秋葉原店（03-5296-1900）に連絡してください。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,12 @@
    "Consignment commission is 15% for brass and 20% for plastic; structures are not accepted for consignment.",
    "Selling stock requires photo ID and a personal seal (inkan); under-18s need a guardian's written consent.",
    "Consignment and settlement close one hour before the shop does, and buyback intake two hours before, so arrive early."
+  ],
+  "ja": [
+   "中古品や委託品と並んで、新品を特価で売るアウトレットコーナーがあり、プラスチック製からブラス製まで揃っています。",
+   "委託販売の手数料はブラスが15%、プラスチックが20%で、ストラクチャーは委託の対象外です。",
+   "買取に出すときは写真付きの身分証明書と印鑑が必要で、18歳未満は保護者の同意書がいります。",
+   "委託の出品と精算は閉店の1時間前、買取の受付は2時間前に締め切られるので、早めに訪ねてください。"
   ]
  },
  "official_url": "https://www.imon.co.jp/MONTA/",

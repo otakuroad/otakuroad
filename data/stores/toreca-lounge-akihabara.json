@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "트레카 싱글카드를 팔고 유료 플레이 공간과 음료를 갖춘 2층 카드 라운지",
-  "en": "Second-floor trading card lounge selling singles, with a paid play space and drinks"
+  "en": "Second-floor trading card lounge selling singles, with a paid play space and drinks",
+  "ja": "シングル販売と有料のプレイスペース、ドリンクを備えた2Fのカードラウンジ"
  },
  "building_id": null,
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "운영사 주식회사 마루치플(株式会社マルチプル) 공식 페이지와 공식 X 프로필 모두 11:00~20:00으로 적고 있다. 정기휴일은 어느 쪽에도 명시돼 있지 않고, 단축 영업이나 임시 휴무는 그날그날 공식 X(@torecalounge)에 올라온다.",
-   "en": "Both the operator's page (Multiple Inc.) and the shop's own X profile give 11:00-20:00. Neither states a regular holiday; shortened days and one-off closures are posted on the shop's X (@torecalounge)."
+   "en": "Both the operator's page (Multiple Inc.) and the shop's own X profile give 11:00-20:00. Neither states a regular holiday; shortened days and one-off closures are posted on the shop's X (@torecalounge).",
+   "ja": "運営会社である株式会社マルチプルの公式ページも店の公式Xのプロフィールも、11:00-20:00と記載しています。どちらにも定休日の記載はなく、短縮営業や臨時休業はその都度、店の公式X（@torecalounge）に掲載されます。"
   },
   "source_url": "https://multiple.ltd/akihabara/"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리 북쪽 끝 '뉴 스에히로 빌딩(ニュー末広ビル)' 2층 201호다. 1층 간판이 작아 건물 이름을 보고 찾는 편이 빠르다.",
-  "en": "One minute from Suehirocho on the Ginza Line, five from JR Akihabara: room 201 on 2F of the New Suehiro Building at the north end of Chuo-dori. The street-level sign is small, so look for the building name."
+  "en": "One minute from Suehirocho on the Ginza Line, five from JR Akihabara: room 201 on 2F of the New Suehiro Building at the north end of Chuo-dori. The street-level sign is small, so look for the building name.",
+  "ja": "銀座線の末広町駅から徒歩1分、JR秋葉原駅からは徒歩5分、中央通りの北の端に建つニュー末広ビル2Fの201号室です。路面の看板が小さいので、建物名を目印に探してください。"
  },
  "tips": {
   "ko": [
@@ -92,6 +95,11 @@
    "One minute from Suehirocho on the Ginza Line and five from JR Akihabara, so it pairs easily with the card shops at the north end of Chuo-dori.",
    "The 32-seat play space comes with free drinks and snacks, and there is a private room. Seat fees are not published, so check the shop's X or LINE before going.",
    "Pokemon and One Piece cards are the main lines; they also buy, sell and take cards on consignment."
+  ],
+  "ja": [
+   "銀座線の末広町駅から徒歩1分、JR秋葉原駅から徒歩5分なので、中央通り北端のカードショップと合わせて回りやすい場所です。",
+   "32席の対戦スペースには無料のドリンクとお菓子が付き、個室もあります。座席料金は公表されていないので、行く前に店の公式XかLINEで確認してください。",
+   "ポケモンカードとワンピースカードが主力で、買取・販売のほか委託販売も受け付けています。"
   ]
  },
  "official_url": "https://multiple.ltd/akihabara/",

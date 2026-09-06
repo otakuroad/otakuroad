@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "A-FRONT 6·7층 메이드카페. 오무라이스·음료와 체키 촬영, 시간당 귀가료 880엔",
-  "en": "Maid cafe on A-FRONT 6F-7F: omurice, drinks and cheki photos, 880 yen per hour"
+  "en": "Maid cafe on A-FRONT 6F-7F: omurice, drinks and cheki photos, 880 yen per hour",
+  "ja": "A-FRONT 6F・7Fのメイドカフェ、オムライスやドリンクとチェキ、1時間880円"
  },
  "building_id": "a-front",
  "floors": [
@@ -57,7 +58,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 '아크세스/가게 소개' 페이지는 요일 구분 없이 14:00~22:00으로만 안내한다. 정기휴일 안내는 없다.",
-   "en": "The official access/shop page gives 14:00-22:00 with no day-by-day breakdown, and states no regular closing day."
+   "en": "The official access/shop page gives 14:00-22:00 with no day-by-day breakdown, and states no regular closing day.",
+   "ja": "公式のアクセス・店舗紹介ページは曜日の区別なく14:00〜22:00とだけ案内しています。定休日の記載はありません。"
   },
   "source_url": "https://magicaltwintail.com/shop/"
  },
@@ -73,7 +75,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역·스에히로초역에서 각각 도보 3분. 1층에 대만 음료점 CoCo都可가 있는 A-FRONT 빌딩이며, 그 옆 입구에서 엘리베이터로 6층에 오른다. 좌석이 6층과 7층 두 층에 나뉘어 있고, 같은 건물 4층은 '七つの大罪', 8층은 래빗 캐슬, 10층은 스위트 캣이라 엘리베이터 층 표시를 확인한다.",
-  "en": "Three minutes from both JR Akihabara and Suehirocho. A-FRONT is the tower with the CoCo Tokka bubble-tea stand at street level; take the lift beside it to 6F. Seating is split over 6F and 7F, and the same building holds The Seven Deadly Sins on 4F, Rabbit Castle on 8F and Sweet Cat on 10F, so check the floor sign."
+  "en": "Three minutes from both JR Akihabara and Suehirocho. A-FRONT is the tower with the CoCo Tokka bubble-tea stand at street level; take the lift beside it to 6F. Seating is split over 6F and 7F, and the same building holds The Seven Deadly Sins on 4F, Rabbit Castle on 8F and Sweet Cat on 10F, so check the floor sign.",
+  "ja": "JR秋葉原駅からも末広町駅からもそれぞれ徒歩3分です。A-FRONTは1階にタピオカドリンクのCoCo都可が入っているビルで、その横のエレベーターで6Fに上がります。席は6Fと7Fの2フロアに分かれていて、同じビルの4Fにコンセプトカフェ七つの大罪秋葉原、8FにRabbit Castle（ラビットキャッスル）、10Fにすい〜ときゃっとが入っているので、階数の表示を確認してください。"
  },
  "tips": {
   "ko": [
@@ -87,6 +90,12 @@
    "Cash, credit cards, e-money and QR payments are accepted; Merpay is currently unavailable.",
    "Cheki instant photos are 1,100 and 2,200 yen, and food such as the 1,760 yen omurice is priced on the official menu page.",
    "The shop's Instagram notes days when 6F opens at 14:00 and 7F only from 15:00, so head to 6F early in the day."
+  ],
+  "ja": [
+   "料金は時間制のお帰り料金で1時間880円（年末年始は990円）、1時間ごとにドリンクを1杯注文して自動的に延長される仕組みです。",
+   "現金のほかクレジットカード、電子マネー、QR決済が使えます。メルペイは現在利用できません。",
+   "チェキは1,100円と2,200円、オムライスは1,760円など、メニューの価格は公式サイトに公開されています。",
+   "店の公式Instagramの案内では6Fが14:00、7Fが15:00から営業する日があるので、早い時間は6Fを利用してください。"
   ]
  },
  "official_url": "https://magicaltwintail.com/",

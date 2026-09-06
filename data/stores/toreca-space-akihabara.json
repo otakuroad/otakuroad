@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·듀얼마스터즈·원피스 카드 싱글과 미개봉 팩, 대량 매입",
-  "en": "Pokemon, Yu-Gi-Oh!, Duel Masters and One Piece singles and sealed packs; bulk buyback"
+  "en": "Pokemon, Yu-Gi-Oh!, Duel Masters and One Piece singles and sealed packs; bulk buyback",
+  "ja": "ポケモン・遊戯王・デュエル・マスターズ・ワンピースのシングルと未開封パック、大量買取"
  },
  "building_id": null,
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 웹사이트가 없어 영업시간은 매장 공식 X(@torecaspace_akb) 프로필의 '【営業時間】13:00-20:00' 표기를 옮긴 것이다. 요일별 구분과 정기휴일 안내는 공개되어 있지 않으며, 계정이 매일 '본일도 오픈' 글을 올리고 토·일에도 같은 13:00-20:00으로 안내한다.",
-   "en": "The shop has no website, so these hours come from its own X profile (@torecaspace_akb), which states 13:00-20:00. No per-day split or regular holiday is published; the account posts an 'open today' notice daily and gives the same 13:00-20:00 on Saturdays and Sundays."
+   "en": "The shop has no website, so these hours come from its own X profile (@torecaspace_akb), which states 13:00-20:00. No per-day split or regular holiday is published; the account posts an 'open today' notice daily and gives the same 13:00-20:00 on Saturdays and Sundays.",
+   "ja": "公式ウェブサイトがないため、営業時間は店の公式Xのプロフィール（@torecaspace_akb）にある13:00-20:00の表記によるものです。曜日ごとの区別や定休日は公表されておらず、アカウントは毎日「本日もオープン」の投稿をしていて、土日も同じ13:00-20:00と案内しています。"
   },
   "source_url": "https://x.com/torecaspace_akb"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽 뒷골목, 벨살레 아키하바라 옆이자 AKIBA 컬처즈존 건너편에 있는 치치부전기(チチブ電機) 빌딩 4층. 같은 건물 1층은 아키바노엑스 중앙점이다. 엘리베이터가 있지만 그 앞에 계단이 몇 단 있다.",
-  "en": "4F of the Chichibu Denki Building on the back street one block west of Chuo-dori, next to Bellesalle Akihabara and across from AKIBA Cultures Zone. Akiba no X Chuo occupies the same building's ground floor. There is a lift, but a few steps sit in front of it."
+  "en": "4F of the Chichibu Denki Building on the back street one block west of Chuo-dori, next to Bellesalle Akihabara and across from AKIBA Cultures Zone. Akiba no X Chuo occupies the same building's ground floor. There is a lift, but a few steps sit in front of it.",
+  "ja": "中央通りから西へ一本入った裏通りにあるチチブ電機ビルの4Fで、ベルサール秋葉原の隣、AKIBAカルチャーズZONEの向かいです。同じ建物の1Fはアキバのエックス 中央店です。エレベーターはありますが、その手前に数段の階段があります。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,12 @@
    "It carries four titles at once - Pokemon, Yu-Gi-Oh! OCG, Duel Masters and One Piece - so you can check several games in one stop.",
    "Listings say it handles bulk walk-in buyback, including boxes brought in by the carton.",
    "Cash, PayPay and credit cards are accepted. There is no official hours page; the shop's X profile (@torecaspace_akb) states 13:00-20:00."
+  ],
+  "ja": [
+   "古いディレクトリに残っている3-12-2の住所は旧店舗のものです。2023年10月25日にその建物の取り壊しでいったん休業し、すぐ隣のチチブ電機ビル4Fへ移転しました。",
+   "ポケモン、遊戯王OCG、デュエル・マスターズ、ワンピースの4タイトルをまとめて扱っているので、複数のタイトルを一度に見て回れます。",
+   "BOX単位でカートンごと持ち込むような大量買取にも対応すると紹介されています。",
+   "支払いは現金・PayPay・クレジットカードが使えます。公式の営業時間のページはなく、店の公式Xのプロフィール（@torecaspace_akb）が13:00-20:00と記載しています。"
   ]
  },
  "official_url": null,

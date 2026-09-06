@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "항공기·함선·전차·철도 스케일 모형 3만 점 이상과 공구·도료를 파는 모형 매장",
-  "en": "Over 30,000 scale model kits - aircraft, ships, AFVs, trains - plus tools and paints"
+  "en": "Over 30,000 scale model kits - aircraft, ships, AFVs, trains - plus tools and paints",
+  "ja": "航空機・艦船・AFV・鉄道など3万点を超えるスケールモデルと工具・塗料"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -67,11 +68,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(건물 휴관일 제외)",
-   "en": "Open year-round except building closure days"
+   "en": "Open year-round except building closure days",
+   "ja": "年中無休（建物の休館日を除く）"
   },
   "note": {
    "ko": "평일 11:00, 토·일·공휴일 10:00 개점으로 같은 8F 돌포인트와 시간이 같다. 임시 휴업·시간 변경은 라디오회관 공지(8F 볼크스)에 함께 올라온다",
-   "en": "Opens 11:00 on weekdays and 10:00 at weekends and holidays, the same as Doll Point on the same 8F. Temporary closures and changed hours are posted together as '8F Volks' notices on the Radio Kaikan site"
+   "en": "Opens 11:00 on weekdays and 10:00 at weekends and holidays, the same as Doll Point on the same 8F. Temporary closures and changed hours are posted together as '8F Volks' notices on the Radio Kaikan site",
+   "ja": "平日は11:00、土日・祝日は10:00に開き、同じ8Fのボークス ドールポイント秋葉原と同じ時間です。臨時休業や営業時間の変更は、ラジオ会館のサイトに「8F ボークス」のお知らせとしてまとめて掲載されます。"
   },
   "source_url": "https://hobby.volks.co.jp/shop/hs_akihabara.html"
  },
@@ -87,7 +90,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 8F 전체가 볼크스다. 엘리베이터에서 내려 인형(돌포인트) 반대쪽, 모형 상자가 벽면을 채운 약 120평 매장이 호비스퀘어.",
-  "en": "The whole 8F of Radio Kaikan is Volks. From the elevator, Hobby Square is the side opposite Doll Point: roughly 400 square metres with model boxes filling the walls."
+  "en": "The whole 8F of Radio Kaikan is Volks. From the elevator, Hobby Square is the side opposite Doll Point: roughly 400 square metres with model boxes filling the walls.",
+  "ja": "ラジオ会館の8Fは全体がボークスです。エレベーターを降りてボークス ドールポイント秋葉原の反対側、模型の箱が壁一面に並ぶ約400平方メートルの売り場がホビースクエアです。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,11 @@
    "Volks bills this as one of the largest scale-model floors in eastern Japan: 30,000-plus aircraft, ship, AFV and railway kits alongside paints, tools and airbrush supplies.",
    "The stock leans military and scale rather than character kits, so Gunpla-focused shoppers may do better elsewhere.",
    "It shares its phone number (03-5256-1990) and hours with Doll Point on the same 8F, and Google Maps sometimes merges the two into one listing."
+  ],
+  "ja": [
+   "ボークス自身が東日本最大級のスケールモデルのフロアとして紹介している店で、3万点を超える航空機・艦船・AFV・鉄道の模型に加えて、塗料や工具、エアブラシ用品をそろえています。",
+   "キャラクタープラモデルよりミリタリー・スケールモデルの比重が大きいので、ガンプラ中心の方はほかの店のほうがよいかもしれません。",
+   "同じ8Fのボークス ドールポイント秋葉原と電話番号（03-5256-1990）と営業時間を共有していて、Googleマップでは2つが一つにまとめて表示されることもあります。"
   ]
  },
  "official_url": "https://hobby.volks.co.jp/shop/hs_akihabara.html",

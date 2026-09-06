@@ -24,7 +24,8 @@
  ],
  "one_line": {
   "ko": "크레인게임만 두는 소형 오락실. 피규어·인형 등 최신 프라이즈 경품 중심",
-  "en": "Small crane-game-only arcade stocked with the newest figure and plush prizes"
+  "en": "Small crane-game-only arcade stocked with the newest figure and plush prizes",
+  "ja": "クレーンゲームだけの小さなゲームセンター。最新のフィギュアやぬいぐるみの景品"
  },
  "building_id": null,
  "floors": [
@@ -56,11 +57,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "가게 블로그가 '연중무휴, 영업시간은 10시부터 22시(쯤)'이라고 적어 둔 값이다. 다만 그 글이 2012년 개점 안내 글이고 이후 영업시간 갱신이 없으므로 대략적인 기준으로만 보고, 방문 전 블로그나 X(@yuugijo)를 확인하는 편이 안전하다.",
-   "en": "The shop's own blog states 年中無休 and hours of 10:00-22:00 '(roughly)'. That post is its 2012 opening announcement and the hours have never been updated since, so treat them as approximate and check the blog or X (@yuugijo) before going."
+   "en": "The shop's own blog states 年中無休 and hours of 10:00-22:00 '(roughly)'. That post is its 2012 opening announcement and the hours have never been updated since, so treat them as approximate and check the blog or X (@yuugijo) before going.",
+   "ja": "店のブログが年中無休、営業時間は10:00〜22:00「くらい」と書いています。ただしその記事は2012年の開店の告知で、以降営業時間が更新されていないため、おおよその目安と考えて、行く前にブログかX（@yuugijo）を確認してください。"
   },
   "source_url": "https://yugijo.livedoor.blog/archives/7151259.html"
  },
@@ -76,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽, 외신다 3초메의 이사미야 제2빌딩 1층. 간판 표기가 '遊戯場'과 '遊技場' 두 가지로 섞여 있으니 둘 다 같은 가게로 보면 된다.",
-  "en": "Ground floor of the Isamiya No.2 Building in Sotokanda 3-chome, on the back streets west of Chuo-dori. The signage mixes the spellings 遊戯場 and 遊技場 - they are the same shop."
+  "en": "Ground floor of the Isamiya No.2 Building in Sotokanda 3-chome, on the back streets west of Chuo-dori. The signage mixes the spellings 遊戯場 and 遊技場 - they are the same shop.",
+  "ja": "中央通りの西の裏通り、外神田3丁目のイサミヤ第2ビルの1Fです。看板の表記は「遊戯場」と「遊技場」が混ざっていますが、どちらも同じ店です。"
  },
  "tips": {
   "ko": [
@@ -90,6 +94,12 @@
    "The only hours the blog ever published are '10:00-22:00 (roughly)' in its 2012 opening post, so they are not current - check the blog or X (@yuugijo) before going.",
    "One room of claw machines only - no video or medal cabinets.",
    "Cashless has worked since March 2022: transit IC, nanaco, Rakuten Edy, WAON, iD and PASELI, plus QR payment (Alipay, Rakuten Pay, d-barai, PayPay, MerPay, au PAY and J-Coin Pay)."
+  ],
+  "ja": [
+   "公式ブログに翌月のプライズの入荷予定が載ります（2026年9月分まで掲載されています）。",
+   "ブログが載せた営業時間は2012年の開店の記事の「10時〜22時（くらい）」だけで、最新のものではありません。行く前にブログかX（@yuugijo）で確認してください。",
+   "ビデオゲームやメダルゲームはなく、クレーンゲームだけの一部屋の店です。",
+   "2022年3月からキャッシュレスに対応し、交通系IC、nanaco、楽天Edy、WAON、iD、PASELIと、QR決済（Alipay、楽天ペイ、d払い、PayPay、メルペイ、au PAY、J-Coin Pay）が使えます。"
   ]
  },
  "official_url": "https://yugijo.livedoor.blog/",

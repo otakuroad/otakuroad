@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "1층은 중고 애니 피규어·굿즈, 2층은 가챠폰·쿠지가챠·포켓몬카드 가챠 전용 층",
-  "en": "Used anime figures and goods on 1F, with a whole 2F floor of gachapon, kuji gacha and Pokemon-card gacha machines"
+  "en": "Used anime figures and goods on 1F, with a whole 2F floor of gachapon, kuji gacha and Pokemon-card gacha machines",
+  "ja": "1Fは中古アニメフィギュア・グッズ、2Fはガチャポン・くじガチャ・ポケモンカードガチャ専用フロア"
  },
  "building_id": "liberty-5gokan",
  "floors": [
@@ -44,12 +45,14 @@
   {
    "floor": "1F",
    "ko": "중고 애니 피규어·굿즈 판매 층",
-   "en": "Sales floor for used anime figures and character goods"
+   "en": "Sales floor for used anime figures and character goods",
+   "ja": "中古アニメフィギュアとキャラクターグッズの販売フロアです。"
   },
   {
    "floor": "2F",
    "ko": "가챠폰·쿠지가챠·포켓몬카드 가챠 전용 층",
-   "en": "Dedicated floor of gachapon, kuji gacha and Pokemon-card gacha machines"
+   "en": "Dedicated floor of gachapon, kuji gacha and Pokemon-card gacha machines",
+   "ja": "ガチャポン、くじガチャ、ポケモンカードガチャの専用フロアです。"
   }
  ],
  "location": null,
@@ -74,11 +77,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트는 전 점포 매일 11:00~20:30·연중무휴로 안내한다(점포별로 다를 수 있음). 일본 지역 정보 사이트에는 평일 11:00~20:00, 토·일·공휴일 10:30~20:00 같은 옛 시간이 남아 있다.",
-   "en": "The official site gives 11:00-20:30 every day, open year-round, for all branches (it notes hours may vary by store). Japanese local-information sites still carry older times such as 11:00-20:00 on weekdays and 10:30-20:00 at weekends."
+   "en": "The official site gives 11:00-20:30 every day, open year-round, for all branches (it notes hours may vary by store). Japanese local-information sites still carry older times such as 11:00-20:00 on weekdays and 10:30-20:00 at weekends.",
+   "ja": "公式サイトは全店舗について毎日11:00〜20:30、年中無休と案内しています（店舗によって異なる場合があるとの注記付きです）。日本の地域情報サイトには、平日11:00〜20:00、土日10:30〜20:00といった古い時間が残っています。"
   },
   "source_url": "https://www.liberty-shop.co.jp/visit/"
  },
@@ -94,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽 보도, 스루가야 애니메·호비관이 들어 있는 KHK빌딩 바로 남쪽 9층 건물의 1층과 2층이다. 가게 안내로는 JR 아키하바라역에서 도보 5분, 긴자선 스에히로초역에서 도보 2분. 보도 쪽에 가챠폰 기계가 늘어서 있어 눈에 잘 띈다.",
-  "en": "Floors 1 and 2 of the nine-story building immediately south of the KHK Building (Surugaya Anime & Hobby) on the east sidewalk of Chuo-dori. The shop's own directions give five minutes from JR Akihabara and two from Ginza-line Suehirocho; rows of gachapon machines on the pavement make it easy to spot."
+  "en": "Floors 1 and 2 of the nine-story building immediately south of the KHK Building (Surugaya Anime & Hobby) on the east sidewalk of Chuo-dori. The shop's own directions give five minutes from JR Akihabara and two from Ginza-line Suehirocho; rows of gachapon machines on the pavement make it easy to spot.",
+  "ja": "中央通り東側の歩道に面した、駿河屋 秋葉原アニメ・ホビー館が入るKHKビルのすぐ南隣、9階建てのビルの1Fと2Fです。店の案内ではJR秋葉原駅から徒歩5分、銀座線の末広町駅から徒歩2分で、歩道にガチャポンの機械が並んでいるので見つけやすくなっています。"
  },
  "tips": {
   "ko": [
@@ -108,6 +114,12 @@
    "The draw here is gachapon, happy (blind) bags and Pokemon-card vending machines, so bring 100-yen coins.",
    "Credit cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), Apple Pay and Google Pay, Suica and PASMO, and PayPay, WeChat Pay and Alipay are all accepted.",
    "For more figures, walk Chuo-dori north to the Liberty Building at Sotokanda 4-7-1 (Store 8 on 1F, Store 11 on 2F for Gunpla and minicars) or south to the Ogiso Building at 4-4-3 (Store 4, Ichiban Kuji)."
+  ],
+  "ja": [
+   "パスポートの原本を提示し、1店舗で税込5,500円以上購入すると免税になります。リバティーは秋葉原の6店舗すべてが免税に対応しており、フィギュアなどの一般物品は封をせずそのまま持ち帰れます。",
+   "主力はガチャポン、中身のわからないハッピーバッグ、ポケモンカードの自販機なので、100円玉を用意していくと便利です。",
+   "クレジットカード（VISA・Mastercard・JCB・AMEX・Diners・Discover・UnionPay）、Apple Pay・Google Pay、SuicaとPASMO、PayPay・WeChat Pay・Alipayがすべて使えます。",
+   "フィギュアをもっと見たいときは、中央通りを北へ進んだ外神田4-7-1のリバティービル（1Fが8号店、2Fがガンプラ・ミニカーの11号店）か、南の4-4-3の小木曽ビル（4号店、一番くじ）まで足を延ばしてください。"
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",

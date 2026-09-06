@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·바이스슈발츠 오리파와 PSA 싱글을 파는 토라 빌딩 8층 카드숍",
-  "en": "Card shop on 8F of the Tora Building selling oripa packs and PSA singles for Pokemon, One Piece and Weiss Schwarz"
+  "en": "Card shop on 8F of the Tora Building selling oripa packs and PSA singles for Pokemon, One Piece and Weiss Schwarz",
+  "ja": "ポケモン・ワンピース・ヴァイスシュヴァルツのオリパとPSAシングルを扱う虎ビル8Fのカードショップ"
  },
  "building_id": "akihabara-tora-building",
  "floors": [
@@ -62,7 +63,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포 공식 X 프로필(@torekamonk)에 적힌 11:00~20:00 기준이고, 매입 최종 접수는 19:30이다. 요일별 구분이나 정기휴무는 안내돼 있지 않아 임시 휴무는 X를 봐야 알 수 있다.",
-   "en": "The 11:00-20:00 hours come from the shop's own X profile (@torekamonk), which also gives 19:30 as the last buyback intake. No weekday/weekend split or closing day is stated, so temporary closures show up only on X."
+   "en": "The 11:00-20:00 hours come from the shop's own X profile (@torekamonk), which also gives 19:30 as the last buyback intake. No weekday/weekend split or closing day is stated, so temporary closures show up only on X.",
+   "ja": "営業時間11:00-20:00は店の公式Xのプロフィール（@torekamonk）によるもので、買取の最終受付も同じく19:30と記載されています。平日と土日の区別や定休日の記載はないため、臨時休業はXでしか分かりません。"
   },
   "source_url": "https://x.com/torekamonk"
  },
@@ -78,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 5분, 쿠라마에바시도리 교차로 직전 오른쪽(동쪽)에 선 좁은 9층 건물이 아키하바라 토라 빌딩이다. 도쿄메트로 긴자선 스에히로초역 1번 출구에서는 남쪽으로 10m. 1층 트레카 매장 마하 옆 입구의 엘리베이터 한 대로 8층까지 올라간다.",
-  "en": "Five minutes north of the JR Electric Town Exit along Chuo-dori, on your right (east) just before the Kuramaebashi-dori crossing, is the narrow nine-storey Akihabara Tora Building; from exit 1 of Tokyo Metro Ginza Line Suehirocho it is 10 m south. Ride the single elevator in the entrance beside the ground-floor card shop Mach up to 8F."
+  "en": "Five minutes north of the JR Electric Town Exit along Chuo-dori, on your right (east) just before the Kuramaebashi-dori crossing, is the narrow nine-storey Akihabara Tora Building; from exit 1 of Tokyo Metro Ginza Line Suehirocho it is 10 m south. Ride the single elevator in the entrance beside the ground-floor card shop Mach up to 8F.",
+  "ja": "JRの電気街口から中央通りを北へ徒歩5分、蔵前橋通りの交差点の手前の右側（東側）に建つ細い9階建てが秋葉原虎ビルです。東京メトロ銀座線の末広町駅1番出口からは南へ10mです。1Fのカードショップ マッハの隣にある入口から、1台しかないエレベーターで8Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -92,6 +95,12 @@
    "The buyback desk takes its last item at 19:30, half an hour before the 20:00 close.",
    "Titles handled are Pokemon, One Piece and Weiss Schwarz among others. There is no website, so stock and unscheduled closures appear only on X.",
    "Mach on 1F, TCG GATE on 2F and Toreka BH on 7F are card shops as well, so you can compare prices without leaving the building."
+  ],
+  "ja": [
+   "オリパ（ランダムパック）が看板商品で、残りの口数をほぼ毎日X（@torekamonk）に投稿しています。ポケモンのPSA10鑑定品も販売しています。",
+   "買取カウンターの最終受付は19:30で、閉店の20:00より30分早く終わります。",
+   "取り扱いタイトルはポケモン・ワンピース・ヴァイスシュヴァルツなどです。ホームページがないため、在庫や臨時の休業はXでしか分かりません。",
+   "1Fのマッハ、2FのTCG GATE（トレカゲート）秋葉原本店、7FのトレカBH秋葉原店もカードショップなので、建物から出ずに値段を比べられます。"
   ]
  },
  "photo": null,

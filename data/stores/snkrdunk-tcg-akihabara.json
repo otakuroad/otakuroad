@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스 싱글 판매와 매입, 3층 대전석과 5층 PSA 감정 접수 창구",
-  "en": "Pokemon and One Piece singles and buyback; play space on 3F, PSA grading desk on 5F"
+  "en": "Pokemon and One Piece singles and buyback; play space on 3F, PSA grading desk on 5F",
+  "ja": "ポケモン・ワンピースのシングルと買取、3Fに対戦スペース・5FにPSA鑑定受付"
  },
  "building_id": null,
  "floors": [
@@ -48,22 +49,26 @@
   {
    "floor": "1F",
    "ko": "판매 플로어. 포켓몬 카드를 중심으로 감정을 거친 싱글 카드를 쇼케이스에 진열",
-   "en": "Sales floor: authenticated singles, mostly Pokemon, laid out in display cases"
+   "en": "Sales floor: authenticated singles, mostly Pokemon, laid out in display cases",
+   "ja": "販売フロアです。ポケモンカードを中心に、鑑定を通ったシングルカードをショーケースに並べています。"
   },
   {
    "floor": "2F",
    "ko": "매입 접수 카운터(11:00~19:00)",
-   "en": "Buyback reception counter (11:00-19:00)"
+   "en": "Buyback reception counter (11:00-19:00)",
+   "ja": "買取受付カウンターです（11:00〜19:00）。"
   },
   {
    "floor": "3F",
    "ko": "플레이 스페이스(32석)",
-   "en": "Play space (32 seats)"
+   "en": "Play space (32 seats)",
+   "ja": "プレイスペース（32席）です。"
   },
   {
    "floor": "5F",
    "ko": "PSA Lounge Tokyo. PSA JAPAN의 그레이딩 신청 접수·계정 개설 지원·완료 카드 수령 창구로, 화·수 휴무에 11:00~14:00 / 15:00~19:30(최종 접수 18:30) 운영",
-   "en": "PSA Lounge Tokyo, PSA Japan's grading intake desk (account setup, submissions, card pickup); closed Tue-Wed, open 11:00-14:00 and 15:00-19:30, last intake 18:30"
+   "en": "PSA Lounge Tokyo, PSA Japan's grading intake desk (account setup, submissions, card pickup); closed Tue-Wed, open 11:00-14:00 and 15:00-19:30, last intake 18:30",
+   "ja": "PSA Lounge Tokyoです。PSA JAPANのグレーディングの申し込み受付、アカウント開設のサポート、完了したカードの受け取り窓口で、火・水曜が休み、11:00〜14:00と15:00〜19:30の営業（最終受付18:30）です。"
   }
  ],
  "location": {
@@ -91,11 +96,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입 접수는 11:00~19:00. 5층 PSA Lounge Tokyo는 화·수 휴무에 11:00~14:00 / 15:00~19:30로 매장과 다르다. 임시 휴업은 점포 X(@snkrdunk_akiba) 공지",
-   "en": "Buyback intake runs 11:00-19:00. PSA Lounge Tokyo on 5F keeps different hours (11:00-14:00 and 15:00-19:30, closed Tue and Wed). Temporary closures are posted on X (@snkrdunk_akiba)"
+   "en": "Buyback intake runs 11:00-19:00. PSA Lounge Tokyo on 5F keeps different hours (11:00-14:00 and 15:00-19:30, closed Tue and Wed). Temporary closures are posted on X (@snkrdunk_akiba)",
+   "ja": "買取の受付は11:00〜19:00です。5FのPSA Lounge Tokyoは営業時間が異なり、火・水曜が休みで11:00〜14:00と15:00〜19:30です。臨時休業は店舗のX（@snkrdunk_akiba）で告知されます。"
   },
   "source_url": "https://snkrdunk.com/store/tradingcard-akihabara"
  },
@@ -111,7 +118,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 개찰구에서 도보 30초. 게이머즈 본점과 같은 외신다 1초메 빌딩 블록의 중앙동이며, 층마다 역할이 달라 사는 것은 1층, 파는 것은 2층, 대전은 3층이다.",
-  "en": "Thirty seconds from the ticket gates at JR Akihabara's Electric Town exit, in the central wing of the same Sotokanda 1-chome Building block as Gamers. Each floor has one job: buy on 1F, sell on 2F, play on 3F."
+  "en": "Thirty seconds from the ticket gates at JR Akihabara's Electric Town exit, in the central wing of the same Sotokanda 1-chome Building block as Gamers. Each floor has one job: buy on 1F, sell on 2F, play on 3F.",
+  "ja": "JR秋葉原駅電気街口の改札から徒歩30秒、AKIHABARAゲーマーズ本店と同じ外神田一丁目ビルのブロックの中央棟にあります。フロアごとに役割が決まっていて、買うのは1F、売るのは2F、対戦は3Fです。"
  },
  "tips": {
   "ko": [
@@ -125,6 +133,12 @@
    "Buyback caps: 50 kinds of singles at 20 copies each (1,000 cards), 50 PSA 10 slabs, and 12 sealed boxes. Sort your cards into individually-appraised and minimum-guarantee piles before you queue.",
    "PSA Lounge Tokyo on 5F takes PSA Japan grading submissions and hands back finished cards, but its opening days and hours differ from the shop.",
    "When the queue is long or the till runs low, new buyback intake can stop before the posted cut-off; notices go out on X."
+  ],
+  "ja": [
+   "オンラインマーケットプレイスであるスニダンのトレカ実店舗として、2023年7月1日にオープンしました。並んでいるのは鑑定を通ったカードが中心です。",
+   "買取には上限があり、シングルは50種類・1種類につき20枚（1,000枚）、PSA10は合計50枚、未開封BOXは12箱までです。並ぶ前に個別査定を希望する分と最低保証を希望する分に分けておくとスムーズです。",
+   "5FのPSA Lounge TokyoではPSA JAPANのグレーディングの申し込みと完了したカードの受け取りができますが、営業日と営業時間は店舗と異なります。",
+   "待ち人数が多いときや現金が足りなくなったときは、告知された締め切り前でも新規の買取受付を止めることがあり、告知はXで行われます。"
   ]
  },
  "official_url": "https://snkrdunk.com/store/tradingcard-akihabara",

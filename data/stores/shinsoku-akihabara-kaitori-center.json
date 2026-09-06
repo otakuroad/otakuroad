@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·유희왕 등 트레카를 매입만 하는 카운터. 판매는 없음",
-  "en": "Buyback-only counter for Pokemon, One Piece and Yu-Gi-Oh cards; nothing is sold here"
+  "en": "Buyback-only counter for Pokemon, One Piece and Yu-Gi-Oh cards; nothing is sold here",
+  "ja": "ポケモン・ワンピース・遊戯王カードの買取専門カウンター、販売はなし"
  },
  "building_id": "maruyama-building",
  "floors": [
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "영업시간은 공식 사이트가 아니라 점포 공식 X 프로필(@shinsoku_akb_KC)에 적힌 11:30~19:30 기준이다. 매입 최종 접수는 19:00에 끝난다. 요일별 구분은 안내돼 있지 않다.",
-   "en": "The 11:30-19:30 hours come from the shop's own X profile (@shinsoku_akb_KC), not the chain website; the last buyback intake is at 19:00 and no separate weekday/weekend times are given."
+   "en": "The 11:30-19:30 hours come from the shop's own X profile (@shinsoku_akb_KC), not the chain website; the last buyback intake is at 19:00 and no separate weekday/weekend times are given.",
+   "ja": "営業時間はチェーンの公式サイトではなく、店舗公式Xのプロフィール（@shinsoku_akb_KC）に書かれた11:30〜19:30によります。買取の最終受付は19:00で、平日と土日の区別は案内されていません。"
   },
   "source_url": "https://x.com/shinsoku_akb_KC"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "쇼헤이바시도리(昌平橋通り) 변 丸山ビル 1층 노면 점포. 긴자선 스에히로초역에서 도보 4분, JR 아키하바라역에서 도보 9분. 예전 카레집 벵갈, 이후 콘셉트카페 '메멘토 유니콘'이 있던 자리다.",
-  "en": "A street-level unit on 1F of the Maruyama Building on Shohei-bashi-dori, four minutes from Suehirocho Station and nine from JR Akihabara. The space was the curry restaurant Bengal and later the concept cafe Memento Unicorn."
+  "en": "A street-level unit on 1F of the Maruyama Building on Shohei-bashi-dori, four minutes from Suehirocho Station and nine from JR Akihabara. The space was the curry restaurant Bengal and later the concept cafe Memento Unicorn.",
+  "ja": "昌平橋通り沿いの丸山ビル1Fの路面店で、末広町駅から徒歩4分、JR秋葉原駅から徒歩9分です。この場所には、かつてカレー店のベンガル、その後コンセプトカフェのMemento Unicornが入っていました。"
  },
  "tips": {
   "ko": [
@@ -87,6 +90,11 @@
    "Buyback only - there is nothing on the shelves to buy. For cards, use Shinsoku's 3rd store (Kyoeki Sotokanda Bldg 1F/B1F) or 6th store (Shin-Suehiro Bldg 1F/2F) on Chuo-dori.",
    "The shop's X leads with PSA-graded cards and sealed boxes as what it buys; Pokemon, One Piece, Yu-Gi-Oh, Dragon Ball and Weiss Schwarz are chain-wide categories. A fully private VIP room keeps larger deals off the shop floor.",
    "Opened 1 July 2026. The 11:30-19:30 hours (last intake 19:00) come from the shop's X profile (@shinsoku_akb_KC) rather than the chain site, so check there before you go."
+  ],
+  "ja": [
+   "買取専門で、棚に売り物は並んでいません。カードを買うなら、中央通りのシンソク秋葉原3号店（共益外神田第1ビル1F・B1F）かシンソク秋葉原6号店（新末広ビル1F・2F）をご利用ください。",
+   "店舗のXは買取対象としてPSA鑑定品と未開封BOXを前面に出しており、ポケモン、ワンピース、遊戯王、ドラゴンボール、ヴァイスシュヴァルツはチェーン共通の取り扱い品目です。完全個室のVIPルームがあるので、大きめの取引も売り場に出さずに済みます。",
+   "2026年7月1日オープンです。営業時間11:30〜19:30（最終受付19:00）はチェーンの公式サイトではなく店舗のXプロフィール（@shinsoku_akb_KC）によるものなので、行く前に確認してください。"
   ]
  },
  "official_url": "https://shinsoku-tcg.com/store-plans/akihabara-unification",

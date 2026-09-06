@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "N게이지 철도모형 신품·중고·위탁품과 점장 특제 사철 차량을 파는 소형 전문점",
-  "en": "N-gauge railway models - new, used and consignment stock plus the owner's custom cars"
+  "en": "N-gauge railway models - new, used and consignment stock plus the owner's custom cars",
+  "ja": "新品・中古・委託のNゲージ鉄道模型と店長特製の車両"
  },
  "building_id": null,
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일, 매월 첫째·셋째 수요일, 연말연시",
-   "en": "Tuesdays, the 1st and 3rd Wednesday of the month, and the New Year period"
+   "en": "Tuesdays, the 1st and 3rd Wednesday of the month, and the New Year period",
+   "ja": "火曜日、毎月第1・第3水曜日、年末年始"
   },
   "note": {
    "ko": "평일·토요일 12:00-19:30, 일요일·공휴일은 12:00-18:30으로 한 시간 일찍 닫는다. 수요일은 첫째·셋째 주만 휴무이며 임시 휴업도 있으므로 공식 사이트를 확인한다.",
-   "en": "12:00-19:30 on weekdays and Saturday, 12:00-18:30 on Sunday and public holidays. Only the 1st and 3rd Wednesday are closed, and ad-hoc closures happen, so check the official site."
+   "en": "12:00-19:30 on weekdays and Saturday, 12:00-18:30 on Sunday and public holidays. Only the 1st and 3rd Wednesday are closed, and ad-hoc closures happen, so check the official site.",
+   "ja": "平日と土曜は12:00-19:30、日曜と祝日は12:00-18:30です。水曜は第1・第3のみ休みで、臨時の休業もあるため公式サイトを確認してください。"
   },
   "source_url": "https://www.rail-meister.co.jp/shopAKIBA/"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 약 6분, 쇼헤이바시·마쓰즈미초 고가교에서 2분. 간다묘진시타(神田明神下) 교차로 옆 6층짜리 '外神田ビル' 2층이고, 같은 건물 3층은 카드숍 카드랜드다.",
-  "en": "About six minutes west of the JR Akihabara Electric Town Exit and two minutes from Shoheibashi, on 2F of the six-storey Sotokanda Building beside the Kanda-Myojinshita crossing. The card shop Card Land is on 3F of the same building."
+  "en": "About six minutes west of the JR Akihabara Electric Town Exit and two minutes from Shoheibashi, on 2F of the six-storey Sotokanda Building beside the Kanda-Myojinshita crossing. The card shop Card Land is on 3F of the same building.",
+  "ja": "JR秋葉原駅の電気街口から西へ徒歩6分ほど、昌平橋からは2分で、神田明神下交差点のそばに建つ6階建ての外神田ビル2階です。同じビルの3階にはカードランド秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -98,6 +102,12 @@
    "Sunday and public-holiday closing is 18:30, an hour earlier than weekdays and Saturday.",
    "Alongside new and used stock it sells consignment items and buys models; the owner's detailed-up private-railway N-gauge specials are the shop's signature.",
    "It sits west of the Chuo-dori electronics strip, so plan it as a separate stop from the main Akihabara loop."
+  ],
+  "ja": [
+   "火曜の定休日に加えて、毎月第1・第3水曜日も休みます。訪れる前に公式サイトを確認しておくと安心です。",
+   "日曜と祝日の閉店は18:30で、平日や土曜より1時間早くなります。",
+   "新品と中古のほかに委託品も扱い、買取も受け付けています。店長がディテールアップした私鉄のNゲージ特製品がこの店の看板です。",
+   "中央通りの電気街から西に離れているので、秋葉原の中心を回るコースとは別の立ち寄り先として予定を立ててください。"
   ]
  },
  "official_url": "https://www.rail-meister.co.jp/",

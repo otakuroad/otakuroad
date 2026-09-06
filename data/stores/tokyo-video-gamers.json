@@ -24,7 +24,8 @@
  ],
  "one_line": {
   "ko": "아케이드 기체 7대를 음식 주문 시 무료로 즐기는 비디오게임 콘셉트 카페·바",
-  "en": "Game-concept cafe and bar with seven free-play arcade cabinets for dining customers"
+  "en": "Game-concept cafe and bar with seven free-play arcade cabinets for dining customers",
+  "ja": "飲食したお客はアーケード筐体7台が無料で遊べるゲームコンセプトのカフェ＆バー"
  },
  "building_id": null,
  "floors": [
@@ -57,7 +58,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "라스트오더 22:30. SEEKBASE 공식 점포 안내에 정기휴무 표기가 없다(같은 1호동의 2nd BASE·오디오 미진코·otto는 수요일 휴무).",
-   "en": "Last order 22:30. The official SEEKBASE directory lists no regular closing day for this shop, unlike neighbours 2nd BASE, Audio Mijinko and otto (Wednesdays)."
+   "en": "Last order 22:30. The official SEEKBASE directory lists no regular closing day for this shop, unlike neighbours 2nd BASE, Audio Mijinko and otto (Wednesdays).",
+   "ja": "ラストオーダーは22:30です。SEEKBASEの公式店舗案内には、この店の定休日の記載がありません（近隣の2nd BASE、オーディオみじんこ、ottoは水曜休み）。"
   },
   "source_url": "https://www.jrtk.jp/seekbase/shop/"
  },
@@ -73,7 +75,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 북쪽 고가 아래 상가 SEEKBASE의 1호동(The Tools) 맨 끝 구획 1-9. 전기가 출구에서 선로를 따라 북쪽으로 걸어 ちゃばら를 지나면 2nd BASE·레코판·만다라케 CoCoo가 이어지고, 그 북쪽 끝이 이 가게다. 레트로게임점 BEEP는 두 구역 더 북쪽 3호동에 있다.",
-  "en": "Unit 1-9, the far end of SEEKBASE building 1 (The Tools), the strip under the JR viaduct north of Akihabara station. From the Electric Town exit follow the tracks north past Chabara; 2nd BASE, RECOfan and Mandarake CoCoo come first and this is at the north end of that row. BEEP sits two sections further north in building 3."
+  "en": "Unit 1-9, the far end of SEEKBASE building 1 (The Tools), the strip under the JR viaduct north of Akihabara station. From the Electric Town exit follow the tracks north past Chabara; 2nd BASE, RECOfan and Mandarake CoCoo come first and this is at the north end of that row. BEEP sits two sections further north in building 3.",
+  "ja": "秋葉原駅の北側、JRの高架下に連なるSEEKBASEの1号棟（The Tools）のいちばん端にある1-9区画です。電気街口から線路沿いに北へ歩いてちゃばらを過ぎると、2nd BASE、レコファン、まんだらけCoCooと並び、その列の北端がこの店です。BEEP秋葉原店は2区画さらに北の3号棟にあります。"
  },
  "tips": {
   "ko": [
@@ -87,6 +90,12 @@
    "A merchandise corner sells original apparel and goods made with game publishers, and there is an online store.",
    "Monitors built into the tables and ceiling play game footage, and the music and interior follow the same theme.",
    "It is a cafe and bar serving alcohol, not a coin-op arcade. Last order is 22:30."
+  ],
+  "ja": [
+   "店内のアーケード筐体7台は、フードやドリンクを注文したお客なら無料で遊べます。収録タイトルは不定期に入れ替わります。",
+   "ゲームメーカーと組んだオリジナルのアパレルやグッズを販売するコーナーがあり、オンラインストアも運営しています。",
+   "テーブルと天井に組み込まれたモニターでゲーム映像を流しており、BGMや内装も同じテーマでそろえています。",
+   "お酒を出すカフェ＆バーであって、ゲームセンターではありません。ラストオーダーは22:30です。"
   ]
  },
  "official_url": "https://tokyovideogamers.com/",

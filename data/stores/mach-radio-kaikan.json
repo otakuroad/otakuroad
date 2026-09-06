@@ -45,7 +45,8 @@
  ],
  "one_line": {
   "ko": "이치반쿠지 등 애니 쿠지를 한 장씩 뽑는 매장. 피규어·트레카도 판매",
-  "en": "Ichiban Kuji and other anime prize draws sold per ticket; also figures and trading cards"
+  "en": "Ichiban Kuji and other anime prize draws sold per ticket; also figures and trading cards",
+  "ja": "一番くじなどのアニメくじを1回ずつ販売、フィギュアやトレカも取り扱い"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -74,11 +75,13 @@
   ],
   "regular_holiday": {
    "ko": "기본적으로 연중무휴",
-   "en": "Basically open year-round"
+   "en": "Basically open year-round",
+   "ja": "基本的に年中無休"
   },
   "note": {
    "ko": "판매는 11:00~20:00으로 건물 개관(10:00)보다 1시간 늦다. 매입 접수 시간은 X 공지로만 안내하며, 매입 호출 전용 계정은 @mahh_radio다.",
-   "en": "Sales run 11:00-20:00, an hour later than the building's 10:00 opening. Buyback hours are announced only on X, and the buyback queue is called from a separate account, @mahh_radio."
+   "en": "Sales run 11:00-20:00, an hour later than the building's 10:00 opening. Buyback hours are announced only on X, and the buyback queue is called from a separate account, @mahh_radio.",
+   "ja": "販売は11:00〜20:00で、建物の開館（10:00）より1時間遅い時間です。買取の受付時間はXでのみ案内され、買取の呼び出しは専用アカウントの@mahh_radioから行われます。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/%e3%83%9e%e3%83%83%e3%83%8f-%e3%83%a9%e3%82%b8%e3%82%aa%e4%bc%9a%e9%a4%a8%e5%ba%97/"
  },
@@ -94,7 +97,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 1층. 쿠지 경품 박스가 쌓인 매대가 이 매장이고, 같은 층에 후쿠후쿠 트레카, 호비스테이션 라디오회관점, 카드라보 매입센터, 패밀리마트가 있다.",
-  "en": "Radio Kaikan 1F. Look for the stand stacked with kuji prize boxes; the same floor holds Fukufuku Toreka, Hobby Station, Card Labo's buyback centre and a FamilyMart."
+  "en": "Radio Kaikan 1F. Look for the stand stacked with kuji prize boxes; the same floor holds Fukufuku Toreka, Hobby Station, Card Labo's buyback centre and a FamilyMart.",
+  "ja": "ラジオ会館の1Fです。くじの景品の箱が積まれた売り場が目印で、同じフロアには福福トレカ秋葉原ラジオ会館店、ホビーステーション 秋葉原ラジオ会館店、カードラボ 秋葉原ラジオ会館買取センター、ファミリーマートがあります。"
  },
  "tips": {
   "ko": [
@@ -108,6 +112,12 @@
    "Besides kuji it sells trading cards, figures and supplies, and buys cards.",
    "The building opens at 10:00 but this shop opens at 11:00, so an early visit is wasted.",
    "Opened in August 2023 as 'Kuji Senmonten Mach' in the former ANIPLEX+ Akihabara unit; Radio Kaikan now lists it simply as 'Mach Radio Kaikan'."
+  ],
+  "ja": [
+   "取り扱うくじは一番くじ、セガラッキーくじ、ブロッコリーのトレカアイテムくじなどで、1回券単位でその場で引きます。",
+   "くじのほかにトレカやフィギュア、サプライも販売していて、トレカの買取も行っています。",
+   "建物は10:00に開きますが、この店の開店は11:00なので、朝早く行くと無駄足になります。",
+   "2023年8月にANIPLEX+ 秋葉原店の跡地にくじ専門店マッハとして開店し、ラジオ会館の案内では現在マッハ ラジオ会館店と記載されています。"
   ]
  },
  "official_url": null,

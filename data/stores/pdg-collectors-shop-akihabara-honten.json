@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "PDG 체인 본점. PSA 감정 포켓몬 카드와 구판 싱글·미개봉 박스를 파는 컬렉터 매장",
-  "en": "PDG's flagship: graded Pokemon cards, old-back singles and sealed boxes for collectors"
+  "en": "PDG's flagship: graded Pokemon cards, old-back singles and sealed boxes for collectors",
+  "ja": "コレクター向けに鑑定済みポケモンカードや旧裏面シングル、未開封BOXを扱うPDG本店"
  },
  "building_id": null,
  "floors": [
@@ -67,7 +68,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트에는 영업시간 안내가 없고 공식 X(@PDGcollectors) 프로필에만 13:00-20:00으로 적혀 있다. 매입 접수는 19시까지. 정기 휴일 안내는 없다.",
-   "en": "The official website lists no hours; only the shop's X profile (@PDGcollectors) gives 13:00-20:00. The buyback counter takes items until 19:00. No regular closing day is stated."
+   "en": "The official website lists no hours; only the shop's X profile (@PDGcollectors) gives 13:00-20:00. The buyback counter takes items until 19:00. No regular closing day is stated.",
+   "ja": "公式サイトに営業時間の記載はなく、公式X（@PDGcollectors）のプロフィールにのみ13:00-20:00と書かれています。買取カウンターの受付は19時までで、定休日の案内はありません。"
   },
   "source_url": "https://x.com/PDGcollectors"
  },
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2분, JR 아키하바라역 전기가 출구에서는 도보 6분. 주오도리 동쪽 9층짜리 고구레스에히로(小暮末広) 빌딩 최상층으로, 1층 엘리베이터로 9층까지 올라간다. 같은 건물 7층이 2호점 싱글관, 8층은 오타츄 트레카관이다.",
-  "en": "Two minutes from Tokyo Metro Ginza-line Suehirocho and six from the JR Akihabara Electric Town Exit. It is the top floor of the nine-storey Kogure Suehiro Building east of Chuo-dori; take the ground-floor elevator to 9F. The chain's 2nd store (singles) is on 7F and Otachu's card store on 8F."
+  "en": "Two minutes from Tokyo Metro Ginza-line Suehirocho and six from the JR Akihabara Electric Town Exit. It is the top floor of the nine-storey Kogure Suehiro Building east of Chuo-dori; take the ground-floor elevator to 9F. The chain's 2nd store (singles) is on 7F and Otachu's card store on 8F.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩2分、JR秋葉原駅の電気街口からは徒歩6分、中央通り東側に建つ9階建ての小暮末広ビルの最上階で、1階のエレベーターで9階まで上がります。同じビルの7階が2号店（シングル館）、8階がおたちゅう。秋葉原2号店 トレカ館です。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,12 @@
    "The stock is collector-grade Pokemon - old-back cards, Legend-series and graded slabs - rather than current tournament singles.",
    "Mail-in buyback is currently suspended; consignment sales are still accepted.",
    "The 3rd store is a separate shop on the ground floor of the Asano Building next door at 3-15-7, so an address ending 3-15-7 is not this one."
+  ],
+  "ja": [
+   "公式サイトに営業時間の案内はなく、公式X（@PDGcollectors）のプロフィールに13:00-20:00、買取受付は19時までと書かれているだけなので、訪れる前に確認しておくと安心です。",
+   "旧裏面やレジェンドシリーズ、鑑定済みスラブといったコレクター向けのポケモンカードが中心で、現行の大会用シングルは少なめです。",
+   "郵送買取は現在停止中です。委託販売は引き続き受け付けています。",
+   "3号店は隣の麻野ビル1階、3-15-7にある別の店舗です。住所の末尾が3-15-7になっていれば、この店ではありません。"
   ]
  },
  "official_url": "https://pdg-collectorsshop.com/",

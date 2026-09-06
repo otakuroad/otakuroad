@@ -24,7 +24,8 @@
  ],
  "one_line": {
   "ko": "단독 공연·발매 이벤트에 쓰이는 1층 소규모 아이돌 라이브 공간",
-  "en": "Small ground-floor idol live room used for solo shows and release events"
+  "en": "Small ground-floor idol live room used for solo shows and release events",
+  "ja": "単独公演やリリースイベントに使われる1Fの小さなアイドルライブスペース"
  },
  "building_id": "boxr-akiba-building",
  "floors": [
@@ -54,7 +55,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 아크세스란의 15:00~22:00은 시설 기준 시간이며, 실제 입장은 공연별 개장·개연 시간에 따른다.",
-   "en": "The 15:00-22:00 in the access section of the official site is the venue's own window; entry follows each show's door and start times."
+   "en": "The 15:00-22:00 in the access section of the official site is the venue's own window; entry follows each show's door and start times.",
+   "ja": "公式サイトのアクセス欄の15:00〜22:00は施設としての時間で、入場は公演ごとの開場・開演の時間によります。"
   },
   "source_url": "https://twinbox.info/"
  },
@@ -70,7 +72,8 @@
  },
  "how_to_find": {
   "ko": "BOX'R AKIBA 빌딩 1층, 길에서 바로 들어가는 작은 라이브 공간. 지하 1층의 TwinBox AKIHABARA와 입구가 같은 건물이라 티켓에 적힌 방 이름(AKIHABARA인지 GARAGE인지)을 꼭 확인한다.",
-  "en": "A small live room on the ground floor of the BOX'R AKIBA building, entered straight from the street. It shares the building with TwinBox AKIHABARA in the basement, so check whether your ticket says AKIHABARA or GARAGE."
+  "en": "A small live room on the ground floor of the BOX'R AKIBA building, entered straight from the street. It shares the building with TwinBox AKIHABARA in the basement, so check whether your ticket says AKIHABARA or GARAGE.",
+  "ja": "Box'R AKIBAビルの1Fにある、通りから直接入れる小さなライブスペースです。地下のTwinBox AKIHABARAと同じ建物なので、チケットの表記がAKIHABARAかGARAGEかを確かめてください。"
  },
  "tips": {
   "ko": [
@@ -82,6 +85,11 @@
    "Smaller than TwinBox AKIHABARA downstairs, and used mainly for solo lives, release events and fan meetings.",
    "A drink fee applies on top of the ticket, a flat 700 yen since the revision of 1 November 2025; outside drinks are not allowed.",
    "Being on the ground floor it opens straight onto the street, and the venue asks people not to crowd the pavement before or after shows."
+  ],
+  "ja": [
+   "地下のTwinBox AKIHABARAより小さな部屋で、主に単独ライブやリリースイベント、ファンミーティングに使われます。",
+   "チケットとは別にドリンク代がかかり、2025年11月1日の改定で一律700円になりました。外からの飲み物の持ち込みはできません。",
+   "1Fなので通りに直接面しており、公演の前後に路上に集まらないよう案内されています。"
   ]
  },
  "official_url": "https://twinbox.info/",

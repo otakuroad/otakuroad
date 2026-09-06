@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "항공기·전차·함선·자동차 중고 프라모델과 모형 자료 서적 전문점",
-  "en": "Used aircraft, tank, ship and car plastic model kits, plus modelling reference books"
+  "en": "Used aircraft, tank, ship and car plastic model kits, plus modelling reference books",
+  "ja": "航空機・戦車・艦船・自動車の中古プラモデルと模型資料書籍の専門店"
  },
  "building_id": null,
  "floors": [
@@ -63,7 +64,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내로 도쿄메트로 긴자선 스에히로초역에서 도보 약 2분, JR 아키하바라역에서 약 8분, JR 오카치마치역에서 약 5분. 주소는 다이토구 우에노 3초메지만 가게 스스로 '아키하바라의 프라모델 모형 전문점'을 내세운다. JTT 빌딩 1층 노면 점포이며 전용 주차장은 없다.",
-  "en": "The official access page gives about two minutes from Ginza-line Suehirocho, eight from JR Akihabara and five from JR Okachimachi. The address is Ueno 3-chome in Taito ward, but the shop bills itself as an Akihabara model shop. Street level of the JTT Building; there is no shop car park."
+  "en": "The official access page gives about two minutes from Ginza-line Suehirocho, eight from JR Akihabara and five from JR Okachimachi. The address is Ueno 3-chome in Taito ward, but the shop bills itself as an Akihabara model shop. Street level of the JTT Building; there is no shop car park.",
+  "ja": "公式の案内では東京メトロ銀座線の末広町駅から徒歩約2分、JR秋葉原駅から約8分、JR御徒町駅から約5分です。住所は台東区上野3丁目ですが、お店自身は秋葉原のプラモデル・模型専門店を名乗っています。JTTビル1Fの路面店で、専用の駐車場はありません。"
  },
  "tips": {
   "ko": [
@@ -79,6 +81,13 @@
    "All in-store prices are shown tax-included.",
    "Buyback is taken over the counter from a single kit, with the last acceptance one hour before closing; photo ID is required and under-18s need a guardian's written consent. Model railways (N and HO gauge) are not bought.",
    "The second branch, Leonardo LG2, closed on 2025-11-19; only this main shop remains."
+  ],
+  "ja": [
+   "公式サイトに営業時間が書かれていません。来店前にX（@leonardolg_）か電話03-6803-2047で確認するほうが安心です。",
+   "扱いは航空機・AFV（戦車・軍用車両）・艦船・自動車・オートバイといった乗り物のプラモデルが中心で、絶版の資料集や模型雑誌のバックナンバーなど書籍の在庫が厚いのが特徴です。",
+   "店内の表示価格はすべて税込みです。",
+   "買取は店頭で1個から受け付け、受付は閉店の1時間前までです。身分証明書が必要で、18歳未満の方は保護者の買取承諾書の原本が必要です。鉄道模型（Nゲージ・HOゲージ）は買取の対象外です。",
+   "2号店のレオナルドLG2は2025年11月19日に閉店し、現在はこの本店のみの営業です。"
   ]
  },
  "official_url": "https://www.leonardolg.jp/",

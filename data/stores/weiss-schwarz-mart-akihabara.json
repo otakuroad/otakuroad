@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "부시로드가 직영하는 바이스슈바르츠 단일 타이틀 트레카 전문점",
-  "en": "Bushiroad's own shop stocking Weiß Schwarz trading cards only"
+  "en": "Bushiroad's own shop stocking Weiß Schwarz trading cards only",
+  "ja": "ブシロード直営のヴァイスシュヴァルツだけを扱うトレカ専門店"
  },
  "building_id": "akihabara-nomura-building",
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "화·수요일 정기휴무",
-   "en": "Closed Tuesdays and Wednesdays"
+   "en": "Closed Tuesdays and Wednesdays",
+   "ja": "火曜・水曜定休"
   },
   "note": {
    "ko": "공식 안내는 12:00-20:00, 화·수 정기휴무 한 줄뿐이며 공휴일용 별도 시간은 명시되어 있지 않다. 같은 건물 카드킹덤은 정기휴일이 없고 1F만 10:00에 열며 3~5F는 평일 12:00, 토·일·공휴일 10:00 개점이라 시간대가 다르다. 화·수에 오면 2층만 닫혀 있다.",
-   "en": "The official page states only 12:00-20:00 with Tuesday and Wednesday closed, and gives no separate public-holiday hours. Card Kingdom in the same building has no closing day but opens 1F at 10:00 and 3F-5F at 12:00 on weekdays (all floors from 10:00 at weekends and on holidays), so on a Tuesday or Wednesday this floor alone is shut."
+   "en": "The official page states only 12:00-20:00 with Tuesday and Wednesday closed, and gives no separate public-holiday hours. Card Kingdom in the same building has no closing day but opens 1F at 10:00 and 3F-5F at 12:00 on weekdays (all floors from 10:00 at weekends and on holidays), so on a Tuesday or Wednesday this floor alone is shut.",
+   "ja": "公式の案内は12:00〜20:00、火曜・水曜定休の一行だけで、祝日用の営業時間は示されていません。同じビルのカードキングダムは定休日がなく、平日は1Fが10:00、3F〜5Fが12:00の開店（土日・祝日は全フロア10:00から）と時間が違うので、火曜・水曜はこのフロアだけが閉まっています。"
   },
   "source_url": "https://bushiroad.com/wsmart/"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 약 40m, 도보 1분. AKIHABARA 게이머즈 본점 옆에 붙은 좁은 9층 건물(아키하바라 노무라 빌딩)이며, 1층 카드킹덤 간판이 표식이다. 카드킹덤은 1층과 3~5층을 쓰고 2층만 이 매장이므로, 1층 안쪽 계단·엘리베이터로 한 층만 올라가면 된다.",
-  "en": "About 40 m west of JR Akihabara's Electric Town Exit, one minute on foot. It is the narrow nine-storey Akihabara Nomura Building wedged beside AKIHABARA Gamers, marked by the Card Kingdom sign on the ground floor. Card Kingdom holds 1F and 3F-5F and this shop is the only tenant on 2F, so take the stairs or elevator inside the 1F entrance up just one level."
+  "en": "About 40 m west of JR Akihabara's Electric Town Exit, one minute on foot. It is the narrow nine-storey Akihabara Nomura Building wedged beside AKIHABARA Gamers, marked by the Card Kingdom sign on the ground floor. Card Kingdom holds 1F and 3F-5F and this shop is the only tenant on 2F, so take the stairs or elevator inside the 1F entrance up just one level.",
+  "ja": "JR秋葉原駅電気街口から西へ約40m、徒歩1分です。AKIHABARAゲーマーズ本店の隣に挟まるように建つ細長い9階建ての秋葉原野村ビルで、1Fのカードキングダムの看板が目印です。カードキングダムは1Fと3F〜5Fに入っていて、2Fはこの店だけなので、1Fの入口の中の階段かエレベーターで1つ上がってください。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,12 @@
    "As Bushiroad's own store it carries the single title Weiß Schwarz and nothing else; for other TCGs drop down to Card Kingdom on 1F and 3F-5F of the same building.",
    "The old standalone site wsmart.tokyo.jp is dead and no longer resolves. Check hours and closures on Bushiroad's official page or the shop's X account (@WSMart_akiba).",
    "No phone number is published — enquiries go to support_WSMart_akiba@bushiroad.com only. Tax-free and card acceptance are not stated either, so bring cash to be safe."
+  ],
+  "ja": [
+   "火曜・水曜が定休日です。同じビルのカードキングダムやホビーランドぽち、おたちゅうはその日も営業しているので、このフロアに合わせて曜日を選んでください。",
+   "ブシロードの直営店なので「ヴァイスシュヴァルツ」の1タイトルだけを扱います。ほかのTCGを見るなら、同じビルの1Fと3F〜5Fのカードキングダムへ下りてください。",
+   "以前の単独サイトwsmart.tokyo.jpは閉鎖され、つながりません。営業時間や休みはブシロードの公式ページか店のXアカウント（@WSMart_akiba）で確認してください。",
+   "電話番号は公開されておらず、問い合わせはsupport_WSMart_akiba@bushiroad.comだけで受け付けています。免税やカード決済に対応しているかどうかも書かれていないので、現金を用意していくほうが安心です。"
   ]
  },
  "official_url": "https://bushiroad.com/wsmart/",

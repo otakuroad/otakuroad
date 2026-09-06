@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "만화·라노벨·아이돌·철도·밀리터리 등 취미 전문서를 9개 층에 모은 서점",
-  "en": "Nine floors of hobby books: manga, light novels, idol, tokusatsu, railway and military"
+  "en": "Nine floors of hobby books: manga, light novels, idol, tokusatsu, railway and military",
+  "ja": "マンガ・ラノベ・アイドル・特撮・鉄道・ミリタリーの趣味の専門書が9フロア"
  },
  "building_id": null,
  "floors": [
@@ -51,47 +52,56 @@
   {
    "floor": "1F",
    "ko": "화제의 신간·여행서·지도·아동서·서브컬처·점술",
-   "en": "Talked-about new releases, travel books, maps, children's books, subculture and fortune telling"
+   "en": "Talked-about new releases, travel books, maps, children's books, subculture and fortune telling",
+   "ja": "話題の新刊、旅行書、地図、児童書、サブカルチャー、占いのフロアです。"
   },
   {
    "floor": "2F",
    "ko": "문고·신서·비즈니스·어학",
-   "en": "Bunko paperbacks, shinsho, business and language books"
+   "en": "Bunko paperbacks, shinsho, business and language books",
+   "ja": "文庫、新書、ビジネス書、語学書のフロアです。"
   },
   {
    "floor": "3F",
    "ko": "컴퓨터·일러스트 기법서·이공계·자격증",
-   "en": "Computing, illustration technique books, science and engineering, certification study"
+   "en": "Computing, illustration technique books, science and engineering, certification study",
+   "ja": "コンピュータ、イラスト技法書、理工書、資格試験の本を扱います。"
   },
   {
    "floor": "4F",
    "ko": "아이돌·프로레슬링·특촬·스포츠·영화·음악",
-   "en": "Idol, pro wrestling, tokusatsu, sports, film and music"
+   "en": "Idol, pro wrestling, tokusatsu, sports, film and music",
+   "ja": "アイドル、プロレス、特撮、スポーツ、映画、音楽の本を扱います。"
   },
   {
    "floor": "5F",
    "ko": "철도·자동차·바이크·항공기·밀리터리",
-   "en": "Railway, cars, motorbikes, aircraft and military"
+   "en": "Railway, cars, motorbikes, aircraft and military",
+   "ja": "鉄道、自動車、バイク、航空機、ミリタリーの本を扱います。"
   },
   {
    "floor": "6F",
    "ko": "청년·성년향 코믹, 아메코미, 영어판 MANGA",
-   "en": "Seinen and adult (18+) comics, American comics and English-translation manga"
+   "en": "Seinen and adult (18+) comics, American comics and English-translation manga",
+   "ja": "青年・成年（18禁）コミック、アメコミ、英語版MANGAのフロアです。"
   },
   {
    "floor": "7F",
    "ko": "소년·소녀향 코믹",
-   "en": "Shonen and shojo comics"
+   "en": "Shonen and shojo comics",
+   "ja": "少年・少女コミックのフロアです。"
   },
   {
    "floor": "8F",
    "ko": "라노벨·게임·건담",
-   "en": "Light novels, games and Gundam"
+   "en": "Light novels, games and Gundam",
+   "ja": "ライトノベル、ゲーム、ガンダムのフロアです。"
   },
   {
    "floor": "9F",
    "ko": "이벤트홀 (사인회·발매 기념 행사)",
-   "en": "Event hall (signings and release events)"
+   "en": "Event hall (signings and release events)",
+   "ja": "イベントホールで、サイン会や発売記念イベントが開かれます。"
   }
  ],
  "location": {
@@ -119,11 +129,13 @@
   ],
   "regular_holiday": {
    "ko": "1월 1일(설날)만 휴무",
-   "en": "Closed only on 1 January"
+   "en": "Closed only on 1 January",
+   "ja": "1月1日のみ休み"
   },
   "note": {
    "ko": "공식 안내는 평일·토·일·공휴일 모두 11:00–20:00. 일부 지도에는 10:00–21:00이 남아 있으나 오래된 정보이며, 연말연시에는 별도 공지로 시간이 바뀐다",
-   "en": "The official page gives 11:00-20:00 on weekdays, weekends and holidays alike. Some maps still show 10:00-21:00, which is out of date; New Year hours are announced separately"
+   "en": "The official page gives 11:00-20:00 on weekdays, weekends and holidays alike. Some maps still show 10:00-21:00, which is out of date; New Year hours are announced separately",
+   "ja": "公式の案内では平日も土日・祝日も11:00〜20:00です。一部の地図には10:00〜21:00が残っていますが古い情報で、年末年始の営業時間は別途告知されます。"
   },
   "source_url": "https://www.shosen.co.jp/tower/"
  },
@@ -141,7 +153,8 @@
  },
  "how_to_find": {
   "ko": "쇼와도리 건너편, 도쿄메트로 히비야선 아키하바라역 5번 출구를 나오면 바로 보이는 흰 타워형 건물. JR 쇼와도리 개찰구에서는 히비야선 연결 통로를 지나 5번 출구로 나오면 신호를 건너지 않고 닿는다.",
-  "en": "A white tower directly outside exit 5 of Akihabara station on the Tokyo Metro Hibiya line, across Showa-dori. From the JR Showa-dori ticket gate, use the Hibiya-line passage to exit 5 and you arrive without crossing a road."
+  "en": "A white tower directly outside exit 5 of Akihabara station on the Tokyo Metro Hibiya line, across Showa-dori. From the JR Showa-dori ticket gate, use the Hibiya-line passage to exit 5 and you arrive without crossing a road.",
+  "ja": "昭和通りを渡った先、東京メトロ日比谷線秋葉原駅の5番出口を出るとすぐ目の前に見える白いタワー型のビルです。JRの昭和通り口からは、日比谷線の連絡通路を通って5番出口に出れば、道路を渡らずにたどり着けます。"
  },
  "tips": {
   "ko": [
@@ -155,6 +168,12 @@
    "The 9F event hall runs author signings and release events almost constantly; entry rules are on the official event page",
    "Cash and Tosho Card NEXT plus credit cards, barcode payments and SmartCode are accepted, and self-checkout is in use",
    "Open every day except 1 January, but not before 11:00"
+  ],
+  "ja": [
+   "フロアごとにジャンルがはっきり分かれていて、8Fがラノベ・ゲーム・ガンダム、7Fが少年・少女コミック、6Fが青年・成年コミックとアメコミなので、まず目的の階を決めてから上がってください。",
+   "9Fのイベントホールでは作家のサイン会や発売記念イベントがほぼ常時開かれており、参加方法は公式サイトのイベントページで確認できます。",
+   "現金と図書カードNEXTのほか、クレジットカード、バーコード決済、SmartCodeが使え、セルフレジも導入されています。",
+   "1月1日を除いて毎日開いていますが、開店は11:00で朝早くは開いていません。"
   ]
  },
  "official_url": "https://www.shosen.co.jp/tower/",

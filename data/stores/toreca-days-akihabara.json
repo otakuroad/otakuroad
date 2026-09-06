@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "빌딩 5층 501호실의 소규모 트레카 매장, 점두·온라인 매입 창구",
-  "en": "Small fifth-floor room-501 card shop with in-store and online buyback"
+  "en": "Small fifth-floor room-501 card shop with in-store and online buyback",
+  "ja": "5F・501号室の小さなカードショップ、店頭とネットの買取に対応"
  },
  "building_id": "new-akihabara-center",
  "floors": [
@@ -55,11 +56,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休"
   },
   "note": {
    "ko": "공식 사이트가 없어 영업시간은 가게 공식 X 프로필 표기를 따른다. 그날의 시간 변경은 X에 올라온다.",
-   "en": "There is no official site; the hours come from the shop's own X profile, and same-day changes are posted there."
+   "en": "There is no official site; the hours come from the shop's own X profile, and same-day changes are posted there.",
+   "ja": "公式サイトがないため、営業時間は店の公式Xのプロフィールの表記によるものです。その日の変更もXに掲載されます。"
   },
   "source_url": "https://x.com/TDakb01"
  },
@@ -75,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 남쪽, 소프맵이 있는 외신다 1-16 블록의 사무실형 빌딩 5층 501호실. 노면 점포가 아니라 간판이 거의 없으므로 건물 입구의 층별 안내판에서 501호를 확인하고 엘리베이터로 올라간다.",
-  "en": "South of JR Akihabara station, in the 1-16 block that also holds a Sofmap branch: room 501 on 5F of an office building. It is not a street-level shop and barely signposted, so check the lobby board for 501 and take the elevator."
+  "en": "South of JR Akihabara station, in the 1-16 block that also holds a Sofmap branch: room 501 on 5F of an office building. It is not a street-level shop and barely signposted, so check the lobby board for 501 and take the elevator.",
+  "ja": "JR秋葉原駅の南側、ソフマップの店舗もある1-16のブロックに建つオフィスビルの5F・501号室です。路面店ではなく看板もほとんど出ていないので、入口の案内板で501号室を確かめてからエレベーターで上がってください。"
  },
  "tips": {
   "ko": [
@@ -91,6 +95,13 @@
    "It takes both in-store and online buyback; there is no duel space.",
    "The map pin is approximate, placed from the 1-16 block; look for the building name ニュー秋葉原センタービル and room 501.",
    "Temporary closures and same-day changes to the hours go up on the shop's X account (@TDakb01)."
+  ],
+  "ja": [
+   "営業時間は店の公式Xのプロフィールに13:00-19:00、不定休と書かれています。午前中は開いていません。",
+   "店頭買取は査定が5分から1時間ほどで、その日のうちに現金で支払われます。郵送買取は別のアカウント（@TDakb01_yusou）で受け付けています。",
+   "店頭買取とネット買取の両方を受け付けており、デュエルスペースはありません。",
+   "地図のピンは1-16のブロックを基準に置いたおおよその位置です。ニュー秋葉原センタービルという建物名と501号室を目印に探してください。",
+   "臨時休業やその日の営業時間の変更は、店の公式X（@TDakb01）に掲載されます。"
   ]
  },
  "official_url": null,

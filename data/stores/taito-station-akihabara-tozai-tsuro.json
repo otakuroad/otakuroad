@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "JR 아키하바라역 동서자유통로 안의 소형 오락실. 타이토 프라이즈 크레인게임 중심",
-  "en": "Small arcade inside the JR Akihabara station free passage, mostly Taito prize crane games"
+  "en": "Small arcade inside the JR Akihabara station free passage, mostly Taito prize crane games",
+  "ja": "JR秋葉原駅の自由通路内にある小さなゲームセンター、タイトーのプライズクレーンゲーム中心"
  },
  "building_id": null,
  "floors": [],
@@ -58,11 +59,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 페이지 본문과 구조화 데이터 모두 전 요일·공휴일 10:00-23:30으로 같다.",
-   "en": "The official page body and its schema.org data both give 10:00-23:30 on every day including public holidays."
+   "en": "The official page body and its schema.org data both give 10:00-23:30 on every day including public holidays.",
+   "ja": "公式ページの本文と構造化データ（schema.org）のどちらも、祝日を含めた全曜日を10:00〜23:30としています。"
   },
   "source_url": "https://www.taito.co.jp/store/00002208"
  },
@@ -78,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구·중앙개찰구에서 도보 0분. 개찰구 밖 동서자유통로(전기가 출구 쪽과 쇼와도리 출구 쪽을 잇는 통로) 안에 있으며, 같은 자리에 크레페 가게 피코크레페가 함께 들어와 있다. 주오도리의 대형 점포 타이토 스테이션 아키하바라점(외신다 4-2-2)과는 다른 곳이다.",
-  "en": "Zero minutes from JR Akihabara's Electric Town Exit and Central Gate. It sits in the east-west free passage outside the ticket gates, the corridor linking the Electric Town side to the Showa-dori side, sharing the spot with the crepe stand PICO CREPE. This is not the big Taito Station on Chuo-dori (Sotokanda 4-2-2)."
+  "en": "Zero minutes from JR Akihabara's Electric Town Exit and Central Gate. It sits in the east-west free passage outside the ticket gates, the corridor linking the Electric Town side to the Showa-dori side, sharing the spot with the crepe stand PICO CREPE. This is not the big Taito Station on Chuo-dori (Sotokanda 4-2-2).",
+  "ja": "JR秋葉原駅の電気街口・中央改札口から徒歩0分です。改札外の東西自由通路、電気街口側と昭和通り口側をつなぐ通路の中にあり、クレープ店のPICO CREPEと同じ場所に入っています。中央通りにある大型店のタイトーステーション秋葉原店（外神田4-2-2）とは別の店舗です。"
  },
  "tips": {
   "ko": [
@@ -90,6 +94,11 @@
    "A compact prize-crane-game spot: no floors to climb, a few minutes to look through.",
    "The official page lists free Wi-Fi and cashless payment as available services.",
    "Open 10:00-23:30 every day, so it works as a short stop between trains."
+  ],
+  "ja": [
+   "プライズのクレーンゲーム中心のコンパクトな店舗で、フロアを移動することなく数分で見て回れます。",
+   "公式ページには、サービスとして無料Wi-Fiとキャッシュレス決済が掲載されています。",
+   "毎日10:00〜23:30の営業ですので、電車の待ち時間に少し立ち寄るのに向いています。"
   ]
  },
  "official_url": "https://www.taito.co.jp/store/00002208",

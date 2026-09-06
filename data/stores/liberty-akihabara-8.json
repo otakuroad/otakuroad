@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "리버티 빌딩 1층의 중고 애니 피규어 매장, 위층 11호점은 건프라·미니카",
-  "en": "Liberty Building 1F: used anime figures, with Gunpla and minicars at Store 11 upstairs"
+  "en": "Liberty Building 1F: used anime figures, with Gunpla and minicars at Store 11 upstairs",
+  "ja": "リバティービル1Fの中古アニメフィギュア、上階の11号店はガンプラ・ミニカー"
  },
  "building_id": null,
  "floors": [
@@ -61,7 +62,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://liberty-kaitori.com/shop"
@@ -78,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 스에히로초역 쪽으로 올라가는 구간에 리버티가 통째로 쓰는 리버티 빌딩이 있고 그 1층. 이 건물은 리버티 본사 주소이기도 하며, 2층은 11호점, 3층은 프라이즈 매입 센터다.",
-  "en": "On the east side of Chuo-dori toward Suehirocho, on the ground floor of the Liberty Building, which the chain occupies outright. It is also the company's registered address; Store 11 is on 2F and the prize buyback centre on 3F."
+  "en": "On the east side of Chuo-dori toward Suehirocho, on the ground floor of the Liberty Building, which the chain occupies outright. It is also the company's registered address; Store 11 is on 2F and the prize buyback centre on 3F.",
+  "ja": "中央通りの東側、末広町方面へ向かう区間にあり、リバティーが一棟まるごと使うリバティービルの1Fです。この建物はリバティーの本社の住所でもあり、2Fが11号店、3Fがプライズ買取センターです。"
  },
  "tips": {
   "ko": [
@@ -90,6 +93,11 @@
    "Store 11 (Gunpla and minicars) is directly upstairs, so the two floors are best seen together.",
    "The prize buyback centre on 3F runs 11:00-17:00 and stops taking items once its daily quota is full.",
    "Tax-free plus card, transit IC and QR payment work here as at every branch."
+  ],
+  "ja": [
+   "真上が11号店（ガンプラ・ミニカー）なので、2つのフロアをまとめて見るのが効率的です。",
+   "3Fのプライズ買取センターは11:00〜17:00で、その日の受付数がいっぱいになると締め切ります。",
+   "免税とカード・交通系IC・QR決済は、ほかの店舗と同じようにこの店でも使えます。"
   ]
  },
  "official_url": "https://www.liberty-shop.co.jp/visit/",

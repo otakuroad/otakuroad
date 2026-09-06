@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "애니메이트 계열 콜라보 카페. 캐릭터 라테 그라테와 작품별 한정 드링크·굿즈",
-  "en": "animate-run collaboration cafe: Gratte character lattes, themed drinks and title goods"
+  "en": "animate-run collaboration cafe: Gratte character lattes, themed drinks and title goods",
+  "ja": "キャララテのグラッテと作品限定ドリンク・グッズが並ぶアニメイト系コラボカフェ"
  },
  "building_id": null,
  "floors": [
@@ -71,7 +72,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일 15:00-20:00, 토·일·공휴일 12:00-19:00. 공식 안내에 '영업시간은 시기에 따라 변경될 수 있다'고 명시되어 있으므로 개최 작품이 바뀔 때는 공식 X(@popupsp_tokyo) 확인 필요.",
-   "en": "Weekdays 15:00-20:00, weekends and public holidays 12:00-19:00. The official notice states that hours may change depending on the period, so check the shop's X account (@popupsp_tokyo) when a new collaboration starts."
+   "en": "Weekdays 15:00-20:00, weekends and public holidays 12:00-19:00. The official notice states that hours may change depending on the period, so check the shop's X account (@popupsp_tokyo) when a new collaboration starts.",
+   "ja": "平日は15:00-20:00、土日祝は12:00-19:00です。公式の案内に時期によって営業時間が変わる場合があると明記されているので、新しいコラボが始まるときは公式X（@popupsp_tokyo）で確認してください。"
   },
   "source_url": "https://www.toulove-store.com/tounyan/"
  },
@@ -87,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 약 5분. 주오도리 동쪽 뒷길인 다시로도리(田代通り)의 애니메이트 아키하바라 ANNEX 바로 옆, 크리하라빌딩(クリハラビル) 1층이다. 2025년 2월에 문을 닫은 '도검난무 2.5차야'가 있던 자리라 옛 안내에는 그 이름이 남아 있다.",
-  "en": "About five minutes from JR Akihabara's Electric Town Exit, on Tashiro-dori one street east of Chuo-dori, right next to animate Akihabara ANNEX. It occupies the ground floor of the Kurihara Building — the space left empty when Touken Ranbu 2.5 Chaya closed in February 2025, so older listings still show that name."
+  "en": "About five minutes from JR Akihabara's Electric Town Exit, on Tashiro-dori one street east of Chuo-dori, right next to animate Akihabara ANNEX. It occupies the ground floor of the Kurihara Building — the space left empty when Touken Ranbu 2.5 Chaya closed in February 2025, so older listings still show that name.",
+  "ja": "JR秋葉原駅の電気街口から徒歩5分ほど、中央通りから一本東の田代通りにあり、アニメイト秋葉原ANNEXのすぐ隣です。2025年2月に閉店した刀剣乱舞2.5茶屋の跡地にあたるクリハラビル1階に入っているため、古い案内には今もその名前が残っています。"
  },
  "tips": {
   "ko": [
@@ -103,6 +106,13 @@
    "The signature item is Gratte, a latte with a character printed on the foam; drink orders usually come with a bonus such as a coaster.",
    "Since 2026-02-22 the Touken Ranbu 'Tounyan Danshi' pop-up store has been running inside the same shop.",
    "It opened in February 2026 and is a separate venue from animate Cafe Gratte+ inside animate Akihabara ANNEX next door."
+  ],
+  "ja": [
+   "土日祝（12:00-19:00）は平日（15:00-20:00）より早く開いて早く閉まるので、時間を勘違いしやすい点に注意してください。",
+   "コラボする作品は短い期間で入れ替わるので、訪れる前に公式X（@popupsp_tokyo）で開催中の作品と予約の要否を確認しておくとよいでしょう。",
+   "看板メニューはラテの泡にキャラクターをプリントするグラッテで、ドリンクを注文するとコースターなどの特典が付くことが多いです。",
+   "2026年2月22日からは、刀剣乱舞の「刀猫男士」ポップアップストアが同じ店内で開かれています。",
+   "2026年2月にオープンした店で、隣のアニメイト秋葉原ANNEX内にあるアニメイトカフェグラッテ+とは別の店舗です。"
   ]
  },
  "official_url": null,

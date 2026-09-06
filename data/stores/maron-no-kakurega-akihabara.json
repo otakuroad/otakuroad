@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "WCCF·FGO 아케이드 등 아케이드 게임 카드 전문점, 포켓몬·유희왕 팩도 취급",
-  "en": "Arcade-game cards (WCCF, FGO Arcade, KanColle Arcade) plus Pokemon and Yu-Gi-Oh packs"
+  "en": "Arcade-game cards (WCCF, FGO Arcade, KanColle Arcade) plus Pokemon and Yu-Gi-Oh packs",
+  "ja": "WCCF・FGOアーケード・艦これアーケードなどアーケードゲームのカード専門店、ポケモンや遊戯王のパックも"
  },
  "building_id": "kyoeki-sotokanda-daiichi-building",
  "floors": [
@@ -67,11 +68,13 @@
   ],
   "regular_holiday": {
    "ko": "정기휴일 없음. 연말연시 등 부정기 휴무는 있다",
-   "en": "No regular closing day; irregular closures such as the year-end and New Year period"
+   "en": "No regular closing day; irregular closures such as the year-end and New Year period",
+   "ja": "定休日なし（年末年始などの不定期の休みあり）"
   },
   "note": {
    "ko": "공식 사이트는 11:00~20:00만 안내하고 정기휴일은 적어 두지 않았다. 매입 접수는 개점부터 폐점 1시간 전(19:00)까지다. 정기휴일 없음은 가게 공식 X 프로필 표기를 따랐다.",
-   "en": "The official site gives only 11:00-20:00 and lists no closing day; buyback is taken from opening until 19:00, an hour before closing. The 'no regular closing day' comes from the shop's own X profile."
+   "en": "The official site gives only 11:00-20:00 and lists no closing day; buyback is taken from opening until 19:00, an hour before closing. The 'no regular closing day' comes from the shop's own X profile.",
+   "ja": "公式サイトは11:00〜20:00とだけ案内し、定休日は書いていません。買取は開店から閉店1時間前の19:00まで受け付けます。定休日なしという点は店の公式Xのプロフィールの表記によります。"
   },
   "source_url": "https://maron-no-kakurega.com/?mode=f2"
  },
@@ -87,7 +90,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 주오도리를 따라 남쪽으로 도보 1~2분(JR 아키하바라역 전기가 출구에서는 도보 4~5분), 주오도리 서쪽 편 공익 소토칸다 제1빌딩(共益外神田第1ビル) 5층. 2·3층이 스루가야 아키하바라 프라모델관, 4층이 메이드리밍 아이돌도리점인 그 건물이며, 1층 안쪽 엘리베이터로 5층까지 올라간다.",
-  "en": "One or two minutes south of Ginza-line Suehirocho along Chuo-dori (four to five minutes from JR Akihabara's Electric Town exit), on 5F of the Kyoei Sotokanda No.1 Building on the west side. It is the building with Surugaya's Plastic Model Store on 2F-3F and Maidreamin Idol-dori on 4F; take the lift at the back of the ground floor to 5F."
+  "en": "One or two minutes south of Ginza-line Suehirocho along Chuo-dori (four to five minutes from JR Akihabara's Electric Town exit), on 5F of the Kyoei Sotokanda No.1 Building on the west side. It is the building with Surugaya's Plastic Model Store on 2F-3F and Maidreamin Idol-dori on 4F; take the lift at the back of the ground floor to 5F.",
+  "ja": "銀座線の末広町駅から中央通りを南へ徒歩1〜2分（JR秋葉原駅の電気街口からは徒歩4〜5分）、中央通りの西側の共益外神田第1ビルの5Fです。2F〜3Fに駿河屋 秋葉原プラモデル館、4Fにめいどりーみん 秋葉原アイドル通り店が入っているビルで、1Fの奥のエレベーターで5Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,12 @@
    "Regular TCGs - Pokemon, Yu-Gi-Oh, UNION ARENA, Dream Order - and card supplies such as sleeves are stocked too.",
    "The buyback counter closes at 19:00, an hour before the shop; postal buyback is also accepted.",
    "The shop's own X account states there is no regular closing day, only irregular closures such as the year-end. No payment methods are stated for the shop itself, so bring cash."
+  ],
+  "ja": [
+   "アーケードゲームのカードが主力で、WCCF、FOOTISTA、FGOアーケード、艦これアーケード、ガンダムアーセナルベース、英傑大戦、アイドルマスター ツアーズ、三国志大戦、戦国大戦、Lord of Vermilionなど、この街のほかの店では見つけにくいタイトルがそろっています。",
+   "ポケモンカード、遊戯王、UNION ARENA、ドリームオーダーといった一般的なTCGや、スリーブなどのサプライも置いています。",
+   "買取の受付は閉店の1時間前の19:00までです。郵送での買取も受け付けています。",
+   "店の公式Xには、定休日はなく年末年始などの不定期の休みだけと書かれています。店自体の支払い方法についての案内はないので、現金を用意しておくほうが安心です。"
   ]
  },
  "official_url": "https://maron-no-kakurega.com/?mode=f2",

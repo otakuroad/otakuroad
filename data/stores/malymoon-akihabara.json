@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "메이드·바니·간호사·교복 등 코스튬 브랜드 마리문의 3층짜리 직영점, 피팅룸 있음",
-  "en": "Malymoon costume shop, three floors: maid, bunny, nurse and school wear, fitting rooms"
+  "en": "Malymoon costume shop, three floors: maid, bunny, nurse and school wear, fitting rooms",
+  "ja": "メイド・バニー・ナース・学生服などを扱うMalymoonの3フロアの店舗、試着室あり"
  },
  "building_id": null,
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 개점 공지와 매장 공식 X 프로필 모두 11:00-20:00으로 적고 정기휴무일은 밝히지 않는다.",
-   "en": "The official opening announcement and the shop's own X profile both give 11:00-20:00 and state no regular holiday."
+   "en": "The official opening announcement and the shop's own X profile both give 11:00-20:00 and state no regular holiday.",
+   "ja": "公式の開店告知も店舗の公式Xのプロフィールも11:00〜20:00としており、定休日は書かれていません。"
   },
   "source_url": "https://www.malymoon-costume.com/view/news/20241002195233"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 3분. 돈키호테 아키하바라점 남쪽, 주오도리에서 동쪽으로 한 블록 들어간 뒷길에 있는 3층짜리 단독 건물 AKIBA-BASE 전체가 매장이다.",
-  "en": "Three minutes north of JR Akihabara's Electric Town Exit along Chuo-dori. AKIBA-BASE is a small three-storey building on the back street one block east of Chuo-dori, south of Don Quijote Akihabara; the whole building is the shop."
+  "en": "Three minutes north of JR Akihabara's Electric Town Exit along Chuo-dori. AKIBA-BASE is a small three-storey building on the back street one block east of Chuo-dori, south of Don Quijote Akihabara; the whole building is the shop.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを北へ徒歩3分です。AKIBA-BASEはドン・キホーテ秋葉原店の南、中央通りから一本東に入った裏通りに建つ3階建ての小さなビルで、建物全体が店舗になっています。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,11 @@
    "The official announcement says there are fitting rooms so you can check the size before buying.",
    "This is the first physical store of an online-first costume brand, opened in October 2024.",
    "Stock is the brand's own maid, bunny and nurse costumes rather than screen-accurate character cosplay."
+  ],
+  "ja": [
+   "店内に試着室があり、サイズを確かめてから選べると公式の告知に書かれています。",
+   "オンライン販売が中心のコスチュームブランドが2024年10月に初めて出した実店舗です。",
+   "キャラクターを再現するコスプレ衣装ではなく、メイドやバニー、ナースといったブランドオリジナルのコスチュームがそろっています。"
   ]
  },
  "official_url": "https://malymoon-costume.com/",

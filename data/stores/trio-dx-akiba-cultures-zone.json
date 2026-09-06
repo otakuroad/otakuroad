@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "사카미치·이코노이조이·AKB 등 아이돌 중고 굿즈를 파는 매입·판매 전문점",
-  "en": "Used idol goods for Sakamichi, =LOVE/≠ME/≒JOY, AKB and more, bought and sold"
+  "en": "Used idol goods for Sakamichi, =LOVE/≠ME/≒JOY, AKB and more, bought and sold",
+  "ja": "坂道、=LOVE・≠ME・≒JOY、AKBなどのアイドル中古グッズの販売と買取"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -60,7 +61,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "건물 전체 안내는 11:00~21:00이지만 6층 점포는 20:30 마감.",
-   "en": "The building lists 11:00-21:00, but the 6F shop closes at 20:30."
+   "en": "The building lists 11:00-21:00, but the 6F shop closes at 20:30.",
+   "ja": "建物の案内は11:00〜21:00ですが、6Fのこの店は20:30に閉まります。"
   },
   "source_url": "https://www.akibacultureszone.com/shop/29"
  },
@@ -76,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "1층 라신방 입구로 들어가 엘리베이터로 6층까지 올라가면 층 전체가 매장이다. 2024년 6월 3층 TRIO와 라디오회관점을 합쳐 6층으로 옮겼으므로 3층 표기 정보는 오래된 것.",
-  "en": "Enter at the 1F Lashinbang entrance and take the elevator to 6F, which the shop fills entirely. It moved up in June 2024 when the 3F TRIO and the Radio Kaikan branch merged, so listings that still say 3F are out of date."
+  "en": "Enter at the 1F Lashinbang entrance and take the elevator to 6F, which the shop fills entirely. It moved up in June 2024 when the 3F TRIO and the Radio Kaikan branch merged, so listings that still say 3F are out of date.",
+  "ja": "1Fのらしんばんの入口から入り、エレベーターで6Fへ上がると、フロア全体がこの店です。2024年6月に3FのTRIOとラジオ会館店が一つになって6Fへ移ったので、3Fと書かれている情報は古いものです。"
  },
  "tips": {
   "ko": [
@@ -90,6 +93,12 @@
    "STARTO ENTERTAINMENT (the former Johnny's) goods are no longer sold or bought here; the focus is now Sakamichi groups, =LOVE/≠ME/≒JOY and KAWAII LAB.",
    "From September 2026 buyback intake varies by group and by weekday - normal, appointment only, walk-in only, or suspended - so check the notice on X (@trio_cultures) before going.",
    "New stock is posted more often on X (@trio_cultures) than on the chain's own site."
+  ],
+  "ja": [
+   "生写真やパンフレット、うちわ、ペンライト、CD・DVDといったアイドルグッズの中古買取カウンターがあり、買取の受付は18:00までです。",
+   "STARTO ENTERTAINMENT（旧ジャニーズ）のグッズは販売も買取も終了しました。今は坂道グループ、=LOVE・≠ME・≒JOY、KAWAII LAB.が中心です。",
+   "2026年9月から買取の受付がグループごと、曜日ごとに通常・予約のみ・持ち込みのみ・休止と分かれるので、行く前にX（@trio_cultures）の告知を確認してください。",
+   "入荷の情報は、チェーンの公式サイトよりX（@trio_cultures）に出ることが多いです。"
   ]
  },
  "official_url": "https://www.trio-broadway.com/",

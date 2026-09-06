@@ -41,7 +41,8 @@
  ],
  "one_line": {
   "ko": "3·4층은 패미컴·메가드라이브 등 중고 레트로 게임 소프트와 본체, 5층은 레트로 오락실과 다가시 매점",
-  "en": "Used retro game software and consoles on 3F-4F; retro arcade and dagashi stall on 5F"
+  "en": "Used retro game software and consoles on 3F-4F; retro arcade and dagashi stall on 5F",
+  "ja": "3F・4Fは中古のレトロゲームソフトと本体、5Fはレトロゲームセンターと駄菓子の売店"
  },
  "building_id": null,
  "floors": [
@@ -53,17 +54,20 @@
   {
    "floor": "3F",
    "ko": "닌텐도·세가 계열 레트로 본체와 소프트(패미컴·슈퍼패미컴·게임보이·N64·메가드라이브)",
-   "en": "Nintendo and Sega retro hardware and software (Famicom, Super Famicom, Game Boy, N64, Mega Drive)"
+   "en": "Nintendo and Sega retro hardware and software (Famicom, Super Famicom, Game Boy, N64, Mega Drive)",
+   "ja": "任天堂・セガ系のレトロ本体とソフト（ファミコン、スーパーファミコン、ゲームボーイ、N64、メガドライブ）を扱います。"
   },
   {
    "floor": "4F",
    "ko": "플레이스테이션·PC엔진·원더스완 등 소프트, 공략본·설정자료집·게임 사운드트랙 CD·DVD, 비매품 전시 코너",
-   "en": "PlayStation, PC Engine and WonderSwan software; guidebooks, art books, soundtrack CDs and DVDs; a not-for-sale display corner"
+   "en": "PlayStation, PC Engine and WonderSwan software; guidebooks, art books, soundtrack CDs and DVDs; a not-for-sale display corner",
+   "ja": "プレイステーション、PCエンジン、ワンダースワンなどのソフト、攻略本や設定資料集、ゲームのサウンドトラックCD・DVD、非売品の展示コーナーがあります。"
   },
   {
    "floor": "5F",
    "ko": "레트로 오락실(1플레이 100엔부터), 다가시 매점, 휴식 공간",
-   "en": "Retro arcade (from 100 yen a play), dagashi snack stall and rest space"
+   "en": "Retro arcade (from 100 yen a play), dagashi snack stall and rest space",
+   "ja": "レトロゲームセンター（1プレイ100円から）、駄菓子の売店、休憩スペースがあります。"
   }
  ],
  "location": {
@@ -91,11 +95,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일·토·일·공휴일 모두 11:00-20:00으로 같다. 토·일·공휴일 10:00 개점은 2022-02-15부터 없어졌지만 일부 여행 사이트에는 아직 남아 있다. 임시 휴업·시간 변경은 공식 X(@PotatoAkiba)에 공지된다.",
-   "en": "Same 11:00-20:00 on weekdays, weekends and public holidays. The old 10:00 weekend/holiday opening ended on 2022-02-15 but still appears on some travel sites. Temporary closures and changes are posted on X (@PotatoAkiba)."
+   "en": "Same 11:00-20:00 on weekdays, weekends and public holidays. The old 10:00 weekend/holiday opening ended on 2022-02-15 but still appears on some travel sites. Temporary closures and changes are posted on X (@PotatoAkiba).",
+   "ja": "平日も土日・祝日も11:00〜20:00で同じです。土日・祝日の10:00開店は2022年2月15日でなくなりましたが、一部の旅行サイトにはまだ残っています。臨時休業や時間の変更は公式X（@PotatoAkiba）で告知されます。"
   },
   "source_url": "https://www.superpotato.com/shop/akihabara/"
  },
@@ -111,7 +117,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 주오도리 한 블록 서쪽 뒷골목. AKIBA 컬처즈존 남동쪽의 기타바야시(北林) 빌딩으로, 외벽 위쪽 팩맨·마리오 도트 그래픽 간판이 표식이다. 1층은 무선 부품점 후지무센전기이고, 매장 입구는 그 오른쪽 좁은 통로의 노란 '레트로게임 スーパーポテト 入口' 간판. 계단이나 엘리베이터로 3층부터 올라간다.",
-  "en": "Four minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori. The Kitabayashi Building just southeast of AKIBA Cultures Zone, marked by the Pac-Man and Mario pixel-art panels high on the facade. The ground floor is the radio-parts shop Fuji Musen Denki; the shop entrance is the narrow doorway to its right under the yellow 'レトロゲーム スーパーポテト 入口' sign. Stairs or the elevator lead up from 3F."
+  "en": "Four minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori. The Kitabayashi Building just southeast of AKIBA Cultures Zone, marked by the Pac-Man and Mario pixel-art panels high on the facade. The ground floor is the radio-parts shop Fuji Musen Denki; the shop entrance is the narrow doorway to its right under the yellow 'レトロゲーム スーパーポテト 入口' sign. Stairs or the elevator lead up from 3F.",
+  "ja": "JR秋葉原駅電気街口から徒歩4分、中央通りから一本西の裏通りにあります。AKIBAカルチャーズZONEの南東すぐの北林ビルで、外壁の高いところにあるパックマンとマリオのドット絵の看板が目印です。1Fは無線パーツ店の富士無線電機で、店の入口はその右側の狭い通路にある黄色い「レトロゲーム スーパーポテト 入口」の看板の下です。階段かエレベーターで3Fから上がります。"
  },
  "tips": {
   "ko": [
@@ -125,6 +132,12 @@
    "3F is the Nintendo and Sega floor, 4F is PlayStation and PC Engine plus guidebooks and soundtrack CDs, so pick the floor that matches the system you want.",
    "Besides the narrow stairs, an elevator runs between the floors.",
    "Tax-free and card acceptance are not stated on the official page, so bring cash to be safe."
+  ],
+  "ja": [
+   "5Fのレトロゲーセンは1プレイ100円からです。何も買わずに休んでいくこともでき、同じフロアには駄菓子の売店があります。",
+   "3Fは任天堂・セガ系、4Fはプレイステーション・PCエンジン系と攻略本やサウンドトラックCDが中心なので、探している機種に合わせて階を選ぶと早いです。",
+   "狭い階段のほかに、フロアの移動にはエレベーターも使えます。",
+   "免税やカード決済の可否は公式に案内がないので、現金を用意していくほうが安心です。"
   ]
  },
  "official_url": "https://www.superpotato.com/shop/akihabara/",

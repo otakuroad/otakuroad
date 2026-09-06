@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "1/6 스케일 피규어·돌, 합금 로봇, 특촬 소프비, 수입 밀리터리 피규어",
-  "en": "1/6 scale figures and dolls, die-cast robots, tokusatsu sofubi, imported military figures"
+  "en": "1/6 scale figures and dolls, die-cast robots, tokusatsu sofubi, imported military figures",
+  "ja": "1/6スケールのフィギュアとドール、合金ロボット、特撮ソフビ、輸入ミリタリーフィギュア"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -66,11 +67,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무. 당분간 월요일에 쉬는 경우가 있다고 공식 안내",
-   "en": "Irregular; the official page says it may close on Mondays for the time being"
+   "en": "Irregular; the official page says it may close on Mondays for the time being",
+   "ja": "不定休（当面は月曜に休むことがあると公式ページに記載）"
   },
   "note": {
    "ko": "2025년 12월 5일 공지로 평일·주말·공휴일 모두 12:00~19:30으로 단축. 건물(10:00~20:00)보다 늦게 열고 일찍 닫는다",
-   "en": "A 2025-12-05 notice shortened hours to 12:00-19:30 on all days, so it opens later and closes earlier than the building (10:00-20:00)"
+   "en": "A 2025-12-05 notice shortened hours to 12:00-19:30 on all days, so it opens later and closes earlier than the building (10:00-20:00)",
+   "ja": "2025年12月5日の告知で、全日12:00〜19:30に短縮されました。そのため建物（10:00〜20:00）より遅く開き、早く閉まります。"
   },
   "source_url": "http://www.uchusen.co.jp/hpgen/HPB/shop/shopguide.html"
  },
@@ -86,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 1F 입구에서 엘리베이터나 에스컬레이터로 5F. 같은 층의 카이요도 호비로비 도쿄, 라신방, 도리테리아와 나란히 있는 캐릭터 토이 전문점이다.",
-  "en": "Take the elevator or escalator from the Radio Kaikan 1F entrance to 5F; the character-toy shop sits on the same floor as Kaiyodo Hobby Lobby Tokyo, Lashinbang and Dolly Teria."
+  "en": "Take the elevator or escalator from the Radio Kaikan 1F entrance to 5F; the character-toy shop sits on the same floor as Kaiyodo Hobby Lobby Tokyo, Lashinbang and Dolly Teria.",
+  "ja": "ラジオ会館1Fの入口からエレベーターかエスカレーターで5Fへ上がります。海洋堂ホビーロビー東京、らしんばん、ドーリーテリアと同じフロアにあるキャラクタートイの店です。"
  },
  "tips": {
   "ko": [
@@ -98,6 +102,11 @@
    "Open 12:00-19:30, shorter than the building's 10:00-20:00, so do not arrive early or just before closing.",
    "Stock leans to 1/6 scale (Hot Toys, DAM, TBLeague), Obitsu bodies and military figures; for bishojo figures try the other shops on the same floor.",
    "The online shop and the physical store are run separately: stock and prices differ, and online orders cannot be collected in store."
+  ],
+  "ja": [
+   "12:00〜19:30の営業で、建物の10:00〜20:00より短いので、早く着きすぎたり閉店間際に行ったりしないようにしてください。",
+   "品ぞろえは1/6スケール（ホットトイズ、DAM、TBLeague）やオビツの素体、ミリタリーフィギュアが中心なので、美少女フィギュアなら同じフロアのほかの店をどうぞ。",
+   "オンラインショップと実店舗は別々に運営されていて、在庫も価格も違い、オンラインで注文した商品を店頭で受け取ることはできません。"
   ]
  },
  "official_url": "http://www.uchusen.co.jp/hpgen/HPB/shop/shopguide.html",

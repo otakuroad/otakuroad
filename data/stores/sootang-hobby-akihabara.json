@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "건프라·캐릭터 프라모델과 미소녀·로봇 피규어, 공구를 파는 홍콩계 호비 매장",
-  "en": "Hong Kong chain hobby floor: gunpla, character kits, bishoujo and robot figures, tools"
+  "en": "Hong Kong chain hobby floor: gunpla, character kits, bishoujo and robot figures, tools",
+  "ja": "香港系のホビー店、ガンプラやキャラクタープラモデル、美少女・ロボットフィギュア、工具"
  },
  "building_id": null,
  "floors": [
@@ -73,11 +74,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(연말연시 제외)",
-   "en": "Open year-round except the New Year period"
+   "en": "Open year-round except the New Year period",
+   "ja": "年末年始を除き年中無休"
   },
   "note": {
    "ko": "평일은 12:00, 토·일·공휴일은 11:00 개점으로 오픈 시각이 다르다.",
-   "en": "Opens at 12:00 on weekdays and 11:00 on weekends and public holidays."
+   "en": "Opens at 12:00 on weekdays and 11:00 on weekends and public holidays.",
+   "ja": "平日は12:00、土日・祝日は11:00と開店時刻が異なります。"
   },
   "source_url": "https://www.sootang.jp/pages/store-akihabara"
  },
@@ -93,7 +96,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽, 소프맵 AKIBA(외신다 3-13-12) 바로 북쪽에 붙은 다나카코산 빌딩(田中恒産ビル) 2층. 도쿄메트로 스에히로초역 1·3번 출구에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 5분이다.",
-  "en": "On 2F of the Tanaka Kosan Building, immediately north of Sofmap AKIBA (Sotokanda 3-13-12) on the west side of Chuo-dori. Three minutes from Suehirocho station exits 1/3, five minutes from JR Akihabara's Electric Town Exit."
+  "en": "On 2F of the Tanaka Kosan Building, immediately north of Sofmap AKIBA (Sotokanda 3-13-12) on the west side of Chuo-dori. Three minutes from Suehirocho station exits 1/3, five minutes from JR Akihabara's Electric Town Exit.",
+  "ja": "中央通りの西側、ソフマップAKIBA（外神田3-13-12）のすぐ北隣に建つ田中恒産ビルの2Fです。末広町駅1・3番出口から徒歩3分、JR秋葉原駅電気街口から徒歩5分です。"
  },
  "tips": {
   "ko": [
@@ -107,6 +111,12 @@
    "Cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), transit IC, iD/nanaco/WAON/Edy/QUICPay and QR payments (PayPay, au PAY, Merpay, Rakuten Pay, WeChat Pay, Alipay+) are all accepted.",
    "Tax-free is not mentioned on the official page, so ask at the counter.",
    "The chain has only two Japanese branches: this one and Omotesando."
+  ],
+  "ja": [
+   "平日は12:00、土日・祝日は11:00開店なので、午前中に行くと空振りになることがあります。",
+   "クレジットカード（VISA・Mastercard・JCB・AMEX・Diners・Discover・UnionPay）、交通系ICカード、iD・nanaco・WAON・Edy・QUICPay、QR決済（PayPay・au PAY・メルペイ・楽天ペイ・WeChat Pay・Alipay+）がいずれも使えます。",
+   "免税については公式ページに案内がないので、カウンターで確認してください。",
+   "日本国内の店舗は、ここと表参道店の2店だけです。"
   ]
  },
  "official_url": "https://www.sootang.jp/pages/store-akihabara",

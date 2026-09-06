@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스 오리파 자판기가 늘어선 무인 트레카 매장",
-  "en": "Oripa (random pack) vending machines for Pokemon and One Piece cards, unstaffed"
+  "en": "Oripa (random pack) vending machines for Pokemon and One Piece cards, unstaffed",
+  "ja": "ポケモン・ワンピースのオリパ自販機が並ぶ無人のトレカ店"
  },
  "building_id": null,
  "floors": [
@@ -54,7 +55,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 7분, 주오도리 서쪽 뒷골목의 니포 아키바관(지도에 따라 이시이 빌딩·마치다 빌딩으로 표기) 1층 노면 점포. 같은 3-9-10 주소에 트레카점보 본점과 every트레카가 함께 있고, 맞은편 지하는 오타츄 5호점이다.",
-  "en": "Seven minutes from the JR Akihabara Electric Town Exit, a street-level unit on the ground floor of the Nippo Akiba Kan building (labelled Ishii Building or Machida Building on some maps) on the back street west of Chuo-dori. Toreca Jumbo's main store and every Toreca share the same 3-9-10 address, and Otachu's 5th store is in the basement opposite."
+  "en": "Seven minutes from the JR Akihabara Electric Town Exit, a street-level unit on the ground floor of the Nippo Akiba Kan building (labelled Ishii Building or Machida Building on some maps) on the back street west of Chuo-dori. Toreca Jumbo's main store and every Toreca share the same 3-9-10 address, and Otachu's 5th store is in the basement opposite.",
+  "ja": "JR秋葉原駅の電気街口から徒歩7分、中央通りの西側の裏通りに建つ日宝アキバ館（地図によっては石井ビル、町田ビルと表記）の1F路面店です。同じ3-9-10の住所にトレカジャンボ秋葉原本店とeveryトレカがあり、向かいの地下にはおたちゅう。秋葉原5号店GO!GO!トレカが入っています。"
  },
  "tips": {
   "ko": [
@@ -68,6 +70,12 @@
    "New machines and line-up changes are announced on the shop's X account (@TorecaSH).",
    "There is no official website and no published everyday hours. Japanese directories list it as open 24 hours, but the shop's own X has announced machines opening at 12:00 and 13:00 and said the unit stays shut until then.",
    "Other card shops sit at the same address, so check the signage before you walk in."
+  ],
+  "ja": [
+   "オリパ（ランダムパック）の自販機の店なので、シングルの売り場も買取もありません。",
+   "新しい自販機やラインナップの入れ替えは、店のXアカウント（@TorecaSH）で告知されます。",
+   "公式ホームページはなく、普段の営業時間も公表されていません。日本語のディレクトリは24時間営業と載せていますが、店の公式Xは自販機を12:00や13:00に開けると告知し、それまでは閉まっていると書いていました。",
+   "同じ住所にほかのカードショップも並んでいるので、看板を確かめてから入ってください。"
   ]
  },
  "official_url": null,

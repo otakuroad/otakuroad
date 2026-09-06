@@ -43,7 +43,8 @@
  ],
  "one_line": {
   "ko": "코토부키야 자사 피규어·미소녀 프라모델과 몬헌·교토애니·VTuber 공식숍이 층별로 모인 직영점",
-  "en": "Kotobukiya figures and model kits, with official Monster Hunter, KyoAni and VTuber shops"
+  "en": "Kotobukiya figures and model kits, with official Monster Hunter, KyoAni and VTuber shops",
+  "ja": "コトブキヤの自社フィギュア・プラモデルとモンハン・京アニ・VTuber公式ショップ"
  },
  "building_id": null,
  "floors": [
@@ -57,27 +58,32 @@
   {
    "floor": "1F",
    "ko": "라이선스 굿즈층: 몬스터헌터 공식 헌터즈숍, 교토애니 숍, 아이돌마스터·아틀라스·지브리·원신·스퀘어에닉스·닌텐도·프롬소프트웨어·블루아카이브·명조 등",
-   "en": "Licensed goods: official Monster Hunter Hunter's Shop and KyoAni Shop; IDOLM@STER, Atlus, Ghibli, Genshin, Square Enix, Nintendo, FromSoftware, Blue Archive, Wuthering Waves and more"
+   "en": "Licensed goods: official Monster Hunter Hunter's Shop and KyoAni Shop; IDOLM@STER, Atlus, Ghibli, Genshin, Square Enix, Nintendo, FromSoftware, Blue Archive, Wuthering Waves and more",
+   "ja": "ライセンスグッズの階です。モンスターハンター公式のハンターズショップと京アニショップのほか、アイドルマスター・アトラス・ジブリ・原神・スクウェア・エニックス・任天堂・フロム・ソフトウェア・ブルーアーカイブ・鳴潮などを扱います。"
   },
   {
    "floor": "2F",
    "ko": "코토부키야 자사 제품: 창채소녀정원·메가미 디바이스·프레임 암즈(걸)·헥사기어·아르카나디아·메가로마리아·앨리스 기어 아이기스·HMM 조이드, M.S.G 파츠·공구·케이스",
-   "en": "Kotobukiya's own lines: Sousai Shojo Teien, Megami Device, Frame Arms (Girl), Hexa Gear, Arcanadea, Megalomaria, Alice Gear Aegis, HMM Zoids; M.S.G parts, tools, display cases"
+   "en": "Kotobukiya's own lines: Sousai Shojo Teien, Megami Device, Frame Arms (Girl), Hexa Gear, Arcanadea, Megalomaria, Alice Gear Aegis, HMM Zoids; M.S.G parts, tools, display cases",
+   "ja": "コトブキヤの自社製品の階です。創彩少女庭園・メガミデバイス・フレームアームズ（ガール）・ヘキサギア・アルカナディア・メガロマリア・アリス・ギア アイギス・HMMゾイドと、M.S.Gのパーツ・工具・ケースが並びます。"
   },
   {
    "floor": "3F",
    "ko": "VstoreAKIBA: 니지산지 코토부키야 숍(공식), 데코 굿즈",
-   "en": "VstoreAKIBA: official Nijisanji Kotobukiya Shop, deco goods"
+   "en": "VstoreAKIBA: official Nijisanji Kotobukiya Shop, deco goods",
+   "ja": "VstoreAKIBAです。にじさんじコトブキヤショップ（公式）とデコグッズを扱います。"
   },
   {
    "floor": "4F",
    "ko": "VstoreAKIBA: 부이스포!·아오기리고교·스오 파트라 공식숍, 홀로라이브, 시구레 우이, 기타 VTuber",
-   "en": "VstoreAKIBA: official VSPO!, Aogiri High School and Suou Patra shops; hololive, Shigure Ui, other VTubers"
+   "en": "VstoreAKIBA: official VSPO!, Aogiri High School and Suou Patra shops; hololive, Shigure Ui, other VTubers",
+   "ja": "VstoreAKIBAです。ぶいすぽっ！・あおぎり高校・周防パトラの公式ショップ、ホロライブ、しぐれうい、そのほかのVTuber関連を扱います。"
   },
   {
    "floor": "5F",
    "ko": "코토부키야 베이스 아키바(이벤트 스페이스) — 이벤트 기간에만 입장 가능",
-   "en": "Kotobukiya Base Akiba event space — open only during events"
+   "en": "Kotobukiya Base Akiba event space — open only during events",
+   "ja": "コトブキヤベース アキバ（イベントスペース）で、イベントの開催期間中のみ入場できます。"
   }
  ],
  "location": {
@@ -106,7 +112,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "2025년 10월 1일부터 전 요일 11:00–20:00으로 통일(그 전에는 평일 12:00 오픈). 영문 공식 페이지에는 옛 시간이 그대로 남아 있으므로 일본어 페이지 기준. 5F 이벤트 스페이스는 이벤트 개최 시에만 입장 가능.",
-   "en": "Unified to 11:00–20:00 every day on 1 October 2025 (weekdays used to open at 12:00); the official English page still shows the old times, so follow the Japanese page. The 5F event space admits visitors only while an event is running."
+   "en": "Unified to 11:00–20:00 every day on 1 October 2025 (weekdays used to open at 12:00); the official English page still shows the old times, so follow the Japanese page. The 5F event space admits visitors only while an event is running.",
+   "ja": "2025年10月1日から全曜日11:00〜20:00に統一されました（それ以前は平日12:00開店）。英語版の公式ページには古い時間が残っていますので、日本語ページが基準です。5Fのイベントスペースはイベント開催時のみ入場できます。"
   },
   "source_url": "https://www.kotobukiya.co.jp/kotobukiya-shop/detail/akiba/"
  },
@@ -122,7 +129,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도에서 GiGO 아키하바라 3호관과 HEY·멜론북스가 든 히로세 빌딩 사이의 좁은 골목으로 서쪽으로 약 60m 들어가면 골목이 T자로 끝난다. 오른쪽(북쪽) 모퉁이, 초록색 KOTOBUKIYA 간판과 OKAJIMA 명판이 붙은 오카지마 빌딩 1~5F가 매장이고 입구는 뒷길 쪽을 향한다. 같은 뒷길을 30m 더 북쪽으로 가면 슈퍼포테토.",
-  "en": "From the west sidewalk of Chuo-dori, take the narrow lane between GiGO Akihabara 3 and the Hirose building (HEY arcade, Melonbooks) and walk west about 60 m to where it ends in a T-junction. On the right-hand (north) corner, the Okajima Building with the green KOTOBUKIYA sign and the OKAJIMA nameplate holds the store on 1F–5F; the entrance faces the back street. Super Potato is 30 m further north on the same street."
+  "en": "From the west sidewalk of Chuo-dori, take the narrow lane between GiGO Akihabara 3 and the Hirose building (HEY arcade, Melonbooks) and walk west about 60 m to where it ends in a T-junction. On the right-hand (north) corner, the Okajima Building with the green KOTOBUKIYA sign and the OKAJIMA nameplate holds the store on 1F–5F; the entrance faces the back street. Super Potato is 30 m further north on the same street.",
+  "ja": "中央通りの西側の歩道から、GiGO秋葉原3号館と、Hey（Hirose Entertainment Yard）やメロンブックス秋葉原1号店が入る広瀬ビルとの間の細い路地に入り、西へ60mほど進むと突き当たりのT字路になります。その右（北）の角、緑のKOTOBUKIYAの看板とOKAJIMAの表札が出た岡嶋ビルの1F〜5Fが売り場で、入口は裏通り側を向いています。同じ裏通りをさらに北へ30m行くとスーパーポテト秋葉原店です。"
  },
  "tips": {
   "ko": [
@@ -136,6 +144,12 @@
    "5F Kotobukiya Base Akiba admits visitors only while a pop-up or event is running; schedules are on the official page's event tab",
    "Credit cards, transit IC cards and QR payments such as PayPay are accepted; purchases over 30,000 yen ship free within Japan (changed 1 July 2025). Tax-free service is not stated officially — ask at the register",
    "The store closes all day three or four times a year for stocktaking or staff training (29 May, 30 Jun and 15 Jul in 2026); check the shop news list before visiting"
+  ],
+  "ja": [
+   "階ごとに扱うラインが違い、1Fはライセンスグッズ、2Fは自社のプラモデル・フィギュア、3F・4FはVTuberの公式ショップです。目的の階を決めてから上がってください。",
+   "5Fのコトブキヤベース アキバは、ポップアップやイベントの開催期間中のみ入場できます。日程は公式ページのイベントタブでご確認ください。",
+   "クレジットカード・交通系IC・PayPayなどのキャッシュレス決済が使えます。3万円以上の購入で日本国内の送料が無料です（2025年7月1日変更）。免税の取り扱いは公式の案内にありませんので、レジでご確認ください。",
+   "棚卸しや社内研修で終日臨時休業する日が年に3〜4回あります（2026年は5/29・6/30・7/15）。来店前に公式サイトの店舗のお知らせ一覧をご確認ください。"
   ]
  },
  "official_url": "https://www.kotobukiya.co.jp/kotobukiya-shop/detail/akiba/",

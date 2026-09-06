@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "구판 포켓몬과 초기 유희왕, PSA·ARS 감정품을 2~4층에 모은 컬렉터 매장",
-  "en": "Old-back Pokemon, early Yu-Gi-Oh! and PSA/ARS graded cards for collectors, on 2F-4F"
+  "en": "Old-back Pokemon, early Yu-Gi-Oh! and PSA/ARS graded cards for collectors, on 2F-4F",
+  "ja": "2F〜4Fに旧裏面ポケモンや初期遊戯王、PSA・ARS鑑定品を集めたコレクター向けの店"
  },
  "building_id": "nippo-akiba-star-2",
  "floors": [
@@ -68,7 +69,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "층마다 개점 시간이 다르다. 2층(포켓몬 등)은 12:00, 4층(유희왕 등)은 13:00에 열고 둘 다 21:00에 닫으며, 4층 매입 접수는 20:00까지다.",
-   "en": "The floors open at different times: 2F (Pokemon and so on) from 12:00 and 4F (Yu-Gi-Oh! and so on) from 13:00, both closing at 21:00; the 4F buyback counter takes items until 20:00."
+   "en": "The floors open at different times: 2F (Pokemon and so on) from 12:00 and 4F (Yu-Gi-Oh! and so on) from 13:00, both closing at 21:00; the 4F buyback counter takes items until 20:00.",
+   "ja": "フロアごとに開店時間が違います。2F（ポケモンなど）は12:00から、4F（遊戯王など）は13:00からで、どちらも21:00に閉まり、4Fの買取カウンターの受付は20:00までです。"
   },
   "source_url": "https://x.com/vc_tokyo_akiba/status/2095346536217825294"
  },
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 4~5분, 주오도리 서쪽 뒷골목. 츠쿠모 파소콘 본점 맞은편, 히노야 카레 옆의 니포 아키바스타Ⅱ 빌딩이다. 1층은 중고 PC점 정글 아키하바라 3호점이고, 카드 매장은 2~4층. 통판 상품 점두 수령 카운터는 4층이다.",
-  "en": "Four to five minutes from the JR Akihabara Electric Town Exit, on the back street west of Chuo-dori. The Nippo Akiba Star II building faces TSUKUMO's PC main store and stands next to Hinoya Curry; the used-PC shop Jungle Akihabara 3rd store is on the ground floor and the card shop runs from 2F to 4F, with the web-order pickup counter on 4F."
+  "en": "Four to five minutes from the JR Akihabara Electric Town Exit, on the back street west of Chuo-dori. The Nippo Akiba Star II building faces TSUKUMO's PC main store and stands next to Hinoya Curry; the used-PC shop Jungle Akihabara 3rd store is on the ground floor and the card shop runs from 2F to 4F, with the web-order pickup counter on 4F.",
+  "ja": "JR秋葉原駅電気街口から徒歩4〜5分、中央通りの西の裏通りにあります。日宝アキバスターⅡはツクモのパソコン本店の向かい、日乃屋カレーの隣に建っていて、1Fが中古パソコン店のJan-gle秋葉原3号店、カードの売り場は2Fから4F、通販商品の受け取りカウンターは4Fです。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,12 @@
    "Staff can serve you in English, and a separate corner at the back holds the high-end vintage stock.",
    "Web stock is shared with its sister shop VCJ (Vintage Card Japan); in-store pickup is at the 4F register, only after the dispatch email, and you need photo ID.",
    "The website publishes no hours. The floors open at different times - 2F from 12:00, 4F from 13:00, both closing at 21:00 - and buyback is taken on 4F from 13:00 to 20:00. The shop posts each day's opening on X (@vc_tokyo_akiba)."
+  ],
+  "ja": [
+   "現行のブースターパックよりも、旧裏面のポケモンや初期の遊戯王のレア、PSA・ARS・BGSの鑑定品が中心です。",
+   "英語での接客ができ、奥には高額なビンテージの在庫を集めたコーナーが別に設けられています。",
+   "通販の在庫は姉妹店のVCJ（ヴィンテージカードジャパン）と共通です。店頭での受け取りは発送完了のメールが届いたあと、4Fのレジでのみでき、写真付きの本人確認書類が必要です。",
+   "公式サイトに営業時間の記載はありません。フロアごとに開店時間が違い、2Fは12:00から、4Fは13:00からで、どちらも21:00に閉まります。買取は4Fで13:00〜20:00に受け付けています。その日の営業は公式X（@vc_tokyo_akiba）に毎日出ます。"
   ]
  },
  "official_url": "https://www.valuablecard.jp/",

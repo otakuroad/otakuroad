@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 팬용 중고 피규어·캐릭터 굿즈·BL 코믹·CD/BD. 매입 접수는 2F",
-  "en": "Used figures, character goods, BL comics and anime CDs/BDs; buyback counter on 2F"
+  "en": "Used figures, character goods, BL comics and anime CDs/BDs; buyback counter on 2F",
+  "ja": "中古のフィギュア・キャラクターグッズ・BLコミック・アニメのCD/BD、買取は2F"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -46,12 +47,14 @@
   {
    "floor": "1F",
    "ko": "피규어 판매 전용층(로봇·미소녀·괴수·아메토이). 리뉴얼 준비로 휴업 중, 9월 18일 재오픈",
-   "en": "Figure sales-only floor (robots, bishojo, kaiju, US toys); closed for renewal work, reopens 18 Sep"
+   "en": "Figure sales-only floor (robots, bishojo, kaiju, US toys); closed for renewal work, reopens 18 Sep",
+   "ja": "フィギュアの販売専用フロア（ロボット・美少女・怪獣・アメトイ）です。リニューアル準備のため休業中で、9月18日に再オープンします。"
   },
   {
    "floor": "2F",
    "ko": "Blu-ray·DVD·CD, 코믹·BL 코믹/소설·화집, 캐릭터 굿즈·프라이즈 피규어·인형, 가정용 게임 소프트. 매입 카운터",
-   "en": "Blu-ray/DVD/CD, comics and BL comics/novels, character goods, prize figures, plush, console games; buyback counter"
+   "en": "Blu-ray/DVD/CD, comics and BL comics/novels, character goods, prize figures, plush, console games; buyback counter",
+   "ja": "ブルーレイ・DVD・CD、コミックやBLコミック/小説・画集、キャラクターグッズ・プライズフィギュア・ぬいぐるみ、家庭用ゲームソフトを扱い、買取カウンターもこの階です。"
   }
  ],
  "location": null,
@@ -76,11 +79,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open daily"
+   "en": "Open daily",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입 접수는 2F에서 11:00~18:00. 1F는 리뉴얼 준비로 휴업 중이고 9월 18일 리뉴얼 오픈일에 다시 열린다. 그동안 2F는 정상 영업",
-   "en": "Buyback desk on 2F, 11:00–18:00. 1F is closed for renewal work and reopens on the 18 Sep renewal day; 2F trades as usual"
+   "en": "Buyback desk on 2F, 11:00–18:00. 1F is closed for renewal work and reopens on the 18 Sep renewal day; 2F trades as usual",
+   "ja": "買取の受付は2Fで11:00〜18:00です。1Fはリニューアル準備のため休業中で、9月18日のリニューアルオープンの日に再び開きます。その間も2Fは通常どおり営業しています。"
   },
   "source_url": "https://www.lashinbang.com/store/13/"
  },
@@ -95,13 +100,15 @@
   "state": "open",
   "note": {
    "ko": "2026년 9월 18일 리뉴얼 오픈과 함께 점명이 '라신방 AKIBA Flags'로 바뀐다. 준비 기간 중 1F 휴업, 2F는 정상 영업",
-   "en": "Renewal opening on 18 Sep 2026 under the new name 'Lashinbang AKIBA Flags'; 1F is closed during preparations while 2F stays open"
+   "en": "Renewal opening on 18 Sep 2026 under the new name 'Lashinbang AKIBA Flags'; 1F is closed during preparations while 2F stays open",
+   "ja": "2026年9月18日のリニューアルオープンに合わせて、店名がらしんばんAKIBA Flagsに変わります。準備期間中は1Fが休業で、2Fは通常営業です。"
   },
   "effective_date": "2026-09-18"
  },
  "how_to_find": {
   "ko": "AKIBA 컬처즈 존 건물 1·2층. 주오도리에서 한 블록 서쪽 뒷길을 북쪽으로 걸으면 코토부키야 아키하바라관 바로 다음 건물이 이곳이고, 길 건너 북쪽 대각선에 만다라케 컴플렉스가 보인다. 길가의 파란 라신방 간판이 표시이며, 1F 휴업 중에는 건물 입구로 들어가 2F로 올라간다.",
-  "en": "Floors 1–2 of the AKIBA Cultures Zone building. From Chuo-dori take the back street one block west and walk north; it is the next building past Kotobukiya Akihabara, with Mandarake Complex diagonally across to the north. Look for the blue Lashinbang signboard at street level; while 1F is closed, enter the building and go up to 2F."
+  "en": "Floors 1–2 of the AKIBA Cultures Zone building. From Chuo-dori take the back street one block west and walk north; it is the next building past Kotobukiya Akihabara, with Mandarake Complex diagonally across to the north. Look for the blue Lashinbang signboard at street level; while 1F is closed, enter the building and go up to 2F.",
+  "ja": "AKIBAカルチャーズZONEの1F〜2Fです。中央通りから1ブロック西の裏通りを北へ歩くと、コトブキヤ秋葉原館の次の建物がここで、通りを挟んだ北の斜め向かいにまんだらけコンプレックスが見えます。路面の青いらしんばんの看板が目印で、1Fが休業中は建物の入口から入って2Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -115,6 +122,12 @@
    "Buyback is accepted on 2F from 11:00 to 18:00 only; sales run until 21:00.",
    "Men's doujinshi, bishojo games and adult figures moved to Lashinbang AKIBA DEEP BASE (Sotokanda 4-4-3, Akihabara SIL Bldg 3F, cash only), opened 26 Jun 2026.",
    "Tax-free shop; credit cards, QR-code payments and transit IC e-money are accepted."
+  ],
+  "ja": [
+   "2026年9月18日のリニューアルオープンに合わせて、店名がらしんばんAKIBA Flagsに変わります。それまで1Fは休業で、2Fのみ営業しています。",
+   "買取の受付は2Fで11:00〜18:00までです。販売は21:00まで営業しています。",
+   "男性向け同人誌・美少女ゲーム・成人向けフィギュアは、2026年6月26日に開店したらしんばんAKIBA DEEP BASE（外神田4-4-3 秋葉原SILビル3F、現金のみ）に分かれて移りました。",
+   "免税対応の店舗です。クレジットカード・QR決済・交通系ICなどの電子決済が使えます。"
   ]
  },
  "official_url": "https://www.lashinbang.com/store/13/",

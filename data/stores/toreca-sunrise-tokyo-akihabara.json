@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·유희왕 싱글 카드와 오리파를 파는 1층 카드 전문점",
-  "en": "Pokemon, One Piece and Yu-Gi-Oh singles and oripa packs in a ground-floor card shop"
+  "en": "Pokemon, One Piece and Yu-Gi-Oh singles and oripa packs in a ground-floor card shop",
+  "ja": "ポケモン・ワンピース・遊戯王のシングルとオリパを扱う1Fのカードショップ"
  },
  "building_id": null,
  "floors": [
@@ -75,11 +76,13 @@
   ],
   "regular_holiday": {
    "ko": "수요일",
-   "en": "Closed Wednesdays"
+   "en": "Closed Wednesdays",
+   "ja": "水曜定休"
   },
   "note": {
    "ko": "공식 사이트 점포 안내에는 정기 휴일이 적혀 있지 않지만, 매장 X 계정(@sunrise_akiba) 프로필에 정기휴일 수요일로 나오고 2025년 11월 게시글에서도 수요일을 점휴일이라고 안내했다. 매입 접수는 19:30 마감.",
-   "en": "The chain store list gives no closing day, but the shop's own X profile (@sunrise_akiba) states Wednesdays and a November 2025 post called that Wednesday a store holiday. Buyback intake closes at 19:30."
+   "en": "The chain store list gives no closing day, but the shop's own X profile (@sunrise_akiba) states Wednesdays and a November 2025 post called that Wednesday a store holiday. Buyback intake closes at 19:30.",
+   "ja": "チェーンの店舗一覧に定休日の記載はありませんが、店の公式Xのプロフィール（@sunrise_akiba）は水曜としており、2025年11月の投稿でもその水曜を店休日と案内していました。買取の受付は19:30に終わります。"
   },
   "source_url": "https://tcgsunrise.com/"
  },
@@ -95,7 +98,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 6분, 긴자선 스에히로초역에서 도보 5분. 주오도리 서쪽 뒷골목의 스루가야 아키하바라 본관과 만다라케 컴플렉스 사이 골목으로 들어가면 나오는 록2빌딩(ロック2ビル) 1층 노면 점포다. 같은 3-11-2 번지에 이름이 비슷한 록빌딩(ロックビル)이 나란히 있으므로 건물을 확인할 것.",
-  "en": "Six minutes from JR Akihabara's Electric Town Exit, five from Ginza-line Suehirocho. Take the back lane between Surugaya Akihabara Honkan and Mandarake Complex, west of Chuo-dori; the shop is at street level in the Lock 2 Building. A similarly named Lock Building stands next to it under the same 3-11-2 address, so check the building name."
+  "en": "Six minutes from JR Akihabara's Electric Town Exit, five from Ginza-line Suehirocho. Take the back lane between Surugaya Akihabara Honkan and Mandarake Complex, west of Chuo-dori; the shop is at street level in the Lock 2 Building. A similarly named Lock Building stands next to it under the same 3-11-2 address, so check the building name.",
+  "ja": "JR秋葉原駅の電気街口から徒歩6分、銀座線の末広町駅からは徒歩5分です。中央通りの西側、駿河屋 秋葉原本館とまんだらけコンプレックスの間の裏通りに入ると、ロック2ビルの1F路面にこの店があります。同じ3-11-2の住所に名前のよく似たロックビルが隣り合って建っているので、建物名を確かめてください。"
  },
  "tips": {
   "ko": [
@@ -109,6 +113,12 @@
    "Beyond Pokemon, One Piece and Yu-Gi-Oh OCG it also stocks Union Arena, the Gundam Card Game, Weiss Schwarz and Dragon Ball card games.",
    "Prices and condition grades are labelled card by card, which makes it easy for first-timers to browse.",
    "As well as counter buyback it accepts mail-in buyback and LINE valuation requests."
+  ],
+  "ja": [
+   "大阪の日本橋本店から始まり、広島・福岡・長野・兵庫にも店を構えるチェーンの東京の店舗です。",
+   "ポケモン・ワンピース・遊戯王OCGのほか、ユニオンアリーナ、ガンダムカードゲーム、ヴァイスシュヴァルツ、ドラゴンボールのカードゲームも置いています。",
+   "カードごとに値段と状態のランクが表示されているので、初めての人でも見比べやすくなっています。",
+   "店頭買取のほか、郵送買取やLINEでの査定依頼も受け付けています。"
   ]
  },
  "official_url": "https://tcgsunrise.com/",

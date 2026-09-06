@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스 카드 싱글 판매와 매입, 16석 무료 대전 공간",
-  "en": "Pokemon and One Piece card singles, buyback and 16 free duel seats"
+  "en": "Pokemon and One Piece card singles, buyback and 16 free duel seats",
+  "ja": "ポケモン・ワンピースのシングル販売と買取、無料の対戦席16席"
  },
  "building_id": "akiba1131-building",
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休"
   },
   "note": {
    "ko": "정기 휴일 없이 부정기로 쉬고, 공식 홈페이지에 점포 안내가 없어 휴무·시간 변경은 X(@torecaru_akiba)로만 공지된다. 위 시간은 그 X 프로필에 적힌 '평일 13:00-21:00, 토·일·공휴일 11:00-20:00' 기재분이다.",
-   "en": "Closing days are irregular, and with no store page on the official site, closures and changes are announced only on X (@torecaru_akiba). The hours above are the ones stated in that X profile: weekdays 13:00-21:00, Sat/Sun/holidays 11:00-20:00."
+   "en": "Closing days are irregular, and with no store page on the official site, closures and changes are announced only on X (@torecaru_akiba). The hours above are the ones stated in that X profile: weekdays 13:00-21:00, Sat/Sun/holidays 11:00-20:00.",
+   "ja": "定休日はなく不定休で、公式ホームページに店舗案内がないため、休業や時間の変更はX（@torecaru_akiba）でのみ告知されます。上の営業時間は、そのXのプロフィールにある平日13:00-21:00、土日・祝日11:00-20:00の表記です。"
   },
   "source_url": "https://x.com/torecaru_akiba"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 라무타라 아키하바라점 바로 옆 'Akiba1131.Bldg'(소토칸다 1-13-1) 건물 엘리베이터로 9층까지 올라간다. 거리에서는 보이지 않는 고층 매장이라 건물 입구의 층별 안내판을 확인할 것.",
-  "en": "One minute from the JR Akihabara Electric Town Exit. Take the elevator in Akiba1131.Bldg (Sotokanda 1-13-1), next door to Lammtarra Akihabara, up to 9F. Nothing is visible from the street, so check the building's floor directory at the entrance."
+  "en": "One minute from the JR Akihabara Electric Town Exit. Take the elevator in Akiba1131.Bldg (Sotokanda 1-13-1), next door to Lammtarra Akihabara, up to 9F. Nothing is visible from the street, so check the building's floor directory at the entrance.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分です。ラムタラ秋葉原店の隣にあるAkiba1131.bldg（外神田1-13-1）のエレベーターで9Fまで上がります。通りからは何も見えないので、建物入口のフロアガイドを確認してください。"
  },
  "tips": {
   "ko": [
@@ -103,6 +107,12 @@
    "Sixteen free duel seats let you use what you just bought.",
    "Cash, credit cards, electronic money and QR payments are all accepted.",
    "This is not the same shop as Torecaru Akihabara in the Asano Building in Sotokanda 3-chome, so check the address."
+  ],
+  "ja": [
+   "扱うタイトルはポケモンとワンピースの2つだけで、品ぞろえもプレイ用よりコレクション向けのシングルが中心です。店頭買取も受け付けています。",
+   "無料の対戦席が16席あるので、買ったばかりのカードをその場で使えます。",
+   "現金のほか、クレジットカード・電子マネー・QR決済がいずれも使えます。",
+   "外神田3丁目の麻野ビルにあるトレカル秋葉原店とは別の店なので、住所を確かめてください。"
   ]
  },
  "official_url": "https://torecaru.com/",

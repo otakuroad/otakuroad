@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "가챠폰 회관 2층의 중고 전용 철도모형 매장. 시간당 300엔 레일 레이아웃",
-  "en": "Used-only model railway shop above Gachapon Kaikan, with a 300 yen an hour rental layout"
+  "en": "Used-only model railway shop above Gachapon Kaikan, with a 300 yen an hour rental layout",
+  "ja": "秋葉原ガチャポン会館の上にある中古専門の鉄道模型店、レンタルレイアウトは1時間300円"
  },
  "building_id": "mn-building",
  "floors": [
@@ -66,7 +67,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "월~토 20:00, 일요일과 공휴일은 19:00에 닫는다. 도보 3분 거리의 아키하바라점(소토칸다 3-3-3)과는 영업시간이 다르다.",
-   "en": "Closes at 20:00 Monday to Saturday and 19:00 on Sundays and holidays — different from the Akihabara main store three minutes away."
+   "en": "Closes at 20:00 Monday to Saturday and 19:00 on Sundays and holidays — different from the Akihabara main store three minutes away.",
+   "ja": "月曜から土曜は20:00、日曜と祝日は19:00に閉まります。徒歩3分のポポンデッタ 秋葉原店とは営業時間が異なります。"
   },
   "source_url": "https://www.popondetta.com/akibareuse/index.html"
  },
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목 왼편의 MN빌딩 2층. 1층이 가챠폰 회관이라 골목에서 캡슐 기계 줄이 바로 보인다. 캡슐 기계 옆 건물 입구로 들어가 올라간다.",
-  "en": "2F of the MN Building, whose ground floor is Akihabara Gachapon Kaikan. From exit 3 of Suehirocho station walk about 90 m south along the west pavement of Chuo-dori and turn into the first one-way lane on the right; the rows of capsule machines are visible from the lane, and the building entrance is beside them."
+  "en": "2F of the MN Building, whose ground floor is Akihabara Gachapon Kaikan. From exit 3 of Suehirocho station walk about 90 m south along the west pavement of Chuo-dori and turn into the first one-way lane on the right; the rows of capsule machines are visible from the lane, and the building entrance is beside them.",
+  "ja": "1階が秋葉原ガチャポン会館になっているMNビルの2階です。末広町駅の3番出口から中央通りの西側の歩道を南へ90mほど歩き、最初に右へ入る一方通行の路地に曲がると、路地からカプセルトイの機械の列が見え、その横が建物の入口です。"
  },
  "tips": {
   "ko": [
@@ -96,6 +99,12 @@
    "The rental layout has four tracks at 300 yen an hour, with no reservations or seat choice, and no trains to hire — bring your own.",
    "The shop states it does not answer stock enquiries, to keep staffing costs down.",
    "Cards are accepted but gift vouchers are not."
+  ],
+  "ja": [
+   "ポポンデッタのチェーンの中でも、中古専門の売り場としては最大級です。新品を探すなら徒歩3分のポポンデッタ 秋葉原店へ向かってください。",
+   "レンタルレイアウトは4線で1時間300円、予約も座席の指定もできません。貸し出し用の車両はないので、自分の車両を持参してください。",
+   "在庫の問い合わせは人件費を抑えるために受け付けていない、と店が案内しています。",
+   "各種カードは使えますが、商品券は利用できません。"
   ]
  },
  "official_url": "https://www.popondetta.com/akibareuse/index.html",

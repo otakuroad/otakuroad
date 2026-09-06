@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "일본·해외 작가의 소프비와 아트 토이·괴수 완구를 파는 2층 소형 매장",
-  "en": "Indie sofubi, art toys and kaiju figures from Japanese and overseas artists"
+  "en": "Indie sofubi, art toys and kaiju figures from Japanese and overseas artists",
+  "ja": "日本や海外の作家によるインディーズのソフビ、アートトイ、怪獣フィギュア"
  },
  "building_id": null,
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연말연시를 제외하고 기본 무휴",
-   "en": "Basically open year-round except the New Year holidays"
+   "en": "Basically open year-round except the New Year holidays",
+   "ja": "年末年始を除き基本的に無休"
   },
   "note": {
    "ko": "임시 휴업과 이벤트 출점에 따른 변경은 공식 블로그에 공지된다.",
-   "en": "Temporary closures and days out at events are announced on the shop's official blog."
+   "en": "Temporary closures and days out at events are announced on the shop's official blog.",
+   "ja": "臨時休業やイベント出店による変更は、店の公式ブログで告知されます。"
   },
   "source_url": "http://www.one-up.org/shop-guide.htm"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "도에이 신주쿠선 이와모토초역 A2 출구로 나와 왼쪽으로 나간 뒤 뒤를 돌아보면 보이는 거리로 30초. JR 아키하바라역 전기가 출구에서는 세가를 오른쪽에 두고 직진→신호를 건너 좌회전→'덴구' 간판 앞에서 우회전해 '간다 후레아이바시'를 건너면 4~5분. 1층에 이자카야(대개 닫혀 있음)가 있는 검은 건물이며, 이자카야를 왼쪽으로 돌면 계단 입구가 있다. 2층에 올라가면 검은 문 세 개 중 One up. 로고가 붙은 문이 매장 입구다.",
-  "en": "Thirty seconds from exit A2 of Iwamotocho station on the Toei Shinjuku line — go out, turn left and look back. From the JR Akihabara Electric Town exit it is 4-5 minutes: keep Sega on your right, cross the lights, turn left, then turn right just before the 'Tengu' sign and cross the Kanda Fureai footbridge. Look for the black building with an izakaya (usually shut) on the ground floor; the stairs are round its left side, and on 2F the entrance is the one of three black doors carrying the One up. logo."
+  "en": "Thirty seconds from exit A2 of Iwamotocho station on the Toei Shinjuku line — go out, turn left and look back. From the JR Akihabara Electric Town exit it is 4-5 minutes: keep Sega on your right, cross the lights, turn left, then turn right just before the 'Tengu' sign and cross the Kanda Fureai footbridge. Look for the black building with an izakaya (usually shut) on the ground floor; the stairs are round its left side, and on 2F the entrance is the one of three black doors carrying the One up. logo.",
+  "ja": "都営新宿線岩本町駅のA2出口から30秒で、出て左に曲がり、振り返ると見えます。JR秋葉原駅の電気街口からは4〜5分で、セガを右手にして直進し、信号を渡って左折、天狗の看板の手前で右折して神田ふれあい橋を渡ります。1Fに居酒屋（たいてい閉まっています）が入る黒いビルが目印で、階段はその左側を回ったところにあり、2Fにある黒い扉3つのうちOne up.のロゴが付いた扉が入口です。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,13 @@
    "Even when there is no release on, stock and display pieces are always out, and the shop says browsing without buying is fine.",
    "There is no telephone in the shop, so the landline never rings; use 070-6467-9902 instead.",
    "The chain also has a Nakano Broadway branch, and some lottery items can only be collected at the Akihabara shop."
+  ],
+  "ja": [
+   "看板は見落としやすく扉も閉まっていることが多いですが、案内が貼られた扉をそのまま開けて入って大丈夫です。",
+   "2021年7月にAKIBAカルチャーズZONEから移り、7月21日にこの場所で正式に開店しました。古い住所を載せたままの地図があるので注意してください。",
+   "発売の告知がない日でも商品や展示品は常に出ており、見るだけでも構わないと案内しています。",
+   "店内に電話機がないため固定電話は鳴りません。連絡は070-6467-9902にしてください。",
+   "中野ブロードウェイ店もあり、抽選販売の商品は秋葉原店でしか店頭で受け取れない場合があります。"
   ]
  },
  "official_url": "http://www.one-up.org/shop-guide.htm",

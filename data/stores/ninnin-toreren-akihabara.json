@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "개인이 쇼케이스를 빌려 파는 트레카 전용 위탁 판매점",
-  "en": "Card-only rental showcase shop where individual sellers rent a case to sell cards"
+  "en": "Card-only rental showcase shop where individual sellers rent a case to sell cards",
+  "ja": "個人がショーケースを借りて売るトレカ専用のレンタルショーケース店"
  },
  "building_id": null,
  "floors": [
@@ -66,7 +67,8 @@
   ],
   "regular_holiday": {
    "ko": "매주 화요일(화요일이 공휴일이면 영업)",
-   "en": "Closed every Tuesday, except when the Tuesday is a public holiday"
+   "en": "Closed every Tuesday, except when the Tuesday is a public holiday",
+   "ja": "毎週火曜日（火曜日が祝日の場合は営業）"
   },
   "note": null,
   "source_url": "https://x.com/treren_akiba"
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 뒷골목(잔크도리) 쪽, 케밥집 '스타케밥 아키바테라스' 바로 옆의 호프빌 5층. 1층은 옷가게와 PC 가게가 늘어선 좁은 건물이라 입구의 층별 안내를 보고 올라가야 한다.",
-  "en": "On the back street west of Chuo-dori, in the Hope Building right next to the Star Kebab Akiba Terrace stand. The ground floor is a row of clothing and PC shops, so check the tenant board at the entrance before going up to 5F."
+  "en": "On the back street west of Chuo-dori, in the Hope Building right next to the Star Kebab Akiba Terrace stand. The ground floor is a row of clothing and PC shops, so check the tenant board at the entrance before going up to 5F.",
+  "ja": "中央通りの西側の裏通り、スターケバブ アキバテラスのすぐ隣に建つホープビルです。1Fは洋服店やPCショップが並んでいるので、入口のテナント案内を見てから5Fに上がってください。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,12 @@
    "The shop's own X profile states the hours: 13:00-20:00 on weekdays, 11:00-20:00 at weekends and on public holidays, closed on Tuesdays unless the Tuesday is a holiday.",
    "There is no duel space.",
    "Opened in 2025 by the company behind the Pokemon-card shop Nin-Nin at Sotokanda 3-8-7, Fuji Bldg 2F."
+  ],
+  "ja": [
+   "普通のカードショップではなく、個人の出品者がショーケースを1枠ずつ借りて売る店なので、並ぶ品は絶えず入れ替わり、同じカードでもケースごとに値段が違います。",
+   "営業時間は店の公式Xプロフィールに出ており、平日13:00-20:00、土日祝11:00-20:00で、火曜日が定休日です（火曜日が祝日の場合は営業）。",
+   "デュエルスペースはありません。",
+   "外神田3-8-7のフジビル2Fにあるポケモンカードの店、ニンニン 秋葉原店と同じ会社が2025年に開いた店です。"
   ]
  },
  "official_url": "https://nin-nin-pokeka.jp/",

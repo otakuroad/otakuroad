@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "라디오센터 1층 트레카 매장. 러시듀얼·Re버스 싱글과 오리파·팩",
-  "en": "Trading card shop in Radio Center: Rush Duel and Re Birth singles, packs and oripa"
+  "en": "Trading card shop in Radio Center: Rush Duel and Re Birth singles, packs and oripa",
+  "ja": "ラジオセンター1Fのトレカ店、ラッシュデュエルとRe:バースのシングル・パック・オリパ"
  },
  "building_id": null,
  "floors": [
@@ -66,11 +67,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "라디오센터 공식 사이트와 아키하바라 트레카맵 모두 10:00-19:00, 연중무휴로 안내한다. 일부 매입 비교 사이트에는 18:30 폐점으로 적혀 있으니 늦은 시간 방문은 피하는 편이 낫다.",
-   "en": "Both the Radio Center site and the Akihabara TCG directory give 10:00-19:00, open year-round. Some buyback comparison sites list an 18:30 close, so do not leave it to the last minute."
+   "en": "Both the Radio Center site and the Akihabara TCG directory give 10:00-19:00, open year-round. Some buyback comparison sites list an 18:30 close, so do not leave it to the last minute.",
+   "ja": "秋葉原ラジオセンターの公式サイトも秋葉原のトレカマップも10:00〜19:00、年中無休と案内しています。一部の買取比較サイトには18:30閉店と書かれていますので、遅い時間の来店は避けるほうが安心です。"
   },
   "source_url": "http://www.radiocenter.jp/shop/sh59.htm"
  },
@@ -86,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구를 나와 바로 앞 고가 아래 상가인 아키하바라 라디오센터로 들어가면 된다. 무선 부품 가게가 늘어선 좁은 통로들 사이 1층 한 칸이 카베노미세다.",
-  "en": "Go straight out of JR Akihabara's Electric Town Exit into Akihabara Radio Center, the arcade under the viaduct. Kabe no Mise is one ground-floor unit among the narrow lanes of radio-parts stalls."
+  "en": "Go straight out of JR Akihabara's Electric Town Exit into Akihabara Radio Center, the arcade under the viaduct. Kabe no Mise is one ground-floor unit among the narrow lanes of radio-parts stalls.",
+  "ja": "JR秋葉原駅の電気街口を出て、まっすぐ目の前の高架下の商店街、秋葉原ラジオセンターに入ります。無線パーツの店が並ぶ狭い通路の1F、その一区画がカベの店 秋葉原地上店です。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,12 @@
    "There is no duel space, no tournament schedule and no buyback counter; go elsewhere if you want to play on site.",
    "Other branches of the same brand - Kabe no Mise Chijo 2 and Kabe no Mise 2 - are nearby by the station and easy to confuse with this one.",
    "It is a trading card shop, not a capsule-toy shop - look elsewhere for gachapon."
+  ],
+  "ja": [
+   "扱いの中心はプレイ用のシングルカードで、Re:バース for youと遊戯王ラッシュデュエルが主力です。オリパは遊戯王OCG・MTG・ポケモンカードのものが出ています。",
+   "デュエルスペースや大会はなく、買取の窓口もありません。対戦相手を探すのが目的でしたら、ほかのお店のほうがよいです。",
+   "同じ系列のカベの店 秋葉原地上2号店とカベの店 2号店が駅の近くに別にありますので、間違えないようご注意ください。",
+   "ガチャポンの専門店ではなくトレーディングカードの店です。カプセルトイをお探しでしたら近くの別の店をご覧ください。"
   ]
  },
  "official_url": null,

@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "1층은 아이돌 생사진·굿즈와 엄선 피규어, 2~5층은 성인 영상물 매장",
-  "en": "Idol bromides and goods plus selected figures on 1F; adult video floors on 2F-5F"
+  "en": "Idol bromides and goods plus selected figures on 1F; adult video floors on 2F-5F",
+  "ja": "1Fはアイドルの生写真・グッズと厳選フィギュア、2F〜5Fは成人向け映像の売り場"
  },
  "building_id": null,
  "floors": [
@@ -72,7 +73,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포 공식 사이트 FAQ 기준 월~목·일요일 10:00-20:00, 금·토·공휴일 전날 10:00-21:00이며 연중무휴다. 체인 점포 목록에 남아 있는 10:00-22:30은 오래된 값이다. 공휴일 당일 시간은 안내가 없어 그날의 요일 시간이 적용된다.",
-   "en": "The store's own site states 10:00-20:00 Monday to Thursday and Sunday, and 10:00-21:00 on Fridays, Saturdays and the day before a public holiday, open year-round. The 10:00-22:30 still shown on the chain store list is out of date. Hours on the holiday itself are not stated, so the weekday hours apply."
+   "en": "The store's own site states 10:00-20:00 Monday to Thursday and Sunday, and 10:00-21:00 on Fridays, Saturdays and the day before a public holiday, open year-round. The 10:00-22:30 still shown on the chain store list is out of date. Hours on the holiday itself are not stated, so the weekday hours apply.",
+   "ja": "店舗の公式サイトのFAQでは月〜木・日曜が10:00〜20:00、金・土・祝日の前日が10:00〜21:00で、年中無休です。チェーンの店舗一覧に残っている10:00〜22:30は古い情報です。祝日当日の時間は案内がないため、その日の曜日の時間が適用されます。"
   },
   "source_url": "https://www.lammtarra-epixis-akiba.com/adult/"
  },
@@ -93,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 돈키호테 아키하바라점과 애니메이트 ANNEX 사이에 낀 5층짜리 람타라 건물. JR 아키하바라역과 긴자선 스에히로초역 중간쯤이며 1층 입구로 바로 들어간다.",
-  "en": "On the east side of Chuo-dori, in the five-storey Lammtarra building wedged between Don Quijote Akihabara and the animate ANNEX, roughly midway between JR Akihabara and Suehirocho. Enter straight in on 1F."
+  "en": "On the east side of Chuo-dori, in the five-storey Lammtarra building wedged between Don Quijote Akihabara and the animate ANNEX, roughly midway between JR Akihabara and Suehirocho. Enter straight in on 1F.",
+  "ja": "中央通りの東側、ドン・キホーテ秋葉原店とアニメイト秋葉原ANNEXに挟まれた5階建てのラムタラのビルです。JR秋葉原駅と末広町駅のちょうど中間あたりで、1Fの入口からそのまま入れます。"
  },
  "tips": {
   "ko": [
@@ -107,6 +110,12 @@
    "1F centres on buying and selling idol bromides and idol goods (Nogizaka and Sakurazaka groups above all), with selected figures and novelty items alongside.",
    "The store's own site says credit and debit cards, e-money (iD, QUICPay, Rakuten Edy and transit IC), barcode payments such as PayPay, and UnionPay are all accepted. Tax-free is not mentioned.",
    "This is a different shop from the group's Lammtarra Akihabara (Sotokanda 1-13-3) and Lammtarra Media World Akiba (1-15-2)."
+  ],
+  "ja": [
+   "一般商品は1Fだけで、2F〜5Fは成人向け映像の専門フロアです（公式の案内では在庫は約10万本）。未成年の方やご家族連れの場合は1Fだけをご利用ください。",
+   "1Fは乃木坂・櫻坂系を中心にしたアイドルの生写真・グッズの販売と買取が中心で、厳選されたフィギュアや雑貨も一緒に並んでいます。",
+   "クレジットカード・デビットカード、電子マネー（iD・QUICPay・楽天Edy・交通系）、PayPayなどのバーコード決済、銀聯カードが使えると店舗の公式サイトが案内しています。免税については記載がありません。",
+   "同じラムタラ系列のラムタラ秋葉原店（外神田1-13-3）やラムタラメディアワールドアキバ（1-15-2）とは別の店舗です。"
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E3%82%A8%E3%83%94%E3%82%AB%E3%83%AA%E3%82%A2%E3%82%AD%E3%83%90/",

@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·유희왕 싱글과 미개봉 박스를 파는 트레카 전문점이 모인 몰",
-  "en": "Mall of card specialty shops selling Pokemon, One Piece and Yu-Gi-Oh singles and boxes"
+  "en": "Mall of card specialty shops selling Pokemon, One Piece and Yu-Gi-Oh singles and boxes",
+  "ja": "ポケモン・ワンピース・遊戯王のシングルやBOXを扱うトレカ専門店が集まるモール"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -49,12 +50,14 @@
   {
    "floor": "B1F",
    "ko": "약 80평. 신소쿠·카드컬렉트·만다이트레카·카드숍 나베·오리파크 등 싱글 판매와 매입 창구 중심",
-   "en": "About 80 tsubo. Shinsoku, Card Collect, Mandai Toreca, Card Shop Nabe and Oripark - singles and buyback counters"
+   "en": "About 80 tsubo. Shinsoku, Card Collect, Mandai Toreca, Card Shop Nabe and Oripark - singles and buyback counters",
+   "ja": "約80坪。シンソク、カードコレクト秋葉原、Mandai Toreca、Card Shop Nabe、オリパーク秋葉原店が入り、シングル販売と買取カウンターが中心です"
   },
   {
    "floor": "5F",
    "ko": "약 111평. TCG Revival·카이토리토반·Starriverse·MERO·퀘스트트레카·포케도·바쿠소쿠카이토리 1minutes와 크레인게임 코너 HAO 아키하바라, 배틀 스페이스",
-   "en": "About 111 tsubo. TCG Revival, Kaitori Toban, Starriverse, MERO, Quest Toreca, Pokedo and Bakusoku Kaitori 1minutes, plus the HAO Akihabara crane-game corner and a battle space"
+   "en": "About 111 tsubo. TCG Revival, Kaitori Toban, Starriverse, MERO, Quest Toreca, Pokedo and Bakusoku Kaitori 1minutes, plus the HAO Akihabara crane-game corner and a battle space",
+   "ja": "約111坪。TCG Revival 秋葉原店、買取当番 トレカ秋葉原店、Starriverse（スターリバース）秋葉原店、ポケモンカード専門店MERO秋葉原店、Questトレカ 秋葉原店、ポケモンカード専門店 ポケ堂 秋葉原店、爆速買取1minutesに加え、クレーンゲームコーナーのHAO秋葉原とバトルスペースがあります"
   }
  ],
  "location": null,
@@ -80,7 +83,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "11:00-19:00은 2026년 3월 5층 오픈 때 운영사가 공식 발표한 5층 영업시간이다. B1층 점포도 대체로 같지만(신소쿠 11:00-19:00) 12:00에 여는 곳도 있어 방문 전 각 점포 X 계정 확인이 필요하다.",
-   "en": "11:00-19:00 is the 5F time the operator announced when the 5F floor opened in March 2026. Most B1F booths keep the same hours (Shinsoku 11:00-19:00), but some open at 12:00, so check each shop's X account first."
+   "en": "11:00-19:00 is the 5F time the operator announced when the 5F floor opened in March 2026. Most B1F booths keep the same hours (Shinsoku 11:00-19:00), but some open at 12:00, so check each shop's X account first.",
+   "ja": "11:00-19:00は、2026年3月に5Fがオープンした際に運営会社が発表した5Fの営業時間です。B1Fの区画もおおむね同じ時間ですが（シンソクは11:00-19:00）、12:00に開く店もあるので、先に各店のXアカウントを確認してください。"
   },
   "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
  },
@@ -96,7 +100,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점)이다. 가전 매장과는 별개로 카드 매장만 B1층과 5층에 모여 있고, 지하는 정면 입구 안쪽 계단·에스컬레이터로, 5층은 엘리베이터로 올라간다.",
-  "en": "From JR Akihabara's Electric Town Exit walk one to two minutes south along Chuo-dori to the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). The card shops are separate from the electronics floors: B1F down the stairs or escalator just inside the main entrance, 5F by elevator."
+  "en": "From JR Akihabara's Electric Town Exit walk one to two minutes south along Chuo-dori to the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). The card shops are separate from the electronics floors: B1F down the stairs or escalator just inside the main entrance, 5F by elevator.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを南へ1〜2分、万世橋の交差点に建つ青いビル（エディオンAKIBA／ラオックス 秋葉原本店）です。カードショップは家電のフロアとは別で、B1Fへは正面入口を入ってすぐの階段かエスカレーターで、5Fへはエレベーターで上がります。"
  },
  "tips": {
   "ko": [
@@ -108,6 +113,11 @@
    "B1F is singles and buyback counters; 5F adds a battle space and the HAO Akihabara crane-game corner.",
    "Several separate buyback counters mean you can compare offers on the same card without leaving the floor.",
    "B1F opened on 13 July 2024 and 5F on 14 March 2026; the tenant line-up changes often."
+  ],
+  "ja": [
+   "B1Fはシングル販売と買取カウンター、5FにはこれにバトルスペースとクレーンゲームコーナーのHAO秋葉原が加わります。",
+   "買取カウンターが複数に分かれているので、フロアから出ずに同じカードの査定額を見比べられます。",
+   "B1Fは2024年7月13日、5Fは2026年3月14日にオープンし、入る店舗の顔ぶれはよく変わります。"
   ]
  },
  "official_url": null,

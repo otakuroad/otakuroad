@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "트레카 고액 매입 카운터 겸 판매점. 스에히로초역 도보 1분, 센주빌딩5 2층",
-  "en": "Trading card buying counter that also sells singles, a minute from Suehirocho station"
+  "en": "Trading card buying counter that also sells singles, a minute from Suehirocho station",
+  "ja": "シングル販売も行うトレカ買取カウンター、末広町駅から徒歩1分"
  },
  "building_id": null,
  "floors": [
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 페이지에는 영업시간 12:00-19:00만 적혀 있고 정기 휴무일 표기는 없다. 본점 트레카라운지(11:00-20:00)보다 짧다.",
-   "en": "The official page lists only 12:00-19:00 and names no regular closing day. Shorter than the main Toreca Lounge shop (11:00-20:00)."
+   "en": "The official page lists only 12:00-19:00 and names no regular closing day. Shorter than the main Toreca Lounge shop (11:00-20:00).",
+   "ja": "公式ページには12:00-19:00とだけ記載されており、定休日は挙げられていません。本店のトレカラウンジ（11:00-20:00）より短い営業時間です。"
   },
   "source_url": "https://multiple.ltd/kaitori-center/"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 센주빌딩5(千住ビル5) 2층이며 같은 건물 1층은 호비라운지, 5층은 트레카 비밀기지다.",
-  "en": "One minute from Suehirocho on the Ginza Line, seven from JR Akihabara. 2F of Senju Building 5; Hobby Lounge is on 1F and Toreca Himitsu Kichi on 5F of the same building."
+  "en": "One minute from Suehirocho on the Ginza Line, seven from JR Akihabara. 2F of Senju Building 5; Hobby Lounge is on 1F and Toreca Himitsu Kichi on 5F of the same building.",
+  "ja": "銀座線の末広町駅から徒歩1分、JR秋葉原駅からは徒歩7分です。千住ビル5の2Fで、同じ建物の1Fにはホビーラウンジ、5Fにはトレカ秘密基地 秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -87,6 +90,11 @@
    "This is not the main Toreca Lounge at Sotokanda 5-1-3 (New Suehiro Building 201): the 32-seat lounge, drink bar and private rooms are only at the main shop, while this annex is built around the buying counter.",
    "You can check a buyback in advance by phone on 090-8221-8796.",
    "The 12:00-19:00 window is short - arrive in the evening and it will already be shut."
+  ],
+  "ja": [
+   "外神田5-1-3のニュー末広ビル201にある本店のトレカラウンジとは別の店舗です。32席のラウンジやドリンクバー、個室があるのは本店だけで、この別館は買取カウンターが中心です。",
+   "買取は電話090-8221-8796で事前に確認できます。",
+   "営業時間が12:00-19:00と短いので、夕方に着いたときにはもう閉まっています。"
   ]
  },
  "official_url": "https://multiple.ltd/kaitori-center/",

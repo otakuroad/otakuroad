@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 오리파와 PSA 감정 카드를 파는 지하 1층 트레카 매장, 현금 매입 카운터 병설",
-  "en": "B1F card shop selling Pokemon oripa packs and PSA-graded singles; cash buyback desk"
+  "en": "B1F card shop selling Pokemon oripa packs and PSA-graded singles; cash buyback desk",
+  "ja": "ポケモンカードのオリパとPSA鑑定シングルを扱うB1Fのカードショップ、現金買取カウンター併設"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -67,7 +68,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "영업시간은 매장 공식 X 계정 프로필 표기 기준. 에디온 AKIBA 건물은 10:00에 열지만 이 매장은 평일 12:00, 토·일·공휴일 11:00 개점이다.",
-   "en": "Hours as stated on the shop's own official X profile. The EDION AKIBA building opens at 10:00, but this shop opens at 12:00 on weekdays and 11:00 on weekends and holidays."
+   "en": "Hours as stated on the shop's own official X profile. The EDION AKIBA building opens at 10:00, but this shop opens at 12:00 on weekdays and 11:00 on weekends and holidays.",
+   "ja": "営業時間は店の公式Xのプロフィールの表記によります。エディオンAKIBAの建物は10:00に開きますが、この店の開店は平日12:00、土日・祝日11:00です。"
   },
   "source_url": "https://x.com/RisesAkibaST"
  },
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리 쪽으로 도보 1분. 옛 라옥스 아키하바라 본점 건물인 에디온 AKIBA의 지하 1층이며, 1층 입구에서 지하로 내려가면 카드숍이 늘어선 통로가 나오고 그중 한 곳이다.",
-  "en": "One minute from the JR Akihabara Electric Town Exit toward Chuo-dori. It sits on B1F of EDION AKIBA, the former Laox Akihabara main store: go down from the ground-floor entrance to the basement aisle lined with card shops, of which this is one."
+  "en": "One minute from the JR Akihabara Electric Town Exit toward Chuo-dori. It sits on B1F of EDION AKIBA, the former Laox Akihabara main store: go down from the ground-floor entrance to the basement aisle lined with card shops, of which this is one.",
+  "ja": "JR秋葉原駅の電気街口から中央通りの方へ徒歩1分です。旧ラオックス 秋葉原本店の建物であるエディオンAKIBAのB1Fにあり、1Fの入口から地下へ下りるとカードショップが並ぶ通路があって、そのうちの一軒です。"
  },
  "tips": {
   "ko": [
@@ -95,6 +98,11 @@
    "Opens at 12:00 on weekdays and 11:00 on weekends and holidays, and closes early at 19:00 - later than the building itself, which opens at 10:00.",
    "The stock leans to oripa (random packs) and PSA-graded cards, so if you are hunting a specific single, walk the rest of the B1F card aisle (Shinsoku No.2, Oripark, Card Collect and others) as well.",
    "Buyback is advertised as paid entirely in cash; card acceptance for purchases is not stated anywhere official, so bring cash."
+  ],
+  "ja": [
+   "平日は12:00、土日・祝日は11:00の開店で、閉店は19:00と早めです。10:00に開く建物そのものより遅い開店になります。",
+   "品ぞろえはオリパ（ランダムパック）とPSA鑑定品が中心なので、特定のシングルを探しているなら、同じB1Fのカード通路のほかの店（シンソク秋葉原2号店、オリパーク秋葉原店、カードコレクト秋葉原など）も一緒に回ってみてください。",
+   "買取は全額現金払いをうたっています。購入時にカードが使えるかは公式にどこにも書かれていないので、現金を用意していってください。"
   ]
  },
  "official_url": "https://torecarises.com/",

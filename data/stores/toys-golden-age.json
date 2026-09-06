@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "쇼와 괴수 소프비·울트라맨·가면라이더·초합금 로봇 등 빈티지 완구 전문점",
-  "en": "Vintage Showa toys: kaiju sofubi, Ultraman, Kamen Rider and diecast robots"
+  "en": "Vintage Showa toys: kaiju sofubi, Ultraman, Kamen Rider and diecast robots",
+  "ja": "昭和のビンテージ玩具、怪獣ソフビ・ウルトラマン・仮面ライダー・超合金ロボット"
  },
  "building_id": null,
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 목요일 휴무",
-   "en": "Closed every Thursday"
+   "en": "Closed every Thursday",
+   "ja": "毎週木曜定休"
   },
   "note": {
    "ko": "공식 블로그 안내는 '11:30~20:00(※저녁 무렵 1시간 정도 휴식/폐점 시간 있음)'으로, 저녁에 잠시 자리를 비우는 날이 있다. 공휴일 영업시간은 따로 안내가 없다. 문의 03-5256-0012.",
-   "en": "The official blog states 11:30-20:00 with an hour-long break or early close around the evening, so the shutter may be down for a while at dusk. No separate public-holiday hours are published. Phone 03-5256-0012."
+   "en": "The official blog states 11:30-20:00 with an hour-long break or early close around the evening, so the shutter may be down for a while at dusk. No separate public-holiday hours are published. Phone 03-5256-0012.",
+   "ja": "公式ブログの案内は11:30-20:00で、夕方ごろに1時間ほどの休憩または早じまいがあるため、その時間帯はシャッターが下りていることがあります。祝日の営業時間は別に案内されていません。電話は03-5256-0012です。"
   },
   "source_url": "https://goldenage88.blog.fc2.com/"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 스에히로초 방면, 이어폰 전문점 e☆이어폰 아키하바라 본점과 같은 블록의 고바야시(小林) 빌딩 1층. 일본어 '玩具古今東西'와 영문 'Toys GOLDEN☆AGE' 두 이름을 함께 쓰기 때문에 지도 표기가 갈린다.",
-  "en": "On the Suehirocho stretch of Chuo-dori, on the 1F of the Kobayashi Building in the same block as the e-earphone Akihabara flagship. The shop uses both the Japanese name 玩具古今東西 and the English Toys GOLDEN☆AGE, so maps list it either way."
+  "en": "On the Suehirocho stretch of Chuo-dori, on the 1F of the Kobayashi Building in the same block as the e-earphone Akihabara flagship. The shop uses both the Japanese name 玩具古今東西 and the English Toys GOLDEN☆AGE, so maps list it either way.",
+  "ja": "中央通りの末広町寄り、e☆イヤホン秋葉原本店と同じブロックに建つ小林ビルの1Fです。日本語の玩具古今東西と英語のToys GOLDEN☆AGEの両方の名前を使っているため、地図の表記もどちらかに分かれます。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,10 @@
   "en": [
    "On top of the Thursday closing, the shop takes an hour-ish break around the evening, so check the official blog before making a special trip.",
    "Stock leans to Showa and early-Heisei kaiju, tokusatsu and robot toys rather than current-release figures."
+  ],
+  "ja": [
+   "木曜の定休日に加えて、夕方ごろに1時間ほど店を閉める時間があるので、わざわざ足を運ぶ前に公式ブログを確認してください。",
+   "品ぞろえは現行のフィギュアよりも、昭和から平成初期の怪獣・特撮・ロボットの玩具に寄っています。"
   ]
  },
  "official_url": "https://goldenage88.blog.fc2.com/",

@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬 등 20여 종 TCG 싱글과 156석 대전 공간을 갖춘 카드 전문점",
-  "en": "Singles for 20-plus card games plus a 156-seat duel space on 2F"
+  "en": "Singles for 20-plus card games plus a 156-seat duel space on 2F",
+  "ja": "20種類以上のTCGのシングルと、2Fの156席のデュエルスペース"
  },
  "building_id": "imai-building",
  "floors": [
@@ -49,12 +50,14 @@
   {
    "floor": "2F",
    "ko": "매장 카운터와 판매 층",
-   "en": "Shop counter and sales floor"
+   "en": "Shop counter and sales floor",
+   "ja": "店舗のカウンターと販売のフロアです。"
   },
   {
    "floor": "4F",
    "ko": "대회·이벤트 공간. 부시로드·호로라이브 카드게임 공식 취급점 명단은 이 층 주소로 등록돼 있다",
-   "en": "Tournament and event floor; Bushiroad's and hololive's official dealer lists register the shop at this floor"
+   "en": "Tournament and event floor; Bushiroad's and hololive's official dealer lists register the shop at this floor",
+   "ja": "大会・イベント用のフロアです。ブシロードとホロライブのカードゲームの公式取扱店リストには、このフロアの住所で登録されています。"
   }
  ],
  "location": null,
@@ -86,7 +89,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "신제품 발매일에는 오전 7시에 앞당겨 여는 날이 있다. 전화 03-6384-0593.",
-   "en": "On some new-set release days it opens early, at 07:00. Phone 03-6384-0593."
+   "en": "On some new-set release days it opens early, at 07:00. Phone 03-6384-0593.",
+   "ja": "新製品の発売日には07:00に早く開ける日があります。電話は03-6384-0593です。"
   },
   "source_url": "https://193tcg.com/user_data/shopinfo"
  },
@@ -102,7 +106,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 7분. 주오도리에서 서쪽으로 세 블록, 쇼헤이바시도리 가까운 이면도로의 이마이빌딩(今井ビル) 2층이다. 1층 입구로 들어가 계단이나 엘리베이터로 올라간다.",
-  "en": "Seven minutes from JR Akihabara's Electric Town Exit. Three blocks west of Chuo-dori on a back street near Shoheibashi-dori, on 2F of the Imai Building; enter at ground level and take the stairs or lift."
+  "en": "Seven minutes from JR Akihabara's Electric Town Exit. Three blocks west of Chuo-dori on a back street near Shoheibashi-dori, on 2F of the Imai Building; enter at ground level and take the stairs or lift.",
+  "ja": "JR秋葉原駅の電気街口から徒歩7分です。中央通りから西へ3ブロック、昌平橋通りに近い裏通りの今井ビル2Fで、1階の入口から入って階段かエレベーターで上がります。"
  },
  "tips": {
   "ko": [
@@ -116,6 +121,12 @@
    "Yu-Gi-Oh and Pokemon lead, but it also keeps singles for over 20 games including Weiss Schwarz, Duel Masters, Vanguard, MTG, Battle Spirits, Z/X and Lycee.",
    "Part of a chain with shops in Nagoya, Hamamatsu and Osaka Nipponbashi; orders from its 193net web shop can be collected here.",
    "Weekdays open at 12:00 but weekends and holidays at 10:00, two hours earlier."
+  ],
+  "ja": [
+   "156席のデュエルスペースは秋葉原でも最大級なので、大会やフリー対戦が目的ならここが無難です。",
+   "遊戯王とポケモンカードが主力ですが、ヴァイスシュヴァルツ、デュエル・マスターズ、ヴァンガード、MTG、バトルスピリッツ、Z/X、リセなど20種類を超えるタイトルのシングルもそろえています。",
+   "名古屋・浜松・大阪日本橋に店舗を持つチェーンで、通販サイト193netで注文した商品をこの店舗で受け取れます。",
+   "平日は12:00、土日祝は2時間早い10:00の開店です。"
   ]
  },
  "official_url": "https://193tcg.com/user_data/shopinfo",

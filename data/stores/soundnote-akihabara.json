@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "지하 아이돌·밴드 공연용 대관 라이브하우스. 정원 110명, 주최자별 이벤트만 개최",
-  "en": "Rental basement live house, capacity 110, for underground idol and band events"
+  "en": "Rental basement live house, capacity 110, for underground idol and band events",
+  "ja": "地下アイドルやバンドのイベント向けの貸しライブハウス、定員110名"
  },
  "building_id": null,
  "floors": [
@@ -60,7 +61,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 안내의 영업시간 8:00-23:00은 대관 시설의 운영 시간이며, 상설 영업하는 가게가 아니다. 실제로는 예약된 공연이 있는 날에만 열리고 입장 시각은 이벤트마다 다르므로 공식 '예약 상황' 캘린더와 주최자 공지를 확인할 것. 전화 문의는 10:00-12:00, 13:00-17:00.",
-   "en": "The official 8:00-23:00 is the rental facility's operating window, not shop hours - it only opens for booked events, and each event sets its own door time, so check the official availability calendar and the organiser's notice. Phone reception is 10:00-12:00 and 13:00-17:00."
+   "en": "The official 8:00-23:00 is the rental facility's operating window, not shop hours - it only opens for booked events, and each event sets its own door time, so check the official availability calendar and the organiser's notice. Phone reception is 10:00-12:00 and 13:00-17:00.",
+   "ja": "公式の営業時間8:00〜23:00は貸し施設としての運営時間で、店としての営業時間ではありません。予約の入ったイベントがある日にだけ開き、入場時刻はイベントごとに異なるので、公式の予約状況カレンダーと主催者の告知を確認してください。電話の受付は10:00〜12:00と13:00〜17:00です。"
   },
   "source_url": "https://www.soundnote.tokyo/access/"
  },
@@ -76,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 주오 북쪽 출구(中央北口)에서 오른쪽으로 나와 횡단보도를 건넌 뒤 요도바시카메라를 오른쪽에 두고 걷는다. 바로 나오는 교차로에서는 횡단보도를 건너지 말고 오른쪽으로 꺾어 직진하고, 다음 교차로에서 길을 건너 왼쪽으로 향한다. APA호텔이 있는 옆길 횡단보도를 건너 APA호텔을 왼쪽에 두고 진행하면 다음 교차로 왼쪽 앞 건물이 K3빌딩이다. 지하 1층으로 내려가는 계단 아래가 접수처. 역에서 도보 10분 정도로 전기가 쪽 상점가와는 반대편이다.",
-  "en": "From the JR Akihabara Chuo North Exit, turn right, cross at the crossing and walk with Yodobashi Camera on your right. At the first junction do not cross - turn right and keep going; at the next junction cross the road and head left. Cross into the side street with the APA Hotel and keep the hotel on your left; the building on the near left of the following junction is the K3 Building. The reception is at the bottom of the stairs down to B1F. About 10 minutes from the station, on the opposite side from the Electric Town shops."
+  "en": "From the JR Akihabara Chuo North Exit, turn right, cross at the crossing and walk with Yodobashi Camera on your right. At the first junction do not cross - turn right and keep going; at the next junction cross the road and head left. Cross into the side street with the APA Hotel and keep the hotel on your left; the building on the near left of the following junction is the K3 Building. The reception is at the bottom of the stairs down to B1F. About 10 minutes from the station, on the opposite side from the Electric Town shops.",
+  "ja": "JR秋葉原駅の中央北口を出て右に進み、横断歩道を渡ってヨドバシカメラを右手に見ながら歩きます。すぐの交差点では横断歩道を渡らずに右へ曲がって直進し、次の交差点で道路を渡って左へ向かいます。アパホテルのある脇道の横断歩道を渡り、アパホテルを左手にして進むと、次の交差点の手前左にあるビルがK3ビルです。B1Fへ下りる階段の下が受付で、駅から徒歩10分ほど、電気街の商店とは反対側になります。"
  },
  "tips": {
   "ko": [
@@ -90,6 +93,12 @@
    "A 600 yen drink charge (one drink included) is collected at the door on top of the ticket, and re-entry costs another 600 yen.",
    "A small basement hall - 110 standing, stage about 5.7 m wide - so even the back is close to the performers.",
    "Full-volume live sets are restricted to after 18:00 on weekdays and after 11:00 at weekends and holidays, ending by 22:00 every day; earlier slots are talk and cafe-style events."
+  ],
+  "ja": [
+   "貸しライブハウスのため常設営業ではなく、公式の「予約状況」ページのGoogleカレンダーで★が付いた日にだけ公演があり、空室のマークが付いた日は予約が入っていません。",
+   "入場時にチケットとは別にドリンク代600円（1ドリンク付き）がかかり、再入場のときにもう一度600円が必要です。",
+   "スタンディング定員110名、ステージ幅約5.7mの小さな地下ホールなので、後ろのほうでも演者との距離が近いです。",
+   "大音量のライブは平日18:00以降、土日・祝日11:00以降に限られ、どの日も22:00までに終わります。それより前の時間帯はトークやカフェ形式のイベントです。"
   ]
  },
  "official_url": "https://www.soundnote.tokyo/",

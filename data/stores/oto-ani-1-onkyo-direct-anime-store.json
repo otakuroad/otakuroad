@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "애니 콜라보 이어폰·헤드폰과 커스텀 IEM을 파는 ONKYO 직영 오디오 매장",
-  "en": "ONKYO's own shop for anime-collab earphones, headphones and custom in-ear monitors"
+  "en": "ONKYO's own shop for anime-collab earphones, headphones and custom in-ear monitors",
+  "ja": "アニメコラボのイヤホン・ヘッドホンとカスタムIEMを扱うONKYO直営店"
  },
  "building_id": null,
  "floors": [
@@ -64,7 +65,8 @@
   ],
   "regular_holiday": {
    "ko": "매주 월요일(공휴일이면 영업하고 다음 화요일 휴무)",
-   "en": "Closed Mondays; open when Monday is a public holiday and closed the following Tuesday instead"
+   "en": "Closed Mondays; open when Monday is a public holiday and closed the following Tuesday instead",
+   "ja": "毎週月曜日（祝日の場合は営業し、翌火曜日が休み）"
   },
   "note": null,
   "source_url": "https://onkyoanime.com/about"
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2분, 주오도리에 면한 소토칸다 3-15-7 세키네(関根) 빌딩 1층. 아키하바라 가챠폰 회관 바로 옆 건물이다. JR 아키하바라역에서는 도보 10분.",
-  "en": "Two minutes from Suehirocho on the Tokyo Metro Ginza line, on the ground floor of the Sekine Building at Sotokanda 3-15-7, which fronts Chuo-dori right next to the Akihabara Gachapon Kaikan. About ten minutes from JR Akihabara."
+  "en": "Two minutes from Suehirocho on the Tokyo Metro Ginza line, on the ground floor of the Sekine Building at Sotokanda 3-15-7, which fronts Chuo-dori right next to the Akihabara Gachapon Kaikan. About ten minutes from JR Akihabara.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩2分、中央通りに面した外神田3-15-7の関根ビル1階で、秋葉原ガチャポン会館のすぐ隣の建物です。JR秋葉原駅からは徒歩10分ほどです。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,11 @@
    "Closed on Mondays, which is unusual in Akihabara; when Monday is a holiday it opens and closes the next Tuesday instead.",
    "Beyond earphones and headphones it handles made-to-order custom IEMs plus cases and replacement cables.",
    "Music-matured sake, apparel and watches are at the No.2 shop (Oto-Ani Lifestyle) in Sotokanda 5-chome, not here."
+  ],
+  "ja": [
+   "秋葉原では珍しく月曜が定休日です。月曜が祝日の場合はその日は営業し、翌火曜日が休みになります。",
+   "イヤホン・ヘッドホンのほかに、オーダーメイドのカスタムIEMやケース、リケーブルも扱っています。",
+   "音楽熟成の日本酒やアパレル、時計は、ここではなく外神田5丁目の音アニ2号店（ONKYO DIRECT ANIME STORE-Lifestyle-）で扱っています。"
   ]
  },
  "official_url": "https://onkyoanime.com/",

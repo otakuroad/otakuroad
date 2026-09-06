@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "인형의 집 콘셉트로 옆에 앉지 않는 건전 운영을 내건 콘셉트 카페. 시간제 차지 방식",
-  "en": "A doll's-house concept cafe run on 'the cast does not sit beside you' lines, charged by the hour"
+  "en": "A doll's-house concept cafe run on 'the cast does not sit beside you' lines, charged by the hour",
+  "ja": "人形の家をコンセプトに、キャストが隣に座らない運営を掲げる時間制チャージのコンセプトカフェ"
  },
  "building_id": "akiba-asobikan",
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무(不定休)",
-   "en": "Irregular closing days (不定休)"
+   "en": "Irregular closing days (不定休)",
+   "ja": "不定休"
   },
   "note": {
    "ko": "공식 사이트 ABOUT 페이지가 평일 17:00~23:00, 휴일 15:00~23:00(둘 다 라스트오더 22:30), 정기휴일 부정기로 적어 두었다. '휴일'은 매장 공식 인스타그램 프로필의 '평일 17:00-23:00 토일축 15:00-23:00' 표기에 따라 토·일·공휴일로 넣었다. 다만 공식 사이트의 뉴스가 2021년에서 멈춰 있고 디렉터리 사이트마다 시각이 조금씩 다르게 올라와 있어, 방문 전에 다시 확인하는 편이 안전하다. 운영사 N프로 공식 사이트는 2026년 기준으로 이 가게를 운영 점포로 계속 안내한다.",
-   "en": "The official ABOUT page gives 17:00-23:00 on weekdays and 15:00-23:00 on 休日, both with last orders at 22:30, and 不定休 for closing days. '休日' is read as Saturday, Sunday and public holidays, following the shop's own Instagram profile, which spells it out as 平日17:00-23:00 土日祝15:00-23:00. Be aware that the official site's news stops in 2021 and directory listings quote slightly different times, so it is worth re-checking before you go; the operator Npro's own site still lists the shop as running as of 2026."
+   "en": "The official ABOUT page gives 17:00-23:00 on weekdays and 15:00-23:00 on 休日, both with last orders at 22:30, and 不定休 for closing days. '休日' is read as Saturday, Sunday and public holidays, following the shop's own Instagram profile, which spells it out as 平日17:00-23:00 土日祝15:00-23:00. Be aware that the official site's news stops in 2021 and directory listings quote slightly different times, so it is worth re-checking before you go; the operator Npro's own site still lists the shop as running as of 2026.",
+   "ja": "公式サイトのABOUTページには平日17:00〜23:00、休日15:00〜23:00（いずれもラストオーダー22:30）、定休日は不定休と書かれています。休日は、店の公式Instagramのプロフィールが平日17:00-23:00 土日祝15:00-23:00と書き分けているのに従って、土曜・日曜・祝日と読みました。ただし公式サイトのニュースは2021年で止まっており、各ディレクトリサイトによって時刻が少しずつ違うので、行く前に改めて確かめるほうが安心です。運営会社Nproの公式サイトは2026年の時点でもこの店を営業中の店舗として案内しています。"
   },
   "source_url": "https://dotsweet.jp/about/"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 가드 아래 실크햇 아키하바라를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리가 나오고, 왼편 7층 건물 아키바아소비관 4층이다. 4층은 운영사 N프로의 사무실과 같은 층이라 예전 안내에는 사무실만 있는 층으로 적혀 있기도 하다. 1층 프라페코 옆 엘리베이터로 4층에 올라간다.",
-  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and it is 4F of the seven-storey Akiba Asobikan on the left. The floor also holds the office of the operator, Npro, which is why older listings describe 4F as offices only. Take the lift beside Frapeko on 1F up to 4F."
+  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and it is 4F of the seven-storey Akiba Asobikan on the left. The floor also holds the office of the operator, Npro, which is why older listings describe 4F as offices only. Take the lift beside Frapeko on 1F up to 4F.",
+  "ja": "JRの電気街口から徒歩5分です。中央通りの高架下のシルクハット秋葉原を過ぎ、3つ目の角を右（北）に曲がると神田明神通りに出て、左手の7階建てのアキバあそび館の4Fです。この階には運営会社Nproの事務所もあるため、古い案内では4Fを事務所だけの階として書いているものもあります。1Fのフラペコの横のエレベーターで4Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,13 @@
    "The official site states that credit cards are accepted.",
    "The phone number is 03-6262-9460, and the official site gives five minutes on foot from JR Akihabara and five from Suehirocho on the Ginza Line.",
    "The official site has not been updated since 2023 and the X account is gone, so whether the cafe is still trading is unconfirmed; it stays off the map until checked on site."
+  ],
+  "ja": [
+   "運営会社のNproがキャストが隣に座らない健全なカフェと説明している店なので、キャストが同席するタイプのコンセプトカフェとは接客の仕方が違います。",
+   "料金は1時間1,000円のチャージに、900円からのワンドリンクオーダー制で、飲み放題も900円からです。",
+   "公式サイトにはクレジットカードが使えると書かれています。",
+   "電話は03-6262-9460で、公式サイトはJR秋葉原駅から徒歩5分、銀座線の末広町駅から徒歩5分と案内しています。",
+   "公式サイトは2023年以降更新されておらずXのアカウントもなくなっているため、今も営業しているかどうかは確認できていません。現地で確かめるまでは地図に載せません。"
   ]
  },
  "photo": null,

@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "마녀 견습생 콘셉트의 카페&바. 식사·칵테일과 마녀 코스튬 접객",
-  "en": "Witch-themed concept cafe and bar serving meals, cocktails and alcohol"
+  "en": "Witch-themed concept cafe and bar serving meals, cocktails and alcohol",
+  "ja": "魔女がテーマのコンセプトカフェ＆バー。食事とカクテル、お酒"
  },
  "building_id": null,
  "floors": [
@@ -78,7 +79,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 표기는 월~금 17:00~5:00, 토 13:00~5:00, 일 13:00~22:00(공휴일 전날이면 다음 날 5:00까지)이다. 여기서는 자정까지만 적었으므로 월~토는 실제로 다음 날 새벽 5시까지 영업한다. 공휴일 자체의 영업시간은 공식 안내가 없다.",
-   "en": "The official listing is 17:00-5:00 Monday to Friday, 13:00-5:00 on Saturday and 13:00-22:00 on Sunday (running to 05:00 when the next day is a public holiday). The table above stops at midnight, so Monday to Saturday really run to 05:00. Hours for public holidays themselves are not stated."
+   "en": "The official listing is 17:00-5:00 Monday to Friday, 13:00-5:00 on Saturday and 13:00-22:00 on Sunday (running to 05:00 when the next day is a public holiday). The table above stops at midnight, so Monday to Saturday really run to 05:00. Hours for public holidays themselves are not stated.",
+   "ja": "公式の表記は月〜金が17:00〜5:00、土が13:00〜5:00、日が13:00〜22:00（翌日が祝日の場合は5:00まで）です。上の表は0:00までしか載せていないので、月〜土は実際には翌朝5:00まで営業しています。祝日そのものの営業時間は書かれていません。"
   },
   "source_url": "https://witchesgarden.cc/access.html"
  },
@@ -94,7 +96,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽, 아키하바라 UDX 북쪽 건너편의 'OAK akihabara' 빌딩 4층. 같은 건물 2층은 철도모형 중고점 호비랜드 포치 1호점이라 건물을 찾기 쉽다. 4층은 2024년 9월까지 강시 콘셉트 카페 幽幻飯店이 쓰던 자리다.",
-  "en": "4F of the OAK akihabara building, one block west of Chuo-dori and just north of Akihabara UDX. The used model-railway shop Hobby Land Pochi Store 1 on 2F of the same building is the easiest landmark. Until September 2024 this 4F space was the jiangshi-themed cafe Yuhgen Hanten."
+  "en": "4F of the OAK akihabara building, one block west of Chuo-dori and just north of Akihabara UDX. The used model-railway shop Hobby Land Pochi Store 1 on 2F of the same building is the easiest landmark. Until September 2024 this 4F space was the jiangshi-themed cafe Yuhgen Hanten.",
+  "ja": "中央通りから1ブロック西、秋葉原UDXのすぐ北にあるOAK akihabaraビルの4Fです。同じビルの2Fにある中古の鉄道模型店ホビーランドぽち 秋葉原1号店が一番わかりやすい目印です。この4Fは2024年9月までキョンシーがテーマのカフェ、幽幻飯店だった場所です。"
  },
  "tips": {
   "ko": [
@@ -108,6 +111,12 @@
    "It is a concept cafe and bar rather than a daytime cafe, serving full meals alongside alcohol.",
    "Prices are quoted in the house currency, Ulu. Entry needs a 300 Ulu 'job card'; the cafe drink course is 900 Ulu per 30 minutes and the bar's all-you-can-drink alcohol course is 1,500 Ulu per 30 minutes, auto-extending in 30-minute blocks. Payment methods are not published, so bring cash to be safe.",
    "The official site can be unreachable from outside Japan, so the X account (@witchesgarden31) is the reliable place to check the day's status. Phone 03-6206-0029."
+  ],
+  "ja": [
+   "月曜から土曜は翌朝5:00まで、日曜は22:00までの営業で、日曜が5:00まで延びるのは翌日が祝日のときだけです。",
+   "昼間のカフェではなくコンセプトカフェ兼バーで、食事とお酒を一緒に出します。",
+   "料金は店内の通貨Uluで表示されます。入場には300Uluの「ジョブカード」が必要で、カフェのドリンクコースは30分900Ulu、バーのアルコール飲み放題コースは30分1,500Ulu、以降は30分ごとに自動延長されます。支払い方法は公表されていないので、現金を用意していくほうが安心です。",
+   "公式サイトは日本国外からつながらないことがあるので、その日の営業はX（@witchesgarden31）で確認するのが確実です。電話番号は03-6206-0029です。"
   ]
  },
  "official_url": "https://witchesgarden.cc/",

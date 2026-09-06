@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "여장 남성 스태프가 접객하는 콘셉트 카페&바. 60분 음료 무제한제",
-  "en": "Concept cafe and bar staffed by crossdressing men; 60 minutes all-you-can-drink"
+  "en": "Concept cafe and bar staffed by crossdressing men; 60 minutes all-you-can-drink",
+  "ja": "女装した男性スタッフが接客するコンセプトカフェ＆バー、60分飲み放題制"
  },
  "building_id": "isamiya-8-building",
  "floors": [
@@ -73,11 +74,13 @@
   ],
   "regular_holiday": {
    "ko": "매월 첫째 월요일(공휴일이면 영업하고 둘째 월요일 휴무)",
-   "en": "First Monday of the month; if that Monday is a public holiday the shop opens and closes on the second Monday instead"
+   "en": "First Monday of the month; if that Monday is a public holiday the shop opens and closes on the second Monday instead",
+   "ja": "毎月第1月曜日（その月曜日が祝日の場合は営業し、第2月曜日が休み）"
   },
   "note": {
    "ko": "토요일은 실제로는 12:00부터 다음 날 05:00(표기 29:00)까지 영업하며 라스트오더 28:30. 여기서는 자정까지만 표기했다. 월~금 라스트오더 22:00, 일·공휴일 라스트오더 22:30.",
-   "en": "Saturday actually runs from 12:00 through to 05:00 the next morning (written 29:00) with last order at 28:30; the table above stops at midnight. Last order is 22:00 Monday to Friday and 22:30 on Sundays and holidays."
+   "en": "Saturday actually runs from 12:00 through to 05:00 the next morning (written 29:00) with last order at 28:30; the table above stops at midnight. Last order is 22:00 Monday to Friday and 22:30 on Sundays and holidays.",
+   "ja": "土曜日は実際には12:00から翌朝05:00（29:00表記）まで営業し、ラストオーダーは28:30です。ここでは0:00までの表記にとどめています。月〜金のラストオーダーは22:00、日曜・祝日は22:30です。"
   },
   "source_url": "https://newtype.ms/system/"
  },
@@ -93,7 +96,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽 뒷길에 있는 5층짜리 이사미야 제8빌딩 3층. 도쿄메트로 긴자선 스에히로초역에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 8분 정도다. 같은 건물 2층에는 코스프레 메이드카페 HoneyHoney가 있다.",
-  "en": "3F of the five-storey Isamiya No.8 Building on the back street one block west of Chuo-dori, about 3 minutes from Suehirocho station and 8 minutes from the JR Akihabara Electric Town exit. The cosplay maid cafe HoneyHoney occupies 2F of the same building."
+  "en": "3F of the five-storey Isamiya No.8 Building on the back street one block west of Chuo-dori, about 3 minutes from Suehirocho station and 8 minutes from the JR Akihabara Electric Town exit. The cosplay maid cafe HoneyHoney occupies 2F of the same building.",
+  "ja": "中央通りの一本西の裏通りに建つ5階建てのイサミヤ第8ビルの3Fで、末広町駅から約3分、JR秋葉原駅の電気街口から約8分です。同じビルの2Fには、コスプレ系のメイドカフェHoneyHoney秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -107,6 +111,12 @@
    "The point card gives one point per 1,000 yen spent on food and drink; 50 points earn a 'rank insignia', and each rank up lowers the charge.",
    "Opened on 9 May 2009 and run by Side3, it is regarded as the original otokonoko (crossdressing male) maid cafe. It follows maid-cafe rules as a dining bar rather than a gay bar or newhalf pub, and close to half the customers are women.",
    "Only Saturday runs through to 05:00; on weekdays it does not open until 18:00, and it closes on the first Monday of each month."
+  ],
+  "ja": [
+   "料金は60分3,000円で、ソフトドリンクもお酒も飲み放題です。延長は60分ごとに2,700円が自動で加算され、一部のドリンクは追加料金がかかります。",
+   "ポイントカードは飲食1,000円につき1ポイントで、50ポイントたまると階級章がもらえ、階級が上がるほどチャージ料金が安くなります。",
+   "2009年5月9日に開店し、運営はSide3で、男の娘（女装した男性）メイドカフェの元祖とされています。ゲイバーやニューハーフパブではなく、メイドカフェのルールに沿ったダイニングバーで、女性客の割合も半分近くあります。",
+   "土曜日だけは05:00まで営業し、平日の開店は18:00です。毎月第1月曜日は休みになります。"
   ]
  },
  "official_url": "https://newtype.ms/",

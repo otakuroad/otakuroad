@@ -40,7 +40,8 @@
  ],
  "one_line": {
   "ko": "1·2층 신품·중고 애니 피규어와 프라이즈·이치반쿠지 경품, 굿즈 매입 카운터",
-  "en": "New and used anime figures, prize and Ichiban Kuji items on 1F-2F, plus a buyback counter"
+  "en": "New and used anime figures, prize and Ichiban Kuji items on 1F-2F, plus a buyback counter",
+  "ja": "1F・2Fの新品・中古アニメフィギュアとプライズ・一番くじ景品、買取カウンター"
  },
  "building_id": null,
  "floors": [
@@ -73,11 +74,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "No closing day"
+   "en": "No closing day",
+   "ja": "定休日なし"
   },
   "note": {
    "ko": "매입 접수는 19:30에 마감되며 19:00 이후에는 1회 10점까지만 받는다. 임시 휴업·시간 변경은 공식 사이트 공지와 X(@otachu_akiba)에 올라온다.",
-   "en": "The buyback desk closes at 19:30 and takes at most 10 items per visit after 19:00. Temporary closures and changed hours are posted on the official site and on X (@otachu_akiba)."
+   "en": "The buyback desk closes at 19:30 and takes at most 10 items per visit after 19:00. Temporary closures and changed hours are posted on the official site and on X (@otachu_akiba).",
+   "ja": "買取カウンターは19:30に締め切られ、19:00以降は1回につき10点までです。臨時休業や時間の変更は、公式サイトとX（@otachu_akiba）に掲載されます。"
   },
   "source_url": "https://otachu-akiba.com/1go/"
  },
@@ -93,7 +96,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 4분. 주오도리 서쪽 뒷골목, 만다라케 컴플렉스와 같은 블록에 있는 4층짜리 오야(大矢) 빌딩이다. 1층이 그대로 매장 입구이고 계단으로 2층까지 이어진다.",
-  "en": "Four minutes from the JR Akihabara Electric Town Exit, on the back street west of Chuo-dori in the same block as Mandarake Complex. The shop is the four-storey Oya Building: the ground floor is the shopfront, with stairs up to 2F."
+  "en": "Four minutes from the JR Akihabara Electric Town Exit, on the back street west of Chuo-dori in the same block as Mandarake Complex. The shop is the four-storey Oya Building: the ground floor is the shopfront, with stairs up to 2F.",
+  "ja": "JR秋葉原駅電気街口から徒歩4分、中央通りの西側の裏通り、まんだらけコンプレックスと同じブロックにあります。店は4階建ての大矢ビルで、1Fがそのまま売り場の入口になり、階段で2Fに上がれます。"
  },
  "tips": {
   "ko": [
@@ -107,6 +111,12 @@
    "Credit cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay), transit IC cards (Suica, PASMO), iD, QUICPay, Edy, nanaco, WAON and PayPay, Alipay and WeChat Pay are accepted.",
    "The shop does not offer tax-free: its own English page states that all items carry 10% consumption tax and that tax-free is unavailable.",
    "Much of the stock is prize and Ichiban Kuji figures, which suits cheap used-figure hunting. The chain's No.2 (cards) and No.5 (cards) branches are about five minutes away on foot."
+  ],
+  "ja": [
+   "買取の受付は19:30に終わり、19:00以降は1回10点までしか受け付けないので、売る物が多いなら早めに行ってください。",
+   "クレジットカード（VISA、Mastercard、JCB、AMEX、ダイナース、Discover、銀聯）、交通系IC（Suica、PASMO）、iD、QUICPay、Edy、nanaco、WAON、PayPay、Alipay、WeChat Payが使えます。",
+   "免税は扱っていません。店の英語ページに、全商品に消費税10%がかかり免税はできないと書かれています。",
+   "在庫はプライズや一番くじの景品フィギュアが多く、安い中古フィギュア探しに向いています。同じチェーンの2号店（カード）と5号店（カード）は徒歩5分ほどです。"
   ]
  },
  "official_url": "https://otachu-akiba.com/1go/",

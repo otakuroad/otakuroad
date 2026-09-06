@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "6층 트레카 매입·판매점. 포켓몬·원피스·유희왕 싱글과 PSA 감정품",
-  "en": "6F shop buying and selling Pokemon, One Piece and Yu-Gi-Oh singles and PSA slabs"
+  "en": "6F shop buying and selling Pokemon, One Piece and Yu-Gi-Oh singles and PSA slabs",
+  "ja": "ポケモン・ワンピース・遊戯王のシングルとPSA鑑定品を売買する6Fの店"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일 휴무",
-   "en": "Closed Tuesdays"
+   "en": "Closed Tuesdays",
+   "ja": "火曜定休"
   },
   "note": {
    "ko": "공식 웹사이트가 없어 매장 공식 X(@TCG_SOUL_AKB)의 영업시간 안내를 옮긴 것이다. 매입 접수는 폐점 직전까지 받고, 예약 없이 방문해도 된다고 안내한다.",
-   "en": "The shop has no website, so these hours come from its own X account (@TCG_SOUL_AKB). It says buyback is taken right up to closing and that walk-ins without a booking are welcome."
+   "en": "The shop has no website, so these hours come from its own X account (@TCG_SOUL_AKB). It says buyback is taken right up to closing and that walk-ins without a booking are welcome.",
+   "ja": "公式ウェブサイトがないため、この営業時間は店の公式Xアカウント（@TCG_SOUL_AKB）によるものです。買取は閉店直前まで受け付け、予約なしの来店も歓迎と案内しています。"
   },
   "source_url": "https://x.com/TCG_SOUL_AKB/status/1954199552199917657"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3~4분. 주오도리 서쪽 뒷길인 타시로도리(田代通り) 변, 트레이더 본점에서 북동쪽으로 30m 남짓 떨어진 7층 건물 AKIBA426의 6층이다. 같은 건물 3층은 카페 플라잉 스코츠맨이라 간판을 보고 건물을 찾으면 된다.",
-  "en": "Three to four minutes from the Electric Town exit of JR Akihabara. It is on 6F of the seven-storey AKIBA426 Building on Tashiro-dori, the back street west of Chuo-dori, about 30 m north-east of Trader Main Store. The cafe Flying Scotsman on 3F of the same building is a useful sign to spot."
+  "en": "Three to four minutes from the Electric Town exit of JR Akihabara. It is on 6F of the seven-storey AKIBA426 Building on Tashiro-dori, the back street west of Chuo-dori, about 30 m north-east of Trader Main Store. The cafe Flying Scotsman on 3F of the same building is a useful sign to spot.",
+  "ja": "JR秋葉原駅の電気街口から徒歩3〜4分です。中央通りの西側の裏通りである田代通り沿い、トレーダー秋葉原本店から北東へ30mほどの7階建てのビルAKIBA426の6Fにあります。同じ建物の3FにあるカフェのFlying Scotsmanが建物を見つける目印になります。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "The X profile now names Pokemon, One Piece, Yu-Gi-Oh, Dragon Ball, Weiss Schwarz, Lycee, Union Arena, Conan and Buddyfight among its titles - wider than the six it started with - and it handles singles, PSA slabs and sealed boxes as well as mail-in buyback.",
    "There is no duel space; the shop is built around buying and selling, so go elsewhere to play.",
    "It pushes hard on buying scarce cards in good condition, including old-back Pokemon and out-of-print sets, and takes buyback enquiries through LINE."
+  ],
+  "ja": [
+   "横浜のカードショップが出した秋葉原の店で、2025年6月25日に買取だけのプレオープンを行い、6月30日に正式開店しました。",
+   "公式Xのプロフィールが挙げるタイトルはポケモン・ワンピース・遊戯王・ドラゴンボール・ヴァイスシュヴァルツ・リセ・ユニオンアリーナ・コナン・バディファイトなどで、開店当初の6タイトルより広がりました。シングル・PSA鑑定品・未開封BOXを扱い、郵送買取にも対応しています。",
+   "デュエルスペースはなく、買取と販売が中心の店なので、対戦目的なら別の店へどうぞ。",
+   "旧裏面のポケモンカードや絶版のシリーズなど、状態のよい希少なカードの買取に力を入れており、買取の相談はLINEでも受け付けています。"
   ]
  },
  "official_url": null,

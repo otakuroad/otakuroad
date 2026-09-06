@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "크레인 게임과 프리쿠라, 메달·음악 게임을 밤 23시 55분까지 여는 오락실",
-  "en": "Arcade with crane games, purikura, medal and music games, open until 23:55"
+  "en": "Arcade with crane games, purikura, medal and music games, open until 23:55",
+  "ja": "クレーンゲーム・プリクラ・メダル・音楽ゲームがそろい23:55まで営業のゲームセンター"
  },
  "building_id": null,
  "floors": [],
@@ -59,11 +60,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "운영사 야마자키야 공식 점포 안내 기준 10:00-23:55, 연중무휴. 여행 사이트에는 24:55 폐점으로 남아 있는 경우가 있다.",
-   "en": "10:00-23:55 year-round per the operator Yamazakiya's official store listing; some travel sites still show a 24:55 closing time."
+   "en": "10:00-23:55 year-round per the operator Yamazakiya's official store listing; some travel sites still show a 24:55 closing time.",
+   "ja": "運営会社ヤマザキヤの公式店舗案内によると10:00〜23:55で年中無休です。旅行サイトには24:55閉店と残っている場合があります。"
   },
   "source_url": "https://www.yamazakiya.co.jp/shop/syutoken/"
  },
@@ -79,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 주오도리 한 블록 서쪽 소토칸다 1-9 골목의 여러 층짜리 오락실. 밤 23시 55분까지 불이 켜져 있어 늦은 시간에도 찾기 쉽다.",
-  "en": "Four minutes from the JR Akihabara Electric Town exit, a multi-floor arcade on the Sotokanda 1-9 back street one block west of Chuo-dori; its lights stay on until 23:55."
+  "en": "Four minutes from the JR Akihabara Electric Town exit, a multi-floor arcade on the Sotokanda 1-9 back street one block west of Chuo-dori; its lights stay on until 23:55.",
+  "ja": "JR秋葉原駅の電気街口から徒歩4分、中央通りから1ブロック西の外神田1-9の裏通りにある複数フロアのゲームセンターです。23:55まで明かりがついています。"
  },
  "tips": {
   "ko": [
@@ -91,6 +95,11 @@
    "Open 10:00-23:55 every day, one of the latest-closing arcades in Akihabara.",
    "It runs a large bank of arcade card cabinets such as Gundam Arsenal Base, so waits are usually short.",
    "Operator Yamazakiya has only two Akihabara halls: this one and the No.2 inside the Don Quijote building."
+  ],
+  "ja": [
+   "毎日10:00〜23:55の営業で、秋葉原でもっとも遅くまで開いているゲーセンの一つです。",
+   "ガンダムアーセナルベースなどアーケードカードゲームの筐体を多く並べているので、待たずに座れることが多いです。",
+   "運営会社のヤマザキヤが秋葉原に構えるのは、この店とドン・キホーテのビルの中にある2号店の2軒だけです。"
   ]
  },
  "official_url": "https://www.yamazakiya.co.jp/shop/syutoken/",

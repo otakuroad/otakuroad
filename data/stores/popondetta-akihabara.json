@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "B1~4층 철도모형 전문점. 신품 N게이지와 1량 단위 중고, 2층 유료 레일 레이아웃",
-  "en": "Five-floor model railway shop: new N gauge, used sold by the carriage, 2F rental layout"
+  "en": "Five-floor model railway shop: new N gauge, used sold by the carriage, 2F rental layout",
+  "ja": "新品Nゲージと1両単位の中古、2階のレンタルレイアウトがある5フロアの鉄道模型店"
  },
  "building_id": null,
  "floors": [
@@ -52,27 +53,32 @@
   {
    "floor": "B1F",
    "ko": "HO게이지 일본형 차량과 각 게이지 해외형 차량, 지오라마 용품, 고서·중고 철도 잡화",
-   "en": "Japanese HO gauge, foreign-prototype models in all gauges, diorama supplies, old books and used railway goods"
+   "en": "Japanese HO gauge, foreign-prototype models in all gauges, diorama supplies, old books and used railway goods",
+   "ja": "HOゲージの日本型車両と各ゲージの海外型車両、ジオラマ用品、古書や中古の鉄道雑貨がそろいます。"
   },
   {
    "floor": "1F",
    "ko": "입구와 매입 카운터. B트레인쇼티·철도/버스 컬렉션 낱개 판매, 각사 레일·스트럭처·스타터 세트",
-   "en": "Entrance and buyback counter; B-Train Shorty and railway/bus collections sold singly, plus track, structures and starter sets"
+   "en": "Entrance and buyback counter; B-Train Shorty and railway/bus collections sold singly, plus track, structures and starter sets",
+   "ja": "入口と買取カウンターがあり、Bトレインショーティーや鉄道・バスコレクションのばら売り、各社のレールやストラクチャー、スターターセットを扱います。"
   },
   {
    "floor": "2F",
    "ko": "유료 레일 레이아웃 12선과 철도 굿즈(티셔츠·문구·잡화)",
-   "en": "Twelve-track paid rental layout and railway goods (T-shirts, stationery, sundries)"
+   "en": "Twelve-track paid rental layout and railway goods (T-shirts, stationery, sundries)",
+   "ja": "12線の有料レンタルレイアウトと、Tシャツや文具、雑貨といった鉄道グッズのフロアです。"
   },
   {
    "floor": "3F",
    "ko": "KATO·TOMIX·MICROACE·그린맥스 등 신품 N게이지 차량과 ASSY 파츠, 예약 상품 수령",
-   "en": "New N gauge from KATO, TOMIX, MICROACE and Greenmax, ASSY parts and reservation pickup"
+   "en": "New N gauge from KATO, TOMIX, MICROACE and Greenmax, ASSY parts and reservation pickup",
+   "ja": "KATO、TOMIX、MICROACE、グリーンマックスなどの新品Nゲージ車両とASSYパーツを扱い、予約商品の受け取りもここです。"
   },
   {
    "floor": "4F",
    "ko": "중고 N게이지 차량·주변기기·컬렉션 시리즈. 1량 단위로도 판다",
-   "en": "Used N gauge stock, accessories and collection series, sold by the single carriage"
+   "en": "Used N gauge stock, accessories and collection series, sold by the single carriage",
+   "ja": "中古のNゲージ車両や周辺機器、コレクションシリーズを扱い、1両単位でも購入できます。"
   }
  ],
  "location": {
@@ -107,7 +113,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일만 20:30까지, 토·일·공휴일은 20:00에 닫는다. 5층은 사무실이라 들어갈 수 없다.",
-   "en": "Open until 20:30 on weekdays and 20:00 on Saturdays, Sundays and public holidays. 5F is office space and closed to visitors."
+   "en": "Open until 20:30 on weekdays and 20:00 on Saturdays, Sundays and public holidays. 5F is office space and closed to visitors.",
+   "ja": "平日は20:30まで、土曜と日曜、祝日は20:00に閉まります。5階は事務所のため立ち入れません。"
   },
   "source_url": "https://www.popondetta.com/akihabara/index.html"
  },
@@ -123,7 +130,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 UDX 서쪽, 주오도리에서 두 블록 서쪽 골목의 'Rail Way BLD'. 건물 이름 그대로 철도모형 전용 빌딩이라 1층 입구에 전차 모양 자판기가 서 있다. 층 이동은 오른쪽 통로의 계단과 엘리베이터.",
-  "en": "The 'Rail Way BLD' on the back street two blocks west of Chuo-dori, just west of Akihabara UDX. The whole building is model trains; a train-shaped vending machine stands at the 1F entrance. Stairs and a lift to the other floors are down the passage on the right."
+  "en": "The 'Rail Way BLD' on the back street two blocks west of Chuo-dori, just west of Akihabara UDX. The whole building is model trains; a train-shaped vending machine stands at the 1F entrance. Stairs and a lift to the other floors are down the passage on the right.",
+  "ja": "秋葉原UDXのすぐ西、中央通りから二つ西の裏通りに建つ「Rail Way BLD」で、建物まるごとが鉄道模型、1階の入口には電車の形をした自動販売機が置かれています。ほかのフロアへ上がる階段とエレベーターは、右手の通路の先にあります。"
  },
  "tips": {
   "ko": [
@@ -139,6 +147,13 @@
    "The 4F used floor sells single carriages, which the new-stock floors do not.",
    "The buyback counter moved from B1 to 1F, so it is easy to bring a big load by car; postal and home-visit buying are also offered.",
    "Credit cards and PayPay are accepted."
+  ],
+  "ja": [
+   "2階のレンタルレイアウトは20分の体験が800円、60分が平日800円・土日祝1,200円です。土日祝は2時間待ちも珍しくなく、2週間先まで電話で予約できます。",
+   "19:00からは、レイアウトの照明が夜景モードに切り替わります。",
+   "4階の中古フロアでは、新品のフロアでは扱わない1両単位の販売をしています。",
+   "買取カウンターはB1Fから1階に移り、車で大量に持ち込みやすくなりました。宅配買取や出張買取も行っています。",
+   "各種クレジットカードとPayPayが使えます。"
   ]
  },
  "official_url": "https://www.popondetta.com/akihabara/index.html",

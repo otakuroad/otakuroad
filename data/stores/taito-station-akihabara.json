@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "타이토 직영 6개 층 오락실. B1F 프리쿠라, 1~3F 크레인게임, 4F 비디오·격투, 5F 음악게임",
-  "en": "Taito arcade over six floors: purikura B1F, crane games 1F-3F, video 4F, rhythm games 5F"
+  "en": "Taito arcade over six floors: purikura B1F, crane games 1F-3F, video 4F, rhythm games 5F",
+  "ja": "6フロアのタイトーのゲームセンター、B1Fプリクラ・1〜3Fクレーンゲーム・4Fビデオ・5F音楽ゲーム"
  },
  "building_id": null,
  "floors": [
@@ -50,32 +51,38 @@
   {
    "floor": "B1F",
    "ko": "프리쿠라(프린트 실) 층. 프리코·하루이로세카이3·블루밋 등 8종 9대와 카드커넥트2",
-   "en": "Purikura (photo-sticker) floor: nine booths across eight models including PURICO, Haruiro Sekai 3 and Bloomit, plus Card Connect 2"
+   "en": "Purikura (photo-sticker) floor: nine booths across eight models including PURICO, Haruiro Sekai 3 and Bloomit, plus Card Connect 2",
+   "ja": "プリクラ（プリントシール）のフロアで、プリコやハルイロセカイ3、ブルーミットなど8機種9台に加え、カードコネクト2があります。"
   },
   {
    "floor": "1F",
    "ko": "크레인게임. 주오도리에 면한 정면 입구 층",
-   "en": "Crane games; the street-level entrance floor facing Chuo-dori"
+   "en": "Crane games; the street-level entrance floor facing Chuo-dori",
+   "ja": "クレーンゲームのフロアで、中央通りに面した路面の入口階です。"
   },
   {
    "floor": "2F",
    "ko": "크레인게임",
-   "en": "Crane games"
+   "en": "Crane games",
+   "ja": "クレーンゲームのフロアです。"
   },
   {
    "floor": "3F",
    "ko": "크레인게임. 와니와니 패닉 1대",
-   "en": "Crane games, plus one Wani Wani Panic cabinet"
+   "en": "Crane games, plus one Wani Wani Panic cabinet",
+   "ja": "クレーンゲームのフロアで、ワニワニパニックが1台あります。"
   },
   {
    "floor": "4F",
    "ko": "비디오·아케이드·카드·레이스 게임 층. 스트리트파이터6, 철권7FR2, 건담 EXVS2 인피니트 부스트, 마리오카트, 완간 미드나이트 6RR, 태고의 달인, 메탈슬러그 등 레트로 기판, 전차로 GO!!",
-   "en": "Video, arcade, card and racing games: Street Fighter 6, Tekken 7FR2, Gundam EXVS2 Infinite Boost, Mario Kart, Wangan Midnight 6RR, Taiko no Tatsujin, Metal Slug and other retro boards, Densha de GO!!"
+   "en": "Video, arcade, card and racing games: Street Fighter 6, Tekken 7FR2, Gundam EXVS2 Infinite Boost, Mario Kart, Wangan Midnight 6RR, Taiko no Tatsujin, Metal Slug and other retro boards, Densha de GO!!",
+   "ja": "ビデオゲーム、アーケード、カードゲーム、レースゲームのフロアです。ストリートファイター6、鉄拳7FR2、ガンダムEXVS2 インフィニットブースト、マリオカート、湾岸ミッドナイト6RR、太鼓の達人、メタルスラッグなどのレトロ基板、電車でGO!!があります。"
   },
   {
    "floor": "5F",
    "ko": "음악게임 전용 층. CHUNITHM Mate, 온게키 Re:Fresh, 폴라리스 코드, beatmania IIDX, SOUND VOLTEX, pop'n music, GITADORA, maimai DX, DDR, jubeat, DANCERUSH",
-   "en": "Rhythm-game floor: CHUNITHM Mate, O.N.G.E.K.I. Re:Fresh, Polaris Code, beatmania IIDX, SOUND VOLTEX, pop'n music, GITADORA, maimai DX, DDR, jubeat, DANCERUSH"
+   "en": "Rhythm-game floor: CHUNITHM Mate, O.N.G.E.K.I. Re:Fresh, Polaris Code, beatmania IIDX, SOUND VOLTEX, pop'n music, GITADORA, maimai DX, DDR, jubeat, DANCERUSH",
+   "ja": "音楽ゲーム専用のフロアで、CHUNITHM Mate、オンゲキ Re:Fresh、ポラリスコード、beatmania IIDX、SOUND VOLTEX、pop'n music、GITADORA、maimai DX、DDR、jubeat、DANCERUSHがあります。"
   }
  ],
  "location": {
@@ -103,11 +110,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "None (open year-round)"
+   "en": "None (open year-round)",
+   "ja": "なし（年中無休）"
   },
   "note": {
    "ko": "일본어 공식 페이지와 전 언어 페이지의 구조화 데이터 기준 23:30 마감. 영어·한국어 페이지 본문에는 24:00으로 남아 있으므로 마감 직전 방문은 여유를 둘 것",
-   "en": "23:30 close per the Japanese page and the schema.org data on every language version; the English and Korean pages still print 24:00 in the body, so do not count on the last half hour."
+   "en": "23:30 close per the Japanese page and the schema.org data on every language version; the English and Korean pages still print 24:00 in the body, so do not count on the last half hour.",
+   "ja": "日本語ページと全言語版の構造化データ（schema.org）では23:30閉店です。英語・韓国語ページの本文には24:00と残っているため、最後の30分をあてにしないでください。"
   },
   "source_url": "https://www.taito.co.jp/store/00001802"
  },
@@ -123,7 +132,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽 보도. 빅카메라 AKIBA에서 북쪽으로 볼크스 호비천국2, 트레이더 아키하바라 본점을 지나면 세 번째 건물이고, 애니메이트 2호관 바로 남쪽이다. 외벽의 커다란 스페이스 인베이더가 표식. 도로에 면한 1F 크레인게임 층으로 들어가 안쪽 엘리베이터나 계단으로 B1F~5F를 오간다.",
-  "en": "East sidewalk of Chuo-dori: from Bic Camera AKIBA walk north past Volks Hobby Tengoku 2 and Trader Akihabara Main Store and it is the third building, just south of animate 2nd Building, with a giant Space Invader on the facade. Enter through the 1F crane-game floor that opens onto the street and use the elevator or stairs inside for B1F-5F."
+  "en": "East sidewalk of Chuo-dori: from Bic Camera AKIBA walk north past Volks Hobby Tengoku 2 and Trader Akihabara Main Store and it is the third building, just south of animate 2nd Building, with a giant Space Invader on the facade. Enter through the 1F crane-game floor that opens onto the street and use the elevator or stairs inside for B1F-5F.",
+  "ja": "中央通りの東側の歩道にあります。ビックカメラAKIBAから北へ、ボークス秋葉原ホビー天国2、トレーダー秋葉原本店を過ぎた3棟目で、アニメイト秋葉原2号館のすぐ南、外壁の巨大なスペースインベーダーが目印です。通りに面した1Fのクレーンゲームフロアから入り、中のエレベーターか階段でB1F〜5Fを移動します。"
  },
  "tips": {
   "ko": [
@@ -137,6 +147,12 @@
    "Taiko no Tatsujin and Gundam EXVS2 are on 4F, not 5F; 5F is the dedicated rhythm-game floor (Konami and Sega titles).",
    "Purikura booths are all on B1F, and 1F-3F are crane games only, so prize hunters can stay on three floors.",
    "Taito lists cashless payment, free Wi-Fi, ChargeSPOT phone charging and an elevator as store facilities, but says nothing per machine; carry 100-yen coins for the 4F retro boards."
+  ],
+  "ja": [
+   "公式ページの「設置ゲーム情報」に各フロアのタイトルと設置台数が載っており、最新版は2026-09-02付です。機種の入れ替えが多いので、目当てのタイトルがあるなら出かける前に確認してください。",
+   "太鼓の達人とガンダムEXVS2は5Fではなく4Fにあり、5Fはコナミ・セガ系の音楽ゲーム専用フロアです。",
+   "プリクラの筐体はすべてB1Fにまとまっており、1F〜3Fはクレーンゲームのみなので、景品狙いなら3フロアだけ回れば十分です。",
+   "タイトーは店舗設備としてキャッシュレス決済、無料Wi-Fi、ChargeSPOT（スマホ充電）、エレベーターを挙げていますが、個々の筐体については触れていないので、4Fのレトロ基板向けに100円玉を用意しておくと安心です。"
   ]
  },
  "official_url": "https://www.taito.co.jp/store/00001802",

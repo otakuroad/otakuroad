@@ -24,7 +24,8 @@
  ],
  "one_line": {
   "ko": "패션 디자이너 캐롤라인짱이 프로듀스한 메이드카페. 식사·음료와 체키 촬영",
-  "en": "Maid cafe produced by fashion designer Caroline-chan: food, drinks and cheki photos"
+  "en": "Maid cafe produced by fashion designer Caroline-chan: food, drinks and cheki photos",
+  "ja": "ファッションデザイナーのキャロラインちゃんがプロデュースするメイドカフェ、食事とドリンク、チェキ"
  },
  "building_id": "a-front",
  "floors": [
@@ -60,7 +61,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 15:00~23:00. 정기휴일 안내는 공식 사이트에 없다.",
-   "en": "17:00-23:00 on weekdays and 15:00-23:00 at weekends and public holidays, per the official site; no regular closing day is stated."
+   "en": "17:00-23:00 on weekdays and 15:00-23:00 at weekends and public holidays, per the official site; no regular closing day is stated.",
+   "ja": "公式サイトによると平日は17:00-23:00、土日祝は15:00-23:00です。定休日の案内は公式サイトにありません。"
   },
   "source_url": "https://akiba-maidcafe.co.jp/rabbit-castle/"
  },
@@ -76,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역에서 도보 3분. 돈키호테 아키하바라점 뒤편(동쪽) 골목에 있는 A-FRONT 빌딩 8층이며, 1층은 대만 음료점 CoCo都可, 옆 건물은 중고 PC점 잔파라다. 4~6층에도 다른 회사의 콘셉트 카페가 들어와 있으니 엘리베이터에서 층 표시를 확인한다.",
-  "en": "Three minutes from JR Akihabara, on the back street behind (east of) Don Quijote Akihabara. A-FRONT has the CoCo Tokka bubble-tea stand at street level and the used-PC shop Janpara next door; take the lift to 8F, and check the floor sign because other operators' concept cafes fill 4F-6F."
+  "en": "Three minutes from JR Akihabara, on the back street behind (east of) Don Quijote Akihabara. A-FRONT has the CoCo Tokka bubble-tea stand at street level and the used-PC shop Janpara next door; take the lift to 8F, and check the floor sign because other operators' concept cafes fill 4F-6F.",
+  "ja": "JR秋葉原駅から徒歩3分、ドン・キホーテ秋葉原店の裏（東側）の裏通りにあります。A-FRONTは1階にタピオカドリンクのCoCo都可、隣に中古パソコン店のじゃんぱらがあるビルで、4階から6階には別の運営会社のコンセプトカフェが入っているため、階の表示を確かめてエレベーターで8階へ上がってください。"
  },
  "tips": {
   "ko": [
@@ -90,6 +93,12 @@
    "The price list and system are posted only as images on the official site, which states no per-person budget.",
    "No payment methods are stated officially, so bring cash to be safe.",
    "Sweet Cat on 10F of the same building is a sister shop under the same operator (YUKIMI Inc.) and keeps the same hours."
+  ],
+  "ja": [
+   "平日は17:00、土日祝は15:00の開店なので、昼間は閉まっています。",
+   "料金表とシステムの案内は公式サイトに画像でしか掲載されておらず、1人あたりの予算は公表されていません。",
+   "支払い方法の公式な案内がないので、現金を用意しておくと安心です。",
+   "同じビルの10階にあるすい〜ときゃっとは、同じ運営会社（株式会社YUKIMI）の姉妹店で、営業時間も同じです。"
   ]
  },
  "official_url": "https://akiba-maidcafe.co.jp/rabbit-castle/",

@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "일본 첫 디즈니 로르카나 전문점. 싱글카드·박스 판매와 매일 대전 이벤트",
-  "en": "Japan's first Disney Lorcana specialist: singles, boxes and daily play events"
+  "en": "Japan's first Disney Lorcana specialist: singles, boxes and daily play events",
+  "ja": "日本初のディズニー ロルカナ専門店、シングル・ボックス販売と毎日の対戦イベント"
  },
  "building_id": null,
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 점포 페이지에 '연중무휴 10:00~22:00'으로 적혀 있다. 회사 개요 페이지에는 아직 옛 시간인 12:00-21:00이 남아 있다.",
-   "en": "The shop page states 'open year-round, 10:00-22:00'; the company-profile page still prints the old 12:00-21:00."
+   "en": "The shop page states 'open year-round, 10:00-22:00'; the company-profile page still prints the old 12:00-21:00.",
+   "ja": "公式の店舗ページには年中無休、10:00〜22:00と書かれています。会社概要のページには今も古い12:00〜21:00が残っています。"
   },
   "source_url": "https://www.lorhappy.com/view/page/shop"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 주오도리 서쪽, 중고 PC·정크 상점이 늘어선 뒷골목의 가와이(河合) 빌딩 1층으로, 하드오프 아키하바라 2호관에서 북서쪽으로 20m 남짓이다. 같은 건물 3층은 자매점 밴해피(ヴァンハッピー).",
-  "en": "One minute from Ginza-line Suehirocho Station, seven minutes from JR Akihabara. It is the ground floor of the Kawai Building on the used-PC and junk back street one block west of Chuo-dori, about 20 m north-west of Hard Off Akihabara No.2. Its sister shop VanHappy is on 3F of the same building."
+  "en": "One minute from Ginza-line Suehirocho Station, seven minutes from JR Akihabara. It is the ground floor of the Kawai Building on the used-PC and junk back street one block west of Chuo-dori, about 20 m north-west of Hard Off Akihabara No.2. Its sister shop VanHappy is on 3F of the same building.",
+  "ja": "銀座線の末広町駅から徒歩1分、JR秋葉原駅から徒歩7分です。中央通りから1本西の、中古PCやジャンクの店が並ぶ裏通りにある河合ビルの1Fで、ハードオフ秋葉原2号店から北西へ20mほどの場所です。同じビルの3Fには姉妹店のヴァンハッピーがあります。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,12 @@
    "Beginner sessions run every day from 18:00 and need no reservation (per the shop's X profile).",
    "The Japanese edition of Disney Lorcana only launched in January 2025, so dedicated shops are rare and this is effectively the one place in Akihabara to find opponents.",
    "The shop's web store also takes pre-orders for singles from new sets."
+  ],
+  "ja": [
+   "運営はMTG専門店の晴れる屋とポケモン専門店の晴れる屋2を立ち上げた斎藤友晴（トモハッピー）さんの株式会社ハッピー商店で、ロルハッピーとヴァンハッピーは2025年6月に同時にオープンしました。",
+   "初心者向けの講習会が毎日18:00から開かれ、予約は不要です。店のXプロフィールに書かれている案内です。",
+   "ディズニー ロルカナの日本語版は2025年1月の発売と新しく、専門店が少ないため、対戦相手を探すなら事実上ここが唯一の拠点です。",
+   "公式の通販サイトでは新弾のシングルの予約も受け付けています。"
   ]
  },
  "official_url": "https://www.lorhappy.com/",

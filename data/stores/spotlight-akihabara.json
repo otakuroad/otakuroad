@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "'왕도' 아이돌 콘셉트 카페. 60분 음료 무제한 세트와 캐스트의 노래·부정기 라이브",
-  "en": "A straight-down-the-line idol concept cafe: 60-minute all-you-can-drink sets, karaoke from the cast and occasional lives"
+  "en": "A straight-down-the-line idol concept cafe: 60-minute all-you-can-drink sets, karaoke from the cast and occasional lives",
+  "ja": "王道アイドルコンセプトカフェ、60分の飲み放題セットとキャストの歌、不定期のライブ"
  },
  "building_id": "akiba-asobikan",
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 표기는 일~목 17:00~23:00, 금·토·공휴일 전날 17:00~25:00(다음 날 01:00)이지만 표에는 24:00으로 끊어 적었다. 라스트오더는 폐점 20분 전이다. 공휴일 자체의 영업시간은 따로 적혀 있지 않고 요일 기준을 따르는 것으로 보이며, 정기휴일도 공지하지 않는다. 라이브 이벤트가 있는 날은 시간이 달라질 수 있어 X를 확인하는 편이 좋다.",
-   "en": "The official site gives 17:00-23:00 Sunday to Thursday and 17:00-25:00 (01:00 the next morning) on Friday, Saturday and the eve of a public holiday; the table caps those at 24:00. Last orders are 20 minutes before closing. The site sets no separate hours for public holidays themselves — they appear to follow the day of the week — and announces no regular closing day. Live-event days can shift the times, so check its X feed."
+   "en": "The official site gives 17:00-23:00 Sunday to Thursday and 17:00-25:00 (01:00 the next morning) on Friday, Saturday and the eve of a public holiday; the table caps those at 24:00. Last orders are 20 minutes before closing. The site sets no separate hours for public holidays themselves — they appear to follow the day of the week — and announces no regular closing day. Live-event days can shift the times, so check its X feed.",
+   "ja": "公式サイトの表記は日〜木17:00〜23:00、金・土曜と祝日の前日は17:00〜25:00（翌01:00）ですが、表では24:00で区切っています。ラストオーダーは閉店の20分前です。祝日そのものの営業時間は別に定められておらず曜日どおりとみられ、定休日も告知されていません。ライブイベントのある日は時間が変わることがあるので、Xを確認してください。"
   },
   "source_url": "https://spotlight-akiba.com/access"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "공식 사이트가 JR 아키하바라역 전기가 출구에서 도보 3분, 아키바아소비관 빌딩 7층이라고 안내한다. 주오도리 가드 아래 실크햇 아키하바라를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리가 나오고, 왼편의 7층 건물 꼭대기 층이다. 1층 노면 매장 프라페코가 표지이고 엘리베이터가 한 대뿐이라 주말 저녁에는 계단이 빠르다.",
-  "en": "The official site puts it three minutes from the JR Electric Town Exit on 7F of the Akiba Asobikan building. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori and it is the top floor of the seven-storey block on the left. Frapeko at street level is the landmark; there is only one lift, so the stairs are quicker on a busy evening."
+  "en": "The official site puts it three minutes from the JR Electric Town Exit on 7F of the Akiba Asobikan building. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori and it is the top floor of the seven-storey block on the left. Frapeko at street level is the landmark; there is only one lift, so the stairs are quicker on a busy evening.",
+  "ja": "公式サイトでは、JR秋葉原駅電気街口から徒歩3分、アキバあそび館の7Fと案内されています。中央通りのガード下のシルクハット秋葉原を過ぎ、3本目の道を右の北へ曲がって神田明神通りに入ると、左手の7階建てのビルの最上階です。1Fの路面店のフラペコが目印で、エレベーターは1台しかないため、混み合う夜は階段のほうが早いです。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,12 @@
    "Pricing is all-you-can-drink and one set is a full 60 minutes; the official system page states there is no service charge and no payment-processing fee.",
    "It is a classic idol concept: the cast includes former idols, lives are held from time to time, and the cast singing for you is part of the standard service.",
    "The official site lists the phone number as 090-3807-0007."
+  ],
+  "ja": [
+   "金・土曜と祝日の前日は25:00（翌01:00）まで営業し、アキバあそび館でいちばん遅くまで開いているフロアです。ラストオーダーは閉店の20分前なので、時間に余裕をもってお越しください。",
+   "料金は飲み放題制で、1セットは60分です。公式のシステムページには、サービス料も決済手数料もかからないと書かれています。",
+   "アイドル経験者が在籍し、不定期にライブも開かれる王道のアイドルコンセプトで、キャストが歌ってくれる時間が基本のサービスに含まれています。",
+   "電話番号は公式サイトに090-3807-0007と掲載されています。"
   ]
  },
  "photo": null,

@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "외눈 몬스터 콘셉트 카페. 논알코올 드링크·가벼운 식사와 소프비 몬스터 인형 판매",
-  "en": "One-eyed monster concept cafe: soft drinks, light food and hand-made sofubi monster toys"
+  "en": "One-eyed monster concept cafe: soft drinks, light food and hand-made sofubi monster toys",
+  "ja": "一つ目モンスターのコンセプトカフェ、ソフトドリンクや軽食と手作りのソフビ人形"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일·수요일 정기휴무",
-   "en": "Closed Tuesdays and Wednesdays"
+   "en": "Closed Tuesdays and Wednesdays",
+   "ja": "火曜日・水曜日が定休日"
   },
   "note": {
    "ko": "공식 Q&A 기준 월·목·금 17:00-22:00, 토·일·공휴일 15:00-20:00, 화·수 휴무. 홈페이지 상단에는 '평일 17〜22'로만 적혀 있어 화·수 휴무가 드러나지 않으니 주의. 라스트오더는 폐점 1시간 전이며 단축 영업이 있을 수 있고 변경은 공식 X(@hi_monsterparty)에 공지된다.",
-   "en": "The official Q&A gives Mon/Thu/Fri 17:00-22:00, Sat/Sun/holidays 15:00-20:00, closed Tue and Wed; the site's top page only says 'weekdays 17-22' and hides the Tue/Wed closure. Last order is one hour before closing, hours are sometimes shortened, and changes are posted on X (@hi_monsterparty)."
+   "en": "The official Q&A gives Mon/Thu/Fri 17:00-22:00, Sat/Sun/holidays 15:00-20:00, closed Tue and Wed; the site's top page only says 'weekdays 17-22' and hides the Tue/Wed closure. Last order is one hour before closing, hours are sometimes shortened, and changes are posted on X (@hi_monsterparty).",
+   "ja": "公式のQ&Aでは月・木・金が17:00-22:00、土日祝が15:00-20:00、火曜と水曜は定休日となっています。サイトのトップページには平日17〜22としか書かれておらず、火・水の定休日が分かりません。ラストオーダーは閉店の1時間前で、短縮営業になることもあり、変更はX（@hi_monsterparty）に告知されます。"
   },
   "source_url": "https://www.monsterparty.tokyo/q-a"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 4번 출구에서 주오도리를 따라 우에노 방향(북쪽)으로 걷다가 첫 신호 교차로에서 좌회전, 두 번째 교차로에서 우회전해 약 60m 앞 오른편 건물이다. 1층 햄버거 가게가 표식이고 영업 중에는 건물 입구에 입간판이 나온다. 국제6163빌딩(国際6163ビル) 4층 401호. JR 아키하바라역에서는 도보 20분, 지요다선 유시마역에서 도보 5분.",
-  "en": "From Tokyo Metro Ginza Line Suehirocho exit 4, walk north along Chuo-dori toward Ueno, turn left at the first signalled crossing and right at the second; the building is about 60 m along on the right. The burger shop on the ground floor is the landmark and a sandwich board stands at the entrance while the cafe is open. Kokusai 6163 Building, room 401 on 4F — 20 minutes on foot from JR Akihabara, 5 minutes from Yushima on the Chiyoda Line."
+  "en": "From Tokyo Metro Ginza Line Suehirocho exit 4, walk north along Chuo-dori toward Ueno, turn left at the first signalled crossing and right at the second; the building is about 60 m along on the right. The burger shop on the ground floor is the landmark and a sandwich board stands at the entrance while the cafe is open. Kokusai 6163 Building, room 401 on 4F — 20 minutes on foot from JR Akihabara, 5 minutes from Yushima on the Chiyoda Line.",
+  "ja": "東京メトロ銀座線末広町駅の4番出口から中央通りを上野方面へ北に歩き、最初の信号の交差点を左折、二つ目の交差点を右折すると、約60m先の右側のビルです。1Fのハンバーガー店が目印で、営業中はビルの入口に立て看板が出ています。国際6163ビル4Fの401号室で、JR秋葉原駅からは徒歩20分、千代田線の湯島駅からは5分です。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,14 @@
    "The owner makes the sofubi (soft-vinyl) monster figures sold in the shop corner, and two-shot cheki photos are available.",
    "Photos of the room and of the cast are allowed, but tripods and flash rigs are not during business hours. Free Wi-Fi; ask the cast for the password.",
    "The shop opened in Sotokanda in 2018, moved to Asakusa in 2022 and later returned to Akihabara on the Okachimachi side, so older listings still carry the previous address."
+  ],
+  "ja": [
+   "火曜と水曜が定休日です。月・木・金は17:00-22:00、土日祝は15:00-20:00で、ラストオーダーは閉店の1時間前です。",
+   "入場料1,000円で90分いられ、そのあとは60分ごとに1オーダーを追加する必要があります。",
+   "アルコールは出していません。ローテーブル3席、ハイテーブル3席、カウンター1席だけのとても小さな店なので、すぐに埋まります。",
+   "店の一角で売られているソフビ（軟質ビニール）のモンスターフィギュアは店主が作ったもので、2ショットのチェキも撮れます。",
+   "店内やキャストの撮影はできますが、営業中は三脚やフラッシュの機材は使えません。無料Wi-Fiがあり、パスワードはキャストに聞いてください。",
+   "2018年に外神田で開店し、2022年に浅草へ移り、その後に御徒町側の秋葉原へ戻ってきた店なので、古い案内には以前の住所が残っています。"
   ]
  },
  "official_url": "https://www.monsterparty.tokyo",

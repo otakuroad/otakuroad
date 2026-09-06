@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "작품별로 층을 나눈 신품·중고 피규어와 캐릭터 굿즈 매입·판매 6층 매장",
-  "en": "New and used figures and character goods sorted by series across six floors"
+  "en": "New and used figures and character goods sorted by series across six floors",
+  "ja": "作品ごとに階を分けた新品・中古のフィギュアとキャラクターグッズの6フロア"
  },
  "building_id": null,
  "floors": [
@@ -50,32 +51,38 @@
   {
    "floor": "B1F",
    "ko": "판매 층 · 이차원 작품 전반, 건담 등 액션 피규어",
-   "en": "Sales floor: general 2D-series goods and action figures such as Gundam"
+   "en": "Sales floor: general 2D-series goods and action figures such as Gundam",
+   "ja": "販売フロアで、二次元作品全般のグッズやガンダムなどのアクションフィギュアが並びます"
   },
   {
    "floor": "1F",
    "ko": "판매 층 · 유행 작품 코너",
-   "en": "Sales floor: currently trending titles"
+   "en": "Sales floor: currently trending titles",
+   "ja": "販売フロアで、今流行している作品のコーナーです"
   },
   {
    "floor": "2F",
    "ko": "매입 층 · 피규어, 인형, 잡화. 판매 매장이 아니라 매입 창구다",
-   "en": "Buyback floor: figures, plush toys and miscellany - this is the buying counter, not a sales floor"
+   "en": "Buyback floor: figures, plush toys and miscellany - this is the buying counter, not a sales floor",
+   "ja": "買取フロアで、フィギュアやぬいぐるみ、雑貨を扱います。販売の売り場ではなく買取の窓口です"
   },
   {
    "floor": "3F",
    "ko": "점프 작품 층 · 원피스·드래곤볼·나루토·귀멸의 칼날 등",
-   "en": "Jump titles floor: One Piece, Dragon Ball, Naruto, Demon Slayer and more"
+   "en": "Jump titles floor: One Piece, Dragon Ball, Naruto, Demon Slayer and more",
+   "ja": "ジャンプ作品のフロアで、ワンピース、ドラゴンボール、NARUTO、鬼滅の刃などがあります"
   },
   {
    "floor": "4F",
    "ko": "여성향·팬시 층 · 도검난무·트위스티드 원더랜드·블루록·스파이 패밀리 등",
-   "en": "Women's and fancy floor: Touken Ranbu, Twisted Wonderland, Blue Lock, Spy x Family and more"
+   "en": "Women's and fancy floor: Touken Ranbu, Twisted Wonderland, Blue Lock, Spy x Family and more",
+   "ja": "女性向け・ファンシーのフロアで、刀剣乱舞、ツイステッドワンダーランド、ブルーロック、SPY×FAMILYなどがあります"
   },
   {
    "floor": "5F",
    "ko": "버추얼 작품 층 · 홀로라이브·니지산지·하츠네 미쿠 등. 공식 페이지에는 개장 공사와 11월 하순 오픈 예정 문구가 남아 있다",
-   "en": "Virtual titles floor: Hololive, Nijisanji, Hatsune Miku and more; the official page still carries a renovation notice and a late-November reopening line"
+   "en": "Virtual titles floor: Hololive, Nijisanji, Hatsune Miku and more; the official page still carries a renovation notice and a late-November reopening line",
+   "ja": "バーチャル作品のフロアで、ホロライブ、にじさんじ、初音ミクなどがあります。公式ページには改装のお知らせと11月下旬の再オープンの一文がまだ残っています"
   }
  ],
  "location": {
@@ -104,7 +111,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 11:00-19:00에 마감하고 19:30에 완전 종료되며, 월요일은 매입 휴무다. 판매는 월요일에도 한다.",
-   "en": "Buyback reception ends at 19:00 and finishes completely at 19:30; buyback is closed on Mondays, though the shop itself still sells."
+   "en": "Buyback reception ends at 19:00 and finishes completely at 19:30; buyback is closed on Mondays, though the shop itself still sells.",
+   "ja": "買取の受付は19:00に終わり、19:30に完全に終了します。月曜日は買取が休みですが、販売は行っています。"
   },
   "source_url": "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E4%B8%AD%E5%A4%AE%E9%80%9A%E3%82%8A%E3%83%9B%E3%83%93%E3%83%BC%E9%A4%A8/"
  },
@@ -120,7 +128,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽, 소프맵 AKIBA 어뮤즈먼트관과 슈퍼포테이토 사이 블록의 제2주에이(第2中栄) 빌딩. 지하 1층부터 5층까지 전체가 매장이며 층마다 다루는 작품이 다르다.",
-  "en": "The Dai-2 Chuei Building on the west side of Chuo-dori, in the block between Sofmap AKIBA Amusement Hall and Super Potato. The shop occupies B1F to 5F, with a different set of series on each floor."
+  "en": "The Dai-2 Chuei Building on the west side of Chuo-dori, in the block between Sofmap AKIBA Amusement Hall and Super Potato. The shop occupies B1F to 5F, with a different set of series on each floor.",
+  "ja": "中央通りの西側、ソフマップAKIBA アミューズメント館とスーパーポテト秋葉原店の間のブロックに建つ第2中栄ビルです。B1Fから5Fまでが店舗で、階ごとに扱う作品が違います。"
  },
  "tips": {
   "ko": [
@@ -132,6 +141,11 @@
    "Each floor covers a different set of series, so head straight to the right one: B1F and 1F are the sales floors, 3F Jump titles, 4F women's and fancy titles, 5F virtual.",
    "2F is the buyback floor, not a sales floor. Buyback reception closes at 19:00 and finishes completely at 19:30, and Monday is the only thing that closes.",
    "The 5F virtual floor went through a refurbishment and the official page notice has not been updated, so check the shop's X account (@mulanakiba_chuo) before going."
+  ],
+  "ja": [
+   "階ごとに扱う作品が分かれているので、目当ての作品に合わせて階を選ぶと早いです。B1Fと1Fが販売フロア、3Fがジャンプ作品、4Fが女性向け・ファンシー、5Fがバーチャルです。",
+   "2Fは販売フロアではなく買取フロアです。買取の受付は19:00に締め切られ、19:30に完全に終了します。月曜日に休むのは買取だけです。",
+   "5Fのバーチャルフロアは改装工事を経ており、公式ページのお知らせが更新されていないので、行く前に店のXアカウント（@mulanakiba_chuo）を確認してください。"
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E8%B2%B7%E5%8F%96%E8%B2%A9%E5%A3%B2%E5%B8%82%E5%A0%B4%E3%83%A0%E3%83%BC%E3%83%A9%E3%83%B3akiba%E4%B8%AD%E5%A4%AE%E9%80%9A%E3%82%8A%E3%83%9B%E3%83%93%E3%83%BC%E9%A4%A8/",

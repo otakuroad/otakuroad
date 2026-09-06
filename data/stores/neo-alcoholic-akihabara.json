@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "근미래 의료시설 콘셉트 콘카페. 간호사풍 캐스트와 칵테일, 40분 시간제",
-  "en": "Near-future medical concept cafe: nurse-styled cast, cocktails, 40-minute seat charge"
+  "en": "Near-future medical concept cafe: nurse-styled cast, cocktails, 40-minute seat charge",
+  "ja": "近未来の医療施設をテーマにしたコンセプトカフェ、ナース風のキャストとカクテル、40分制"
  },
  "building_id": null,
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트 店舗情報에 18:00-24:00, 연중무휴로 적혀 있다. 임시 휴업과 이벤트일 시간 변경은 공식 사이트 Information과 X(@NEO_ALCOHOLIC)에 공지된다.",
-   "en": "The official shop-info page gives 18:00-24:00 with no regular closing day. Temporary closures and event-day changes are posted in the site's Information feed and on X (@NEO_ALCOHOLIC)."
+   "en": "The official shop-info page gives 18:00-24:00 with no regular closing day. Temporary closures and event-day changes are posted in the site's Information feed and on X (@NEO_ALCOHOLIC).",
+   "ja": "公式サイトの店舗情報には18:00-24:00、定休日なしと記載されています。臨時休業やイベント日の時間変更は、サイトのInformationとX（@NEO_ALCOHOLIC）に告知されます。"
   },
   "source_url": "http://www.neo-alcoholic.com/contact/"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 쇼와도리 출구에서 선로 동쪽으로 도보 1~2분 거리인 간다마쓰나가초. 노면 점포가 아니라 마쓰야(松屋) 빌딩 3층이므로 건물 이름을 보고 올라간다.",
-  "en": "In Kanda-Matsunagacho, one to two minutes east of JR Akihabara's Showa-dori exit. It is not a street-level shop: go up to 3F of the Matsuya Building."
+  "en": "In Kanda-Matsunagacho, one to two minutes east of JR Akihabara's Showa-dori exit. It is not a street-level shop: go up to 3F of the Matsuya Building.",
+  "ja": "JR秋葉原駅の昭和通り口から東へ徒歩1〜2分の神田松永町にあります。路面の店舗ではないので、松屋ビルの3Fに上がってください。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,13 @@
    "The concept is 'advanced technology x medicine' - a near-future hospital, with cast in nurse-style uniforms.",
    "The cast working that day and event nights are posted daily on the site's Today/Schedule pages and on X (@NEO_ALCOHOLIC).",
    "The map pin is a geocode of the block address (Kanda-Matsunagacho 1), so look for the Matsuya Building sign on arrival."
+  ],
+  "ja": [
+   "18:00に開いて24:00に閉まり、定休日はありません。昼間は開いていないので、夕方以降に行ってください。",
+   "料金は40分3,000円（延長は40分3,000円）、ICUのVIP席は40分6,000円で、別途サービス料15%と税がかかります。",
+   "高度なテクノロジーと医療を掲げた近未来の病院がコンセプトで、キャストはナース風の衣装で接客します。",
+   "その日の出勤キャストとイベントの夜は、公式サイトのTodayとScheduleのページ、そしてX（@NEO_ALCOHOLIC）に毎日掲載されます。",
+   "地図のピンは番地（神田松永町1）から求めた位置なので、着いたら松屋ビルの看板を探してください。"
   ]
  },
  "official_url": "http://www.neo-alcoholic.com/",

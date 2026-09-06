@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "도쿄피규어의 스케일 피규어와 원형·시제품을 전시하는 무료 갤러리",
-  "en": "Free gallery showing Tokyo Figure's own scale figures and pre-release prototypes"
+  "en": "Free gallery showing Tokyo Figure's own scale figures and pre-release prototypes",
+  "ja": "東京フィギュアのスケールフィギュアと発売前の原型を展示する無料ギャラリー"
  },
  "building_id": null,
  "floors": [
@@ -58,11 +59,13 @@
   ],
   "regular_holiday": {
    "ko": "월요일~목요일 휴관",
-   "en": "Closed Monday to Thursday"
+   "en": "Closed Monday to Thursday",
+   "ja": "月曜日〜木曜日は休館"
   },
   "note": {
    "ko": "공식 X 계정 프로필에 적힌 '금·토·일·공휴일 11:00~19:00'이다. 2023년 개관 당시에는 20:00까지였으나 이후 19:00으로 줄었고, 2025년 여름에는 실내 기온 상승으로 8월 내내 임시 휴관한 뒤 9월 5일 재개했다. 방문 전 공식 X 확인 권장.",
-   "en": "The official X profile lists Fri, Sat, Sun and public holidays 11:00-19:00. It closed at 20:00 when it opened in 2023, and in summer 2025 it shut for all of August because the room got too hot, reopening on 5 September. Check the official X before going."
+   "en": "The official X profile lists Fri, Sat, Sun and public holidays 11:00-19:00. It closed at 20:00 when it opened in 2023, and in summer 2025 it shut for all of August because the room got too hot, reopening on 5 September. Check the official X before going.",
+   "ja": "公式Xのプロフィールには金・土・日・祝日の11:00〜19:00と記載されています。2023年の開館当初は20:00までで、2025年の夏は室温が上がりすぎたため8月いっぱい休館し、9月5日に再開しました。行く前に公式Xを確認してください。"
   },
   "source_url": "https://x.com/TokyoFigGallery"
  },
@@ -78,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 우에노 방향으로 도보 6~7분. 애니메이트와 돈키호테를 지나 2층에 로열호스트가 있는 가메마쓰(亀松) 빌딩 1층이며, 바로 옆이 치로루초코 본사 숍이다.",
-  "en": "Six or seven minutes up Chuo-dori toward Ueno from JR Akihabara's Electric Town Exit. Past animate and Don Quijote, it is the ground floor of the Kamematsu Building - the one with Royal Host on 2F - next door to the Tirol Choco headquarters shop."
+  "en": "Six or seven minutes up Chuo-dori toward Ueno from JR Akihabara's Electric Town Exit. Past animate and Don Quijote, it is the ground floor of the Kamematsu Building - the one with Royal Host on 2F - next door to the Tirol Choco headquarters shop.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを上野方面へ徒歩6〜7分です。アニメイトとドン・キホーテ秋葉原店を過ぎたところにある、2Fにロイヤルホストが入った亀松ビルの1階で、隣はチロルチョコ本社のショップです。"
  },
  "tips": {
   "ko": [
@@ -92,6 +96,12 @@
    "It is an exhibition space rather than a regular shop; limited sales (art books, garage kits) happen during special exhibitions.",
    "Around 70-80 scale figures and dolls are on display, including decoration masters and unreleased prototypes.",
    "The operating company, Tokyo Figure Inc., has its head office in Taito-ku, so do not confuse that address with the gallery."
+  ],
+  "ja": [
+   "金曜から日曜と祝日のみの開館なので、平日に行くと閉まっています。入場は無料です。",
+   "常設の販売店ではなく展示が中心の場所で、企画展の期間には画集やガレージキットの限定販売が行われます。",
+   "スケールフィギュアとドールが70〜80点ほど並び、デコマスや発売前の原型も一緒に置かれています。",
+   "運営会社である株式会社東京フィギュアの本社は台東区に別にあるので、住所を混同しないよう注意してください。"
   ]
  },
  "official_url": "https://tokyofigure.jp/",

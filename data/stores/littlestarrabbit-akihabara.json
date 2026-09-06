@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "별과 토끼 콘셉트 메이드카페. 오므라이스·카레·푸딩과 캐스트 체키",
-  "en": "Star-and-rabbit maid cafe: omurice, curry, pudding and cast cheki photos"
+  "en": "Star-and-rabbit maid cafe: omurice, curry, pudding and cast cheki photos",
+  "ja": "星とうさぎコンセプトのメイドカフェ、オムライスやカレー、プリンとキャストのチェキ"
  },
  "building_id": null,
  "floors": [
@@ -84,11 +85,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울과 오봉·연말연시에는 특별 연장 영업이 공지되고, 캐스트 생일 이벤트일에는 15:00이나 21:00 등 다른 시각에 시작한다.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Special extended hours are announced for summer, Obon and the New Year, and cast birthday events start at other times such as 15:00 or 21:00."
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Special extended hours are announced for summer, Obon and the New Year, and cast birthday events start at other times such as 15:00 or 21:00.",
+   "ja": "金曜・土曜と祝日の前日は実際には翌朝05:00まで営業しますが、表では24:00で区切っています。夏やお盆、年末年始には特別な延長営業が告知され、キャストの誕生日イベントの日は15:00や21:00など別の時刻に始まります。"
   },
   "source_url": "https://littlestarrabbit.com/access"
  },
@@ -104,7 +107,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내 기준 긴자선 스에히로초역에서 도보 약 2분, JR 아키하바라역에서 약 5분. 주오도리 동쪽 소토칸다 4-6번지 블록의 '1/3레지던스' 5층으로, 자매점 스타라이트노벨·프리티데빌메이트가 들어선 이스즈 빌딩에서 한 필지 남쪽이다.",
-  "en": "About two minutes from Suehirocho Station and five from JR Akihabara by the shop's own directions. It is on 5F of the 1/3 Residence in the Sotokanda 4-6 block east of Chuo-dori, one lot south of the Isuzu Building that houses its sister shops StarLightNovel and PrettyDevilMate."
+  "en": "About two minutes from Suehirocho Station and five from JR Akihabara by the shop's own directions. It is on 5F of the 1/3 Residence in the Sotokanda 4-6 block east of Chuo-dori, one lot south of the Isuzu Building that houses its sister shops StarLightNovel and PrettyDevilMate.",
+  "ja": "店の案内では末広町駅から約2分、JR秋葉原駅から約5分です。中央通りの東側、外神田4-6のブロックにある1/3レジデンスの5Fで、姉妹店のスターライトノベルとプリティデビルメイトが入るイスズビルから1区画南にあたります。"
  },
  "tips": {
   "ko": [
@@ -120,6 +124,13 @@
    "When it is busy you may be asked to change seats, share a table, or accept a 90-minute limit.",
    "Photographing or recording the cast and asking for their contact details are forbidden; only food, drinks and the decor may be photographed.",
    "Birthday and anniversary events are frequent and change both the hours and the menu that day, so check the News page before going."
+  ],
+  "ja": [
+   "最初の60分は1,000円（税込1,100円）とドリンク1杯の注文制で、そのあとは30分ごとに500円（550円）が自動で加算され、そのたびにドリンクを1杯追加します。店内では料金を★という単位で案内しています。",
+   "平日は17:00、土・日・祝日は12:00開店で、金曜・土曜と祝日の前日は翌朝05:00まで営業します。",
+   "混雑時には席の移動や相席、90分制をお願いされることがあります。",
+   "キャストの撮影や録音、連絡先を聞くことは禁止で、撮影できるのは料理やドリンクと店内の装飾だけです。",
+   "誕生日や周年のイベントが多く、その日は営業時間もメニューも変わるので、行く前にNewsページを確認しておくとよいです。"
   ]
  },
  "official_url": "https://littlestarrabbit.com/",

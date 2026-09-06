@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "레트로·현행 게임과 피규어, 동인지·애니 CD를 4개 층에서 파는 중고 매장",
-  "en": "Used retro and current games, figures, doujinshi and anime CDs on four floors"
+  "en": "Used retro and current games, figures, doujinshi and anime CDs on four floors",
+  "ja": "中古のレトロ・現行ゲーム、フィギュア、同人誌、アニメCDが4フロア"
  },
  "building_id": null,
  "floors": [
@@ -81,7 +82,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 점포 페이지 기준 평일 11:00, 토·일·공휴일 10:00 개점이다. 정기 휴일 표기는 공식 페이지에 없다. 개점 당시의 10:00~22:00(연중무휴), 금·토·공휴일 전날의 심야 영업, OSM의 09:00~22:00 표기는 모두 옛 정보다.",
-   "en": "The official store page gives 11:00 on weekdays and 10:00 on Saturdays, Sundays and public holidays, and lists no regular closing day. The opening-era 10:00-22:00 year-round hours, the old Friday/Saturday late-night closing and OSM's 09:00-22:00 are all out of date."
+   "en": "The official store page gives 11:00 on weekdays and 10:00 on Saturdays, Sundays and public holidays, and lists no regular closing day. The opening-era 10:00-22:00 year-round hours, the old Friday/Saturday late-night closing and OSM's 09:00-22:00 are all out of date.",
+   "ja": "公式の店舗ページでは平日11:00、土日・祝日10:00の開店で、定休日の記載はありません。開店当時の10:00〜22:00・年中無休、かつての金・土曜の深夜営業、OSMの09:00〜22:00はいずれも古い情報です。"
   },
   "source_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html"
  },
@@ -97,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 출구 앞 라디오회관을 지나 남동쪽으로 20~30m 내려간 소토칸다 1-15-15의 야마모토무센 빌딩(山本無線ビル)이며, 지하 1층부터 3층까지 파란 駿河屋 간판이 걸려 있다. 바로 동쪽에 붙은 건물이 리버티 2·6호점이다.",
-  "en": "One minute from JR Akihabara's Electric Town Exit. Pass Radio Kaikan in front of the exit and carry on 20-30 m southeast to Sotokanda 1-15-15, the Yamamoto Musen Building (山本無線ビル), which carries blue 駿河屋 signs from B1F up to 3F. The building right next door to the east holds Liberty stores 2 and 6."
+  "en": "One minute from JR Akihabara's Electric Town Exit. Pass Radio Kaikan in front of the exit and carry on 20-30 m southeast to Sotokanda 1-15-15, the Yamamoto Musen Building (山本無線ビル), which carries blue 駿河屋 signs from B1F up to 3F. The building right next door to the east holds Liberty stores 2 and 6.",
+  "ja": "JR秋葉原駅電気街口から徒歩1分です。出口の前のラジオ会館を過ぎて南東へ20〜30m進んだ外神田1-15-15の山本無線ビルで、B1Fから3Fまで青い駿河屋の看板が掛かっています。すぐ東隣のビルにはリバティー 秋葉原2号店とリバティー 秋葉原6号店が入っています。"
  },
  "tips": {
   "ko": [
@@ -113,6 +116,13 @@
    "The store runs a separate X account for adult goods (@surugaya_st_ad) and an older official listing included adult goods and video, so expect an age-restricted corner if you have children with you.",
    "Buyback here covers the same range the shop sells; other genres go to the Surugaya Akihabara Buying Center, which takes all genres. Selling needs a member card and photo ID every time.",
    "Free Wi-Fi in store, and the O2O 'anshin' service lets you get an online quote first and bring the items straight to the counter."
+  ],
+  "ja": [
+   "開店は平日11:00、土日・祝日10:00です。旅行サイトや地図に残っている09:00〜22:00は古い情報なので、早朝に行くと無駄足になります。",
+   "取り扱いはレトロ・現行ゲーム、フィギュア、アニメ・ゲーム・同人のCD、同人誌、イラスト集や設定資料集、グラビア映像、コスプレROMです。鉄道模型やプラモデル、トレカは秋葉原のほかの駿河屋の店舗へ向かってください。",
+   "成人向け商品専用のXアカウント（@surugaya_st_ad）を別に運用しており、以前の公式案内にも成人向けの雑貨や映像が取り扱い品目に入っていました。年齢制限のコーナーがあるものと考えて、お子さん連れの場合はご注意ください。",
+   "この店の買取対象は販売している品目と同じ範囲で、ほかのジャンルは全ジャンルを受け付ける駿河屋 秋葉原買取センターに持ち込みます。買取には会員証と毎回の身分証が必要です。",
+   "店内では無料Wi-Fiが使え、オンラインで先に見積もりを取ってそのまま持ち込むO2Oの「あんしん買取」も受け付けています。"
   ]
  },
  "official_url": "https://www.suruga-ya.jp/feature/realstore/akihabara_ekimae/index.html",

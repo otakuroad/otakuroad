@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스 카드 오리파(랜덤 팩) 중심 매장. 듀얼 스페이스와 매입 창구 운영",
-  "en": "Oripa random packs of Pokemon and One Piece cards, plus a duel space and buyback"
+  "en": "Oripa random packs of Pokemon and One Piece cards, plus a duel space and buyback",
+  "ja": "ポケモンやワンピースのカードのオリパが中心、デュエルスペースと買取窓口も"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -51,7 +52,8 @@
  },
  "how_to_find": {
   "ko": "만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 지하 1층 트레카모올 안. 지하 플로어에서 듀얼 스페이스가 있는 쪽 부스다.",
-  "en": "In the B1F Toreca Mall of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store); it is the booth on the side of the floor with the duel space."
+  "en": "In the B1F Toreca Mall of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store); it is the booth on the side of the floor with the duel space.",
+  "ja": "万世橋交差点の角に建つ青いビル（エディオンAKIBA／ラオックス 秋葉原本店）のB1F、トレカモーールの中です。フロアのうちデュエルスペースがある側のブースです。"
  },
  "tips": {
   "ko": [
@@ -61,6 +63,10 @@
   "en": [
    "Built around oripa random packs rather than singles, with a no-total-loss pack line-up, so it suits people who came to gamble on a pull.",
    "What the shop posts daily on X (@oripa_toreka) is the buyback reception window (around 12:00-18:00), not its opening hours, which no source confirms - directories disagree, so ask ahead if you need to time a visit."
+  ],
+  "ja": [
+   "シングルよりオリパ（ランダムパック）が中心で、ハズレを減らした構成を売りにしているので、引きを楽しみに来た人に向いています。",
+   "店がX（@oripa_toreka）に毎日出しているのは営業時間ではなく買取の受付時間（12:00〜18:00ごろ）で、開店と閉店の時刻を裏づける情報源はありません。情報サイトごとに時間が違うので、時間を合わせて行くなら事前に問い合わせてください。"
   ]
  },
  "official_url": null,

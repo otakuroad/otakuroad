@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "코난 카드·로카나 등 신규 타이틀 싱글과 미개봉 박스, 포켓몬카드",
-  "en": "Detective Conan TCG, Lorcana and other new titles: singles and sealed boxes"
+  "en": "Detective Conan TCG, Lorcana and other new titles: singles and sealed boxes",
+  "ja": "名探偵コナンカードやロルカナなど新しいタイトルのシングルと未開封BOX"
  },
  "building_id": "mn-building",
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 가챠폰 회관(MN빌딩) 6층. 1층 가챠폰 매장 안쪽 엘리베이터로 올라간다. 가게 안내로는 도쿄메트로 스에히로초역 바로 앞이고 JR 아키하바라역에서는 도보 6분이다.",
-  "en": "6F of Akihabara Gachapon Kaikan (the MN Building); take the lift at the back of the ground-floor capsule-toy hall. The shop's own directions put it right at Suehirocho station and six minutes' walk from JR Akihabara."
+  "en": "6F of Akihabara Gachapon Kaikan (the MN Building); take the lift at the back of the ground-floor capsule-toy hall. The shop's own directions put it right at Suehirocho station and six minutes' walk from JR Akihabara.",
+  "ja": "秋葉原ガチャポン会館（MNビル）の6Fで、1Fのカプセルトイ売り場の奥にあるエレベーターで上がります。店の案内では末広町駅のすぐ前、JR秋葉原駅からは徒歩6分です。"
  },
  "tips": {
   "ko": [
@@ -69,6 +71,12 @@
    "Strong on newer titles - Detective Conan TCG, Disney Lorcana, Haikyu Babo Card, Duel Masters, XROSS STARS - and it stocks new sets by the carton.",
    "No opening hours are published on the web; they are announced only in the pinned post on X, so check @toreka_birth first.",
    "PSA-graded buyback goes through a dedicated channel only: the website points to the shop's official LINE and its X bio to a separate account, @torecabirth_psa."
+  ],
+  "ja": [
+   "町田ビル2Fという古い住所が地図アプリやOSMにまだ残っていますが、現在は秋葉原ガチャポン会館の6Fです。",
+   "名探偵コナンカード、ディズニー ロルカナ、ハイキュー!!バボカ!!、デュエル・マスターズ、XROSS STARSといった新しいタイトルに強く、新しい弾をカートン単位で仕入れています。",
+   "営業時間はウェブに公表されておらず、Xの固定投稿でのみ告知されるので、行く前に@toreka_birthを確認してください。",
+   "PSA鑑定品の買取は専用の窓口だけで受け付けています。公式サイトは店の公式LINE、公式Xのプロフィールは専用アカウント@torecabirth_psaへ案内しています。"
   ]
  },
  "official_url": "https://www.torecabirth.jp/",

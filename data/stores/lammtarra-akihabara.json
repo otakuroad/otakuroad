@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "1층은 애니·아이돌 DVD와 게임 소프트 할인 판매, 2층 위는 성인 DVD 층",
-  "en": "1F discount anime and idol DVDs and game software; adult DVD floors from 2F up"
+  "en": "1F discount anime and idol DVDs and game software; adult DVD floors from 2F up",
+  "ja": "1Fはアニメ・アイドルDVDとゲームソフトの割引販売、2F以上は成人向けDVDの階"
  },
  "building_id": null,
  "floors": [
@@ -73,7 +74,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 표기는 10:00-20:00이고 금·토·공휴일 전날은 21:00까지다. 공휴일 당일 시간은 공식 안내가 없어 규칙에서 뺐고, 그날의 요일 시간이 적용된다.",
-   "en": "The official page states 10:00-20:00, extended to 21:00 on Fridays, Saturdays and the day before a public holiday. Hours on the holiday itself are not stated anywhere official, so no holiday rule is given and the weekday hours apply."
+   "en": "The official page states 10:00-20:00, extended to 21:00 on Fridays, Saturdays and the day before a public holiday. Hours on the holiday itself are not stated anywhere official, so no holiday rule is given and the weekday hours apply.",
+   "ja": "公式の表記は10:00〜20:00で、金曜・土曜・祝日の前日は21:00までです。祝日当日の時間は公式の案内がないためルールから外してあり、その日の曜日の時間が適用されます。"
   },
   "source_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/"
  },
@@ -94,7 +96,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리로 나와 도보 2분, 길가의 마가미(真神) 빌딩. 람타라 그룹이 아키하바라에서 처음 연 매장이며 1층 입구에서 바로 들어간다.",
-  "en": "Two minutes from the JR Akihabara Electric Town exit along Chuo-dori, in the Magami Building on the street front. This is the Lammtarra group's original Akihabara shop; the entrance is straight in on 1F."
+  "en": "Two minutes from the JR Akihabara Electric Town exit along Chuo-dori, in the Magami Building on the street front. This is the Lammtarra group's original Akihabara shop; the entrance is straight in on 1F.",
+  "ja": "JR秋葉原駅の電気街口から中央通りに出て徒歩2分、通り沿いの真神ビルです。ラムタラグループが秋葉原で最初に開いた店舗で、1Fの入口からそのまま入れます。"
  },
  "tips": {
   "ko": [
@@ -108,6 +111,12 @@
    "Closing is 21:00 on Fridays, Saturdays and the day before a holiday, 20:00 otherwise.",
    "6F is an event space used for appearances by performers.",
    "The floor split comes from an older Akihabara guide site, so check the floor board at the entrance."
+  ],
+  "ja": [
+   "一般商品（アニメ・アイドルのDVD、ゲームソフト、フィギュア、雑貨）は1Fにまとまっていて、2F以上は成人向けDVDの階です。",
+   "金曜・土曜・祝日の前日は21:00まで、それ以外の曜日は20:00で閉店します。",
+   "6Fはイベントスペースで、出演者を招いたイベントが開かれます。",
+   "階ごとの構成は古い秋葉原の情報サイトの記録に基づいていますので、現地のフロアガイドの表示を確かめるほうが確実です。"
   ]
  },
  "official_url": "https://www.lammtarra.com/shop/%E3%83%A9%E3%83%A0%E3%82%BF%E3%83%A9%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/",

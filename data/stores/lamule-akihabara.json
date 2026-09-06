@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "해저 신전의 여신을 콘셉트로 한 저녁 전용 콘셉트 카페. 1시간 음료 무제한 세트",
-  "en": "An evening-only concept cafe themed on goddesses of an undersea temple, with a one-hour all-you-can-drink set"
+  "en": "An evening-only concept cafe themed on goddesses of an undersea temple, with a one-hour all-you-can-drink set",
+  "ja": "海底神殿の女神がコンセプトの夜だけのコンカフェ、1時間飲み放題セットあり"
  },
  "building_id": "akiba-asobikan",
  "floors": [
@@ -56,11 +57,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무(不定休)",
-   "en": "Irregular closing days (不定休)"
+   "en": "Irregular closing days (不定休)",
+   "ja": "不定休"
   },
   "note": {
    "ko": "매장 공식 인스타그램 프로필이 '영업시간 18:00-23:00(라스트오더 22:30), 부정기 휴무'로 밝히고 있고, 같은 매장이 운영하는 BASE 온라인숍의 특정상거래법 표기도 문의 대응 시간을 18:00-23:00, 정기휴일을 부정기로 적어 두었다. 낮에는 열지 않는다. 게스트 출근일이나 이벤트가 있는 날은 시작·마감 시각이 달라지기도 하니 X의 그날 공지를 확인하는 편이 좋다.",
-   "en": "The shop's own Instagram profile states 営業時間18:00-23:00 (last order 22:30) with irregular closing days, and the legal notice of the shop's own BASE online shop repeats 18:00-23:00 for contact hours and 不定休 for closing days. There is no daytime service. Guest-cast days and events can move the start and finish, so check that day's post on its X feed."
+   "en": "The shop's own Instagram profile states 営業時間18:00-23:00 (last order 22:30) with irregular closing days, and the legal notice of the shop's own BASE online shop repeats 18:00-23:00 for contact hours and 不定休 for closing days. There is no daytime service. Guest-cast days and events can move the start and finish, so check that day's post on its X feed.",
+   "ja": "店舗の公式Instagramのプロフィールに営業時間18:00〜23:00（ラストオーダー22:30）、不定休と書かれており、同じ店が運営するBASEオンラインショップの特定商取引法の表記も、問い合わせ対応時間を18:00〜23:00、定休日を不定休としています。昼の営業はありません。ゲストの出勤日やイベントのある日は開始・終了の時刻が変わることもありますので、Xのその日の告知を確認するほうがよいです。"
   },
   "source_url": "https://www.instagram.com/lamule_akiba/"
  },
@@ -76,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 가드 아래 실크햇 아키하바라를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리가 나오고, 왼편의 7층 건물 아키바아소비관 6층이다. 1층 노면 매장 프라페코 옆 엘리베이터를 타고 6층 버튼을 누른다. 바로 위 7층은 별개 가게인 스팟라이트다.",
-  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and it is 6F of the seven-storey Akiba Asobikan on the left. Take the lift beside the street-level Frapeko and press 6; the floor directly above is a different shop, Spotlight."
+  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and it is 6F of the seven-storey Akiba Asobikan on the left. Take the lift beside the street-level Frapeko and press 6; the floor directly above is a different shop, Spotlight.",
+  "ja": "JRの電気街口から徒歩5分です。中央通りのガード下のシルクハット秋葉原を過ぎて3つ目の路地を右（北）に曲がると神田明神通りに出て、左手の7階建てのアキバあそび館の6Fです。1Fの路面店フラペコの横のエレベーターに乗り、6階のボタンを押します。すぐ上の7Fは別のお店のすぽっとらいとです。"
  },
  "tips": {
   "ko": [
@@ -90,6 +94,12 @@
    "Its Instagram profile puts a one-hour all-you-can-drink set at 2,800 yen.",
    "Drinks, bottles and cheki can be sent to a cast member remotely through the shop's own BASE online shop.",
    "Older write-ups list this floor as a danso (male-attire) cafe; it is now LaMule, themed on goddesses of an undersea temple."
+  ],
+  "ja": [
+   "18:00に開いて23:00に閉まり、ラストオーダーは22:30ですので、1日5時間だけの夜専門のお店です。",
+   "Instagramのプロフィールによると、1時間の飲み放題が2,800円です。",
+   "公式のBASEオンラインショップから、キャストにドリンクやボトル、チェキを遠隔で贈ることができます。",
+   "以前の資料ではこの階が男装カフェとして紹介されていることがありますが、現在は海底神殿の女神をコンセプトにしたLaMuleです。"
   ]
  },
  "photo": null,

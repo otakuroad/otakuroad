@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "포켓몬카드 싱글을 사고파는 쇼케이스 중심 소형 매장",
-  "en": "Pokemon card singles bought and sold in a small showcase shop"
+  "en": "Pokemon card singles bought and sold in a small showcase shop",
+  "ja": "ポケモンカードのシングルを売買するショーケース中心の小さな店"
  },
  "building_id": null,
  "floors": [
@@ -52,7 +53,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 한 블록 서쪽 뒷골목, 소토칸다 3-9-10 마치다(町田) 빌딩 1층 노면 매장. 지하에 오타츄 5호점이 있는 스에히로 빌딩 바로 옆이며 JR 아키하바라역에서 도보 5분.",
-  "en": "A street-level unit on 1F of the Machida Building at Sotokanda 3-9-10, on the back street one block west of Chuo-dori, beside the Suehiro Building whose basement holds Otachu No.5. Five minutes from JR Akihabara."
+  "en": "A street-level unit on 1F of the Machida Building at Sotokanda 3-9-10, on the back street one block west of Chuo-dori, beside the Suehiro Building whose basement holds Otachu No.5. Five minutes from JR Akihabara.",
+  "ja": "中央通りから西へ一本入った裏通り、外神田3-9-10の町田ビル1Fの路面店です。地下におたちゅう。秋葉原5号店GO!GO!トレカが入る末広ビルの隣で、JR秋葉原駅から徒歩5分です。"
  },
  "tips": {
   "ko": [
@@ -66,6 +68,12 @@
    "Irregular high-price buyback campaigns are announced on X, so sellers can time a visit to one.",
    "There is no play space; the shop suits buying and selling rather than playing.",
    "The floor is small and showcase-based, so it takes only a few minutes to look through."
+  ],
+  "ja": [
+   "営業時間の情報が食い違っています。店の公式Xのプロフィールは19:00頃までの営業で火曜・水曜が定休日とし、日本のトレカ店ディレクトリは12:00-20:00で定休日なしと載せています。行く前に@jumboakibaを確認してください。",
+   "高額買取キャンペーンが不定期にXで告知されるので、売る目的ならその時期に合わせて行くと有利です。",
+   "対戦スペースがないため、プレイよりも売り買い目的の来店に向いた店です。",
+   "売り場が狭くショーケース中心なので、数分あれば見て回れます。"
   ]
  },
  "official_url": null,
