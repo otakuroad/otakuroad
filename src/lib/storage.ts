@@ -10,6 +10,7 @@ export const KEYS = {
   saved: `${PREFIX}saved`,
   recent: `${PREFIX}recent`,
   anchor: `${PREFIX}anchor`,
+  map3d: `${PREFIX}map3d`,
 } as const
 
 function read(key: string): string | null {
@@ -71,4 +72,13 @@ export function loadAnchorKey(): string | null {
 
 export function storeAnchorKey(key: string): void {
   write(KEYS.anchor, key)
+}
+
+/** Whether the visitor switched the map to 3D last time. Flat is the default (tester feedback 2026-09-06). */
+export function loadMap3d(): boolean {
+  return read(KEYS.map3d) === '1'
+}
+
+export function storeMap3d(on: boolean): void {
+  write(KEYS.map3d, on ? '1' : '0')
 }

@@ -11,6 +11,7 @@
    * the viewport; the map is never inside a scrolling page (PLAN §4.2).
    */
   import { buildings, stores } from '@/data/generated'
+  import { loadMap3d, storeMap3d } from '@/lib/storage'
   import type { CategoryKey } from '@/data/categories'
   import { AppState, type ListItem, type View } from '@/lib/app-state.svelte'
   import { hasWebGL2 } from '@/lib/map-style'
@@ -30,6 +31,14 @@
   let { lang }: { lang: Locale } = $props()
 
   const app = new AppState(lang, stores, buildings)
+
+  /** Flat map by default; 3D is an explicit choice that is remembered per browser. */
+  let threeD = $state(loadMap3d())
+  function toggleThreeD(): void {
+    threeD = !threeD
+    storeMap3d(threeD)
+    mapCanvas?.setThreeD(threeD)
+  }
 
   // Deep-linked filters (`?c=…&open=1`) are applied before the first render so the map, the chips
   // and the list all agree on frame one.
@@ -211,7 +220,20 @@
         onselectbuilding={openBuilding}
         onselectcluster={openCluster}
         onemptytap={() => app.closeAll()}
+        {threeD}
       />
+    {/if}
+    {#if webgl && (desktop || app.snap !== 'full')}
+      <button
+        type="button"
+        class="three-d"
+        class:on={threeD}
+        style:bottom={desktop ? undefined : `calc(${Math.round(sheetCover)}px + 16px + var(--tap-min) + 10px)`}
+        onclick={toggleThreeD}
+        aria-pressed={threeD}
+        aria-label={t(app.locale, 'action.three_d')}
+        title={t(app.locale, 'action.three_d')}
+      >3D</button>
     {/if}
   </div>
 
@@ -431,6 +453,32 @@
       0 6px 20px rgba(31, 35, 40, 0.12);
     display: grid;
     place-items: center;
+  }
+
+  .three-d {
+    position: absolute;
+    right: 14px;
+    z-index: var(--z-chrome);
+    width: var(--tap-min);
+    height: var(--tap-min);
+    border-radius: 50%;
+    background: var(--color-surface);
+    color: var(--color-text);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow:
+      0 1px 2px rgba(31, 35, 40, 0.08),
+      0 6px 20px rgba(31, 35, 40, 0.12);
+    display: grid;
+    place-items: center;
+  }
+  .three-d.on {
+    background: var(--color-text);
+    color: var(--color-text-inverse);
+  }
+  .app.desktop .three-d {
+    bottom: 24px;
   }
 
   .panel {

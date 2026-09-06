@@ -23,7 +23,7 @@
     GPS_WARN_ACCURACY_M,
     haversineMeters,
   } from '@/lib/geo'
-  import { ATTRIBUTION, LOCAL_IDEOGRAPH_FONT_FAMILY, loadStyle } from '@/lib/map-style'
+  import { ATTRIBUTION, LOCAL_IDEOGRAPH_FONT_FAMILY, loadStyle, extrusionLayerIds, type MapStyle } from '@/lib/map-style'
   import { t } from '@/i18n'
   import Glyph from './Glyph.svelte'
 
@@ -35,9 +35,15 @@
     onselectbuilding: (id: string) => void
     onselectcluster: (ids: string[]) => void
     onemptytap: () => void
+    /** Start in 3D (tilted camera, extruded buildings). Read once at map creation; use `setThreeD` after. */
+    threeD?: boolean
   }
 
-  let { app, obstructBottom, onselectstore, onselectbuilding, onselectcluster, onemptytap }: Props = $props()
+  let { app, obstructBottom, onselectstore, onselectbuilding, onselectcluster, onemptytap, threeD = false }: Props = $props()
+
+  /** Camera tilt used by the 3D view. Steep enough for buildings to read as blocks, shallow enough that
+   * pins near the top of the screen stay tappable. */
+  const THREE_D_PITCH = 55
 
   interface Pin {
     id: string
@@ -118,7 +124,7 @@
         import('maplibre-gl'),
         import('maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url'),
         import('maplibre-gl/dist/maplibre-gl.css?inline'),
-        loadStyle(app.locale, abort.signal),
+        loadStyle(app.locale, abort.signal, { threeD }),
       ])
       if (disposed) return
       // See src/vite-env.d.ts: without this MapLibre looks for a worker file the bundler never
@@ -137,11 +143,17 @@
         localIdeographFontFamily: LOCAL_IDEOGRAPH_FONT_FAMILY,
         dragRotate: false,
         pitchWithRotate: false,
+        // The map is flat unless the visitor asks for 3D: an accidental two-finger drag used to tilt
+        // it and raise the buildings over the pins (tester feedback 2026-09-06).
+        touchPitch: threeD,
+        pitch: threeD ? THREE_D_PITCH : 0,
+        maxPitch: 60,
         fadeDuration: 120,
       })
       map = m
       maplibreMod = maplibre
       m.touchZoomRotate.disableRotation()
+      m.keyboard.disableRotation()
       m.addControl(
         new maplibre.AttributionControl({ compact: true, customAttribution: ATTRIBUTION }),
         'bottom-right',
@@ -617,6 +629,26 @@
    * One-shot location. No follow mode anywhere in the product (PLAN §6.6) — the map opens at the
    * exit, not on the blue dot, and it never recentres on its own.
    */
+  /**
+   * Switch between the flat map and the tilted 3D view. Shows or hides Liberty's extruded-building
+   * layers, tilts the camera, and only allows the two-finger tilt gesture while 3D is on, so the
+   * flat view cannot be tilted by accident.
+   */
+  export function setThreeD(on: boolean): void {
+    const m = map
+    if (m === null) return
+    const apply = () => {
+      for (const id of extrusionLayerIds(m.getStyle() as MapStyle)) {
+        if (m.getLayer(id)) m.setLayoutProperty(id, 'visibility', on ? 'visible' : 'none')
+      }
+    }
+    if (m.isStyleLoaded()) apply()
+    else m.once('style.load', apply)
+    if (on) m.touchPitch.enable()
+    else m.touchPitch.disable()
+    m.easeTo({ pitch: on ? THREE_D_PITCH : 0, duration: 500 })
+  }
+
   export function locate(): void {
     const m = map
     if (m === null || typeof navigator === 'undefined' || !navigator.geolocation) {

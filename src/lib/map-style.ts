@@ -1,13 +1,17 @@
 /**
  * OpenFreeMap Liberty, patched at runtime (PLAN §9 "OpenFreeMap Liberty 포크").
  *
- * Two changes:
+ * Three changes:
  *  1. Labels prefer `name:ko` / `name:en` so a Korean visitor reads 秋葉原 as 아키하바라.
  *  2. The basemap's own shop and POI symbols are hidden, so the only shop marks on the map are ours
  *     (PLAN §4.1 "베이스맵의 상점 라벨은 bbox 안에서 억제"). MapLibre filter expressions cannot test
  *     a feature's coordinates, so there is no way to scope this to the bbox from inside the style —
  *     but `maxBounds` already pins the viewport inside Akihabara, so hiding those layers outright
  *     has exactly the effect the plan asks for.
+ *
+ *  3. Liberty's extruded 3D buildings (`fill-extrusion` layers) start hidden. Tester feedback
+ *     (2026-09-06): a two-finger drag tilted the map, the buildings rose up and the pins became hard
+ *     to read. The map is flat by default and 3D is an explicit toggle (see MapCanvas.setThreeD).
  *
  * When M6 swaps in self-hosted PMTiles this is the one file that changes.
  */
@@ -64,11 +68,24 @@ function localizedTextField(existing: unknown, locale: Locale): unknown {
   return ['coalesce', ...preferred, fallback, ['get', 'name']]
 }
 
+export interface PatchOptions {
+  /** Show the extruded buildings. Off by default — see note 3 above. */
+  threeD?: boolean
+}
+
+/** Ids of the layers that draw extruded buildings; the 3D toggle shows and hides exactly these. */
+export function extrusionLayerIds(style: MapStyle): string[] {
+  return style.layers.filter((layer) => layer.type === 'fill-extrusion').map((layer) => layer.id)
+}
+
 /**
- * Apply both patches. Mutates nothing: returns a shallow-cloned style with cloned layers.
+ * Apply the patches. Mutates nothing: returns a shallow-cloned style with cloned layers.
  */
-export function patchStyle(style: MapStyle, locale: Locale): MapStyle {
+export function patchStyle(style: MapStyle, locale: Locale, options: PatchOptions = {}): MapStyle {
   const layers = style.layers.map((layer) => {
+    if (layer.type === 'fill-extrusion' && !options.threeD) {
+      return { ...layer, layout: { ...(layer.layout ?? {}), visibility: 'none' } }
+    }
     if (layer.type !== 'symbol') return layer
     if (isPoiLayer(layer)) {
       return { ...layer, layout: { ...(layer.layout ?? {}), visibility: 'none' } }
@@ -84,13 +101,13 @@ export function patchStyle(style: MapStyle, locale: Locale): MapStyle {
  * Fetch and patch the style. On any network failure we hand back the plain URL: an unlocalized
  * basemap with a few extra shop labels is far better than a blank map.
  */
-export async function loadStyle(locale: Locale, signal?: AbortSignal): Promise<MapStyle | string> {
+export async function loadStyle(locale: Locale, signal?: AbortSignal, options: PatchOptions = {}): Promise<MapStyle | string> {
   try {
     const res = await fetch(STYLE_URL, { signal })
     if (!res.ok) return STYLE_URL
     const style = (await res.json()) as MapStyle
     if (!Array.isArray(style.layers)) return STYLE_URL
-    return patchStyle(style, locale)
+    return patchStyle(style, locale, options)
   } catch {
     return STYLE_URL
   }
