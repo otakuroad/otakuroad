@@ -24,6 +24,8 @@
     haversineMeters,
   } from '@/lib/geo'
   import { ATTRIBUTION, LOCAL_IDEOGRAPH_FONT_FAMILY, loadStyle, extrusionLayerIds, type BasemapKey, type MapStyle } from '@/lib/map-style'
+  import { tilesCovering, tileUrl } from '@/lib/tiles'
+  import { AKIBA_BBOX } from '@/data/schema'
   import { t } from '@/i18n'
   import Glyph from './Glyph.svelte'
 
@@ -185,6 +187,7 @@
       m.on('load', () => {
         if (disposed) return
         afterStyleLoad(m)
+        m.once('idle', () => void warmOfflineTiles(m))
       })
 
       for (const pin of pins) {
@@ -645,6 +648,40 @@
    * One-shot location. No follow mode anywhere in the product (PLAN §6.6) — the map opens at the
    * exit, not on the blue dot, and it never recentres on its own.
    */
+  /**
+   * Fetch every OpenFreeMap tile that covers Akihabara (z12–z14; higher zooms overzoom z14) so the
+   * service worker holds a complete offline map after one online visit. Runs once per session and
+   * never blocks anything; without a service worker it is just a few cheap requests.
+   */
+  async function warmOfflineTiles(m: MapLibreMap): Promise<void> {
+    if (typeof navigator === 'undefined' || !('serviceWorker' in navigator) || navigator.onLine === false) return
+    try {
+      if (sessionStorage.getItem('otakuroad.warmed') === '1') return
+    } catch {
+      return
+    }
+    try {
+      const style = m.getStyle() as MapStyle
+      const sources = Object.values(style.sources ?? {}) as { type?: string; url?: string; tiles?: string[] }[]
+      const templates: string[] = []
+      for (const source of sources) {
+        if (source.type !== 'vector') continue
+        if (source.tiles?.length) templates.push(source.tiles[0])
+        else if (source.url) {
+          const res = await fetch(source.url)
+          if (!res.ok) continue
+          const json = (await res.json()) as { tiles?: string[] }
+          if (json.tiles?.length) templates.push(json.tiles[0])
+        }
+      }
+      const tiles = tilesCovering(AKIBA_BBOX, 12, 14)
+      await Promise.all(templates.flatMap((tpl) => tiles.map((tile) => fetch(tileUrl(tpl, tile)).catch(() => undefined))))
+      sessionStorage.setItem('otakuroad.warmed', '1')
+    } catch {
+      /* offline warm-up is best effort */
+    }
+  }
+
   /** Our own layers are not part of the fetched style, so they are re-added after every style load. */
   function afterStyleLoad(m: MapLibreMap): void {
     if (!m.getSource(ACCURACY_SOURCE)) m.addSource(ACCURACY_SOURCE, { type: 'geojson', data: emptyCollection() })

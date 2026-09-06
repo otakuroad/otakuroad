@@ -12,6 +12,7 @@
     "dev": "astro dev",
     "prebuild": "npm run validate && npm run build:data",
     "build": "astro build",
+    "postbuild": "node scripts/build-sw.mjs",
     "preview": "astro preview",
     "precheck": "npm run build:data",
     "check": "astro check",

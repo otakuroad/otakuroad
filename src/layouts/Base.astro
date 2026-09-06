@@ -35,5 +35,13 @@ const { lang, title, description } = Astro.props
   </head>
   <body>
     <slot />
+    <!-- Offline map (PLAN §9 M6): the worker precaches the shell and keeps the Akihabara tiles. -->
+    <script is:inline>
+      if ('serviceWorker' in navigator) {
+        addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(() => {})
+        })
+      }
+    </script>
   </body>
 </html>

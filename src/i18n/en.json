@@ -113,6 +113,8 @@
   "meta.report_error": "Report an error",
   "meta.source_n": "Source {n}",
   "meta.verified_at": "Verified {date}",
+  "offline.back": "Back online.",
+  "offline.notice": "You are offline. Showing the saved map and store data.",
   "page.building_meta": "{name} floor guide · {count} stores",
   "page.categories": "Categories",
   "page.category_heading": "{count} {category} shops in Akihabara",

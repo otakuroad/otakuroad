@@ -88,6 +88,20 @@
         })
     } else geoBanner = true
   }
+  // A tourist without roaming should know the map they see is the saved one.
+  $effect(() => {
+    if (typeof window === 'undefined') return
+    const offline = () => app.showToast(t(app.locale, 'offline.notice'))
+    const online = () => app.showToast(t(app.locale, 'offline.back'))
+    window.addEventListener('offline', offline)
+    window.addEventListener('online', online)
+    if (navigator.onLine === false) offline()
+    return () => {
+      window.removeEventListener('offline', offline)
+      window.removeEventListener('online', online)
+    }
+  })
+
   function allowGeo(): void {
     geoBanner = false
     app.setGeoTracking(true)

@@ -32,6 +32,10 @@
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
 
+# The service worker must be re-fetched on every load or a new build never reaches installed apps.
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
 /
   Cache-Control: public, max-age=0, must-revalidate
 

@@ -113,6 +113,8 @@
   "meta.report_error": "오류 신고",
   "meta.source_n": "출처 {n}",
   "meta.verified_at": "{date} 확인",
+  "offline.back": "다시 온라인입니다.",
+  "offline.notice": "오프라인입니다. 저장해 둔 지도와 매장 정보로 표시합니다.",
   "page.building_meta": "{name} 층별 안내 · 입주 {count}곳",
   "page.categories": "카테고리",
   "page.category_heading": "아키하바라 {category} 샵 {count}곳",

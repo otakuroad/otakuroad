@@ -42,7 +42,7 @@ npm run validate   # 데이터 검사 / validate the dataset
 npm run audit      # 의심 패턴 감사 (게이트 아님) / heuristic audit of the dataset, never a gate
 npm run check      # 타입 검사 / type-check
 npm test           # 단위 테스트 / unit tests
-npm run build      # 정적 빌드 → dist/ (899 pages)
+npm run build      # 정적 빌드 → dist/ + 서비스 워커 프리캐시 목록 / static build plus the service-worker precache list
 ```
 
 ## 데이터를 그냥 쓰고 싶다면 / Just want the data
