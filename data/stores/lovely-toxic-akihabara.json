@@ -78,14 +78,15 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://lovelytoxic.jp/",
   "https://lovelytoxic.base.shop/law",
   "https://lovelytoxic.base.shop/",
   "https://api.fxtwitter.com/LovelyToxic_akb",
-  "https://cdn.syndication.twimg.com/tweet-result?id=2093637809601155455&token=a"
+  "https://cdn.syndication.twimg.com/tweet-result?id=2093637809601155455&token=a",
+  "https://api.fxtwitter.com/frapeco_akiba"
  ],
  "osm_id": null
 }

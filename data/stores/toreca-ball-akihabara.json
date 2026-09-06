@@ -68,10 +68,10 @@
   ],
   "regular_holiday": null,
   "note": {
-   "ko": "매입 최종 접수는 19:00. 영업시간은 가게 공식 X 프로필에만 적혀 있고 별도의 점포 안내 페이지는 없다.",
-   "en": "Buyback is accepted until 19:00. The hours are stated only in the shop's own X profile; there is no separate store page."
+   "ko": "매입 최종 접수는 평일·주말 모두 19:00. 운영사 공식 사이트의 점포 안내에 적힌 시간이다.",
+   "en": "Buyback is accepted until 19:00 on weekdays and weekends alike; the times are those given in the store guide on the operator's own site."
   },
-  "source_url": "https://x.com/TorecaBall"
+  "source_url": "https://torecaball.com/infopage/index.html"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -103,19 +103,22 @@
  },
  "photo": null,
  "photos": [],
- "official_url": "https://torecaball.shop13.makeshop.jp/",
+ "official_url": "https://torecaball.com/infopage/index.html",
  "sns": {
   "x": "https://x.com/TorecaBall"
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://api.fxtwitter.com/TorecaBall",
   "https://cdn.syndication.twimg.com/tweet-result?id=2028736136349372726&token=a",
   "https://torecaball.shop13.makeshop.jp/",
-  "https://torecaball.shop13.makeshop.jp/view/company"
+  "https://torecaball.shop13.makeshop.jp/view/company",
+  "https://torecaball.com/infopage/index.html",
+  "https://torecaball.shop13.makeshop.jp/view/guide",
+  "https://torecaball.shop13.makeshop.jp/view/contract"
  ],
  "osm_id": null
 }

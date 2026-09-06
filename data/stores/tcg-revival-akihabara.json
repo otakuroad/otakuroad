@@ -108,12 +108,15 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
   "https://x.com/Revivalakb",
-  "https://api.fxtwitter.com/Revivalakb"
+  "https://api.fxtwitter.com/Revivalakb",
+  "https://x.com/Revivalakb/status/2089549357918175402",
+  "https://x.com/Revivalakb/status/2096418516778009032",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2089549357918175402&token=a"
  ],
  "osm_id": null
 }

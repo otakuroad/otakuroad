@@ -76,13 +76,14 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "low",
+ "confidence": "high",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://kandnauto.com/company/",
   "https://api.fxtwitter.com/kandasoubi",
   "https://airrsv.net/kandasoubi/calendar",
-  "https://cdn.syndication.twimg.com/tweet-result?id=2095820373237616675&token=a"
+  "https://cdn.syndication.twimg.com/tweet-result?id=2095820373237616675&token=a",
+  "https://kandnauto.com/business/usedpc/"
  ],
  "osm_id": null
 }

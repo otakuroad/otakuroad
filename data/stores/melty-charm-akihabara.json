@@ -90,13 +90,15 @@
    "운영사 N프로가 '옆에 앉지 않는 건전한 카페'라고 명시한 가게라, 캐스트가 동석하는 형태의 콘카페와는 접객 방식이 다르다.",
    "요금은 시간제 차지 1,000엔/1시간에 원드링크 오더제 900엔~, 음료 무제한 900엔~ 구성이다.",
    "공식 사이트가 각종 신용카드 사용 가능이라고 밝히고 있다.",
-   "전화는 03-6262-9460이고, 공식 사이트는 JR 아키하바라역에서 도보 5분·긴자선 스에히로초역에서 도보 5분으로 안내한다."
+   "전화는 03-6262-9460이고, 공식 사이트는 JR 아키하바라역에서 도보 5분·긴자선 스에히로초역에서 도보 5분으로 안내한다.",
+   "공식 사이트가 2023년 이후 갱신되지 않고 X 계정도 사라진 상태라 현재 영업 여부가 확인되지 않았다. 현장 확인 전까지 지도에는 싣지 않는다."
   ],
   "en": [
    "The operator Npro describes it as a wholesome cafe where the cast does not sit next to you, so the service differs from concept cafes where a cast member joins your table.",
    "Pricing is a 1,000 yen hourly charge plus a one-drink minimum from 900 yen, with all-you-can-drink also from 900 yen.",
    "The official site states that credit cards are accepted.",
-   "The phone number is 03-6262-9460, and the official site gives five minutes on foot from JR Akihabara and five from Suehirocho on the Ginza Line."
+   "The phone number is 03-6262-9460, and the official site gives five minutes on foot from JR Akihabara and five from Suehirocho on the Ginza Line.",
+   "The official site has not been updated since 2023 and the X account is gone, so whether the cafe is still trading is unconfirmed; it stays off the map until checked on site."
   ]
  },
  "photo": null,
@@ -107,13 +109,15 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "low",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://dotsweet.jp/about/",
   "https://dotsweet.jp/access/",
   "https://dotsweet.jp/",
-  "https://npro.city/contact/"
+  "https://npro.city/contact/",
+  "https://dotsweet.jp/news/",
+  "https://api.fxtwitter.com/frapeco_akiba"
  ],
  "osm_id": null
 }

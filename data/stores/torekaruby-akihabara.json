@@ -97,13 +97,16 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://torekaruby.ocnk.net/info",
   "https://torekaruby.ocnk.net",
   "https://x.com/torekaruby",
-  "https://api.fxtwitter.com/torekaruby"
+  "https://api.fxtwitter.com/torekaruby",
+  "https://torekaruby.ocnk.net/help",
+  "https://x.com/torekaruby/status/2027726357493649413",
+  "https://x.com/torekaruby/status/2086031743396835607"
  ],
  "osm_id": null
 }

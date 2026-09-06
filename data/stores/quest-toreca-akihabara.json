@@ -66,7 +66,7 @@
    "ko": "11:00-19:00은 운영사 팔레트그룹이 5층 트레카모올 전체 영업시간으로 공식 발표한 시간이고, 가게 자신도 평일 오전 11시 오픈을 X에 올린다. 다만 같은 5층에도 평일 12시에 여는 점포가 있어 정확한 시간은 X(@Quest_TCG_AKIBA)에서 확인하는 편이 안전하다.",
    "en": "11:00-19:00 is the time the operator Palette Group published for the whole 5F Toreca Mall floor, and the shop's own X posts confirm an 11:00 weekday opening. Some booths on the same floor open at 12:00 instead, so check X (@Quest_TCG_AKIBA) before going."
   },
-  "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
+  "source_url": "https://x.com/Quest_TCG_AKIBA/status/2029127674883653804"
  },
  "tax_free": null,
  "payment": "unknown",
@@ -102,13 +102,16 @@
  },
  "chain": null,
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
   "https://x.com/Quest_TCG_AKIBA",
   "https://api.fxtwitter.com/Quest_TCG_AKIBA",
-  "https://x.com/Quest_TCG_AKIBA/status/2084103030904078646"
+  "https://x.com/Quest_TCG_AKIBA/status/2084103030904078646",
+  "https://x.com/Quest_TCG_AKIBA/status/2029127674883653804",
+  "https://x.com/Quest_TCG_AKIBA/status/2096418574344859702",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2029127674883653804&token=a"
  ],
  "osm_id": null
 }

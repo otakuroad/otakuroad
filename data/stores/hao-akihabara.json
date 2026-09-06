@@ -98,7 +98,7 @@
  },
  "chain": "hao",
  "priority": 3,
- "confidence": "medium",
+ "confidence": "high",
  "verified_at": "2026-09-06",
  "source_urls": [
   "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
@@ -107,7 +107,11 @@
   "https://x.com/HAO_akihabara",
   "https://x.com/HAO_akihabara/status/2089563466529202446",
   "https://x.com/HAO_akihabara/status/2091087363971903605",
-  "https://cdn.syndication.twimg.com/tweet-result?id=2089563466529202446&token=a"
+  "https://cdn.syndication.twimg.com/tweet-result?id=2089563466529202446&token=a",
+  "https://x.com/HAO_akihabara/status/2096510771257807294",
+  "https://x.com/HAO_akihabara/status/2094623620509413413",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2096510771257807294&token=a",
+  "https://palettegroup.co.jp/business/spp"
  ],
  "osm_id": null
 }
