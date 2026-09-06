@@ -1,0 +1,118 @@
+{
+ "id": "spotlight-akihabara",
+ "name": {
+  "ko": "스팟라이트",
+  "en": "Spotlight",
+  "ja": "すぽっとらいと"
+ },
+ "synonyms": [
+  "스팟라이트",
+  "스포트라이트",
+  "스팟라이트 아키하바라",
+  "스포라이",
+  "Spotlight",
+  "Spotlight Akihabara",
+  "spotlight akiba",
+  "すぽっとらいと",
+  "スポットライト",
+  "すぽらい",
+  "すぽっとらいと 秋葉原",
+  "秋葉原コンカフェ すぽっとらいと"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "idol",
+  "idol_live",
+  "all_you_can_drink",
+  "late_night"
+ ],
+ "one_line": {
+  "ko": "'왕도' 아이돌 콘셉트 카페. 60분 음료 무제한 세트와 캐스트의 노래·부정기 라이브",
+  "en": "A straight-down-the-line idol concept cafe: 60-minute all-you-can-drink sets, karaoke from the cast and occasional lives"
+ },
+ "building_id": "akiba-asobikan",
+ "floors": [
+  "7F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館7F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "sun",
+     "mon",
+     "tue",
+     "wed",
+     "thu"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "fri",
+     "sat"
+    ],
+    "open": "17:00",
+    "close": "24:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "공식 사이트 표기는 일~목 17:00~23:00, 금·토·공휴일 전날 17:00~25:00(다음 날 01:00)이지만 표에는 24:00으로 끊어 적었다. 라스트오더는 폐점 20분 전이다. 공휴일 자체의 영업시간은 따로 적혀 있지 않고 요일 기준을 따르는 것으로 보이며, 정기휴일도 공지하지 않는다. 라이브 이벤트가 있는 날은 시간이 달라질 수 있어 X를 확인하는 편이 좋다.",
+   "en": "The official site gives 17:00-23:00 Sunday to Thursday and 17:00-25:00 (01:00 the next morning) on Friday, Saturday and the eve of a public holiday; the table caps those at 24:00. Last orders are 20 minutes before closing. The site sets no separate hours for public holidays themselves — they appear to follow the day of the week — and announces no regular closing day. Live-event days can shift the times, so check its X feed."
+  },
+  "source_url": "https://spotlight-akiba.com/access"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "공식 사이트가 JR 아키하바라역 전기가 출구에서 도보 3분, 아키바아소비관 빌딩 7층이라고 안내한다. 주오도리 가드 아래 실크햇 아키하바라를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리가 나오고, 왼편의 7층 건물 꼭대기 층이다. 1층 노면 매장 프라페코가 표지이고 엘리베이터가 한 대뿐이라 주말 저녁에는 계단이 빠르다.",
+  "en": "The official site puts it three minutes from the JR Electric Town Exit on 7F of the Akiba Asobikan building. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori and it is the top floor of the seven-storey block on the left. Frapeko at street level is the landmark; there is only one lift, so the stairs are quicker on a busy evening."
+ },
+ "tips": {
+  "ko": [
+   "금·토와 공휴일 전날은 25:00(다음 날 01:00)까지 열어 아키바아소비관에서 가장 늦게까지 하는 층이다. 라스트오더는 폐점 20분 전이니 시간을 넉넉히 잡는다.",
+   "요금은 음료 무제한제이고 1세트가 60분이다. 공식 시스템 페이지가 서비스료도 결제 수수료도 없다고 밝히고 있다.",
+   "아이돌 경험자가 재적하고 부정기적으로 라이브를 여는 '왕도' 아이돌 콘셉트라, 캐스트 노래방 시간이 기본 서비스에 들어 있다.",
+   "전화는 공식 사이트에 090-3807-0007로 올라와 있다."
+  ],
+  "en": [
+   "Friday, Saturday and the eve of a public holiday run to 25:00 (01:00 the next morning), making it the latest floor in Akiba Asobikan; last orders are 20 minutes before closing, so leave yourself time.",
+   "Pricing is all-you-can-drink and one set is a full 60 minutes; the official system page states there is no service charge and no payment-processing fee.",
+   "It is a classic idol concept: the cast includes former idols, lives are held from time to time, and the cast singing for you is part of the standard service.",
+   "The official site lists the phone number as 090-3807-0007."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://spotlight-akiba.com/",
+ "sns": {
+  "x": "https://x.com/spotlight_akiba",
+  "instagram": "https://www.instagram.com/spotlight_akiba/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://spotlight-akiba.com/access",
+  "https://spotlight-akiba.com/",
+  "https://spotlight-akiba.com/system",
+  "https://api.fxtwitter.com/spotlight_akiba",
+  "https://lit.link/spotlight"
+ ],
+ "osm_id": null
+}

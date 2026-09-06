@@ -1,0 +1,120 @@
+{
+ "id": "ninnin-akihabara-2",
+ "name": {
+  "ko": "닌닌 아키하바라 2호점",
+  "en": "Ninnin Akihabara Store 2",
+  "ja": "ニンニン秋葉原2号店"
+ },
+ "synonyms": [
+  "닌닌 2호점",
+  "닌닌 아키하바라 2호점",
+  "닌닌 아키바 2호점",
+  "포켓몬카드 전문점 닌닌 2호점",
+  "아사노 빌딩 2층 닌닌",
+  "Ninnin Akihabara 2",
+  "Ninnin Akihabara No.2",
+  "Ninnin Akiba 2",
+  "ニンニン秋葉原2号店",
+  "ニンニン秋葉原２号店",
+  "ニンニン2号店",
+  "外神田3-15-7 麻野ビル2F"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "old_back_pokemon",
+  "singles",
+  "buyback",
+  "vintage",
+  "collection"
+ ],
+ "one_line": {
+  "ko": "구판(구 뒷면)부터 최신 확장팩까지 포켓몬 카드만 사고파는 전문점",
+  "en": "Pokemon-cards-only shop buying and selling everything from old-back cards to the newest sets"
+ },
+ "building_id": "asano-building",
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田3-15-7 麻野ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "점포 공식 X 프로필(@ninnin_akiba2)에 적힌 평일 13:00~20:00, 토·일·공휴일 11:00~20:00 기준이다. 체인 공식 사이트 머리글의 '연중무휴 접수 13:00-20:00'은 대표 전화(1호점) 기준이라 2호점 영업시간과는 다르다.",
+   "en": "These are the hours on the shop's own X profile (@ninnin_akiba2): 13:00-20:00 on weekdays, 11:00-20:00 on Saturdays, Sundays and public holidays. The '13:00-20:00, open all year' line in the chain site header is the main (Store 1) phone desk, not this branch."
+  },
+  "source_url": "https://x.com/ninnin_akiba2"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리를 따라 남쪽으로 약 100m, 아파호텔 〈아키하바라 스에히로초 에키마에〉 바로 북쪽에 붙은 좁은 6층 건물 아사노 빌딩 2층. JR 아키하바라역 전기가 출구에서는 주오도리를 따라 북쪽으로 도보 5분이다. 1층 노면의 PDG 컬렉터스 숍 3호점 간판이 표식이고, 그 옆 건물 입구로 들어가 2층으로 올라간다.",
+  "en": "About 100 m south of Tokyo Metro Ginza Line Suehirocho along Chuo-dori, in the narrow six-storey Asano Building immediately north of the APA Hotel Akihabara Suehirocho-Ekimae; from the JR Electric Town Exit it is five minutes north along Chuo-dori. The street-level PDG Collector's Shop No.3 sign marks the spot - go in through the building entrance beside it and up to 2F."
+ },
+ "tips": {
+  "ko": [
+   "외신다 3-8-7 후지빌 2층의 1호점과는 다른 점포다. 2호점은 구판(구 뒷면)부터 최신 확장팩까지 갖춘 구탄 코너와 특가 코너를 앞세운다.",
+   "평일은 13:00에 열고 토·일·공휴일만 11:00에 여니 오전에 가려면 주말이어야 한다.",
+   "체인 공식 점포 안내에 취급 타이틀이 '포켓몬'으로만 적혀 있는 포켓몬 카드 전문점이다. 전화는 03-3527-1320.",
+   "택배 매입은 체인 공식 사이트(nin-nin-pokeka.jp)에서 접수하며, 구판·구탄을 대량으로 들고 와도 된다고 안내한다."
+  ],
+  "en": [
+   "A different shop from Store 1 at Fuji Bldg 2F, Sotokanda 3-8-7: Store 2 leads with an old-set corner running from old-back cards to the newest expansions, plus a bargain corner.",
+   "It opens at 13:00 on weekdays and only at 11:00 on Saturdays, Sundays and holidays, so a morning visit has to be at the weekend.",
+   "A Pokemon-card specialist - the chain's own store list gives its handled title simply as 'Pokemon'. Phone 03-3527-1320.",
+   "Mail-in buyback is arranged through the chain site (nin-nin-pokeka.jp), and the shop says large lots of old-back and old-set cards are welcome."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://nin-nin-pokeka.jp/",
+ "sns": {
+  "x": "https://x.com/ninnin_akiba2"
+ },
+ "chain": "ninnin",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://nin-nin-pokeka.jp/",
+  "https://nin-nin-pokeka.jp/tokusho/",
+  "https://api.fxtwitter.com/ninnin_akiba2",
+  "https://x.com/ninnin_akiba2",
+  "https://x.com/ninnin_akiba2/status/2094632982472765538",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2094632982472765538&token=a"
+ ],
+ "osm_id": null
+}

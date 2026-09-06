@@ -1,0 +1,122 @@
+{
+ "id": "toreka-no-bankoku-akihabara",
+ "name": {
+  "ko": "트레카노반코쿠 아키하바라점",
+  "en": "Toreka no Bankoku Akihabara",
+  "ja": "トレカの万国 秋葉原店"
+ },
+ "synonyms": [
+  "트레카노반코쿠",
+  "트레카노 반코쿠",
+  "트레카의 만국",
+  "반코쿠",
+  "리버티 5호관 6층 트레카",
+  "Toreka no Bankoku",
+  "Toreca no Bankoku",
+  "TOREKA NO BANKOKU",
+  "torekanobankoku",
+  "トレカの万国",
+  "トレカの万国 秋葉原店",
+  "万国 秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "digimon_card",
+  "gundam_card",
+  "dragon_ball_card",
+  "singles",
+  "sealed_box",
+  "buyback",
+  "tax_free",
+  "new",
+  "used"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·디지몬 등 트레카 싱글과 미개봉 박스를 파는 리버티 5호관 6층 전문점",
+  "en": "Trading-card specialist on 6F of Liberty No.5, selling Pokemon, One Piece and Digimon singles and sealed boxes"
+ },
+ "building_id": "liberty-5gokan",
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-5-1 リバティー5号館6F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "13:00",
+    "close": "20:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun"
+    ],
+    "open": "12:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "매입 감정 접수는 19:30까지. 공식 사이트는 월~금과 토·일만 적어 두고 공휴일 영업시간은 따로 밝히지 않았다.",
+   "en": "Buyback assessment is accepted until 19:30. The official site states only Monday-Friday and Saturday-Sunday hours; public holidays are not spelled out."
+  },
+  "source_url": "https://torekanobankoku.com/"
+ },
+ "tax_free": true,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리 동쪽 보도를 따라 남쪽으로 도보 2분, JR 아키하바라역 전기가 출구에서는 주오도리를 따라 북쪽으로 도보 5분. 1층 앞 인도에 가챠폰 기계가 늘어선 9층짜리 리버티 5호관에서, 매장 오른쪽에 있는 건물 입구로 들어가 엘리베이터로 6층까지 올라간다. 같은 4-5-1 번지의 KHK빌딩(스루가야 아니메·호비관)은 다른 건물이다.",
+  "en": "Two minutes south of Ginza-line Suehirocho along the east pavement of Chuo-dori, or five minutes north of the JR Akihabara Electric Town Exit. At the nine-storey Liberty No.5 building, marked by the row of gachapon machines on the pavement, use the building entrance to the right of the shopfront and take the lift to 6F. The KHK Building under the same 4-5-1 address (Surugaya Anime & Hobby) is a different building."
+ },
+ "tips": {
+  "ko": [
+   "월~금 13:00~20:00, 토·일 12:00~20:00으로 열고 매입 감정 접수는 19:30에 끊긴다.",
+   "2026년 6월 말부터 실물 매장에서도 면세 환급을 받을 수 있다. 단기 체류 외국인 여행자가 세전 5,000엔 이상 매장에서 사면 대상이다.",
+   "포켓몬·원피스 외에 디지몬, 건담 카드게임, 드래곤볼 퓨전 월드, 울트라맨, TCG 파이어엠블럼0, 오등분의 신부, 하이큐, 명탐정 코난 등 취급 타이틀이 넓다.",
+   "운영사는 주식회사 만국이고 도쿄도 공안위원회 고물상 허가(제301032006733호)로 매입한다. 전화는 03-6903-1927이며 우편 매입과 BUYEE 대행에도 대응한다."
+  ],
+  "en": [
+   "Monday to Friday 13:00-20:00 and weekends 12:00-20:00, with buyback assessment closing at 19:30.",
+   "Since the end of June 2026 tax-free refunds are handled at the physical store, for short-term visitors to Japan spending over 5,000 yen before tax in store.",
+   "Beyond Pokemon and One Piece the range covers Digimon, Gundam Card Game, Dragon Ball Fusion World, Ultraman, TCG Fire Emblem 0, Quintessential Quintuplets, Haikyu and Detective Conan.",
+   "It is run by Bankoku Co., Ltd. under Tokyo antique-dealer licence 301032006733; the phone is 03-6903-1927, and postal buyback and BUYEE proxy orders are accepted."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://torekanobankoku.com/",
+ "sns": {
+  "x": "https://x.com/torekanobankoku"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://torekanobankoku.com/",
+  "https://torekanobankoku.com/policies/legal-notice",
+  "https://api.fxtwitter.com/torekanobankoku",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2071908367484998068&token=a"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,119 @@
+{
+ "id": "melty-charm-akihabara",
+ "name": {
+  "ko": "멜티 참",
+  "en": "Melty Charm",
+  "ja": "Melty Charm（メルティーチャーム）"
+ },
+ "synonyms": [
+  "멜티 참",
+  "멜티참",
+  "멜티 차암",
+  "메르티 참",
+  "Melty Charm",
+  "MeltyCharm",
+  "melty charm akihabara",
+  "メルティーチャーム",
+  "メルティチャーム",
+  "Melty Charm 秋葉原",
+  "メルティーチャーム 秋葉原"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "maid",
+  "all_you_can_drink",
+  "time_charge",
+  "cards_ok"
+ ],
+ "one_line": {
+  "ko": "인형의 집 콘셉트로 옆에 앉지 않는 건전 운영을 내건 콘셉트 카페. 시간제 차지 방식",
+  "en": "A doll's-house concept cafe run on 'the cast does not sit beside you' lines, charged by the hour"
+ },
+ "building_id": "akiba-asobikan",
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館4F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri"
+    ],
+    "open": "17:00",
+    "close": "23:00"
+   },
+   {
+    "days": [
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "15:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무(不定休)",
+   "en": "Irregular closing days (不定休)"
+  },
+  "note": {
+   "ko": "공식 사이트 ABOUT 페이지가 평일 17:00~23:00, 휴일 15:00~23:00(둘 다 라스트오더 22:30), 정기휴일 부정기로 적어 두었다. '휴일'은 매장 공식 인스타그램 프로필의 '평일 17:00-23:00 토일축 15:00-23:00' 표기에 따라 토·일·공휴일로 넣었다. 다만 공식 사이트의 뉴스가 2021년에서 멈춰 있고 디렉터리 사이트마다 시각이 조금씩 다르게 올라와 있어, 방문 전에 다시 확인하는 편이 안전하다. 운영사 N프로 공식 사이트는 2026년 기준으로 이 가게를 운영 점포로 계속 안내한다.",
+   "en": "The official ABOUT page gives 17:00-23:00 on weekdays and 15:00-23:00 on 休日, both with last orders at 22:30, and 不定休 for closing days. '休日' is read as Saturday, Sunday and public holidays, following the shop's own Instagram profile, which spells it out as 平日17:00-23:00 土日祝15:00-23:00. Be aware that the official site's news stops in 2021 and directory listings quote slightly different times, so it is worth re-checking before you go; the operator Npro's own site still lists the shop as running as of 2026."
+  },
+  "source_url": "https://dotsweet.jp/about/"
+ },
+ "tax_free": null,
+ "payment": "cards_ok",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 가드 아래 실크햇 아키하바라를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리가 나오고, 왼편 7층 건물 아키바아소비관 4층이다. 4층은 운영사 N프로의 사무실과 같은 층이라 예전 안내에는 사무실만 있는 층으로 적혀 있기도 하다. 1층 프라페코 옆 엘리베이터로 4층에 올라간다.",
+  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and it is 4F of the seven-storey Akiba Asobikan on the left. The floor also holds the office of the operator, Npro, which is why older listings describe 4F as offices only. Take the lift beside Frapeko on 1F up to 4F."
+ },
+ "tips": {
+  "ko": [
+   "운영사 N프로가 '옆에 앉지 않는 건전한 카페'라고 명시한 가게라, 캐스트가 동석하는 형태의 콘카페와는 접객 방식이 다르다.",
+   "요금은 시간제 차지 1,000엔/1시간에 원드링크 오더제 900엔~, 음료 무제한 900엔~ 구성이다.",
+   "공식 사이트가 각종 신용카드 사용 가능이라고 밝히고 있다.",
+   "전화는 03-6262-9460이고, 공식 사이트는 JR 아키하바라역에서 도보 5분·긴자선 스에히로초역에서 도보 5분으로 안내한다."
+  ],
+  "en": [
+   "The operator Npro describes it as a wholesome cafe where the cast does not sit next to you, so the service differs from concept cafes where a cast member joins your table.",
+   "Pricing is a 1,000 yen hourly charge plus a one-drink minimum from 900 yen, with all-you-can-drink also from 900 yen.",
+   "The official site states that credit cards are accepted.",
+   "The phone number is 03-6262-9460, and the official site gives five minutes on foot from JR Akihabara and five from Suehirocho on the Ginza Line."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://dotsweet.jp/",
+ "sns": {
+  "instagram": "https://www.instagram.com/meltycharm01/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://dotsweet.jp/about/",
+  "https://dotsweet.jp/access/",
+  "https://dotsweet.jp/",
+  "https://npro.city/contact/"
+ ],
+ "osm_id": null
+}

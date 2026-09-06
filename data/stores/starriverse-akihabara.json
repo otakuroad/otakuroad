@@ -1,0 +1,110 @@
+{
+ "id": "starriverse-akihabara",
+ "name": {
+  "ko": "스타리버스 아키하바라점",
+  "en": "Starriverse Akihabara",
+  "ja": "Starriverse（スターリバース）秋葉原店"
+ },
+ "synonyms": [
+  "스타리버스",
+  "스타리버스 아키하바라",
+  "스타리바스",
+  "라오쿠스 5층 스타리버스",
+  "Starriverse",
+  "Starriverse Akiba",
+  "Starriverse Akihabara",
+  "Starriverse 秋葉原店",
+  "スターリバース",
+  "スターリバース 秋葉原店",
+  "スターリバース秋葉原",
+  "トレカモーール5F スターリバース"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "trading_card",
+  "singles",
+  "buyback",
+  "card_mall",
+  "new",
+  "used",
+  "near_station"
+ ],
+ "one_line": {
+  "ko": "라오쿠스 5층 트레카모올에 있는 트레카 판매·매입점. 매입 접수는 18:30에 마감한다",
+  "en": "Trading-card shop with a buyback desk on the 5F Toreca Mall floor; buyback closes at 18:30"
+ },
+ "building_id": "edion-akiba",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "가게가 직접 밝힌 11:00-19:00이고, 운영사가 발표한 5층 트레카모올 영업시간과도 같다. 매입은 18:30까지만 접수하니 팔 카드가 있으면 그전에 가야 한다.",
+   "en": "11:00-19:00 as the shop itself states, matching the operator's published hours for the 5F Toreca Mall floor. Buyback items are only accepted until 18:30, so arrive earlier if you are selling."
+  },
+  "source_url": "https://x.com/starriversakiba"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 도보 1분, 만세바시 교차로의 파란 에디온 AKIBA(라오쿠스 아키하바라 본점) 건물이다. 라오쿠스 쪽 입구에서 엘리베이터로 5층에 올라가면 트레카 전문점이 늘어선 트레카모올 플로어이고, 그 안의 한 부스다.",
+  "en": "One minute south of the JR Electric Town Exit along Chuo-dori, in the blue EDION AKIBA (Laox Akihabara Main Store) building at the Manseibashi crossing. Take the elevator from the Laox-side entrance to 5F, the Toreca Mall floor lined with card booths; this is one of them."
+ },
+ "tips": {
+  "ko": [
+   "매입 최종 접수가 18:30이라 영업 종료 30분 전에는 매입 카운터가 닫힌다.",
+   "전화나 DM으로는 재고 확인을 받아주지 않는다고 가게가 못 박아 두었으니 재고는 직접 가서 봐야 한다.",
+   "5층 트레카모올은 2026년 3월 14일 오픈한 111평 플로어라 여러 점포의 매입가를 한자리에서 비교할 수 있다."
+  ],
+  "en": [
+   "The buyback desk stops accepting cards at 18:30, half an hour before closing.",
+   "The shop states it cannot check stock by phone or DM, so you have to come and look.",
+   "The 5F Toreca Mall floor opened on 14 March 2026 at 111 tsubo, so you can compare several shops' buyback offers without leaving the floor."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/starriversakiba"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
+  "https://x.com/starriversakiba",
+  "https://api.fxtwitter.com/starriversakiba"
+ ],
+ "osm_id": null
+}

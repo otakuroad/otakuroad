@@ -1,0 +1,114 @@
+{
+ "id": "quest-toreca-akihabara",
+ "name": {
+  "ko": "퀘스트 트레카 아키하바라점",
+  "en": "Quest Toreca Akihabara",
+  "ja": "Questトレカ 秋葉原店"
+ },
+ "synonyms": [
+  "퀘스트 트레카",
+  "퀘스트트레카",
+  "퀘스트 트레카 아키하바라",
+  "퀘스트 TCG",
+  "라오쿠스 5층 퀘스트",
+  "Quest Toreca",
+  "Quest TCG Akihabara",
+  "Quest Toreca Akihabara",
+  "Questトレカ",
+  "Questトレカ秋葉原店",
+  "クエストトレカ",
+  "クエストトレカ 秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "singles",
+  "psa",
+  "graded_card",
+  "sealed_box",
+  "oripa",
+  "card_mall",
+  "new",
+  "used",
+  "near_station"
+ ],
+ "one_line": {
+  "ko": "PSA 감정품과 미개봉 BOX, 매장 한정 오리파를 파는 포켓몬 카드 전문점",
+  "en": "Pokemon-card specialist selling PSA graded cards, sealed boxes and shop-only oripa"
+ },
+ "building_id": "edion-akiba",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "11:00-19:00은 운영사 팔레트그룹이 5층 트레카모올 전체 영업시간으로 공식 발표한 시간이고, 가게 자신도 평일 오전 11시 오픈을 X에 올린다. 다만 같은 5층에도 평일 12시에 여는 점포가 있어 정확한 시간은 X(@Quest_TCG_AKIBA)에서 확인하는 편이 안전하다.",
+   "en": "11:00-19:00 is the time the operator Palette Group published for the whole 5F Toreca Mall floor, and the shop's own X posts confirm an 11:00 weekday opening. Some booths on the same floor open at 12:00 instead, so check X (@Quest_TCG_AKIBA) before going."
+  },
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점)이다. 가전 매장이 아니라 라오쿠스 쪽 입구에서 엘리베이터로 5층에 올라가면 트레카모올 플로어가 나오고, 그 안에 부스로 들어가 있다.",
+  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Skip the electronics floors: take the elevator from the Laox-side entrance to 5F, which is the Toreca Mall floor, and the shop is one of the booths on it."
+ },
+ "tips": {
+  "ko": [
+   "포켓몬 카드 한 종목에 집중한 가게라 PSA 감정품과 미개봉 BOX, 싱글, 매장 한정 오리파가 주력이다.",
+   "5층 트레카모올은 2026년 3월 14일에 111평 규모로 문을 열었고, 같은 층에 크레인게임 코너 HAO 아키하바라와 배틀 스페이스가 붙어 있다.",
+   "공식 홈페이지가 없어 입하 정보와 그날 영업 안내는 X(@Quest_TCG_AKIBA)에만 올라온다."
+  ],
+  "en": [
+   "It concentrates on Pokemon cards: PSA graded cards, sealed boxes, singles and shop-only oripa packs.",
+   "The 5F Toreca Mall floor opened on 14 March 2026 at 111 tsubo, with the HAO Akihabara crane-game corner and a battle space on the same floor.",
+   "There is no official website, so restock news and same-day opening notices appear only on X (@Quest_TCG_AKIBA)."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/Quest_TCG_AKIBA"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://prtimes.jp/main/html/rd/p/000000043.000152399.html",
+  "https://x.com/Quest_TCG_AKIBA",
+  "https://api.fxtwitter.com/Quest_TCG_AKIBA",
+  "https://x.com/Quest_TCG_AKIBA/status/2084103030904078646"
+ ],
+ "osm_id": null
+}

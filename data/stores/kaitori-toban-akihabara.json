@@ -1,0 +1,117 @@
+{
+ "id": "kaitori-toban-akihabara",
+ "name": {
+  "ko": "카이토리토반 트레카 아키하바라점",
+  "en": "Kaitori Toban Toreca Akihabara",
+  "ja": "買取当番 トレカ秋葉原店"
+ },
+ "synonyms": [
+  "카이토리토반",
+  "카이토리 토반",
+  "매입당번",
+  "카이토리토반 아키하바라",
+  "토반 트레카 아키하바라점",
+  "라오쿠스 5층 카이토리토반",
+  "Kaitori Toban",
+  "Kaitoritoban Akihabara",
+  "Toban Akiba",
+  "買取当番",
+  "買取当番 秋葉原店",
+  "買取当番 秋葉原支店"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "buyback",
+  "psa",
+  "sealed_box",
+  "pokemon_card",
+  "one_piece_card",
+  "card_mall",
+  "reservation"
+ ],
+ "one_line": {
+  "ko": "PSA 감정품과 미개봉 박스를 현금으로 사들이는 트레카모올 5층 매입 카운터",
+  "en": "Buyback counter on the 5F card mall taking PSA-graded cards and sealed boxes for cash"
+ },
+ "building_id": "edion-akiba",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-2-9 ラオックス秋葉原本店（エディオンAKIBA）5F トレカモーール(5F)内",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "19:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "운영사 공식 사이트가 아키하바라 지점을 11:00~19:00(최종 접수 18:45), 연중무휴(연말연시 제외)로 안내하고, 점포 X도 '18:45 매입·지급 종료 / 19:00 폐점'으로 올린 적이 있다. 다만 X 프로필은 영업시간을 11:00~18:45, 매입 접수를 12:30~18:45로 적어 두 안내가 조금 다르니 18:45 이후에는 매입이 끝난다고 보는 편이 안전하다.",
+   "en": "The operator's own site gives the Akihabara branch as 11:00-19:00 with a last intake at 18:45, open all year except the New Year period, and the shop's X has posted '18:45 buying and payouts end / 19:00 close'. Its X profile, however, summarises the hours as 11:00-18:45 with buyback reception 12:30-18:45, so treat 18:45 as the real cut-off for selling."
+  },
+  "source_url": "https://tobansyoji.co.jp/company/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 5층. 라오쿠스 쪽 엘리베이터로 5층에 올라가면 트레카모올 5F 플로어이고 그 안의 매입 카운터다.",
+  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Ride the Laox-side elevator to 5F; the counter sits inside the Toreca Mall floor."
+ },
+ "tips": {
+  "ko": [
+   "매입은 사전 예약제다. 공식 사이트에서 회원 등록과 매입 신청을 마치고 신분증과 물건을 들고 가야 한다.",
+   "매입·지급은 18:45에 끝나고 폐점은 19:00이라, 마감 직전에 가면 접수가 막힌다.",
+   "포켓몬 PSA 감정품과 미개봉 BOX 매입을 특히 강화 중이라고 공지하며, 대금은 전액 현금으로 준다고 밝힌다.",
+   "운영사는 도반쇼지(東磐商事). 아키하바라 지점은 내점 매입만 받고 우편 매입은 받지 않으며, 세타가야 본사와 가와사키점이 따로 있다."
+  ],
+  "en": [
+   "Buyback is by prior booking: register on the operator's site and file a request before you come, then bring photo ID with the cards.",
+   "Buying and payouts stop at 18:45 and the shop closes at 19:00, so arriving just before closing is too late to sell.",
+   "It advertises strengthened buying of PSA-graded Pokemon cards and sealed boxes, and says payouts are made entirely in cash.",
+   "The operator is Toban Shoji; the Akihabara branch takes walk-in buying only (no mail-in), while the head office in Setagaya and a Kawasaki branch handle the rest."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://tobansyoji.co.jp/",
+ "sns": {
+  "x": "https://x.com/toban_akiba"
+ },
+ "chain": "kaitori-toban",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://tobansyoji.co.jp/company/",
+  "https://tobansyoji.co.jp/",
+  "https://tobansyoji.co.jp/purchase-flow/",
+  "https://api.fxtwitter.com/toban_akiba",
+  "https://x.com/toban_akiba",
+  "https://x.com/toban_akiba/status/2081665913971978558",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2081665913971978558&token=a",
+  "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
+ ],
+ "osm_id": null
+}

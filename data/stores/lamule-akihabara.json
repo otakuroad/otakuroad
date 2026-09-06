@@ -1,0 +1,114 @@
+{
+ "id": "lamule-akihabara",
+ "name": {
+  "ko": "라뮤르",
+  "en": "LaMule",
+  "ja": "LaMule（ラミュール）"
+ },
+ "synonyms": [
+  "라뮤르",
+  "라뮤르 아키하바라",
+  "라뮈르",
+  "LaMule",
+  "La Mule",
+  "lamule akiba",
+  "ラミュール",
+  "LaMule ラミュール",
+  "らみゅーる",
+  "ラミュール 秋葉原",
+  "秋葉原コンカフェ LaMule"
+ ],
+ "category": "maid_cafe",
+ "tags": [
+  "concept_cafe",
+  "all_you_can_drink",
+  "cheki",
+  "alcohol"
+ ],
+ "one_line": {
+  "ko": "해저 신전의 여신을 콘셉트로 한 저녁 전용 콘셉트 카페. 1시간 음료 무제한 세트",
+  "en": "An evening-only concept cafe themed on goddesses of an undersea temple, with a one-hour all-you-can-drink set"
+ },
+ "building_id": "akiba-asobikan",
+ "floors": [
+  "6F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-6-3 アキバあそび館6F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "18:00",
+    "close": "23:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "부정기 휴무(不定休)",
+   "en": "Irregular closing days (不定休)"
+  },
+  "note": {
+   "ko": "매장 공식 인스타그램 프로필이 '영업시간 18:00-23:00(라스트오더 22:30), 부정기 휴무'로 밝히고 있고, 같은 매장이 운영하는 BASE 온라인숍의 특정상거래법 표기도 문의 대응 시간을 18:00-23:00, 정기휴일을 부정기로 적어 두었다. 낮에는 열지 않는다. 게스트 출근일이나 이벤트가 있는 날은 시작·마감 시각이 달라지기도 하니 X의 그날 공지를 확인하는 편이 좋다.",
+   "en": "The shop's own Instagram profile states 営業時間18:00-23:00 (last order 22:30) with irregular closing days, and the legal notice of the shop's own BASE online shop repeats 18:00-23:00 for contact hours and 不定休 for closing days. There is no daytime service. Guest-cast days and events can move the start and finish, so check that day's post on its X feed."
+  },
+  "source_url": "https://www.instagram.com/lamule_akiba/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": null,
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 가드 아래 실크햇 아키하바라를 지나 세 번째 골목에서 오른쪽(북쪽)으로 꺾으면 간다묘진도리가 나오고, 왼편의 7층 건물 아키바아소비관 6층이다. 1층 노면 매장 프라페코 옆 엘리베이터를 타고 6층 버튼을 누른다. 바로 위 7층은 별개 가게인 스팟라이트다.",
+  "en": "Five minutes from the JR Electric Town Exit. Pass SILK HAT Akihabara under the Chuo-dori viaduct, take the third turn right (north) onto Kanda Myojin-dori, and it is 6F of the seven-storey Akiba Asobikan on the left. Take the lift beside the street-level Frapeko and press 6; the floor directly above is a different shop, Spotlight."
+ },
+ "tips": {
+  "ko": [
+   "18:00에 열어 23:00에 닫고 라스트오더가 22:30이라, 하루 다섯 시간만 여는 저녁 전용 가게다.",
+   "인스타그램 프로필 기준 1시간 음료 무제한이 2,800엔이다.",
+   "공식 BASE 온라인숍에서 캐스트에게 드링크·보틀·체키를 원격으로 보낼 수 있다.",
+   "예전 자료에 이 층이 단소(男装) 카페로 적힌 경우가 있는데 지금은 해저 신전 여신 콘셉트의 라뮤르다."
+  ],
+  "en": [
+   "It opens at 18:00 and closes at 23:00 with last orders at 22:30, an evening-only shop with a five-hour day.",
+   "Its Instagram profile puts a one-hour all-you-can-drink set at 2,800 yen.",
+   "Drinks, bottles and cheki can be sent to a cast member remotely through the shop's own BASE online shop.",
+   "Older write-ups list this floor as a danso (male-attire) cafe; it is now LaMule, themed on goddesses of an undersea temple."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://lit.link/lamule",
+ "sns": {
+  "x": "https://x.com/lamule_akiba",
+  "instagram": "https://www.instagram.com/lamule_akiba/"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://www.instagram.com/lamule_akiba/",
+  "https://api.fxtwitter.com/lamule_akiba",
+  "https://lit.link/lamule",
+  "https://lamule.base.shop/law",
+  "https://lamule.base.shop/about"
+ ],
+ "osm_id": null
+}

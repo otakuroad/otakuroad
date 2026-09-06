@@ -1,0 +1,88 @@
+{
+ "id": "kanda-soubi-akihabara",
+ "name": {
+  "ko": "간다소비",
+  "en": "Kanda Soubi",
+  "ja": "神田装備"
+ },
+ "synonyms": [
+  "간다소비",
+  "간다 소비",
+  "칸다소비",
+  "간다장비",
+  "Kanda Soubi",
+  "Kanda Sobi",
+  "kandasoubi",
+  "K&N 간다영업소",
+  "神田装備",
+  "神田営業所 神田装備",
+  "有限会社K&N 神田装備",
+  "ニュー秋葉原センタービル 4階2号"
+ ],
+ "category": "electronics",
+ "tags": [
+  "junk",
+  "used",
+  "reservation",
+  "small_shop",
+  "upper_floor"
+ ],
+ "one_line": {
+  "ko": "중고 노트북·데스크톱과 OA기기를 다루는 정크 전문점. 주말 위주로 예약제로 연다",
+  "en": "A junk shop for used laptops, desktops and OA gear, opening mainly at weekends by reservation"
+ },
+ "building_id": "new-akihabara-center",
+ "floors": [
+  "4F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-16-10 ニュー秋葉原センタービル 4F",
+ "hours": null,
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "used",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 선로변 뉴 아키하바라 센터 빌딩의 간판 아래 통로로 들어가 안쪽 엘리베이터로 4층까지 올라가면 4층 2호실이다. 4층은 7~10평짜리 소형 임대 구획이 늘어선 층이라 문패를 보고 찾아야 한다.",
+  "en": "One minute from the JR Akihabara Electric Town Exit. Enter under the signboards of the New Akihabara Center Building beside the tracks, take the lift at the back up to 4F and look for room 2. The floor is a row of small leased units, so read the door plates."
+ },
+ "tips": {
+  "ko": [
+   "영업일과 시간이 주마다 달라 공식 X에 그 주의 일정이 올라온다. 2026년 9월 5일(토)은 10:00~18:00, 9월 6일(일)은 10:00~17:00으로 안내됐다.",
+   "앞 시간대는 Air리저브 예약제이고, 공지에 적힌 '프리' 시각(위 예시로는 토요일 14시, 일요일 13시)부터는 예약 없이 들어갈 수 있다.",
+   "2026년 10월은 휴업이라고 공식 X 계정 이름에 걸어두었으니 그 달에는 헛걸음하지 않도록 한다.",
+   "2020년 9월 19일 문을 연 정크 전문점으로 유한회사 K&N의 간다영업소다. 문의는 03-6811-6127. 매장 촬영은 되지만 윈도우 라이선스 스티커만 찍는 것은 금지다."
+  ],
+  "en": [
+   "Opening days and times change week by week and are posted on the shop's X account: for example 10:00-18:00 on Saturday 5 September 2026 and 10:00-17:00 on Sunday 6 September.",
+   "The earlier slots are booked through Air Reserve; from the 'free' time given in each post (14:00 Saturday and 13:00 Sunday in that example) you can walk in without a booking.",
+   "The account name currently warns that the shop is closed for the whole of October 2026, so do not make the trip that month.",
+   "Opened on 19 September 2020, it is the Kanda branch of K&N Ltd; the phone is 03-6811-6127. Photos inside are allowed, but photographing Windows licence stickers alone is banned."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://kandnauto.com/",
+ "sns": {
+  "x": "https://x.com/kandasoubi"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "low",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://kandnauto.com/company/",
+  "https://api.fxtwitter.com/kandasoubi",
+  "https://airrsv.net/kandasoubi/calendar",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2095820373237616675&token=a"
+ ],
+ "osm_id": null
+}

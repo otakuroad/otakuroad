@@ -1,0 +1,119 @@
+{
+ "id": "decks-stadium-akihabara",
+ "name": {
+  "ko": "반다이 카드게임 공식숍 데쿠스타",
+  "en": "BANDAI CARD GAMES Official Shop DECKS STADIUM",
+  "ja": "BANDAI CARD GAMES 公式ショップ デクスタ -DECKS STADIUM-"
+ },
+ "synonyms": [
+  "데쿠스타",
+  "덱스 스타디움",
+  "반다이 카드게임 공식숍",
+  "반다이 카드게임즈 공식 숍 아키하바라",
+  "남코 아키하바라 5층 카드숍",
+  "DECKS STADIUM",
+  "Decks Stadium Akihabara",
+  "BANDAI CARD GAMES Official Shop",
+  "デクスタ",
+  "デックススタジアム",
+  "BANDAI CARD GAMES 公式ショップ",
+  "バンダイカードゲームズ公式ショップ 秋葉原"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "one_piece_card",
+  "gundam_card",
+  "union_arena",
+  "digimon_card",
+  "battle_spirits",
+  "dragon_ball_card",
+  "duel_space",
+  "play_space",
+  "tournament",
+  "official_shop",
+  "new",
+  "near_station"
+ ],
+ "one_line": {
+  "ko": "반다이 카드게임 전 타이틀을 파는 공식 숍. 대전용 플레이 스페이스와 교류회가 있다",
+  "en": "Bandai's official card-game shop carrying every Bandai TCG, with a play space and regular events"
+ },
+ "building_id": "ichigo-akihabara-ekimae-building",
+ "floors": [
+  "5F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田1-15-9 いちご秋葉原駅前ビル（namco秋葉原店内）5F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "10:00",
+    "close": "21:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴",
+   "en": "Open year-round"
+  },
+  "note": {
+   "ko": "플레이 스페이스 최종 접수는 20:45다. 이 매장은 21시에 닫지만 감싸고 있는 남코 아키하바라 오락실 자체는 23시까지 열어 층 전체가 닫히는 것은 아니다.",
+   "en": "Last entry to the play space is 20:45. The shop shuts at 21:00 even though the namco Akihabara arcade around it runs until 23:00, so the floor itself stays open longer."
+  },
+  "source_url": "https://bandainamco-am.co.jp/official_shop/decks-stadium/"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 개찰구를 나와 라디오회관 쪽으로 걸으면 라디오회관 바로 앞, 역 쪽에 커다란 namco 간판을 단 건물이 있다. 1층에서 남코 매장으로 그대로 들어가 5층까지 올라가면 층 안쪽에 카드 매장과 플레이 스페이스가 있다.",
+  "en": "One minute from the JR Electric Town Exit: leave the gates toward Radio Kaikan and the building with the big namco sign stands just in front of it on the station side. Enter namco straight from 1F and go up to 5F, where the card shop and its play space sit inside the floor."
+ },
+ "tips": {
+  "ko": [
+   "원피스·건담·유니온 아리나·드래곤볼 슈퍼 퓨전 월드·디지몬·배틀 스피리츠 등 반다이 카드게임 전 타이틀을 한자리에서 취급한다.",
+   "패 놓는 자리가 붙은 데스크를 갖춘 플레이 스페이스가 있어 손님끼리 대전할 수 있고, 타이틀별 교류회도 열린다. 최종 접수는 20:45.",
+   "매장이 남코 오락실 안에 있어 게임센터 입장 규정을 따른다. 16세 미만은 18시 이후 입장할 수 없고(보호자 동반 시 22시까지), 18세 미만은 22시 이후 입장할 수 없다."
+  ],
+  "en": [
+   "It stocks every Bandai card game in one place - One Piece, Gundam, Union Arena, Dragon Ball Super Fusion World, Digimon and Battle Spirits among them.",
+   "The play space has desks with a place for your hand so customers can duel on the spot, and each title runs its own meet-ups; last entry is 20:45.",
+   "Because the shop sits inside the namco arcade it follows game-centre entry rules: under-16s cannot enter after 18:00 (until 22:00 with a guardian) and under-18s cannot enter after 22:00."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://bandainamco-am.co.jp/official_shop/decks-stadium/",
+ "sns": {
+  "x": "https://x.com/DECKS_STADIUM"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://bandainamco-am.co.jp/official_shop/decks-stadium/",
+  "https://bandainamco-am.co.jp/game_center/loc/akihabara/",
+  "https://x.com/DECKS_STADIUM",
+  "https://api.fxtwitter.com/DECKS_STADIUM"
+ ],
+ "osm_id": null
+}

@@ -1,0 +1,115 @@
+{
+ "id": "toreca-monka-akihabara",
+ "name": {
+  "ko": "트레카몬카",
+  "en": "Toreca Monka",
+  "ja": "トレカモンカ"
+ },
+ "synonyms": [
+  "트레카몬카",
+  "트레카 몬카",
+  "토레카몬카",
+  "트레카몬카 아키하바라",
+  "토라 빌딩 8층 카드숍",
+  "Toreca Monka",
+  "Torekamonka",
+  "Toreka Monka Akihabara",
+  "トレカモンカ",
+  "トレカモンカ 秋葉原",
+  "トレカモンカ秋葉原",
+  "外神田4-7-3虎ビル8階"
+ ],
+ "category": "trading_card",
+ "tags": [
+  "pokemon_card",
+  "one_piece_card",
+  "weiss_schwarz",
+  "oripa",
+  "psa",
+  "singles",
+  "buyback",
+  "upper_floor"
+ ],
+ "one_line": {
+  "ko": "포켓몬·원피스·바이스슈발츠 오리파와 PSA 싱글을 파는 토라 빌딩 8층 카드숍",
+  "en": "Card shop on 8F of the Tora Building selling oripa packs and PSA singles for Pokemon, One Piece and Weiss Schwarz"
+ },
+ "building_id": "akihabara-tora-building",
+ "floors": [
+  "8F"
+ ],
+ "floor_guide": [],
+ "location": null,
+ "street_segment": null,
+ "address_ja": "東京都千代田区外神田4-7-3 秋葉原虎ビル8F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat",
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": null,
+  "note": {
+   "ko": "점포 공식 X 프로필(@torekamonk)에 적힌 11:00~20:00 기준이고, 매입 최종 접수는 19:30이다. 요일별 구분이나 정기휴무는 안내돼 있지 않아 임시 휴무는 X를 봐야 알 수 있다.",
+   "en": "The 11:00-20:00 hours come from the shop's own X profile (@torekamonk), which also gives 19:30 as the last buyback intake. No weekday/weekend split or closing day is stated, so temporary closures show up only on X."
+  },
+  "source_url": "https://x.com/torekamonk"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "both",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 5분, 쿠라마에바시도리 교차로 직전 오른쪽(동쪽)에 선 좁은 9층 건물이 아키하바라 토라 빌딩이다. 도쿄메트로 긴자선 스에히로초역 1번 출구에서는 남쪽으로 10m. 1층 트레카 매장 마하 옆 입구의 엘리베이터 한 대로 8층까지 올라간다.",
+  "en": "Five minutes north of the JR Electric Town Exit along Chuo-dori, on your right (east) just before the Kuramaebashi-dori crossing, is the narrow nine-storey Akihabara Tora Building; from exit 1 of Tokyo Metro Ginza Line Suehirocho it is 10 m south. Ride the single elevator in the entrance beside the ground-floor card shop Mach up to 8F."
+ },
+ "tips": {
+  "ko": [
+   "오리파(랜덤 팩)를 상시 팔고 남은 구좌 수를 X(@torekamonk)에 매일 올린다. 포켓몬 PSA10 감정품도 진열해 판다.",
+   "매입 최종 접수는 19:30이라 폐점(20:00)보다 30분 먼저 카운터가 닫힌다.",
+   "취급 타이틀은 포켓몬 카드·원피스 카드·바이스슈발츠 등이다. 공식 홈페이지가 없어 재고와 임시 휴무는 X로만 확인된다.",
+   "같은 건물 1F 마하, 2F TCG GATE, 7F 트레카BH도 카드숍이라 한 건물에서 값을 비교할 수 있다."
+  ],
+  "en": [
+   "Oripa (random packs) are the headline product and the shop posts the remaining slots on X (@torekamonk) most days; graded Pokemon PSA10 cards are sold too.",
+   "The buyback desk takes its last item at 19:30, half an hour before the 20:00 close.",
+   "Titles handled are Pokemon, One Piece and Weiss Schwarz among others. There is no website, so stock and unscheduled closures appear only on X.",
+   "Mach on 1F, TCG GATE on 2F and Toreka BH on 7F are card shops as well, so you can compare prices without leaving the building."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": null,
+ "sns": {
+  "x": "https://x.com/torekamonk"
+ },
+ "chain": null,
+ "priority": 3,
+ "confidence": "medium",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://api.fxtwitter.com/torekamonk",
+  "https://x.com/torekamonk",
+  "https://x.com/torekamonk/status/2095359469094088902",
+  "https://x.com/torekamonk/status/2094984954841375221",
+  "https://cdn.syndication.twimg.com/tweet-result?id=2095359469094088902&token=a"
+ ],
+ "osm_id": null
+}
