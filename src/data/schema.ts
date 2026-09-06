@@ -4,7 +4,7 @@ import { CATEGORY_KEYS } from './categories'
 /** Akihabara bounding box used for the map and for coordinate validation (slightly padded). */
 export const AKIBA_BBOX = { south: 35.694, west: 139.765, north: 35.708, east: 139.78 } as const
 
-export const LOCALES = ['ko', 'en'] as const
+export const LOCALES = ['ko', 'en', 'ja'] as const
 export type Locale = (typeof LOCALES)[number]
 
 export const STREET_SEGMENTS = ['chuo_dori', 'denkigai', 'ura_dori', 'showa_dori', 'suehirocho'] as const
@@ -13,11 +13,15 @@ export const DAY_KEYS = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun', 'hol']
 const slug = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'kebab-case slug')
 const text = z.string().trim().min(1)
 
-/** Bilingual text. Both locales are required from day one (decision 2026-09-04). */
-export const Localized = z.object({ ko: text, en: text })
+/**
+ * Localized text. Korean and English are required from day one (decision 2026-09-04); Japanese was
+ * added 2026-09-06 and stays optional so a new record can ship before it is translated — the UI
+ * falls back to English (`pick()` in src/i18n).
+ */
+export const Localized = z.object({ ko: text, en: text, ja: text.optional() })
 export type Localized = z.infer<typeof Localized>
 
-export const LocalizedList = z.object({ ko: z.array(text), en: z.array(text) })
+export const LocalizedList = z.object({ ko: z.array(text), en: z.array(text), ja: z.array(text).optional() })
 
 export const NameSet = z.object({ ko: text, en: text, ja: text })
 
@@ -68,7 +72,7 @@ export const Photo = z.object({
 })
 export type Photo = z.infer<typeof Photo>
 
-export const FloorGuideEntry = z.object({ floor: FloorLabel, ko: text, en: text })
+export const FloorGuideEntry = z.object({ floor: FloorLabel, ko: text, en: text, ja: text.optional() })
 
 export const Store = z
   .object({

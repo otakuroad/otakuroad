@@ -44,13 +44,13 @@ You are re-verifying store records for otakuroad, a map of Akihabara subculture 
 4. Write **one result file per store** to \`RESULTS_DIR/<id>.json\` in the schema below. Write it even when confirmed. Do not edit the repository files yourself.
 
 ## Value rules
-- \`hours\`: \`{ rules: [{ days: [...], open: "HH:MM", close: "HH:MM" }], regular_holiday: {ko,en}|null, note: {ko,en}|null, source_url: "<primary url>" }\`. days ∈ mon,tue,wed,thu,fri,sat,sun,hol. \`hol\` = Japanese public holidays — include it when the page states 祝日/祝 hours (usually the same as Sat/Sun). Times are HH:MM, max "24:00": a 25:00 close becomes "24:00" plus a note. Each day may appear in only one rule.
+- \`hours\`: \`{ rules: [{ days: [...], open: "HH:MM", close: "HH:MM" }], regular_holiday: {ko,en,ja}|null, note: {ko,en,ja}|null, source_url: "<primary url>" }\`. days ∈ mon,tue,wed,thu,fri,sat,sun,hol. \`hol\` = Japanese public holidays — include it when the page states 祝日/祝 hours (usually the same as Sat/Sun). Times are HH:MM, max "24:00": a 25:00 close becomes "24:00" plus a note. Each day may appear in only one rule.
 - If the record's \`hours.source_url\` is a secondary site and you find no primary page stating hours → change \`hours\` to \`null\` (the app then shows "hours unconfirmed", which beats wrong hours). Cite the secondary URL as evidence_url with quote "no primary source".
 - Floors are Japanese: 1F is street level, B1F basement. Labels: B1F, 1F … 10F, RF.
-- Text fields are \`{ko, en}\`. Match the existing record's Korean style (서술체, no 존댓말). Change prose only when it is wrong — do not restyle.
+- Text fields are \`{ko, en, ja}\`. When you rewrite one, give all three (Korean 서술체 with no 존댓말, plain English, Japanese です・ます調). Change prose only when it is wrong — do not restyle.
 - **Never change**: \`id\`, \`verified_at\`, \`source_urls\` (use \`add_source_urls\`), \`photo\`, \`photos\`, \`osm_id\`, \`location\` (report a wrong pin in \`notes\` with the correct address; do not invent coordinates).
 - A tenant store (\`building_id\` set) must have the building's address; report mismatches as a change to \`address_ja\` or \`building_id\`.
-- \`status\`: \`{ state: "open"|"relocating"|"moved"|"closed", note?: {ko,en}, effective_date?: "YYYY-MM-DD" }\` — use \`relocating\` when a move is announced with a date in the future, \`closure\` (below) when it has already closed or left Akihabara.
+- \`status\`: \`{ state: "open"|"relocating"|"moved"|"closed", note?: {ko,en,ja}, effective_date?: "YYYY-MM-DD" }\` — use \`relocating\` when a move is announced with a date in the future, \`closure\` (below) when it has already closed or left Akihabara.
 
 ## Result schema (write exactly this JSON)
 \`\`\`json

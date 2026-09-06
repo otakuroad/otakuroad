@@ -15,7 +15,7 @@ export default defineConfig({
   ],
   i18n: {
     defaultLocale: 'ko',
-    locales: ['ko', 'en'],
+    locales: ['ko', 'en', 'ja'],
     routing: {
       prefixDefaultLocale: true,
       // Astro's own root redirect is a two-second meta refresh. src/pages/index.astro renders an

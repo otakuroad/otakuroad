@@ -22,7 +22,7 @@
   import { colorFor } from '@/lib/glyphs'
   import { hoursTable, todayRowIndex } from '@/lib/hours'
   import { JP_HOLIDAYS } from '@/data/holidays-jp'
-  import { t, type MessageKey } from '@/i18n'
+  import { pick, t, type MessageKey } from '@/i18n'
   import OpenPill from './OpenPill.svelte'
   import PhotoTile from './PhotoTile.svelte'
 
@@ -123,7 +123,7 @@
     <PhotoTile photo={shown?.photo ?? null} ofBuilding={shown?.fromBuilding?.name[app.locale] ?? null} kind={store.category} size="lg" />
     <div>
       <h3>{store.name[locale]}</h3>
-      <p class="ja">{store.name.ja}</p>
+      {#if locale !== 'ja'}<p class="ja">{store.name.ja}</p>{/if}
       <span class="cat">
         <i class="dot" style:background={colorFor(store.category)}></i>{categoryLabel(store.category, locale)}
       </span>
@@ -159,7 +159,7 @@
 
 <!-- half -->
 <div class="divider"></div>
-<p class="one-line">{store.one_line[locale]}</p>
+<p class="one-line">{pick(store.one_line, locale)}</p>
 
 {#if store.hours !== null}
   <h4 class="sect">{t(locale, 'section.hours')}</h4>
@@ -173,10 +173,10 @@
     {/each}
     {#if store.hours.regular_holiday}
       <span class="d">{t(locale, 'hours.regular_holiday')}</span>
-      <span>{store.hours.regular_holiday[locale]}</span>
+      <span>{pick(store.hours.regular_holiday, locale)}</span>
     {/if}
     {#if store.hours.note}
-      <span class="note">{store.hours.note[locale]}</span>
+      <span class="note">{pick(store.hours.note, locale)}</span>
     {/if}
     <span class="note">{t(locale, 'hours.source')} · {t(locale, 'meta.verified_at', { date: store.verified_at })}</span>
   </div>
@@ -218,7 +218,7 @@
   <div class="fg">
     {#each store.floor_guide as entry (entry.floor)}
       <span class="fl" class:r18={store.adult_content.floors.includes(entry.floor)}>{entry.floor}</span>
-      <span>{entry[locale]}</span>
+      <span>{pick(entry, locale)}</span>
     {/each}
   </div>
 {/if}
@@ -226,13 +226,13 @@
 <!-- full -->
 {#if store.how_to_find}
   <h4 class="sect">{t(locale, 'section.how_to_find')}</h4>
-  <p class="para">{store.how_to_find[locale]}</p>
+  <p class="para">{pick(store.how_to_find, locale)}</p>
 {/if}
 
-{#if store.tips && store.tips[locale].length > 0}
+{#if store.tips && pick(store.tips, locale).length > 0}
   <h4 class="sect">{t(locale, 'section.tips')}</h4>
   <ul class="tips">
-    {#each store.tips[locale] as tip, i (i)}
+    {#each pick(store.tips, locale) as tip, i (i)}
       <li>{tip}</li>
     {/each}
   </ul>

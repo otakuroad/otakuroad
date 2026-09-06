@@ -3,7 +3,7 @@
  * stays selectable in settings because it is the style with extruded buildings for the 3D view.
  *
  * Three changes:
- *  1. Labels prefer `name:ko` / `name:en` so a Korean visitor reads 秋葉原 as 아키하바라.
+ *  1. Labels prefer `name:ko` / `name:en` / `name:ja` so a Korean visitor reads 秋葉原 as 아키하바라.
  *  2. The basemap's own shop and POI symbols are hidden, so the only shop marks on the map are ours
  *     (PLAN §4.1 "베이스맵의 상점 라벨은 bbox 안에서 억제"). MapLibre filter expressions cannot test
  *     a feature's coordinates, so there is no way to scope this to the bbox from inside the style —
@@ -81,7 +81,9 @@ function localizedTextField(existing: unknown, locale: Locale): unknown {
   const preferred: unknown[] =
     locale === 'ko'
       ? [['get', 'name:ko'], ['get', 'name:en'], ['get', 'name:latin']]
-      : [['get', 'name:en'], ['get', 'name:latin']]
+      : locale === 'ja'
+        ? [['get', 'name:ja'], ['get', 'name']]
+        : [['get', 'name:en'], ['get', 'name:latin']]
   const fallback = existing === undefined || existing === null ? ['get', 'name'] : existing
   return ['coalesce', ...preferred, fallback, ['get', 'name']]
 }

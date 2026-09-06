@@ -1,3 +1,4 @@
+import { pick } from '@/i18n'
 /**
  * JSON-LD for the prerendered share pages (PLAN §4.3).
  *
@@ -87,7 +88,7 @@ export function storeJsonLd(store: Store, buildings: readonly Building[], locale
     url: pageUrl.href,
     name: store.name[locale],
     alternateName: [store.name.ja, store.name.en].filter((v) => v !== store.name[locale]),
-    description: store.one_line[locale],
+    description: pick(store.one_line, locale),
     image: absolute(store.photo?.url ?? null, site),
     address: postalAddress(store.address_ja),
     geo:

@@ -91,7 +91,9 @@
   <span class="mid">
     <span class="nm" bind:this={nameEl}>
       <span class="ko" bind:this={koEl}>{store?.name[app.locale] ?? building?.name[app.locale]}</span>
-      <small class="ja" bind:this={jaEl} hidden={!showJa}>{store?.name.ja ?? building?.name.ja}</small>
+      {#if app.locale !== 'ja'}
+        <small class="ja" bind:this={jaEl} hidden={!showJa}>{store?.name.ja ?? building?.name.ja}</small>
+      {/if}
     </span>
     <span class="sub2">
       <i class="dot" style:background={store === null ? colorFor('building') : colorFor(store.category)}></i>

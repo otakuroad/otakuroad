@@ -10,7 +10,7 @@
   import type { AppState } from '@/lib/app-state.svelte'
   import { openStateShort, openStateTone, reportErrorUrl } from '@/lib/format'
   import { colorFor } from '@/lib/glyphs'
-  import { t } from '@/i18n'
+  import { pick, t } from '@/i18n'
   import PhotoTile from './PhotoTile.svelte'
 
   interface Props {
@@ -51,13 +51,16 @@
     note: string | null
   }
 
+  const pickOrNull = (entry: { ko: string; en: string; ja?: string } | undefined): string | null =>
+    entry === undefined ? null : pick(entry, locale)
+
   const floorRows = $derived.by((): FloorRow[] =>
     [...building.floors]
       .sort((a, b) => floorRank(b) - floorRank(a))
       .map((floor) => ({
         floor,
         stores: tenants.filter((s) => s.floors.includes(floor)),
-        note: building.uncurated_floors.find((u) => u.floor === floor)?.[locale] ?? null,
+        note: pickOrNull(building.uncurated_floors.find((u) => u.floor === floor)),
       })),
   )
 </script>
@@ -73,7 +76,7 @@
     <PhotoTile photo={building.photo} kind="building" size="md" />
     <div>
       <h3>{building.name[locale]}</h3>
-      <p class="ja">{building.name.ja}</p>
+      {#if locale !== 'ja'}<p class="ja">{building.name.ja}</p>{/if}
     </div>
   </div>
 
@@ -130,12 +133,12 @@
 
 {#if building.hours_note}
   <h4 class="sect">{t(locale, 'building.hours_note')}</h4>
-  <p class="para">{building.hours_note[locale]}</p>
+  <p class="para">{pick(building.hours_note, locale)}</p>
 {/if}
 
 {#if building.exit_hint}
   <h4 class="sect">{t(locale, 'building.exit_hint')}</h4>
-  <p class="para">{building.exit_hint[locale]}</p>
+  <p class="para">{pick(building.exit_hint, locale)}</p>
 {/if}
 
 <h4 class="sect">{t(locale, 'section.address')}</h4>

@@ -1,6 +1,6 @@
 ---
 /**
- * `/{ko|en}/b/{id}` — the prerendered building page (PLAN §4.3).
+ * `/{ko|en|ja}/b/{id}` — the prerendered building page (PLAN §4.3).
  *
  * The floor stack is rendered top floor → B1F, the same order as the signboard outside and as the
  * sheet's directory, with curated tenants linking to their own pages and uncurated floors kept as
@@ -14,7 +14,7 @@ import Page from '@/layouts/Page.astro'
 import { indexBuildings, reportErrorUrl } from '@/lib/format'
 import { colorFor } from '@/lib/glyphs'
 import { buildingJsonLd } from '@/lib/schema-org'
-import { LOCALES, t, type Locale } from '@/i18n'
+import { LOCALES, pick, t, type Locale } from '@/i18n'
 
 export function getStaticPaths() {
   return LOCALES.flatMap((lang) =>
@@ -45,12 +45,15 @@ interface FloorRow {
   note: string | null
 }
 
+const pickOrNull = (entry: { ko: string; en: string; ja?: string } | undefined, locale: Locale): string | null =>
+  entry === undefined ? null : pick(entry, locale)
+
 const floorRows: FloorRow[] = [...building.floors]
   .sort((a, b) => floorRank(b) - floorRank(a))
   .map((floor) => ({
     floor,
     stores: tenants.filter((s) => s.floors.includes(floor)),
-    note: building.uncurated_floors.find((u) => u.floor === floor)?.[lang] ?? null,
+    note: pickOrNull(building.uncurated_floors.find((u) => u.floor === floor), lang),
   }))
 
 const title = `${building.name[lang]} — ${t(lang, 'app.title')}`
@@ -72,7 +75,7 @@ const jsonLd = buildingJsonLd(building, tenants, lang, pageUrl, site)
       <PhotoTile photo={building.photo} kind="building" size="lg" />
       <div>
         <h1>{building.name[lang]}</h1>
-        <p class="ja" lang="ja">{building.name.ja}</p>
+        {lang !== 'ja' && <p class="ja" lang="ja">{building.name.ja}</p>}
         <p class="alt">{t(lang, 'building.tenants', { count: tenants.length })}</p>
       </div>
     </div>
@@ -125,7 +128,7 @@ const jsonLd = buildingJsonLd(building, tenants, lang, pageUrl, site)
       building.hours_note && (
         <section>
           <h2>{t(lang, 'building.hours_note')}</h2>
-          <p class="body">{building.hours_note[lang]}</p>
+          <p class="body">{pick(building.hours_note, lang)}</p>
         </section>
       )
     }
@@ -134,7 +137,7 @@ const jsonLd = buildingJsonLd(building, tenants, lang, pageUrl, site)
       building.exit_hint && (
         <section>
           <h2>{t(lang, 'building.exit_hint')}</h2>
-          <p class="body">{building.exit_hint[lang]}</p>
+          <p class="body">{pick(building.exit_hint, lang)}</p>
         </section>
       )
     }

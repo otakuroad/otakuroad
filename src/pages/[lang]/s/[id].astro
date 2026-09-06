@@ -1,6 +1,6 @@
 ---
 /**
- * `/{ko|en}/s/{id}` — the prerendered store page (PLAN §4.3).
+ * `/{ko|en|ja}/s/{id}` — the prerendered store page (PLAN §4.3).
  *
  * Same content as the sheet card, rendered as standalone HTML so a shared link reads well on its own
  * and search engines can index it. No island: this page ships no MapLibre and no client JS.
@@ -24,7 +24,7 @@ import {
 } from '@/lib/format'
 import { colorFor } from '@/lib/glyphs'
 import { storeJsonLd } from '@/lib/schema-org'
-import { LOCALES, t, type Locale } from '@/i18n'
+import { LOCALES, pick, t, type Locale } from '@/i18n'
 
 export function getStaticPaths() {
   // Driven entirely by the generated dataset — new files under data/stores/ appear here for free.
@@ -49,7 +49,7 @@ const sameBuilding =
 const sameChain = store.chain === null ? [] : stores.filter((s) => s.chain === store.chain && s.id !== store.id)
 
 const title = `${store.name[lang]} — ${t(lang, 'app.title')}`
-const description = store.one_line[lang]
+const description = pick(store.one_line, lang)
 const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
 ---
 
@@ -76,7 +76,7 @@ const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
       <PhotoTile photo={shown?.photo ?? null} ofBuilding={shown?.fromBuilding?.name[lang] ?? null} kind={store.category} size="lg" />
       <div>
         <h1>{store.name[lang]}</h1>
-        <p class="ja" lang="ja">{store.name.ja}</p>
+        {lang !== 'ja' && <p class="ja" lang="ja">{store.name.ja}</p>}
         <p class="alt">{lang === 'ko' ? store.name.en : store.name.ko}</p>
         <a class="cat" href={`/${lang}/c/${store.category}`}>
           <i class="dot" style={`background:${colorFor(store.category)}`}></i>
@@ -97,7 +97,7 @@ const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
       )
     }
 
-    <p class="one">{store.one_line[lang]}</p>
+    <p class="one">{pick(store.one_line, lang)}</p>
 
     <div class="actions">
       <a class="cta" href={`/${lang}/?s=${store.id}`}>{t(lang, 'page.open_in_map')}</a>
@@ -136,7 +136,7 @@ const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
             {store.floor_guide.map((entry) => (
               <>
                 <dt class:list={{ r18: store.adult_content.floors.includes(entry.floor) }}>{entry.floor}</dt>
-                <dd>{entry[lang]}</dd>
+                <dd>{pick(entry, lang)}</dd>
               </>
             ))}
           </dl>
@@ -148,17 +148,17 @@ const jsonLd = storeJsonLd(store, buildings, lang, pageUrl, site)
       store.how_to_find && (
         <section>
           <h2>{t(lang, 'section.how_to_find')}</h2>
-          <p class="body">{store.how_to_find[lang]}</p>
+          <p class="body">{pick(store.how_to_find, lang)}</p>
         </section>
       )
     }
 
     {
-      store.tips && store.tips[lang].length > 0 && (
+      store.tips && pick(store.tips, lang).length > 0 && (
         <section>
           <h2>{t(lang, 'section.tips')}</h2>
           <ul class="tips">
-            {store.tips[lang].map((tip) => (
+            {pick(store.tips, lang).map((tip) => (
               <li>{tip}</li>
             ))}
           </ul>

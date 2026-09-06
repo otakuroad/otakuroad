@@ -40,8 +40,8 @@ You are re-verifying BUILDING records for otakuroad, a map of Akihabara subcultu
 
 ## Value rules
 - Floor labels: B1F, 1F … 10F, RF. \`floors\` is the full ordered list of the building's floors.
-- \`uncurated_floors\`: array of \`{ floor, ko, en }\`; Korean in 서술체, English plain. Give the complete new array when you change it.
-- Text fields \`hours_note\` and \`exit_hint\` are \`{ko, en}\` or null. Change prose only when it is wrong.
+- \`uncurated_floors\`: array of \`{ floor, ko, en, ja }\`; Korean in 서술체, English plain, Japanese です・ます調. Give the complete new array when you change it.
+- Text fields \`hours_note\` and \`exit_hint\` are \`{ko, en, ja}\` or null. Change prose only when it is wrong; when you do, give all three languages.
 - **Never change**: \`id\`, \`verified_at\`, \`source_urls\` (use \`add_source_urls\`), \`photo\`, \`osm_id\`, \`location\`.
 
 ## Result schema
@@ -50,7 +50,7 @@ You are re-verifying BUILDING records for otakuroad, a map of Akihabara subcultu
   "id": "<building id>",
   "verdict": "confirmed" | "corrected" | "unverifiable",
   "primary_read": ["<url>", "..."],
-  "changes": [ { "path": "uncurated_floors", "to": [ { "floor": "3F", "ko": "...", "en": "..." } ], "evidence_url": "<url>", "quote": "<verbatim>" } ],
+  "changes": [ { "path": "uncurated_floors", "to": [ { "floor": "3F", "ko": "...", "en": "...", "ja": "..." } ], "evidence_url": "<url>", "quote": "<verbatim>" } ],
   "add_source_urls": ["<primary url you read that is not yet in source_urls>"],
   "tenant_leads": [ { "store_id": "<curated store id or null>", "name_ja": "<shop name>", "floor": "<floor per the guide>", "issue": "different_floor" | "gone" | "renamed" | "new_candidate", "evidence_url": "<url>", "quote": "<verbatim>", "note": "<one sentence>" } ],
   "closure": null,

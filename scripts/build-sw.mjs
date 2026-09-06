@@ -25,7 +25,7 @@ const assets = walk(join(DIST, '_astro'))
   .map((f) => '/' + relative(DIST, f).split('\\').join('/'))
   .filter((p) => /\.(js|css|woff2?)$/.test(p))
   .sort()
-const shell = ['/ko/', '/en/', '/404.html', '/manifest.webmanifest', '/favicon.svg', '/icon-192.png', '/icon-512.png', '/icon-maskable-512.png', '/apple-touch-icon.png']
+const shell = ['/ko/', '/en/', '/ja/', '/404.html', '/manifest.webmanifest', '/favicon.svg', '/icon-192.png', '/icon-512.png', '/icon-maskable-512.png', '/apple-touch-icon.png']
 const precache = [...shell, ...assets]
 
 const build = createHash('sha256').update(precache.join('\n')).digest('hex').slice(0, 12)

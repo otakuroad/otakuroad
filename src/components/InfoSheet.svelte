@@ -11,7 +11,7 @@
   import { toTokyo } from '@/lib/hours'
   import { localizedHref } from '@/lib/url'
   import { APP_VERSION } from '@/lib/meta'
-  import { LOCALES, t } from '@/i18n'
+  import { LOCALES, LOCALE_NAMES, t } from '@/i18n'
 
   interface Props {
     app: AppState
@@ -145,7 +145,7 @@
             href={localizedHref(location.pathname, location.search, code)}
             hreflang={code}
           >
-            {code === 'ko' ? '한국어' : 'English'}
+            {LOCALE_NAMES[code]}
           </a>
         {/each}
       </div>

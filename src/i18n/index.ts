@@ -1,15 +1,25 @@
 import en from './en.json'
+import ja from './ja.json'
 import ko from './ko.json'
 
-export type Locale = 'ko' | 'en'
-export const LOCALES = ['ko', 'en'] as const satisfies readonly Locale[]
+export type Locale = 'ko' | 'en' | 'ja'
+export const LOCALES = ['ko', 'en', 'ja'] as const satisfies readonly Locale[]
 export const DEFAULT_LOCALE: Locale = 'ko'
 
-/** Every UI string key. `ko.json` is the reference; `en.json` must carry the same keys (checked by tsc). */
+/** The language switch and the 404 page name each locale in its own script. */
+export const LOCALE_NAMES: Record<Locale, string> = { ko: '한국어', en: 'English', ja: '日本語' }
+/** BCP 47 / Open Graph tags. */
+export const LOCALE_TAGS: Record<Locale, { bcp47: string; og: string }> = {
+  ko: { bcp47: 'ko-KR', og: 'ko_KR' },
+  en: { bcp47: 'en-US', og: 'en_US' },
+  ja: { bcp47: 'ja-JP', og: 'ja_JP' },
+}
+
+/** Every UI string key. `ko.json` is the reference; `en.json` and `ja.json` must carry the same keys (checked by tsc). */
 export type MessageKey = keyof typeof ko
 type Messages = Record<MessageKey, string>
 
-const MESSAGES: Record<Locale, Messages> = { ko, en }
+const MESSAGES: Record<Locale, Messages> = { ko, en, ja }
 
 export type Params = Record<string, string | number>
 
@@ -24,6 +34,14 @@ export function t(locale: Locale, key: MessageKey, params?: Params): string {
   return template.replace(/\{(\w+)\}/g, (match, name: string) =>
     Object.hasOwn(params, name) ? String(params[name]) : match,
   )
+}
+
+/**
+ * Text from a record's `{ko, en, ja?}` object. Korean and English are required by the schema;
+ * Japanese was added later (2026-09-06) and falls back to English until a record is translated.
+ */
+export function pick<T>(value: { ko: T; en: T; ja?: T }, locale: Locale): T {
+  return value[locale] ?? value.en
 }
 
 /** `/ko/s/foo` → 'ko'. Falls back to the default locale for unprefixed paths. */

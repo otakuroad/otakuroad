@@ -1,10 +1,10 @@
 # otakuroad
 
 **아키하바라 서브컬처 매장 지도** — 핀을 누르면 2초 안에 무슨 가게인지, 지금 여는지,
-어느 건물 몇 층인지가 보입니다. 한국어와 영어.
+어느 건물 몇 층인지가 보입니다. 한국어·영어·일본어.
 
 **A map of Akihabara's subculture shops.** Tap a pin and within two seconds you know what the shop
-sells, whether it is open right now, and exactly which building and floor it is in. Korean and English.
+sells, whether it is open right now, and exactly which building and floor it is in. Korean, English and Japanese.
 
 매장 408곳 · 복합 빌딩 34곳 · 폐점 목록 92건 · 모두 공식 페이지를 근거로 손으로 확인했습니다.
 408 shops, 34 multi-tenant buildings and 92 recorded closures, each checked by hand against a primary source.
@@ -34,7 +34,7 @@ No API keys, no backend, no account. Two commands.
 
 ```bash
 npm install
-npm run dev        # http://localhost:4321/ko/  (English: /en/)
+npm run dev        # http://localhost:4321/ko/  (English: /en/, 日本語: /ja/)
 ```
 
 ```bash

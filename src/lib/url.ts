@@ -5,6 +5,7 @@
  * back button is reserved for the sheet's breadcrumb (PLAN §6.3 "뒤로가기는 항상 한 단계").
  */
 import { CATEGORY_KEYS, type CategoryKey } from '@/data/categories'
+import { LOCALES, type Locale } from '@/i18n'
 
 export interface FilterQuery {
   categories: CategoryKey[]
@@ -59,10 +60,11 @@ export function readDeepLink(search: string): { kind: 'store' | 'building'; id: 
 }
 
 /** `/ko/…?c=…` → `/en/…?c=…`. Used by the language switch in the info sheet. */
-export function localizedHref(pathname: string, search: string, to: 'ko' | 'en'): string {
-  const rest = pathname.replace(/^\/(ko|en)(?=\/|$)/, '')
+export function localizedHref(pathname: string, search: string, to: Locale): string {
+  const rest = pathname.replace(LOCALE_PREFIX, '')
   return `/${to}${rest || '/'}${search}`
 }
+const LOCALE_PREFIX = new RegExp(`^/(${LOCALES.join('|')})(?=/|$)`)
 
 /** `?basemap=positron|liberty` — a share link that forces a basemap, used to compare styles on a phone. */
 export function readBasemapQuery(search: string): string | null {

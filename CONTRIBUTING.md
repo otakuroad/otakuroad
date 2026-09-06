@@ -82,7 +82,8 @@ npm run dev        # http://localhost:4321/ko/
   "category": "retro_game",                 // 10개 중 하나. src/data/categories.ts
   "one_line": {                             // 무엇을 파는 곳인지. 한국어 60자, 영어 90자 이내
     "ko": "3·4층은 중고 레트로 게임 소프트와 본체, 5층은 레트로 오락실",
-    "en": "Used retro game software and consoles on 3F-4F, a retro arcade on 5F"
+    "en": "Used retro game software and consoles on 3F-4F, a retro arcade on 5F",
+    "ja": "3・4階は中古レトロゲームソフトと本体、5階はレトロゲームセンター"  // 일본어는 선택. 없으면 영어로 표시
   },
   "building_id": null,                      // 복합 빌딩 입주면 건물 id, 아니면 null
   "floors": ["3F", "4F", "5F"],             // 일본식 표기. 1층은 1F, 지하 1층은 B1F
@@ -198,6 +199,8 @@ card so a visitor can judge for themselves how much to trust it.
   a duplicate pin on the map.
 - Adult-only shops are not listed. An R-18 floor inside a general shop is recorded as
   `adult_content: { "level": "floor", "floors": ["4F"] }`.
+- Text fields are `{ "ko", "en", "ja" }`. Korean and English are required; Japanese is optional and
+  the `/ja/` pages fall back to English until it is filled in.
 - Closing a shop is not just deleting the file — add it to `data/excluded.json` with a date and a
   source, so re-seeding from OpenStreetMap cannot bring it back.
 

@@ -39,6 +39,14 @@ describe('patchStyle', () => {
     expect(field).toContainEqual(['get', 'name:latin'])
   })
 
+  it('shows Japanese labels for the Japanese locale', () => {
+    const patched = patchStyle(style, 'ja')
+    const field = patched.layers.find((l) => l.id === 'place-city')?.layout?.['text-field'] as unknown[]
+    expect(field[0]).toBe('coalesce')
+    expect(field).toContainEqual(['get', 'name:ja'])
+    expect(field).not.toContainEqual(['get', 'name:ko'])
+  })
+
   it('does not mutate the input style', () => {
     const before = JSON.stringify(style)
     patchStyle(style, 'ko')

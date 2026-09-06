@@ -71,11 +71,11 @@ Every field you write must come from a source you actually read. The dataset's r
 - **A corner or feature inside a shop that already has a record** (a collaboration store inside animate or Gamers, a brand corner on a Yodobashi floor) is not a separate record: set \`"publish": false\` and describe in \`notes\` which existing record it belongs to.
 - \`name\`: ko / en / ja. Korean follows the glossary below (katakana brands get the established Korean rendering; otherwise a sensible transliteration). \`synonyms\`: 6–12 search aliases in ko/en/ja (spacing variants, romanizations, the building nickname).
 - \`category\`: one of the 10 keys. Sub-interests are \`tags\` (snake_case, prefer the vocabulary below).
-- \`one_line\`: what the shop is, in one sentence, ko and en. \`how_to_find\`: from the JR Electric Town Exit / the building entrance to the floor, ko and en. \`tips\`: 2–4 practical, sourced tips (ko list and en list of equal length).
-- \`hours\`: rules by day (\`hol\` when the source states 祝日), \`regular_holiday\`/\`note\` as \`{ko,en}\` or null, \`source_url\` = the primary page. Null when no primary page states hours.
+- \`one_line\`: what the shop is, in one sentence, ko, en and ja. \`how_to_find\`: from the JR Electric Town Exit / the building entrance to the floor, ko, en and ja. \`tips\`: 2–4 practical, sourced tips (ko, en and ja lists of equal length).
+- \`hours\`: rules by day (\`hol\` when the source states 祝日), \`regular_holiday\`/\`note\` as \`{ko,en,ja}\` or null, \`source_url\` = the primary page. Null when no primary page states hours.
 - Adult-only shops are not published (\`publish: false\`, say why). An R-18 corner inside a general shop → \`adult_content: { level: "floor", floors: [...] }\`.
 - \`priority\`: 3. \`confidence\`: high if a primary page states name+floor+hours; medium if only SNS; low if you had to leave hours and address unconfirmed. \`verified_at\`: "2026-09-06". \`source_urls\`: every primary page you read (≥1). \`osm_id\`: null. \`photo\`: omit.
-- Korean prose in 서술체 (no 존댓말), like the example. Do not copy the example's facts.
+- Korean prose in 서술체 (no 존댓말), like the example; Japanese in natural です・ます調 with the shop's own Japanese name. Do not copy the example's facts.
 
 ## Output — one file per lead at \`RESULTS_DIR/<lead id>.json\`
 \`\`\`json

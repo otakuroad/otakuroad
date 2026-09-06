@@ -1,7 +1,7 @@
 /* otakuroad service worker — offline map for a tourist without roaming (PLAN §9 M6).
  *
  * Three caches:
- *  - shell-<build>: the app shell precached at install (every hashed asset under /_astro/, the two
+ *  - shell-<build>: the app shell precached at install (every hashed asset under /_astro/, the three
  *    map pages, the manifest, icons, the 404 page). The list is filled in by scripts/build-sw.mjs
  *    after `astro build`; a new build gets a new cache and the old one is dropped on activate.
  *  - ofm: everything from tiles.openfreemap.org — style, TileJSON, sprites, glyphs and vector
@@ -110,7 +110,7 @@ self.addEventListener('fetch', (event) => {
     return
   }
   if (request.mode === 'navigate' || request.headers.get('accept')?.includes('text/html')) {
-    const lang = url.pathname.startsWith('/en/') ? 'en' : 'ko'
+    const lang = /^\/(en|ja)\//.exec(url.pathname)?.[1] ?? 'ko'
     event.respondWith(networkFirst(PAGES, request, `/${lang}/`))
   }
 })

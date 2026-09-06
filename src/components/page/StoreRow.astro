@@ -10,7 +10,7 @@ import type { Building, Store } from '@/data/schema'
 import { badgesFor, categoryLabel, locationLine, storePhoto } from '@/lib/format'
 import { colorFor } from '@/lib/glyphs'
 import { DEFAULT_ANCHOR } from '@/lib/geo'
-import type { Locale } from '@/i18n'
+import { pick, type Locale } from '@/i18n'
 
 interface Props {
   store: Store
@@ -29,13 +29,13 @@ const shown = storePhoto(store, buildings)
   <PhotoTile photo={shown?.photo ?? null} ofBuilding={shown?.fromBuilding?.name[lang] ?? null} kind={store.category} dim={store.status.state !== 'open'} />
   <span class="mid">
     <span class="nm">{store.name[lang]}</span>
-    <span class="ja" lang="ja">{store.name.ja}</span>
+    {lang !== 'ja' && <span class="ja" lang="ja">{store.name.ja}</span>}
     <span class="sub">
       <i class="dot" style={`background:${colorFor(store.category)}`}></i>
       {categoryLabel(store.category, lang)}
       {badges.map((badge) => <span class="mini">{badge.label}</span>)}
     </span>
-    <span class="one">{store.one_line[lang]}</span>
+    <span class="one">{pick(store.one_line, lang)}</span>
     <span class="where">{where}</span>
   </span>
 </a>

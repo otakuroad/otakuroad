@@ -7,7 +7,7 @@
  * the map at the matching state.
  */
 import Base from './Base.astro'
-import { LOCALES, t, type Locale } from '@/i18n'
+import { LOCALES, LOCALE_NAMES, LOCALE_TAGS, t, type Locale } from '@/i18n'
 
 interface Props {
   lang: Locale
@@ -41,7 +41,7 @@ const ogImage = image === null ? null : new URL(image, site).href
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={t(lang, 'app.title')} />
-    <meta property="og:locale" content={lang === 'ko' ? 'ko_KR' : 'en_US'} />
+    <meta property="og:locale" content={LOCALE_TAGS[lang].og} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
@@ -78,7 +78,7 @@ const ogImage = image === null ? null : new URL(image, site).href
         {
           LOCALES.map((code) => (
             <a class:list={['lang', { on: code === lang }]} href={`/${code}${path}`} hreflang={code}>
-              {code === 'ko' ? '한국어' : 'English'}
+              {LOCALE_NAMES[code]}
             </a>
           ))
         }

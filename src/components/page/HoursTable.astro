@@ -7,7 +7,7 @@
 import type { Hours } from '@/data/schema'
 import { hoursDayLabel } from '@/lib/format'
 import { hoursTable } from '@/lib/hours'
-import { t, type Locale } from '@/i18n'
+import { pick, t, type Locale } from '@/i18n'
 
 interface Props {
   hours: Hours
@@ -35,14 +35,14 @@ const rows = hoursTable(hours)
       hours.regular_holiday && (
         <tr>
           <th scope="row">{t(lang, 'hours.regular_holiday')}</th>
-          <td>{hours.regular_holiday[lang]}</td>
+          <td>{pick(hours.regular_holiday, lang)}</td>
         </tr>
       )
     }
   </tbody>
 </table>
 
-{hours.note && <p class="note">{hours.note[lang]}</p>}
+{hours.note && <p class="note">{pick(hours.note, lang)}</p>}
 <p class="note">
   {t(lang, 'hours.source')} · <a href={hours.source_url} rel="nofollow noopener">{hours.source_url}</a> ·
   {t(lang, 'meta.verified_at', { date: verifiedAt })}

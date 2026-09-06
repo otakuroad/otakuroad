@@ -5,10 +5,14 @@
  * astro.config.mjs and this page renders the redirect itself: an immediate meta refresh for clients
  * without JS, `location.replace` for everyone else (no history entry, so Back does not bounce here),
  * plus the canonical and noindex tags the generated page carried. Keep in sync with astro.config.mjs.
+ *
+ * With JS the redirect follows the browser language when it is one of ours (a Japanese phone lands
+ * on /ja/, an English one on /en/); everything else, and the no-JS fallback, goes to Korean.
  */
-import { DEFAULT_LOCALE } from '@/i18n'
+import { DEFAULT_LOCALE, LOCALES } from '@/i18n'
 
 const target = `/${DEFAULT_LOCALE}/`
+const locales: readonly string[] = LOCALES
 const canonical = new URL(target, Astro.site ?? Astro.url).href
 ---
 
@@ -20,8 +24,11 @@ const canonical = new URL(target, Astro.site ?? Astro.url).href
     <meta name="robots" content="noindex" />
     <link rel="canonical" href={canonical} />
     <title>otakuroad</title>
-    <script is:inline define:vars={{ target }}>
-      location.replace(target)
+    <script is:inline define:vars={{ target, locales }}>
+      const preferred = (navigator.languages || [navigator.language || ''])
+        .map((tag) => tag.slice(0, 2).toLowerCase())
+        .find((code) => locales.includes(code))
+      location.replace(preferred ? `/${preferred}/` : target)
     </script>
   </head>
   <body>

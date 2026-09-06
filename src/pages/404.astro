@@ -3,13 +3,14 @@
  * Not-found page. Cloudflare Pages serves /404.html with a real 404 status for any path that no
  * longer exists — until this file existed, a shop that had closed and been removed kept answering
  * 200 with the map shell, which search engines read as a live page. There is no locale in the URL
- * of a missing page, so both languages sit on one page and each links to its own map.
+ * of a missing page, so all three languages sit on one page and each links to its own map.
  */
-import { LOCALES, t } from '@/i18n'
+import { LOCALES, t, type Locale } from '@/i18n'
 import '@/styles/tokens.css'
 import '@/styles/global.css'
 
 const links = LOCALES.map((lang) => ({ lang, href: `/${lang}/`, label: t(lang, 'app.title') }))
+const MAP_LINK: Record<Locale, string> = { ko: '한국어 지도로', en: 'Open the map in English', ja: '日本語の地図へ' }
 ---
 
 <!doctype html>
@@ -18,7 +19,7 @@ const links = LOCALES.map((lang) => ({ lang, href: `/${lang}/`, label: t(lang, '
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="robots" content="noindex" />
-    <title>페이지를 찾을 수 없습니다 · Page not found — otakuroad</title>
+    <title>페이지를 찾을 수 없습니다 · Page not found · ページが見つかりません — otakuroad</title>
   </head>
   <body>
     <main class="nf">
@@ -31,9 +32,13 @@ const links = LOCALES.map((lang) => ({ lang, href: `/${lang}/`, label: t(lang, '
         <h2>This page does not exist</h2>
         <p>The address may have changed, or the shop has closed and been taken off the map. Look it up on the current map.</p>
       </section>
+      <section lang="ja">
+        <h2>このページはありません</h2>
+        <p>アドレスが変わったか、閉店して地図から外した店舗かもしれません。最新の地図で探し直してください。</p>
+      </section>
       <nav class="nf-links" aria-label="otakuroad">
         {links.map((l) => (
-          <a href={l.href} lang={l.lang}>{l.lang === 'ko' ? '한국어 지도로' : 'Open the map in English'}</a>
+          <a href={l.href} lang={l.lang}>{MAP_LINK[l.lang]}</a>
         ))}
       </nav>
     </main>

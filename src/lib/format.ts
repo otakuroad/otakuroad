@@ -6,7 +6,7 @@
  */
 import type { Building, Photo, Store } from '@/data/schema'
 import { CATEGORY_BY_KEY } from '@/data/categories'
-import { t, type Locale, type MessageKey } from '@/i18n'
+import { pick, t, type Locale, type MessageKey } from '@/i18n'
 import { walkingMinutes, type Anchor } from './geo'
 import { DAY_ORDER, type DayKey, type OpenState } from './hours'
 
@@ -98,7 +98,7 @@ export function statusBanner(store: Store, locale: Locale): { date: string | nul
   const note = store.status.note
   const state = store.status.state
   if (state === 'open' && !note) return null
-  const text = note ? note[locale] : state === 'open' ? '' : t(locale, `badge.${state}`)
+  const text = note ? pick(note, locale) : state === 'open' ? '' : t(locale, `badge.${state}`)
   return { date: store.status.effective_date ?? null, text }
 }
 
