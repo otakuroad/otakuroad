@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "DJ 부스를 개방한 지하 바. DJ 이벤트와 라이브가 열리는 크리에이터 공간",
-  "en": "Basement DJ bar with an open booth, hosting DJ events and live shows for creators"
+  "en": "Basement DJ bar with an open booth, hosting DJ events and live shows for creators",
+  "ja": "DJブースを開放する地下のバー。DJイベントやライブが開かれるクリエイターの場"
  },
  "building_id": null,
  "floors": [
@@ -56,7 +57,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, 지요다선 유시마역에서 도보 5분, JR 아키하바라역에서 도보 8분. 소토칸다 6초메(오카치마치 쪽 끝)의 모리사와 빌딩(森沢ビル) 지하 1층으로, 같은 블록의 아키하바라 갤럭시(6-15-11 닛토 빌딩)에서 몇 집 남쪽이다. 계단으로 지하에 내려간다.",
-  "en": "One minute from Tokyo Metro Ginza-line Suehirocho, five from Yushima on the Chiyoda line, eight from JR Akihabara. B1F of the Morisawa Building in Sotokanda 6-chome at the Okachimachi end, a few doors south of Akihabara Galaxy (6-15-11, Nitto Building). Take the stairs down."
+  "en": "One minute from Tokyo Metro Ginza-line Suehirocho, five from Yushima on the Chiyoda line, eight from JR Akihabara. B1F of the Morisawa Building in Sotokanda 6-chome at the Okachimachi end, a few doors south of Akihabara Galaxy (6-15-11, Nitto Building). Take the stairs down.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩1分、千代田線の湯島駅から徒歩5分、JR秋葉原駅から徒歩8分です。御徒町寄りの外神田6丁目にある森沢ビルのB1Fで、同じブロックの秋葉原Galaxy（6-15-11 日東ビル）から数軒南です。階段で地下に下ります。"
  },
  "tips": {
   "ko": [
@@ -72,6 +74,13 @@
    "Equipment is KEF Blade speakers, four CDJ-3000s and a DJM-A9, with a standing capacity of about 70.",
    "Weekdays 12:00-17:00 the DJ booth can be rented for practice: two to five hours, 2,200 yen an hour, up to four people, no eating or drinking inside the booth.",
    "It opened on 2025-05-11 and streams some events on Twitch (twitch.tv/iv_akihabara)."
+  ],
+  "ja": [
+   "営業時間は日によって変わります。イベントのない日もバーとして営業しますが、まったく休みの日（CLOSE）もあるので、公式のスケジュールページかX（@iv_akihabara）でその日の予定を先に確認してください。",
+   "バー営業は18:00-23:00と23:00-5:00の2つの枠に分かれ、どちらも入場料1,500円にドリンク2杯が付きます。この時間帯はDJブースを客に開放していて、自分で回すことができます。",
+   "機材は英国KEFのBladeスピーカーとCDJ-3000が4台、DJM-A9で、スタンディングの定員は約70人です。",
+   "平日12:00-17:00はDJ練習用のブース貸しを受け付けています。最低2時間・最大5時間、1時間2,200円、最大4人までで、ブースの中では飲食できません。",
+   "2025年5月11日に開業した店で、一部のイベントはTwitch（twitch.tv/iv_akihabara）で配信されます。"
   ]
  },
  "official_url": "https://iv-akiba.com/",

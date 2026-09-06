@@ -42,7 +42,8 @@
  ],
  "one_line": {
   "ko": "3층은 유희왕·포켓몬 싱글, 2층은 원피스·듀얼마스터즈와 무료 대전석 32석",
-  "en": "Yu-Gi-Oh and Pokemon singles on 3F; One Piece and Duel Masters with 32 duel seats on 2F"
+  "en": "Yu-Gi-Oh and Pokemon singles on 3F; One Piece and Duel Masters with 32 duel seats on 2F",
+  "ja": "3Fは遊戯王・ポケカ、2Fはワンピース・デュエマと対戦席32席"
  },
  "building_id": null,
  "floors": [
@@ -53,12 +54,14 @@
   {
    "floor": "2F",
    "ko": "듀얼마스터즈·원피스 카드·건담 카드게임·섀도우버스 에볼브 플레이용 싱글과 오리파, 무료 대전석 32석(원피스·포켓몬 공식 대회 개최)",
-   "en": "Duel Masters, One Piece, Gundam Card Game and Shadowverse Evolve play singles and oripa, plus a free 32-seat duel space hosting official One Piece and Pokemon events"
+   "en": "Duel Masters, One Piece, Gundam Card Game and Shadowverse Evolve play singles and oripa, plus a free 32-seat duel space hosting official One Piece and Pokemon events",
+   "ja": "デュエル・マスターズ、ワンピースカード、ガンダムカードゲーム、シャドウバース エボルヴのプレイ用シングルとオリパを扱い、無料の対戦席32席ではワンピースとポケモンの公認大会も開かれます。"
   },
   {
    "floor": "3F",
    "ko": "유희왕 OCG(일본판·해외판)와 포켓몬 카드 싱글·컬렉션 카드, 신탄 팩, 슬리브·덱케이스·플레이매트 등 서플라이, 매입 카운터",
-   "en": "Yu-Gi-Oh OCG (Japanese and overseas) and Pokemon card singles and collector cards, new-set packs, sleeves, deck cases and playmats, and the buyback counter"
+   "en": "Yu-Gi-Oh OCG (Japanese and overseas) and Pokemon card singles and collector cards, new-set packs, sleeves, deck cases and playmats, and the buyback counter",
+   "ja": "遊戯王OCG（日本語版・海外版）とポケモンカードのシングルやコレクションカード、新弾パック、スリーブ・デッキケース・プレイマットなどのサプライ、買取カウンターがあります。"
   }
  ],
  "location": {
@@ -92,11 +95,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "표시된 시간은 3층 기준. 2층은 한 시간 이른 21:00에 닫고(공식 X @card_spiral_2 안내), 2층 대전석은 20:40까지 쓸 수 있다. 매입 접수는 폐점 30분~1시간 전에 마감된다.",
-   "en": "These are the 3F hours. The 2F floor closes an hour earlier at 21:00 (per its own X account @card_spiral_2) and its duel seats are usable until about 20:40. Buyback intake stops 30-60 minutes before closing."
+   "en": "These are the 3F hours. The 2F floor closes an hour earlier at 21:00 (per its own X account @card_spiral_2) and its duel seats are usable until about 20:40. Buyback intake stops 30-60 minutes before closing.",
+   "ja": "表示している時間は3階のものです。2階は1時間早い21:00に閉まり（2階の公式X @card_spiral_2 の案内）、2階の対戦席は20:40ごろまで使えます。買取の受付は閉店の30分から1時間前に締め切られます。"
   },
   "source_url": "https://ameblo.jp/card-spiral/"
  },
@@ -112,7 +117,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽 정크도리(ジャンク通り)에 있는 세키네(関根) 빌딩. 도쿄메트로 스에히로초역 3번 출구에서 도보 2분, JR 아키하바라역 전기가 출구에서 도보 6분. 1층은 노란 간판의 잡화점 아키바오~ 8호점이고, 그 옆 공용 출입구에서 계단이나 엘리베이터로 2층·3층에 올라간다.",
-  "en": "The Sekine Building on Junk-dori, one block west of Chuo-dori: two minutes from Suehirocho station exit 3, six minutes from JR Akihabara's Electric Town Exit. The ground floor is the yellow-signed variety store Akibaoo No.8; use the shared entrance beside it and take the stairs or lift to 2F and 3F."
+  "en": "The Sekine Building on Junk-dori, one block west of Chuo-dori: two minutes from Suehirocho station exit 3, six minutes from JR Akihabara's Electric Town Exit. The ground floor is the yellow-signed variety store Akibaoo No.8; use the shared entrance beside it and take the stairs or lift to 2F and 3F.",
+  "ja": "中央通りから1本西のジャンク通りにある関根ビルです。東京メトロ末広町駅3番出口から徒歩2分、JR秋葉原駅電気街口から徒歩6分。1階は黄色い看板の雑貨店あきばお～八號店で、その隣の共用出入口から階段かエレベーターで2階・3階へ上がります。"
  },
  "tips": {
   "ko": [
@@ -128,6 +134,13 @@
    "3F stays open until 22:00, later than most card shops nearby; note that 2F shuts at 21:00.",
    "Cash, credit cards and UnionPay are accepted. Buyback rates for Pokemon cards are posted in advance on the shop's blog at ameblo.jp/card-spiral.",
    "The former 'Akihabara Ekimae' branch at Sotokanda 1-4-11 3F was merged into this building's 2F, so do not go to the old address."
+  ],
+  "ja": [
+   "タイトルごとに階が分かれています。遊戯王とポケモンは3階、ワンピース、デュエル・マスターズ、ガンダムカードゲームは2階なので、目当ての階に直接上がれば大丈夫です。",
+   "2階の対戦席32席は条件なしで無料に開放されており、ワンピースやポケモンの公認大会もここで開かれます。",
+   "3階は22:00まで営業しており、周辺のカードショップより遅くまで開いています。ただし2階は21:00に閉まります。",
+   "支払いは現金、クレジットカード、銀聯（ユニオンペイ）に対応しています。ポケモンカードの買取価格は店の公式ブログ（ameblo.jp/card-spiral）の買取表で事前に確認できます。",
+   "旧「秋葉原駅前店」（外神田1-4-11 3F）はこのビルの2階に統合されたので、古い住所へは行かないでください。"
   ]
  },
  "official_url": "https://www.card-spiral.jp/",

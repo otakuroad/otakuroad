@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "스에히로초 쪽 빌딩 2층의 에어소프트건 전문점. 도쿄마루이 신제품 예약과 커스텀 파츠를 갖췄다",
-  "en": "Airsoft gun specialist on the 2F of a Sotokanda 3-chome building, strong on Tokyo Marui pre-orders and custom parts"
+  "en": "Airsoft gun specialist on the 2F of a Sotokanda 3-chome building, strong on Tokyo Marui pre-orders and custom parts",
+  "ja": "外神田3丁目のビル2Fのエアガン専門店。東京マルイの新製品予約とカスタムパーツが充実"
  },
  "building_id": null,
  "floors": [
@@ -73,11 +74,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴 (공식 표기 「定休日：年中無休」)",
-   "en": "Open year-round (the store list states 定休日：年中無休)"
+   "en": "Open year-round (the store list states 定休日：年中無休)",
+   "ja": "年中無休です（店舗一覧には「定休日：年中無休」と記載されています）。"
   },
   "note": {
    "ko": "공식 표기는 「평일 11시~21시, 일요일·공휴일 11시~20시」로 토요일이 따로 적혀 있지 않다. 통신판매 안내도 같은 시간대를 쓴다",
-   "en": "The official wording is 'weekdays 11:00-21:00, Sundays and holidays 11:00-20:00' and never names Saturday separately; the mail-order page repeats the same two bands"
+   "en": "The official wording is 'weekdays 11:00-21:00, Sundays and holidays 11:00-20:00' and never names Saturday separately; the mail-order page repeats the same two bands",
+   "ja": "公式の表記は平日11:00〜21:00、日曜・祝日11:00〜20:00で、土曜については別に書かれていません。通信販売のページも同じ2つの時間帯を載せています。"
   },
   "source_url": "https://echigoya-tokyo.jp/user_data/shop"
  },
@@ -93,7 +96,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2~3분. JR 전기가 출구에서는 주오도리를 따라 북쪽으로 올라가다 소토칸다 3초메 뒷골목으로 들어간다. 昌徳ビル 2층이라 1층 입구에서 한 층 올라가야 하고, 같은 골목에 하드오프·호비오프 아키하바라점(3-8-1 YS빌딩)이 있다.",
-  "en": "Two or three minutes from Suehirocho station on the Ginza line; from the JR Electric Town Exit walk north along Chuo-dori and turn into the Sotokanda 3-chome back streets. It is one floor up at 外神田3-8-9 - Hard Off and Hobby Off Akihabara (3-8-1 YS Building) are on the same run of streets."
+  "en": "Two or three minutes from Suehirocho station on the Ginza line; from the JR Electric Town Exit walk north along Chuo-dori and turn into the Sotokanda 3-chome back streets. It is one floor up at 外神田3-8-9 - Hard Off and Hobby Off Akihabara (3-8-1 YS Building) are on the same run of streets.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩2〜3分、JRの電気街口からは中央通りを北へ進んで外神田3丁目の裏通りに入ります。外神田3-8-9の建物の1つ上の階にあり、同じ通り沿いにはハードオフ・ホビーオフ秋葉原店（3-8-1 YSビル）があります。"
  },
  "tips": {
   "ko": [
@@ -107,6 +111,12 @@
    "There is a dedicated 'Akihabara store & online only' sale section and a Tokyo Marui pre-order section, so some prices are store-specific.",
    "Airsoft gun bodies are function-checked in the shop as a rule before they are handed over.",
    "Phone and fax orders are taken (03-5289-7009 / fax 03-5289-7202); the chain also has Shinjuku, Yokohama and Kita-Kyushu branches."
+  ],
+  "ja": [
+   "平日と土曜は21:00まで、日曜・祝日だけ20:00に閉まり、定休日はありません。",
+   "「秋葉原店&ネット通販限定セール」のコーナーと東京マルイの新製品予約コーナーがあり、この店だけの価格が付く商品もあります。",
+   "エアガン本体は原則として店頭で動作確認をしてから引き渡されます。",
+   "電話・FAXでの注文も受け付けています（03-5289-7009／FAX 03-5289-7202）。新宿・横浜・北九州にも店舗があります。"
   ]
  },
  "photo": null,

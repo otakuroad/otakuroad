@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "중고 PC·태블릿·SIM프리 스마트폰과 게임기·게임 소프트, 수입 잡화를 파는 1층 매장",
-  "en": "Used PCs, tablets, SIM-free phones, game consoles and software, plus imported novelties"
+  "en": "Used PCs, tablets, SIM-free phones, game consoles and software, plus imported novelties",
+  "ja": "中古のPC・タブレット・SIMフリースマホ、ゲーム機・ソフト、輸入雑貨"
  },
  "building_id": "nippo-akiba-star-2",
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "2025년 4월 11일부터 매일 12:00-20:00, 연중무휴. 연말연시와 점내 개장 공사 때는 시간이 바뀌거나 하루 휴업하며, 공지는 공식 점포 페이지와 X(@jan_gle_akiba)에 올라온다.",
-   "en": "Daily 12:00-20:00, year-round, since 2025-04-11. Hours change over the New Year period and the shop closes for occasional refit days; notices go up on the official store page and on X (@jan_gle_akiba)."
+   "en": "Daily 12:00-20:00, year-round, since 2025-04-11. Hours change over the New Year period and the shop closes for occasional refit days; notices go up on the official store page and on X (@jan_gle_akiba).",
+   "ja": "2025年4月11日から毎日12:00-20:00で、年中無休です。年末年始や店内の改装工事のときは時間が変わったり1日休業したりすることがあり、告知は公式の店舗ページとX（@jan_gle_akiba）に出ます。"
   },
   "source_url": "https://jan-gle.jp/hpgen/HPB/entries/3.html"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 뒷골목, 츠쿠모 파소콘 본점 맞은편이자 히노야 카레 바로 옆 건물의 1층 노면 점포다. 같은 건물 2~4층은 트레카 매장 VALUABLE CARD TOKYO 아키하바라이므로, 카드 매장 아래 1층이라고 기억하면 찾기 쉽다.",
-  "en": "A street-level shop on the back street west of Chuo-dori, across from TSUKUMO's PC main store and right next to Hinoya Curry. The trading-card shop VALUABLE CARD TOKYO Akihabara occupies 2F-4F of the same building, so look for the ground floor under it."
+  "en": "A street-level shop on the back street west of Chuo-dori, across from TSUKUMO's PC main store and right next to Hinoya Curry. The trading-card shop VALUABLE CARD TOKYO Akihabara occupies 2F-4F of the same building, so look for the ground floor under it.",
+  "ja": "中央通り西側の裏通りにあり、ツクモパソコン本店の向かい、日乃屋カレーのすぐ隣の建物の1F路面店です。同じビルの2F〜4Fはトレカ店のVALUABLE CARD TOKYO 秋葉原なので、その下の1Fと覚えると見つけやすいです。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,12 @@
    "There is a buy-back counter with free appraisal and same-day cash payment; you can ask for a rough quote first over LINE (@jangleakiba), answered weekdays 11:00-19:00.",
    "Some imported SIM-free handsets lack Japan's giteki certification mark and are sold on the assumption they will be used abroad, so check the mark if you plan to use one in Japan.",
    "Despite the name, it is unrelated to the used-toy shop Jungle on 7F of Radio Kaikan and at Sotokanda 3-9-2; this one is run by Pastem Saison Co., Ltd."
+  ],
+  "ja": [
+   "チェーンの主力は中古のノートパソコンやタブレット、SIMフリースマホですが、この店はゲーム機とゲームソフト（新品の特価品を含む）、輸入雑貨、安価なiPhoneケースの比重が大きいです。",
+   "無料査定のうえその場で現金を払う買取カウンターがあります。来店前にLINE（@jangleakiba）でおおよその買取価格を聞くことができ、返答は平日11:00-19:00です。",
+   "輸入されたSIMフリー端末には日本の技適マークがない製品があり、会社側も国外での使用を前提に販売しています。日本で使うつもりなら技適マークの有無を確認してください。",
+   "名前が同じだけで、ラジオ会館7Fや外神田3-9-2の中古玩具店ジャングルとは別の会社（株式会社パステムセゾン）です。"
   ]
  },
  "official_url": "https://jan-gle.jp/hpgen/HPB/entries/3.html",

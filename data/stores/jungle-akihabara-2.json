@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "중고 피규어·초합금 로봇·소프비·특촬 완구·프라모델·토이건 매입 판매점",
-  "en": "Used figures, chogokin robots, sofubi, tokusatsu toys, model kits and toy guns"
+  "en": "Used figures, chogokin robots, sofubi, tokusatsu toys, model kits and toy guns",
+  "ja": "中古のフィギュア・超合金ロボット・ソフビ・特撮玩具・プラモデル・トイガン"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -74,11 +75,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일 12:00, 토·일·공휴일 11:00 개점으로 건물(10:00)보다 늦다.",
-   "en": "Opens at 12:00 on weekdays and 11:00 at weekends and holidays, later than the building's 10:00."
+   "en": "Opens at 12:00 on weekdays and 11:00 at weekends and holidays, later than the building's 10:00.",
+   "ja": "平日は12:00、土日祝は11:00の開店で、建物の10:00より遅めです。"
   },
   "source_url": "https://jungle-scs.co.jp/?page_id=21"
  },
@@ -94,7 +97,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 7F. 아존 레이블숍·DOLK 등 돌 매장과 트레카파크가 같은 층이며, 정글은 초합금·소프비·특촬 완구 쇼케이스가 늘어선 구역이다. 건물 층안내에는 아직 옛 이름인 'ジャングル秋葉原２号店'으로 표기돼 있다.",
-  "en": "Radio Kaikan 7F, sharing the floor with the doll shops Azone Label Shop and DOLK and with Treca Park. Jungle is the section lined with chogokin, sofubi and tokusatsu toy showcases; the building's own directory still lists it under the old name ジャングル秋葉原２号店."
+  "en": "Radio Kaikan 7F, sharing the floor with the doll shops Azone Label Shop and DOLK and with Treca Park. Jungle is the section lined with chogokin, sofubi and tokusatsu toy showcases; the building's own directory still lists it under the old name ジャングル秋葉原２号店.",
+  "ja": "秋葉原ラジオ会館の7Fです。アゾンレーベルショップ秋葉原やDOLK 秋葉原ラジオ会館店といったドール店、ふるいちトレカパークAKIBAラジ館店と同じフロアで、ジャングルは超合金・ソフビ・特撮玩具のショーケースが並ぶ区画です。建物のフロアガイドには、今も旧店名のジャングル秋葉原２号店と表記されています。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,11 @@
    "The shop trades mainly in used toys, mixing Showa-era chogokin with recent tokusatsu and robot toys; check the price tag and condition grade on each showcase item.",
    "Both Akihabara branches were suspended from 2025-11-16, and this one reopened on 2025-12-16 under the name JUNGLE AKIBA; the chain's own store list now shows it trading year-round.",
    "It is a separate shop from Jungle Akihabara No.1 on 1F of the Suehiro Building at Sotokanda 3-9-2."
+  ],
+  "ja": [
+   "中古玩具の買取・販売が中心で、昭和の超合金から最近の特撮・ロボット玩具まで世代が混ざっています。ショーケースの値札と状態のランクを確認してください。",
+   "2025年11月16日から秋葉原の1号店・2号店が休業していましたが、この店舗は2025年12月16日にJUNGLE AKIBAという名前で再開しました。公式の店舗一覧では年中無休で営業中です。",
+   "外神田3-9-2 末広ビル1Fのジャングル 秋葉原1号店とは別の店舗です。"
   ]
  },
  "official_url": "https://jungle-scs.co.jp/?page_id=21",

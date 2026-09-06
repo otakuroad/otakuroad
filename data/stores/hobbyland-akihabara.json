@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "1층은 건프라와 도료·공구, 2층은 자동차·로봇 프라모델을 파는 프라모델점",
-  "en": "Gunpla with paints and tools on 1F, car and robot model kits on 2F"
+  "en": "Gunpla with paints and tools on 1F, car and robot model kits on 2F",
+  "ja": "1Fはガンプラと塗料・工具、2Fはカー・ロボット系のプラモデル"
  },
  "building_id": null,
  "floors": [
@@ -42,12 +43,14 @@
   {
    "floor": "1F",
    "ko": "절반은 건프라, 나머지 절반은 도료·접착제·니퍼 등 제작용 공구 코너",
-   "en": "Half the floor is Gunpla, the other half is paints, glue, nippers and other modelling tools"
+   "en": "Half the floor is Gunpla, the other half is paints, glue, nippers and other modelling tools",
+   "ja": "半分がガンプラ、残り半分が塗料や接着剤、ニッパーなどの製作用工具のコーナーです。"
   },
   {
    "floor": "2F",
    "ko": "자동차 프라모델과 건담 이외의 로봇 프라모델, 해외 한정 키트",
-   "en": "Car model kits and non-Gundam robot kits, plus overseas-limited kits"
+   "en": "Car model kits and non-Gundam robot kits, plus overseas-limited kits",
+   "ja": "カーモデルとガンダム以外のロボット系プラモデル、海外限定キットのフロアです。"
   }
  ],
  "location": {
@@ -69,7 +72,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 스에히로초역 3번 출구에서 도보 2분, 주오도리 한 블록 서쪽 '잔크도리'(ジャンク通り) 중간. 길 건너편이 하드오프·호비오프라서 그 맞은편 건물 1층 유리문을 보면 된다. 슈퍼포테이토 방향에서 북쪽으로 걸어 올라오면 오른편.",
-  "en": "Two minutes from Tokyo Metro Suehirocho exit 3, halfway along 'Junk Street' one block west of Chuo-dori. Hard Off and Hobby Off face it from across the street, so aim for those and cross over to the ground-floor glass front opposite."
+  "en": "Two minutes from Tokyo Metro Suehirocho exit 3, halfway along 'Junk Street' one block west of Chuo-dori. Hard Off and Hobby Off face it from across the street, so aim for those and cross over to the ground-floor glass front opposite.",
+  "ja": "東京メトロ末広町駅3番出口から徒歩2分、中央通りから1本西に入ったジャンク通りの中ほどです。通りの向かい側にハードオフとホビーオフがあるので、それを目印に道を渡り、真向かいの1Fのガラス張りの店舗を目指してください。"
  },
  "tips": {
   "ko": [
@@ -83,6 +87,12 @@
    "2F is the car and robot kit floor and mixes in overseas-limited kits that never reach normal Japanese retail.",
    "It opened in 2023 as cash-only and map listings now show PayPay; card acceptance is unconfirmed, so bring cash.",
    "Hard Off and Hobby Off are directly across the street, so you can compare used and new stock in one stop."
+  ],
+  "ja": [
+   "1Fの奥半分が塗料・工具のコーナーで、ガンプラそのものの在庫より製作用品を目当てに来る人が多く、塗装道具を一度にそろえたいときに便利です。",
+   "2Fはカーモデルとロボット系プラモデルのフロアで、日本の一般流通に乗らない海外限定キットが混ざっていることがあります。",
+   "2023年の開店当初は現金のみで、今は地図サービスにPayPayの表記があります。カード決済の可否は確認できていないので、現金を用意しておくと安心です。",
+   "真向かいがハードオフとホビーオフなので、中古と新品をまとめて見比べられます。"
   ]
  },
  "official_url": null,

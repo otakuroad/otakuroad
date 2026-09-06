@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "2001년 개업한 최초의 상설 메이드카페. 모에 연출 없이 홍차·카레·케이크를 파는 조용한 찻집",
-  "en": "First permanent maid cafe (2001); a quiet classical tearoom with tea, curry and cake."
+  "en": "First permanent maid cafe (2001); a quiet classical tearoom with tea, curry and cake.",
+  "ja": "2001年開業の初の常設メイドカフェ。萌え演出のない静かな紅茶とカレー、ケーキの店"
  },
  "building_id": "onoden-honkan",
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴 (연 2회 재고조사 휴업)",
-   "en": "None, apart from two stocktaking closures a year"
+   "en": "None, apart from two stocktaking closures a year",
+   "ja": "年中無休（年2回の棚卸し休業あり）"
   },
   "note": {
    "ko": "요일·공휴일 구분 없이 같은 시간. 음식 라스트오더 19:00, 음료 라스트오더 19:30. 같은 층의 지스토어 아키바는 10:00~20:00로 카페보다 한 시간 일찍 연다. 2026년 10월 5~6일은 재고조사 휴업, 9월 14일은 촬영으로 16:00 마감(음식 LO 15:00·음료 LO 15:30)처럼 하루짜리 단축 영업이 종종 있으니 공식 뉴스 페이지를 먼저 볼 것.",
-   "en": "Same hours every day including public holidays; last order 19:00 for food, 19:30 for drinks. Gee!Store Akiba on the same floor opens an hour earlier, 10:00-20:00. Closed 5-6 October 2026 for stocktaking, and single days are cut short for filming or events (14 September 2026 closes at 16:00, food LO 15:00 / drink LO 15:30), so check the official news page first."
+   "en": "Same hours every day including public holidays; last order 19:00 for food, 19:30 for drinks. Gee!Store Akiba on the same floor opens an hour earlier, 10:00-20:00. Closed 5-6 October 2026 for stocktaking, and single days are cut short for filming or events (14 September 2026 closes at 16:00, food LO 15:00 / drink LO 15:30), so check the official news page first.",
+   "ja": "曜日や祝日を問わず同じ営業時間で、ラストオーダーはフードが19:00、ドリンクが19:30です。同じフロアのジーストア・アキバは10:00〜20:00と1時間早く開きます。2026年10月5〜6日は棚卸しで休業、9月14日は撮影のため16:00閉店（フードLO 15:00・ドリンクLO 15:30）といった1日単位の短縮営業もあるので、まず公式のニュースページを確認してください。"
   },
   "source_url": "https://www.curemaid.jp/information"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 약 2분. 라디오회관 앞을 지나 주오도리를 건너면 바로 앞이 'オノデン(오노덴)' 간판을 단 가전 양판점 오노덴 본관이고, 그 4층이다. 1층 매장으로 들어가 건물 엘리베이터로 4F에 올라가면 굿즈·코스프레 숍 지스토어 아키바 안이며, 카페 입구와 정리권 발권 태블릿은 그 안쪽에 있다. 2020년까지 쓰던 옛 주소(외신다 3-15-5 지스토어 6층)로 가지 않도록 주의.",
-  "en": "About two minutes west of the JR Akihabara Electric Town Exit: pass Radio Kaikan, cross Chuo-dori, and the electronics store under the オノデン (Onoden) sign is straight ahead - the cafe is on its 4F. Enter the 1F shop floor and take the building lift to 4F, where you step out inside the Gee!Store Akiba goods and cosplay shop; the cafe entrance and the numbered-ticket tablet are at the back of it. Do not use the pre-2020 address in Sotokanda 3-15-5."
+  "en": "About two minutes west of the JR Akihabara Electric Town Exit: pass Radio Kaikan, cross Chuo-dori, and the electronics store under the オノデン (Onoden) sign is straight ahead - the cafe is on its 4F. Enter the 1F shop floor and take the building lift to 4F, where you step out inside the Gee!Store Akiba goods and cosplay shop; the cafe entrance and the numbered-ticket tablet are at the back of it. Do not use the pre-2020 address in Sotokanda 3-15-5.",
+  "ja": "JR秋葉原駅の電気街口から西へ徒歩2分ほどです。ラジオ会館の前を通って中央通りを渡ると、正面がオノデンの看板を掲げた家電量販店のオノデン本館で、カフェはその4Fにあります。1Fの売り場から入って建物のエレベーターで4Fに上がると、そこはグッズ・コスプレショップのジーストア・アキバの中で、カフェの入口と整理券発券用のタブレットはその奥にあります。2020年まで使っていた外神田3-15-5の旧住所へ行かないよう注意してください。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,12 @@
    "Seat reservations are for holders of a valid Supporter Card only: at least 2 days ahead, once a week per person, up to 4 people, in 30-minute slots between 11:00 and 19:00, with a 90-minute limit when the cafe is busy",
    "The point of this place is that it skips the 'moe' service and runs like a quiet tearoom: Victorian long-skirt uniforms, a long tea list, the tie-up Champion Curry, omurice and cakes",
    "Anime and game collaboration cafes run year-round and take over the menu and bonus goods while they last. The same floor has ENTAS CURE TERRACE, an eat-in space with power sockets and USB ports for customers who buy a drink"
+  ],
+  "ja": [
+   "混雑時は整理券制に切り替わります。建物の近くでLINEのミニアプリmatocaから10:30、店頭のタブレットからは11:00（コラボ初日などは10:30）に発券し、整理券1枚につき4名まで入店できます。",
+   "席の予約は有効期限内のサポーターカードをお持ちの方限定です。2日前まで、1人につき週1回、最大4名で、11:00〜19:00の間に30分単位で受け付け、混雑時の利用時間は90分までとなります。",
+   "萌えの接客をせず静かな喫茶店のように営むのがこの店の性格です。ヴィクトリアン調のロングスカートのメイド服での接客に、豊富な紅茶、提携メニューのチャンピオンカレー、オムライスやケーキが看板です。",
+   "アニメやゲームのコラボカフェを年間を通して開催しており、期間中はコラボメニューと特典グッズが中心になります。同じフロアにはドリンクを購入した人が使えるイートインスペースのENTAS CURE TERRACEがあり、コンセントとUSBポートを利用できます。"
   ]
  },
  "official_url": "https://www.curemaid.jp/",

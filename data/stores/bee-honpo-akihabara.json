@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬 등 컬렉션 카드 싱글과 매입, 듀얼 스페이스와 대회 있음",
-  "en": "Yu-Gi-Oh and Pokemon collection-grade singles, buyback, plus a duel space and tournaments"
+  "en": "Yu-Gi-Oh and Pokemon collection-grade singles, buyback, plus a duel space and tournaments",
+  "ja": "遊戯王・ポケモンのコレクション向けシングルと買取、デュエルスペースと大会あり"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 페이지와 공식 X 프로필 모두 평일 12:00-20:00, 토·일·공휴일 11:00-20:00로 같다. 공식은 연중무휴라고 적지만 카드숍 디렉터리에는 부정기 휴무로 올라 있다.",
-   "en": "The official page and the shop's X profile both give 12:00-20:00 on weekdays and 11:00-20:00 on weekends and holidays. The shop says it is open year-round, though card-shop directories list irregular closing days."
+   "en": "The official page and the shop's X profile both give 12:00-20:00 on weekdays and 11:00-20:00 on weekends and holidays. The shop says it is open year-round, though card-shop directories list irregular closing days.",
+   "ja": "公式ページも店舗の公式Xのプロフィールも、平日12:00〜20:00、土日・祝日11:00〜20:00としています。店は年中無休としていますが、カードショップの情報サイトには不定休と掲載されています。"
   },
   "source_url": "https://llalf.hp.peraichi.com/"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "가장 가까운 역은 도쿄메트로 긴자선 스에히로초역으로 약 400m이고, 오차노미즈역에서 약 700m, JR 아키하바라역에서 약 800m다. 철도 모형점 포폰데타(소토칸다 3-3-3)와 미니카·프라모델 가게 차토라가 있는 블록의 요시이빌딩 6층으로, 엘리베이터로 올라가는 상층 매장이라 길에서는 간판만 보인다.",
-  "en": "The nearest station is Suehirocho on the Ginza line, about 400 m away; Ochanomizu is about 700 m and JR Akihabara about 800 m. It stands in the block that holds the model-train shop Popondetta (Sotokanda 3-3-3), on 6F of the Yoshii Building, an upper-floor shop reached by elevator, so only its sign is visible from the street."
+  "en": "The nearest station is Suehirocho on the Ginza line, about 400 m away; Ochanomizu is about 700 m and JR Akihabara about 800 m. It stands in the block that holds the model-train shop Popondetta (Sotokanda 3-3-3), on 6F of the Yoshii Building, an upper-floor shop reached by elevator, so only its sign is visible from the street.",
+  "ja": "最寄りは銀座線の末広町駅で約400m、御茶ノ水駅からは約700m、JR秋葉原駅からは約800mです。鉄道模型店のポポンデッタ 秋葉原店（外神田3-3-3）があるブロックのヨシヰビル6Fで、エレベーターで上がる上階の店舗のため通りからは看板しか見えません。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "There is a duel space and the official page carries a tournament-information section; the seat count and usage conditions are not stated officially.",
    "Cash plus credit cards (JCB, VISA, Mastercard, AMEX, Diners, Discover), transit IC and QR payments (PayPay, au PAY, LINE Pay) are accepted.",
    "Phone: 03-6260-7160."
+  ],
+  "ja": [
+   "プレイ用よりも状態のよいコレクター向けのカードに強く、遊戯王OCG、ポケモン、旧裏面のポケモンカード、海外版の遊戯王を扱っています。",
+   "デュエルスペースがあり、公式ページには大会情報のコーナーがあります。席数や利用条件は公式には示されていません。",
+   "現金のほかクレジットカード（JCB・VISA・Mastercard・AMEX・Diners・Discover）、交通系IC、QR決済（PayPay・au PAY・LINE Pay）が使えます。",
+   "電話番号は03-6260-7160です。"
   ]
  },
  "official_url": "https://llalf.hp.peraichi.com/",

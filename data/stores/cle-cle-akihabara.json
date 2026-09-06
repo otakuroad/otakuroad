@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "탐탐이 운영하는 중고 호비 전문점. 7층 철도모형·다이캐스트, 8층 렌탈 레이아웃",
-  "en": "TamTam's used hobby shop: model trains and die-cast on 7F, rental layouts on 8F"
+  "en": "TamTam's used hobby shop: model trains and die-cast on 7F, rental layouts on 8F",
+  "ja": "タムタムが運営する中古ホビー専門店、7Fは鉄道模型とダイキャスト、8Fはレンタルレイアウト"
  },
  "building_id": "shioda-tour-akihabara-building",
  "floors": [
@@ -49,12 +50,14 @@
   {
    "floor": "7F",
    "ko": "중고 철도모형(N·HO게이지), 버스컬렉션, 다이캐스트 미니카, RC, 프라모델, 피규어, 에어소프트 용품과 매입 카운터",
-   "en": "Used model trains (N and HO gauge), BusCollection, die-cast cars, RC, plastic kits, figures and airsoft gear, plus the buyback counter"
+   "en": "Used model trains (N and HO gauge), BusCollection, die-cast cars, RC, plastic kits, figures and airsoft gear, plus the buyback counter",
+   "ja": "中古の鉄道模型（N・HOゲージ）、バスコレクション、ダイキャストミニカー、RC、プラモデル、フィギュア、エアソフト用品と買取カウンターがあります。"
   },
   {
    "floor": "8F",
    "ko": "렌탈 레이아웃 AKIBA — N게이지 9선·HO게이지 6선, 15량 편성까지 주행 가능",
-   "en": "Rental Layout AKIBA: nine N-gauge and six HO-gauge lines, long enough to run 15-car formations"
+   "en": "Rental Layout AKIBA: nine N-gauge and six HO-gauge lines, long enough to run 15-car formations",
+   "ja": "レンタルレイアウトAKIBAです。Nゲージ9線とHOゲージ6線があり、15両編成まで走らせられます。"
   }
  ],
  "location": null,
@@ -79,11 +82,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입 접수와 8층 렌탈 레이아웃 예약은 19:00에 마감된다.",
-   "en": "Buyback intake and 8F rental-layout reservations close at 19:00."
+   "en": "Buyback intake and 8F rental-layout reservations close at 19:00.",
+   "ja": "買取の受付と8階のレンタルレイアウトの予約は19:00で締め切られます。"
   },
   "source_url": "https://clecle.me/shop"
  },
@@ -99,7 +104,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 스에히로초 교차점 조금 못 미친 塩田トゥール秋葉原 빌딩. 같은 건물 3층은 헬냐숍, 6층은 옐로서브마린 RPG숍이다. 엘리베이터로 7층 매장에 올라가고 렌탈 레이아웃은 한 층 위 8층. 긴자선 스에히로초역에서 도보 2분, JR 아키하바라역에서 도보 10분.",
-  "en": "The Shioda Tour Akihabara building on the east side of Chuo-dori, just short of the Suehirocho crossing; Hellnya Shop is on 3F and the Yellow Submarine RPG Shop on 6F. Take the lift to the 7F shop, with the rental layout one floor up on 8F. Two minutes from Suehirocho Station on the Ginza line, ten from JR Akihabara."
+  "en": "The Shioda Tour Akihabara building on the east side of Chuo-dori, just short of the Suehirocho crossing; Hellnya Shop is on 3F and the Yellow Submarine RPG Shop on 6F. Take the lift to the 7F shop, with the rental layout one floor up on 8F. Two minutes from Suehirocho Station on the Ginza line, ten from JR Akihabara.",
+  "ja": "中央通り東側、末広町交差点の少し手前にある塩田トゥール秋葉原ビルです。同じビルの3階はヘルニャーショップ秋葉原 中央通り店、6階はイエローサブマリン 秋葉原RPGショップです。エレベーターで7階の売り場へ上がり、レンタルレイアウトはその1つ上の8階です。銀座線末広町駅から徒歩2分、JR秋葉原駅から徒歩10分です。"
  },
  "tips": {
   "ko": [
@@ -113,6 +119,12 @@
    "The 8F rental layout is 1,000 yen an hour on weekdays and 1,300 yen at weekends and on public holidays; book at the 7F counter.",
    "Model trains in N and HO gauge dominate; for new stock go to the same company's TamTam Akihabara at Sotokanda 6-14-2.",
    "Cash, credit cards and PayPay, au PAY, d-barai, Rakuten Pay and MerPay are accepted."
+  ],
+  "ja": [
+   "棚に並ぶ商品はすべてこの店が店頭で買い取ったもので、買取の受付は11:00-19:00です。",
+   "8階のレンタルレイアウトは平日1時間1,000円、土日・祝日は1,300円で、予約は7階のカウンターで受け付けています。",
+   "鉄道模型（N・HOゲージ）の比重が最も大きく、新品を探すなら同じ会社のホビーショップ タムタム 秋葉原店（外神田6-14-2）へどうぞ。",
+   "現金のほか、クレジットカードとPayPay・au PAY・d払い・楽天ペイ・メルペイが使えます。"
   ]
  },
  "official_url": "https://clecle.me/",

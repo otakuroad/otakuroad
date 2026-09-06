@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "중고 게임기·게임 소프트와 정크 부품, 오디오·카메라를 파는 리사이클 매장",
-  "en": "Reuse shop for used consoles, game software, junk parts, audio gear and cameras"
+  "en": "Reuse shop for used consoles, game software, junk parts, audio gear and cameras",
+  "ja": "中古ゲーム機・ソフトやジャンクパーツ、オーディオ・カメラを扱うリサイクルショップ"
  },
  "building_id": null,
  "floors": [
@@ -67,7 +68,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://www.hardoff.co.jp/shop/detail/?p=101104"
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리의 스미토모부동산 아키하바라 빌딩(벨살) 뒤편 골목(속칭 정크 거리)으로 돌아가 만다라케 컴플렉스 옆 1호점을 지나 150m쯤 더 북쪽으로 걸으면 나오는 YS빌딩. 지하 1층~2층이 하드오프다.",
-  "en": "Take the back street behind the Sumitomo Fudosan Akihabara Building (Bellesalle) on Chuo-dori - the junk street - pass Store 1 next to Mandarake Complex and carry on about 150 m north to the YS Building. Hard Off occupies B1F to 2F."
+  "en": "Take the back street behind the Sumitomo Fudosan Akihabara Building (Bellesalle) on Chuo-dori - the junk street - pass Store 1 next to Mandarake Complex and carry on about 150 m north to the YS Building. Hard Off occupies B1F to 2F.",
+  "ja": "中央通りの住友不動産秋葉原ビル（ベルサール秋葉原）の裏手、通称ジャンク通りに入り、まんだらけコンプレックス隣の1号店を過ぎて北へ150mほど進むとYSビルがあります。ハードオフはB1F〜2Fです。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,12 @@
    "Floors 3F-4F of the same building are Hobby Off, a separate shop for used figures and toys (tel 03-6260-9268).",
    "Consoles, game software, instruments and cameras are the categories they most want to buy; selling requires photo ID.",
    "There is no car park, and the official page says nothing about cards or tax-free service."
+  ],
+  "ja": [
+   "入口を入って最初のガラスケースがレトロゲームのコーナーで、ジャンクコーナーにもソフトが並びます。",
+   "同じ建物の3〜4Fは、中古のフィギュアや玩具を扱う別店舗のホビーオフ秋葉原店（電話03-6260-9268）です。",
+   "ゲーム機・ゲームソフト、楽器、カメラは買取強化品目です。買取には身分証が必要です。",
+   "専用の駐車場はなく、決済手段や免税の対応も公式ページには記載がありません。"
   ]
  },
  "official_url": "https://www.hardoff.co.jp/shop/detail/?p=101104",

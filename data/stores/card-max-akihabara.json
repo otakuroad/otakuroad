@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·듀얼마스터즈 등 TCG 싱글 판매·매입과 오리지널 쿠지",
-  "en": "TCG singles and buyback plus shop-original card lotteries, on the third floor"
+  "en": "TCG singles and buyback plus shop-original card lotteries, on the third floor",
+  "ja": "TCGシングルの販売・買取とオリジナルくじを扱う3階の店"
  },
  "building_id": null,
  "floors": [
@@ -76,7 +77,8 @@
   ],
   "regular_holiday": {
    "ko": "월요일 (월요일이 공휴일이면 영업)",
-   "en": "Mondays (open when Monday is a public holiday)"
+   "en": "Mondays (open when Monday is a public holiday)",
+   "ja": "月曜日が定休日です（月曜日が祝日の場合は営業します）。"
   },
   "note": null,
   "source_url": "https://www.cardmax.jp/html/company.html"
@@ -93,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2분. 아키하바라 M2 빌딩 3층으로, 1층 엘리베이터로 올라간다. 바로 옆 고구레스에히로(小暮末広) 빌딩에는 오타추 2호점 트레카관이 있다.",
-  "en": "Two minutes from Suehirocho station on the Tokyo Metro Ginza line, on 3F of the Akihabara M2 Building; take the ground-floor elevator up. The Kogure Suehiro Building right next door holds Otachu 2nd Store's card floor."
+  "en": "Two minutes from Suehirocho station on the Tokyo Metro Ginza line, on 3F of the Akihabara M2 Building; take the ground-floor elevator up. The Kogure Suehiro Building right next door holds Otachu 2nd Store's card floor.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩2分、秋葉原M2ビルの3階で、1階のエレベーターで上がります。すぐ隣の小暮末広ビルには、おたちゅう。秋葉原2号店 トレカ館が入っています。"
  },
  "tips": {
   "ko": [
@@ -105,6 +108,11 @@
    "The official store-information page lists 13:00-19:00 on weekdays and 10:00-19:00 on weekends and public holidays, closed Mondays (open when Monday is a public holiday).",
    "Singles cover Yu-Gi-Oh! OCG and Rush Duel, English-language Yu-Gi-Oh!, and Shadowverse Evolve; sanctioned tournaments are held in store.",
    "The shop is on 3F and invisible from the street; find CARDMAX on the building's floor board and take the elevator."
+  ],
+  "ja": [
+   "公式サイトの店舗情報ページには、平日13:00-19:00、土日・祝日10:00-19:00で月曜定休（月曜日が祝日の場合は営業）と記載されています。",
+   "シングルは遊戯王OCG・ラッシュデュエル、海外版の遊戯王、シャドウバースエボルヴまでを扱い、店内で公認大会も開かれます。",
+   "3階の店舗で路上からは見えません。ビルの階数案内でカードマックスを確認してから、エレベーターで上がってください。"
   ]
  },
  "official_url": "https://www.cardmax.jp/",

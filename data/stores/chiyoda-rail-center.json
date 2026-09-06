@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "KATO·TOMIX 등 N게이지·16번 철도모형 신품과 중고를 파는 7층 전문점",
-  "en": "Seventh-floor railway-model shop: new and used N-gauge and 16-ban trains, KATO and TOMIX"
+  "en": "Seventh-floor railway-model shop: new and used N-gauge and 16-ban trains, KATO and TOMIX",
+  "ja": "KATO・TOMIXなどNゲージ・16番の鉄道模型を新品と中古で扱う7Fの専門店"
  },
  "building_id": "sumiyoshi-building",
  "floors": [
@@ -72,11 +73,13 @@
   ],
   "regular_holiday": {
    "ko": "월요일(공휴일이라도 휴무)",
-   "en": "Mondays, including public holidays"
+   "en": "Mondays, including public holidays",
+   "ja": "月曜日（祝日でも休み）"
   },
   "note": {
    "ko": "공식 사이트에 '秋葉原実店舗の営業時間'으로 적힌 시간이며 평일은 화~금만 해당한다. 월요일은 공휴일이어도 쉬는 것이 공식 휴업 달력(2026년 9월 7·14·21·28일)으로 확인된다. 시간 변경은 공식 X(@chiyoda535)에 공지된다.",
-   "en": "These are the hours the official site lists for the Akihabara shop; the weekday block covers Tue-Fri only. The official closing calendar (7, 14, 21 and 28 September 2026) shows Mondays are closed even when they are public holidays. Changes are announced on X (@chiyoda535)."
+   "en": "These are the hours the official site lists for the Akihabara shop; the weekday block covers Tue-Fri only. The official closing calendar (7, 14, 21 and 28 September 2026) shows Mondays are closed even when they are public holidays. Changes are announced on X (@chiyoda535).",
+   "ja": "公式サイトに「秋葉原実店舗の営業時間」として載っている時間で、平日の欄は火-金のみが対象です。公式の休業カレンダー（2026年9月7・14・21・28日）から、月曜は祝日でも休みだと確認できます。時間の変更は公式X（@chiyoda535）で告知されます。"
   },
   "source_url": "https://www.chiyodarail.net/html/company.html"
  },
@@ -92,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 주오도리 서쪽 뒷길로 한 블록 들어간 9층짜리 스미요시(住吉) 빌딩 7층. 같은 건물 6층이 메이드리밍 아키하바라 본점이라 메이드 카페 간판이 걸린 빌딩을 찾아 엘리베이터로 7층까지 올라가면 된다.",
-  "en": "On 7F of the nine-storey Sumiyoshi Building, one block back from Chuo-dori near Ginza-line Suehirocho Station. Maidreamin's Akihabara main store is on 6F of the same building, so look for the maid-cafe signage and take the lift to 7F."
+  "en": "On 7F of the nine-storey Sumiyoshi Building, one block back from Chuo-dori near Ginza-line Suehirocho Station. Maidreamin's Akihabara main store is on 6F of the same building, so look for the maid-cafe signage and take the lift to 7F.",
+  "ja": "銀座線末広町駅の近く、中央通りから1本入った9階建ての住吉ビルの7階です。同じビルの6階がめいどりーみん 秋葉原 本店なので、メイドカフェの看板を目印にエレベーターで7階まで上がってください。"
  },
  "tips": {
   "ko": [
@@ -106,6 +110,12 @@
    "New pre-orders and warehouse stock are handled by the online shop; the physical store also carries used railway models that are not listed online, so check stock in person.",
    "Online orders collected at the counter are paid in cash, and must be picked up by five minutes before closing.",
    "Besides N gauge the shop stocks 16-ban (HO) items, mainly KATO and TOMIX."
+  ],
+  "ja": [
+   "月曜定休です。閉店時刻は曜日で異なり、火-金と土曜は19:40、日曜・祝日は18:40で、火-金の開店は12:30と遅めです。",
+   "新品の予約や倉庫在庫はオンラインショップが担当し、実店舗にはネットに出ていない中古の鉄道模型が別にあります。在庫は店頭で直接確かめてください。",
+   "オンラインショップで注文した商品を店頭で受け取る場合は現金払いで、閉店の5分前までに受け取る必要があります。",
+   "Nゲージのほかに16番（HO）の製品もKATO・TOMIXを中心に扱っています。"
   ]
  },
  "official_url": "https://www.chiyodarail.net/",

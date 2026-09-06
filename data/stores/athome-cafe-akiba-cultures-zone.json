@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "메이드가 음식·음료와 체키·게임으로 응대하는 메이드카페. 5층 L·R 2개 매장",
-  "en": "Maid cafe serving food and drinks with cheki photos and games; two rooms, L and R, on 5F"
+  "en": "Maid cafe serving food and drinks with cheki photos and games; two rooms, L and R, on 5F",
+  "ja": "メイドが食事やドリンク、チェキやゲームで接客するメイドカフェ、5FにL・Rの2店舗"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "같은 건물의 3F·4F·6F 매장이 20:30에 닫는 것과 달리 5F는 22:00까지 영업한다. 라스트오더와 임시 변경은 공식 사이트의 영업시간 안내를 확인.",
-   "en": "Runs to 22:00, unlike the 3F, 4F and 6F shops in the same building, which close at 20:30. Check the chain's official site for last orders and temporary changes."
+   "en": "Runs to 22:00, unlike the 3F, 4F and 6F shops in the same building, which close at 20:30. Check the chain's official site for last orders and temporary changes.",
+   "ja": "同じ建物の3F・4F・6Fの店舗が20:30に閉まるのとは違い、22:00まで営業します。ラストオーダーや臨時の変更はチェーンの公式サイトで確認してください。"
   },
   "source_url": "https://www.akibacultureszone.com/shop/1227"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "AKIBA 컬처즈존 5F 한 층 전체. 1F 라신방 옆 엘리베이터로 5층까지 올라간다. 미츠와빌딩의 앳홈카페 본점(外神田1-11-4)과는 다른 지점이니 주소를 확인할 것.",
-  "en": "The whole fifth floor of AKIBA Cultures Zone; take the lift beside Lashinbang on 1F up to 5F. This is not the main store in the Mitsuwa Building (Sotokanda 1-11-4), so check the address."
+  "en": "The whole fifth floor of AKIBA Cultures Zone; take the lift beside Lashinbang on 1F up to 5F. This is not the main store in the Mitsuwa Building (Sotokanda 1-11-4), so check the address.",
+  "ja": "AKIBAカルチャーズZONEの5F全体で、1Fのらしんばんの脇のエレベーターで5Fまで上がります。ミツワビルにあるあっとほぉーむカフェ 秋葉原本店（外神田1-11-4）とは別の店舗なので、住所をご確認ください。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,11 @@
    "Opened on 12 February 2022 and split into an L shop and an R shop sharing the fifth floor.",
    "Opens at 10:00 on weekends and public holidays, so it can be used in the morning like the main store.",
    "The admission fee, order rules and queue-entry system are the same across the chain, so check the official site before going."
+  ],
+  "ja": [
+   "2022年2月12日に開店した店舗で、5Fを分けてL店とR店の2店舗として営業しています。",
+   "土日・祝日は10:00から開くので、本店と同じように朝の時間帯にも利用できます。",
+   "入場料や注文のルール、エントリー（順番受付）の仕組みはチェーン共通なので、行く前に公式サイトで確認してください。"
   ]
  },
  "official_url": "https://www.cafe-athome.com/",

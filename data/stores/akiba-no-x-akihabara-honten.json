@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "역 고가 아래 신품·중고 피규어와 캐릭터 굿즈점. 원피스 피규어가 강점",
-  "en": "New and used figures and character goods under the viaduct; strong on One Piece"
+  "en": "New and used figures and character goods under the viaduct; strong on One Piece",
+  "ja": "駅の高架下にある新品・中古フィギュアとキャラクターグッズの店、ワンピースに強い"
  },
  "building_id": null,
  "floors": [
@@ -76,11 +77,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일은 11:00, 토·일·공휴일은 10:30 개점. 같은 회사의 라지관점(10:00 개점)과 개점 시각이 다르다.",
-   "en": "Opens at 11:00 on weekdays and 10:30 at weekends and on holidays - different from the same company's Rajikan branch, which opens at 10:00."
+   "en": "Opens at 11:00 on weekdays and 10:30 at weekends and on holidays - different from the same company's Rajikan branch, which opens at 10:00.",
+   "ja": "平日は11:00、土日祝は10:30の開店です。同じ会社のアキバのエックス ラジ館店（10:00開店）とは開店時刻が異なります。"
   },
   "source_url": "https://www.x-jpn.co.jp/store/store-50/"
  },
@@ -96,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 동쪽, 신칸센 고가 바로 아래 상가에 들어 있어 역에서 가장 가까운 호비숍으로 소개된다. 쇼와도리 출구로 나와 고가를 따라 남쪽으로 걸으면 간다사쿠마초 1초메 구간에 매장이 있다.",
-  "en": "In the arcade directly under the Shinkansen viaduct on the east side of JR Akihabara - the shop bills itself as the closest hobby shop to the station. Leave by the Showa-dori exit and walk south along the viaduct into Kanda-Sakumacho 1-chome."
+  "en": "In the arcade directly under the Shinkansen viaduct on the east side of JR Akihabara - the shop bills itself as the closest hobby shop to the station. Leave by the Showa-dori exit and walk south along the viaduct into Kanda-Sakumacho 1-chome.",
+  "ja": "JR秋葉原駅の東側、新幹線の高架のすぐ下に入る商店街にあり、駅から最も近いホビーショップとして紹介されています。昭和通り口を出て高架沿いに南へ歩くと、神田佐久間町1丁目の区間に店舗があります。"
  },
  "tips": {
   "ko": [
@@ -110,6 +114,12 @@
    "It sells new and used stock and runs a buyback counter; the maximum buyback price lists on the official site are updated per series.",
    "It is separate from the same company's Rajikan branch (Radio Kaikan 5F) and Chuo branch (Sotokanda 3-chome); this main store is the closest to the station.",
    "Tax-free and card acceptance are not stated on the official site, so bring cash."
+  ],
+  "ja": [
+   "ワンピースのフィギュアの取扱量は秋葉原でも最上位クラスだと公式サイトが明記しており、艦隊これくしょんやラブライブ！、アイドルマスター、初音ミクなどの美少女キャラクターグッズもあわせて見られます。",
+   "新品と中古を一緒に販売し、買取カウンターもあります。買取上限価格表は公式サイトで作品別・シリーズ別に更新されています。",
+   "同じ会社のアキバのエックス ラジ館店（ラジオ会館5F）やアキバのエックス 中央店（外神田3丁目）とは別の店舗で、本店が駅から最も近い場所にあります。",
+   "免税やカード決済についての案内は公式サイトにないため、現金を用意していくほうが安心です。"
   ]
  },
  "official_url": "https://www.x-jpn.co.jp/store/store-50/",

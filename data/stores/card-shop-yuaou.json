@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·원피스·바이스슈발츠 싱글과 8석 듀얼 스페이스를 갖춘 3층 카드숍",
-  "en": "Yu-Gi-Oh, Pokemon, One Piece and Weiss Schwarz singles with an eight-seat duel space"
+  "en": "Yu-Gi-Oh, Pokemon, One Piece and Weiss Schwarz singles with an eight-seat duel space",
+  "ja": "遊戯王・ポケカ・ワンピース・ヴァイスシュヴァルツのシングルと8席のデュエルスペース"
  },
  "building_id": null,
  "floors": [
@@ -57,7 +58,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 전기가 쪽이 아니라 쇼와도리 건너 동쪽 간다이즈미초(神田和泉町) 사무실 거리에 있다. JR 아키하바라역에서 도보 4분, NJ아키하바라 빌딩 3층이며 1층 노면 점포가 아니므로 건물 입구의 층별 안내를 보고 올라간다.",
-  "en": "Not on the Electric Town side: it is east of Showa-dori in the Kanda-Izumicho office district. Four minutes on foot from JR Akihabara, on 3F of the NJ Akihabara building - there is no street-level shopfront, so check the building's floor board at the entrance and go up."
+  "en": "Not on the Electric Town side: it is east of Showa-dori in the Kanda-Izumicho office district. Four minutes on foot from JR Akihabara, on 3F of the NJ Akihabara building - there is no street-level shopfront, so check the building's floor board at the entrance and go up.",
+  "ja": "秋葉原の電気街側ではなく、昭和通りを渡った東側の神田和泉町のオフィス街にあります。JR秋葉原駅から徒歩4分、NJ秋葉原ビルの3階で、1階に路面店はないので建物入口のフロアガイドを見てから上がってください。"
  },
  "tips": {
   "ko": [
@@ -71,6 +73,12 @@
    "A new shop that opened in March 2026, run by daffoo Inc.; it also operates an online store and both counter and mail-in buyback.",
    "In-store payment is listed as cash and QR codes. The credit cards named on the official site (VISA, Mastercard, JCB, AMEX, Diners) apply to the online store, so confirm at the counter.",
    "There is an eight-seat duel space for play."
+  ],
+  "ja": [
+   "店舗の営業時間は公式サイトに出ていません。会社概要ページの「10:00-22:00、定休日なし」はオンラインストア基準とみられ、トレカのディレクトリは13:00-19:00で火・水休みと書いており、案内が食い違います。行く前に公式X（@YUAOH_CardShop）の確認が必須です。",
+   "2026年3月に開店した新しい店舗で、運営は株式会社daffooです。オンラインストアと、店頭買取・宅配買取もあわせて行っています。",
+   "店頭の支払いは現金とQR決済と案内されています。公式サイトに出ているクレジットカード（VISA・Mastercard・JCB・AMEX・ダイナース）はオンラインストア基準なので、カウンターで確認してください。",
+   "8席のデュエルスペースがあり、対戦もできます。"
   ]
  },
  "official_url": "https://yuaoh.jp/",

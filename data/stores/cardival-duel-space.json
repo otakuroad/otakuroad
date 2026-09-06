@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "대량 스토리지 박스의 실전용 싱글 카드와 좌석 많은 무료 듀얼 스페이스",
-  "en": "Play-grade singles from bulk storage boxes and a large free duel space"
+  "en": "Play-grade singles from bulk storage boxes and a large free duel space",
+  "ja": "ストレージボックス中心の実戦用シングルと席数の多い無料対戦スペース"
  },
  "building_id": "mn-building",
  "floors": [
@@ -63,7 +64,8 @@
   ],
   "regular_holiday": {
    "ko": "월·화요일 휴무",
-   "en": "Closed Monday and Tuesday"
+   "en": "Closed Monday and Tuesday",
+   "ja": "月・火曜定休"
   },
   "note": null,
   "source_url": "https://x.com/cardival_akiba"
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목 왼편의 MN빌딩(1층 가챠폰 회관) 5층. 캡슐 기계 옆 건물 입구로 들어가 올라간다. JR 아키하바라역에서는 도보 약 8분.",
-  "en": "5F of the MN Building, the one with the Gachapon Kaikan capsule hall on its ground floor: from Ginza-line Suehirocho Station exit 3 walk about 90 m south on the west side of Chuo-dori, turn right into the first narrow lane, and enter beside the capsule machines. About 8 minutes from JR Akihabara."
+  "en": "5F of the MN Building, the one with the Gachapon Kaikan capsule hall on its ground floor: from Ginza-line Suehirocho Station exit 3 walk about 90 m south on the west side of Chuo-dori, turn right into the first narrow lane, and enter beside the capsule machines. About 8 minutes from JR Akihabara.",
+  "ja": "1階が秋葉原ガチャポン会館のMNビルの5階です。銀座線末広町駅3番出口から中央通りの西側歩道を南へ約90m進み、最初の右手の細い路地に入って、カプセル機の横の建物入口から上がります。JR秋葉原駅からは徒歩約8分です。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,12 @@
    "The duel space is free and large - the shop's X profile says 86 seats - and it is a registered Pokemon Card Gym.",
    "The shop's own X profile gives 15:00-20:00 Wednesday to Saturday and 15:00-19:00 on Sunday and public holidays, with Monday and Tuesday closed; the 2024 directory listing of Mon-Fri 15:00-20:00 and Sat 11:00-20:00 is wrong.",
    "It is shut on Monday and Tuesday and does not open until 15:00, so a morning or early-afternoon visit is a wasted trip."
+  ],
+  "ja": [
+   "陳列ケースよりストレージボックスが中心で、デッキを組むための安い実戦用シングルを自分で掘って探すお店です。高額なコレクター向けカードなら別の階のほうが向いています。",
+   "デュエルスペースは無料で席数も多く、店の公式Xのプロフィールでは86席とされています。ポケモンカード公式の「ポケモンカードジム」登録店です。",
+   "店の公式Xのプロフィールでは水曜から土曜が15:00-20:00、日曜・祝日が15:00-19:00で、月曜と火曜は定休日です。2024年のディレクトリにある月-金15:00-20:00、土11:00-20:00という表記は正しくありません。",
+   "月曜・火曜が休みで開店も15時なので、午前中や早い午後に行くと無駄足になります。"
   ]
  },
  "official_url": null,

@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 싱글과 미개봉 팩 판매·매입, 23시까지 영업",
-  "en": "Pokemon card singles, sealed packs and buyback, open until 23:00"
+  "en": "Pokemon card singles, sealed packs and buyback, open until 23:00",
+  "ja": "ポケモンカードのシングルと未開封パックの販売・買取、23:00まで営業"
  },
  "building_id": null,
  "floors": [
@@ -66,11 +67,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open every day"
+   "en": "Open every day",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 점포 안내에 '전일 10:00~23:00'으로만 표기되어 있다. 도보 1분 거리의 타워점(10:00~22:00)보다 한 시간 늦게까지 연다.",
-   "en": "The official store page lists a single all-week 10:00-23:00. That is an hour later than the Tower store (10:00-22:00) one minute away."
+   "en": "The official store page lists a single all-week 10:00-23:00. That is an hour later than the Tower store (10:00-22:00) one minute away.",
+   "ja": "公式の店舗案内には、全日10:00〜23:00とだけ記載されています。徒歩1分の晴れる屋2 秋葉原タワー店（10:00〜22:00）より1時間遅くまで営業します。"
   },
   "source_url": "https://www.hareruya2.com/pages/store_annex"
  },
@@ -86,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 남쪽 출구에서 도보 3분. 주오도리를 따라 남쪽 만세이바시 방향으로 내려가 소토칸다 1-2-5 건물의 1층 입구로 들어가면 되고, 매장은 지하 1층과 1층 두 층이다. 같은 브랜드의 타워점(1-2-13)은 여기서 도보 1분 거리의 다른 건물이다.",
-  "en": "Three minutes from the JR Akihabara Electric Town South exit, heading south along Chuo-dori toward Manseibashi. Enter the Sotokanda 1-2-5 building at street level; the shop occupies B1F and 1F. The Tower store of the same brand (1-2-13) is a different building one minute away."
+  "en": "Three minutes from the JR Akihabara Electric Town South exit, heading south along Chuo-dori toward Manseibashi. Enter the Sotokanda 1-2-5 building at street level; the shop occupies B1F and 1F. The Tower store of the same brand (1-2-13) is a different building one minute away.",
+  "ja": "JR秋葉原駅の電気街南口から、中央通りを万世橋方面へ南に徒歩3分です。外神田1-2-5の建物に1Fの入口から入り、売り場はB1Fと1Fの2フロアです。同じブランドの晴れる屋2 秋葉原タワー店（1-2-13）は、徒歩1分の別の建物です。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,12 @@
    "A Pokemon-card specialist: standard and extended singles, older cards, sealed packs and supplies, with a buyback counter in the same store.",
    "The official store list gives a play-space seat count for every branch except the Annex; for a seat to play, use the 152-seat Tower store instead.",
    "Neither payment methods nor tax-free service are stated on the official site, so bring cash to be safe."
+  ],
+  "ja": [
+   "10:00〜23:00と秋葉原のカードショップでは最も遅くまで営業しているので、晴れる屋2 秋葉原タワー店が22:00に閉まった後でも立ち寄れます。",
+   "ポケモンカードの専門店で、スタンダード・エクストラのシングルや旧弾、未開封パック、サプライを扱い、買取カウンターも同じ店内にあります。",
+   "公式の店舗一覧には他店のプレイスペースの席数が載っていますが、アネックス店だけ記載がありません。対戦する席が必要なら、152席の晴れる屋2 秋葉原タワー店へ行ってください。",
+   "決済手段と免税の案内は公式サイトにないため、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://www.hareruya2.com/pages/store_annex",

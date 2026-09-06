@@ -42,7 +42,8 @@
  ],
  "one_line": {
   "ko": "지하 2층 종합 트레카 매장. 절판 카드 포함 싱글 매매와 40석 무료 대전석",
-  "en": "B2F all-title card shop: singles including out-of-print, buyback, 40 free duel seats"
+  "en": "B2F all-title card shop: singles including out-of-print, buyback, 40 free duel seats",
+  "ja": "B2Fの総合トレカ店、絶版カードも含むシングル売買と無料対戦席40席"
  },
  "building_id": null,
  "floors": [
@@ -74,11 +75,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트 기준 연중무휴 9:00-22:00으로 아키하바라 트레카 매장 중 가장 이르게 열고 가장 늦게 닫는다. 일부 트레카 디렉터리에는 12:00-21:00 같은 옛 시간이 남아 있다.",
-   "en": "The official store page gives 9:00-22:00 year-round, the earliest opening and latest closing among Akihabara card shops. Some card directories still list older hours such as 12:00-21:00."
+   "en": "The official store page gives 9:00-22:00 year-round, the earliest opening and latest closing among Akihabara card shops. Some card directories still list older hours such as 12:00-21:00.",
+   "ja": "公式の店舗ページでは年中無休9:00-22:00で、秋葉原のカードショップの中では最も早く開いて最も遅くまで営業しています。一部のカードのディレクトリには12:00-21:00といった古い時間が残っています。"
   },
   "source_url": "https://cardon.jp/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85"
  },
@@ -94,7 +97,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내로 JR 아키하바라역 전기가 출구에서 도보 7분, 오차노미즈역에서 도보 5분. 주오도리에서 서쪽으로 벗어난 소토칸다 2-4-4 다이이치덴파(第一電波) 빌딩이며, 도로변 입구에서 계단으로 지하 2층까지 내려간다.",
-  "en": "The official page gives seven minutes from the JR Akihabara Electric Town Exit and five from Ochanomizu. It is the Dai-ichi Denpa Building at Sotokanda 2-4-4, west of Chuo-dori; take the street-level stairs down two levels to B2F."
+  "en": "The official page gives seven minutes from the JR Akihabara Electric Town Exit and five from Ochanomizu. It is the Dai-ichi Denpa Building at Sotokanda 2-4-4, west of Chuo-dori; take the street-level stairs down two levels to B2F.",
+  "ja": "公式の案内ではJR秋葉原駅電気街口から徒歩7分、御茶ノ水駅から徒歩5分です。中央通りから西へ外れた外神田2-4-4の第一電波ビルで、通りに面した入口から階段で地下2階まで下ります。"
  },
  "tips": {
   "ko": [
@@ -108,6 +112,12 @@
    "The shop is two levels underground down a staircase, so the entrance sign is easy to miss and awkward with luggage.",
    "The 40-seat duel space is free with no purchase condition.",
    "It carries out-of-print and older cards across many titles, which makes it worth a stop for minor-title singles."
+  ],
+  "ja": [
+   "9:00に開いて22:00に閉まります。朝早い時間や夜遅い時間にトレカを見られるほぼ唯一のお店です。",
+   "階段で地下2階まで下りる造りなので入口の看板を見落としやすく、大きな荷物があると不便です。",
+   "40席の対戦スペースは購入などの条件なしで無料で使えます。",
+   "絶版・旧版のカードまで幅広いタイトルを扱う総合店なので、マイナータイトルのシングルを探すときに寄る価値があります。"
   ]
  },
  "official_url": "https://cardon.jp/pages/%E5%BA%97%E8%88%97%E6%A1%88%E5%86%85",

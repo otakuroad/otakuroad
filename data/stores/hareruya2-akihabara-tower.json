@@ -44,7 +44,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 싱글·미개봉 팩 판매와 매입, B1F~6F 건물 한 채, 152석 대전 공간",
-  "en": "Pokémon TCG singles, sealed packs and buyback across B1F–6F, plus a 152-seat play space"
+  "en": "Pokémon TCG singles, sealed packs and buyback across B1F–6F, plus a 152-seat play space",
+  "ja": "B1F〜6Fでポケモンカードのシングル・未開封パックの販売と買取、152席の対戦スペース"
  },
  "building_id": null,
  "floors": [
@@ -82,11 +83,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open every day"
+   "en": "Open every day",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일·주말·공휴일 동일. 온라인 주문 매장 수령분은 타워점만 주문일 포함 3일간 보관(다른 지점은 주문 당일까지)",
-   "en": "Same hours on weekdays, weekends and holidays. Online orders for in-store pickup are held 3 days at this store (same day only at other branches)"
+   "en": "Same hours on weekdays, weekends and holidays. Online orders for in-store pickup are held 3 days at this store (same day only at other branches)",
+   "ja": "平日・土日祝とも同じ営業時間です。オンライン注文の店舗受取は、タワー店のみ注文日を含めて3日間保管されます（他店は注文当日まで）。"
   },
   "source_url": "https://www.hareruya2.com/pages/store_tower"
  },
@@ -101,12 +104,14 @@
   "state": "open",
   "note": {
    "ko": "2026년 2월 개업. 2021년 7월 문을 연 옛 '하레루야2 아키하바라 본점'(晴れる屋2 秋葉原本店, 소토칸다 1-2-5, 88석)을 잇는 플래그십이고, 그 자리는 지금 판매·매입 전용 '아키하바라 아넥스점'이다.",
-   "en": "Opened February 2026 as the successor flagship to Hareruya2 Akihabara Honten (Sotokanda 1-2-5, 88 seats, open since July 2021); that old address is now the sales-and-buyback-only Akihabara Annex."
+   "en": "Opened February 2026 as the successor flagship to Hareruya2 Akihabara Honten (Sotokanda 1-2-5, 88 seats, open since July 2021); that old address is now the sales-and-buyback-only Akihabara Annex.",
+   "ja": "2026年2月に開業しました。2021年7月に開いた旧・晴れる屋2 秋葉原本店（外神田1-2-5、88席）を引き継ぐ旗艦店で、その場所は現在、販売・買取専門の晴れる屋2 秋葉原アネックス店になっています。"
   }
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 남쪽 출구로 나와 오른쪽으로 돈 뒤 직진해, 주오도리에 닿으면 왼쪽으로 꺾어 횡단보도를 건넌다. 남쪽 끝 만세이바시 교차로에서 오른쪽으로 한 번 더 건너 쇼헤이바시도리 북쪽 인도를 서쪽으로 50m쯤 걸으면 '晴れる屋2' 간판이 붙은 건물 한 채가 통째로 매장이다. 입구는 1F, 매장은 B1F~6F.",
-  "en": "From the JR Akihabara Electric Town South exit turn right and go straight to Chuo-dori, then turn left and cross. At the Manseibashi junction at the south end cross again to the right and follow the north pavement of Shoheibashi-dori about 50 m west: the whole building under the 晴れる屋2 sign is the store. Enter on 1F; the shop runs B1F-6F."
+  "en": "From the JR Akihabara Electric Town South exit turn right and go straight to Chuo-dori, then turn left and cross. At the Manseibashi junction at the south end cross again to the right and follow the north pavement of Shoheibashi-dori about 50 m west: the whole building under the 晴れる屋2 sign is the store. Enter on 1F; the shop runs B1F-6F.",
+  "ja": "JR秋葉原駅の電気街南口を出て右に曲がり、まっすぐ進んで中央通りに出たら左に折れて横断歩道を渡ります。南端の万世橋交差点でもう一度右に渡り、昌平橋通りの北側の歩道を西へ50mほど歩くと、晴れる屋2の看板を掲げた建物が丸ごと店舗です。入口は1Fで、売り場はB1F〜6Fです。"
  },
  "tips": {
   "ko": [
@@ -120,6 +125,12 @@
    "Order at an in-store PC, then pay and collect at the 3F register. Accepted payment methods are only posted inside the shop and no tax-free service is mentioned anywhere on the official site, so bring cash.",
    "Buyback requires photo ID showing a current address, so visitors carrying only a passport usually cannot sell; under-18s and high-school students need a guardian's consent form.",
    "The sales-and-buyback-only Akihabara Annex (Sotokanda 1-2-5) is one minute away and open until 23:00, after this store closes. Hareruya (Magic: The Gathering) and Hareruya3 (Duel Masters) are separate Akihabara shops from the same company — check the sign."
+  ],
+  "ja": [
+   "2026年2月に開店し、B1Fから6Fまで建物1棟すべてがポケモンカードの売り場です。152席のプレイスペースは無料で、イベントが毎日開かれます。",
+   "店内のPCで注文した商品は、3Fのレジで支払って受け取ります。使える決済手段は店内の案内でしか分からず、免税の案内も公式サイトのどこにもないので、現金を用意してください。",
+   "買取には現住所が記載された身分証が必要なため、パスポートだけの旅行者はたいてい売却できません。18歳未満と高校生は保護者の同意書が必要です。",
+   "徒歩1分の販売・買取専門の晴れる屋2 秋葉原アネックス店（外神田1-2-5）は23:00まで開いていて、タワー店が閉まった後でも立ち寄れます。同じ会社のマジック：ザ・ギャザリング専門店の晴れる屋、デュエル・マスターズ専門店の晴れる屋3も秋葉原に別にあるので、看板を確認してください。"
   ]
  },
  "official_url": "https://www.hareruya2.com/pages/store_tower",

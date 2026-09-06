@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·원피스 등 TCG 매입 창구 겸 싱글 카드 판매점",
-  "en": "Ground-floor TCG buyback counter and singles shop for Pokemon, Yu-Gi-Oh and One Piece"
+  "en": "Ground-floor TCG buyback counter and singles shop for Pokemon, Yu-Gi-Oh and One Piece",
+  "ja": "ポケモン・遊戯王・ワンピースなどTCGの買取カウンター兼シングル販売の1F店舗"
  },
  "building_id": null,
  "floors": [
@@ -67,7 +68,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴 (定休日 無)",
-   "en": "Open year-round (no regular holiday)"
+   "en": "Open year-round (no regular holiday)",
+   "ja": "年中無休（定休日なし）"
   },
   "note": null,
   "source_url": "https://www.hbst.net/shop/1/"
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "호비스테이션 아키하바라 본점과 같은 모리(森) 빌딩의 1층 길가 점포. 주오도리 서쪽 실크햇 뒤편 골목, 전자부품 상가 도쿄 라디오 데파트 바로 남쪽이다. 카드를 팔러 왔다면 1층, 사러 왔다면 2층 본점으로 올라가면 된다.",
-  "en": "The street-level unit on 1F of the same Mori Building as the Hobby Station main store, on the back lane behind Silk Hat west of Chuo-dori and just south of the Tokyo Radio Depart. Selling cards happens here on 1F; buying happens upstairs in the 2F main store."
+  "en": "The street-level unit on 1F of the same Mori Building as the Hobby Station main store, on the back lane behind Silk Hat west of Chuo-dori and just south of the Tokyo Radio Depart. Selling cards happens here on 1F; buying happens upstairs in the 2F main store.",
+  "ja": "中央通り西側のシルクハット秋葉原の裏手の路地にあり、東京ラジオデパートのすぐ南、ホビーステーション秋葉原本店と同じ森ビルの1F路面店舗です。カードを売りに来たならこの1F、買いに来たなら2Fの本店へ上がります。"
  },
  "tips": {
   "ko": [
@@ -96,6 +99,11 @@
    "Titles bought here: Duel Masters, Yu-Gi-Oh!, Pokemon Card Game, Weiss Schwarz, Lycee Overture, Premium Supply, Mobile Suit Gundam Arsenal Base, One Piece, Xross Stars and hololive OFFICIAL CARD GAME.",
    "The official page warns that per-title quantity limits or temporary suspension of buyback can apply depending on staffing, so allow extra time for a large sale.",
    "Despite the name it also sells rare and normal singles; the duel space and the deeper singles stock are in the 2F main store of the same building."
+  ],
+  "ja": [
+   "買取対象のタイトルは、デュエル・マスターズ、遊戯王、ポケモンカードゲーム、ヴァイスシュヴァルツ、リセ・オーバーチュア、プレミアムサプライ、機動戦士ガンダム アーセナルベース、ワンピース、Xross Stars、ホロライブ オフィシャルカードゲームです。",
+   "スタッフの出勤状況によってはタイトルごとの枚数制限や買取の一時停止があると公式ページに注意書きがあるので、大量に売るときは時間に余裕を持って行くとよいでしょう。",
+   "名前は買取カウンターですが、レアカードやノーマルカードの販売も行っています。デュエルスペースとより幅広いシングルの在庫は、同じビル2Fの本店にあります。"
   ]
  },
  "official_url": "https://www.hbst.net/shop/1/",

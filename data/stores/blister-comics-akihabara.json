@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "마블·DC 등 미국 코믹 최신호와 변형 표지, 번역판, 보관용품을 파는 아메코미 전문점",
-  "en": "American comics specialist: Marvel/DC floppies, variant covers, TPBs and storage supplies"
+  "en": "American comics specialist: Marvel/DC floppies, variant covers, TPBs and storage supplies",
+  "ja": "マーベル・DCのアメコミ最新号やバリアントカバー、TPB、保存用品を扱う専門店"
  },
  "building_id": null,
  "floors": [
@@ -70,7 +71,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 13:00 개점으로 토·일·공휴일(11:00)보다 두 시간 늦다",
-   "en": "Weekdays open at 13:00, two hours later than weekends and public holidays (11:00)"
+   "en": "Weekdays open at 13:00, two hours later than weekends and public holidays (11:00)",
+   "ja": "平日は13:00開店で、土日・祝日の11:00より2時間遅くなります。"
   },
   "source_url": "http://blistercomics.jp/"
  },
@@ -86,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 애니메이트 뒤편(동쪽) 한 블록 안, 외신다 4-3-10 미나미 빌딩 1층 노면 매장. JR 전기가 출구에서 도보 4분, 긴자선 스에히로초역에서 도보 4분.",
-  "en": "One block east of Chuo-dori behind animate, a street-level shop on the 1F of the Minami Building at Sotokanda 4-3-10. Four minutes from the JR Electric Town exit and four from Suehirocho station."
+  "en": "One block east of Chuo-dori behind animate, a street-level shop on the 1F of the Minami Building at Sotokanda 4-3-10. Four minutes from the JR Electric Town exit and four from Suehirocho station.",
+  "ja": "中央通りのアニメイトの裏手、一本東に入った外神田4-3-10、南ビル1階の路面店です。JRの電気街口から徒歩4分、末広町駅からも徒歩4分です。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,11 @@
    "The weekly in-store release list is posted on the front page of the official site, and PREVIEWS pre-orders are taken",
    "Besides English floppies it stocks Japanese translated editions and comic boxes, bags and boards",
    "At the counter cash, credit cards, PayPay, au PAY and Airpay are all accepted; tax-free is not mentioned anywhere on the official site"
+  ],
+  "ja": [
+   "毎週の店舗発売の入荷リストを公式サイトのトップページに掲載していて、PREVIEWSでの原書予約も受け付けています。",
+   "原書のリーフだけでなく日本語の翻訳版も並び、コミック保存用のボックスやバッグ、ボードも扱っています。",
+   "店頭では現金、クレジットカード、PayPay、au PAY、Airペイが使えます。免税については公式サイトに一切の案内がありません。"
   ]
  },
  "official_url": "http://blistercomics.jp/",

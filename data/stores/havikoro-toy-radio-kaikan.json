@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "피규어·애니 굿즈·트레카 매입과 판매. 역에서 가장 가까운 매입 카운터",
-  "en": "Buys and sells figures, anime goods and trading cards; buyback desk nearest the station"
+  "en": "Buys and sells figures, anime goods and trading cards; buyback desk nearest the station",
+  "ja": "フィギュア・アニメグッズ・トレカの買取と販売、駅から一番近い買取カウンター"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -62,7 +63,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "건물은 10:00 개관이지만 매장은 11:00 오픈. 연말연시·임시 시간 변경은 라디오회관 공지(2F 하비코로 완구)에 올라온다",
-   "en": "The building opens at 10:00 but the shop opens at 11:00; changes are posted as '2F Havikoro Toy' notices on the Radio Kaikan site"
+   "en": "The building opens at 10:00 but the shop opens at 11:00; changes are posted as '2F Havikoro Toy' notices on the Radio Kaikan site",
+   "ja": "建物は10:00開館ですが、店舗の開店は11:00です。年末年始や臨時の時間変更は、ラジオ会館のお知らせ（2F ハビコロ玩具）に掲載されます。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/havikoro-toy/"
  },
@@ -78,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 2F, 에스컬레이터에서 가까운 소형 매장 구역. 같은 카운터에서 카드숍 카이조쿠오 라디오회관점(같은 전화번호)도 운영한다.",
-  "en": "On 2F of Radio Kaikan among the small units near the escalator; the same counter also runs Card Shop Kaizokuo Radio Kaikan (same phone number)."
+  "en": "On 2F of Radio Kaikan among the small units near the escalator; the same counter also runs Card Shop Kaizokuo Radio Kaikan (same phone number).",
+  "ja": "ラジオ会館の2F、エスカレーターに近い小型店舗の区画にあります。同じカウンターで、カードショップ買賊王 ラジオ会館店（電話番号も同じ）も営業しています。"
  },
  "tips": {
   "ko": [
@@ -90,6 +93,11 @@
    "It is the buyback counter closest to the JR Electric Town Exit, handy before you start carrying bags around.",
    "Havikoro also runs shops on AKIBA Cultures Zone 3F (Otome, Oreyome, Kawaii) and on Chuo-dori, each with a different line-up.",
    "Stock ranges over tokusatsu, robot and bishojo figures, can badges and acrylic goods, and trading cards."
+  ],
+  "ja": [
+   "JR秋葉原駅の電気街口から最も近い買取カウンターなので、荷物を持って歩き回る前に立ち寄るのに便利です。",
+   "ハビコロ玩具はAKIBAカルチャーズZONEの3F（オトメ秋葉原店・オレヨメ店・カワイイ店）や中央通りにも店舗があり、それぞれ品揃えが異なります。",
+   "特撮・ロボット・美少女のフィギュアから缶バッジやアクリルグッズ、トレカまで幅広く扱っています。"
   ]
  },
  "official_url": "https://ec.havikorotoy.com/pages/store",

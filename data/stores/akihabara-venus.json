@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "LED 비전과 VJ 설비를 갖춘 150명 규모 아이돌 라이브하우스 겸 카페바",
-  "en": "150-capacity idol live house and cafe bar with LED walls and VJ equipment"
+  "en": "150-capacity idol live house and cafe bar with LED walls and VJ equipment",
+  "ja": "LEDビジョンとVJ設備を備えた150人規模のアイドルライブハウス兼カフェバー"
  },
  "building_id": null,
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 동쪽 소토칸다 4초메의 아키하바라 SIL 빌딩 6층으로, 1층 입구에서 엘리베이터를 탄다.",
-  "en": "Three minutes from Ginza-line Suehirocho and five from the JR Akihabara Electric Town Exit. Take the lift from the ground-floor entrance of the Akihabara SIL Building in Sotokanda 4-chome, east of Chuo-dori, up to 6F."
+  "en": "Three minutes from Ginza-line Suehirocho and five from the JR Akihabara Electric Town Exit. Take the lift from the ground-floor entrance of the Akihabara SIL Building in Sotokanda 4-chome, east of Chuo-dori, up to 6F.",
+  "ja": "銀座線末広町駅から徒歩3分、JR秋葉原駅電気街口から徒歩5分です。中央通り東側の外神田4丁目にある秋葉原SILビルの1Fの入口からエレベーターで6Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -67,6 +69,11 @@
    "A new live house opened in late July 2025, with a capacity of 150, LED screens and VJ equipment.",
    "It is rental-only with no fixed opening hours - check the official X account (@2025AkibaVenus) or the organiser for dates and tickets.",
    "The same operator runs Akihabara Galaxy (B1F) in Sotokanda 6-chome, which is easy to confuse with this venue, so check the address before setting out."
+  ],
+  "ja": [
+   "2025年7月末にオープンした新しいライブハウスで、収容人数150人、LEDビジョンとVJ設備を備えています。",
+   "貸し切り専用なので決まった営業時間はありません。公演日程やチケットは公式X（@2025AkibaVenus）か主催者の案内で確認します。",
+   "同じ運営会社が外神田6丁目で運営する秋葉原Galaxy（B1F）と名前も用途も似ていて紛らわしいので、住所を確認してから向かってください。"
   ]
  },
  "official_url": "https://galaxy-group.jp/venus_akihabara/",

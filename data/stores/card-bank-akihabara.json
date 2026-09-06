@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·바이스 싱글 판매와 매입, 24석 듀얼 스페이스",
-  "en": "Yu-Gi-Oh, Pokemon and Weiss Schwarz singles with buyback and a 24-seat duel space"
+  "en": "Yu-Gi-Oh, Pokemon and Weiss Schwarz singles with buyback and a 24-seat duel space",
+  "ja": "遊戯王・ポケモン・ヴァイスのシングル販売と買取、24席のデュエルスペース"
  },
  "building_id": "liberty-2gokan",
  "floors": [
@@ -66,7 +67,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 홈페이지가 없어 영업시간은 공식 X 프로필 표기(평일~목 14:00-20:00, 금·토·일·공휴일 11:00-20:00)를 옮긴 것이다. 2023년 디렉터리에는 월~수 14:00, 목~일 11:00 개점으로 적혀 있어 목요일 개점 시간이 바뀐 것으로 보인다. 월~목 오전에는 열지 않는다.",
-   "en": "The shop has no website, so these hours are transcribed from its X profile (Mon-Thu 14:00-20:00, Fri-Sun and holidays 11:00-20:00). A 2023 directory listed Mon-Wed from 14:00 and Thu-Sun from 11:00, so Thursday appears to have moved. It does not open in the morning from Monday to Thursday."
+   "en": "The shop has no website, so these hours are transcribed from its X profile (Mon-Thu 14:00-20:00, Fri-Sun and holidays 11:00-20:00). A 2023 directory listed Mon-Wed from 14:00 and Thu-Sun from 11:00, so Thursday appears to have moved. It does not open in the morning from Monday to Thursday.",
+   "ja": "公式サイトがないため、営業時間は公式Xのプロフィールの記載（月〜木14:00-20:00、金・土・日・祝日11:00-20:00）を写したものです。2023年のディレクトリでは月〜水が14:00、木〜日が11:00開店となっており、木曜の開店時間が変わったとみられます。月〜木の午前中は開いていません。"
   },
   "source_url": "https://x.com/card_bankshop"
  },
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1~2분, 라디오회관 남동쪽 블록의 세로로 긴 건물 7층. 지하 1층~4층은 리버티 아키하바라 2호점·6호점이므로 리버티 간판을 찾은 뒤 엘리베이터로 7층까지 올라가면 된다.",
-  "en": "One or two minutes from the JR Electric Town exit, on 7F of the narrow building in the block southeast of Radio Kaikan. B1 to 4F are Liberty Akihabara Stores 2 and 6, so find the Liberty signs and ride the elevator up to 7F."
+  "en": "One or two minutes from the JR Electric Town exit, on 7F of the narrow building in the block southeast of Radio Kaikan. B1 to 4F are Liberty Akihabara Stores 2 and 6, so find the Liberty signs and ride the elevator up to 7F.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1〜2分、ラジオ会館の南東側のブロックにある細長いビルの7Fです。B1F〜4Fはリバティー 秋葉原2号店とリバティー 秋葉原6号店なので、リバティーの看板を目印にエレベーターで7Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,13 @@
    "PayPay is accepted alongside cash, but credit-card acceptance is unconfirmed, so bring cash to be safe.",
    "A 2023 listing put the shop on 5F; its own X profile now gives 7F of the same building.",
    "Temporary closures and restocks are announced only on X (@card_bankshop)."
+  ],
+  "ja": [
+   "取り扱いタイトルは遊戯王OCG、ポケモンカード、ヴァイスシュヴァルツ、シャドウバースエボルヴ、ガンダムカードゲームと一番くじです。",
+   "デュエルスペースが24席あり、大会の参加者が優先されます。",
+   "現金のほかPayPayが使えますが、クレジットカードが使えるかは確認できていないので、現金を用意しておくと安心です。",
+   "2023年の資料では5階と書かれていますが、公式Xのプロフィールによると現在は同じ建物の7階です。",
+   "臨時休業や再入荷は公式X（@card_bankshop）でのみ告知されます。"
   ]
  },
  "official_url": null,

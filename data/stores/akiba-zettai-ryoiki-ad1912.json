@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "'클래식×카오스' 콘셉트 2호점 메이드 카페. 식사·디저트와 메이드 서빙",
-  "en": "Second branch, 'classical x chaos' theme: meals, desserts and maid table service"
+  "en": "Second branch, 'classical x chaos' theme: meals, desserts and maid table service",
+  "ja": "クラシカル×カオスがコンセプトの2号店メイドカフェ、食事やデザートとメイドの給仕"
  },
  "building_id": null,
  "floors": [
@@ -58,11 +59,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 店舗紹介 페이지 기준으로 4개 지점 모두 12:00-22:00 동일하다.",
-   "en": "Per the official shop page, all four branches keep the same 12:00-22:00 hours."
+   "en": "Per the official shop page, all four branches keep the same 12:00-22:00 hours.",
+   "ja": "公式の店舗紹介ページによると、4店舗とも12:00〜22:00で同じです。"
   },
   "source_url": "https://akibazettai.com/shop/"
  },
@@ -78,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "1호점(오바야시 빌딩)에서 같은 길을 동쪽으로 약 50m 간 하시카츠(箸勝) 빌딩 2층. 1층은 주방용품점 하시카츠 본점이고, 매장은 계단으로 2층에 올라간다.",
-  "en": "About 50 m east of the first branch along the same street, on 2F of the Hashikatsu Building. The ground floor is the kitchenware shop Hashikatsu; take the stairs up to 2F."
+  "en": "About 50 m east of the first branch along the same street, on 2F of the Hashikatsu Building. The ground floor is the kitchenware shop Hashikatsu; take the stairs up to 2F.",
+  "ja": "1号店から同じ通りを東へ約50m進んだ箸勝ビルの2Fです。1Fは厨房用品店の箸勝本店で、店舗へは階段で2Fへ上がります。"
  },
  "tips": {
   "ko": [
@@ -90,6 +94,11 @@
    "880 yen per person for 60 minutes with a one-drink order; extending requires another drink.",
    "It is a minute's walk from the first branch, so it is easy to switch if one is full.",
    "No payment methods are stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "料金は1人880円／60分の1ドリンクオーダー制で、延長する場合はドリンクを追加注文します。",
+   "1号店から徒歩1分の距離なので、片方が満席でももう一方へ移りやすいです。",
+   "支払い方法についての公式の案内がないため、現金を用意していくほうが安心です。"
   ]
  },
  "official_url": "https://akibazettai.com/shop/",

@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "중고 레트로 게임·레트로 PC·아케이드 기판과 오버홀 기기를 다루는 수집가·기판 유저용 전문점",
-  "en": "Used retro games, retro PCs, arcade PCBs and overhauled hardware for collectors"
+  "en": "Used retro games, retro PCs, arcade PCBs and overhauled hardware for collectors",
+  "ja": "コレクター向けの中古レトロゲーム、レトロPC、アーケード基板とオーバーホール済み機器"
  },
  "building_id": null,
  "floors": [
@@ -72,11 +73,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 수요일",
-   "en": "Wednesdays"
+   "en": "Wednesdays",
+   "ja": "毎週水曜日"
   },
   "note": {
    "ko": "평일은 12:00, 토·일·공휴일은 11:00 오픈. 공휴일이 수요일과 겹칠 때의 영업 여부는 공식 안내 없음. SEEKBASE 시설 안내에는 11:00~20:00·정기휴무 수요일로만 표기되어 있으나 BEEP 공식 페이지 기준으로 평일은 12:00 오픈.",
-   "en": "Opens 12:00 on weekdays and 11:00 on Sat/Sun/holidays. No official word on whether a public holiday falling on a Wednesday is open. The SEEKBASE directory lists 11:00-20:00 with Wednesday closing only; BEEP's own page gives the 12:00 weekday opening."
+   "en": "Opens 12:00 on weekdays and 11:00 on Sat/Sun/holidays. No official word on whether a public holiday falling on a Wednesday is open. The SEEKBASE directory lists 11:00-20:00 with Wednesday closing only; BEEP's own page gives the 12:00 weekday opening.",
+   "ja": "平日は12:00、土日・祝日は11:00に開店します。祝日が水曜と重なった場合に営業するかについては公式の案内がありません。SEEKBASEの施設案内には11:00〜20:00・定休日水曜としか書かれていませんが、BEEPの公式ページでは平日は12:00開店です。"
   },
   "source_url": "https://www.akihabara-beep.com/company/"
  },
@@ -91,13 +94,15 @@
   "state": "open",
   "note": {
    "ko": "2026-06-06 SEEKBASE 3호동으로 이전 개점. 구 매장(外神田3-9-8 中栄ビル B1F, 레트로 게임 캠프 인근)은 中栄ビル 철거로 2026-05-17 영업 종료.",
-   "en": "Reopened on 2026-06-06 in SEEKBASE building 3. The former basement store (Nakaei Bldg B1F, Sotokanda 3-9-8, near Retro Game Camp) closed on 2026-05-17 for the demolition of the Nakaei Building."
+   "en": "Reopened on 2026-06-06 in SEEKBASE building 3. The former basement store (Nakaei Bldg B1F, Sotokanda 3-9-8, near Retro Game Camp) closed on 2026-05-17 for the demolition of the Nakaei Building.",
+   "ja": "2026年6月6日にSEEKBASEの3号棟へ移転して開店しました。旧店舗（外神田3-9-8 中栄ビルB1F、レトロげーむキャンプ秋葉原店の近く）は中栄ビルの解体のため2026年5月17日に閉店しました。"
   },
   "effective_date": "2026-06-06"
  },
  "how_to_find": {
   "ko": "아키하바라역 북쪽 JR 고가 아래 상가 SEEKBASE의 3호동(주소 표기는 3区画), 지상 1층. 전기가 출구에서 나와 선로를 따라 북쪽으로 걸으면 ちゃばら(CHABARA)와 'SEEKBASE The Tools'(1호동) 간판을 차례로 지나고, 길 건너 왼편에 간다소방서(神田消防署)가 보이는 지점의 고가 아래가 3호동. 같은 3호동에 일본우편 'SOZO BOX'가 함께 들어와 있고, 그 북쪽 옆이 UNDER RAILWAY HOTEL(5호동).",
-  "en": "Ground level of SEEKBASE building 3 (the address writes it as 3区画), the strip under the JR viaduct north of Akihabara station. From the Electric Town exit follow the tracks north past Chabara and the 'SEEKBASE The Tools' (building 1) signs; building 3 is the arch section facing Kanda Fire Station across the street. Japan Post's SOZO BOX shares building 3, and UNDER RAILWAY HOTEL (building 5) is the next section north."
+  "en": "Ground level of SEEKBASE building 3 (the address writes it as 3区画), the strip under the JR viaduct north of Akihabara station. From the Electric Town exit follow the tracks north past Chabara and the 'SEEKBASE The Tools' (building 1) signs; building 3 is the arch section facing Kanda Fire Station across the street. Japan Post's SOZO BOX shares building 3, and UNDER RAILWAY HOTEL (building 5) is the next section north.",
+  "ja": "秋葉原駅の北側、JRの高架下の商業施設SEEKBASEの3号棟（住所の表記は3区画）の地上1階です。電気街口を出て線路沿いに北へ歩き、ちゃばらとSEEKBASE The Tools（1号棟）の看板を順に過ぎると、通りの向かいに神田消防署が見える高架下の区画が3号棟です。同じ3号棟には日本郵便のSOZO BOXが入っており、その北隣がUNDER RAILWAY HOTEL（5号棟）です。"
  },
  "tips": {
   "ko": [
@@ -111,6 +116,12 @@
    "The old basement store at Sotokanda 3-9-8 (Nakaei Bldg B1F) closed in May 2026 for demolition; OSM, Google Maps and older blogs still show that address, so do not follow it.",
    "A buyback counter handles arcade PCBs, retro PCs and consoles; for bulk lots or cabinets, use the buyback inquiry form on the official site first.",
    "The shop has a display of 1980s-90s digital gadgets and a dagashi-style retro game corner. Sales of limited or rare items are announced on the official X account (@BEEP_akihabara)."
+  ],
+  "ja": [
+   "定休日は水曜です。開店時間は曜日で異なり、平日は12:00、土日・祝日は11:00です。",
+   "外神田3-9-8の中栄ビル地下1階にあった旧店舗は、建物の解体のため2026年5月に閉店しました。OSMやGoogleマップ、古いブログにはまだその住所が残っているので、たどらないでください。",
+   "買取カウンターではアーケード基板、レトロPC、ゲーム機を扱います。大量の品や筐体などは、まず公式サイトの買取相談フォームから問い合わせてください。",
+   "店内には1980〜90年代のデジタルガジェットの展示と、駄菓子屋風のレトロゲームのコーナーがあります。限定品や希少品の販売は公式X（@BEEP_akihabara）で告知されます。"
   ]
  },
  "official_url": "https://www.akihabara-beep.com/",

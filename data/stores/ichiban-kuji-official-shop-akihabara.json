@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "반다이 이치반쿠지를 상시 뽑는 공식숍. 경품은 피규어·인형·캐릭터 굿즈",
-  "en": "Official Ichiban Kuji outlet: pay per draw for figure and character-goods prizes"
+  "en": "Official Ichiban Kuji outlet: pay per draw for figure and character-goods prizes",
+  "ja": "1回ごとに料金を払って引ける一番くじ公式ショップ、景品はフィギュアやキャラグッズ"
  },
  "building_id": "ichigo-akihabara-ekimae-building",
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "같은 건물의 namco 오락실은 23:00까지 열지만 이치반쿠지 공식숍은 21:00에 닫는다. 공식 페이지에도 '최신 영업시간은 뉴스에서 확인'이라는 단서가 붙어 있다.",
-   "en": "The namco arcade in the same building runs until 23:00, but the Ichiban Kuji shop closes at 21:00. The official page adds that the latest hours are announced in its news feed."
+   "en": "The namco arcade in the same building runs until 23:00, but the Ichiban Kuji shop closes at 21:00. The official page adds that the latest hours are announced in its news feed.",
+   "ja": "同じ建物のnamco秋葉原店のゲームセンターは23:00まで営業していますが、一番くじ公式ショップは21:00に閉店します。公式ページにも、最新の営業時間はニュースで確認するようにという断りが付いています。"
   },
   "source_url": "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/akihabara/"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 옛 세가 아키하바라 4호관(현 namco 아키하바라점) 건물 1층이며, 오락실 1층 안쪽에 이치반쿠지 전용 코너가 있다.",
-  "en": "One minute from the JR Akihabara Electric Town Exit, on the 1F of the former Sega Akihabara 4-gokan building, now namco Akihabara; the Ichiban Kuji counter sits inside the ground-floor arcade."
+  "en": "One minute from the JR Akihabara Electric Town Exit, on the 1F of the former Sega Akihabara 4-gokan building, now namco Akihabara; the Ichiban Kuji counter sits inside the ground-floor arcade.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分、旧セガ秋葉原4号館（現在のnamco秋葉原店）の1Fです。一番くじのコーナーは1Fのゲームセンターの中にあります。"
  },
  "tips": {
   "ko": [
@@ -90,6 +94,10 @@
   "en": [
    "You pay per draw and get the prize on the spot, so only titles still in stock can be drawn; the official site has a stock-information page listing current titles.",
    "It is one of 60-plus branches nationwide, so Akihabara-exclusive prizes are rare."
+  ],
+  "ja": [
+   "1回分の料金を払ってその場で景品を受け取る方式なので、在庫が残っているタイトルしか引けません。実施中のタイトルと在庫は、公式サイトの在庫情報ページで確認できます。",
+   "全国60店舗以上のうちの1店なので、限定景品が秋葉原だけというケースはまれです。"
   ]
  },
  "official_url": "https://bandainamco-am.co.jp/chara_shop/ichibankuji-official-shop/shop/akihabara/",

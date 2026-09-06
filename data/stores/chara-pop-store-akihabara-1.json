@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 한 작품씩 전개하는 3층 한정 콜라보 굿즈 팝업 매장",
-  "en": "3F pop-up shop with limited collaboration goods for one anime or game title at a time"
+  "en": "3F pop-up shop with limited collaboration goods for one anime or game title at a time",
+  "ja": "アニメ・ゲームを1作品ずつ展開する3Fの期間限定コラボグッズ店"
  },
  "building_id": "atre-akihabara-1",
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "아트레 아키하바라1 휴관일에 준함",
-   "en": "Closes when Atre Akihabara 1 closes"
+   "en": "Closes when Atre Akihabara 1 closes",
+   "ja": "アトレ秋葉原1の休館日に準じます"
   },
   "note": {
    "ko": "아트레 공식 점포 페이지 기준 10:00-21:00으로 건물 영업시간과 같다. 전개 작품에 따라 입장 방법이나 마감이 달라질 수 있어 개최 중인 콜라보 공지를 확인하는 편이 안전하다.",
-   "en": "10:00-21:00 per Atre's shop page, the same as the building. Entry rules and closing can differ per collaboration, so check the notice for the title currently running."
+   "en": "10:00-21:00 per Atre's shop page, the same as the building. Entry rules and closing can differ per collaboration, so check the notice for the title currently running.",
+   "ja": "アトレの店舗ページ基準で10:00-21:00と、建物の営業時間と同じです。コラボによって入場方法や終了時刻が変わることがあるので、開催中の作品の告知を確認してください。"
   },
   "source_url": "https://www.atre.co.jp/akihabara/shop/5686/"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "아트레 아키하바라1 3층. 스타벅스·3COINS·세이조이시이·코스파 오피셜 스토어와 같은 층이다. 2층에 이름이 같은 2호점이 따로 있으므로 반드시 층(3F)으로 구분한다.",
-  "en": "On 3F of Atre Akihabara 1, the floor shared with Starbucks, 3COINS, Seijo Ishii and the COSPA Official Store. An identically named No.2 unit is on 2F, so go by the floor."
+  "en": "On 3F of Atre Akihabara 1, the floor shared with Starbucks, 3COINS, Seijo Ishii and the COSPA Official Store. An identically named No.2 unit is on 2F, so go by the floor.",
+  "ja": "アトレ秋葉原1の3階で、スターバックス、3COINS、成城石井、コスパ オフィシャルストア アトレ秋葉原と同じフロアです。2階に同じ名前の2号店があるので、階で見分けてください。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,12 @@
    "Run lengths vary a lot by title - some last a few weeks, others more than half a year - so check the current title and its dates on the Cross Store's event notice or Atre's shop page before coming for a specific series.",
    "The format pairs venue-limited goods with mini-games.",
    "A JRE POINT member shop on Atre's directory, so Suica and JRE CARD work. No tax-free mark is shown."
+  ],
+  "ja": [
+   "2階の2号店とは同時に別々の作品を展開しています。名前が同じなので、3Fか2Fかで見分けてください。",
+   "展開期間は作品によって大きく違い、数週間のものもあれば半年を超えるものもあります。特定の作品のグッズが目的なら、バンダイナムコ Cross Store アトレ秋葉原店の開催情報かアトレの店舗ページで、いまの作品と期間を先に確認してください。",
+   "ここでしか買えない限定グッズとミニゲームが一緒に置かれる形式です。",
+   "アトレのフロアガイドではJRE POINT対象店舗なので、SuicaやJRE CARDが使えます。免税の表示はありません。"
   ]
  },
  "official_url": "https://www.atre.co.jp/akihabara/shop/5686/",

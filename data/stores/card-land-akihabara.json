@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "건담카드게임·원피스·디지몬 등 반다이 TCG 싱글과 건담워 같은 서비스 종료 카드까지 다루는 전문점",
-  "en": "Bandai TCG specialist - Gundam Card Game, One Piece and Digimon singles, plus discontinued sets such as Gundam War"
+  "en": "Bandai TCG specialist - Gundam Card Game, One Piece and Digimon singles, plus discontinued sets such as Gundam War",
+  "ja": "バンダイ系TCG専門店、ガンダムカードゲーム・ワンピース・デジモンのシングルやガンダムウォーも"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일 휴무",
-   "en": "Closed Tuesdays"
+   "en": "Closed Tuesdays",
+   "ja": "火曜日が定休日です。"
   },
   "note": {
    "ko": "공식 통판 사이트에는 영업시간 안내가 없고, 공식 X(@cardland_akiba) 프로필과 매달 새로 올리는 영업 안내 트윗이 유일한 1차 정보다. 신탄 준비나 임시 단축 영업으로 며칠씩 쉬는 주가 있으니 방문 전 X를 확인하는 편이 좋다.",
-   "en": "The mail-order site publishes no hours; the shop's X profile (@cardland_akiba) and the hours post it re-issues each month are the only primary statements. It also closes early or for several days at a time when a new set is being prepared, so check X before going."
+   "en": "The mail-order site publishes no hours; the shop's X profile (@cardland_akiba) and the hours post it re-issues each month are the only primary statements. It also closes early or for several days at a time when a new set is being prepared, so check X before going.",
+   "ja": "通販サイトには営業時間が載っておらず、店舗のXのプロフィール（@cardland_akiba）と毎月あらためて投稿される営業案内が唯一の一次情報です。新弾の準備中は早じまいしたり数日続けて休んだりすることもあるので、訪れる前にXを確認してください。"
   },
   "source_url": "https://x.com/cardland_akiba/status/2094376133383069778"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 약 6분, 간다묘진시타(神田明神下) 교차로 옆 6층짜리 '外神田ビル' 3층. 같은 건물 2층은 철도모형점 레일마이스터다.",
-  "en": "About six minutes west of the JR Akihabara Electric Town Exit, on 3F of the six-storey Sotokanda Building beside the Kanda-Myojinshita crossing; the model-train shop Rail Meister is on 2F."
+  "en": "About six minutes west of the JR Akihabara Electric Town Exit, on 3F of the six-storey Sotokanda Building beside the Kanda-Myojinshita crossing; the model-train shop Rail Meister is on 2F.",
+  "ja": "JR秋葉原駅電気街口から西へ徒歩6分ほど、神田明神下交差点のそばにある6階建ての外神田ビルの3階です。同じ建物の2階は、鉄道模型専門店 レールマイスターです。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "There is an 18-seat duel space, free to use with a purchase of 300 yen or more.",
    "It is one of the few shops still handling retired TCGs such as Gundam War and the old Digimon card game.",
    "Closed Tuesdays, and Sundays and public holidays end at 18:00. It sometimes shuts for several days to prepare a new set, so read the monthly hours post on the shop's X (@cardland_akiba)."
+  ],
+  "ja": [
+   "店頭での支払いは現金とPayPayのみです。クレジットカードや銀行振込は公式のオンラインショップでの扱いです。",
+   "デュエルスペースが18席あり、300円以上の購入で無料で利用できます。",
+   "ガンダムウォーや旧デジモンカードなど、サービスの終わったTCGを今も扱う数少ない店です。",
+   "火曜日が定休日で、日曜・祝日は18:00に閉まります。新弾の準備で数日続けて休むこともあるので、店舗のX（@cardland_akiba）の月ごとの営業案内の投稿を読んでおいてください。"
   ]
  },
  "official_url": "https://www.cardland-kamata.com/",

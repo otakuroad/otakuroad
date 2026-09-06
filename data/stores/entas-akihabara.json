@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "오노덴 본관 5층 이벤트 스페이스. VTuber·아이돌 라이브와 전시·팝업 굿즈 판매",
-  "en": "Event space on Onoden's 5F: VTuber and idol lives, exhibitions and pop-up merch"
+  "en": "Event space on Onoden's 5F: VTuber and idol lives, exhibitions and pop-up merch",
+  "ja": "オノデン本館5Fのイベントスペース。VTuber・アイドルのライブや展示、ポップアップ物販"
  },
  "building_id": "onoden-honkan",
  "floors": [
@@ -58,7 +59,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리 사거리 쪽으로 도보 2분. 큰 'オノデン' 간판을 단 가전 빌딩(오노덴 본관) 5층이다. 1~3층은 오노덴 가전 매장, 4층은 지스토어 아키바이므로 밖에서는 보이지 않는다. 1층으로 들어가 엘리베이터나 에스컬레이터로 5층까지 올라간다.",
-  "en": "Two minutes from the JR Akihabara Electric Town Exit toward the Chuo-dori intersection, on 5F of the electronics building under the big オノデン sign (Onoden Main Building). Floors 1-3 are Onoden's own electronics shop and 4F is GEE!STORE Akiba, so nothing shows from the street: enter on 1F and take the lift or escalator up to 5F."
+  "en": "Two minutes from the JR Akihabara Electric Town Exit toward the Chuo-dori intersection, on 5F of the electronics building under the big オノデン sign (Onoden Main Building). Floors 1-3 are Onoden's own electronics shop and 4F is GEE!STORE Akiba, so nothing shows from the street: enter on 1F and take the lift or escalator up to 5F.",
+  "ja": "JR秋葉原駅の電気街口から中央通りの交差点の方向へ徒歩2分、大きなオノデンの看板を掲げた家電ビル、オノデン本館の5Fです。1〜3Fはオノデンの家電売り場、4Fはジーストア・アキバなので通りからは見えず、1Fから入ってエレベーターかエスカレーターで5Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -70,6 +72,11 @@
    "Two exhibition/sales rooms A and B (about 50 sqm each) plus multipurpose room C (about 90 sqm) with PA, lighting, a 75-inch monitor and a 130-inch projector; the three can be joined into one large space.",
    "It is a rental venue with no shop and no fixed opening hours - it only opens for booked events, so check the organiser's announcement or the official X account (@akiba_entas) for dates and entry conditions.",
    "The 53 sqm LED screen on the station-facing wall of the building is often booked together with the space."
+  ],
+  "ja": [
+   "展示・物販向けのA・Bスペース（各約50㎡）と、音響・照明・75インチモニター・130インチプロジェクターを備えた多目的スペースC（約90㎡）に分かれ、3つをつなげて1つの広い空間としても使えます。",
+   "貸しスペース専用で常設の売り場も決まった営業時間もなく、イベントがある日だけ開きます。日程や入場条件は主催者の告知か公式X（@akiba_entas）で確認してください。",
+   "駅側を向いたビル壁面の53㎡のLEDビジョンを、イベントと合わせて使うことも多いです。"
   ]
  },
  "official_url": "https://www.entas.jp/",

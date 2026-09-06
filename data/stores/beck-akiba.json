@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "정원 50명 잼세션 바 겸 라이브하우스. 지하아이돌·애니송 DJ 이벤트 대관",
-  "en": "50-seat jam-session bar and live house rented out for idol, anison DJ and cosplay events"
+  "en": "50-seat jam-session bar and live house rented out for idol, anison DJ and cosplay events",
+  "ja": "定員50人のジャムセッションバー兼ライブハウス、アイドル・アニソンDJ・コスプレの貸切も"
  },
  "building_id": null,
  "floors": [
@@ -42,22 +43,26 @@
   {
    "floor": "1F",
    "ko": "라이브하우스 겸 잼세션 바(정원 50석). 스테이지·PA·DMX 조명·배신 장비, 대기실 포함",
-   "en": "Live house and jam-session bar, 50 seats, with stage, PA, DMX lighting, streaming gear and a green room"
+   "en": "Live house and jam-session bar, 50 seats, with stage, PA, DMX lighting, streaming gear and a green room",
+   "ja": "ライブハウス兼ジャムセッションバー（50席）で、ステージ、PA、DMX照明、配信機材、楽屋を備えています。"
   },
   {
    "floor": "2F",
    "ko": "리허설 스튜디오 201·202(밴드용)·203(보컬·피아노 교실용, 전자피아노 2대)",
-   "en": "Rehearsal studios 201 and 202 for bands, and 203 for vocal and piano lessons with two digital pianos"
+   "en": "Rehearsal studios 201 and 202 for bands, and 203 for vocal and piano lessons with two digital pianos",
+   "ja": "リハーサルスタジオで、201と202はバンド用、203は電子ピアノ2台を置いたボーカル・ピアノ教室用です。"
   },
   {
    "floor": "3F",
    "ko": "리허설 스튜디오 301(드럼 교실)·302(밴드용)·303(드럼 2대)",
-   "en": "Rehearsal studios 301 for drum lessons, 302 for bands and 303 with two drum kits"
+   "en": "Rehearsal studios 301 for drum lessons, 302 for bands and 303 with two drum kits",
+   "ja": "リハーサルスタジオで、301はドラム教室用、302はバンド用、303はドラム2台を備えています。"
   },
   {
    "floor": "4F",
    "ko": "아프레코(사후 녹음)를 할 수 있는 수록 스튜디오. 2·3층 리허설 스튜디오 요금표에는 나오지 않는다",
-   "en": "A recording studio set up for post-sync (afureco) voice recording; it is not listed in the published 2F/3F rehearsal-studio price list"
+   "en": "A recording studio set up for post-sync (afureco) voice recording; it is not listed in the published 2F/3F rehearsal-studio price list",
+   "ja": "アフレコに対応した収録スタジオで、2F・3Fのリハーサルスタジオの料金表には載っていません。"
   }
  ],
  "location": {
@@ -79,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 1분. 쇼와도리(고속도로 아래 국도)를 건너 소부선 고가 남쪽을 따라 동쪽으로 20초 걷다가 노래방 파세라에서 우회전하면 10초 만에 BECK 간판이 보인다. 도영 신주쿠선 이와모토초역에서는 2분.",
-  "en": "One minute from the JR Akihabara Showa-dori exit. Cross Showa-dori (the highway-covered avenue), follow the south side of the Sobu line viaduct east for about 20 seconds, turn right at karaoke Pasela and the BECK sign is 10 seconds further. Two minutes from Iwamotocho on the Toei Shinjuku line."
+  "en": "One minute from the JR Akihabara Showa-dori exit. Cross Showa-dori (the highway-covered avenue), follow the south side of the Sobu line viaduct east for about 20 seconds, turn right at karaoke Pasela and the BECK sign is 10 seconds further. Two minutes from Iwamotocho on the Toei Shinjuku line.",
+  "ja": "JR秋葉原駅の昭和通り口から徒歩1分です。昭和通り（高速道路の下の国道）を渡り、総武線の高架の南側を東へ20秒ほど歩いてカラオケのパセラで右に曲がると、10秒でBECKの看板が見えます。都営新宿線の岩本町駅からは2分です。"
  },
  "tips": {
   "ko": [
@@ -93,6 +99,12 @@
    "On weekday evenings it runs as a jam-session bar, 18:00-23:00, 1,500 yen with one drink, and travellers can join in on vocals or instruments.",
    "Bookings are mostly rock, jazz and hip-hop, but underground idol lives, idol talk-and-handshake events, anison DJ nights and cosplay events run regularly too.",
    "The 2F and 3F rehearsal studios start at 600 yen per person per hour; renting the 1F hall starts at 7,000 yen an hour on weekdays."
+  ],
+  "ja": [
+   "1Fのホールは毎日開いているわけではなく、予約の入ったイベントのある日に開きます。行く前に公式サイトのスケジュールページを確認してください。",
+   "平日の夜はジャムセッションバーとして18:00〜23:00に営業し、1ドリンク付き1,500円でボーカルや楽器に参加でき、旅行者でも入れます。",
+   "ブッキングはロック、ジャズ、ヒップホップが中心ですが、地下アイドルのライブ、アイドルのトークライブや握手会、アニソンDJのイベント、コスプレイベントも定期的に開かれます。",
+   "2Fと3Fのリハーサルスタジオは1人1時間600円から、1Fホールの貸切は平日1時間7,000円からです。"
   ]
  },
  "official_url": "https://beck-akiba.com/",

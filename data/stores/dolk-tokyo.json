@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "구체관절인형 본체와 헤드·위그·아이·의상을 1·2층에 갖춘 BJD 전문점",
-  "en": "Ball-jointed dolls plus heads, wigs, eyes and outfits across two floors"
+  "en": "Ball-jointed dolls plus heads, wigs, eyes and outfits across two floors",
+  "ja": "球体関節人形の本体とヘッド・ウィッグ・アイ・衣装を1F・2Fにそろえた専門店"
  },
  "building_id": null,
  "floors": [
@@ -74,11 +75,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(연말연시 제외)",
-   "en": "Open year-round except the New Year holidays"
+   "en": "Open year-round except the New Year holidays",
+   "ja": "年中無休（年末年始を除く）"
   },
   "note": {
    "ko": "평일은 19:30, 토·일·공휴일은 20:00 폐점으로 다르다. 상품 문의나 예약 보관은 전화로 받지 않는다.",
-   "en": "Closes at 19:30 on weekdays and 20:00 at weekends and holidays. The shop does not take phone holds or product enquiries."
+   "en": "Closes at 19:30 on weekdays and 20:00 at weekends and holidays. The shop does not take phone holds or product enquiries.",
+   "ja": "平日は19:30、土日祝は20:00閉店です。商品の問い合わせや取り置きは電話では受け付けていません。"
   },
   "source_url": "https://dolk.jp/portal/generic/tokyo"
  },
@@ -94,7 +97,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 7분, 도에이 신주쿠선 이와모토초역 A2 출구에서 도보 3분. 전기가 출구를 나와 직진해 이소마루수산 앞 신호를 건너 왼쪽으로 가면 와타미 옆에 작은 '간다 후레아이바시'가 있다. 다리를 건너면 왼쪽에 신사가 보이고, 신사 앞길을 따라가면 왼쪽이 야마우메(山梅) 빌딩. 1층이 도쿄점, 2층이 도쿄Plus점이다.",
-  "en": "Seven minutes from the JR Akihabara Electric Town exit, or three from Iwamotocho station exit A2 on the Toei Shinjuku line. From the Electric Town exit go straight, cross at Isomaru Suisan and turn left; beside the Watami is the small Kanda Fureai bridge. Cross it, pass the shrine on your left and follow the road in front of it — the Yamaume Building is on the left. 1F is the Tokyo store, 2F the Tokyo Plus store."
+  "en": "Seven minutes from the JR Akihabara Electric Town exit, or three from Iwamotocho station exit A2 on the Toei Shinjuku line. From the Electric Town exit go straight, cross at Isomaru Suisan and turn left; beside the Watami is the small Kanda Fureai bridge. Cross it, pass the shrine on your left and follow the road in front of it — the Yamaume Building is on the left. 1F is the Tokyo store, 2F the Tokyo Plus store.",
+  "ja": "JR秋葉原駅の電気街口から徒歩7分、都営新宿線の岩本町駅A2出口からは徒歩3分です。電気街口を出てまっすぐ進み、磯丸水産の前の信号を渡って左へ行くと、和民の脇に小さな神田ふれあい橋があります。橋を渡ると左手に神社が見え、その前の道を進むと左側が山梅ビルです。1Fが東京店、2Fが東京Plus店です。"
  },
  "tips": {
   "ko": [
@@ -108,6 +112,12 @@
    "Phone enquiries and holds on items are not accepted; use the mail form or official LINE instead.",
    "This is a separate, larger shop from DOLK DOLLSTOCK on 7F of Radio Kaikan.",
    "The closest station is Iwamotocho on the Toei Shinjuku line, not Akihabara."
+  ],
+  "ja": [
+   "1Fの東京店と2FのPlus店では取扱ブランドや在庫が異なるので、両方のフロアを見るのがおすすめです。",
+   "電話では商品の問い合わせや取り置きを受け付けていません。問い合わせは公式サイトのメールフォームか公式LINEをご利用ください。",
+   "ラジオ会館7FのDOLK 秋葉原ラジオ会館店とは別の店舗で、こちらのほうが規模が大きいです。",
+   "最寄り駅は秋葉原ではなく、都営新宿線の岩本町駅です。"
   ]
  },
  "official_url": "https://dolk.jp/portal/generic/tokyo",

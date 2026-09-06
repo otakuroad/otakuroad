@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "주오도리 오락실. 크레인게임 프라이즈, 음악게임, 비디오게임을 밤 24시까지",
-  "en": "Chuo-dori arcade: crane-game prizes, rhythm games and video cabinets, open until midnight"
+  "en": "Chuo-dori arcade: crane-game prizes, rhythm games and video cabinets, open until midnight",
+  "ja": "クレーンゲームの景品や音楽ゲーム、ビデオゲームが24:00まで遊べる中央通りのゲームセンター"
  },
  "building_id": null,
  "floors": [],
@@ -58,7 +59,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "운영사 레저랜(レジャラン) 공식 점포 페이지 기준 매일 10:00~24:00. 정기휴무는 공식 안내가 없다.",
-   "en": "Daily 10:00-24:00 on the operator's (Leisurelan) official store page. No regular closing day is stated."
+   "en": "Daily 10:00-24:00 on the operator's (Leisurelan) official store page. No regular closing day is stated.",
+   "ja": "運営会社レジャランの公式の店舗ページによると毎日10:00〜24:00です。定期休業についての公式の案内はありません。"
   },
   "source_url": "https://www.leisurelan.co.jp/store/gpakiba.html"
  },
@@ -74,7 +76,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분(쓰쿠바 익스프레스 아키하바라역에서 5분). 주오도리 동쪽 보도를 따라 라디오센터에서 북쪽으로 조금 올라간 'Akihabara ex' 건물이며, 노란 바탕의 GAME PANIC 간판이 표식이다.",
-  "en": "One minute from the JR Akihabara Electric Town exit (five from Tsukuba Express Akihabara). On the east sidewalk of Chuo-dori just north of the Radio Center, in the 'Akihabara ex' building under the yellow GAME PANIC sign."
+  "en": "One minute from the JR Akihabara Electric Town exit (five from Tsukuba Express Akihabara). On the east sidewalk of Chuo-dori just north of the Radio Center, in the 'Akihabara ex' building under the yellow GAME PANIC sign.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分、つくばエクスプレスの秋葉原駅からは5分です。中央通りの東側の歩道を秋葉原ラジオセンターから少し北へ上がったAkihabara exというビルで、黄色地のGAME PANICの看板が目印です。"
  },
  "tips": {
   "ko": [
@@ -86,6 +89,11 @@
    "Open until midnight, one of the later-closing arcades in Akihabara.",
    "The official listing gives three genres on site: prize (crane) games, rhythm games and video cabinets.",
    "New prize stock and events are posted on the official X account (@GP_AKIBA)."
+  ],
+  "ja": [
+   "夜24:00まで開いていて、秋葉原で遅くまで遊べるゲーセンの一つです。",
+   "公式の案内では、設置ジャンルはプライズ（クレーンゲーム）、音楽ゲーム、ビデオゲームの3つです。",
+   "新しい景品の入荷やイベントは公式X（@GP_AKIBA）で告知されます。"
   ]
  },
  "official_url": "https://www.leisurelan.co.jp/store/gpakiba.html",

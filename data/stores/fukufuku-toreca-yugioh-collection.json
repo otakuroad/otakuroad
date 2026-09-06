@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "유희왕 전용 4층 매장. 초기판·빈티지 싱글, 절판 미개봉 박스, 슬리브",
-  "en": "Yu-Gi-Oh!-only 4F shop: early-era and vintage singles, out-of-print boxes, card supplies"
+  "en": "Yu-Gi-Oh!-only 4F shop: early-era and vintage singles, out-of-print boxes, card supplies",
+  "ja": "遊戯王専門の4F店。初期版・ヴィンテージのシングル、絶版の未開封ボックス、サプライ"
  },
  "building_id": "kambayashi-building",
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 점포 페이지와 체인 점포 목록에 정기휴일 표기가 없다.",
-   "en": "Neither the official store page nor the chain's store list gives a regular closing day."
+   "en": "Neither the official store page nor the chain's store list gives a regular closing day.",
+   "ja": "公式の店舗ページにも、チェーンの店舗一覧にも、定休日の記載はありません。"
   },
   "source_url": "https://fukufukutoreka.com/description_detail_yugioh_collection"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 왼쪽으로 나와 막다른 곳에서 오른쪽, 첫 신호를 건너 마츠모토키요시와 세가 사이로 들어가 첫 모퉁이에서 오른쪽. 라신방 모퉁이에서 왼쪽으로 꺾으면 바로 신린(神林)빌딩이며, 같은 체인의 1층 매장 옆 엘리베이터로 4층에 올라간다.",
-  "en": "From the JR Akihabara Electric Town Exit go left, right at the end, cross the first signal, walk between Matsumoto Kiyoshi and Sega and turn right at the first corner; turn left at the Lashinbang corner and the Kambayashi Building is right there. Take the lift up to 4F, past the chain's own ground-floor shop."
+  "en": "From the JR Akihabara Electric Town Exit go left, right at the end, cross the first signal, walk between Matsumoto Kiyoshi and Sega and turn right at the first corner; turn left at the Lashinbang corner and the Kambayashi Building is right there. Take the lift up to 4F, past the chain's own ground-floor shop.",
+  "ja": "JR秋葉原駅の電気街口を出て左へ、突き当たりを右に曲がり、最初の信号を渡ってマツモトキヨシとセガの間に入り、最初の角を右に曲がります。らしんばんの角を左に折れるとすぐ神林ビルで、同じチェーンの1Fの店舗の脇にあるエレベーターで4Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,12 @@
    "Opening time differs by day - 13:00 on weekdays, 10:00 at weekends and on public holidays - while closing is 21:00 throughout.",
    "No phone number is published on the official site; enquiries go through the contact form on the Fukufuku Toreka portal.",
    "The same chain's Collection Card store on 1F of the same Kambayashi Building stocks Yu-Gi-Oh! and Pokemon cards."
+  ],
+  "ja": [
+   "扱う商品は遊戯王のコレクションカードとスリーブなどのサプライが中心なので、プレイ用のシングルは種類が少なめです。",
+   "開店時間は平日13:00、土日祝10:00と曜日によって違いますが、閉店はどちらも21:00です。",
+   "公式サイトに電話番号は載っておらず、問い合わせは福福トレカのポータルの問い合わせフォームで受け付けています。",
+   "同じ神林ビルの1Fにも同じチェーンのコレクションカード専門店があり、遊戯王とポケモンカードを合わせて見られます。"
   ]
  },
  "official_url": "https://fukufukutoreka.com/description_detail_yugioh_collection",

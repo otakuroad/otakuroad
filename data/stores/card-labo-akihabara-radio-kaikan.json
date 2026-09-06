@@ -43,7 +43,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·원피스 등 16개 TCG 싱글·팩 판매와 매입, 64석 유희왕 전용 듀얼 스페이스",
-  "en": "Singles, packs and buyback for 16 TCGs including Yu-Gi-Oh and Pokemon; 64-seat duel space"
+  "en": "Singles, packs and buyback for 16 TCGs including Yu-Gi-Oh and Pokemon; 64-seat duel space",
+  "ja": "遊戯王・ポケモンなど16タイトルのシングル・パック販売と買取、64席のデュエルスペース"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -53,7 +54,8 @@
   {
    "floor": "9F",
    "ko": "카드라보 본점의 싱글·팩 판매대와 매입 카운터, 유희왕 전용 64석 듀얼 스페이스, 유희왕 특화 코너 '사테라이트숍 TOKYO 아키하바라점'. 같은 층에 BIG MAGIC 아키하바라점과 풀콤프가 별도 매장으로 있음",
-   "en": "Card Labo main store singles and pack shelves, the buyback counter, the 64-seat Yu-Gi-Oh-only duel space and the Yu-Gi-Oh-focused Satellite Shop TOKYO corner; BIG MAGIC Akihabara and Fullcomp are separate shops on the same floor"
+   "en": "Card Labo main store singles and pack shelves, the buyback counter, the 64-seat Yu-Gi-Oh-only duel space and the Yu-Gi-Oh-focused Satellite Shop TOKYO corner; BIG MAGIC Akihabara and Fullcomp are separate shops on the same floor",
+   "ja": "カードラボ本店のシングル・パックの売り場と買取カウンター、64席の遊戯王専用デュエルスペース、遊戯王に特化したサテライトショップ TOKYO 秋葉原店のコーナーがあります。同じフロアには、BIG MAGIC 秋葉原店とフルコンプ秋葉原ラジオ会館店が別の店舗として入っています。"
   }
  ],
  "location": null,
@@ -79,7 +81,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 12:00~18:45로 영업시간보다 짧다. 매장 영업시간은 라디오회관 건물(10:00~20:00)과 동일",
-   "en": "Buyback desk 12:00-18:45, shorter than store hours. Store hours match the Radio Kaikan building (10:00-20:00)"
+   "en": "Buyback desk 12:00-18:45, shorter than store hours. Store hours match the Radio Kaikan building (10:00-20:00)",
+   "ja": "買取の受付は12:00-18:45で、営業時間より短くなっています。店舗の営業時間はラジオ会館の建物（10:00-20:00）と同じです。"
   },
   "source_url": "https://www.c-labo.jp/shop/radiohonten/"
  },
@@ -95,7 +98,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구로 나와 광장 건너편 정면에 보이는 10층 건물이 라디오회관. 1F 정면 입구로 들어가 엘리베이터로 9F까지 올라가면 BIG MAGIC·풀콤프와 같은 층에 카드라보 간판이 있다.",
-  "en": "Leave JR Akihabara by the Electric Town Exit; Radio Kaikan is the 10-storey building straight ahead across the plaza. Enter at the 1F front entrance and take the elevator to 9F, where Card Labo shares the floor with BIG MAGIC and Fullcomp."
+  "en": "Leave JR Akihabara by the Electric Town Exit; Radio Kaikan is the 10-storey building straight ahead across the plaza. Enter at the 1F front entrance and take the elevator to 9F, where Card Labo shares the floor with BIG MAGIC and Fullcomp.",
+  "ja": "JR秋葉原駅の電気街口を出ると、広場の向かい正面に見える10階建てのビルがラジオ会館です。1Fの正面入口から入ってエレベーターで9Fまで上がると、BIG MAGIC 秋葉原店やフルコンプ秋葉原ラジオ会館店と同じフロアにカードラボの看板があります。"
  },
  "tips": {
   "ko": [
@@ -109,6 +113,12 @@
    "Credit cards (VISA, Mastercard, JCB, AMEX, Diners, UnionPay), transit IC cards and QR payments such as PayPay are accepted. Tax-free is not listed on the official page, so ask at the counter",
    "Renewed as a Yu-Gi-Oh satellite shop in December 2021; the 64-seat Yu-Gi-Oh-only duel space runs events every day and fills up at event times",
    "The 16 titles stocked include Yu-Gi-Oh OCG and Rush Duel, Pokemon, Duel Masters, Weiss Schwarz, One Piece, hololive and the Gundam Card Game. For Yu-Gi-Oh only, use the Satellite Shop TOKYO corner on the same 9F"
+  ],
+  "ja": [
+   "買取の受付は12:00-18:45で、営業時間より短くなっています。売るだけなら、同じ建物の1Fにある中古専門のカードラボ 秋葉原ラジオ会館買取センターのほうが早く済みます。",
+   "クレジットカード（VISA・Mastercard・JCB・AMEX・Diners・UnionPay）、交通系ICカード、PayPayなどのQR決済が使えます。免税は公式ページに記載がないので、カウンターで確認してください。",
+   "2021年12月に遊戯王のサテライトショップとしてリニューアルしました。64席の遊戯王専用デュエルスペースでは毎日イベントが開かれ、イベントの時間帯は席が埋まります。",
+   "取り扱う16タイトルには、遊戯王OCG・ラッシュデュエル、ポケモン、デュエル・マスターズ、ヴァイスシュヴァルツ、ワンピース、ホロライブ、ガンダムカードゲームが含まれます。遊戯王だけを見るなら、同じ9Fのサテライトショップ TOKYO 秋葉原店のコーナーへどうぞ。"
   ]
  },
  "official_url": "https://www.c-labo.jp/shop/radiohonten/",

@@ -46,7 +46,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·원피스 등 TCG 싱글과 팩 판매·매입, 4개 층 듀얼 스페이스",
-  "en": "TCG singles, packs and buyback on four floors, with duel space and tournaments"
+  "en": "TCG singles, packs and buyback on four floors, with duel space and tournaments",
+  "ja": "4フロアでTCGのシングル・パック販売と買取、デュエルスペースと大会も"
  },
  "building_id": "akihabara-nomura-building",
  "floors": [
@@ -84,11 +85,13 @@
   ],
   "regular_holiday": {
    "ko": "정기휴일 없음",
-   "en": "No regular closing day"
+   "en": "No regular closing day",
+   "ja": "定休日はありません。"
   },
   "note": {
    "ko": "평일에도 1층만 10:00에 문을 열고 3·4·5층은 12:00부터. 토·일·공휴일은 전 층 10:00 개점. 대회 접수는 5층 계산대에서 받는다.",
-   "en": "On weekdays only 1F opens at 10:00; 3F, 4F and 5F open at 12:00. All floors open at 10:00 on weekends and holidays. Tournament sign-up is at the 5F register."
+   "en": "On weekdays only 1F opens at 10:00; 3F, 4F and 5F open at 12:00. All floors open at 10:00 on weekends and holidays. Tournament sign-up is at the 5F register.",
+   "ja": "平日は1階のみ10:00に開き、3F・4F・5Fは12:00からです。土日・祝日は全フロアが10:00開店です。大会の受付は5階のレジで行います。"
   },
   "source_url": "https://cardkingdom.jp/stores/akihabara-ekimae/"
  },
@@ -104,7 +107,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 바로 앞 블록, AKIHABARA 게이머즈 본점 옆에 붙어 있는 아키하바라 노무라 빌딩. 1층이 곧 매장 입구이고 3·4·5층은 건물 엘리베이터로 올라간다.",
-  "en": "In the Akihabara Nomura Building, right beside AKIHABARA Gamers on the block facing JR Akihabara's Electric Town Exit. The 1F shop is the entrance; take the building elevator for 3F, 4F and 5F."
+  "en": "In the Akihabara Nomura Building, right beside AKIHABARA Gamers on the block facing JR Akihabara's Electric Town Exit. The 1F shop is the entrance; take the building elevator for 3F, 4F and 5F.",
+  "ja": "JR秋葉原駅電気街口の正面のブロック、AKIHABARAゲーマーズ本店のすぐ隣にある秋葉原野村ビルです。1階の店舗がそのまま入口で、3F・4F・5Fへはビルのエレベーターで上がります。"
  },
  "tips": {
   "ko": [
@@ -118,6 +122,12 @@
    "Tournament sign-up is taken only at the 5F register. Events starting after 18:00 do not admit players in school uniform, and over-capacity entries go to a lottery.",
    "The official site gives no floor-by-floor title list and the layout changes; check the shop's X account (@ck_akihabara) for the current one.",
    "Neither tax-free nor card acceptance is stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "平日の午前中に来ると1階しか開いていません。シングルカードを見たいなら12:00より後に訪れてください。",
+   "大会の参加申し込みは5階のレジでのみ受け付けます。18時以降に始まる大会は制服での参加ができず、定員を超えた場合は抽選になります。",
+   "フロアごとの取り扱いタイトルは公式サイトに一覧がなく、配置も変わります。最新の内容は店舗のX（@ck_akihabara）で確認してください。",
+   "免税もカード決済も公式には明記されていないので、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://cardkingdom.jp/stores/akihabara-ekimae/",

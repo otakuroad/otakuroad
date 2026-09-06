@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "2002년 문을 연 메이드 카페. 홍차와 가정식, 요일별 코스프레 의상",
-  "en": "Maid cafe open since 2002, serving black tea and light meals; themed costume days"
+  "en": "Maid cafe open since 2002, serving black tea and light meals; themed costume days",
+  "ja": "2002年開店のメイドカフェ、紅茶と軽食、曜日ごとのコスプレ衣装"
  },
  "building_id": null,
  "floors": [
@@ -72,11 +73,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 수요일",
-   "en": "Closed on Wednesdays"
+   "en": "Closed on Wednesdays",
+   "ja": "毎週水曜日が定休日です。"
   },
   "note": {
    "ko": "라스트오더는 식사 21:00, 음료 21:30. 수요일은 정기 휴무이며 공휴일은 12:00 개점. 금요일 밤에는 22:00부터 다음 날 05:00까지 심야 영업 '살롱 메이리쉬'를 부정기로 열며, 개최일은 공식 X와 이벤트 안내에 올라온다.",
-   "en": "Last order is 21:00 for food and 21:30 for drinks. Closed Wednesdays; public holidays follow the 12:00 opening. On some Friday nights the cafe runs the late-night 'Salon Mai:lish' from 22:00 until 05:00, announced irregularly on the official X account and event page."
+   "en": "Last order is 21:00 for food and 21:30 for drinks. Closed Wednesdays; public holidays follow the 12:00 opening. On some Friday nights the cafe runs the late-night 'Salon Mai:lish' from 22:00 until 05:00, announced irregularly on the official X account and event page.",
+   "ja": "ラストオーダーは食事が21:00、ドリンクが21:30です。水曜日は定休日で、祝日は12:00開店です。金曜の夜には22:00から翌05:00までの深夜営業「サロン・メイリッシュ」が不定期で開かれ、開催日は公式Xとイベント案内で告知されます。"
   },
   "source_url": "https://www.mailish.jp/about.html"
  },
@@ -92,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 8분, 도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 3분. 스에히로초역 3번 출구로 나와 주오도리와 교차하는 길을 왼쪽으로 들어가면 왼편에 파출소가 보이고, 첫 신호 '쓰마코이자카 교차로'에서 왼쪽으로 약 50m. 1층에 야요이켄(やよい軒), 옆에 미용실 off-kai가 있는 FH협화스퀘어 빌딩 2층이다.",
-  "en": "Eight minutes from the JR Akihabara Electric Town exit, three minutes from exit 3 of Suehirocho on the Ginza line. From exit 3 take the street crossing Chuo-dori to the left, pass the police box on your left, then turn left at the first signal (Tsumakoizaka crossing) and walk about 50 m. It is the 2nd floor of the FH Kyowa Square building, the one with the Yayoiken restaurant on the ground floor and the off-kai hair salon next door."
+  "en": "Eight minutes from the JR Akihabara Electric Town exit, three minutes from exit 3 of Suehirocho on the Ginza line. From exit 3 take the street crossing Chuo-dori to the left, pass the police box on your left, then turn left at the first signal (Tsumakoizaka crossing) and walk about 50 m. It is the 2nd floor of the FH Kyowa Square building, the one with the Yayoiken restaurant on the ground floor and the off-kai hair salon next door.",
+  "ja": "JR秋葉原駅電気街口から徒歩8分、東京メトロ銀座線の末広町駅3番出口から徒歩3分です。3番出口を出て中央通りと交わる道を左に入ると左手に交番があり、最初の信号の妻恋坂交差点を左に曲がって50mほど進みます。1階にやよい軒、隣に美容室のoff-kaiが入っているFH協和スクエアビルの2階です。"
  },
  "tips": {
   "ko": [
@@ -110,6 +114,14 @@
    "Free Wi-Fi and power outlets are open to customers, and a stamp card gives one stamp per 1,000 yen, with 20 stamps exchangeable for an original not-for-sale gift.",
    "Per the official notice the card terminal is out of order and payment is cash only for now, so check the site's notice before going.",
    "Table reservations are taken by phone (03-5289-7310) on weekdays only (Mon/Tue/Thu 14:00-20:00, Fri 12:00-20:00); no reservations on Wednesdays, weekends, holidays or event days."
+  ],
+  "ja": [
+   "90分1オーダー制（90分の間に1人1品以上）で、テーブルチャージはありません。混雑時は90分の入れ替え制になることがあります。",
+   "店内やウェイトレスの撮影・録音は禁止で、注文した料理だけはスタッフに一声かけてから撮影できます。店内でカードゲームなどの遊びをすることも控えるよう求められています。",
+   "木曜日は一日中クラシカルなメイド服を着る「クラシカルメイドDAY」、毎月30日は「mimy*Day」で、週末にはほぼ毎週オリジナルのイベントが開かれます。",
+   "無料Wi-Fiとコンセントを自由に使え、1,000円ごとに1つ押されるスタンプを20個集めると、非売品のオリジナルグッズと交換してもらえます。",
+   "公式のお知らせによると、カード端末の故障で現在は現金払いのみです。訪れる前に公式サイトのお知らせを確認してください。",
+   "席の予約は平日のみ電話（03-5289-7310）で受け付けています（月・火・木は14:00-20:00、金は12:00-20:00）。水曜日と土日・祝日、イベントの日は予約できません。"
   ]
  },
  "official_url": "https://www.mailish.jp/",

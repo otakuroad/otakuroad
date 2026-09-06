@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "'2.5차원×전뇌세계' 콘셉트의 16석 소형 메이드 카페. 식사·음료 제공",
-  "en": "Small 16-seat maid cafe themed '2.5D x cyberspace', serving meals and drinks"
+  "en": "Small 16-seat maid cafe themed '2.5D x cyberspace', serving meals and drinks",
+  "ja": "2.5次元×電脳世界がコンセプトの16席の小さなメイドカフェ、食事や飲み物も"
  },
  "building_id": null,
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 店舗紹介 페이지 기준 12:00-22:00. 이전 점포 시절 정보가 남은 페이지에는 12:00-21:00으로 적혀 있다.",
-   "en": "12:00-22:00 per the official shop page; pages left over from the old location still say 12:00-21:00."
+   "en": "12:00-22:00 per the official shop page; pages left over from the old location still say 12:00-21:00.",
+   "ja": "公式の店舗紹介ページでは12:00〜22:00です。以前の店舗時代の情報が残っているページには12:00〜21:00と書かれています。"
   },
   "source_url": "https://akibazettai.com/shop/"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 4번 출구 바로 앞 사카이스에히로(サカイ末広) 빌딩 2층. 아키하바라 전기가 중심부에서는 주오도리를 따라 북쪽으로 도보 8분쯤 올라간 위치로, 다른 세 지점과는 떨어져 있다.",
-  "en": "On 2F of the Sakai Suehiro Building, right outside Exit 4 of Suehirocho station on the Ginza line. It is about eight minutes north along Chuo-dori from the main Electric Town area, well away from the other three branches."
+  "en": "On 2F of the Sakai Suehiro Building, right outside Exit 4 of Suehirocho station on the Ginza line. It is about eight minutes north along Chuo-dori from the main Electric Town area, well away from the other three branches.",
+  "ja": "東京メトロ銀座線末広町駅4番出口のすぐ前にあるサカイ末広ビルの2Fです。秋葉原電気街の中心部からは中央通りを北へ徒歩8分ほど上がった場所で、ほかの3店舗とは離れています。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,12 @@
    "The former address, 2F Akiba Asobikan at Sotokanda 1-6-3, still appears on map, review and booking sites; the shop now trades in the Sakai Suehiro Building near Suehirocho.",
    "880 yen per person for 60 minutes with a one-drink order; extending requires another drink.",
    "No payment methods are stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "16席だけの小さな店舗なので、土日は席がすぐに埋まります。",
+   "以前の住所である外神田1-6-3のアキバあそび館2Fが、地図やグルメ、予約サイトにまだ残っています。現在営業しているのは末広町のサカイ末広ビルです。",
+   "料金は1人880円／60分の1ドリンクオーダー制で、延長する場合はドリンクを追加注文します。",
+   "支払い方法についての公式の案内がないため、現金を用意していくほうが安心です。"
   ]
  },
  "official_url": "https://akibazettai.com/shop/",

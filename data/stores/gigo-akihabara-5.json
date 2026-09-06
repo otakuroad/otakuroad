@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "영걸대전·함대컬렉션 등 아케이드 카드게임과 크레인 게임 중심 오락실",
-  "en": "Arcade card games such as Eiketsu Taisen and KanColle Arcade, plus crane games"
+  "en": "Arcade card games such as Eiketsu Taisen and KanColle Arcade, plus crane games",
+  "ja": "英傑大戦や艦これアーケードなどのアーケードカードゲームとクレーンゲームが中心のゲームセンター"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "5층 이벤트 공간 Akib@ko는 10:00-21:00으로 오락실과 시간이 다르며, 대관 행사가 있는 날에만 연다.",
-   "en": "Akib@ko, the event space on 5F, runs 10:00-21:00 and only opens on days it is booked for an event."
+   "en": "Akib@ko, the event space on 5F, runs 10:00-21:00 and only opens on days it is booked for an event.",
+   "ja": "5FのイベントスペースAkib@koは10:00〜21:00で、貸し切りのイベントが入っている日だけ開きます。"
   },
   "source_url": "https://www.gigo.co.jp/shops/akihabara5"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리에서 한 블록 서쪽으로 들어간 전자부품 골목으로, 도쿄 라디오 데파트 바로 옆이다. 1층 길가의 GiGO 타이야키 매점이 표식.",
-  "en": "Three minutes from the JR Akihabara Electric Town Exit, one block west of Chuo-dori in the electronics-parts lane right beside the Tokyo Radio Depart. The GiGO taiyaki stand at street level is the landmark."
+  "en": "Three minutes from the JR Akihabara Electric Town Exit, one block west of Chuo-dori in the electronics-parts lane right beside the Tokyo Radio Depart. The GiGO taiyaki stand at street level is the landmark.",
+  "ja": "JR秋葉原駅の電気街口から徒歩3分、中央通りから西へ一本入った電子部品の路地にあり、東京ラジオデパートのすぐ隣です。1Fの路面にあるGiGOのたい焼き店が目印です。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "5F is Akib@ko, a rental event space that opens only for booked seiyuu/anime events and goods sales.",
    "A GiGO taiyaki stand sits at street level on 1F for a snack between games.",
    "There are no rhythm games here; Building 3 is a minute's walk away."
+  ],
+  "ja": [
+   "4Fに英傑大戦があり、艦これアーケード、ガンダムアーセナルベース、アイドルマスター TOURS、麻雀格闘倶楽部 UNION、カードコネクトといった大型のアーケードカードゲームが、秋葉原ではこの店舗に集まっています。",
+   "5Fは貸しイベントスペースのAkib@koで、声優・アニメ系のイベントや物販が入っている日だけ開きます。",
+   "1Fの路面にGiGOのたい焼き店があり、ゲームの合間に軽食を買えます。",
+   "リズムゲームはこの店舗にはありません。徒歩1分のGiGO秋葉原3号館へどうぞ。"
   ]
  },
  "official_url": "https://www.gigo.co.jp/shops/akihabara5",

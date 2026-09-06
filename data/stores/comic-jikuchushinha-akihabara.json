@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "미소녀 일러스트 타페스트리와 복제 원화·아크릴 굿즈를 파는 일러스트 전문점",
-  "en": "Bishoujo illustration tapestries, art prints and acrylic goods from named illustrators"
+  "en": "Bishoujo illustration tapestries, art prints and acrylic goods from named illustrators",
+  "ja": "イラストレーターの美少女タペストリー・複製原画・アクリルグッズ専門店"
  },
  "building_id": null,
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일·수요일",
-   "en": "Tuesdays and Wednesdays"
+   "en": "Tuesdays and Wednesdays",
+   "ja": "火曜日・水曜日"
   },
   "note": {
    "ko": "목요일은 13:00 개점이고, 전시 회기 첫날도 13:00 개점이다. 연말연시·골든위크·오본과 이벤트 사정으로 시간이 바뀔 수 있고, 공휴일이 화·수요일이면 휴무일 수 있다",
-   "en": "Opens at 13:00 on Thursdays, and at 13:00 on the first day of an exhibition run. Hours change over New Year, Golden Week, Obon and around events; a public holiday falling on a Tuesday or Wednesday may still be a closing day"
+   "en": "Opens at 13:00 on Thursdays, and at 13:00 on the first day of an exhibition run. Hours change over New Year, Golden Week, Obon and around events; a public holiday falling on a Tuesday or Wednesday may still be a closing day",
+   "ja": "木曜日は13:00開店で、展示会期の初日も13:00開店です。年末年始・ゴールデンウィーク・お盆やイベントの都合で時間が変わることがあり、祝日が火曜・水曜に当たる場合も定休日となることがあります。"
   },
   "source_url": "https://artjeuness.jp/shop_akihabara/"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도, 1층에 엑셀시오르 카페가 있는 AKIBA PLACE 건물 4층. 도쿄메트로 긴자선 스에히로초역에서 도보 2분, JR 전기가 출구에서 도보 5분이며, 같은 층의 갤러리 아르주네스 秋葉原와 한 매장으로 이어진다.",
-  "en": "4F of the AKIBA PLACE building on the west side of Chuo-dori, with an Excelsior Caffe on the ground floor. Two minutes from Suehirocho station on the Ginza line, five from the JR Electric Town exit; it shares the floor with the ARTJEUNESS Akihabara gallery."
+  "en": "4F of the AKIBA PLACE building on the west side of Chuo-dori, with an Excelsior Caffe on the ground floor. Two minutes from Suehirocho station on the Ginza line, five from the JR Electric Town exit; it shares the floor with the ARTJEUNESS Akihabara gallery.",
+  "ja": "中央通り西側、1階にエクセルシオール カフェが入るAKIBA PLACEビルの4Fです。東京メトロ銀座線の末広町駅から徒歩2分、JRの電気街口から徒歩5分で、同じフロアにギャラリーARTJEUNESS秋葉原が併設されています。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,11 @@
    "Closed Tuesdays and Wednesdays, so check the day before you go; it opens at 13:00 on Thursdays and on an exhibition's first day",
    "The ARTJEUNESS gallery on the same floor runs illustrator original-art and reproduction shows alongside the shop",
    "Tapestry first printings and reprints are told apart by the logo colour, and only popular pieces are ever reprinted"
+  ],
+  "ja": [
+   "火曜日と水曜日が定休日なので、出かける前に曜日を確かめてください。木曜日と展示会期の初日は13:00開店です。",
+   "同じフロアのギャラリーARTJEUNESSでは、イラストレーターの原画や複製原画の展示・販売が店舗と並行して行われています。",
+   "タペストリーは初版と再版をロゴの色で見分けられ、人気作以外はほとんど再版されません。"
   ]
  },
  "official_url": "https://artjeuness.jp/shop_akihabara/",

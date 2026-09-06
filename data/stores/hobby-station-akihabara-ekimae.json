@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "아케이드 카드게임과 유희왕·바이스슈발츠 싱글, 중고 베이블레이드X 파츠 매매",
-  "en": "Arcade card games, Yu-Gi-Oh and Weiss Schwarz singles, and used BEYBLADE X parts"
+  "en": "Arcade card games, Yu-Gi-Oh and Weiss Schwarz singles, and used BEYBLADE X parts",
+  "ja": "アーケードカードゲームと遊戯王・ヴァイスシュヴァルツのシングル、中古ベイブレードXパーツ"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "라디오회관 건물 영업시간과 동일. 이름은 '역앞점'이지만 건물 밖 별도 점포가 아니라 라디오회관 2F에 있다.",
-   "en": "Same as the Radio Kaikan building hours. Despite the name 'Ekimae' (station front) it is not a separate street-level shop but sits on 2F of Radio Kaikan."
+   "en": "Same as the Radio Kaikan building hours. Despite the name 'Ekimae' (station front) it is not a separate street-level shop but sits on 2F of Radio Kaikan.",
+   "ja": "営業時間はラジオ会館の建物と同じです。駅前店という名前ですが、建物の外にある別の路面店ではなく、ラジオ会館の2Fにあります。"
   },
   "source_url": "https://www.hbst.net/shop/30/"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 1F에서 에스컬레이터나 엘리베이터로 2F. 카드숍 카이조쿠오·하비코로 완구·렌탈 쇼케이스 아스톱과 같은 층이며, 같은 체인의 1F 매장과 헷갈리기 쉽다.",
-  "en": "Take the escalator or elevator from Radio Kaikan's 1F to 2F, the floor shared with Card Shop Kaizokuou, Havikoro Toy and the Astop rental showcases. Easy to confuse with the same chain's 1F shop."
+  "en": "Take the escalator or elevator from Radio Kaikan's 1F to 2F, the floor shared with Card Shop Kaizokuou, Havikoro Toy and the Astop rental showcases. Easy to confuse with the same chain's 1F shop.",
+  "ja": "ラジオ会館の1Fからエスカレーターかエレベーターで2Fへ上がります。カードショップ買賊王 ラジオ会館店やハビコロ玩具 ラジオ会館店、レンタルショーケース アストップ ラジオ会館店と同じフロアで、同じチェーンの1Fの店舗と間違えやすいので注意してください。"
  },
  "tips": {
   "ko": [
@@ -95,6 +98,12 @@
    "It does not stock Pokemon cards; for those use the 1F Radio Kaikan branch in the same building.",
    "One of the few Akihabara shops buying and selling used BEYBLADE X parts, with a deep character-sleeve selection.",
    "Arcade card games are a strength: KanColle Arcade, Eiketsu Taisen and Fate/Grand Order Arcade."
+  ],
+  "ja": [
+   "名前の落とし穴で、駅前店という名でもラジオ会館の2Fにあり、同じチェーンの1Fのラジオ会館店とは別の店舗です。",
+   "ポケモンカードは扱っていないため、ポケモンは同じ建物1Fのラジオ会館店を利用してください。",
+   "秋葉原では珍しく中古のベイブレードXのパーツを売買している店で、キャラクタースリーブの取り扱いも豊富です。",
+   "艦これアーケード、英傑大戦、Fate/Grand Order Arcadeといったアーケードカードゲームに強いのが特徴です。"
   ]
  },
  "official_url": "https://www.hbst.net/shop/30/",

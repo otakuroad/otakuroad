@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "파이널판타지14 공식 굿즈 상설점. 의류·피규어·인형과 메달 각인기",
-  "en": "Permanent official FINAL FANTASY XIV goods store with apparel, figures and a medal typer"
+  "en": "Permanent official FINAL FANTASY XIV goods store with apparel, figures and a medal typer",
+  "ja": "ファイナルファンタジーXIV公式グッズの常設店。アパレル・フィギュア・ぬいぐるみとメダル刻印機"
  },
  "building_id": null,
  "floors": [],
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "10:00~23:00 영업이며 푸드·드링크 라스트오더는 22:30. 굿즈만 사고 나와도 된다.",
-   "en": "Open 10:00-23:00; last order for food and drink is 22:30. You may buy goods only, without ordering anything."
+   "en": "Open 10:00-23:00; last order for food and drink is 22:30. You may buy goods only, without ordering anything.",
+   "ja": "営業は10:00〜23:00で、フード・ドリンクのラストオーダーは22:30です。グッズだけ買って出ることもできます。"
   },
   "source_url": "https://exbar.jp/akihabara/ff14shop.html"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 동서 자유통로 안, 전기가 출구 남쪽에 있다. 개찰 밖 통로에 면해 있어 역 구내를 지나가다 바로 들어갈 수 있으며, 간판은 'EXBAR TOKYO plus 秋葉原'이다.",
-  "en": "Inside JR Akihabara station's east-west free passage, on the south side of the Electric Town Exit. It faces the passage outside the ticket gates, so you can walk straight in; the sign reads 'EXBAR TOKYO plus 秋葉原'."
+  "en": "Inside JR Akihabara station's east-west free passage, on the south side of the Electric Town Exit. It faces the passage outside the ticket gates, so you can walk straight in; the sign reads 'EXBAR TOKYO plus 秋葉原'.",
+  "ja": "JR秋葉原駅の東西自由通路の中、電気街口の南側にあります。改札の外の通路に面しているので駅構内を通りがてらそのまま入れ、看板はEXBAR TOKYO plus 秋葉原です。"
  },
  "tips": {
   "ko": [
@@ -89,6 +92,12 @@
    "It sits inside the craft-beer bar EXBAR TOKYO plus Akihabara, but you can buy goods without ordering food or drink.",
    "An 'FFXIV Medal Typer' lets you stamp your character name, birthday or Free Company founding date onto a medal.",
    "Queue tickets are handed out when it gets busy, so check the shop's X account (@EXBAR_AKIHABARA)."
+  ],
+  "ja": [
+   "2025年12月19日に開店したFFXIVグッズ専門の初めての常設店で、内装はゲーム内のグリダニアの市場をかたどっています。",
+   "クラフトビアバーのEXBAR TOKYO plus 秋葉原の中にありますが、飲食を注文しなくてもグッズだけ購入できます。",
+   "名前や誕生日、フリーカンパニーの設立日などを刻めるFFXIVメダルタイパーが設置されています。",
+   "混雑時は整理券を配るため、店舗の公式X（@EXBAR_AKIHABARA）を確認してください。"
   ]
  },
  "official_url": "https://exbar.jp/akihabara/ff14shop.html",

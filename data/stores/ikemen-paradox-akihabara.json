@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "남장 캐스트가 접객하는 콘셉트 카페. 40분 음료 무제한제이고 18세 이상만 입장한다",
-  "en": "Concept cafe staffed by danso (male-styling) cast; 40 minutes all-you-can-drink, ages 18 and over"
+  "en": "Concept cafe staffed by danso (male-styling) cast; 40 minutes all-you-can-drink, ages 18 and over",
+  "ja": "男装キャストが接客するコンカフェ。40分飲み放題制で18歳以上限定"
  },
  "building_id": "senju-building-7",
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 Access 페이지 표기는 '（全日）17:00~25:00'으로 실제 마감은 다음 날 01:00이지만, 표에서는 24:00으로 끊어 적었다. 같은 페이지에 '年中無休'라고 적혀 있어 정기휴일은 없다.",
-   "en": "The official Access page states 17:00-25:00 every day, i.e. a 01:00 close the next morning; the table caps it at 24:00. The same page says 年中無休, so there is no regular closing day."
+   "en": "The official Access page states 17:00-25:00 every day, i.e. a 01:00 close the next morning; the table caps it at 24:00. The same page says 年中無休, so there is no regular closing day.",
+   "ja": "公式のアクセスページの表記は（全日）17:00〜25:00で、実際の閉店は翌朝1:00ですが、表では24:00で区切って記載しています。同じページに年中無休と書かれているため、定休日はありません。"
   },
   "source_url": "https://ikepa.tokyo/access"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 도보 2~3분, JR 아키하바라역 전기가 출구에서는 북쪽으로 도보 5분(공식 안내도 '아키하바라역에서 도보 5분'). 주오도리에 면한 千住ビル7(옛 표기 恵光ビル)의 큰길 정면이 아니라 건물 측면 출입구로 들어가 계단으로 지하 1층까지 내려간다. 같은 지하층에 리버티 1호점이 있고, 옆 신스에히로 빌딩의 레트로 게임 캠프가 표식이 된다.",
-  "en": "Two to three minutes south of Suehirocho Station Exit 3 (Ginza Line) along the west pavement of Chuo-dori, or five minutes north of the JR Akihabara Electric Town Exit - the shop's own page also says five minutes from Akihabara Station. Go in by the door on the side of Senju Building 7 (older listings call it 恵光ビル / Keiko Building) rather than the Chuo-dori frontage, and take the stairs down to B1F. Liberty No.1 shares the basement level, and Retro Game Camp in the Shin-Suehiro Building next door is the landmark."
+  "en": "Two to three minutes south of Suehirocho Station Exit 3 (Ginza Line) along the west pavement of Chuo-dori, or five minutes north of the JR Akihabara Electric Town Exit - the shop's own page also says five minutes from Akihabara Station. Go in by the door on the side of Senju Building 7 (older listings call it 恵光ビル / Keiko Building) rather than the Chuo-dori frontage, and take the stairs down to B1F. Liberty No.1 shares the basement level, and Retro Game Camp in the Shin-Suehiro Building next door is the landmark.",
+  "ja": "銀座線末広町駅3番出口から中央通りの西側の歩道を南に徒歩2〜3分、JR秋葉原駅電気街口からは北に徒歩5分で、店の公式ページにも秋葉原駅から徒歩5分と書かれています。中央通りに面した千住ビル7（古い表記では恵光ビル）の大通り側の正面ではなく、建物の側面の出入口から入り、階段でB1Fまで下ります。同じ地下にリバティー 秋葉原1号店があり、隣の新末広ビルのレトロげーむキャンプ秋葉原店が目印になります。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,12 @@
    "The official System&Menu page states that entry is limited to ages 18 and over, so carry photo ID.",
    "It opens at 17:00 every day and runs to 01:00 the next morning (written 25:00), with no regular closing day; it is shut during the daytime.",
    "It is one of seven shops in the Kimikano group and the same brand also has an Osaka Namba branch. No payment methods are stated on the official pages, so bring cash to be safe."
+  ],
+  "ja": [
+   "料金は40分飲み放題制で、カウンター席3,000円、ソファ席4,000円、延長も40分単位で同額です。指名料は1,000円です。",
+   "公式のSystem&Menuページに入店は18歳以上からと明記されているので、身分証を用意してください。",
+   "全曜日17:00に開店し、翌朝1:00（25:00）まで営業する夜の店で、年中無休です。昼間は営業していません。",
+   "キミカノグループが運営する7店舗のうちの1店で、同じブランドの店は大阪・難波にもあります。公式ページに決済方法の案内がないため、現金を用意しておくと安心です。"
   ]
  },
  "photo": null,

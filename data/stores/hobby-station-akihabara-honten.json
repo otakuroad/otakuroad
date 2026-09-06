@@ -44,7 +44,8 @@
  ],
  "one_line": {
   "ko": "유희왕 러시듀얼·MTG·뱅가드 등 12개 TCG의 싱글 카드와 팩, 32석 듀얼 스페이스",
-  "en": "Singles and packs for 12 TCGs including Yu-Gi-Oh! Rush Duel and MTG, plus a 32-seat duel space"
+  "en": "Singles and packs for 12 TCGs including Yu-Gi-Oh! Rush Duel and MTG, plus a 32-seat duel space",
+  "ja": "遊戯王ラッシュデュエルやMTGなど12タイトルのシングル・パックと32席のデュエルスペース"
  },
  "building_id": null,
  "floors": [
@@ -76,11 +77,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴 (定休日 無し)",
-   "en": "Open year-round (no regular holiday)"
+   "en": "Open year-round (no regular holiday)",
+   "ja": "年中無休（定休日なし）"
   },
   "note": {
    "ko": "공식 점포 페이지 기준 매일 11:00-20:00. 신제품 발매일에는 조기 개점하는 경우가 있다고 일본 트레카 안내 사이트에 적혀 있다.",
-   "en": "Daily 11:00-20:00 per the official store page. A Japanese TCG directory notes the shop sometimes opens early on new-set release days."
+   "en": "Daily 11:00-20:00 per the official store page. A Japanese TCG directory notes the shop sometimes opens early on new-set release days.",
+   "ja": "公式の店舗ページによると営業時間は毎日11:00-20:00です。新商品の発売日には早めに開店することがあると、日本のトレカ情報サイトに書かれています。"
   },
   "source_url": "https://www.hbst.net/shop/19/"
  },
@@ -96,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 서쪽 보도의 실크햇(구 GiGO 1호관) 바로 뒤편 골목에 있고, 전자부품 상가 도쿄 라디오 데파트 바로 남쪽에 붙은 모리(森) 빌딩이다. 1층은 같은 체인의 매입센터이고, 판매 매장은 그 위 2층이다.",
-  "en": "Three minutes from the JR Akihabara Electric Town Exit. The Mori Building stands on the back lane behind Silk Hat (the old GiGO No.1) on the west side of Chuo-dori, immediately south of the Tokyo Radio Depart parts arcade. The chain's buying center fills 1F; the sales floor is one flight up on 2F."
+  "en": "Three minutes from the JR Akihabara Electric Town Exit. The Mori Building stands on the back lane behind Silk Hat (the old GiGO No.1) on the west side of Chuo-dori, immediately south of the Tokyo Radio Depart parts arcade. The chain's buying center fills 1F; the sales floor is one flight up on 2F.",
+  "ja": "JR秋葉原駅の電気街口から徒歩3分です。中央通り西側の歩道に面したシルクハット秋葉原（旧GiGO秋葉原1号館）の裏手の路地にあり、電子部品街の東京ラジオデパートのすぐ南に建つ森ビルです。1Fは同じチェーンの買取センターで、販売フロアはその上の2Fになります。"
  },
  "tips": {
   "ko": [
@@ -110,6 +114,12 @@
    "In-store tablets let you search and order singles from the chain's online stock.",
    "The buying center on 1F of the same building is a separate shop; titles missing from this floor's list, such as Pokemon and Duel Masters, are bought downstairs.",
    "Titles carried: Battle Spirits, Cardfight!! Vanguard, Yu-Gi-Oh! Rush Duel, Magic: The Gathering, WIXOSS, Digimon Card Game, Build Divide, Shadowverse Evolve, Union Arena, Dragon Ball Fusion World, Conan TCG and Ultraman Card Game."
+  ],
+  "ja": [
+   "デュエルスペースは32席で、公式ページには感染対策のため現在は縮小して運営していると書かれています。利用に当日300円以上の購入が必要という説明は日本のトレカ情報サイトによるもので、公式ページには明記されていません。",
+   "シングルカードは、店内のタブレットでチェーンのオンライン在庫を検索して注文する方式も併用されています。",
+   "同じビル1Fの買取センターは別の店舗で、ポケモンカードやデュエル・マスターズなど、このフロアの取扱タイトルにないカードは1Fで買取しています。",
+   "取扱タイトルは、バトルスピリッツ、カードファイト!! ヴァンガード、遊戯王ラッシュデュエル、マジック：ザ・ギャザリング、ウィクロス、デジモンカードゲーム、ビルディバイド、シャドウバース エボルヴ、ユニオンアリーナ、ドラゴンボール フュージョンワールド、コナンTCG、ウルトラマンカードゲームです。"
   ]
  },
  "official_url": "https://www.hbst.net/shop/19/",

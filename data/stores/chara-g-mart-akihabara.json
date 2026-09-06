@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "1층은 프라이즈 피규어, 2층은 러브라이브 봉제인형 중심의 캐릭터 굿즈점",
-  "en": "Prize figures on 1F and Love Live plushies on 2F, in a small two-floor goods shop"
+  "en": "Prize figures on 1F and Love Live plushies on 2F, in a small two-floor goods shop",
+  "ja": "1Fはプライズフィギュア、2Fはラブライブのぬいぐるみ中心の小さな2フロアのグッズ店"
  },
  "building_id": null,
  "floors": [
@@ -43,12 +44,14 @@
   {
    "floor": "1F",
    "ko": "壱号店: 프라이즈 피규어 중심. 오등분의 신부·하츠네 미쿠 등 미소녀 계열과 귀멸의 칼날",
-   "en": "Ichigo-ten: mostly prize figures - Go-Toubun no Hanayome, Hatsune Miku and other bishoujo lines, plus Demon Slayer"
+   "en": "Ichigo-ten: mostly prize figures - Go-Toubun no Hanayome, Hatsune Miku and other bishoujo lines, plus Demon Slayer",
+   "ja": "壱号店です。プライズフィギュアが中心で、五等分の花嫁や初音ミクなどの美少女系に加えて鬼滅の刃も並びます。"
   },
   {
    "floor": "2F",
    "ko": "弐号店: 러브라이브 계열 네소베리 봉제인형 중심, 점장 취향의 크레인 게임 1대",
-   "en": "Nigo-ten: mainly Love Live nesoberi plushies, with a single crane game run to the manager's taste"
+   "en": "Nigo-ten: mainly Love Live nesoberi plushies, with a single crane game run to the manager's taste",
+   "ja": "弐号店です。ラブライブ系のねそべりぬいぐるみが中心で、店長の好みで選んだクレーンゲームが1台あります。"
   }
  ],
  "location": {
@@ -74,11 +77,13 @@
   ],
   "regular_holiday": {
    "ko": "월요일",
-   "en": "Mondays"
+   "en": "Mondays",
+   "ja": "月曜日"
   },
   "note": {
    "ko": "공식 인스타그램 프로필 기준 11:00-19:00이고 월요일이 정기휴무다. 지역 상점 소개(MEQQE)의 11:00-20:00·무휴 표기는 오래된 정보다. 공휴일 영업 여부는 공식 안내가 없다.",
-   "en": "11:00-19:00 and closed on Mondays per the shop's own Instagram profile. The 11:00-20:00, no-closing-day listing in the MEQQE local directory is out of date, and public-holiday hours are not stated anywhere official."
+   "en": "11:00-19:00 and closed on Mondays per the shop's own Instagram profile. The 11:00-20:00, no-closing-day listing in the MEQQE local directory is out of date, and public-holiday hours are not stated anywhere official.",
+   "ja": "店の公式インスタグラムのプロフィール記載で11:00-19:00、月曜が定休日です。地域情報サイトMEQQEの11:00-20:00・無休という表記は古い情報で、祝日の営業時間はどこにも公式の記載がありません。"
   },
   "source_url": "https://www.instagram.com/chara_g_mart/"
  },
@@ -94,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 코토부키야 아키하바라관이 있는 뒷골목을 북쪽으로 걸어 교차로를 건너면 슈퍼포테이토 바로 옆 마쓰자키(松崎) 빌딩이다. 1층이 壱号店, 좁은 계단으로 올라간 2층이 弐号店.",
-  "en": "Three minutes from JR Akihabara's Electric Town Exit. Walk north on the back street past Kotobukiya Akihabara and cross the junction - the Matsuzaki Building is right beside Super Potato. Ichigo-ten is at street level, Nigo-ten up the narrow stairs on 2F."
+  "en": "Three minutes from JR Akihabara's Electric Town Exit. Walk north on the back street past Kotobukiya Akihabara and cross the junction - the Matsuzaki Building is right beside Super Potato. Ichigo-ten is at street level, Nigo-ten up the narrow stairs on 2F.",
+  "ja": "JR秋葉原駅電気街口から徒歩3分です。コトブキヤ秋葉原館のある裏通りを北へ歩いて交差点を渡ると、スーパーポテト秋葉原店のすぐ隣が松崎ビルです。1階が壱号店、狭い階段を上がった2階が弐号店です。"
  },
  "tips": {
   "ko": [
@@ -108,6 +114,12 @@
    "The 2F floor is built around Love Live nesoberi plushies, useful if you are completing a set.",
    "The two floors run separate X accounts as Ichigo-ten (1F) and Nigo-ten (2F); check the one for the floor you care about.",
    "It sits between Super Potato and Kotobukiya, so the three make an easy single loop."
+  ],
+  "ja": [
+   "クレーンゲームのプライズフィギュアが主力なので定価の商品より安く、生産の終わった古いプライズが残っていることもあります。",
+   "2階はラブライブのねそべりぬいぐるみに特化しているので、シリーズをそろえたい人には便利です。",
+   "1階と2階はそれぞれ壱号店・弐号店として別のXアカウントを運営しているので、気になる階のアカウントを見てください。",
+   "スーパーポテト秋葉原店とコトブキヤ秋葉原館の間にあり、3店をまとめて一度に回れます。"
   ]
  },
  "official_url": "https://www.instagram.com/chara_g_mart/",

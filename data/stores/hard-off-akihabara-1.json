@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "2층 중고 게임기·게임 소프트, B1층 정크 부품 코너. 오디오·카메라·악기도 취급",
-  "en": "Used consoles and game software on 2F, a junk-parts corner in B1F, plus audio and cameras"
+  "en": "Used consoles and game software on 2F, a junk-parts corner in B1F, plus audio and cameras",
+  "ja": "2Fに中古ゲーム機とソフト、B1Fにジャンクパーツ、オーディオやカメラも扱う"
  },
  "building_id": "rock-building",
  "floors": [
@@ -45,17 +46,20 @@
   {
    "floor": "B1F",
    "ko": "정크 코너(작동 미확인 하드웨어·부품·소프트)",
-   "en": "Junk corner: untested hardware, parts and software"
+   "en": "Junk corner: untested hardware, parts and software",
+   "ja": "ジャンクコーナーで、動作未確認のハードやパーツ、ソフトが並びます。"
   },
   {
    "floor": "2F",
    "ko": "오디오, 카메라, 손목시계, 게임기·게임 소프트",
-   "en": "Audio, cameras, watches, game consoles and software"
+   "en": "Audio, cameras, watches, game consoles and software",
+   "ja": "オーディオ、カメラ、腕時計、ゲーム機とゲームソフトのフロアです。"
   },
   {
    "floor": "3F",
    "ko": "악기 코너(이펙터 포함)",
-   "en": "Musical instruments, including effects pedals"
+   "en": "Musical instruments, including effects pedals",
+   "ja": "エフェクターを含む楽器のコーナーです。"
   }
  ],
  "location": null,
@@ -80,7 +84,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://www.hardoff.co.jp/shop/detail/?p=101062"
@@ -97,7 +102,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리의 스미토모부동산 아키하바라 빌딩(벨살)을 끼고 뒤편 골목(속칭 정크 거리)으로 돌아가면, 8층짜리 검은 빌딩 만다라케 컴플렉스 바로 옆 건물이다. 그 건물의 B1층·2층·3층이 매장이며 1층은 다른 점포다.",
-  "en": "From the Electric Town exit, walk round behind the Sumitomo Fudosan Akihabara Building (Bellesalle) on Chuo-dori into the back street known as the junk street. The shop is the building right next to the eight-storey black Mandarake Complex, occupying B1F, 2F and 3F; the ground floor is a different business."
+  "en": "From the Electric Town exit, walk round behind the Sumitomo Fudosan Akihabara Building (Bellesalle) on Chuo-dori into the back street known as the junk street. The shop is the building right next to the eight-storey black Mandarake Complex, occupying B1F, 2F and 3F; the ground floor is a different business.",
+  "ja": "電気街口から中央通りの住友不動産秋葉原ビル（ベルサール秋葉原）の裏手に回り、通称ジャンク通りと呼ばれる裏通りに入ります。8階建ての黒いビル、まんだらけコンプレックスのすぐ隣の建物で、売り場はB1F・2F・3Fです。1Fは別の店舗が入っています。"
  },
  "tips": {
   "ko": [
@@ -111,6 +117,12 @@
    "The B1F junk corner is where untested hardware, parts and loose software turn up cheap, which is the draw for people hunting retro spares.",
    "Store 2 is 150 m further north on the same junk street (3-8-1, YS Building), and its 3F-4F is Hobby Off, selling used figures and toys.",
    "There is no car park. The official page says nothing about cards or tax-free service, so bring cash to be safe."
+  ],
+  "ja": [
+   "ゲーム目当てなら2FとB1Fだけ見れば十分です。3Fは楽器、残りのフロアはオーディオ・カメラ・時計が中心です。",
+   "B1Fのジャンクコーナーは動作未確認のハードやパーツ、ソフトが安く出る場所なので、レトロ機器の部品を探している人に向いています。",
+   "同じジャンク通りを北へ150mほど行った先に2号店（外神田3-8-1 YSビル）があり、その3〜4Fは中古のフィギュアや玩具を扱うホビーオフ秋葉原店です。",
+   "専用の駐車場はありません。決済手段や免税の対応は公式ページに案内がないため、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://www.hardoff.co.jp/shop/detail/?p=101062",

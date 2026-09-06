@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "코스프레어와 소품 수집가용 모조 도검·서양 검·도끼·비발사 총 모형 전문점",
-  "en": "Replica swords, axes and non-firing gun models for cosplayers and prop collectors"
+  "en": "Replica swords, axes and non-firing gun models for cosplayers and prop collectors",
+  "ja": "コスプレイヤーや小道具コレクター向けの模造刀剣・斧・模造銃の専門店"
  },
  "building_id": "asano-building",
  "floors": [
@@ -59,11 +60,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일 휴무(화요일이 공휴일이면 영업하고 다음 날 수요일에 대체 휴무)",
-   "en": "Closed Tuesdays; if the Tuesday is a public holiday the shop opens and closes the next Wednesday instead"
+   "en": "Closed Tuesdays; if the Tuesday is a public holiday the shop opens and closes the next Wednesday instead",
+   "ja": "火曜日が定休日です。火曜日が祝日にあたる場合は営業し、代わりに翌日の水曜日が休みになります。"
   },
   "note": {
    "ko": "평일·토·일·공휴일 모두 12:00-19:30으로 같다. 공식 사이트 '店舗案内' 페이지와 첫 화면에 같은 시간이 적혀 있다.",
-   "en": "Same 12:00-19:30 on weekdays, weekends and public holidays; the official shop-guide page and the top page both state these hours."
+   "en": "Same 12:00-19:30 on weekdays, weekends and public holidays; the official shop-guide page and the top page both state these hours.",
+   "ja": "平日も土日・祝日も12:00-19:30で同じです。公式サイトの店舗案内ページとトップページの両方に、この時間が記載されています。"
   },
   "source_url": "https://busou.sakura.ne.jp/guide.html"
  },
@@ -79,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽, 아파호텔 바로 북쪽에 붙은 6층짜리 아사노(麻野) 빌딩 3층. 북쪽 옆 건물은 고구레스에히로 빌딩(PDG 본점)이므로 3-15-7 번지를 확인하고 들어간다. 공식 사이트는 거리 변화가 심해 지도를 내렸다고 안내한다.",
-  "en": "Third floor of the six-storey Asano Building on the west side of Chuo-dori, immediately north of the APA Hotel. The next building north is the Kogure Suehiro Building, so check the 3-15-7 address. The shop's own site says it removed its map because the street changes too fast."
+  "en": "Third floor of the six-storey Asano Building on the west side of Chuo-dori, immediately north of the APA Hotel. The next building north is the Kogure Suehiro Building, so check the 3-15-7 address. The shop's own site says it removed its map because the street changes too fast.",
+  "ja": "中央通りの西側、アパホテルのすぐ北に隣接する6階建ての麻野ビルの3Fです。北隣は小暮末広ビルなので、3-15-7の番地を確かめてから入ってください。公式サイトは、街の変化が激しいため地図を取り下げたと案内しています。"
  },
  "tips": {
   "ko": [
@@ -93,6 +97,12 @@
    "Stock is replica blades (display and iaido practice swords), DENIX non-firing sword and gun models, bokken, shuriken, sword canes and iron fans - no live blades.",
    "JCB, AMEX, VISA, Mastercard and Diners Club are accepted, but in-store only.",
    "The shop is run by a very small team and often cannot answer the phone; its own site asks you to email instead."
+  ],
+  "ja": [
+   "火曜日が定休日です。火曜日が祝日にあたる場合はその日は営業し、翌日の水曜日に休みます。",
+   "取り扱いは美術刀や居合の練習刀といった模造刀剣、DENIXの模造銃・模造剣、木刀、手裏剣、仕込み杖、鉄扇などで、真剣はありません。",
+   "JCB・AMEX・VISA・Master・Dinersのカードが使えますが、店頭での支払いに限られます。",
+   "少人数で運営しているため電話に出られないことが多く、公式の案内でもメールでの問い合わせを勧めています。"
   ]
  },
  "official_url": "https://busou.sakura.ne.jp/",

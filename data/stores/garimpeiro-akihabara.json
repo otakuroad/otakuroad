@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "마블·DC·스타워즈 액션 피규어와 미국 코믹스를 파는 작은 미국 완구점",
-  "en": "Small US-toy shop: Marvel, DC and Star Wars action figures and American comics"
+  "en": "Small US-toy shop: Marvel, DC and Star Wars action figures and American comics",
+  "ja": "マーベル、DC、スター・ウォーズのアクションフィギュアとアメコミを扱う小さなアメトイ店"
  },
  "building_id": null,
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休です。"
   },
   "note": {
    "ko": "운영사 표기는 '영업시간 11:00~20:00(부정기 휴무)'로, 정해진 정기휴일 없이 문을 닫는 날이 있다.",
-   "en": "The operator states 11:00-20:00 with irregular closing days, so there is no fixed weekly holiday but the shop is sometimes shut."
+   "en": "The operator states 11:00-20:00 with irregular closing days, so there is no fixed weekly holiday but the shop is sometimes shut.",
+   "ja": "運営会社の表記は営業時間11:00〜20:00・不定休で、決まった定休日はないものの閉まっている日があります。"
   },
   "source_url": "https://garimpeiro.buyshop.jp/law"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "스에히로초에서 오카치마치 방면으로 더 올라간 소토칸다 6초메, 5층짜리 KENT빌딩 1층. 아키하바라 중심가에서 벗어난 조용한 블록이라 지나치기 쉽다.",
-  "en": "In Sotokanda 6-chome, past Suehirocho towards Okachimachi, on the 1F of the five-storey KENT Building - a quiet block well off the main Akihabara strip."
+  "en": "In Sotokanda 6-chome, past Suehirocho towards Okachimachi, on the 1F of the five-storey KENT Building - a quiet block well off the main Akihabara strip.",
+  "ja": "末広町から御徒町の方向へさらに上がった外神田6丁目、5階建てのKENTビルの1Fです。秋葉原の中心街から外れた静かなブロックなので、うっかり通り過ぎやすいです。"
  },
  "tips": {
   "ko": [
@@ -91,6 +95,10 @@
   "en": [
    "There is no fixed closing day but closures are irregular, so check the online shop's notices before a special trip.",
    "Stock is American - Marvel, DC, Star Wars toys and US comics - not Japanese anime goods."
+  ],
+  "ja": [
+   "定休日がない代わりに不定休なので、無駄足になることがあります。オンラインストアの告知を先に確認しておくほうが安全です。",
+   "日本のアニメグッズではなく、マーベルやDC、スター・ウォーズといったアメリカの玩具とアメコミを扱う店です。"
   ]
  },
  "official_url": "https://garimpeiro.buyshop.jp/",

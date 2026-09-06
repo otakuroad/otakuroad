@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·원피스·듀얼마스터즈 싱글과 66석 듀얼 스페이스를 갖춘 지하 카드숍",
-  "en": "Basement card shop: Pokemon, Yu-Gi-Oh, One Piece and Duel Masters singles, 66 play seats"
+  "en": "Basement card shop: Pokemon, Yu-Gi-Oh, One Piece and Duel Masters singles, 66 play seats",
+  "ja": "ポケモン、遊戯王、ワンピース、デュエル・マスターズのシングルと66席のデュエルスペースを備えた地下のカードショップ"
  },
  "building_id": "onoden-honkan",
  "floors": [
@@ -66,7 +67,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 13:00에 열어 주말·공휴일(10:00)보다 늦다. 부정기 휴무가 있으므로 공식 X(@Ganryu_6610) 확인.",
-   "en": "Opens at 13:00 on weekdays, later than the 10:00 weekend and holiday opening. Irregular closures happen, so check the official X account (@Ganryu_6610)."
+   "en": "Opens at 13:00 on weekdays, later than the 10:00 weekend and holiday opening. Irregular closures happen, so check the official X account (@Ganryu_6610).",
+   "ja": "平日は13:00開店で、土日祝の10:00開店より遅くなります。不定休があるため、公式X（@Ganryu_6610）で確認してください。"
   },
   "source_url": "https://x.com/Ganryu_6610"
  },
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "주오도리와 전기가 사거리 북서쪽 모퉁이의 큰 'オノデン' 간판 가전 빌딩(오노덴 본관) 지하 1층. 1~3층은 오노덴 가전 매장이라 밖에서는 보이지 않고, 4층에는 지스토어 아키바가 있다.",
-  "en": "B1 of the Onoden Main Building, the electronics store under the big オノデン sign on the north-west corner of the Chuo-dori crossing. Floors 1-3 are Onoden's own electronics shop so nothing shows from the street; Gee!Store Akiba is on 4F of the same building."
+  "en": "B1 of the Onoden Main Building, the electronics store under the big オノデン sign on the north-west corner of the Chuo-dori crossing. Floors 1-3 are Onoden's own electronics shop so nothing shows from the street; Gee!Store Akiba is on 4F of the same building.",
+  "ja": "中央通りの交差点の北西角、大きなオノデンの看板を掲げた家電ビル、オノデン本館のB1Fです。1〜3Fはオノデンの家電売り場なので通りからは分かりませんが、同じビルの4Fにはジーストア・アキバが入っています。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,11 @@
    "Operated by REXT, Inc., the company behind WonderGOO, and listed on its official TCG store page.",
    "The duel space seats 66, so there is room for events and casual play.",
    "Weekday opening is 13:00, so a morning visit only works at weekends and on holidays."
+  ],
+  "ja": [
+   "運営はワンダーグーを展開する株式会社REXTで、公式サイトのトレカ店舗一覧に掲載されています。",
+   "デュエルスペースは66席と広く、大会やフリー対戦にも使いやすい環境です。",
+   "平日の開店は13:00と遅いため、午前中に行けるのは土日祝だけです。"
   ]
  },
  "official_url": "https://www.wonder.co.jp/tcg/",

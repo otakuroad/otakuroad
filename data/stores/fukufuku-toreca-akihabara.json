@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·원피스 등 트레카 판매와 매입, 4층에 84석 듀얼 스페이스",
-  "en": "Yu-Gi-Oh!, Pokemon and One Piece cards, buyback, and an 84-seat duel space on 4F"
+  "en": "Yu-Gi-Oh!, Pokemon and One Piece cards, buyback, and an 84-seat duel space on 4F",
+  "ja": "遊戯王・ポケモン・ワンピースなどトレカの販売と買取、4Fに84席のデュエルスペース"
  },
  "building_id": null,
  "floors": [
@@ -44,17 +45,20 @@
   {
    "floor": "2F",
    "ko": "유희왕·포켓몬 카드게임·원피스 카드게임",
-   "en": "Yu-Gi-Oh!, Pokemon Card Game and One Piece Card Game"
+   "en": "Yu-Gi-Oh!, Pokemon Card Game and One Piece Card Game",
+   "ja": "遊戯王、ポケモンカードゲーム、ワンピースカードゲームの売り場です。"
   },
   {
    "floor": "3F",
    "ko": "바이스슈발츠·섀도우버스 에볼브",
-   "en": "Weiss Schwarz and Shadowverse Evolve"
+   "en": "Weiss Schwarz and Shadowverse Evolve",
+   "ja": "ヴァイスシュヴァルツとシャドウバース エボルヴの売り場です。"
   },
   {
    "floor": "4F",
    "ko": "84석 듀얼 스페이스. 대회·이벤트 개최 시에는 그쪽이 우선",
-   "en": "An 84-seat duel space; tournaments and events take priority over free play"
+   "en": "An 84-seat duel space; tournaments and events take priority over free play",
+   "ja": "84席のデュエルスペースです。大会やイベントの開催時はそちらが優先されます。"
   }
  ],
  "location": {
@@ -89,7 +93,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 13:00 개점으로 토·일·공휴일(10:00)보다 3시간 늦다. 폐점은 매일 20:45. 일부 안내 사이트에는 평일 11:00 개점으로 적힌 곳이 있으나 공식 표기는 13:00.",
-   "en": "Weekdays open at 13:00, three hours later than the 10:00 weekend and holiday opening; closing is 20:45 every day. Some listing sites still show an 11:00 weekday opening, but the official pages say 13:00."
+   "en": "Weekdays open at 13:00, three hours later than the 10:00 weekend and holiday opening; closing is 20:45 every day. Some listing sites still show an 11:00 weekday opening, but the official pages say 13:00.",
+   "ja": "平日は13:00開店で、土日祝の10:00より3時間遅くなります。閉店は毎日20:45で、一部の情報サイトには平日11:00開店と載っていますが、公式の表記は13:00です。"
   },
   "source_url": "https://fukufukutoreka.com/description_detail_akihabara"
  },
@@ -105,7 +110,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 한 블록 서쪽 전기가 뒷골목에 있으며, 츠쿠모 PC 본점II 바로 북쪽·코토부키야 아키하바라관에서 남쪽으로 약 35m 지점의 기무라(木村) 빌딩. 매장은 2~4층이므로 건물 안 계단이나 엘리베이터로 올라간다.",
-  "en": "Three minutes from JR Akihabara's Electric Town Exit, on the back street one block west of Chuo-dori. The Kimura Building is just north of TSUKUMO PC Honten II and about 35 m south of Kotobukiya Akihabara. The shop is on 2F-4F, reached by the stairs or lift inside the building."
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, on the back street one block west of Chuo-dori. The Kimura Building is just north of TSUKUMO PC Honten II and about 35 m south of Kotobukiya Akihabara. The shop is on 2F-4F, reached by the stairs or lift inside the building.",
+  "ja": "JR秋葉原駅の電気街口から徒歩3分、中央通りの1本西の電気街の裏通りにあります。ツクモパソコン本店IIのすぐ北、コトブキヤ秋葉原館から南へ約35mの木村ビルで、売り場は2〜4Fなので建物内の階段かエレベーターで上がります。"
  },
  "tips": {
   "ko": [
@@ -119,6 +125,12 @@
    "2F is Yu-Gi-Oh!, Pokemon and One Piece; 3F is Weiss Schwarz and Shadowverse Evolve, so pick the floor for the title you want.",
    "The 84-seat duel space on 4F is one of the largest play spaces in Akihabara and is open when no tournament or event is running.",
    "The shop also buys cards, and the buyback counter stops taking items before closing. Card acceptance and tax-free are not stated officially, so bring cash."
+  ],
+  "ja": [
+   "平日は13:00開店で、土日祝の10:00より3時間遅くなります。平日の午前中に行くと無駄足になります。",
+   "2Fが遊戯王・ポケモン・ワンピース、3Fがヴァイスシュヴァルツ・シャドウバース エボルヴに分かれているので、目当てのタイトルに合わせて階を選ぶと早いです。",
+   "4Fの84席のデュエルスペースは秋葉原でも有数の規模で、大会やイベントがない時間帯は開放されています。",
+   "買取も行っていて、受付は閉店より早く締め切られます。カード決済や免税の対応は公式の案内がないため、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://fukufukutoreka.com/description_detail_akihabara",

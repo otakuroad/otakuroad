@@ -23,7 +23,8 @@
  ],
  "one_line": {
   "ko": "한다 빌딩 1~2층이 전부 크레인 게임인 프라이즈 전문 오락실",
-  "en": "Two floors of nothing but crane games, with a GiGO collab cafe stand on 2F"
+  "en": "Two floors of nothing but crane games, with a GiGO collab cafe stand on 2F",
+  "ja": "1〜2Fが全てクレーンゲームのプライズ専門ゲームセンター、2FにGiGOコラボカフェスタンド"
  },
  "building_id": null,
  "floors": [
@@ -34,12 +35,14 @@
   {
    "floor": "1F",
    "ko": "크레인 게임(프라이즈)",
-   "en": "Crane and prize machines"
+   "en": "Crane and prize machines",
+   "ja": "クレーンゲーム（プライズ）のフロアです。"
   },
   {
    "floor": "2F",
    "ko": "크레인 게임과 신상 경품 쇼케이스, GiGO 콜라보 카페 스탠드",
-   "en": "Crane games, a showcase of upcoming prizes, and the GiGO collab cafe stand"
+   "en": "Crane games, a showcase of upcoming prizes, and the GiGO collab cafe stand",
+   "ja": "クレーンゲームと新作プライズのショーケース、GiGOコラボカフェスタンドがあります。"
   }
  ],
  "location": {
@@ -67,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "2층 GiGO 콜라보 카페 스탠드는 10:00-20:00(라스트오더 19:45)으로 오락실과 영업시간이 다르다.",
-   "en": "The GiGO collab cafe stand on 2F runs 10:00-20:00 with last order at 19:45, unlike the arcade floors."
+   "en": "The GiGO collab cafe stand on 2F runs 10:00-20:00 with last order at 19:45, unlike the arcade floors.",
+   "ja": "2FのGiGOコラボカフェスタンドは10:00〜20:00（ラストオーダー19:45）で、ゲームセンターのフロアとは営業時間が異なります。"
   },
   "source_url": "https://www.gigo.co.jp/shops/akihabara2"
  },
@@ -87,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 남쪽으로 나와 주오도리를 따라 만세바시 방향으로 도보 2분. 라디오회관에서 남쪽으로 내려가면 아미아미 피규어타워 근처, 람타라 메디아월드와 같은 한다 빌딩 저층에 있다.",
-  "en": "Two minutes from the south side of the JR Akihabara Electric Town Exit, walking down Chuo-dori toward Manseibashi. It is in the lower floors of the Handa Building near the AmiAmi Figure Tower, in the same building as Lammtarra Media World, south of Radio Kaikan."
+  "en": "Two minutes from the south side of the JR Akihabara Electric Town Exit, walking down Chuo-dori toward Manseibashi. It is in the lower floors of the Handa Building near the AmiAmi Figure Tower, in the same building as Lammtarra Media World, south of Radio Kaikan.",
+  "ja": "JR秋葉原駅の電気街口の南側から、中央通りを万世橋方面へ徒歩2分です。ラジオ会館から南、あみあみ秋葉原フィギュアタワー店の近くにある半田ビルの低層階で、ラムタラメディアワールドアキバと同じ建物です。"
  },
  "tips": {
   "ko": [
@@ -99,6 +105,11 @@
    "Only two floors, so it is the smallest of the Akihabara GiGOs — and the closest one to the station.",
    "Crane games are the only game type listed officially; go to Building 3 for music games and Building 5 for arcade card games.",
    "A GiGO collab cafe stand on 2F sells the current tie-up drinks to take away."
+  ],
+  "ja": [
+   "GiGOの売り場は1〜2Fの2フロアだけと小規模ですが、秋葉原のGiGOでは駅から一番近い店舗です。",
+   "公式に掲載されているゲーム種別はクレーンゲームのみです。音楽ゲームはGiGO秋葉原3号館、アーケードのカードゲームはGiGO秋葉原5号館へどうぞ。",
+   "2FにGiGOコラボカフェスタンドが併設されていて、開催中のコラボドリンクをテイクアウトできます。"
   ]
  },
  "official_url": "https://www.gigo.co.jp/shops/akihabara2",

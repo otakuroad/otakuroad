@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "직접 만든 오므라이스·케이크와 술을 내는 46석 메이드 카페",
-  "en": "A 46-seat maid cafe serving handmade omurice, cakes and alcohol"
+  "en": "A 46-seat maid cafe serving handmade omurice, cakes and alcohol",
+  "ja": "手作りのオムライスやケーキ、お酒を出す46席のメイドカフェ"
  },
  "building_id": "isamiya-8-building",
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "라스트오더 22:00. 개점부터 17:00까지가 카페 타임, 17:00부터가 디너 타임이며 디너 타임에는 오토시(전채) 399엔이 붙는다. 공식 사이트에 정기 휴일 표기는 없다.",
-   "en": "Last order 22:00. Cafe time runs from opening to 17:00 and dinner time from 17:00, when a 399 yen otoshi (appetiser) charge applies. The official site lists no regular closing day."
+   "en": "Last order 22:00. Cafe time runs from opening to 17:00 and dinner time from 17:00, when a 399 yen otoshi (appetiser) charge applies. The official site lists no regular closing day.",
+   "ja": "ラストオーダーは22:00です。開店から17:00までがカフェタイム、17:00からがディナータイムで、ディナータイムにはお通し代399円が付きます。公式サイトに定休日の記載はありません。"
   },
   "source_url": "https://www.honey2.jp/shop-profile"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구로 나와 왼쪽으로 돌아 쿠라마에바시도리를 따라가다가 츠케멘집 '天想伝 楽'에서 좌회전, 직진하면 오른쪽에 보이는 라멘집 '肉汁麺ススム' 위 2층이다. JR 아키하바라역에서는 도보 7분. 같은 이사미야 제8빌딩 3층은 오토코노코 카페 뉴타입.",
-  "en": "From Exit 3 of Suehirocho station on the Ginza line, loop left and follow Kuramaebashi-dori, turn left at the tsukemen shop 'Tensoden Raku' and go straight; the cafe is the 2F above the ramen shop 'Nikujiru-men Susumu' on your right. Seven minutes from JR Akihabara. The otokonoko cafe NEWTYPE is on 3F of the same Isamiya No.8 Building."
+  "en": "From Exit 3 of Suehirocho station on the Ginza line, loop left and follow Kuramaebashi-dori, turn left at the tsukemen shop 'Tensoden Raku' and go straight; the cafe is the 2F above the ramen shop 'Nikujiru-men Susumu' on your right. Seven minutes from JR Akihabara. The otokonoko cafe NEWTYPE is on 3F of the same Isamiya No.8 Building.",
+  "ja": "東京メトロ銀座線末広町駅3番出口を出て左に回り込み、蔵前橋通りを進んでつけめん店の天想伝 楽で左折し、まっすぐ行くと右手に見えるラーメン店 肉汁麺ススムの上の2Fです。JR秋葉原駅からは徒歩7分です。同じイサミヤ第8ビルの3Fは男の娘カフェ&バー NEWTYPEです。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,13 @@
    "Photography inside is allowed as long as no staff member is in the frame; photographing staff, asking for contact details and giving presents are all prohibited.",
    "With about 46 seats it is one of the larger Akihabara maid cafes, but seats can only be reserved with a course meal, and a 90-minute limit may apply when busy.",
    "All seats are non-smoking, with free Wi-Fi, power outlets and loaner phone chargers. Costume-theme weeks are announced in the site's news and event calendar."
+  ],
+  "ja": [
+   "開店から17:00までのカフェタイムは席料がかからず、17:00からのディナータイムはお通し代399円が付きます。高校生以下と外国人観光客はお通し代が免除されます。",
+   "クレジットカードとPayPayでの支払いができます。",
+   "スタッフが写り込まなければ店内の撮影ができます。スタッフの撮影、連絡先を聞くこと、プレゼントを渡すことは禁止です。",
+   "46席と秋葉原のメイドカフェの中では大きめですが、席の予約はコース料理を注文する場合のみ受け付けており、混雑時は90分制になることがあります。",
+   "全席禁煙で、無料Wi-Fiとコンセント、スマートフォンの充電器の貸し出しがあります。衣装テーマのイベントは公式サイトのニュースとイベントカレンダーで告知されます。"
   ]
  },
  "official_url": "https://www.honey2.jp/",

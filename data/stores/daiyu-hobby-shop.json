@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "총기 모형 수집가를 위한 중고 모델건·가스건·전동건과 커스텀 부품 전문점",
-  "en": "Used model guns, gas and electric airsoft guns and custom parts for toy-gun collectors"
+  "en": "Used model guns, gas and electric airsoft guns and custom parts for toy-gun collectors",
+  "ja": "モデルガン愛好家向けの中古モデルガン・ガスガン・電動ガンとカスタムパーツ専門店"
  },
  "building_id": null,
  "floors": [
@@ -59,11 +60,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 월요일 휴무",
-   "en": "Closed every Monday"
+   "en": "Closed every Monday",
+   "ja": "毎週月曜日"
   },
   "note": {
    "ko": "공휴일 영업 여부는 공식 안내에 적혀 있지 않다. 연말연시·하계·임시 휴업은 공식 사이트 '新着情報'에 공지된다.",
-   "en": "The official page does not say whether it opens on public holidays. Year-end, summer and temporary closures are posted under 新着情報 on the official site."
+   "en": "The official page does not say whether it opens on public holidays. Year-end, summer and temporary closures are posted under 新着情報 on the official site.",
+   "ja": "祝日に営業するかどうかは公式の案内に書かれていません。年末年始・夏季・臨時の休業は公式サイトの新着情報で告知されます。"
   },
   "source_url": "https://daiyu-hobby.com/pages/about"
  },
@@ -79,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역에서 도보 약 10분. 공식 안내는 '전기가의 소란을 빠져나온 뒷골목 빌딩 1층'이라고 표현하며, 주오도리에서 서쪽으로 들어간 岩上ビル 1층이다. 도쿄메트로 긴자선 스에히로초역에서는 300m 남짓으로 더 가깝다.",
-  "en": "About ten minutes on foot from JR Akihabara Station. The shop's own page calls it the ground floor of a back-street building past the bustle of Electric Town - the Iwakami Building (岩上ビル), west of Chuo-dori. Suehirocho station on the Ginza line is closer, roughly 300 m away."
+  "en": "About ten minutes on foot from JR Akihabara Station. The shop's own page calls it the ground floor of a back-street building past the bustle of Electric Town - the Iwakami Building (岩上ビル), west of Chuo-dori. Suehirocho station on the Ginza line is closer, roughly 300 m away.",
+  "ja": "JR秋葉原駅から徒歩約10分です。公式の案内では電気街の喧騒を抜けた裏通りのビル1Fと表現されており、中央通りから西に入った岩上ビルの1Fにあたります。東京メトロ銀座線の末広町駅からは300mほどで、こちらのほうが近いです。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,14 @@
    "Stock covers model guns, gas, air and electric guns, parts and junk items, deactivated real firearms and unbuilt plastic kits. Export rules differ by country, so check before buying.",
    "Buy-back is offered in three ways - in store, by post and by home visit - with same-day appraisal and same-day cash payment.",
    "No in-store payment methods are stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "月曜日が定休日で、12:00〜19:15と営業時間が短いので、昼過ぎを狙って行くのが安全です。",
+   "並んでいる商品はすべて買い取った中古品なので、在庫は行くたびに変わります。公式の案内によると、店内にはメーカー別・型番別に500丁以上が並んでいます。",
+   "カスタム・スペア・リペアパーツの品揃えは秋葉原でも屈指だと公式の案内に書かれており、パーツだけを目当てに行く価値があります。",
+   "取扱品目はモデルガン・ガスガン・エアガン・電動ガンとパーツ・ジャンク品、無可動実銃、未組立のプラモデルです。海外への持ち出しは国ごとに規制が違うので、購入前に確認してください。",
+   "買取は店頭・宅配・出張の3通りに対応し、当日査定・当日現金支払いを掲げています。",
+   "店頭の支払い方法について公式の案内がないので、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://daiyu-hobby.com/",

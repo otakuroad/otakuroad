@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "아이돌 댄스를 좋아하는 여대생 캐스트가 무대에서 공연하는 지하 라이브 카페 겸 바",
-  "en": "Basement live cafe and bar where student cast perform idol dance sets on a small stage"
+  "en": "Basement live cafe and bar where student cast perform idol dance sets on a small stage",
+  "ja": "女子大生キャストがステージでアイドルダンスを披露する地下のライブカフェ＆バー"
  },
  "building_id": null,
  "floors": [
@@ -56,7 +57,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 8분, 긴자선 스에히로초역에서 도보 5분. 주오도리 서쪽 뒷골목의 소토칸다 3-3 블록으로, 레일웨이 빌딩(포폰데타)에서 동쪽으로 두 채 옆. 지상에 세워진 간판 옆 계단을 지하로 내려가면 입구다.",
-  "en": "Eight minutes from the JR Akihabara Electric Town exit, five from Suehirocho on the Ginza line, on the back street west of Chuo-dori in the Sotokanda 3-3 block, a couple of doors east of the Rail Way Building (Popondetta). Go down the stairs beside the street-level signboard; the entrance is in the basement."
+  "en": "Eight minutes from the JR Akihabara Electric Town exit, five from Suehirocho on the Ginza line, on the back street west of Chuo-dori in the Sotokanda 3-3 block, a couple of doors east of the Rail Way Building (Popondetta). Go down the stairs beside the street-level signboard; the entrance is in the basement.",
+  "ja": "JR秋葉原駅の電気街口から徒歩8分、銀座線の末広町駅から徒歩5分で、中央通りの西側の裏通り、外神田3-3のブロックにあり、レールウェイビル（ポポンデッタ 秋葉原店）から東へ2軒隣です。路上の看板の脇にある階段を地下へ降りると入口があります。"
  },
  "tips": {
   "ko": [
@@ -68,6 +70,11 @@
    "It is one floor below street level with only a small sign outside; look for the staircase next to the sign rather than the building name (Yoshii Building).",
    "There is no official website - hours, prices and event days are announced only on X (@amastage_akiba) and Instagram, so check the day's post before going.",
    "It is a Japanese-language concept cafe (konkafe) with scheduled stage times rather than continuous performance."
+  ],
+  "ja": [
+   "地下1階にあり地上には小さな看板が出ているだけなので、建物名（ヨシヰビル）よりも看板の脇の階段を探したほうが早いです。",
+   "公式サイトがなく、営業時間や料金、イベントの開催日はX（@amastage_akiba）とInstagramでしか告知されません。訪れる前に当日の投稿を確認してください。",
+   "日本語での接客が中心のコンセプトカフェ（コンカフェ）で、ずっと公演しているわけではなくキャストのステージの時間が決まっています。"
   ]
  },
  "official_url": "https://lit.link/amastageakiba",

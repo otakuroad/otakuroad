@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬·원피스 싱글과 오리파, 플레이어용 16석 무료 듀얼 스페이스",
-  "en": "Yu-Gi-Oh!, Pokemon and One Piece singles and oripa for players, plus free duel space"
+  "en": "Yu-Gi-Oh!, Pokemon and One Piece singles and oripa for players, plus free duel space",
+  "ja": "遊戯王・ポケカ・ワンピースのシングルとオリパ、プレイヤー向け無料デュエルスペース"
  },
  "building_id": null,
  "floors": [
@@ -65,7 +66,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽, 스루가야 게임관과 트레이더 본점 사이 구간의 오기소(小木曽) 빌딩 4층. 저층부에는 리버티 4호점이 들어 있고, 지도에 따라서는 같은 건물을 '아키하바라 SIL 빌딩'으로 표기한다. 1층 엘리베이터로 4층까지 올라간다.",
-  "en": "Fourth floor of the Ogiso Building on the east side of Chuo-dori, between Surugaya's game store and Trader's main store. Liberty Store 4 occupies the lower floors, and some maps label the same building 'Akihabara SIL Building'. Take the ground-floor elevator up to 4F."
+  "en": "Fourth floor of the Ogiso Building on the east side of Chuo-dori, between Surugaya's game store and Trader's main store. Liberty Store 4 occupies the lower floors, and some maps label the same building 'Akihabara SIL Building'. Take the ground-floor elevator up to 4F.",
+  "ja": "中央通り東側、駿河屋 秋葉原ゲーム館とトレーダー秋葉原本店の間にある小木曽ビルの4階です。低層階にはリバティー 秋葉原4号店が入っており、地図によっては同じ建物を「秋葉原SILビル」と表記しています。1階のエレベーターで4階まで上がります。"
  },
  "tips": {
   "ko": [
@@ -79,6 +81,12 @@
    "It runs separate web shops per title (Pokemon, Yu-Gi-Oh!, One Piece), so you can check stock before visiting.",
    "The counter takes cash only: the credit cards listed on the web shop are for online orders, and the shop states that in-store payment is cash.",
    "No opening hours are published on the official web shop; it opens in the afternoon on some days, so check X (@_torecard)."
+  ],
+  "ja": [
+   "店舗紹介には遊戯王の世界大会優勝経験のあるスタッフが常駐しており、デッキの相談にも乗ってもらえると書かれています。",
+   "タイトルごとに通販サイト（ポケモン・遊戯王・ワンピース）を分けて運営しているので、来店前に在庫を確認できます。",
+   "店頭の支払いは現金のみです。通販サイトに載っているクレジットカードはオンライン注文用で、店舗での支払いは現金だと案内されています。",
+   "公式の通販サイトに営業時間の記載はありません。午後になってから開く日もあるので、公式X（@_torecard）を確認してください。"
   ]
  },
  "official_url": "https://torecard-poke.ocnk.net/",

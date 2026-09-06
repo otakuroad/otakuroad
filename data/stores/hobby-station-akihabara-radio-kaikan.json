@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "1층 트레카 매장. 포켓몬·듀얼마스터즈·원피스 싱글과 아케이드 카드, 서플라이",
-  "en": "Ground-floor card shop with Pokemon, Duel Masters and One Piece singles and arcade cards"
+  "en": "Ground-floor card shop with Pokemon, Duel Masters and One Piece singles and arcade cards",
+  "ja": "ポケモン・デュエマ・ワンピースのシングルとアーケードカードを扱う1Fのトレカ店"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(정기휴일 없음)",
-   "en": "No regular closing day"
+   "en": "No regular closing day",
+   "ja": "年中無休（定休日なし）"
   },
   "note": {
    "ko": "라디오회관 건물 영업시간과 동일. 같은 체인의 2F 아키하바라 역앞점과 영업시간은 같지만 취급 타이틀이 다르다.",
-   "en": "Same as the Radio Kaikan building hours. The chain's Akihabara Ekimae branch on 2F keeps the same hours but stocks different titles."
+   "en": "Same as the Radio Kaikan building hours. The chain's Akihabara Ekimae branch on 2F keeps the same hours but stocks different titles.",
+   "ja": "営業時間はラジオ会館の建物と同じです。同じチェーンの2Fの秋葉原駅前店とは営業時間は同じですが、取扱タイトルが異なります。"
   },
   "source_url": "https://www.hbst.net/shop/45/"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구를 나와 광장 건너 라디오회관 1F. 건물에 들어가지 않고도 접근되는 1층 매장으로, 후쿠후쿠 트레카·마하·카드라보 매입센터와 같은 층에 있다.",
-  "en": "Cross the plaza from JR Akihabara's Electric Town Exit to Radio Kaikan's 1F. It is a ground-floor unit you reach without going upstairs, sharing the floor with Fukufuku Toreka, Mach and the Card Labo buyback center."
+  "en": "Cross the plaza from JR Akihabara's Electric Town Exit to Radio Kaikan's 1F. It is a ground-floor unit you reach without going upstairs, sharing the floor with Fukufuku Toreka, Mach and the Card Labo buyback center.",
+  "ja": "JR秋葉原駅の電気街口を出て広場を渡り、ラジオ会館の1Fです。上の階に上がらずに入れる1Fの区画で、福福トレカ秋葉原ラジオ会館店やマッハ ラジオ会館店、カードラボ 秋葉原ラジオ会館買取センターと同じフロアにあります。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,11 @@
    "Not the same shop as 'Akihabara Ekimae' on 2F, despite the similar name: Pokemon cards are stocked here on 1F and not upstairs.",
    "Stock covers newer TCGs (Love Live, Ultraman, Quintessential Quintuplets) and arcade card games such as Gundam Arsenal Base and Pokemon Mezastar.",
    "There is no regular closing day, so it opens whenever the building does."
+  ],
+  "ja": [
+   "名前が似ている2Fの秋葉原駅前店とは別の店舗です。ポケモンカードはこの1Fの店舗で扱っていて、上の駅前店にはありません。",
+   "ラブライブ！やウルトラマン、五等分の花嫁といった新しめのTCGに加え、ガンダム アーセナルベースやポケモンメザスタなどのアーケードカードゲームも扱っています。",
+   "定休日がないので、建物が開いている日はいつでも営業しています。"
   ]
  },
  "official_url": "https://www.hbst.net/shop/45/",

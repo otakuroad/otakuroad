@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "'하이 브랜드 인형'을 콘셉트로 한 콘셉트 카페. 40분 음료 무제한 2,800엔부터",
-  "en": "Concept cafe themed on high-brand dolls; 40 minutes all-you-can-drink from 2,800 yen"
+  "en": "Concept cafe themed on high-brand dolls; 40 minutes all-you-can-drink from 2,800 yen",
+  "ja": "ハイブランドの人形をコンセプトにしたコンカフェ、40分飲み放題2,800円から"
  },
  "building_id": "senju-building-7",
  "floors": [
@@ -52,7 +53,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 도보 2~3분, JR 아키하바라역 전기가 출구에서는 북쪽으로 도보 5~6분. 주오도리에 면한 千住ビル7(옛 표기 恵光ビル)의 건물 측면 출입구로 들어가 엘리베이터나 계단으로 5층까지 올라간다. 같은 건물 3층이 TOYGER TCG, 4층이 풀콤프, 6층이 아키바호비이고 5층에는 이 카페만 있다.",
-  "en": "Two to three minutes south of Suehirocho Station Exit 3 (Ginza Line) along the west pavement of Chuo-dori, five to six minutes north of the JR Akihabara Electric Town Exit. Enter by the door on the side of Senju Building 7 (older listings call it 恵光ビル / Keiko Building) and take the lift or stairs to 5F. TOYGER TCG on 3F, Fullcomp on 4F and AKIBA-HOBBY on 6F share the block, and this cafe has 5F to itself."
+  "en": "Two to three minutes south of Suehirocho Station Exit 3 (Ginza Line) along the west pavement of Chuo-dori, five to six minutes north of the JR Akihabara Electric Town Exit. Enter by the door on the side of Senju Building 7 (older listings call it 恵光ビル / Keiko Building) and take the lift or stairs to 5F. TOYGER TCG on 3F, Fullcomp on 4F and AKIBA-HOBBY on 6F share the block, and this cafe has 5F to itself.",
+  "ja": "銀座線の末広町駅3番出口から中央通り西側の歩道を南へ徒歩2〜3分、JR秋葉原駅の電気街口からは北へ徒歩5〜6分です。中央通りに面した千住ビル7（古い情報では恵光ビルと表記）の建物側面の出入口から入り、エレベーターか階段で5Fへ上がります。同じ建物は3FがTOYGER TCG、4Fがフルコンプ秋葉原店、6Fがアキバホビー秋葉原店で、5Fはこのカフェだけです。"
  },
  "tips": {
   "ko": [
@@ -66,6 +68,12 @@
    "The day's roster is posted every day on the official X account (@historiapeluche) as a 本日のお人形さん list, with shifts written like 17-L (last) or 18-23, which is the best hint of when to turn up.",
    "A sister shop in Ueno shares cast for joint-service events held at this Akihabara main store.",
    "No payment methods or tax-free handling are stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "公式Xのプロフィールには40分飲み放題2,800円〜と営業開始17:00としか書かれておらず、閉店時刻は公開されていません。そのため、このガイドでは営業時間を空欄にしています。",
+   "当日の出勤キャストは毎日、公式X（@historiapeluche）に本日のお人形さんとして投稿され、17-L（ラスト）や18-23のように勤務時間も併記されるので、何時に行けばよいかの目安になります。",
+   "上野に姉妹店があり、両店のキャストが一緒に接客する合同営業のイベントが、この秋葉原本店で開かれることもあります。",
+   "決済手段や免税対応についての公式な案内がないため、現金を用意しておくと安心です。"
   ]
  },
  "photo": null,

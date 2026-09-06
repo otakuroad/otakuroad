@@ -41,7 +41,8 @@
  ],
  "one_line": {
   "ko": "2층 유희왕·듀얼마스터즈, 3층 포켓몬·원피스 등 트레카 낱장 판매와 매입",
-  "en": "Singles and buy-back: Yu-Gi-Oh! and Duel Masters on 2F, Pokemon and One Piece on 3F"
+  "en": "Singles and buy-back: Yu-Gi-Oh! and Duel Masters on 2F, Pokemon and One Piece on 3F",
+  "ja": "2Fに遊戯王・デュエル・マスターズ、3Fにポケモン・ONE PIECEのシングル販売と買取"
  },
  "building_id": null,
  "floors": [
@@ -52,12 +53,14 @@
   {
    "floor": "2F",
    "ko": "유희왕 OCG·듀얼마스터즈·배틀 스피리츠·뱅가드·디지몬 카드게임 낱장과 팩",
-   "en": "Yu-Gi-Oh! OCG, Duel Masters, Battle Spirits, Vanguard and Digimon Card Game singles and sealed"
+   "en": "Yu-Gi-Oh! OCG, Duel Masters, Battle Spirits, Vanguard and Digimon Card Game singles and sealed",
+   "ja": "遊戯王OCG・デュエル・マスターズ・バトルスピリッツ・ヴァンガード・デジモンカードゲームのシングルとパックを扱います。"
   },
   {
    "floor": "3F",
    "ko": "러브라이브·홀로라이브·원피스·유니온아리나·건담 카드게임·아세널 베이스·포켓몬 카드",
-   "en": "Love Live!, hololive, ONE PIECE, UNION ARENA, Gundam Card Game, Arsenal Base and Pokemon cards"
+   "en": "Love Live!, hololive, ONE PIECE, UNION ARENA, Gundam Card Game, Arsenal Base and Pokemon cards",
+   "ja": "ラブライブ！・ホロライブ・ONE PIECE・ユニオンアリーナ・ガンダムカードゲーム・アーセナルベース・ポケモンカードを扱うフロアです。"
   }
  ],
  "location": {
@@ -92,7 +95,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일 12:00, 토·일·공휴일 10:30 개점이며 마감은 모두 20:00. 매입 접수는 그보다 1~2시간 일찍 끝난다.",
-   "en": "Opens 12:00 on weekdays and 10:30 at weekends and holidays, closing at 20:00 every day. Buy-back intake ends one to two hours earlier."
+   "en": "Opens 12:00 on weekdays and 10:30 at weekends and holidays, closing at 20:00 every day. Buy-back intake ends one to two hours earlier.",
+   "ja": "平日は12:00、土日祝は10:30開店で、閉店はいずれも20:00です。買取の受付はそれより1〜2時間早く終わります。"
   },
   "source_url": "https://dorasuta.jp/shop/detail?scd=9"
  },
@@ -108,7 +112,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리를 건너 한 블록 서쪽 뒷골목의 외신다 1-8-11 아키바스타 빌딩으로, 지도에 따라서는 같은 자리를 야스카와(安川) 빌딩으로 표기한다. 매장은 2층과 3층 두 층이고 1층은 다른 점포다.",
-  "en": "Three minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori at Sotokanda 1-8-11 (Akiba Star Building; some maps label the same spot Yasukawa Building). The shop occupies 2F and 3F — the ground floor is a different business."
+  "en": "Three minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori at Sotokanda 1-8-11 (Akiba Star Building; some maps label the same spot Yasukawa Building). The shop occupies 2F and 3F — the ground floor is a different business.",
+  "ja": "JR秋葉原駅の電気街口から徒歩3分です。中央通りを渡って1ブロック西の裏通り、外神田1-8-11のアキバスタービルで、地図によっては同じ場所を安川ビルと表記しています。店舗は2Fと3Fの2フロアで、1Fは別の店です。"
  },
  "tips": {
   "ko": [
@@ -122,6 +127,12 @@
    "There is no duel space here. To buy cards and play on the spot, go to the Ekimae branch with its 80 seats.",
    "Cash and major credit cards are accepted. No parking; use a nearby coin lot.",
    "Staff do not take phone questions about stock or buy-back prices; the official X account (@ds_akiba) posts prices instead."
+  ],
+  "ja": [
+   "フロアによって扱うタイトルがはっきり分かれます。遊戯王・デュエル・マスターズ・バトルスピリッツ・ヴァンガード・デジモンは2F、ポケモン・ONE PIECE・ラブライブ！・ホロライブ・ユニオンアリーナは3Fです。",
+   "この店舗には対戦スペースがありません。カードを買ってその場で遊ぶつもりなら、対戦席が80席あるドラゴンスター秋葉原駅前店へ行ってください。",
+   "現金と各種クレジットカードが使えます。駐車場はないので、近くのコインパーキングを利用してください。",
+   "在庫の入荷や買取価格は電話での問い合わせを受け付けていません。相場は公式Xアカウント（@ds_akiba）で確認するほうが早いです。"
   ]
  },
  "official_url": "https://dorasuta.jp/shop/detail?scd=9",

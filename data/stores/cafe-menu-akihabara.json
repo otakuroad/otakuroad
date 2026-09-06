@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 콜라보 카페. 작품별 한정 드링크·푸드와 주문 특전 굿즈",
-  "en": "Collab cafe with rotating anime and game tie-in drinks, food and order-bonus novelties"
+  "en": "Collab cafe with rotating anime and game tie-in drinks, food and order-bonus novelties",
+  "ja": "アニメ・ゲームのコラボカフェ、作品ごとの限定ドリンク・フードと注文特典グッズ"
  },
  "building_id": null,
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休です。"
   },
   "note": {
    "ko": "라스트오더 19:30(음식·음료 모두). 콜라보 개최 중에는 12:00·13:30·15:00·16:30·18:00 시작의 시간제 예약으로 운영되는 회차가 있고, 이벤트로 전관 대관하는 날도 있으므로 방문 전 X(@cafebarMENU) 확인이 안전하다.",
-   "en": "Last order 19:30 for both food and drink. While a collaboration is running, seatings are often reservation slots starting 12:00, 13:30, 15:00, 16:30 and 18:00, and the cafe is occasionally taken over for private events, so check X (@cafebarMENU) before going."
+   "en": "Last order 19:30 for both food and drink. While a collaboration is running, seatings are often reservation slots starting 12:00, 13:30, 15:00, 16:30 and 18:00, and the cafe is occasionally taken over for private events, so check X (@cafebarMENU) before going.",
+   "ja": "ラストオーダーはフード・ドリンクとも19:30です。コラボの開催中は12:00・13:30・15:00・16:30・18:00始まりの入替制の予約枠になる回が多く、イベントで貸切になる日もあるので、訪れる前にX（@cafebarMENU）を確認すると安心です。"
   },
   "source_url": "https://cafeandbar-menu.owst.jp/"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 1~2분, JR 아키하바라역 전기가 출구에서는 도보 8분. 주오도리 서쪽 한 줄 안쪽의 9층짜리 고구레스에히로(小暮末広) 빌딩 2층으로, 1층 엘리베이터로 올라간다. 같은 건물 8층은 오타츄 2호점 트레카관, 7·9층은 PDG 컬렉터스숍이라 층 표시를 보고 내린다.",
-  "en": "One to two minutes from exit 3 of Ginza-line Suehirocho and about eight minutes from the JR Akihabara Electric Town Exit. It is 2F of the nine-storey Kogure Suehiro Building, one row back from the west side of Chuo-dori; take the ground-floor elevator up. Otachu No.2's card floor is on 8F and PDG Collector's Shop on 7F and 9F, so watch the floor buttons."
+  "en": "One to two minutes from exit 3 of Ginza-line Suehirocho and about eight minutes from the JR Akihabara Electric Town Exit. It is 2F of the nine-storey Kogure Suehiro Building, one row back from the west side of Chuo-dori; take the ground-floor elevator up. Otachu No.2's card floor is on 8F and PDG Collector's Shop on 7F and 9F, so watch the floor buttons.",
+  "ja": "銀座線の末広町駅3番出口から徒歩1〜2分、JR秋葉原駅電気街口からは徒歩8分ほどです。中央通りの西側から一本入った9階建ての小暮末広ビルの2Fで、1階のエレベーターで上がります。同じ建物の8Fはおたちゅう。秋葉原2号店 トレカ館、7Fと9FはPDG collector's shopなので、階数の表示を見て降りてください。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,12 @@
    "It is a 12-seat room, all non-smoking, with a power outlet at every seat. Bookings are taken through Hot Pepper Gourmet.",
    "Credit cards (VISA, Mastercard, AMEX, JCB, Diners, Discover, UnionPay) plus transit IC, iD, QUICPay and Apple Pay are accepted.",
    "This is a collaboration cafe rather than a maid cafe - no cast service or cheki photos - and it runs as a plain cafe between collabs."
+  ],
+  "ja": [
+   "コラボ作品は数週間ごとに変わります。2026年8月26日〜9月16日はチラズアート（Chilla's Art）とのコラボが開催中で、コラボメニューを注文するとノベルティ特典が付きます。",
+   "12席だけの小さな店で全席禁煙、全席にコンセントがあります。予約はホットペッパーグルメで受け付けています。",
+   "クレジットカード（VISA・Mastercard・AMEX・JCB・Diners・Discover・UnionPay）のほか、交通系IC・iD・QUICPay・Apple Payが使えます。",
+   "メイドカフェではなく作品コラボ専門のカフェなので、キャストの接客やチェキはありません。コラボとコラボの合間は通常のカフェとして営業します。"
   ]
  },
  "official_url": "https://cafeandbar-menu.owst.jp/",

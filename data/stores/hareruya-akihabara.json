@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "매직 더 개더링 싱글카드·팩 전문점, 무료 플레이 공간 82석과 매일 대회",
-  "en": "Magic: The Gathering singles and sealed product, with 82 free play seats and daily events"
+  "en": "Magic: The Gathering singles and sealed product, with 82 free play seats and daily events",
+  "ja": "マジック：ザ・ギャザリングのシングルとパックの専門店、無料プレイスペース82席と毎日の大会"
  },
  "building_id": null,
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 점포 페이지 기준 '전일 10:00~23:00, 연중무휴'.",
-   "en": "The official store page states 10:00-23:00 every day, open year-round."
+   "en": "The official store page states 10:00-23:00 every day, open year-round.",
+   "ja": "公式の店舗ページには、全日10:00〜23:00、年中無休と記載されています。"
   },
   "source_url": "https://www.hareruyamtg.com/ja/user_data/shop_akihabara?shop=8"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 오노덴(オノデン) 바로 옆, 마우스컴퓨터 직영점 옆 '미카사 빌딩(ミカサビル)' 2~5층 전층. 예전 다카라다 주오도리 빌딩 8층에서 이전했으므로 오래된 지도·앱 정보에 주의.",
-  "en": "Three minutes from JR Akihabara's Electric Town Exit, on Chuo-dori beside Onoden and the Mouse Computer shop: floors 2F-5F of the Mikasa Building. It moved from 8F of the Takarada Chuo-dori Building, so older maps and apps still point to the wrong place."
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, on Chuo-dori beside Onoden and the Mouse Computer shop: floors 2F-5F of the Mikasa Building. It moved from 8F of the Takarada Chuo-dori Building, so older maps and apps still point to the wrong place.",
+  "ja": "JR秋葉原駅の電気街口から徒歩3分、中央通りのオノデン本館とマウスコンピューター直営店の隣にあるミカサビルの2〜5F全フロアです。以前は宝田中央通りビルの8Fにあり移転しているので、古い地図やアプリの情報に注意してください。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,12 @@
    "A tax-free store with certified judges and teaching-meister staff on site.",
    "Open 10:00-23:00 year-round, so it works as a late stop.",
    "Pokemon cards are handled by the separate Hareruya2 Akihabara Tower store at Sotokanda 1-2-13."
+  ],
+  "ja": [
+   "無料のプレイスペースは82席と秋葉原最大級で、初心者体験会とデイリーイベントが毎日開かれます。",
+   "免税販売に対応した店舗で、ジャッジ資格者とティーチングマイスターが常駐しています。",
+   "10:00〜23:00で年中無休なので、遅い時間にも立ち寄れます。",
+   "ポケモンカードは、外神田1-2-13の晴れる屋2 秋葉原タワー店にブランドが分かれています。"
   ]
  },
  "official_url": "https://www.hareruyamtg.com/ja/user_data/shop_akihabara?shop=8",

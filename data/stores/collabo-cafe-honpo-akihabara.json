@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 콜라보 카페. 작품별 한정 메뉴와 특전 굿즈, 완전예약제 70분제",
-  "en": "Anime and game collaboration cafe: limited menus and bonus goods, 70-minute booked slots"
+  "en": "Anime and game collaboration cafe: limited menus and bonus goods, 70-minute booked slots",
+  "ja": "アニメ・ゲームのコラボカフェ、限定メニューと特典グッズ、完全予約制70分制"
  },
  "building_id": null,
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "평일 화요일 휴무(공휴일과 겹치면 영업). 콜라보 교체 기간에는 임시 휴업일이 따로 공지된다",
-   "en": "Closed on weekday Tuesdays; open when a Tuesday is a public holiday. Extra closures are announced between collaborations"
+   "en": "Closed on weekday Tuesdays; open when a Tuesday is a public holiday. Extra closures are announced between collaborations",
+   "ja": "平日の火曜が定休日で、祝日と重なる場合は営業します。コラボの入れ替え期間には臨時休業日が別に告知されます。"
   },
   "note": {
    "ko": "완전예약제 70분 교체제로, 표시된 시간은 첫 회차 시작부터 마지막 회차 종료까지다. 예약 회차는 12:30·14:00·15:30·17:00·18:30이며 토·일·공휴일에만 11:00 회차가 추가된다. 라스트오더는 각 회차가 끝나기 30분 전(시작 40분 뒤)이다. 시간표와 휴무일은 콜라보 작품마다 바뀌므로 공식 사이트의 개최 중 이벤트 페이지를 확인할 것. 기준은 2026-08-07~09-13 『WIND BREAKER』 콜라보.",
-   "en": "Fully reservation-based, in 70-minute slots; the times shown run from the first slot's start to the last slot's end. Slots start at 12:30, 14:00, 15:30, 17:00 and 18:30, with an extra 11:00 slot on weekends and public holidays. Last order is 30 minutes before each slot ends (40 minutes after it starts). The timetable and closed days change with every collaboration, so check the current event page. Based on the WIND BREAKER collaboration, 2026-08-07 to 09-13."
+   "en": "Fully reservation-based, in 70-minute slots; the times shown run from the first slot's start to the last slot's end. Slots start at 12:30, 14:00, 15:30, 17:00 and 18:30, with an extra 11:00 slot on weekends and public holidays. Last order is 30 minutes before each slot ends (40 minutes after it starts). The timetable and closed days change with every collaboration, so check the current event page. Based on the WIND BREAKER collaboration, 2026-08-07 to 09-13.",
+   "ja": "完全予約制の70分入れ替え制で、表示している時間は最初の回の開始から最終回の終了までです。予約の回は12:30、14:00、15:30、17:00、18:30で、土日・祝日のみ11:00の回が加わります。ラストオーダーは各回の終了30分前（開始から40分後）です。時間割や休業日はコラボ作品ごとに変わるので、公式サイトの開催中イベントのページを確認してください。基準は2026年8月7日-9月13日の「WIND BREAKER」コラボです。"
   },
   "source_url": "https://collabocafe-honpo.co.jp/event/winbre2608/"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "돈키호테 아키하바라점 바로 뒤(남동쪽) 골목의 샤통빌딩 2층. 주오도리에서 돈키호테 옆길로 들어가 30m. 엘리베이터가 없어 좁은 계단으로 2층까지 올라가야 한다.",
-  "en": "Second floor of the Chaton Building in the back alley immediately southeast of Don Quijote Akihabara, about 30 m in from Chuo-dori. There is no lift - the only way up is a narrow staircase."
+  "en": "Second floor of the Chaton Building in the back alley immediately southeast of Don Quijote Akihabara, about 30 m in from Chuo-dori. There is no lift - the only way up is a narrow staircase.",
+  "ja": "ドン・キホーテ秋葉原店のすぐ南東の裏路地にあるシャトンビルの2階で、中央通りから入って30mほどです。エレベーターがなく、上がるには狭い階段しかありません。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,13 @@
    "Slots run 70 minutes and each guest must order at least one item. Cosplay or very showy outfits can be refused entry.",
    "It is on 2F with no lift and narrow stairs and corridors, so leave prams and large suitcases in a coin locker first.",
    "The same company runs branches in Osaka Nipponbashi and Ikebukuro (BLANC), and the collaboration title can differ by branch."
+  ],
+  "ja": [
+   "完全予約制です。予約サイトからのみ受け付けており、電話やメールでの予約、当日の整理券や当日受付はありません。予約の際にはクレジットカードの登録が必要です。",
+   "入場の際に、代表者の名前が確認できる公的な身分証の原本（運転免許証、学生証、健康保険証、パスポート、マイナンバーカードなど）を確認します。コピーは不可で、秋葉原店は1回の予約につき4名までです。",
+   "70分の入れ替え制で、1人1品以上の注文が必要です。コスプレや過度に派手な服装は入店を断られることがあります。",
+   "2階ですがエレベーターがなく、階段も通路も狭いので、ベビーカーや大きなスーツケースは先にコインロッカーに預けておくとよいです。",
+   "同じ会社が大阪日本橋店と池袋のBLANC店を運営しており、コラボ作品は店舗ごとに違うことがあります。"
   ]
  },
  "official_url": "https://collabocafe-honpo.co.jp/shops/",

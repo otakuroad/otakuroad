@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "'오타쿠×카와이이' 콘셉트 1호점. 1층 노면 메이드 카페로 식사·디저트 제공",
-  "en": "First branch, 'otaku x kawaii' theme: ground-floor maid cafe serving meals and desserts"
+  "en": "First branch, 'otaku x kawaii' theme: ground-floor maid cafe serving meals and desserts",
+  "ja": "オタク×カワイイがコンセプトの1号店、食事やデザートを出す1Fの路面メイドカフェ"
  },
  "building_id": null,
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 店舗紹介 페이지 기준으로 4개 지점 모두 12:00-22:00 동일하다.",
-   "en": "Per the official shop page, all four branches keep the same 12:00-22:00 hours."
+   "en": "Per the official shop page, all four branches keep the same 12:00-22:00 hours.",
+   "ja": "公式の店舗紹介ページによると、4店舗とも12:00〜22:00で同じです。"
   },
   "source_url": "https://akibazettai.com/shop/"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구와 오차노미즈역 양쪽에서 도보 5분, 주오도리에서 서쪽으로 두 블록 들어간 간다묘진도리 주변. 오바야시(大林) 빌딩 1층 노면 점포로, 계단을 오르지 않고 길에서 바로 들어간다. 같은 길 동쪽 약 50m에 2호점 A.D.1912가 있다.",
-  "en": "Five minutes from JR Akihabara's Electric Town Exit and also from Ochanomizu, on the Kanda Myojin-dori side about two blocks west of Chuo-dori. It is a street-level shop on the 1F of the Obayashi Building, so you walk straight in from the pavement. The second branch, A.D.1912, is about 50 m east on the same street."
+  "en": "Five minutes from JR Akihabara's Electric Town Exit and also from Ochanomizu, on the Kanda Myojin-dori side about two blocks west of Chuo-dori. It is a street-level shop on the 1F of the Obayashi Building, so you walk straight in from the pavement. The second branch, A.D.1912, is about 50 m east on the same street.",
+  "ja": "JR秋葉原駅電気街口からも御茶ノ水駅からも徒歩5分、中央通りから西へ2ブロックほど入った神田明神通り沿いです。大林ビルの1Fの路面店なので、階段を上がらずに通りからそのまま入れます。同じ通りを東へ約50m行くと2号店のA.D.1912があります。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,12 @@
    "The only street-level shop of the four branches, which makes it the easiest first maid cafe to walk into.",
    "No payment methods are stated officially, so bring cash to be safe.",
    "It is a maid cafe and bar, so alcohol is served as well."
+  ],
+  "ja": [
+   "料金は1人880円／60分の1ドリンクオーダー制で、延長する場合はドリンクを追加注文します。",
+   "グループ4店舗の中で唯一の1Fの路面店なので、メイドカフェが初めての人でも入りやすいです。",
+   "支払い方法についての公式の案内がないため、現金を用意していくほうが安心です。",
+   "メイドカフェ兼バーなので、お酒も扱っています。"
   ]
  },
  "official_url": "https://akibazettai.com/shop/",

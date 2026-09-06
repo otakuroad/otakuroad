@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "차이나 드레스 차림 메이드가 응대하는 콘셉트 카페. 식사·음료와 체키 촬영",
-  "en": "Concept cafe with maids in Chinese dress: food, drinks and cheki photos with maids"
+  "en": "Concept cafe with maids in Chinese dress: food, drinks and cheki photos with maids",
+  "ja": "チャイナドレス姿のメイドが接客するコンセプトカフェ、食事・ドリンクとチェキ"
  },
  "building_id": null,
  "floors": [
@@ -67,7 +68,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 기준 평일 17:00~23:00, 토·일·공휴일 15:00~23:00. 정기휴일 안내는 공식 사이트에 없다.",
-   "en": "17:00-23:00 on weekdays and 15:00-23:00 on Saturdays, Sundays and public holidays, per the official site; no regular closing day is stated."
+   "en": "17:00-23:00 on weekdays and 15:00-23:00 on Saturdays, Sundays and public holidays, per the official site; no regular closing day is stated.",
+   "ja": "公式サイト基準で平日17:00-23:00、土曜・日曜・祝日15:00-23:00です。定休日についての記載は公式サイトにありません。"
   },
   "source_url": "https://akiba-maidcafe.co.jp/ronron/"
  },
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 3분. 주오도리 한 블록 서쪽 뒷골목, 트레이더 2호점 바로 남쪽에 있는 제2나카무라(第二中村) 빌딩 2층이다. 1층 주변은 서서 먹는 야키니쿠·라멘 가게가 늘어선 음식점 골목이다.",
-  "en": "Three minutes from JR Akihabara's Electric Town Exit, on the back street one block west of Chuo-dori just south of Trader's 2nd store. The cafe is on 2F of the Dai-2 Nakamura Building, above a row of small yakiniku and ramen restaurants."
+  "en": "Three minutes from JR Akihabara's Electric Town Exit, on the back street one block west of Chuo-dori just south of Trader's 2nd store. The cafe is on 2F of the Dai-2 Nakamura Building, above a row of small yakiniku and ramen restaurants.",
+  "ja": "JR秋葉原駅電気街口から徒歩3分、中央通りから1本西の裏通りで、トレーダー2号店のすぐ南にあります。第二中村ビルの2階で、1階には小さな焼肉店やラーメン店が並んでいます。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,12 @@
    "The official guide budget is 2,000G (yen) per hour, covering one drink, one cheki and the charge; the charge itself is 1,100G for men and 500G for women per hour, and set menus start at 4,100G for women and 4,600G for men.",
    "No payment methods are stated officially, so bring cash to be safe.",
    "Five more sister cafes in Akihabara are run by the same company, YUKIMI Inc."
+  ],
+  "ja": [
+   "平日は17:00、土日・祝日は15:00の開店なので、昼間は営業していません。",
+   "公式サイトが示す予算の目安は1時間2,000G（円）で、ドリンク1杯とチェキ1枚、チャージ込みの金額です。チャージ自体は1時間あたり男性1,100G・女性500G、セットメニューは女性4,100G・男性4,600Gからです。",
+   "支払い方法の公式な案内がないので、現金を用意しておくと安心です。",
+   "同じ運営会社の株式会社YUKIMIは、秋葉原にほかにも5店の姉妹店を持っています。"
   ]
  },
  "official_url": "https://akiba-maidcafe.co.jp/ronron/",

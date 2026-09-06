@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "여동생 콘셉트 메이드카페. 손님을 '오빠'라 부르는 접객과 수제 음식·체키",
-  "en": "Little-sister concept maid cafe: cast call you onii-chan, home-made food and cheki"
+  "en": "Little-sister concept maid cafe: cast call you onii-chan, home-made food and cheki",
+  "ja": "妹コンセプトのメイドカフェ。お兄ちゃんと呼ぶ接客と手作り料理、チェキ"
  },
  "building_id": null,
  "floors": [
@@ -71,11 +72,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일·목요일 정기휴무",
-   "en": "Closed Tuesdays and Thursdays"
+   "en": "Closed Tuesdays and Thursdays",
+   "ja": "火曜日・木曜日定休"
   },
   "note": {
    "ko": "가게 공식 인스타그램 프로필의 영업시간 표기(【평일】월·금 14시~23시, 수 17시~23시 【휴일】12시~23시 【정기휴무】화·목)를 옮긴 것이다. 당일 오픈·클로즈 시간과 출근 메이드는 공식 X(@sora_mica0708)에 매일 올라온다. OSM에는 아직 22시 마감으로 남아 있다.",
-   "en": "Transcribed from the shop's official Instagram profile (Mon/Fri 14:00-23:00, Wed 17:00-23:00, weekends and holidays 12:00-23:00, closed Tue/Thu). Each day's actual open and close time is posted on X (@sora_mica0708). OSM still records a 22:00 close."
+   "en": "Transcribed from the shop's official Instagram profile (Mon/Fri 14:00-23:00, Wed 17:00-23:00, weekends and holidays 12:00-23:00, closed Tue/Thu). Each day's actual open and close time is posted on X (@sora_mica0708). OSM still records a 22:00 close.",
+   "ja": "店の公式Instagramのプロフィールにある営業時間の表記（【平日】月・金14:00〜23:00、水17:00〜23:00【休日】12:00〜23:00【定休日】火・木）を書き写したものです。その日の実際の開店・閉店時間と出勤するメイドは、毎日公式X（@sora_mica0708）に投稿されます。OSMには今も22:00閉店と残っています。"
   },
   "source_url": "https://www.instagram.com/imouto_soramica/"
  },
@@ -91,7 +94,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 2분. 전자부품점 센고쿠덴쇼(千石電商)와 도쿄 레저랜드가 있는 외칸다 1-9 블록의 神タワービル 4층이다. OSM과 일부 지도 앱은 같은 자리의 건물을 岡光ビル(오카미쓰 빌딩)로 표기한다.",
-  "en": "Two minutes from JR Akihabara's Electric Town exit, on the 外神田1-9 block that holds the parts shop Sengoku Densho and Tokyo Leisure Land. 4F of the Kami Tower Building; OSM and some map apps label the same building Okamitsu Building."
+  "en": "Two minutes from JR Akihabara's Electric Town exit, on the 外神田1-9 block that holds the parts shop Sengoku Densho and Tokyo Leisure Land. 4F of the Kami Tower Building; OSM and some map apps label the same building Okamitsu Building.",
+  "ja": "JR秋葉原駅の電気街口から徒歩2分、電子部品店の千石電商と東京レジャーランド秋葉原店がある外神田1-9のブロックです。神タワービルの4Fで、OSMや一部の地図アプリでは同じ建物が岡光ビルと表記されています。"
  },
  "tips": {
   "ko": [
@@ -105,6 +109,12 @@
    "The day's hours and which maids are working are posted on X (@sora_mica0708) every morning or midday.",
    "The cast drawing pictures for guests is this shop's signature; the hashtag #妹はお絵描き大好き shows the actual drawings.",
    "There is no official website - only X and Instagram, which are also where enquiries go."
+  ],
+  "ja": [
+   "火曜日と木曜日は定休日です。月・金は14:00、水は17:00、土日祝は12:00と曜日ごとに開店時間が違うので、確認してから行ってください。",
+   "その日の営業時間と出勤するメイドは、毎日午前から昼にかけて公式X（@sora_mica0708）で告知されます。",
+   "メイドが絵を描いてくれるのがこの店の特徴で、ハッシュタグ #妹はお絵描き大好き で実際の作品を見ることができます。",
+   "公式ホームページはなくXとInstagramだけを運営していて、予約や問い合わせもそちらで受け付けています。"
   ]
  },
  "official_url": null,

@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "아이돌마스터 시리즈 공식 굿즈와 전시, 방문 기록 타임레코더가 있는 2층 매장",
-  "en": "Official iDOLM@STER goods, series displays and a visit-stamp time recorder on 2F"
+  "en": "Official iDOLM@STER goods, series displays and a visit-stamp time recorder on 2F",
+  "ja": "アイドルマスター公式グッズとシリーズ展示、来店記録のタイムレコーダーがある2Fの店"
  },
  "building_id": "atre-akihabara-1",
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "아트레 아키하바라1 휴관일에 준함",
-   "en": "Closes when Atre Akihabara 1 closes"
+   "en": "Closes when Atre Akihabara 1 closes",
+   "ja": "アトレ秋葉原1の休館日に準じます"
   },
   "note": {
    "ko": "아트레 공식 점포 페이지 기준 10:00-21:00. 방문객이 많으면 입장을 제한하는 경우가 있고, 개최 기간·영업시간 변경은 공식 X로 공지된다.",
-   "en": "10:00-21:00 per Atre's shop page. Entry can be restricted when the shop is busy, and changes to hours or event periods are announced on the official X account."
+   "en": "10:00-21:00 per Atre's shop page. Entry can be restricted when the shop is busy, and changes to hours or event periods are announced on the official X account.",
+   "ja": "アトレの店舗ページによると営業時間は10:00-21:00です。混雑しているときは入場を制限することがあり、開催期間や営業時間の変更は公式Xで告知されます。"
   },
   "source_url": "https://www.atre.co.jp/akihabara/shop/5645/"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "아트레 아키하바라1 2층, 반다이남코 크로스 스토어 구역 안. 에스컬레이터로 2층에 올라 산세이도 서점 쪽 안쪽으로 들어가면 나오며, 바로 옆에 아이돌마스터 투어즈 아케이드 기기 2대가 놓여 있다.",
-  "en": "On 2F of Atre Akihabara 1, inside the BANDAI NAMCO Cross Store area. Take the escalator to 2F and head inward past Books Sanseido; two iDOLM@STER Tours arcade cabinets stand right beside the shop."
+  "en": "On 2F of Atre Akihabara 1, inside the BANDAI NAMCO Cross Store area. Take the escalator to 2F and head inward past Books Sanseido; two iDOLM@STER Tours arcade cabinets stand right beside the shop.",
+  "ja": "アトレ秋葉原1の2F、バンダイナムコ Cross Store アトレ秋葉原店の区画の中にあります。エスカレーターで2Fに上がり、三省堂書店の先の奥へ進むと見つかり、店のすぐ横にアイドルマスター ツアーズのアーケード筐体が2台置かれています。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,12 @@
    "A time recorder in the shop lets producers clock their visits — the shop's long-running visit-stamp gimmick.",
    "Entry may be limited when a display or pop-up changes over, so check the official notices before a special trip.",
    "It sits in the same Cross Store row as the Love Live! and Aikatsu! official stores, so plan them as one stop."
+  ],
+  "ja": [
+   "シンデレラガールズ、ミリオンライブ！、SideM、シャイニーカラーズ、学園アイドルマスターと、シリーズごとのグッズやガチャをまとめて扱っています。",
+   "店内には来店を記録するタイムレコーダーがあり、プロデューサーが通うたびに押していく、この店の長く続く来店スタンプになっています。",
+   "展示やポップアップの入れ替え時期には入場制限がかかることがあるので、わざわざ行く前に公式の告知を確認してください。",
+   "同じCross Storeの並びにラブライブ！シリーズ オフィシャルストア スクールアイドルシアター アトレ秋葉原店とアイカツ！のオフィシャルストアがあるので、まとめて回ると効率的です。"
   ]
  },
  "official_url": "https://bandainamco-am.co.jp/chara_shop/idolmaster/",

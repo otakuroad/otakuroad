@@ -22,7 +22,8 @@
  ],
  "one_line": {
   "ko": "주오도리 서쪽 뒷골목 니포아키바관 1층의 소형 트레이딩 카드 매장",
-  "en": "Small trading-card shop on the ground floor of the Nippo Akiba Kan back-street building"
+  "en": "Small trading-card shop on the ground floor of the Nippo Akiba Kan back-street building",
+  "ja": "中央通りの西側の裏通り、日宝アキバ館1Fの小さなトレカ店"
  },
  "building_id": null,
  "floors": [
@@ -48,7 +49,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 7분, 주오도리 한 블록 서쪽 뒷골목의 니포아키바관(지도에 따라 이시이 빌딩 표기) 1층 노면 점포. 같은 1층에 트레카 요코초 총본점이, 옆 마치다 빌딩에 트레카점보 본점이 붙어 있으니 간판을 보고 들어간다.",
-  "en": "Seven minutes from the JR Akihabara Electric Town Exit, a street-level unit on the ground floor of the Nippo Akiba Kan (labelled Ishii Building on some maps), on the back street one block west of Chuo-dori. Toreca Yokocho's main store shares the same ground floor and Toreca Jumbo's main store is in the Machida Building next door, so check the signage."
+  "en": "Seven minutes from the JR Akihabara Electric Town Exit, a street-level unit on the ground floor of the Nippo Akiba Kan (labelled Ishii Building on some maps), on the back street one block west of Chuo-dori. Toreca Yokocho's main store shares the same ground floor and Toreca Jumbo's main store is in the Machida Building next door, so check the signage.",
+  "ja": "JR秋葉原駅の電気街口から徒歩7分、中央通りの1本西の裏通りにある日宝アキバ館（地図によっては石井ビル表記）の1Fの路面店です。同じ1Fにトレカ横丁 総本店、隣の町田ビルにトレカジャンボ秋葉原本店があるので、看板を確かめてから入ってください。"
  },
  "tips": {
   "ko": [
@@ -62,6 +64,12 @@
    "It pre-opened on 30 July 2025 for buyback only and had its grand opening on 3 August 2025; Pokemon and One Piece cards are the main lines.",
    "No opening hours are published on the official channels. The Japanese card directory torecamap lists 12:00-20:00 with no regular closing day, but that is unconfirmed.",
    "The shop buys cards in, and buyback price-list updates are posted on its official X account."
+  ],
+  "ja": [
+   "公式オンラインストアのeverytcg.comと、X（@every_tcg）、Instagramのアカウントがあります。運営はエブリトレカ株式会社で、エブリライブグループの系列です。",
+   "2025年7月30日に買取だけ先行してオープンし、8月3日にグランドオープンしました。ポケモンカードとワンピースカードが主力です。",
+   "公式のチャンネルには営業時間の案内がありません。日本語のトレカディレクトリのtorecamapは12:00〜20:00、定休日なしと載せていますが、公式に確認されたものではありません。",
+   "カードの買取も行っており、買取表の更新は公式Xで告知されます。"
   ]
  },
  "official_url": "https://everytcg.com/",

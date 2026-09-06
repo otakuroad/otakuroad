@@ -42,7 +42,8 @@
  ],
  "one_line": {
   "ko": "유희왕·MTG·포켓몬 등 트레카 싱글과 오리파, 92석 대전 공간",
-  "en": "Yu-Gi-Oh!, MTG and Pokemon singles, oripa packs and a 92-seat duel space"
+  "en": "Yu-Gi-Oh!, MTG and Pokemon singles, oripa packs and a 92-seat duel space",
+  "ja": "遊戯王・MTG・ポケモンなどのシングルとオリパ、92席のデュエルスペース"
  },
  "building_id": null,
  "floors": [
@@ -81,7 +82,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트가 전 점포 공통 영업시간으로 안내하는 시간이며 예고 없이 바뀔 수 있다. 매입 접수도 같은 시간대에 받지만 수량이 많으면 일찍 가는 편이 좋다.",
-   "en": "These are the chain-wide hours given on the official site and can change without notice. Buyback is taken during the same hours, but go early if you are selling a lot."
+   "en": "These are the chain-wide hours given on the official site and can change without notice. Buyback is taken during the same hours, but go early if you are selling a lot.",
+   "ja": "公式サイトが全店舗共通の営業時間として案内している時間で、予告なく変わることがあります。買取も同じ時間帯に受け付けますが、点数が多いときは早めに行ってください。"
   },
   "source_url": "https://www.cardrush.jp/page/57"
  },
@@ -97,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 바로 앞의 BiTO AKIBA PLAZA(소토칸다 1-18-18) 건물 7층. 엘리베이터로 7층까지 올라가면 되고, 한 층 아래 6층은 다른 체인인 드래곤스타 역앞점이라 층을 헷갈리기 쉽다.",
-  "en": "On 7F of BiTO AKIBA PLAZA (Sotokanda 1-18-18), the building right in front of JR Akihabara's Electric Town Exit. Take the elevator to 7F; the 6F below is a different chain, Dragon Star Akihabara Ekimae, so watch the floor number."
+  "en": "On 7F of BiTO AKIBA PLAZA (Sotokanda 1-18-18), the building right in front of JR Akihabara's Electric Town Exit. Take the elevator to 7F; the 6F below is a different chain, Dragon Star Akihabara Ekimae, so watch the floor number.",
+  "ja": "JR秋葉原駅電気街口のすぐ正面に建つBiTO AKIBA PLAZA（外神田1-18-18）の7Fです。エレベーターで7Fまで上がります。一つ下の6Fは別のチェーンのドラゴンスター秋葉原駅前店なので、階数に気をつけてください。"
  },
  "tips": {
   "ko": [
@@ -111,6 +114,12 @@
    "Weekday opening is a late 13:00; for a morning visit come on Saturday, Sunday or a public holiday (11:00).",
    "Besides singles it sells oripa mystery packs, used sealed boosters and supplies such as sleeves, deck cases and playmats.",
    "The chain's Akihabara No.1 store (Hoshino Building 3F) has come back from its temporary closure as a buyback-only counter, and No.2 is a different building about 200 m west, so check for the 0号店TC sign."
+  ],
+  "ja": [
+   "デュエルスペースが92席あり、カードラッシュの秋葉原の店舗では最も大きい店です。販売の取り扱いは遊戯王、MTG、ポケモン、ワンピース、シャドウバースエボルヴ、デュエル・マスターズ、ヴァンガード、バトルスピリッツ、デジモンの9タイトルです。",
+   "平日の開店は13:00と遅めです。午前中に行きたいなら、11:00開店の土曜・日曜・祝日に合わせてください。",
+   "シングルのほかに、オリパや中古の未開封パック、スリーブ・デッキケース・プレイマットといったサプライも販売しています。",
+   "同じチェーンの秋葉原1号店（星野ビル3F）は臨時休業を終えて買取専門の窓口として再開し、2号店はここから200mほど西の別の建物です。0号店TCの看板を確認してください。"
   ]
  },
  "official_url": "https://www.cardrush.jp/page/57",

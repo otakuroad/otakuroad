@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "애니·만화 콜라보 안경테를 파는 캐릭터 안경 전문점",
-  "en": "Specialist eyewear shop selling anime and manga collaboration frames"
+  "en": "Specialist eyewear shop selling anime and manga collaboration frames",
+  "ja": "アニメ・マンガとのコラボメガネフレームを扱うキャラクターメガネ専門店"
  },
  "building_id": null,
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 목요일",
-   "en": "Every Thursday"
+   "en": "Every Thursday",
+   "ja": "毎週木曜日"
   },
   "note": {
    "ko": "공식 사이트에 '2021년 4월 1일부터 당분간 목요일 정기휴일'이라고 안내되어 있다.",
-   "en": "The official site notes that the Thursday closing day has applied 'for the time being' since 1 April 2021."
+   "en": "The official site notes that the Thursday closing day has applied 'for the time being' since 1 April 2021.",
+   "ja": "公式サイトには、2021年4月1日から当面の間、木曜日を定休日としていると記載されています。"
   },
   "source_url": "https://animegane.jp/shop.html"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 2분, 주오도리 한 블록 동쪽 골목의 세존 아키하바라 빌딩 1층. JR 아키하바라역에서는 도보 5분. 구글 지도에는 안경점으로 분류되어 있어 애니 굿즈로 검색하면 잘 나오지 않는다.",
-  "en": "Two minutes from Suehirocho on the Ginza line, one block east of Chuo-dori, on the ground floor of the Saison Akihabara Building; five minutes from JR Akihabara. Google files it under opticians, so it rarely surfaces in anime-goods searches."
+  "en": "Two minutes from Suehirocho on the Ginza line, one block east of Chuo-dori, on the ground floor of the Saison Akihabara Building; five minutes from JR Akihabara. Google files it under opticians, so it rarely surfaces in anime-goods searches.",
+  "ja": "銀座線の末広町駅から徒歩2分、中央通りから1本東に入ったところに建つセゾン秋葉原ビルの1階で、JR秋葉原駅からは徒歩5分です。Googleではメガネ店に分類されているため、アニメグッズで検索してもなかなか出てきません。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,12 @@
    "Closed on Thursdays, and the day is short at 11:30-19:30.",
    "Prescription-lens prices are published on the site's LensPrice page, and online sales run through the sister brand eyemirror's store.",
    "Tax-free and card acceptance are not stated officially."
+  ],
+  "ja": [
+   "品揃えは期間限定のコラボが中心で作品が入れ替わるので、行く前に公式サイトのCollaborationとNewsのページを確認してください。",
+   "木曜が定休日で、営業時間も11:30〜19:30と短めです。",
+   "度付きレンズの料金は公式サイトのLensPriceのページに掲載されており、オンラインでの販売は姉妹ブランドeyemirrorのストアで行われています。",
+   "免税やカード決済に対応しているかは公式には示されていません。"
   ]
  },
  "official_url": "https://animegane.jp/",

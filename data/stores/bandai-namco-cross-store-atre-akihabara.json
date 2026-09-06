@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "러브라이브·아이카츠·아이돌마스터 등 반다이남코 그룹 공식 굿즈숍이 모인 매장",
-  "en": "Bandai Namco official goods shops for Love Live!, Aikatsu!, iDOLM@STER and BN Pictures"
+  "en": "Bandai Namco official goods shops for Love Live!, Aikatsu!, iDOLM@STER and BN Pictures",
+  "ja": "バンダイナムコ公式のラブライブ！・アイカツ！・アイドルマスター・BNピクチャーズのグッズ店"
  },
  "building_id": "atre-akihabara-1",
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "아트레 아키하바라1 휴관일에 준함",
-   "en": "Closes when Atre Akihabara 1 closes"
+   "en": "Closes when Atre Akihabara 1 closes",
+   "ja": "アトレ秋葉原1の休館日に準じます"
   },
   "note": {
    "ko": "공식 점포 페이지와 아트레 점포 페이지 모두 10:00-21:00. 개최 기간·영업시간 변경은 공식 X(@bncs_akihabara)에 공지된다.",
-   "en": "Both the official store page and Atre's shop page give 10:00-21:00. Changes to event periods and hours are posted on the official X account (@bncs_akihabara)."
+   "en": "Both the official store page and Atre's shop page give 10:00-21:00. Changes to event periods and hours are posted on the official X account (@bncs_akihabara).",
+   "ja": "公式の店舗ページもアトレの店舗ページも10:00〜21:00です。開催期間や営業時間の変更は公式X（@bncs_akihabara）で告知されます。"
   },
   "source_url": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "아트레 아키하바라1 2층 굿즈 구역 전체가 이 매장이다. 반다이남코 공식 안내는 2·3층으로 표기하지만 아트레 층 안내에는 2층 점포로만 올라 있고, 3층에는 같은 회사가 운영하는 캐라팝 스토어 1호점이 있다.",
-  "en": "The goods zone on 2F of Atre Akihabara 1. Bandai Namco's own page gives the address as 2F and 3F, while Atre's directory lists the tenant on 2F only; the 3F presence is the CharaPop Store No.1 run by the same operator."
+  "en": "The goods zone on 2F of Atre Akihabara 1. Bandai Namco's own page gives the address as 2F and 3F, while Atre's directory lists the tenant on 2F only; the 3F presence is the CharaPop Store No.1 run by the same operator.",
+  "ja": "アトレ秋葉原1の2Fのグッズ区画がこの店舗です。バンダイナムコの公式ページは住所を2F・3Fとしていますが、アトレのフロア案内では2Fの店舗としてのみ掲載されており、3Fにあるのは同じ会社が運営するキャラポップストア 1号店です。"
  },
  "tips": {
   "ko": [
@@ -93,6 +97,11 @@
    "Inside are the Love Live! Series Official Store, the iDOLM@STER Official Shop, the Aikatsu! Official Store and the BN Pictures Store, side by side.",
    "A JRE POINT member shop on Atre's directory, so Suica and JRE CARD work. Neither the official page nor Atre's page shows a tax-free mark.",
    "Inside the station building it opens at 10:00, earlier than most Akihabara specialty shops (usually 11:00-12:00)."
+  ],
+  "ja": [
+   "中にはラブライブ！シリーズ オフィシャルストア、アイドルマスター オフィシャルショップ、アイカツ！オフィシャルストア、BNピクチャーズストアが並んで入っています。",
+   "アトレのフロア案内ではJRE POINTの対象店舗なので、SuicaやJRE CARDが使えます。公式ページにもアトレのページにも免税の表示はありません。",
+   "駅ビルの中にあるので10:00に開き、11:00〜12:00開店が多い周辺の秋葉原の専門店より早く利用できます。"
   ]
  },
  "official_url": "https://bandainamco-am.co.jp/crossstore/store/akihabara-atre/",

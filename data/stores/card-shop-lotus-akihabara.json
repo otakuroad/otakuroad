@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "미개봉 BOX와 희귀 카드 중심의 1층 카드숍, 점두 매입 창구 운영",
-  "en": "Ground-floor card shop selling sealed boxes and rare singles, with in-store buyback"
+  "en": "Ground-floor card shop selling sealed boxes and rare singles, with in-store buyback",
+  "ja": "未開封BOXとレアカードが中心の1階のカードショップ、店頭買取あり"
  },
  "building_id": "new-akihabara-center",
  "floors": [
@@ -53,7 +54,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 남쪽, 소프맵이 있는 소토칸다 1-16 블록의 '아키하바라 센터빌딩' 1층 노면 점포다. 같은 건물 5층 501호에는 트레카데이즈가 들어 있다.",
-  "en": "South of JR Akihabara station, a street-level unit on 1F of the Akihabara Center Building in the 1-16 block that also holds a Sofmap branch. Room 501 on 5F of the same building is Toreca Days."
+  "en": "South of JR Akihabara station, a street-level unit on 1F of the Akihabara Center Building in the 1-16 block that also holds a Sofmap branch. Room 501 on 5F of the same building is Toreca Days.",
+  "ja": "JR秋葉原駅の南側、ソフマップの店舗も入る外神田1-16のブロックにあるニュー秋葉原センタービル1階の、通りに面した路面店です。同じビルの5階501号室にはトレカデイズ秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -69,6 +71,13 @@
    "No duel space; cash, credit cards and QR payments are accepted.",
    "A Fukuoka-based chain's Akihabara branch, opened in 2024, with Pokemon voice actor Rica Matsumoto as its official ambassador.",
    "The map pin is approximate, placed from the street address 1-16-10."
+  ],
+  "ja": [
+   "公式の営業時間の案内ページはありません。カードショップのディレクトリであるトレカマップでは毎日12:00-22:00、不定休となっており、秋葉原のカードショップの中では遅くまで開いている部類です。",
+   "買取カウンターは店の公式Xのプロフィール記載で14:00-21:00です。",
+   "デュエルスペースはなく、支払いは現金・クレジットカード・QR決済に対応しています。",
+   "福岡発のチェーンが2024年に出した秋葉原の店舗で、ポケモンの声優・松本梨香さんを公式アンバサダーに起用しています。",
+   "地図のピンは番地（1-16-10）から置いたおおよその位置です。"
   ]
  },
  "official_url": null,

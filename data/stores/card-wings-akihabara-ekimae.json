@@ -45,7 +45,8 @@
  ],
  "one_line": {
   "ko": "역 앞 4개 층 트레카 전문점. 층별 타이틀 싱글과 160석 무료 대전석",
-  "en": "Four-floor card shop by the station: singles by title and 160+ free duel seats"
+  "en": "Four-floor card shop by the station: singles by title and 160+ free duel seats",
+  "ja": "駅前の4フロアのトレカ専門店、階ごとのシングルと無料対戦席160席以上"
  },
  "building_id": null,
  "floors": [
@@ -58,22 +59,26 @@
   {
    "floor": "B1F",
    "ko": "매입 카운터",
-   "en": "Buyback counter"
+   "en": "Buyback counter",
+   "ja": "買取カウンターです。"
   },
   {
    "floor": "1F",
    "ko": "포켓몬 카드, 유니온 아레나, 서플라이, 신품 팩",
-   "en": "Pokemon Card Game, Union Arena, supplies and sealed packs"
+   "en": "Pokemon Card Game, Union Arena, supplies and sealed packs",
+   "ja": "ポケモンカードゲーム、ユニオンアリーナ、サプライ、新品パックを扱います。"
   },
   {
    "floor": "2F",
    "ko": "원피스 카드, 유희왕, 듀얼마스터즈, 건담 카드게임, 디지몬 카드게임",
-   "en": "One Piece Card Game, Yu-Gi-Oh!, Duel Masters, Gundam Card Game, Digimon Card Game"
+   "en": "One Piece Card Game, Yu-Gi-Oh!, Duel Masters, Gundam Card Game, Digimon Card Game",
+   "ja": "ワンピースカードゲーム、遊戯王、デュエル・マスターズ、ガンダムカードゲーム、デジモンカードゲームを扱います。"
   },
   {
    "floor": "3F",
    "ko": "MTG, 호로라이브 카드게임, 뱅가드, 바이스슈발츠EVO, 배틀스피리츠, 러브라이브, 오등분의 신부",
-   "en": "MTG, hololive card game, Vanguard, Weiss Schwarz EVO, Battle Spirits, Love Live and Quintessential Quintuplets"
+   "en": "MTG, hololive card game, Vanguard, Weiss Schwarz EVO, Battle Spirits, Love Live and Quintessential Quintuplets",
+   "ja": "MTG、ホロライブカードゲーム、ヴァンガード、ヴァイスシュヴァルツEVO、バトルスピリッツ、ラブライブ、五等分の花嫁を扱います。"
   }
  ],
  "location": {
@@ -107,7 +112,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "월~목 12:00 개점, 금·토·일 10:00 개점으로 요일에 따라 두 시간 차이가 난다. 매입은 매일 19:00까지이며 접수 마감은 18:45. 공휴일 영업시간은 공식 안내에 별도로 적혀 있지 않다.",
-   "en": "Opens at 12:00 Monday to Thursday and at 10:00 Friday to Sunday. Buyback runs until 19:00 daily with intake closing at 18:45. The official page does not state separate public-holiday hours."
+   "en": "Opens at 12:00 Monday to Thursday and at 10:00 Friday to Sunday. Buyback runs until 19:00 daily with intake closing at 18:45. The official page does not state separate public-holiday hours.",
+   "ja": "月曜から木曜は12:00、金曜から日曜は10:00の開店です。買取は毎日19:00までで、受付は18:45に締め切られます。祝日の営業時間は公式の案内に別途記載がありません。"
   },
   "source_url": "https://card-wings.com/store_information"
  },
@@ -123,7 +129,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 라디오회관(외신다 1-15-16) 바로 옆 동쪽의 카드 전문 타워로, 예전 '트레카노도쿠츠 CARD WORLD TOWER AKIBA'가 쓰던 第一宝田ビル 건물이다. 지하 1층부터 3층까지 층마다 취급 타이틀이 다르다.",
-  "en": "One minute from the JR Akihabara Electric Town Exit, in the card tower immediately east of Radio Kaikan (Sotokanda 1-15-16). It is the Dai-ichi Takarada Building formerly used by Toreka no Dokutsu CARD WORLD TOWER AKIBA, with a different set of titles on each floor from B1F to 3F."
+  "en": "One minute from the JR Akihabara Electric Town Exit, in the card tower immediately east of Radio Kaikan (Sotokanda 1-15-16). It is the Dai-ichi Takarada Building formerly used by Toreka no Dokutsu CARD WORLD TOWER AKIBA, with a different set of titles on each floor from B1F to 3F.",
+  "ja": "JR秋葉原駅電気街口から徒歩1分、ラジオ会館（外神田1-15-16）のすぐ東隣にあるトレカ専門のタワーです。以前トレカの洞窟 CARD WORLD TOWER AKIBAが使っていた第一宝田ビルで、B1Fから3Fまで階ごとに扱うタイトルが違います。"
  },
  "tips": {
   "ko": [
@@ -137,6 +144,12 @@
    "Over 160 free duel seats make it the largest free play space among Akihabara card shops.",
    "Go straight to the floor for your title: Pokemon and Union Arena on 1F, One Piece and Yu-Gi-Oh on 2F, MTG and Vanguard on 3F, buyback counter in the basement.",
    "Buyback closes at 19:00 with intake ending at 18:45, so do not arrive late if you intend to sell."
+  ],
+  "ja": [
+   "金・土・日は10:00開店ですが、月曜から木曜は12:00開店なので、平日の午前中に行っても閉まっています。",
+   "無料で使える対戦席が160席以上あり、秋葉原のカードショップでは最大規模のフリー対戦スペースです。",
+   "目当てのタイトルの階へ直接上がれば大丈夫です。ポケモンとユニオンアリーナは1階、ワンピースと遊戯王は2階、MTGとヴァンガードは3階、買取カウンターは地下1階です。",
+   "買取は19:00までで受付は18:45に締め切るので、売るのが目的なら夕方遅くに行かないようにしてください。"
   ]
  },
  "official_url": "https://card-wings.com/store_information",

@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "아존 직영 돌 매장. 15~50cm 퓨어니모 등 돌 본체와 각 사이즈 의상·소품",
-  "en": "Azone's own doll store: 15-50cm Pureneemo dolls, outfits and accessories in every size"
+  "en": "Azone's own doll store: 15-50cm Pureneemo dolls, outfits and accessories in every size",
+  "ja": "アゾン直営のドール店、15〜50cmのピュアニーモなど本体と各サイズの衣装・小物"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "건물은 10:00 개관이지만 매장은 11:00 오픈. 연말연시·임시 휴업은 라디오회관 공지(7F 아존)에 올라온다",
-   "en": "The building opens at 10:00 but the shop opens at 11:00. New Year and temporary closures are posted as '7F Azone' notices on the Radio Kaikan site"
+   "en": "The building opens at 10:00 but the shop opens at 11:00. New Year and temporary closures are posted as '7F Azone' notices on the Radio Kaikan site",
+   "ja": "建物は10:00に開きますが店舗の開店は11:00です。年末年始や臨時の休業はラジオ会館のサイトに7Fのアゾンとして告知されます。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/azone-labelshop/"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 7F는 돌 전용 층으로, 엘리베이터에서 내리면 DOLK·정글 아키하바라 2호점과 함께 아존 직영 매장이 있다.",
-  "en": "7F of Radio Kaikan is the doll floor; step out of the elevator and the Azone-run shop is there alongside DOLK and Jungle Akihabara No.2."
+  "en": "7F of Radio Kaikan is the doll floor; step out of the elevator and the Azone-run shop is there alongside DOLK and Jungle Akihabara No.2.",
+  "ja": "ラジオ会館の7Fはドールのフロアで、エレベーターを降りるとDOLK 秋葉原ラジオ会館店やJUNGLE AKIBAと並んでアゾン直営の店舗があります。"
  },
  "tips": {
   "ko": [
@@ -92,6 +95,11 @@
    "As Azone International's own shop it gets pre-orders and sample displays first: you can see an upcoming release in person before ordering.",
    "Besides the dolls themselves it stocks outfits, eyes and small parts by size, from 1/12 Picconeemo up to 1/3.",
    "Imported collection dolls such as Integrity Toys are also stocked."
+  ],
+  "ja": [
+   "アゾンインターナショナルの直営店なので、新製品の予約とサンプルの展示がいちばん早く、発売予定の商品を実物で見てから予約できます。",
+   "ドール本体だけでなく、1/12のピコニーモから1/3までサイズ別の衣装やアイチェンジ、小物も揃います。",
+   "インテグリティ・トイズなど海外のコレクションドールも扱っています。"
   ]
  },
  "official_url": "http://azoneakiba.blog45.fc2.com/",

@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "남장 스태프가 접객하는 아이돌 콘셉트 카페. 60분 음료 무제한제",
-  "en": "Idol concept cafe staffed by women in male attire; 60 minutes all-you-can-drink"
+  "en": "Idol concept cafe staffed by women in male attire; 60 minutes all-you-can-drink",
+  "ja": "男装スタッフが接客するアイドルコンセプトカフェ。60分の飲み放題制"
  },
  "building_id": null,
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 lit.link 기준 18:00-24:00, 정기휴일 없음. 공식 X에는 18:00-24:30으로 안내된 날이 있어 실제 마감이 30분 늦어질 수 있다. 당일 영업과 출근 캐스트는 공식 X에서 확인한다.",
-   "en": "18:00-24:00 with no regular closing day per the shop's own lit.link page; its X account has posted 18:00-24:30, so the actual close can run 30 minutes later. Check X for the day's status and roster."
+   "en": "18:00-24:00 with no regular closing day per the shop's own lit.link page; its X account has posted 18:00-24:30, so the actual close can run 30 minutes later. Check X for the day's status and roster.",
+   "ja": "店の公式lit.linkでは18:00〜24:00、定休日なしとなっています。公式Xには18:00〜24:30と案内された日もあり、実際の閉店が30分遅くなることがあります。当日の営業と出勤キャストは公式Xで確認してください。"
   },
   "source_url": "https://lit.link/mochaidle"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 3분. 애니메이트 뒤편(동쪽) 한 블록 안, 돈키호테 아키하바라점 남쪽 뒷길에 있는 TSH빌딩 2층이다. 같은 4-3-11 번지의 코스튬 매장 마리문(AKIBA-BASE)이 바로 옆 건물.",
-  "en": "Three minutes north of the JR Akihabara Electric Town exit along Chuo-dori, then one block east behind animate: the TSH Building on the back street south of Don Quijote Akihabara, 2F. The costume shop Malymoon (AKIBA-BASE), at the same 4-3-11 address, is the next building over."
+  "en": "Three minutes north of the JR Akihabara Electric Town exit along Chuo-dori, then one block east behind animate: the TSH Building on the back street south of Don Quijote Akihabara, 2F. The costume shop Malymoon (AKIBA-BASE), at the same 4-3-11 address, is the next building over.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを北へ徒歩3分、そこからアニメイトの裏手（東）へ1ブロック入ります。ドン・キホーテ秋葉原店の南側の裏通りにあるTSHビルの2Fです。同じ4-3-11のコスチュームショップMalymoon秋葉原店（AKIBA-BASE）が隣のビルです。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,13 @@
    "It opened on 25 April 2025 and is still young; the cast keep individual X accounts and stream on TikTok.",
    "No payment methods are stated officially, so bring cash to be safe.",
    "Some Japanese directories list 3F, but the shop's own pages give 2F."
+  ],
+  "ja": [
+   "18歳未満は入店できず、顔写真付きの身分証の提示が必須です。",
+   "60分の飲み放題制で、通常営業日は男性3,000円、女性1,500円、イベント日は料金が変わります。",
+   "2025年4月25日に開店した比較的新しい店で、キャストごとのXアカウントやTikTokのライブ配信が活発です。",
+   "支払い方法についての公式な案内がないので、現金を用意しておくと安心です。",
+   "一部の日本語のディレクトリでは3Fと記載されていますが、店の公式案内では2Fです。"
   ]
  },
  "official_url": "https://lit.link/mochaidle",

@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "닌텐도·플레이스테이션 신품 게임기와 소프트·주변기기, 캐릭터 굿즈",
-  "en": "New game consoles, software, peripherals and character goods on Chuo-dori"
+  "en": "New game consoles, software, peripherals and character goods on Chuo-dori",
+  "ja": "中央通り沿いで新品のゲーム機・ソフト・周辺機器とキャラクターグッズ"
  },
  "building_id": null,
  "floors": [
@@ -60,7 +61,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트 문의 페이지의 매장 안내에 '営業時間 11:00〜21:00（年中無休）'라고 적혀 있어 연중무휴다. 같은 사이트 특정상거래법 표기의 'サポート時間 11:00〜19:00'은 통신판매 문의 시간이라 매장 영업시간과 다르다. 요일별 구분은 공개되어 있지 않다.",
-   "en": "The store block on the official site's contact page states 営業時間 11:00〜21:00（年中無休）, so it trades every day of the year. The 特定商取引法 page on the same site gives a separate mail-order support window of 11:00-19:00, which is not the shop's opening hours. No per-day split is published."
+   "en": "The store block on the official site's contact page states 営業時間 11:00〜21:00（年中無休）, so it trades every day of the year. The 特定商取引法 page on the same site gives a separate mail-order support window of 11:00-19:00, which is not the shop's opening hours. No per-day split is published.",
+   "ja": "公式サイトの問い合わせページの店舗案内に営業時間11:00〜21:00（年中無休）と書かれており、年中無休で営業しています。同じサイトの特定商取引法に基づく表記にあるサポート時間11:00-19:00は通信販売の問い合わせ受付時間で、店舗の営業時間とは異なります。曜日ごとの区分は公開されていません。"
   },
   "source_url": "https://store.infinitejoy.co.jp/pages/contact"
  },
@@ -76,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 편, 소프맵 AKIBA(외신다 3-13-12) 바로 북쪽에 붙은 다나카코산(田中恒産) 빌딩 1층 노면 매장이다. 도쿄메트로 스에히로초역 1·3번 출구에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 5분. 같은 건물 2층은 수탕호비 아키하바라점이라 층을 확인하고 들어간다.",
-  "en": "A street-level shop on 1F of the Tanaka Kosan Building, immediately north of Sofmap AKIBA (Sotokanda 3-13-12) on the west side of Chuo-dori. Three minutes from Suehirocho exits 1 and 3, five from JR Akihabara's Electric Town Exit; SOOTANG HOBBY occupies 2F of the same building."
+  "en": "A street-level shop on 1F of the Tanaka Kosan Building, immediately north of Sofmap AKIBA (Sotokanda 3-13-12) on the west side of Chuo-dori. Three minutes from Suehirocho exits 1 and 3, five from JR Akihabara's Electric Town Exit; SOOTANG HOBBY occupies 2F of the same building.",
+  "ja": "中央通り西側、ソフマップAKIBA（外神田3-13-12）のすぐ北に隣接する田中恒産ビル1Fの路面店です。東京メトロ末広町駅の1番・3番出口から徒歩3分、JR秋葉原駅の電気街口から徒歩5分で、同じビルの2Fはスータンホビー秋葉原店です。"
  },
  "tips": {
   "ko": [
@@ -90,6 +93,12 @@
    "Alongside Nintendo, Sony, Xbox and Meta hardware, software and accessories it carries Bandai Namco, Takara Tomy and POP MART character goods and plush.",
    "Trading cards are handled by the sister shop INFINITE JOY Toreka Akihabara (Sotokanda 4-9-2, Senju Building 5, 9F; 12:00-19:00 per its X account @INFINITEJOY_TRC).",
    "An official online store opened in August 2026 and is the easiest way to see which brands they carry. Tax-free and card acceptance are not stated for the physical shop."
+  ],
+  "ja": [
+   "2025年12月末に開店した新品中心の店です。中古のレトロゲーム専門店ではないので、昔の機種のソフトを探すなら別の店を当たってください。",
+   "任天堂・ソニー・Xbox・Metaのゲーム機やソフト、周辺機器に加えて、バンダイナムコやタカラトミー、POP MART系のキャラクターグッズやぬいぐるみも扱っています。",
+   "トレカは姉妹店のINFINITE JOYトレカ秋葉原店（外神田4-9-2 千住ビル5 9F、公式X @INFINITEJOY_TRCによると12:00-19:00）で別に扱っています。",
+   "2026年8月に公式オンラインストアが開き、取扱ブランドを事前に確認できます。実店舗の免税やカード決済についての案内は公式資料にはありません。"
   ]
  },
  "official_url": "https://store.infinitejoy.co.jp/",

@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "N·HO게이지 중고 철도모형과 외국형 차량, 피규어·조이드·프라모델·돌",
-  "en": "Used N and HO gauge model trains, foreign prototypes, figures, Zoids, kits and dolls"
+  "en": "Used N and HO gauge model trains, foreign prototypes, figures, Zoids, kits and dolls",
+  "ja": "中古のNゲージ・HOゲージ鉄道模型と外国型車両、フィギュア・ゾイド・プラモデル・ドール"
  },
  "building_id": "akihabara-nomura-building",
  "floors": [
@@ -79,11 +80,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일은 11:00 개점, 토요일 10:00-20:00, 일요일·공휴일은 19:30에 문을 닫는다. '포치 철도모형 페스티벌' 같은 행사 때 임시 휴업하는 경우가 있다.",
-   "en": "Opens at 11:00 on weekdays, 10:00-20:00 on Saturdays, and closes at 19:30 on Sundays and holidays. It shuts temporarily for events such as the Pochi model railway festival."
+   "en": "Opens at 11:00 on weekdays, 10:00-20:00 on Saturdays, and closes at 19:30 on Sundays and holidays. It shuts temporarily for events such as the Pochi model railway festival.",
+   "ja": "平日は11:00開店、土曜日は10:00-20:00で、日曜日と祝日は19:30に閉店します。「ぽち鉄道模型フェスティバル」などのイベント時には臨時休業することがあります。"
   },
   "source_url": "https://hobbyland-pochi.net/pages/store.php/?store=1"
  },
@@ -99,7 +102,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 앞, AKIHABARA 게이머즈 본점 옆 아키하바라 노무라 빌딩 6층. 1층 카드킹덤 옆 엘리베이터로 6층까지 올라간다. 같은 건물 8층은 오타추 3호점이다.",
-  "en": "On 6F of the Akihabara Nomura Building beside AKIHABARA Gamers, opposite JR Akihabara's Electric Town Exit. Take the elevator next to the 1F Card Kingdom up to 6F; Otachu No.3 is on 8F of the same building."
+  "en": "On 6F of the Akihabara Nomura Building beside AKIHABARA Gamers, opposite JR Akihabara's Electric Town Exit. Take the elevator next to the 1F Card Kingdom up to 6F; Otachu No.3 is on 8F of the same building.",
+  "ja": "JR秋葉原駅電気街口の正面、AKIHABARAゲーマーズ本店の隣にある秋葉原野村ビルの6Fです。1Fのカードキングダムの横にあるエレベーターで6Fまで上がります。同じビルの8Fはおたちゅう。秋葉原3号店です。"
  },
  "tips": {
   "ko": [
@@ -113,6 +117,12 @@
    "Deep stock of foreign-prototype locomotives, Geocolle railway and bus collections and B-Train Shorty makes it good for hard-to-find items.",
    "The chain's Akihabara Store 1 is a separate shop at 3-1-10 Sotokanda, OAK akihabara 2F, worth adding if you want more stock to dig through.",
    "Tax-free and card acceptance are not stated officially."
+  ],
+  "ja": [
+   "チェーン全体が中古の一点物中心で、同じ商品が再び入荷することはほとんどありません。気に入ったらその場で買うのがおすすめです。",
+   "外国型車両やジオコレ（鉄道コレクション・バスコレクション）、Bトレインショーティーの在庫が多く、国内では手に入りにくい品を探すのに向いています。",
+   "外神田3-1-10 OAK akihabara 2Fに1号店が別にあるので、もっと在庫を見たいときは合わせて回るとよいでしょう。",
+   "免税やカード決済の可否は公式には案内されていません。"
   ]
  },
  "official_url": "https://hobbyland-pochi.net/pages/store.php/?store=1",

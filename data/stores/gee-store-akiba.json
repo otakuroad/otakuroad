@@ -47,7 +47,8 @@
  ],
  "one_line": {
   "ko": "캐릭터 티셔츠·굿즈, 코스파티오 코스프레 의상, 동방 굿즈·아조네 돌을 파는 코스파 직영점",
-  "en": "COSPA's own shop: character apparel, COSPATIO cosplay costumes, Touhou and doll corners"
+  "en": "COSPA's own shop: character apparel, COSPATIO cosplay costumes, Touhou and doll corners",
+  "ja": "キャラアパレルとコスパティオのコスプレ衣装、東方・ドールコーナーを扱うコスパ直営店"
  },
  "building_id": "onoden-honkan",
  "floors": [
@@ -76,11 +77,13 @@
   ],
   "regular_holiday": {
    "ko": "정기휴일 없음(연 2회 재고조사 휴업)",
-   "en": "No fixed closing day; closed twice a year for stocktaking"
+   "en": "No fixed closing day; closed twice a year for stocktaking",
+   "ja": "定休日なし（年2回、棚卸のため休業）"
   },
   "note": {
    "ko": "4F 매장 전 코너가 10:00~20:00로 같다. 매장 안쪽의 큐어메이드카페만 11:00~20:00(푸드 L.O. 19:00, 드링크 L.O. 19:30)로 다르다. 2026년 재고조사 휴업은 10월 5일(월)·6일(화).",
-   "en": "Every corner on the 4F shop floor runs 10:00-20:00; only the Cure Maid Cafe inside it differs at 11:00-20:00 (last orders 19:00 food, 19:30 drinks). The 2026 stocktaking closure is 5-6 October."
+   "en": "Every corner on the 4F shop floor runs 10:00-20:00; only the Cure Maid Cafe inside it differs at 11:00-20:00 (last orders 19:00 food, 19:30 drinks). The 2026 stocktaking closure is 5-6 October.",
+   "ja": "4F売り場は全コーナーが10:00〜20:00で共通ですが、店内のキュアメイドカフェのみ11:00〜20:00（ラストオーダーはフード19:00、ドリンク19:30）と異なります。2026年の棚卸休業は10月5日・6日です。"
   },
   "source_url": "https://www.cospa.com/special/shoplist/list/akiba.html"
  },
@@ -96,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 개찰을 나와 왼쪽(전기가 남쪽 출구 방향)으로 가서 고가 아래 횡단보도를 건너 서쪽으로 도보 2분. 라디오회관을 왼편에 두고 주오도리 사거리까지 가서 길을 건너면, 북서쪽 모퉁이에 큰 'オノデン' 간판을 단 가전 빌딩(오노덴 본관)이 있다. 주오도리 건너 정면이 게이머즈 본점, 대각선 맞은편이 아미아미 피규어 타워다. 1~3F는 오노덴 가전 매장이라 밖에서는 매장이 보이지 않는다. 1F로 들어가 앞쪽 에스컬레이터 또는 안쪽 계단·엘리베이터로 4F에 올라가면 'ジーストア' 간판이 있다.",
-  "en": "Two minutes west of the JR Akihabara Electric Town gate: turn left toward the Electric Town South exit, cross at the crossing under the elevated tracks and keep west with Radio Kaikan on your left. Cross Chuo-dori at the intersection and the electronics building on the north-west corner, under the big オノデン sign, is Onoden Main Building - Gamers stands straight across Chuo-dori, amiami Figure Tower diagonally opposite. Floors 1-3 are Onoden's own electronics shop, so nothing is visible from the street: go in on 1F and take the escalator at the front or the stairs and lift at the back up to 4F, marked by the ジーストア sign."
+  "en": "Two minutes west of the JR Akihabara Electric Town gate: turn left toward the Electric Town South exit, cross at the crossing under the elevated tracks and keep west with Radio Kaikan on your left. Cross Chuo-dori at the intersection and the electronics building on the north-west corner, under the big オノデン sign, is Onoden Main Building - Gamers stands straight across Chuo-dori, amiami Figure Tower diagonally opposite. Floors 1-3 are Onoden's own electronics shop, so nothing is visible from the street: go in on 1F and take the escalator at the front or the stairs and lift at the back up to 4F, marked by the ジーストア sign.",
+  "ja": "JR秋葉原駅の電気街口を出て左（電気街南口方向）へ進み、高架下の横断歩道を渡り、ラジオ会館を左手に見ながら西へ徒歩2分です。中央通りの交差点を渡った北西角にある、大きなオノデンの看板を掲げた家電ビルがオノデン本館で、中央通りの真向かいがAKIHABARAゲーマーズ本店、斜め向かいがあみあみ秋葉原フィギュアタワー店です。1〜3Fはオノデンの家電売り場のため通りからは店が見えませんが、1Fから入って手前のエスカレーター、または奥の階段・エレベーターで4Fへ上がると、ジーストアの看板が出ています。"
  },
  "tips": {
   "ko": [
@@ -110,6 +114,12 @@
    "Cure Maid Cafe, one of the original maid cafes, sits at the back of the same 4F shop. It opens an hour later at 11:00, with last orders 19:00 for food and 19:30 for drinks.",
    "Credit cards, J-Debit, e-money (iD, nanaco, Edy, QUICPay, WAON), transit IC and QR payments including PayPay, Alipay and WeChat Pay are accepted. Tax-free service is not stated on the official page, so ask at the counter.",
    "The shop has occupied this Onoden Main Building 4F since November 2020, when Cure Maid Cafe moved in with it; older blogs and map entries still carry the previous address and will send you to the wrong building."
+  ],
+  "ja": [
+   "4Fのワンフロアに、コスパ（キャラクターアパレル・グッズ）、二次元コスパ（美少女キャラクター）、コスパティオ（コスプレ衣装・サポートアイテム）に加え、Touhou Yaoyorozu Shoten（東方グッズ）、リトルワールド ジーストア・アキバ店（アゾンのドールとドール衣装、オビツボディ）、Toukon Shop Satellite（新日本プロレスグッズ）、フルオーダーを受け付けるコスプレカウンターが入っています。",
+   "同じ4F売り場の奥には、メイドカフェの草分けであるキュアメイドカフェがあります。開店は売り場より1時間遅い11:00で、ラストオーダーはフード19:00、ドリンク19:30です。",
+   "クレジットカード、J-Debit、電子マネー（iD・nanaco・Edy・QUICPay・WAON）、交通系IC、PayPay・Alipay・WeChat PayなどのQR決済が使えます。免税対応は公式ページに記載がないため、レジで確認してください。",
+   "現在のオノデン本館4Fには、キュアメイドカフェとともに2020年11月から入っています。旧住所のままの古いブログや地図情報をたどると、別のビルに着いてしまいます。"
   ]
  },
  "official_url": "https://www.geestore.com/geenet/geestore/akiba",

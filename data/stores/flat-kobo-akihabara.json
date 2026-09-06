@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "듀얼마스터즈 중심 싱글·오리파 판매와 매입, 32석 플레이 스페이스가 있는 6층 매장",
-  "en": "Duel Masters singles, oripa and buyback on 6F, with a 32-seat play space"
+  "en": "Duel Masters singles, oripa and buyback on 6F, with a 32-seat play space",
+  "ja": "デュエル・マスターズ中心のシングル・オリパ販売と買取、32席のプレイスペースがある6F店"
  },
  "building_id": null,
  "floors": [
@@ -75,7 +76,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 11:00-19:00. 점포 공식 X 프로필 기준이며 정기휴일 표기는 없다.",
-   "en": "Buyback is accepted 11:00-19:00. Taken from the shop's own X profile, which states no regular closing day."
+   "en": "Buyback is accepted 11:00-19:00. Taken from the shop's own X profile, which states no regular closing day.",
+   "ja": "買取の受付は11:00〜19:00です。店舗公式Xのプロフィールに基づく情報で、定休日の記載はありません。"
   },
   "source_url": "https://x.com/flat_akihabara"
  },
@@ -91,7 +93,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리를 따라 남쪽으로 도보 약 3분, 주오도리 서쪽 편 第26東ビル 6층. 같은 건물 5층이 카드숍 magi라 층을 헷갈리기 쉽고, 레트로 게임 캠프(외신다 3-14-7)와 같은 블록이다.",
-  "en": "About three minutes from Suehirocho station exit 3 down Chuo-dori toward Akihabara, on the west side of Chuo-dori in the Dai-26 Higashi Building, 6F. Card Shop magi occupies 5F of the same building, so check the floor; Retro Game Camp is on the same block."
+  "en": "About three minutes from Suehirocho station exit 3 down Chuo-dori toward Akihabara, on the west side of Chuo-dori in the Dai-26 Higashi Building, 6F. Card Shop magi occupies 5F of the same building, so check the floor; Retro Game Camp is on the same block.",
+  "ja": "銀座線の末広町駅の3番出口から中央通りを秋葉原方面へ徒歩約3分、中央通りの西側の第26東ビルの6Fです。同じビルの5Fがカードショップmagi秋葉原店なので階を間違えやすく、レトロげーむキャンプ秋葉原店とも同じブロックです。"
  },
  "tips": {
   "ko": [
@@ -103,6 +106,11 @@
    "Only four titles are stocked - Duel Masters, Shadowverse EVOLVE, Xross Stars and the hololive OFFICIAL CARD GAME. Go elsewhere for Pokemon or Yu-Gi-Oh.",
    "Hours are published on the shop's own X profile (@flat_akihabara), not on the company site: 12:00-20:00 on weekdays, 11:00-20:00 at weekends and holidays, buyback taken 11:00-19:00.",
    "The play space seats up to 32; using it requires a receipt for 500 yen or more of in-store purchases (vending-machine oripa excluded)."
+  ],
+  "ja": [
+   "扱うタイトルはデュエル・マスターズ、シャドウバース エボルヴ、「Xross Stars」、ホロライブオフィシャルカードゲームの4つだけです。ポケモンや遊戯王を探しているなら別の店へどうぞ。",
+   "営業時間は会社のサイトではなく店舗公式X（@flat_akihabara）のプロフィールに書かれていて、平日12:00〜20:00、土日祝11:00〜20:00、買取の受付は11:00〜19:00です。",
+   "プレイスペースは最大32席で、利用には500円以上の購入レシートが必要です（自販機のオリパ購入は対象外）。"
   ]
  },
  "official_url": "https://flatkobo.com/business",

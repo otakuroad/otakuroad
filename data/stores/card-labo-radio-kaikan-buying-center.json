@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬 중심 트레카 매입 전용 카운터, 중고 싱글과 오리파·카드 가챠 판매",
-  "en": "Buyback counter for Yu-Gi-Oh and Pokemon cards, also selling used singles and card gacha"
+  "en": "Buyback counter for Yu-Gi-Oh and Pokemon cards, also selling used singles and card gacha",
+  "ja": "遊戯王・ポケモン中心のトレカ買取カウンター、中古シングルとカードガチャも販売"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 11:00~18:30으로 영업시간보다 짧다. 같은 건물 9F 카드라보 본점(매입 12:00~18:45)과는 접수 시간이 다르다.",
-   "en": "The buyback desk runs 11:00-18:30, shorter than the shop's hours, and differs from the 12:00-18:45 desk at the Card Labo main store on 9F."
+   "en": "The buyback desk runs 11:00-18:30, shorter than the shop's hours, and differs from the 12:00-18:45 desk at the Card Labo main store on 9F.",
+   "ja": "買取の受付は11:00-18:30で営業時間より短く、9Fのカードラボ 秋葉原ラジオ会館本店の12:00-18:45とも異なります。"
   },
   "source_url": "https://www.c-labo.jp/shop/kaitoricenter/"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 1F, 정면 입구로 들어가 오른쪽 구획. 같은 1F의 호비스테이션·후쿠후쿠 트레카·마하와 나란히 있으며, 카운터 세 개가 늘어선 곳이 매입 접수대다.",
-  "en": "On 1F of Radio Kaikan, in the section to the right of the front entrance, next to Hobby Station, Fukufuku Toreka and Mach. The row of three desks is the buyback counter."
+  "en": "On 1F of Radio Kaikan, in the section to the right of the front entrance, next to Hobby Station, Fukufuku Toreka and Mach. The row of three desks is the buyback counter.",
+  "ja": "ラジオ会館の1F、正面入口を入って右側の区画です。同じ1Fのホビーステーション 秋葉原ラジオ会館店、福福トレカ秋葉原ラジオ会館店、マッハ ラジオ会館店と並んでいて、カウンターが3つ並んでいるところが買取の受付です。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,12 @@
    "The buy desk takes cards 11:00-18:30; appraisal queues get long just before it closes.",
    "On the selling side it is discounted used singles (mostly Yu-Gi-Oh and Pokemon), oripa and card gacha; for sealed new product go up to the 9F main store.",
    "Tax-free and card payment are not stated on the official page, so ask at the counter."
+  ],
+  "ja": [
+   "カードラボの中古・買取に特化した店舗です。買取カウンターが3つあって列の進みが早く、売るだけなら9Fの本店よりこちらが便利です。",
+   "買取の受付は11:00-18:30です。締切間際は査定の待ち時間が長くなります。",
+   "販売は遊戯王・ポケモン中心の特価の中古シングルとオリパ、カードガチャが中心なので、新品の未開封商品を探すなら9Fの本店へ上がってください。",
+   "免税やカード決済は公式ページに記載がないので、カウンターで確認してください。"
   ]
  },
  "official_url": "https://www.c-labo.jp/shop/kaitoricenter/",

@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "유희왕·MTG·포켓몬·원피스 등 TCG 싱글과 미개봉 상품을 파는 2개 층 매장",
-  "en": "Two floors of Yu-Gi-Oh!, MTG, Pokemon and One Piece singles and sealed product"
+  "en": "Two floors of Yu-Gi-Oh!, MTG, Pokemon and One Piece singles and sealed product",
+  "ja": "遊戯王・MTG・ポケモン・ワンピースなどのシングルと未開封品を扱う2フロアの店"
  },
  "building_id": null,
  "floors": [
@@ -79,7 +80,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트는 이 시간이 카드러시 전 점포 공통이라고 안내한다. 평일은 13:00, 토·일·공휴일은 11:00 개점으로 시작 시간이 다르다.",
-   "en": "The official site states these hours are the same at every Card Rush branch. Opening differs by day: 13:00 on weekdays, 11:00 on weekends and public holidays."
+   "en": "The official site states these hours are the same at every Card Rush branch. Opening differs by day: 13:00 on weekdays, 11:00 on weekends and public holidays.",
+   "ja": "公式サイトは、この時間がカードラッシュの全店舗で共通だと案内しています。開店時間は曜日で異なり、平日は13:00、土日・祝日は11:00です。"
   },
   "source_url": "https://www.cardrush.jp/page/57"
  },
@@ -95,7 +97,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내 기준: JR 아키하바라역 전기가 출구를 나와 왼쪽, 이어서 오른쪽 주오도리 방면으로 간다. 주오도리 오른편 신호를 건너 마쓰모토키요시 왼쪽 골목으로 들어가 하레루야2를 지나면 왼쪽에 보이는 건물의 1·2층이다.",
-  "en": "Per the official directions: leave JR Akihabara by the Electric Town Exit, turn left and then right toward Chuo-dori. Cross at the signal on the right-hand side of Chuo-dori, take the lane to the left of Matsumoto Kiyoshi, pass HARERUYA2, and the shop is the 1F and 2F of the building on your left."
+  "en": "Per the official directions: leave JR Akihabara by the Electric Town Exit, turn left and then right toward Chuo-dori. Cross at the signal on the right-hand side of Chuo-dori, take the lane to the left of Matsumoto Kiyoshi, pass HARERUYA2, and the shop is the 1F and 2F of the building on your left.",
+  "ja": "公式の案内によると、JR秋葉原駅電気街口を出て左に曲がり、続いて右の中央通り方面へ進みます。中央通りの右側の信号を渡り、マツモトキヨシの左側の路地に入って晴れる屋2を過ぎると、左手に見える建物の1階と2階がこの店です。"
  },
  "tips": {
   "ko": [
@@ -109,6 +112,12 @@
    "Card Rush also runs Akihabara No.0 TC on 7F of BiTO AKIBA PLAZA (Sotokanda 1-18-18); this two-floor street-level shop is the No.2 store.",
    "Some card-shop directories file this address as the 'Akihabara main store', but the official site calls it No.2.",
    "Buyback is taken every day; closures and events are posted on the shop's X account (@cardrush_akiba2)."
+  ],
+  "ja": [
+   "平日は13:00、土日・祝日は11:00の開店です。秋葉原のカードショップの中でも開くのが遅いので、午前中の予定には入れないほうがよいでしょう。",
+   "カードラッシュは秋葉原にカードラッシュ秋葉原0号店TC（外神田1-18-18 BiTO AKIBA PLAZA 7F）も構えていて、この路面の2フロアの店舗が2号店です。",
+   "一部のカードショップのディレクトリは同じ住所を秋葉原本店として載せていますが、公式サイトの表記は2号店です。",
+   "買取は毎日受け付けており、臨時休業やイベントは店舗のX（@cardrush_akiba2）で告知されます。"
   ]
  },
  "official_url": "https://www.cardrush.jp/page/68",

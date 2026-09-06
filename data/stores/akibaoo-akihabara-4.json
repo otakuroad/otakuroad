@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "동인 음악 CD·동인 게임·동인 굿즈와 코스프레 사진집을 파는 지하 매장",
-  "en": "Basement shop for doujin music CDs, doujin games, doujin goods and cosplay photobooks"
+  "en": "Basement shop for doujin music CDs, doujin games, doujin goods and cosplay photobooks",
+  "ja": "同人音楽CD・同人ゲーム・同人グッズとコスプレ写真集を扱うB1Fの店"
  },
  "building_id": null,
  "floors": [
@@ -71,7 +72,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일 11:00-20:00, 토·일·공휴일 10:30-19:30으로 주말이 더 일찍 열고 일찍 닫는다.",
-   "en": "Weekdays 11:00-20:00; Saturdays, Sundays and public holidays 10:30-19:30, so weekends open earlier and close earlier."
+   "en": "Weekdays 11:00-20:00; Saturdays, Sundays and public holidays 10:30-19:30, so weekends open earlier and close earlier.",
+   "ja": "平日は11:00〜20:00、土日祝は10:30〜19:30で、土日のほうが早く開いて早く閉まります。"
   },
   "source_url": "https://www.akibaoo.co.jp/static/n/company/"
  },
@@ -87,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "슈퍼포테이토에서 서쪽으로 한 블록, 주오도리 뒤편 바우하우스 빌딩 지하 1층. 1층 あきばお〜 2호점 안쪽 계단이나 건물 밖 케밥 가게 안쪽 외부 계단으로 내려간다. 건물 엘리베이터는 지하로 내려가지 않는다.",
-  "en": "In the basement of the Bauhaus Building on the back streets west of Chuo-dori, a block from Super Potato. Go down either by the stairs inside Akibaoo No.2 on the ground floor or by the outside staircase behind the kebab stand; the building lift does not serve the basement."
+  "en": "In the basement of the Bauhaus Building on the back streets west of Chuo-dori, a block from Super Potato. Go down either by the stairs inside Akibaoo No.2 on the ground floor or by the outside staircase behind the kebab stand; the building lift does not serve the basement.",
+  "ja": "中央通り裏の路地、スーパーポテト秋葉原店から一ブロックのバウハウスビルのB1Fです。1Fのあきばお～弐號店の中にある階段か、建物の外のケバブ店の奥にある外階段から降ります。ビルのエレベーターはB1Fには止まりません。"
  },
  "tips": {
   "ko": [
@@ -101,6 +104,12 @@
    "The chain describes it as a doujin shop relaxed enough for high-school students, so it is not run as an adults-only floor.",
    "The ground floor of the same Bauhaus Building is Akibaoo No.2, a variety shop - the doujin stock is the basement.",
    "The chain's store list also carries a No.3 shop on 3F of Akibaoo Zero (Sotokanda 3-1-12) under the same 'Akibaoo Koku' name, so check which branch you mean before going."
+  ],
+  "ja": [
+   "ビルのエレベーターでは地下へ行けません。1Fの売り場の中の階段か、建物の外の外階段を使います。",
+   "チェーンの案内文に高校生でも気軽に立ち寄れる雰囲気と書かれているとおり、成人向け専用のコーナーを前面に出していない同人店です。",
+   "同じバウハウスビルの1Fは雑貨中心のあきばお～弐號店なので紛らわしいですが、同人商品はB1Fです。",
+   "チェーンの店舗案内には、外神田3-1-12のあきばお～零の3Fにある参號店も同じあきばお～こくという名前で載っているため、行く前にどの店舗かを確認しておくとよいです。"
   ]
  },
  "official_url": "https://www.akibaoo.co.jp/static/n/company/#42",

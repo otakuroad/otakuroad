@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "라오쿠스 5층 엘리베이터 앞 크레인게임 코너. 트레카 BOX도 경품으로 나온다",
-  "en": "Crane-game corner right by the 5F Laox elevator, with trading-card boxes among the prizes"
+  "en": "Crane-game corner right by the 5F Laox elevator, with trading-card boxes among the prizes",
+  "ja": "ラオックス5Fのエレベーター前にあるクレーンゲームコーナー、トレカのBOXも景品に登場"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -58,7 +59,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "11:00~19:00은 운영사 파레트그룹이 5층 트레카모올을 열며 발표한 층 영업시간이다. HAO 자체 영업시간 안내는 따로 없고, 점포 X(@HAO_akihabara)가 '오늘의 유인 대응 시간'을 매일 공지하는데 대개 12:00~14:00 사이에 시작해 19:00에 끝난다. 경품 교환이나 문의가 필요하면 오후에 가는 편이 확실하다.",
-   "en": "11:00-19:00 are the 5F Toreca Mall floor hours announced by the operator, Palette Group. HAO publishes no hours of its own; instead its X account (@HAO_akihabara) posts a daily 'staffed hours' notice that usually starts between 12:00 and 14:00 and runs to 19:00, so come in the afternoon if you need a member of staff."
+   "en": "11:00-19:00 are the 5F Toreca Mall floor hours announced by the operator, Palette Group. HAO publishes no hours of its own; instead its X account (@HAO_akihabara) posts a daily 'staffed hours' notice that usually starts between 12:00 and 14:00 and runs to 19:00, so come in the afternoon if you need a member of staff.",
+   "ja": "11:00〜19:00は、運営会社のパレットグループが5Fのトレカモーール開店にあわせて発表したフロアの営業時間です。HAO自体の営業時間の案内はなく、店舗のX（@HAO_akihabara）が本日の有人対応時間を毎日告知しており、多くは12:00〜14:00の間に始まって19:00に終わります。景品交換や問い合わせが必要なら、午後に行くほうが確実です。"
   },
   "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000152399.html"
  },
@@ -74,7 +76,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 5층. 라오쿠스 쪽 엘리베이터로 5층에 올라가 내리면 바로 앞이 이 게임 코너이고, 안쪽이 트레카모올 5F 카드 매장 구역이다.",
-  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Take the Laox-side elevator to 5F and the game corner is straight ahead as you step out, with the Toreca Mall card shops behind it."
+  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Take the Laox-side elevator to 5F and the game corner is straight ahead as you step out, with the Toreca Mall card shops behind it.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを南へ徒歩1〜2分、万世橋交差点の角にある青いビル（エディオンAKIBA／ラオックス 秋葉原本店）の5Fです。ラオックス側のエレベーターで5Fに上がると、降りてすぐ正面がこのゲームコーナーで、その奥がトレカモーールのカードショップの区画です。"
  },
  "tips": {
   "ko": [
@@ -88,6 +91,12 @@
    "Prizes include trading-card items such as Pokemon card boxes, with restock notices on X; some machines are set up so you lift the box itself.",
    "Staffed hours are posted daily on X and may change without notice, and staff say they sometimes step away from the corner.",
    "The operator, Palette Group, runs the same brand as HAO Nakano and HAO Minatogawa."
+  ],
+  "ja": [
+   "2026年3月14日に5Fのトレカモーールが開店した際、一緒に入ったクレーンゲームコーナーです。カードショップを巡るついでに立ち寄れる配置になっています。",
+   "ポケモンカードのBOXなどトレカの景品を入れており、入荷情報はXで告知されます。BOXをそのまま取る直取りの設定もあります。",
+   "スタッフの常駐時間は毎日Xで告知され、予告なく変わることがあります。席を外す場合もあると案内されています。",
+   "運営会社のパレットグループは、HAO中野やHAO湊川でも同じブランドを展開しています。"
   ]
  },
  "photo": null,

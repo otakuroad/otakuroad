@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·듀얼마스터즈 싱글과 오리파를 파는 1층 카드숍",
-  "en": "Ground-floor card shop selling Pokemon, One Piece and Duel Masters singles and oripa"
+  "en": "Ground-floor card shop selling Pokemon, One Piece and Duel Masters singles and oripa",
+  "ja": "ポケカ・ワンピース・デュエマのシングルとオリパを扱う1階のカードショップ"
  },
  "building_id": null,
  "floors": [
@@ -60,7 +61,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 도보 3분. 포켓몬 카드 전문점 하레루야2 아키하바라 타워(외신다 1-2-13) 바로 옆 기노쿠니야 빌딩 1층 도로변 매장이다.",
-  "en": "Three minutes south of the JR Electric Town Exit along Chuo-dori, in the Kinokuniya Building right beside the Pokemon-card specialist Hareruya2 Akihabara Tower (Sotokanda 1-2-13); the shop is at street level on 1F."
+  "en": "Three minutes south of the JR Electric Town Exit along Chuo-dori, in the Kinokuniya Building right beside the Pokemon-card specialist Hareruya2 Akihabara Tower (Sotokanda 1-2-13); the shop is at street level on 1F.",
+  "ja": "JR秋葉原駅電気街口から中央通りを南へ徒歩3分、ポケモンカード専門店の晴れる屋2 秋葉原タワー店（外神田1-2-13）のすぐ隣にある紀ノ国屋ビルで、1階の路面店です。"
  },
  "tips": {
   "ko": [
@@ -72,6 +74,11 @@
    "It moved into this building's ground floor in August 2023, gaining floor space, and puts its weight behind oripa packs and singles; the site previously held Laox and the Kinokuniya herbal pharmacy.",
    "There is no official website and no official page stating hours; card-shop directories disagree on the closing time, so check X (@CardshopPonpoko) before going.",
    "A free duel space hosts Pokemon, One Piece and Duel Masters tournaments; the official Pokemon store finder lists it as a Pokemon Card Gym."
+  ],
+  "ja": [
+   "2023年8月にこのビルの1階へ移って売り場が広くなり、オリパとシングルカードに力を入れています。以前はラオックスと紀ノ国屋漢方薬局があった場所です。",
+   "公式サイトはなく、営業時間を明記した公式ページもありません。カードショップのディレクトリごとに閉店時刻が食い違うので、行く前にX（@CardshopPonpoko）で確認するのが安全です。",
+   "無料の対戦スペースがあり、ポケモン・ワンピース・デュエル・マスターズの大会が開かれます。ポケモンカード公式の取扱店検索には「ポケモンカードジム」として登録されています。"
   ]
  },
  "official_url": null,

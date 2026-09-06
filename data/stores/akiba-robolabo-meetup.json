@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "전고 2.5m 변형 로봇 전시와 트랜스포머 로봇·전동 카트를 체험·구매하는 매장",
-  "en": "Robot and EV gadget store: a 2.5 m transforming robot on show, Transformers toys, e-karts"
+  "en": "Robot and EV gadget store: a 2.5 m transforming robot on show, Transformers toys, e-karts",
+  "ja": "全高2.5mの変形ロボット展示とトランスフォーマー、電動カートを扱うロボット＆EVガジェットの店"
  },
  "building_id": null,
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "연말연시를 제외하고 무휴",
-   "en": "Open daily except the New Year period"
+   "en": "Open daily except the New Year period",
+   "ja": "年末年始を除き無休"
   },
   "note": {
    "ko": "SEEKBASE 시설 안내와 아키하바라 전기가진흥회 모두 11:00-20:00, 연말연시 외 무휴로 표기한다.",
-   "en": "Both the SEEKBASE directory and the Akihabara Electrical Town Organization list 11:00-20:00, closed only over New Year."
+   "en": "Both the SEEKBASE directory and the Akihabara Electrical Town Organization list 11:00-20:00, closed only over New Year.",
+   "ja": "SEEKBASEの施設案内も秋葉原電気街振興会も、11:00〜20:00、年末年始以外は無休と表記しています。"
   },
   "source_url": "https://www.jrtk.jp/seekbase/shop/"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 선로를 따라 북쪽으로 걸어 CHABARA(ちゃばら)를 지나면 나오는 고가 아래 상가 SEEKBASE의 1호동(The Tools) 안, 카메라점 2nd BASE와 중고 레코드점 레코팬 사이의 1-3구획이다.",
-  "en": "Inside SEEKBASE building 1 (The Tools), the arcade under the JR viaduct north of Akihabara. From the Electric Town exit follow the tracks north past Chabara; unit 1-3 sits between the camera shop 2nd BASE and the used-record shop RECOfan."
+  "en": "Inside SEEKBASE building 1 (The Tools), the arcade under the JR viaduct north of Akihabara. From the Electric Town exit follow the tracks north past Chabara; unit 1-3 sits between the camera shop 2nd BASE and the used-record shop RECOfan.",
+  "ja": "JR秋葉原駅電気街口から線路沿いに北へ歩き、ちゃばらを過ぎた先の高架下の商業施設SEEKBASEの1号棟（The Tools）の中にあります。カメラ店の2nd BASEと中古レコード店のレコファンの間の1-3区画です。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,12 @@
    "Piloting its upper body is by advance booking and is sometimes suspended for maintenance, so check the official site before going.",
    "The JOY Cart electric kart rents from two hours, and the shop doubles as the meeting point and desk for Akiba Deep Travel tours.",
    "The same SEEKBASE strip holds Mandarake CoCoo (sofubi), the used-record shop RECOfan and, in building 3, the retro-game shop BEEP."
+  ],
+  "ja": [
+   "同人サークルの勇者技術研究所がつくる全高2.5mの変形ロボット、ファイバリオンが常設展示されていて、見るだけなら無料です。アニメのキャラクターではなく、このサークルのオリジナルの勇者ロボットです。",
+   "上半身の操縦体験は事前予約制で、整備期間中は展示のみになることがありますので、公式サイトで状況を確認してください。",
+   "電動カートのJOYカートは2時間から借りることができ、アキバディープトラベルのツアーの集合・受付場所も兼ねています。",
+   "同じSEEKBASEの中にはソフビ専門店のまんだらけCoCoo、中古レコード店のレコファン、3号棟にレトロゲーム店のBEEP秋葉原店が入っています。"
   ]
  },
  "official_url": "https://robolabo.tokyo/",

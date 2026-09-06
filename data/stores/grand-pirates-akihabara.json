@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "해적선 콘셉트 메이드카페. 지하 선실형 매장에서 오므라이스·햄버그스테이크와 체키",
-  "en": "Pirate-ship maid cafe in a basement: omurice, hamburg steak, cocktails and cheki photos"
+  "en": "Pirate-ship maid cafe in a basement: omurice, hamburg steak, cocktails and cheki photos",
+  "ja": "海賊船コンセプトの地下メイドカフェ、オムライスやハンバーグ、カクテルとチェキ"
  },
  "building_id": null,
  "floors": [
@@ -85,11 +86,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 적었다. 여름·겨울에는 특별 연장 영업이 있고, 이벤트일에는 영업시간이 통째로 달라져 토요일에도 15:00 개점 23:00 폐점이 되기도 하니 공식 사이트 News를 확인한다.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours, and an event day can replace the normal hours outright - a Saturday event may run 15:00-23:00 - so check the site's News."
+   "en": "Friday, Saturday and the eve of a public holiday actually run to 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours, and an event day can replace the normal hours outright - a Saturday event may run 15:00-23:00 - so check the site's News.",
+   "ja": "金曜・土曜と祝日の前日は実際には翌朝05:00まで営業しますが、表では24:00で区切って記載しています。夏と冬には特別延長営業があり、イベント開催日は営業時間そのものが変わって土曜でも15:00〜23:00になることがあるので、公式サイトのNewsを確認してください。"
   },
   "source_url": "https://grand-pirates.com/access"
  },
@@ -105,7 +108,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내 기준 JR 아키하바라역·긴자선 스에히로초역에서 각각 도보 약 4분. 주오도리 서쪽 뒷골목의 6층짜리 제니야(銭谷) 빌딩 지하 1층으로, 계단을 내려가면 배 화물칸을 본뜬 매장이 나온다. 같은 건물 3층은 메이드리밍 아키하바라 AKIBA라 층 표시를 확인한다.",
-  "en": "About four minutes from JR Akihabara and four from Suehirocho by the shop's own directions. Take the stairs down to B1F of the six-storey Zeniya Building on the back street west of Chuo-dori; the room is fitted out as a ship's hold. Maidreamin Akihabara AKIBA is on 3F of the same building, so check the floor sign."
+  "en": "About four minutes from JR Akihabara and four from Suehirocho by the shop's own directions. Take the stairs down to B1F of the six-storey Zeniya Building on the back street west of Chuo-dori; the room is fitted out as a ship's hold. Maidreamin Akihabara AKIBA is on 3F of the same building, so check the floor sign.",
+  "ja": "店の案内ではJR秋葉原駅からも末広町駅からも徒歩約4分です。中央通り西側の裏通りに建つ6階建ての銭谷ビルの階段を地下1階まで下りると、船倉を模した店内が現れます。同じ建物の3Fはめいどりーみん 秋葉原 AKIBAなので、階の表示を確認してください。"
  },
  "tips": {
   "ko": [
@@ -121,6 +125,13 @@
    "When it is busy you may be asked to change seats, share a table, or accept a 90-minute limit.",
    "Photographing or recording the cast, asking for their contact details and waiting outside for them are forbidden; food, drinks and the decor may be photographed.",
    "The System and Notes pages carry English versions of the charges and house rules."
+  ],
+  "ja": [
+   "料金は60分のチャージ1,000円（税込1,100円）とドリンク1杯のオーダー制で、60分を過ぎると30分ごとに500円（550円）が自動延長されます。店内では金額をGの単位で案内しています。",
+   "開店は平日17:00、土日祝は12:00です。金曜・土曜と祝日の前日は翌朝05:00まで営業します。",
+   "混雑時には席の移動や相席、90分制をお願いされることがあります。",
+   "キャストの撮影・録音、連絡先を聞くこと、出入り待ちは禁止です。料理やドリンク、店内の装飾は撮影できます。",
+   "公式サイトのSystem・Notesページには、料金とハウスルールの英語版が掲載されています。"
   ]
  },
  "official_url": "https://grand-pirates.com/",

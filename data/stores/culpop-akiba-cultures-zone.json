@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 굿즈를 기간 한정으로 파는 팝업 스토어 전용 공간",
-  "en": "Pop-up shop space hosting limited-run anime and game merchandise sales"
+  "en": "Pop-up shop space hosting limited-run anime and game merchandise sales",
+  "ja": "アニメ・ゲームグッズを期間限定で販売するポップアップストア専用スペース"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -55,11 +56,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "AKIBA 컬처즈존 공식 점포 안내 기준 11:00~20:00, 연중무휴. 같은 4층의 아스톱은 20:30 마감으로 다르다. 개최 중인 팝업에 따라 개점 시간과 입장 방식이 달라질 수 있으므로 공식 사이트 확인.",
-   "en": "11:00-20:00 year-round per the AKIBA Cultures Zone shop page; Astop on the same 4F closes at 20:30. Individual pop-up events can change the opening time and entry rules, so check the official site."
+   "en": "11:00-20:00 year-round per the AKIBA Cultures Zone shop page; Astop on the same 4F closes at 20:30. Individual pop-up events can change the opening time and entry rules, so check the official site.",
+   "ja": "AKIBAカルチャーズZONEの公式店舗案内では11:00〜20:00、年中無休です。同じ4Fのアストップは20:30閉店と異なります。開催中のポップアップによって開店時間や入場方法が変わることがあるので、公式サイトを確認してください。"
   },
   "source_url": "https://www.akibacultureszone.com/shop/1316"
  },
@@ -75,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "1층 라신방 입구로 들어가 엘리베이터나 계단으로 4층까지 올라간다. 유리 쇼케이스가 늘어선 렌탈 쇼케이스 아스톱과 같은 층을 쓰는 팝업 전용 구획이다.",
-  "en": "Enter through the 1F Lashinbang entrance and take the elevator or stairs to 4F; the pop-up space shares the floor with the Astop rental-showcase room of glass cases."
+  "en": "Enter through the 1F Lashinbang entrance and take the elevator or stairs to 4F; the pop-up space shares the floor with the Astop rental-showcase room of glass cases.",
+  "ja": "1Fのらしんばんの入口から入り、エレベーターか階段で4Fまで上がります。ガラスケースが並ぶレンタルショーケースのアストップと同じフロアを使うポップアップ専用の区画です。"
  },
  "tips": {
   "ko": [
@@ -89,6 +93,12 @@
    "Besides exhibitions and merch sales it hosts signing sessions, handshake events and cosplay events.",
    "It adjoins the Astop rental showcase on the same 4F, so you can see both in one stop; Astop closes at 20:30, Culpop at 20:00.",
    "A second Culpop opened in 2026 inside Akihabara Radio Center (Sotokanda 1-14-2, 2F), so check which branch an event is at."
+  ],
+  "ja": [
+   "常設の店舗ではなく期間限定のポップアップ専用スペースなので、扱う作品はイベントごとに変わります。訪れる前に公式サイト（culpop.astop.co.jp）で開催スケジュールを確認しておくとよいでしょう。",
+   "展示や物販のほかに、サイン会や握手会、コスプレイベントも開かれます。",
+   "同じ4Fのレンタルショーケース アストップと隣り合っているので、一度に両方を見られます。閉店はアストップが20:30、カルポップが20:00です。",
+   "2026年に2号店のカルポップ ラジオセンター店（外神田1-14-2 秋葉原ラジオセンター2F）が開店したので、どちらの店舗かを確かめてから向かってください。"
   ]
  },
  "official_url": "https://culpop.astop.co.jp/",

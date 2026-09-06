@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "PSA 감정 포켓몬카드와 미개봉 박스를 파는 중2층 소형 전문점",
-  "en": "Small mezzanine shop selling PSA-graded Pokemon cards and sealed boxes"
+  "en": "Small mezzanine shop selling PSA-graded Pokemon cards and sealed boxes",
+  "ja": "PSA鑑定のポケモンカードと未開封BOXを扱う中2階の小型専門店"
  },
  "building_id": null,
  "floors": [],
@@ -58,11 +59,13 @@
   ],
   "regular_holiday": {
    "ko": "화요일 휴무",
-   "en": "Closed Tuesdays"
+   "en": "Closed Tuesdays",
+   "ja": "火曜日が定休日です。"
   },
   "note": {
    "ko": "매입 접수는 17:30까지. 공식 X 프로필은 판매 대응이 14시부터라고 안내한다.",
-   "en": "Buyback reception closes at 17:30. The shop's X profile says over-the-counter selling starts at 14:00."
+   "en": "Buyback reception closes at 17:30. The shop's X profile says over-the-counter selling starts at 14:00.",
+   "ja": "買取の受付は17:30までです。公式Xのプロフィールでは、販売の対応は14:00からと案内されています。"
   },
   "source_url": "https://bluerocket-tcg.com/access"
  },
@@ -78,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 쇼와도리 출구에서 도보 3분. 요도바시 Akiba 앞을 지나 쇼와도리를 따라가면 나오는 요코가와(横川) 빌딩이며, 1층은 같은 회사의 종합 매입점 가이토리 호무라(買取ホムラ), 카드 매장은 1층과 2층 사이 중2층(M2F)이다. 자전거점 르 사이크(Le Cyc) 아키바가 있던 자리.",
-  "en": "Three minutes from the Showa-dori exit of JR Akihabara: walk past Yodobashi Akiba along Showa-dori to the Yokogawa Building. The ground floor is the same company's general buying counter Kaitori Homura; the card shop is on the mezzanine (M2F) between 1F and 2F. This is the former site of the Le Cyc Akiba bicycle shop."
+  "en": "Three minutes from the Showa-dori exit of JR Akihabara: walk past Yodobashi Akiba along Showa-dori to the Yokogawa Building. The ground floor is the same company's general buying counter Kaitori Homura; the card shop is on the mezzanine (M2F) between 1F and 2F. This is the former site of the Le Cyc Akiba bicycle shop.",
+  "ja": "JR秋葉原駅の昭和通り口から徒歩3分です。ヨドバシカメラ マルチメディアAkibaの前を通って昭和通り沿いに進むと横川ビルがあり、1階は同じ会社の総合買取店・買取ホムラ、カード売り場は1階と2階の間の中2階（M2F）です。自転車店のル・サイク アキバがあった場所です。"
  },
  "tips": {
   "ko": [
@@ -92,6 +96,12 @@
    "Stock centres on PSA-graded cards and sealed boxes, plus in-store oripa packs advertised as guaranteed PSA10.",
    "Buyback covers only items bought from authorised retailers; payment is cash on the spot or a bank transfer within three business days excluding weekends and holidays (per the shop's X).",
    "Kaitori Homura on the ground floor of the same building buys phones, cameras and appliances as well, so non-card items can be cleared out in the same trip."
+  ],
+  "ja": [
+   "営業時間が13:00-18:00と短いうえ火曜定休なので、ほかの秋葉原のカードショップより早く閉まります。",
+   "取り扱いの中心はPSA鑑定品と未開封BOXで、PSA10確定をうたったオリパも店頭で販売しています。",
+   "買取は正規販売店で購入した品のみが対象で、買取代金はその場で現金払い、または土日・祝日を除く3営業日以内の口座振込です（公式Xより）。",
+   "同じ建物の1階にある買取ホムラはスマートフォンやカメラ、家電まで受け付ける総合買取店なので、カード以外の整理も同じついでに済ませられます。"
   ]
  },
  "official_url": "https://bluerocket-tcg.com/",

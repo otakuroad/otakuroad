@@ -43,7 +43,8 @@
  ],
  "one_line": {
   "ko": "신간 만화·라노벨, 애니 CD·BD, 러브라이브·홀로라이브·부시로드 굿즈를 B1F~7F에 층별로 갖춘 매장",
-  "en": "New manga, light novels, anime CDs/BDs and Love Live!, hololive, Bushiroad goods on B1F-7F"
+  "en": "New manga, light novels, anime CDs/BDs and Love Live!, hololive, Bushiroad goods on B1F-7F",
+  "ja": "B1F〜7Fに新刊マンガ・ラノベ、アニメCD・BD、ラブライブ！やホロライブ、ブシロードのグッズ"
  },
  "building_id": "sotokanda-1-chome-building",
  "floors": [
@@ -60,42 +61,50 @@
   {
    "floor": "7F",
    "ko": "팝업 스토어·캐릭터 굿즈 (기간 한정 스토어, 굿즈 수납용품)",
-   "en": "Pop-up stores and character goods (limited-time shops, goods storage supplies)"
+   "en": "Pop-up stores and character goods (limited-time shops, goods storage supplies)",
+   "ja": "ポップアップストアとキャラクターグッズのフロアです。期間限定ショップやグッズの収納用品を扱います。"
   },
   {
    "floor": "6F",
    "ko": "이벤트 스페이스 (이벤트 개최 시에만 입장 가능)",
-   "en": "Event space (entry only during events)"
+   "en": "Event space (entry only during events)",
+   "ja": "イベントスペースです。イベント開催時のみ入場できます。"
   },
   {
    "floor": "5F",
    "ko": "러브라이브! 스쿨 아이돌 스페이스·게임 소프트·캐릭터 굿즈 (홀로라이브·아이마스·프로세카 코너)",
-   "en": "Love Live! School Idol Space, game software, character goods (hololive, Idolmaster, Project Sekai corners)"
+   "en": "Love Live! School Idol Space, game software, character goods (hololive, Idolmaster, Project Sekai corners)",
+   "ja": "ラブライブ！スクールアイドルスペース、ゲームソフト、キャラクターグッズのフロアで、ホロライブ、アイマス、プロセカのコーナーがあります。"
   },
   {
    "floor": "4F",
    "ko": "부시로드 스토어·BanG Dream! 오피셜 콜라보 스토어 (2026년 8월 1일 뱅가드 스토어가 이곳으로 이전)",
-   "en": "Bushiroad Store and BanG Dream! official collab store (Vanguard Store relocated here on 1 Aug 2026)"
+   "en": "Bushiroad Store and BanG Dream! official collab store (Vanguard Store relocated here on 1 Aug 2026)",
+   "ja": "ブシロードストアとBanG Dream!オフィシャルコラボストアです。2026年8月1日にヴァンガードストアがここへ移転しました。"
   },
   {
    "floor": "3F",
    "ko": "영상·음악 소프트(애니·성우·게임)와 코믹스·소설·화집",
-   "en": "Anime, seiyuu and game CDs/Blu-rays plus comics, novels and art books"
+   "en": "Anime, seiyuu and game CDs/Blu-rays plus comics, novels and art books",
+   "ja": "アニメ・声優・ゲームの映像／音楽ソフトと、コミックス、小説、画集のフロアです。"
   },
   {
    "floor": "2F",
    "ko": "앙상블 스타즈!! 스토어 (혼잡 예상일은 사전 입장 예약 추첨제)",
-   "en": "Ensemble Stars!! Store (advance entry reservation by lottery on busy days)"
+   "en": "Ensemble Stars!! Store (advance entry reservation by lottery on busy days)",
+   "ja": "あんさんぶるスターズ！！ストアです。混雑が予想される日は事前入店予約の抽選制になります。"
   },
   {
    "floor": "1F",
    "ko": "신간 코믹스·라노벨·잡지·사진집·화집, 구간(既刊) 전용 코너, 펜라이트, 수납 커버·파일",
-   "en": "New comics, light novels, magazines, photo books and art books; a back-catalog corner, penlights, book covers and files"
+   "en": "New comics, light novels, magazines, photo books and art books; a back-catalog corner, penlights, book covers and files",
+   "ja": "新刊コミックス、ラノベ、雑誌、写真集、画集に加え、既刊専用コーナー、ペンライト、収納カバーやファイルを扱います。"
   },
   {
    "floor": "B1F",
    "ko": "카드라보 AKIHABARA 게이머즈 B1점 (트레카 판매·매입, 대전 스페이스 28석)",
-   "en": "Card Labo AKIHABARA Gamers B1 (trading card sales and buyback, 28-seat duel space)"
+   "en": "Card Labo AKIHABARA Gamers B1 (trading card sales and buyback, 28-seat duel space)",
+   "ja": "カードラボ AKIHABARAゲーマーズB1店です。トレカの販売と買取、28席の対戦スペースがあります。"
   }
  ],
  "location": null,
@@ -127,7 +136,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "표기 시간은 1F 기준. 평일 3F~7F는 11:00~21:00, 토·일·공휴일은 1F와 3F~7F 모두 10:00~21:00. 2F 앙상블 스타즈!! 스토어는 매일 11:00~21:00, B1F 카드라보는 평일 11:00~20:00·토·일·공휴일 10:00~20:00(매입 접수 12:00~18:30). 태풍 등 임시 휴업·시간 변경은 X @akiba_gema 공지",
-   "en": "Times shown are for 1F. On weekdays 3F-7F run 11:00-21:00; on Sat, Sun and holidays 1F and 3F-7F both run 10:00-21:00. The 2F Ensemble Stars!! Store is 11:00-21:00 daily and B1F Card Labo is 11:00-20:00 on weekdays, 10:00-20:00 on weekends and holidays (buyback desk 12:00-18:30). Typhoon closures and time changes are posted on X @akiba_gema"
+   "en": "Times shown are for 1F. On weekdays 3F-7F run 11:00-21:00; on Sat, Sun and holidays 1F and 3F-7F both run 10:00-21:00. The 2F Ensemble Stars!! Store is 11:00-21:00 daily and B1F Card Labo is 11:00-20:00 on weekdays, 10:00-20:00 on weekends and holidays (buyback desk 12:00-18:30). Typhoon closures and time changes are posted on X @akiba_gema",
+   "ja": "表示している時間は1F基準です。平日の3F〜7Fは11:00〜21:00、土日祝は1Fと3F〜7Fがどちらも10:00〜21:00です。2Fのあんさんぶるスターズ！！ストアは毎日11:00〜21:00、B1Fのカードラボは平日11:00〜20:00、土日祝10:00〜20:00（買取受付は12:00〜18:30）です。台風などによる臨時休業や時間の変更はX @akiba_gemaで告知されます。"
   },
   "source_url": "https://www.gamers.co.jp/shop/detail.php?id=4"
  },
@@ -143,7 +153,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 개찰을 나와 왼쪽(정면은 아트레), 정면의 GiGO 아키하바라 4호관을 보며 역 건물 밖으로 나와 오른쪽으로 꺾는다. 왼편 라디오회관·오른편 아트레를 보며 직진하면 파친코 에스파스 니타쿠 맞은편에 큰 게이머즈 간판이 붙은 건물이 있다. 1F 서적 매장 입구로 들어가 엘리베이터·계단으로 위층 이동, 카드라보는 B1F.",
-  "en": "Leave the JR Akihabara Electric Town ticket gate and turn left (Atre is straight ahead), then step out of the station past the GiGO Akihabara 4 arcade and turn right. Walk straight with Radio Kaikan on your left and Atre on your right; Gamers is the building with the large signboard opposite the Espas Nittaku pachinko hall. Enter through the 1F bookshop and take the lift or stairs up; Card Labo is on B1F."
+  "en": "Leave the JR Akihabara Electric Town ticket gate and turn left (Atre is straight ahead), then step out of the station past the GiGO Akihabara 4 arcade and turn right. Walk straight with Radio Kaikan on your left and Atre on your right; Gamers is the building with the large signboard opposite the Espas Nittaku pachinko hall. Enter through the 1F bookshop and take the lift or stairs up; Card Labo is on B1F.",
+  "ja": "JR秋葉原駅の電気街口の改札を出て左へ進み（正面はアトレ）、目の前のGiGO秋葉原4号館を見ながら駅の建物を出て右に曲がります。左手にラジオ会館、右手にアトレを見ながらまっすぐ進むと、パチンコのエスパス日拓の向かいに大きなゲーマーズの看板を掲げたビルがあります。1Fの書籍売り場の入口から入り、エレベーターか階段で上の階へ移動します。カードラボはB1Fです。"
  },
  "tips": {
   "ko": [
@@ -157,6 +168,12 @@
    "The 6F event space admits visitors only during events.",
    "Floor hours differ: on weekdays go up between 11:00 and 21:00 for 3F-7F; only 1F stays open until 22:00.",
    "Credit cards, transit IC, PayPay, Alipay, WeChat Pay and book cards are accepted, but pre-order deposits are cash only. The official page lists no tax-free service, so ask at the register."
+  ],
+  "ja": [
+   "2Fのあんさんぶるスターズ！！ストアは、混雑が予想される日に事前入店予約（抽選）制へ切り替わるので、行く前にX @ensemble_storeの告知を確認してください。",
+   "6Fのイベントスペースはイベント開催時のみ入場できます。",
+   "フロアごとに営業時間が違うので、平日に3F〜7Fが目的なら11:00以降・21:00までに行ってください（22:00まで開いているのは1Fだけです）。",
+   "クレジットカード、交通系IC、PayPay、Alipay、WeChat Pay、図書カードが使えますが、予約の内金は現金のみです。公式ページに免税対応の案内がないため、免税はレジで確認してください。"
   ]
  },
  "photo": {

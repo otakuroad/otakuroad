@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "레이싱 시뮬레이터 유료 주행장. 10분 1000엔부터, 초보자도 이용 가능",
-  "en": "Pay-per-session racing simulator venue, from 1,000 yen per 10 minutes"
+  "en": "Pay-per-session racing simulator venue, from 1,000 yen per 10 minutes",
+  "ja": "時間制で走れるレーシングシミュレーターの走行場。10分1,000円から"
  },
  "building_id": "rock-building",
  "floors": [
@@ -57,7 +58,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://ddr.jp.net/shop/"
@@ -74,7 +76,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽 뒷골목, 아키하바라와 스에히로초 중간의 록빌(ロックビル) 5층. 같은 건물 B1~3층이 하드오프 아키하바라 1호점이라 그 간판을 찾은 뒤 엘리베이터로 5층까지 올라가면 된다.",
-  "en": "Fifth floor of the Rock Building on the back street one block west of Chuo-dori, midway between Akihabara and Suehirocho. Hard Off Akihabara Store 1 fills B1F-3F of the same building, so look for its sign and take the lift up to 5F."
+  "en": "Fifth floor of the Rock Building on the back street one block west of Chuo-dori, midway between Akihabara and Suehirocho. Hard Off Akihabara Store 1 fills B1F-3F of the same building, so look for its sign and take the lift up to 5F.",
+  "ja": "中央通りから1ブロック西に入った裏通り、秋葉原と末広町の中間にあるロックビルの5Fです。同じビルのB1F〜3Fがハードオフ秋葉原1号店なので、その看板を目印にエレベーターで5Fまで上がってください。"
  },
  "tips": {
   "ko": [
@@ -92,6 +95,14 @@
    "Trainers are fine, but boots, dress shoes, sandals and heels cannot be used.",
    "Under-16s need a companion aged 25 or over, and under-13s must finish by 19:00.",
    "Head-to-head races cost an extra 500 yen per person, and one-to-one lessons with a pro racer are by reservation at 4,000 yen per 30 minutes plus 3,000 yen of driving time."
+  ],
+  "ja": [
+   "予約なしでそのまま利用でき、30分単位の電話予約も受け付けています。シミュレーターがすべて埋まっている場合は待つことになります。",
+   "走行料金は10分1,000円からです。30分以上の走行券は、休みを挟みながら車両やコースを変えて使えます。",
+   "グローブの着用が必須です。レーシンググローブが望ましく、滑りにくい革手袋なら可、軍手は不可です。グローブとシューズのレンタルは1セット500円（1日）です。",
+   "靴はスニーカーまで可で、ブーツ・革靴・サンダル・ハイヒールでは走行できません。",
+   "15歳以下は25歳以上の同伴が必要で、12歳以下は19:00までしか利用できません。",
+   "対戦走行は1人あたり500円の追加で、プロレーサーによるマンツーマンレッスンは予約制で30分4,000円に走行料3,000円が加わります。"
   ]
  },
  "official_url": "https://ddr.jp.net/",

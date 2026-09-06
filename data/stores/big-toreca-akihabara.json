@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·드래곤볼 컬렉션 싱글과 PSA 감정 카드, 오리파. 매입 창구도 운영",
-  "en": "Pokemon, One Piece and Dragon Ball collector singles, PSA-graded cards, oripa and a buyback counter"
+  "en": "Pokemon, One Piece and Dragon Ball collector singles, PSA-graded cards, oripa and a buyback counter",
+  "ja": "ポケモン・ワンピース・ドラゴンボールのコレクションシングルとPSA鑑定品、オリパ、買取カウンターも"
  },
  "building_id": null,
  "floors": [
@@ -73,7 +74,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 店舗案内 페이지는 7일 모두 영업으로 적고 정기휴일을 표기하지 않는다. 공휴일 시간은 별도 안내가 없다. 일본어 디렉터리에 남아 있는 '수요일 정기휴무·19:00 마감'은 2023년 개점 당시 정보다.",
-   "en": "The official store-info page lists all seven days and no fixed closing day; holiday hours are not stated separately. The 'closed Wednesdays, 19:00 close' still shown in Japanese directories dates from the 2023 opening."
+   "en": "The official store-info page lists all seven days and no fixed closing day; holiday hours are not stated separately. The 'closed Wednesdays, 19:00 close' still shown in Japanese directories dates from the 2023 opening.",
+   "ja": "公式の店舗案内ページは7日すべて営業と記載し、定休日は載せていません。祝日の時間についても別途の案内はありません。日本語のディレクトリに残っている水曜定休・19:00閉店という記載は、2023年の開店当時の情報です。"
   },
   "source_url": "https://www.big-toreka.jp/page/4"
  },
@@ -89,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "쇼헤이바시도리(昌平橋通り)에 면한 1층 노면 점포. JR 아키하바라역 전기가 출구에서 주오도리를 등지고 서쪽으로 도보 약 6분이며, 카드숍이 밀집한 주오도리·라디오회관 쪽이 아니라 한 블록 서쪽의 조용한 큰길가다.",
-  "en": "A ground-floor shopfront facing Shohei-bashi-dori. About six minutes west of JR Akihabara's Electric Town Exit, on the quieter avenue a block west of Chuo-dori rather than in the Chuo-dori / Radio Kaikan card-shop cluster."
+  "en": "A ground-floor shopfront facing Shohei-bashi-dori. About six minutes west of JR Akihabara's Electric Town Exit, on the quieter avenue a block west of Chuo-dori rather than in the Chuo-dori / Radio Kaikan card-shop cluster.",
+  "ja": "昌平橋通りに面した1階の路面店です。JR秋葉原駅電気街口から西へ徒歩6分ほど、カードショップが集まる中央通り・ラジオ会館側ではなく、一本西の落ち着いた大通り沿いにあります。"
  },
  "tips": {
   "ko": [
@@ -103,6 +106,12 @@
    "Weighted toward Pokemon, One Piece and Dragon Ball collector singles and PSA-graded slabs, with oripa packs. There is no duel space and no tournaments.",
    "Buyback is paid in cash on the spot, and the day's buy rates are posted on the shop's X account (@TCG_BIGTOREKA); mail-in buyback is arranged through LINE.",
    "Supplies (sleeves, deck cases, playmats) are stocked as well."
+  ],
+  "ja": [
+   "平日は13:00、土日は12:00と開店時間が異なります。閉店は毎日20:00です。",
+   "ポケモン・ワンピース・ドラゴンボールのコレクションカードとPSA鑑定品の比率が高く、オリパも扱っています。デュエルスペースや大会はありません。",
+   "買取はその場での現金払いを掲げていて、その日の買取表を公式X（@TCG_BIGTOREKA）に掲載しています。宅配買取はLINEで受け付けます。",
+   "スリーブやデッキケース、プレイマットといったサプライも揃えています。"
   ]
  },
  "official_url": "https://www.big-toreka.jp/",

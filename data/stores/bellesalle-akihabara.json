@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "애니·게임·아이돌 발표회와 팝업숍이 열리는 주오도리 대형 대관 이벤트홀",
-  "en": "Large rental event hall on Chuo-dori used for anime, game and idol events and pop-ups"
+  "en": "Large rental event hall on Chuo-dori used for anime, game and idol events and pop-ups",
+  "ja": "アニメ・ゲーム・アイドルのイベントやポップアップが開かれる中央通りの大型貸ホール"
  },
  "building_id": null,
  "floors": [
@@ -60,7 +61,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 개찰 북쪽 출구에서 도보 3분, 긴자선 스에히로초역에서 도보 4분. 주오도리와 간다묘진도리가 만나는 사거리 모퉁이에 선 유리 외벽의 스미토모부동산 아키하바라 빌딩 저층부(B1F·1F·2F)가 홀이다.",
-  "en": "Three minutes from the north side of JR Akihabara's Electric Town gate, four from Ginza-line Suehirocho. The halls occupy the lower floors (B1F, 1F, 2F) of the glass-fronted Sumitomo Fudosan Akihabara Building on the corner where Chuo-dori meets Kanda-Myojin-dori."
+  "en": "Three minutes from the north side of JR Akihabara's Electric Town gate, four from Ginza-line Suehirocho. The halls occupy the lower floors (B1F, 1F, 2F) of the glass-fronted Sumitomo Fudosan Akihabara Building on the corner where Chuo-dori meets Kanda-Myojin-dori.",
+  "ja": "JR秋葉原駅の電気街改札の北側から徒歩3分、銀座線の末広町駅からは徒歩4分です。中央通りと神田明神通りが交わる角に建つガラス張りの住友不動産秋葉原ビルの低層部（B1F・1F・2F）がホールです。"
  },
  "tips": {
   "ko": [
@@ -72,6 +74,11 @@
    "It is a rental facility: on days with no booking nothing is sold and you cannot go in. Check the organiser's own site for dates and whether advance tickets or numbered entry slips are needed.",
    "Renting the B1F, 1F and 2F halls together gives about 2,300 sqm. Theatre-style seating differs by hall: 865 in the 2F hall, 594 in the B1F hall and 498 on 1F. Big figure and game events such as TAMASHII NATION and GiGO EXPO are held here.",
    "The venue has no regular opening hours. The 9:00-18:00 weekday window (closed weekends, public holidays and the new-year period) is Bellesalle's booking enquiry line 03-3346-1396, not an on-site desk; the on-site contact is 050-3112-0910, with no stated hours."
+  ],
+  "ja": [
+   "貸館の施設なので、イベントのない日は何も売っておらず中に入ることもできません。行く前に主催者の公式サイトで開催の有無と、事前チケットや整理券が必要かどうかを確認してください。",
+   "B1F・1F・2Fの3ホールをまとめて借りると約2,300㎡になります。シアター形式の座席数はホールごとに違い、2Fホール865席、B1Fホール594席、1Fホール498席です。TAMASHII NATIONやGiGO EXPOのような大型のフィギュア・ゲームイベントもここで開かれます。",
+   "施設に常設の営業時間はありません。平日9:00〜18:00（土日・祝日と年末年始は休み）はベルサールの貸館の問い合わせ電話03-3346-1396の受付時間で、現地の窓口の時間ではなく、現地の連絡先は050-3112-0910で受付時間の記載はありません。"
   ]
  },
  "official_url": "https://www.bellesalle.co.jp/shisetsu/tokyo/bs_akihabara/",

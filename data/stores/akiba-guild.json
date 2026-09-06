@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "메이드 딜러와 포커·블랙잭을 즐기는 어뮤즈먼트 카지노 콘셉트 카페",
-  "en": "Amusement casino concept cafe: poker, blackjack and roulette dealt by maids"
+  "en": "Amusement casino concept cafe: poker, blackjack and roulette dealt by maids",
+  "ja": "ポーカーやブラックジャック、ルーレットをメイドのディーラーと遊ぶアミューズメントカジノ系コンセプトカフェ"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休"
   },
   "note": {
    "ko": "공식 사이트 기준 평일 15:00~23:00, 토·일·공휴일 11:00~23:00. 정기휴일은 공식 사이트에 명시되어 있지 않고 디렉터리에는 부정기 휴무로 나온다. 이벤트·포커 토너먼트 일정은 공식 사이트 뉴스와 X(@AkibaGuild)에 올라온다.",
-   "en": "15:00-23:00 on weekdays and 11:00-23:00 at weekends and public holidays, per the official site. No fixed closing day is stated officially and directories list it as irregular; event and poker-tournament dates are posted in the site news and on X (@AkibaGuild)."
+   "en": "15:00-23:00 on weekdays and 11:00-23:00 at weekends and public holidays, per the official site. No fixed closing day is stated officially and directories list it as irregular; event and poker-tournament dates are posted in the site news and on X (@AkibaGuild).",
+   "ja": "公式サイトによると平日は15:00〜23:00、土日祝は11:00〜23:00です。定休日は公式サイトに明記されておらず、各種情報サイトでは不定休とされています。イベントやポーカートーナメントの日程は公式サイトのニュースとX（@AkibaGuild）に掲載されます。"
   },
   "source_url": "https://akibacc.com/price-system/"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 4분, 긴자선 스에히로초역에서 도보 5분. 슈퍼포테이토와 앳홈카페 본점이 있는 주오도리 한 블록 서쪽 뒷골목 블록에 선 고구레(小暮) 빌딩 4층이며, 1층 입구에서 엘리베이터를 탄다. 같은 건물 5~7층은 트레카 전문점 아메니티 드림이다.",
-  "en": "Four minutes from the JR Akihabara Electric Town exit and five from Suehirocho, in the Kogure Building on the back-street block one row west of Chuo-dori that also holds Super Potato and the @home cafe main store. Take the lift from the ground-floor entrance to 4F; Amenity Dream, the trading-card shop, fills 5F-7F of the same building."
+  "en": "Four minutes from the JR Akihabara Electric Town exit and five from Suehirocho, in the Kogure Building on the back-street block one row west of Chuo-dori that also holds Super Potato and the @home cafe main store. Take the lift from the ground-floor entrance to 4F; Amenity Dream, the trading-card shop, fills 5F-7F of the same building.",
+  "ja": "JR秋葉原駅電気街口から徒歩4分、銀座線末広町駅から徒歩5分、スーパーポテト秋葉原店やあっとほぉーむカフェ 秋葉原本店が並ぶ中央通り一本西の裏通りのブロックに建つ小暮ビルの4Fです。1Fの入口からエレベーターで上がります。同じビルの5F〜7Fはトレカ専門店のアメニティードリーム秋葉原店です。"
  },
  "tips": {
   "ko": [
@@ -104,6 +108,13 @@
    "There is a bar counter with soft drinks and alcohol, so you can just sit and rest without gaming, and poker tournaments run regularly.",
    "The official price page names only cash and Akihabara common tickets (not combinable with other discounts) as payment; card acceptance is not stated, so bring cash.",
    "The shop reached its 19th anniversary in 2026 and its operator also runs sister venues such as Ikebukuro Guild and Akihabara Casino Quest."
+  ],
+  "ja": [
+   "料金は入場料1,000円に遊技用チップの購入を加える方式です。初回限定で2,000円＝$150、3,000円＝$300のプランがあり、5,000円プランは入場料と$400分のチップ、ドリンク1杯、記念品が付きます。",
+   "チップを現金に換えることはできないアミューズメントカジノです。テキサスホールデムポーカーやバカラ、ブラックジャック、ルーレット、クラップス、プログレッシブポーカー、大富豪をメイドのディーラーがルールから説明してくれます。",
+   "ソフトドリンクやお酒を出すバーカウンターがあるので、ゲームをせずに休んでいくこともでき、ポーカートーナメントも定期的に開かれます。",
+   "公式の料金案内に載っている支払い方法は現金と秋葉原共通チケット（ほかの割引との併用不可）だけです。カードが使えるかどうかは公式の案内がないため、現金を用意していくほうが安心です。",
+   "2026年で19周年を迎えた店で、運営会社は池袋ギルドや秋葉原カジノクエストなどの姉妹店もあわせて運営しています。"
   ]
  },
  "official_url": "https://akibacc.com/",

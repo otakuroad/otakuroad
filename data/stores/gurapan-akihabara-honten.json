@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "원피스카드·바이스슈발츠·섀도우버스 에볼브 싱글과 오리파, 대전 공간",
-  "en": "One Piece, Weiss Schwarz and Shadowverse Evolve singles, oripa packs, in-store duel space"
+  "en": "One Piece, Weiss Schwarz and Shadowverse Evolve singles, oripa packs, in-store duel space",
+  "ja": "ワンピースカード・ヴァイスシュヴァルツ・シャドウバースエボルヴのシングルとオリパ、対戦スペース"
  },
  "building_id": null,
  "floors": [
@@ -74,11 +75,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트 店舗案内와 공식 X 프로필이 모두 평일 12:00, 토·일·공휴일 10:00 개점으로 안내한다. OSM 등 일부 지도에는 13:00-22:00으로 잘못 적혀 있다.",
-   "en": "The official shop page and the shop's X profile both give 12:00 on weekdays and 10:00 at weekends and on holidays. Some maps (OSM included) still carry an incorrect 13:00-22:00."
+   "en": "The official shop page and the shop's X profile both give 12:00 on weekdays and 10:00 at weekends and on holidays. Some maps (OSM included) still carry an incorrect 13:00-22:00.",
+   "ja": "公式サイトの店舗案内も公式Xのプロフィールも、平日12:00、土日祝10:00開店と案内しています。OSMなど一部の地図には13:00〜22:00と誤って記載されています。"
   },
   "source_url": "https://gurapan.jp/help/about"
  },
@@ -94,7 +97,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도, 1층이 잡화점 아키바오~ 7호점(あきばお〜 七號店)인 소토칸다 3-14-7 도운도(東雲堂) 빌딩 3층. 큰길에 면해 있으며 영업 중에는 입구 계단 옆에 간판을 내놓는다. 같은 건물 4층은 마루루 1호점.",
-  "en": "West side of Chuo-dori, 3F of the Sotokanda 3-14-7 building whose ground floor is the Akibaoo No.7 variety shop. It faces the main street and puts a signboard beside the entrance stairs while open; MARURU 1st Store is on 4F of the same building."
+  "en": "West side of Chuo-dori, 3F of the Sotokanda 3-14-7 building whose ground floor is the Akibaoo No.7 variety shop. It faces the main street and puts a signboard beside the entrance stairs while open; MARURU 1st Store is on 4F of the same building.",
+  "ja": "中央通り西側の歩道、1階があきばお〜七號店の外神田3-14-7・東雲堂ビルの3Fです。大通りに面していて、営業中は入口の階段脇に看板を出しています。同じ建物の4FはMARURU 1号店です。"
  },
  "tips": {
   "ko": [
@@ -108,6 +112,12 @@
    "The shop's signature 'Gurapan oripa' random packs run from around 300 yen to the 20,000-yen class.",
    "The official X says cashless payment is accepted; the shop also buys cards.",
    "Weekends and public holidays open at 10:00, two hours earlier than weekdays."
+  ],
+  "ja": [
+   "店内に対戦スペースがあり、買ったカードをその場で試せます。店舗公認の大会も開かれます。",
+   "看板商品のグラパンオリパは、300円台から2万円台まで価格帯が広いです。",
+   "公式Xがキャッシュレス決済に対応していると案内しています。買取も受け付けています。",
+   "土日祝は10:00開店で、平日より2時間早いです。"
   ]
  },
  "official_url": "https://gurapan.jp/",

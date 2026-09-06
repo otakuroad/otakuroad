@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "개인이 위탁한 피규어·트레카·아이돌 굿즈를 진열하는 렌탈 쇼케이스",
-  "en": "Rental showcase of collector-consigned figures, trading cards and idol goods"
+  "en": "Rental showcase of collector-consigned figures, trading cards and idol goods",
+  "ja": "個人が委託したフィギュアやトレカ、アイドルグッズを並べるレンタルショーケース"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -57,11 +58,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open daily"
+   "en": "Open daily",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "건물 전체 안내는 11:00~21:00이지만 4층 점포는 20:30 마감.",
-   "en": "The building lists 11:00-21:00, but the 4F shops close at 20:30."
+   "en": "The building lists 11:00-21:00, but the 4F shops close at 20:30.",
+   "ja": "建物の案内は11:00〜21:00ですが、4Fの店舗は20:30に閉まります。"
   },
   "source_url": "https://www.astop.co.jp/zone/about/"
  },
@@ -77,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "1층 라신방 입구로 들어가 4층으로 올라가면 유리 쇼케이스가 늘어선 매장이 이곳이며, 같은 층 안쪽은 이벤트·팝업 공간 카루팝이다.",
-  "en": "From the 1F Lashinbang entrance go up to 4F; the room of glass showcases is this shop, with the event and pop-up space Culpop sharing the floor."
+  "en": "From the 1F Lashinbang entrance go up to 4F; the room of glass showcases is this shop, with the event and pop-up space Culpop sharing the floor.",
+  "ja": "1Fのらしんばんの入口から入って4Fに上がると、ガラスのショーケースが並ぶ売り場がこの店で、同じフロアにイベント・ポップアップスペースのカルポップがあります。"
  },
  "tips": {
   "ko": [
@@ -87,6 +91,10 @@
   "en": [
    "Each case belongs to a different owner, so stock and prices vary case by case and turn over fast; scan the whole room in one pass.",
    "The same company runs another showcase shop on Radio Kaikan 2F, which is easy to confuse with this one."
+  ],
+  "ja": [
+   "ケースごとに持ち主が違う委託販売なので、在庫も価格もケースによってまちまちで、回転も速いです。目当ての物があるなら一度に全体を見て回ってください。",
+   "同じ会社がラジオ会館の2Fにも別のショーケース店を出しており、この店と紛らわしいのでご注意ください。"
   ]
  },
  "official_url": "https://www.astop.co.jp/zone",

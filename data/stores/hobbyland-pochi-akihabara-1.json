@@ -40,7 +40,8 @@
  ],
  "one_line": {
   "ko": "N·HO게이지 중고 철도모형과 레일·제어기기, 피규어·조이드·프라모델·돌",
-  "en": "Used N and HO gauge trains, track and controllers, plus figures, Zoids, kits and dolls"
+  "en": "Used N and HO gauge trains, track and controllers, plus figures, Zoids, kits and dolls",
+  "ja": "中古のNゲージ・HOゲージ車両とレール・制御機器、フィギュアやゾイド、プラモデル、ドール"
  },
  "building_id": null,
  "floors": [
@@ -84,11 +85,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일은 11:00 개점, 토요일 10:00-20:00, 일요일·공휴일은 19:30에 닫는다. '포치 철도모형 페스티벌' 같은 행사 때 임시 휴업하는 경우가 있고, 연말연시는 단축 영업한다.",
-   "en": "Opens at 11:00 on weekdays, 10:00-20:00 on Saturdays, and closes at 19:30 on Sundays and holidays. It shuts temporarily for events such as the Pochi model railway festival, and runs shorter hours over New Year."
+   "en": "Opens at 11:00 on weekdays, 10:00-20:00 on Saturdays, and closes at 19:30 on Sundays and holidays. It shuts temporarily for events such as the Pochi model railway festival, and runs shorter hours over New Year.",
+   "ja": "平日は11:00開店、土曜日は10:00-20:00で、日曜日と祝日は19:30に閉店します。「ぽち鉄道模型フェスティバル」などのイベント時には臨時休業することがあり、年末年始は短縮営業になります。"
   },
   "source_url": "https://hobbyland-pochi.net/pages/store.php/?store=1"
  },
@@ -104,7 +107,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 UDX 북쪽 건너편, 주오도리 한 블록 서쪽의 'OAK akihabara'(오크 아키하바라) 2층. 1호점은 이 건물, 2호점은 역 앞 아키하바라 노무라 빌딩 6층으로 서로 다른 곳이다.",
-  "en": "2F of OAK akihabara, one block west of Chuo-dori and just north of Akihabara UDX. Store 1 is this building; Store 2 is a different shop on 6F of the Akihabara Nomura Building by the station."
+  "en": "2F of OAK akihabara, one block west of Chuo-dori and just north of Akihabara UDX. Store 1 is this building; Store 2 is a different shop on 6F of the Akihabara Nomura Building by the station.",
+  "ja": "中央通りから1本西、秋葉原UDXのすぐ北向かいにあるOAK akihabaraの2Fです。1号店はこのビルで、2号店は駅前の秋葉原野村ビル6Fにある別の店舗です。"
  },
  "tips": {
   "ko": [
@@ -118,6 +122,12 @@
    "Store 1 carries the deeper stock of track, controllers and parts, while Store 2 is stronger on foreign-prototype rolling stock.",
    "Besides counter buying, the shop takes items by post and does home visits.",
    "Tax-free and card acceptance are not stated officially."
+  ],
+  "ja": [
+   "チェーン全体が中古の一点物中心で、同じ商品が再び入荷することはほとんどありません。気に入ったらその場で買うのがおすすめです。",
+   "1号店はレールや制御機器、パーツの在庫が厚く線路を増やしたい人向けで、2号店は外国型車両に強いという違いがあります。",
+   "店頭買取のほか、宅配買取と出張買取も受け付けています。",
+   "免税やカード決済の可否は公式には案内されていません。"
   ]
  },
  "official_url": "https://hobbyland-pochi.net/pages/store.php/?store=1",

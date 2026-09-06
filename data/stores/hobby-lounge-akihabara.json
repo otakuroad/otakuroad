@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "트레카·프라모델·피규어·가챠를 함께 파는 22시까지 여는 호비숍",
-  "en": "Trading cards, plastic models, figures and gachapon, open until 22:00"
+  "en": "Trading cards, plastic models, figures and gachapon, open until 22:00",
+  "ja": "トレカ・プラモデル・フィギュア・ガチャを扱う22:00まで営業のホビーショップ"
  },
  "building_id": null,
  "floors": [
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "운영사 주식회사 멀티플의 공식 점포 페이지에 10:00~22:00으로만 표기되어 있고 정기휴일 안내는 없다.",
-   "en": "The operator Multiple Inc.'s official shop page lists 10:00-22:00 and does not state a regular closing day."
+   "en": "The operator Multiple Inc.'s official shop page lists 10:00-22:00 and does not state a regular closing day.",
+   "ja": "運営会社である株式会社マルチプルの公式店舗ページには10:00〜22:00とだけ記載されており、定休日の案内はありません。"
   },
   "source_url": "https://multiple.ltd/hobby-lounge/"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 7분. 주오도리 동쪽 한 블록 안쪽에 있는 9층짜리 '千住ビル5' 1층이며, 같은 건물 2층은 같은 회사가 운영하는 트레카라운지 별관 매입센터다.",
-  "en": "One minute from Ginza-line Suehirocho Station and seven from JR Akihabara, one block east of Chuo-dori on the ground floor of the nine-storey Senju Building 5. The same company's Toreca Lounge buying centre is on 2F of the same building."
+  "en": "One minute from Ginza-line Suehirocho Station and seven from JR Akihabara, one block east of Chuo-dori on the ground floor of the nine-storey Senju Building 5. The same company's Toreca Lounge buying centre is on 2F of the same building.",
+  "ja": "銀座線の末広町駅から徒歩1分、JR秋葉原駅からは徒歩7分、中央通りから東へ一本入った9階建ての千住ビル5の1Fです。同じ建物の2Fには、同じ会社が運営するトレカラウンジ別館買取センターがあります。"
  },
  "tips": {
   "ko": [
@@ -87,6 +90,11 @@
    "A new shop opened in July 2026 by Multiple Inc., the company behind the Akihabara card shop Toreca Lounge.",
    "It stays open until 22:00, one of the few Akihabara hobby shops you can still visit late in the evening.",
    "The Toreca Lounge buying centre on 2F of the same building (12:00-19:00) both buys and sells trading cards."
+  ],
+  "ja": [
+   "2026年7月に開店した新しい店舗で、秋葉原のカードショップ トレカラウンジを運営する株式会社マルチプルのホビー店です。",
+   "22:00まで営業しており、秋葉原では夜遅くに立ち寄れる数少ないホビーショップです。",
+   "同じ建物2Fのトレカラウンジ別館買取センター（12:00〜19:00）では、トレカの買取と販売を行っています。"
   ]
  },
  "official_url": "https://multiple.ltd/hobby-lounge/",

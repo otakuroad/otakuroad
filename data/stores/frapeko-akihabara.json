@@ -23,7 +23,8 @@
  ],
  "one_line": {
   "ko": "양 콘셉트 메이드 카페. 카운터 9석, 30분 500엔 차지 + 1드링크 주문제",
-  "en": "Sheep-themed maid cafe, 9 counter seats; 500 yen per 30 minutes plus a one-drink order"
+  "en": "Sheep-themed maid cafe, 9 counter seats; 500 yen per 30 minutes plus a one-drink order",
+  "ja": "羊がコンセプトのメイドカフェ。カウンター9席、30分500円チャージと1ドリンク制"
  },
  "building_id": "akiba-asobikan",
  "floors": [
@@ -46,7 +47,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 5분, 외신다 1-6-3의 7층짜리 '아키바아소비관(アキバあそび館)' 빌딩 1층 노면 점포. 이 건물은 층마다 콘셉트 카페가 한 곳씩 들어서 있는데, 계단을 오르지 않고 바로 들어가는 1층이 프라페코다.",
-  "en": "Five minutes west of the JR Akihabara Electric Town exit, on the ground floor of the seven-storey Akiba Asobikan building at Sotokanda 1-6-3. Each floor of the building holds a different concept cafe; Frapeko is the street-level one, so no stairs are involved."
+  "en": "Five minutes west of the JR Akihabara Electric Town exit, on the ground floor of the seven-storey Akiba Asobikan building at Sotokanda 1-6-3. Each floor of the building holds a different concept cafe; Frapeko is the street-level one, so no stairs are involved.",
+  "ja": "JR秋葉原駅の電気街口から西へ徒歩5分、外神田1-6-3にある7階建てのアキバあそび館の1Fの路面店です。このビルは各フロアにコンセプトカフェが1軒ずつ入っていますが、フラペコは階段を上がらずそのまま入れる1Fです。"
  },
  "tips": {
   "ko": [
@@ -60,6 +62,12 @@
    "The system is a 500 yen charge per 30 minutes plus one order (a drink or similar).",
    "There is no official website. The shop's own Instagram profile says '15:00-22:00, open year-round', but the concafe directories variously give a 22:00, 23:00 or 24:00 close, so the hours are not settled; check X (@frapeco_akiba) or Instagram before going.",
    "Credit cards are listed as accepted."
+  ],
+  "ja": [
+   "カウンター9席だけの小さな店で、予約や貸し切りは受け付けていません。",
+   "料金は30分500円のチャージに、ドリンクなど1オーダーが必要な仕組みです。",
+   "公式ホームページはありません。公式Instagramのプロフィールには営業時間15:00〜22:00・年中無休とありますが、コンカフェのディレクトリでは22時・23時・24時閉店とばらばらなので、行く前にX（@frapeco_akiba）やInstagramを確認するとよいです。",
+   "クレジットカードでの支払いができると案内されています。"
   ]
  },
  "official_url": null,

@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "유희왕·MTG·포켓몬·원피스 등 트레카 매입 전용 창구. 판매는 없음",
-  "en": "Buyback-only counter for Yu-Gi-Oh, MTG, Pokemon and One Piece cards; nothing is sold"
+  "en": "Buyback-only counter for Yu-Gi-Oh, MTG, Pokemon and One Piece cards; nothing is sold",
+  "ja": "遊戯王・MTG・ポケモン・ワンピースなどのトレカ買取専用窓口、販売はなし"
  },
  "building_id": null,
  "floors": [
@@ -77,7 +78,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포 공식 X 프로필이 밝히는 시간이다. 카드러시 공식 사이트와 러시미디어는 전 점포 공통 21:00 마감으로 안내하지만 이 점포 계정만 20:00 마감으로 적고 있어 이른 쪽을 실었다.",
-   "en": "These are the hours on the branch's own X profile. The chain site and cardrush.media both give 21:00 as the closing time common to every branch, but only this branch's own account states 20:00, so the earlier time is used here."
+   "en": "These are the hours on the branch's own X profile. The chain site and cardrush.media both give 21:00 as the closing time common to every branch, but only this branch's own account states 20:00, so the earlier time is used here.",
+   "ja": "この時間は店舗自身のXのプロフィールに書かれているものです。チェーンの公式サイトとラッシュメディアはどちらも全店舗共通の閉店時間を21:00としていますが、この店舗のアカウントだけが20:00としているため、早いほうを採用しました。"
   },
   "source_url": "https://x.com/cardrush_"
  },
@@ -93,7 +95,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구를 나와 왼쪽으로 가면 오른손에 라디오회관이 보인다. 라디오회관을 정면에 두고 왼쪽 골목으로 10m쯤 들어가면 1층이 야마토 택배(クロネコヤマト 宅急便センター)인 호시노(星野)빌딩이 나오고, 외벽에 '2F 3F カードラッシュ' 노란 간판이 붙어 있다. 매입 창구는 3층.",
-  "en": "From the JR Akihabara Electric Town exit turn left; Radio Kaikan appears on your right. Facing Radio Kaikan, take the small side street on its left and walk about 10 m to the Hoshino Building, whose ground floor is a Yamato Transport (Kuroneko Yamato) parcel centre, with a yellow '2F 3F カードラッシュ' sign on the facade. The buying counter is on 3F."
+  "en": "From the JR Akihabara Electric Town exit turn left; Radio Kaikan appears on your right. Facing Radio Kaikan, take the small side street on its left and walk about 10 m to the Hoshino Building, whose ground floor is a Yamato Transport (Kuroneko Yamato) parcel centre, with a yellow '2F 3F カードラッシュ' sign on the facade. The buying counter is on 3F.",
+  "ja": "JR秋葉原駅電気街口を出て左に進むと、右手にラジオ会館が見えます。ラジオ会館を正面にして左側の路地を10mほど入ると、1階がクロネコヤマトの宅急便センターになっている星野ビルがあり、外壁に2F 3F カードラッシュと書かれた黄色い看板が出ています。買取窓口は3階です。"
  },
  "tips": {
   "ko": [
@@ -107,6 +110,12 @@
    "Until early July 2026 the official page carried a '※只今臨時休業中' notice here; as of September the notice is gone and the block lists only buyback titles. The store's own X says it has relaunched as a high-value buyback specialist.",
    "The building sign covers both 2F and 3F, and the official guide calls 3F the No.1 store and 2F the No.1.5 store; whether 2F is in use is unconfirmed.",
    "Tax-free and card payment are not stated on the official page."
+  ],
+  "ja": [
+   "公式サイトの店舗一覧では、この店舗には買取取り扱いタイトルしか載っていません。カードを買うなら、駅前のBiTO AKIBA PLAZA 7Fのカードラッシュ秋葉原0号店TCか、大森ビルのカードラッシュ秋葉原2号店へ行ってください。",
+   "2026年7月初めまで公式ページにはここに※只今臨時休業中という表示がありましたが、9月現在はその表示が消え、買取取り扱いタイトルだけが並んでいます。店舗の公式Xは、高額買取の専門店としてリニューアルオープンしたと伝えています。",
+   "建物の看板は2階と3階の両方がカードラッシュになっていて、公式の案内では3階が1号店、2階が1.5号店です。2階が使われているかどうかは確認できていません。",
+   "免税やカード決済については公式ページに記載がありません。"
   ]
  },
  "official_url": "https://www.cardrush.jp/page/67",

@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "4층 한 층 규모의 신품·중고 피규어·프라모델·캐릭터 굿즈 매장, 매입 카운터 운영",
-  "en": "A whole floor of new and used figures, model kits and character goods, with buyback"
+  "en": "A whole floor of new and used figures, model kits and character goods, with buyback",
+  "ja": "ワンフロアの新品・中古フィギュアやプラモデル、キャラクターグッズと買取カウンター"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "매입 접수는 11:30~18:30으로 영업시간보다 짧다. 건물은 10:00 개관하지만 이 매장은 11:00 개점하며, 임시 시간 변경은 라디오회관 공지에 4F 아미아미 이름으로 올라온다",
-   "en": "The buyback desk runs 11:30-18:30, shorter than store hours. The building opens at 10:00 but this shop opens at 11:00; temporary changes are posted as '4F AmiAmi' notices on the Radio Kaikan site"
+   "en": "The buyback desk runs 11:30-18:30, shorter than store hours. The building opens at 10:00 but this shop opens at 11:00; temporary changes are posted as '4F AmiAmi' notices on the Radio Kaikan site",
+   "ja": "買取受付は11:30〜18:30で、店舗の営業時間より短くなっています。建物は10:00に開きますがこの店舗の開店は11:00で、臨時の変更はラジオ会館のサイトに4Fのあみあみとして告知されます。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/amiami/"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 1F에서 엘리베이터나 에스컬레이터로 4F로 올라가면 층 전체가 아미아미다. 3F K-BOOKS 바로 위층.",
-  "en": "Take the elevator or escalator from Radio Kaikan's 1F to 4F, which is entirely AmiAmi - one floor above K-BOOKS on 3F."
+  "en": "Take the elevator or escalator from Radio Kaikan's 1F to 4F, which is entirely AmiAmi - one floor above K-BOOKS on 3F.",
+  "ja": "ラジオ会館の1Fからエレベーターかエスカレーターで4Fに上がると、フロア全体があみあみです。3FのK-BOOKS秋葉原本館のすぐ上の階になります。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,12 @@
    "It is a registered tax-free shop and takes VISA, Mastercard, JCB, AMEX, Diners and UnionPay; bring your passport and ask at the counter about the tax-free procedure.",
    "The buyback desk closes at 18:30, ninety minutes before the shop.",
    "Do not confuse it with AmiAmi Akihabara Figure Tower at Sotokanda 1-15-3, a separate shop."
+  ],
+  "ja": [
+   "オンライン通販で知られるあみあみの実店舗で、予約商品の受け取りではなく店頭在庫の販売が中心です。新品と中古のフィギュアを同じフロアで見られます。",
+   "免税登録店舗で、VISA・Mastercard・JCB・AMEX・ダイナース・銀聯などのクレジットカードが使えます。パスポートを持参のうえ、免税の手続きはカウンターでご確認ください。",
+   "買取受付は閉店より1時間半早い18:30に終わります。",
+   "外神田1-15-3のあみあみ秋葉原フィギュアタワー店とは別の店舗なので、混同しないようご注意ください。"
   ]
  },
  "official_url": "https://realstore.amiami.jp/shop/shop1.html",

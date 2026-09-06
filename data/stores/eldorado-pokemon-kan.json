@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "구판 뒷면·VS·Web·카드e 등 옛 포켓몬 카드만 다루는 레트로 전문점",
-  "en": "Vintage Pokemon cards only: old-back, VS, Web and Card-e era singles, plus buyback"
+  "en": "Vintage Pokemon cards only: old-back, VS, Web and Card-e era singles, plus buyback",
+  "ja": "旧裏面・VS・Web・カードeなど旧ポケモンカードのシングルと買取の専門店"
  },
  "building_id": null,
  "floors": [
@@ -61,7 +62,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "요일과 상관없이 13:00-20:00. 자매점인 유희왕·듀얼마스터즈관(外神田3-15-6 小暮末広ビル4F)은 평일 14:00, 주말 13:00 개점으로 시간이 다르다.",
-   "en": "13:00-20:00 every day. The sister shop, the Yu-Gi-Oh and Duel Masters branch (Sotokanda 3-15-6, Kogure Suehiro Building 4F), opens at 14:00 on weekdays and 13:00 at weekends."
+   "en": "13:00-20:00 every day. The sister shop, the Yu-Gi-Oh and Duel Masters branch (Sotokanda 3-15-6, Kogure Suehiro Building 4F), opens at 14:00 on weekdays and 13:00 at weekends.",
+   "ja": "曜日を問わず13:00〜20:00です。姉妹店の遊戯王・デュエルマスターズ館（外神田3-15-6 小暮末広ビル4F）は平日14:00、土日13:00開店で時間が異なります。"
   },
   "source_url": "https://eldorado.base.ec/about"
  },
@@ -77,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 개찰에서 도보 약 7분, 주오도리 서쪽 뒷골목의 이사미야 제3빌딩 2층.",
-  "en": "About seven minutes from the JR Akihabara Electric Town gate, on 2F of the Isamiya No.3 Building on the back street west of Chuo-dori."
+  "en": "About seven minutes from the JR Akihabara Electric Town gate, on 2F of the Isamiya No.3 Building on the back street west of Chuo-dori.",
+  "ja": "JR秋葉原駅の電気街口から徒歩約7分、中央通りの西側の裏通りにあるイサミヤ第3ビルの2Fです。"
  },
  "tips": {
   "ko": [
@@ -89,6 +92,11 @@
    "No current-set packs: the shop is specialised in Pokemon cards from roughly 1996-2001.",
    "Yu-Gi-Oh, Duel Masters and Data Carddass are handled by the same company's other shop, the Yu-Gi-Oh and Duel Masters branch.",
    "Run by Mugen Co., Ltd.; opened 6 December 2025."
+  ],
+  "ja": [
+   "最新パックや現行カードは扱わず、1996年〜2001年頃の旧ポケモンカードに特化しています。",
+   "遊戯王、デュエル・マスターズ、データカードダスは、同じ会社が運営する別店舗の遊戯王・デュエルマスターズ館で扱っています。",
+   "運営は株式会社むげんで、2025年12月6日に開店しました。"
   ]
  },
  "official_url": "https://eldorado.base.ec/about",

@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "판매는 없이 트레카만 사들이는 매입 전용 창구. 포켓몬·MTG 등 14개 타이틀",
-  "en": "Buy-back counter only, no sales: trading cards across 14 titles incl. Pokemon and MTG"
+  "en": "Buy-back counter only, no sales: trading cards across 14 titles incl. Pokemon and MTG",
+  "ja": "販売はせずトレカを買い取るだけの買取専門窓口。ポケモン・MTGなど14タイトル"
  },
  "building_id": null,
  "floors": [
@@ -68,7 +69,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "정기 휴일 안내는 없으나 임시 휴업이 있다. 평일 개점은 13:00.",
-   "en": "No regular closing day is listed, but temporary closures happen. Weekday opening is 13:00."
+   "en": "No regular closing day is listed, but temporary closures happen. Weekday opening is 13:00.",
+   "ja": "定休日の案内はありませんが、臨時休業があります。平日の開店は13:00です。"
   },
   "source_url": "https://dorasuta.jp/shop/detail?scd=22"
  },
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "주오도리를 따라 아키하바라 UDX 맞은편, 돈키호테 아키하바라점에서 남쪽으로 한 구획 내려간 외신다 4-3-10의 2024년 준공 신축 빌딩 '니포 아키바 프론트' 1층. JR 아키하바라역·긴자선 스에히로초역 양쪽에서 도보 4분.",
-  "en": "On Chuo-dori across from Akihabara UDX, one plot south of Don Quijote Akihabara, on the 1F of the NIPPO Akiba Front building (completed 2024) at Sotokanda 4-3-10. Four minutes from either JR Akihabara or Ginza-line Suehirocho."
+  "en": "On Chuo-dori across from Akihabara UDX, one plot south of Don Quijote Akihabara, on the 1F of the NIPPO Akiba Front building (completed 2024) at Sotokanda 4-3-10. Four minutes from either JR Akihabara or Ginza-line Suehirocho.",
+  "ja": "中央通り沿い、秋葉原UDXの向かい側で、ドン・キホーテ秋葉原店から南へ1区画下った外神田4-3-10、2024年竣工の日宝アキバフロント1Fです。JR秋葉原駅からも銀座線の末広町駅からも徒歩4分です。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,12 @@
    "It buys 14 titles including Pokemon, ONE PIECE and Magic: The Gathering, and was the chain's first buy-back-only shop when it opened in November 2024.",
    "Payment is in cash. Buy-back prices are not given by phone; check the official X account (@ds_akibakaitori).",
    "Opens 13:00 on weekdays and 10:00 at weekends and holidays, closing at 20:00."
+  ],
+  "ja": [
+   "ここは売る店ではなく買い取る店です。カードを見たり買ったりするならドラゴンスター秋葉原店かドラゴンスター秋葉原駅前店へ行ってください。",
+   "ポケモン、ONE PIECE、マジック：ザ・ギャザリングを含む14タイトルを買い取ります。2024年11月に開店したチェーン初の買取専門店です。",
+   "支払いは現金です。買取価格は電話では教えてもらえないので、公式X（@ds_akibakaitori）のお知らせを確認してください。",
+   "平日は13:00、土日祝は10:00開店で、閉店はいずれも20:00です。"
   ]
  },
  "official_url": "https://dorasuta.jp/shop/detail?scd=22",

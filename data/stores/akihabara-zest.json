@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "지하 아이돌 라이브와 아니송 DJ 행사가 열리는 정원 150명 지하 라이브하우스",
-  "en": "150-capacity basement live house booked for underground idol lives and anisong events"
+  "en": "150-capacity basement live house booked for underground idol lives and anisong events",
+  "ja": "地下アイドルのライブやアニソンイベントが開かれる定員150人の地下ライブハウス"
  },
  "building_id": "imai-building",
  "floors": [
@@ -51,7 +52,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 외신다 3초메, 전자부품 잡화점 아키바오~(あきばお〜)가 있는 블록의 3-2-14 건물 지하 1층. JR 아키하바라역 전기가 출구에서 도보 6분, 히비야선 아키하바라역 3번 출구에서 도보 7분, 쓰쿠바 익스프레스 A2 출구에서 도보 8분. 엘리베이터가 없어 계단으로 내려간다.",
-  "en": "In the Sotokanda 3-chome block west of Chuo-dori, on the basement floor of the building at 3-2-14 beside the Akibaoo parts-and-sundries shop. Six minutes from JR Akihabara's Electric Town Exit, seven from Hibiya-line exit 3, eight from the Tsukuba Express A2 exit. There is no lift, so it is stairs down."
+  "en": "In the Sotokanda 3-chome block west of Chuo-dori, on the basement floor of the building at 3-2-14 beside the Akibaoo parts-and-sundries shop. Six minutes from JR Akihabara's Electric Town Exit, seven from Hibiya-line exit 3, eight from the Tsukuba Express A2 exit. There is no lift, so it is stairs down.",
+  "ja": "中央通りの西側、外神田3丁目のブロックにあり、電子部品・雑貨店のあきばお～の隣に建つ3-2-14の建物の地下1階です。JR秋葉原駅の電気街口から徒歩6分、日比谷線の3番出口から徒歩7分、つくばエクスプレスのA2出口から徒歩8分で、エレベーターはなく階段で地下へ降ります。"
  },
  "tips": {
   "ko": [
@@ -67,6 +69,13 @@
    "It sits one floor underground with no lift - stairs only - and has no parking of its own.",
    "The venue is fully non-smoking and has separate changing rooms and two dressing rooms, which is why idol lives and cosplay shoots use it.",
    "Opened in 2017 and run by Sound Graffiti, whose sister venue is Yotsuya LOTUS."
+  ],
+  "ja": [
+   "常時営業の店舗ではなく、イベントや貸切のある日だけ開く事前予約制のスペースです。出かける前に出演者や主催者の告知でその日の公演を確認してください。",
+   "収容人数はスタンディングで150人、シアター形式で100人、テーブル形式で80人、床面積は約200平方メートルです。",
+   "地下1階でエレベーターがなく階段のみで、施設内に駐車場もありません。",
+   "館内は全面禁煙で、男女別の更衣室と楽屋2室があるため、アイドルライブやコスプレ撮影によく使われます。",
+   "2017年のオープンで、運営はサウンドグラフィティ、姉妹店は四谷LOTUSです。"
   ]
  },
  "official_url": "https://akihabarazest.com/",

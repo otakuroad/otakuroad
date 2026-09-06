@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "해외 디자이너 토이와 블라인드 돌을 파는 주오도리 3층 수입 토이점",
-  "en": "Third-floor importer of overseas designer toys and blind-box dolls on Chuo-dori"
+  "en": "Third-floor importer of overseas designer toys and blind-box dolls on Chuo-dori",
+  "ja": "海外のデザイナーズトイとブラインドドールを扱う中央通りの3Fの輸入トイ店"
  },
  "building_id": "shioda-tour-akihabara-building",
  "floors": [
@@ -52,7 +53,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에 면한 '塩田トゥール秋葉原' 빌딩 3층. 애니메이트·돈키호테를 지나 우에노 방향으로 더 올라간 구간이며, 스에히로초 교차점 조금 못 미친 곳이다.",
-  "en": "Third floor of the Shioda Tour Akihabara building, right on Chuo-dori. It is further up toward Ueno than animate and Don Quijote, just short of the Suehirocho crossing."
+  "en": "Third floor of the Shioda Tour Akihabara building, right on Chuo-dori. It is further up toward Ueno than animate and Don Quijote, just short of the Suehirocho crossing.",
+  "ja": "中央通りに面した塩田トゥール秋葉原ビルの3Fです。アニメイトやドン・キホーテ秋葉原店を過ぎて上野方面へさらに進んだ区間で、末広町の交差点の少し手前にあります。"
  },
  "tips": {
   "ko": [
@@ -66,6 +68,12 @@
    "The focus is blind-box dolls (Come4Free, PENNY'S BOX) and overseas designer toys, many never released in Japan.",
    "Even blind-box lines are partly displayed as actual stock you can pick in person rather than buying blind.",
    "It also stocks replacement doll outfits and bodies plus character goods such as Sanrio and Pokemon."
+  ],
+  "ja": [
+   "オンライン専門店が2025年4月12日に開いた、初の実店舗です。",
+   "Come4FreeやPENNY'S BOXなどのブラインドドールと海外のデザイナーズトイが中心で、日本未発売の輸入品が多く並びます。",
+   "ブラインド商品でも、店頭では現品を見て選べる形の陳列があります。",
+   "ドールの着せ替え用の衣装やボディ、サンリオやポケモンなどのキャラクター商品も扱っています。"
   ]
  },
  "official_url": "https://hermeow.shop/",

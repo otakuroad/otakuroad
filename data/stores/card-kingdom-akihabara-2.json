@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "아키하바라 전파회관 1층의 카드킹덤 2호점, 13시에 여는 역 앞 트레카 매장",
-  "en": "Card Kingdom's second Akihabara shop, on the ground floor of Denpa Kaikan"
+  "en": "Card Kingdom's second Akihabara shop, on the ground floor of Denpa Kaikan",
+  "ja": "秋葉原電波会館1階にあるカードキングダムの2号店"
  },
  "building_id": "akihabara-denpa-kaikan",
  "floors": [
@@ -62,7 +63,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 점포 페이지 표기는 매일 13:00-21:00이며 정기휴일 안내는 없다. 도보 2분 거리의 역앞점(1층 10:00 개점)과 시간이 다르다.",
-   "en": "The official store page lists 13:00-21:00 daily and names no closing day. These hours differ from the Ekimae store two minutes away, whose 1F opens at 10:00."
+   "en": "The official store page lists 13:00-21:00 daily and names no closing day. These hours differ from the Ekimae store two minutes away, whose 1F opens at 10:00.",
+   "ja": "公式の店舗ページの表記は毎日13:00-21:00で、定休日は挙げられていません。この時間は、徒歩2分の駅前店（1階は10:00開店）とは異なります。"
   },
   "source_url": "https://cardkingdom.jp/stores/akihabara-2/"
  },
@@ -78,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분, 소부선 고가 옆 전자부품 상가인 아키하바라 전파회관 1층 노면 점포. 같은 1층에 피규어점 마루루가 있다.",
-  "en": "A minute from JR Akihabara's Electric Town Exit, a street-level unit on 1F of the Akihabara Denpa Kaikan electronics arcade beside the Sobu line viaduct. The figure shop Maruru is on the same floor."
+  "en": "A minute from JR Akihabara's Electric Town Exit, a street-level unit on 1F of the Akihabara Denpa Kaikan electronics arcade beside the Sobu line viaduct. The figure shop Maruru is on the same floor.",
+  "ja": "JR秋葉原駅電気街口から徒歩1分、総武線の高架沿いにある電子部品の商店街、秋葉原電波会館の1階の路面店です。同じ1階には、フィギュアを扱うおもちゃのMARURU5号店があります。"
  },
  "tips": {
   "ko": [
@@ -92,6 +95,12 @@
    "The titles handled are Pokemon, One Piece, Dragon Ball and Yu-Gi-Oh cards, and the shop's own X account states that it is tax-free.",
    "The official store page gives no phone number or closing day; stock and temporary closures go on the shop's X account (@ck_akihabara2nd).",
    "The two branches have near-identical names - check whether your map is pointing at Denpa Kaikan (1-14-3) or the Nomura Building (1-14-7)."
+  ],
+  "ja": [
+   "毎日13:00開店なので、午前中はずっと閉まっています。もっと早い時間にカードを見たいなら、徒歩2分のカードキングダム秋葉原駅前店（外神田1-14-7 秋葉原野村ビル、1階は10:00開店）から回るとよいでしょう。",
+   "取り扱いタイトルはポケモンカード、ワンピースカード、ドラゴンボールカード、遊戯王の4つで、店舗のXアカウントには免税（TAX FREE）対応と書かれています。",
+   "公式の店舗ページには電話番号も定休日も載っていません。在庫や臨時休業は店舗のX（@ck_akihabara2nd）で告知されます。",
+   "2つの店舗は名前がよく似ているので、地図が秋葉原電波会館（1-14-3）と秋葉原野村ビル（1-14-7）のどちらを指しているか確かめてください。"
   ]
  },
  "official_url": "https://cardkingdom.jp/stores/akihabara-2/",

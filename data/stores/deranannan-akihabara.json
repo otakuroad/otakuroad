@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "아이돌 콘서트용 펜라이트·사이리움과 생사진 슬리브 전문점",
-  "en": "Shop for idol concert penlights, cyalume sticks and photo sleeves"
+  "en": "Shop for idol concert penlights, cyalume sticks and photo sleeves",
+  "ja": "アイドルのコンサート用ペンライト・サイリウムと生写真スリーブの専門店"
  },
  "building_id": null,
  "floors": [
@@ -67,11 +68,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일 11:00 개점, 토·일·공휴일 10:00 개점으로 주말이 한 시간 이르다.",
-   "en": "Opens at 11:00 on weekdays and an hour earlier, at 10:00, on weekends and public holidays."
+   "en": "Opens at 11:00 on weekdays and an hour earlier, at 10:00, on weekends and public holidays.",
+   "ja": "平日は11:00開店、土日祝は1時間早い10:00開店です。"
   },
   "source_url": "http://deranan.com/"
  },
@@ -87,7 +90,8 @@
  },
  "how_to_find": {
   "ko": "주오도리를 만세바시에서 남쪽으로 건너간 신다스다초 1-7-1의 윈 간다 다카하시 빌딩 3층. 전기가 거리보다 한참 남쪽이라 아키하바라역에서 주오도리를 따라 계속 내려가야 한다. 오래된 안내에는 옛 주소(구 뉴 아키하바라 센터)가 남아 있으니 공식 사이트 주소를 기준으로 삼는다.",
-  "en": "Third floor of the Win Kanda Takahashi Building at Kanda-Sudacho 1-7-1, on Chuo-dori south of the Manseibashi bridge — well south of the Electric Town, so keep walking down Chuo-dori from the station. Older listings still carry the shop's previous address, so go by the address on the official site."
+  "en": "Third floor of the Win Kanda Takahashi Building at Kanda-Sudacho 1-7-1, on Chuo-dori south of the Manseibashi bridge — well south of the Electric Town, so keep walking down Chuo-dori from the station. Older listings still carry the shop's previous address, so go by the address on the official site.",
+  "ja": "中央通りを万世橋から南へ渡った神田須田町1-7-1、ウイン神田高橋ビルの3Fです。電気街よりかなり南なので、秋葉原駅から中央通りをそのまま下っていってください。古い案内には以前の住所が残っているので、公式サイトの住所を基準にしてください。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,12 @@
    "The official site states that its stores accept various forms of electronic payment.",
    "Open year-round, but it opens at 11:00 on weekdays and 10:00 at weekends and on holidays, so check the day if you want to buy before a show.",
    "Part of a chain with branches in Nagoya, Osaka and Ikebukuro; Akihabara notices go out on X (@deranan_AKIBA)."
+  ],
+  "ja": [
+   "コンサート用のペンライトとサイリウムの専門店で、電池やカラーフィルター、生写真の保護用スリーブまで一か所でそろいます。",
+   "公式の案内によると、各店舗で各種の電子決済を利用できます。",
+   "年中無休ですが、平日は11:00、土日祝は10:00開店なので、公演当日の朝に寄るなら曜日を確認してください。",
+   "名古屋や大阪、池袋などにも店舗があるチェーンで、秋葉原店のお知らせはX（@deranan_AKIBA）に掲載されます。"
   ]
  },
  "official_url": "http://deranan.com/",

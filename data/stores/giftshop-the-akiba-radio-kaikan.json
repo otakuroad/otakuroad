@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "아키하바라 한정 기념품 매장. 애니·VTuber 콜라보 과자와 캐릭터 잡화",
-  "en": "Akihabara-only souvenirs: anime and VTuber tie-up sweets and character goods"
+  "en": "Akihabara-only souvenirs: anime and VTuber tie-up sweets and character goods",
+  "ja": "アニメ・VTuberコラボ菓子やキャラクター雑貨が並ぶ秋葉原限定みやげの店"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "건물 영업시간(10:00~20:00)과 동일",
-   "en": "Same as the building's 10:00-20:00"
+   "en": "Same as the building's 10:00-20:00",
+   "ja": "建物の営業時間（10:00〜20:00）と同じです。"
   },
   "source_url": "https://www.nodacorp.jp/shoplist/the_akiba/"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 바로 앞 라디오회관 1F. 위층으로 올라갈 필요 없이 길에서 바로 들어가며, 로고 네온사인이 표식이다.",
-  "en": "On the 1F of Radio Kaikan, right in front of the JR Akihabara Electric Town Exit; you enter straight from the street, marked by the shop's neon logo sign."
+  "en": "On the 1F of Radio Kaikan, right in front of the JR Akihabara Electric Town Exit; you enter straight from the street, marked by the shop's neon logo sign.",
+  "ja": "JR秋葉原駅の電気街口を出てすぐ目の前、ラジオ会館の1Fにあります。通りからそのまま入店でき、店のロゴのネオンサインが目印です。"
  },
  "tips": {
   "ko": [
@@ -85,6 +88,10 @@
   "en": [
    "Stock is mostly Akihabara-limited sweets and small goods, so it works best as a last stop for gifts.",
    "The Radio Kaikan floor guide files it under 'other', but it does carry anime and VTuber tie-up items."
+  ],
+  "ja": [
+   "秋葉原限定の菓子や雑貨が中心なので、グッズ巡りの最後におみやげを買う店として使いやすいです。",
+   "ラジオ会館のフロアガイドではその他に分類されていますが、アニメやVTuberのコラボ商品も扱っています。"
   ]
  },
  "official_url": "https://www.nodacorp.jp/shoplist/the_akiba/",

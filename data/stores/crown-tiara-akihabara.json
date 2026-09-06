@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "이상한 나라 앨리스 콘셉트 메이드카페. 오므라이스·파르페와 체키, 심야 영업",
-  "en": "Alice-in-Wonderland maid cafe: omurice, parfaits and cheki photos, open late on weekends"
+  "en": "Alice-in-Wonderland maid cafe: omurice, parfaits and cheki photos, open late on weekends",
+  "ja": "不思議の国のアリスがコンセプトのメイドカフェ。オムライスやパフェ、チェキ、深夜営業"
  },
  "building_id": "maruyama-building",
  "floors": [
@@ -76,11 +77,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 표기했다. 여름·겨울에는 특별 연장 영업이 있으므로 공식 사이트 공지를 확인.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run until 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours, announced on the official site."
+   "en": "Friday, Saturday and the eve of a public holiday actually run until 05:00 the next morning; the table caps them at 24:00. Summer and winter bring special extended hours, announced on the official site.",
+   "ja": "金曜日・土曜日と祝日の前日は実際には翌朝5:00まで営業しますが、この表では24:00で区切って表記しています。夏と冬には特別な延長営業があるので、公式サイトのお知らせを確認してください。"
   },
   "source_url": "https://crown-tiara.com/access"
  },
@@ -96,7 +99,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내 기준 긴자선 스에히로초역에서 도보 약 1분, JR 아키하바라역에서 도보 약 4분. 쇼헤이바시도리(昌平橋通り) 변 丸山ビル 3층이며, 같은 건물 1층은 신소쿠 매입센터, 6층은 호로카드다.",
-  "en": "About one minute from Suehirocho Station and four from JR Akihabara by the shop's own directions, on 3F of the Maruyama Building on Shohei-bashi-dori. Shinsoku's buyback counter is on 1F of the same building and Holocard on 6F."
+  "en": "About one minute from Suehirocho Station and four from JR Akihabara by the shop's own directions, on 3F of the Maruyama Building on Shohei-bashi-dori. Shinsoku's buyback counter is on 1F of the same building and Holocard on 6F.",
+  "ja": "店舗の案内では末広町駅から徒歩約1分、JR秋葉原駅から徒歩約4分で、昌平橋通り沿いの丸山ビル3Fです。同じビルの1Fにシンソク秋葉原買取センター、6Fにホロカード秋葉原店が入っています。"
  },
  "tips": {
   "ko": [
@@ -110,6 +114,12 @@
    "Opens at 17:00 on weekdays and 12:00 on Saturdays, Sundays and holidays; Fridays, Saturdays and the eve of a holiday run until 05:00 the next morning.",
    "Photographing or recording the cast, asking for their contact details and waiting outside for them are forbidden; food, drinks and the interior decor may be photographed.",
    "The System page of the official site carries an English explanation of the charges, so you can check before you go."
+  ],
+  "ja": [
+   "料金は最初の60分のチャージ1,000円（税込1,100円）とドリンク1杯の注文制です。60分を過ぎると30分ごとに500円（550円）で自動延長となり、延長のたびにドリンクをもう1杯注文します。",
+   "平日は17:00、土日祝は12:00開店です。金曜日・土曜日と祝日の前日は翌朝5:00まで営業します。",
+   "キャストの撮影・録音、連絡先を尋ねること、出待ち・入り待ちは禁止です。料理やドリンク、店内の装飾は撮影できます。",
+   "公式サイトのSystemページに英語の料金説明があり、訪れる前にシステムを確認できます。"
   ]
  },
  "official_url": "https://crown-tiara.com/",

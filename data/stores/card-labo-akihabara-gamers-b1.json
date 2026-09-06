@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "바이스슈발츠·뱅가드 등 부시로드 TCG 중심 싱글·팩과 28석 듀얼 스페이스",
-  "en": "Bushiroad TCG singles and packs (Weiss Schwarz, Vanguard) with a 28-seat duel space"
+  "en": "Bushiroad TCG singles and packs (Weiss Schwarz, Vanguard) with a 28-seat duel space",
+  "ja": "ヴァイスシュヴァルツ・ヴァンガードなどブシロードTCGのシングル・パックと28席のデュエルスペース"
  },
  "building_id": "sotokanda-1-chome-building",
  "floors": [
@@ -73,7 +74,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 요일과 상관없이 12:00~18:30. 게이머즈 본점 건물은 더 일찍 열지만 카드라보는 평일 11:00 개점",
-   "en": "Buyback intake is 12:00-18:30 every day. The Gamers building opens earlier, but Card Labo starts at 11:00 on weekdays"
+   "en": "Buyback intake is 12:00-18:30 every day. The Gamers building opens earlier, but Card Labo starts at 11:00 on weekdays",
+   "ja": "買取の受付は曜日にかかわらず12:00-18:30です。ゲーマーズ本店の建物はもっと早く開きますが、カードラボは平日11:00からです。"
   },
   "source_url": "https://www.c-labo.jp/shop/akibagema/"
  },
@@ -89,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1~3분. 애니 굿즈 전문점 아키하바라 게이머즈 본점의 지하 1층으로, 1층 정면 입구로 들어가 지하로 내려가면 된다. 같은 체인의 라디오회관 본점·매입센터와는 별개 매장이다.",
-  "en": "One to three minutes from the JR Akihabara Electric Town exit, in the basement of the AKIHABARA Gamers flagship: enter on 1F and go down one level. It is a separate branch from Card Labo's Radio Kaikan main store and buying center."
+  "en": "One to three minutes from the JR Akihabara Electric Town exit, in the basement of the AKIHABARA Gamers flagship: enter on 1F and go down one level. It is a separate branch from Card Labo's Radio Kaikan main store and buying center.",
+  "ja": "JR秋葉原駅電気街口から徒歩1〜3分、AKIHABARAゲーマーズ本店の地下にあります。1階から入って一つ下の階に下りてください。同じチェーンのカードラボ 秋葉原ラジオ会館本店や秋葉原ラジオ会館買取センターとは別の店舗です。"
  },
  "tips": {
   "ko": [
@@ -103,6 +106,12 @@
    "The 28-seat play area is decorated with characters from Bushiroad's licensed series.",
    "Payment is wide: credit cards (VISA, Mastercard, JCB, AMEX, Diners, Discover, UnionPay debit), transit IC cards, iD, QUICPay+, Rakuten Edy and QR services such as PayPay, d-barai and au PAY.",
    "Being underground, it is an easy first stop on a card-shop crawl in rain or in the height of summer or winter."
+  ],
+  "ja": [
+   "ヴァイスシュヴァルツ、ヴァンガード、Reバースといったブシロードのタイトルに加えて、ラブライブ！のカードゲームとホロライブOCGにとくに強い店です。遊戯王、ポケモン、ワンピースなど20ほどのタイトルも揃えています。",
+   "28席の対戦スペースは、ブシロードのライセンス作品のキャラクターで装飾されています。",
+   "支払い方法は幅広く、クレジットカード（VISA・Mastercard・JCB・AMEX・Diners・Discover・UnionPayデビット）、交通系ICカード、iD、QUICPay+、楽天Edy、PayPay・d払い・au PAYなどのQR決済が使えます。",
+   "地下にあるので、雨の日や真夏・真冬でもカードショップ巡りの最初の一軒にしやすい店です。"
   ]
  },
  "official_url": "https://www.c-labo.jp/shop/akibagema/",

@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "중고 만화·라노베·게임 소프트에 트레카·피규어까지 다루는 아키하바라 유일의 북오프",
-  "en": "Used manga, light novels, game software, cards and figures at Akihabara's only Book-Off"
+  "en": "Used manga, light novels, game software, cards and figures at Akihabara's only Book-Off",
+  "ja": "秋葉原唯一のBOOKOFF、中古マンガ・ラノベ・ゲームソフトからトレカ・フィギュアまで"
  },
  "building_id": null,
  "floors": [],
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수 시간이 품목별로 다르다. 서적·CD·레코드·DVD·블루레이·게임 소프트는 22:00까지, 가전·스마트폰·게임기 본체·호비·트레카는 21:00까지.",
-   "en": "Buyback cut-offs differ by genre: books, CDs, records, DVDs, Blu-ray and game software until 22:00; appliances, phones, game hardware, hobby items and trading cards until 21:00."
+   "en": "Buyback cut-offs differ by genre: books, CDs, records, DVDs, Blu-ray and game software until 22:00; appliances, phones, game hardware, hobby items and trading cards until 21:00.",
+   "ja": "買取の受付時間はジャンルによって異なります。書籍・CD・レコード・DVD・ブルーレイ・ゲームソフトは22:00まで、家電・スマートフォン・ゲーム機本体・ホビー・トレカは21:00までです。"
   },
   "source_url": "https://www.bookoff.co.jp/shop/shop20396.html"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 중앙개찰구를 오른쪽으로 나와 막다른 곳에서 우회전, 쇼핑몰 아키바 트림(アキバ・トリム) 바로 옆. 역에서 도보 1분. 츠쿠바 익스프레스는 A1 출구를 오른쪽으로 나와 막다른 곳에서 우회전, 히비야선은 3번 출구를 왼쪽으로 나와 바로 우회전.",
-  "en": "Leave the JR Akihabara central gate to the right, turn right at the end of the passage; the store is right beside the Akiba Trim mall, one minute from the station. From the Tsukuba Express take exit A1 to the right then turn right at the end; from the Hibiya line take exit 3 to the left and turn right immediately."
+  "en": "Leave the JR Akihabara central gate to the right, turn right at the end of the passage; the store is right beside the Akiba Trim mall, one minute from the station. From the Tsukuba Express take exit A1 to the right then turn right at the end; from the Hibiya line take exit 3 to the left and turn right immediately.",
+  "ja": "JR秋葉原駅の中央改札口を右に出て、突き当たりを右に曲がると、ショッピングモールのアキバ・トリムのすぐ隣です。駅から徒歩1分です。つくばエクスプレスはA1出口を右に出て突き当たりを右へ、日比谷線は3番出口を左に出てすぐ右に曲がります。"
  },
  "tips": {
   "ko": [
@@ -95,6 +98,12 @@
    "Cash, credit cards, e-money and QR/barcode payments are all accepted.",
    "Five parking spaces at Trust Park Daito Building (千代田区神田練塀町3-3).",
    "Hobby and trading-card buyback closes at 21:00, an hour before the store, so bring items early."
+  ],
+  "ja": [
+   "秋葉原エリア唯一のブックオフで、中規模の店舗です。中古マンガやライトノベル、トレカ、フィギュアのコーナーが、この地図の利用者にとって役立つ部分です。",
+   "現金、クレジットカード、電子マネー、バーコード（QR）決済のいずれも使えます。",
+   "車で行く場合は、トラストパーク大東ビル（千代田区神田練塀町3-3）に5台分の駐車場があります。",
+   "ホビーとトレカの買取は閉店1時間前の21:00で受付が終わるので、売る物があるなら早めに行ってください。"
   ]
  },
  "official_url": "https://www.bookoff.co.jp/shop/shop20396.html",

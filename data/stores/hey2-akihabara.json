@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "타이토 Hey 바로 옆 크레인게임 전문점. 애니·게임 캐릭터 프라이즈 경품 중심",
-  "en": "Crane-game-only Taito arcade beside Hey, stocked with anime and game character prizes"
+  "en": "Crane-game-only Taito arcade beside Hey, stocked with anime and game character prizes",
+  "ja": "タイトーのHeyの隣にあるクレーンゲーム専門のゲームセンター、アニメ・ゲームのキャラクター景品が中心"
  },
  "building_id": null,
  "floors": [
@@ -57,11 +58,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "None (open year-round)"
+   "en": "None (open year-round)",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "타이토 공식 안내 기준 매일 10:00~23:30으로 옆 Hey 본점과 같다.",
-   "en": "Daily 10:00-23:30 per Taito's official announcement, the same as the original Hey next door."
+   "en": "Daily 10:00-23:30 per Taito's official announcement, the same as the original Hey next door.",
+   "ja": "タイトーの公式案内では毎日10:00〜23:30で、隣のHey本店と同じです。"
   },
   "source_url": "https://www.taito.co.jp/gc/topics/47369"
  },
@@ -77,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 2분. 주황색 대형 간판이 걸린 Hey 본점(外神田1-10-5 히로세 본사빌딩) 바로 옆 구획에 있는 '히로세 본사빌딩 2호관(廣瀬本社ビル2号館)' 1층이다. 주오도리에서 한 블록 안쪽 뒷길이라 큰길에서는 바로 보이지 않는다. 크레인게임만 찾는다면 이쪽, 슈팅·격투·음악게임이라면 옆 Hey 본점으로 간다.",
-  "en": "Two minutes from JR Akihabara's Electric Town Exit. Look for the giant orange Hey sign (Sotokanda 1-10-5, Hirose Honsha Building) and take the adjoining lot: Hey2 is the ground floor of Hirose Honsha Building No.2. It sits on the back street a block in from Chuo-dori, so it is not visible from the main road. Come here for crane games, and go next door to Hey itself for shooting, fighting and rhythm games."
+  "en": "Two minutes from JR Akihabara's Electric Town Exit. Look for the giant orange Hey sign (Sotokanda 1-10-5, Hirose Honsha Building) and take the adjoining lot: Hey2 is the ground floor of Hirose Honsha Building No.2. It sits on the back street a block in from Chuo-dori, so it is not visible from the main road. Come here for crane games, and go next door to Hey itself for shooting, fighting and rhythm games.",
+  "ja": "JR秋葉原駅の電気街口から徒歩2分です。大きなオレンジ色のHeyの看板（外神田1-10-5 廣瀬本社ビル）を目印に、その隣の区画にある廣瀬本社ビル2号館の1Fがヘイツーです。中央通りから一本入った裏通りにあるため、大通りからは見えません。クレーンゲームならこちら、シューティングや対戦格闘、音楽ゲームなら隣のHeyへどうぞ。"
  },
  "tips": {
   "ko": [
@@ -89,6 +93,11 @@
    "Opened 2026-08-08 as Hey's second store; crane games only, with no video cabinets.",
    "Prize restocks and events are announced on the shared official X account (@Taito_Hey).",
    "It may not be on map apps yet - navigate to Hey and look at the building next to it."
+  ],
+  "ja": [
+   "2026年8月8日に開店したHeyの2号店で、クレーンゲーム専門のためビデオゲームの筐体はありません。",
+   "景品の入荷やイベントの告知は、Heyと共通の公式X（@Taito_Hey）で確認できます。",
+   "地図アプリにはまだ登録されていない場合があります。Heyを目的地にして、その隣の建物を見てください。"
   ]
  },
  "official_url": "https://www.taito.co.jp/gc/topics/47369",

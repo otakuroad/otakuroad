@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "B1F·1F 캡슐토이 전용 층, 2·3F 게임 작품 굿즈, 4~7F 오피셜 숍·기간 한정 행사",
-  "en": "Capsule-toy floors on B1F-1F, game-title goods on 2F-3F, pop-up official shops on 4F-7F"
+  "en": "Capsule-toy floors on B1F-1F, game-title goods on 2F-3F, pop-up official shops on 4F-7F",
+  "ja": "B1F・1Fはカプセルトイ専用、2・3Fはゲーム作品グッズ、4〜7Fは期間限定のオフィシャルショップ"
  },
  "building_id": null,
  "floors": [
@@ -49,42 +50,50 @@
   {
    "floor": "B1F",
    "ko": "캡슐토이 특화 층 'POP @P CAPSULE -AKIHABARA-'",
-   "en": "Capsule-toy floor, POP @P CAPSULE -AKIHABARA-"
+   "en": "Capsule-toy floor, POP @P CAPSULE -AKIHABARA-",
+   "ja": "カプセルトイのフロア「POP @P CAPSULE -AKIHABARA-」です。"
   },
   {
    "floor": "1F",
    "ko": "캡슐토이 특화 층. UDX 쪽 입구는 애니메이트 카페 그라테+ 아키하바라 ANNEX",
-   "en": "Capsule-toy floor; the UDX-side entrance is animate Cafe Gratte+ Akihabara ANNEX"
+   "en": "Capsule-toy floor; the UDX-side entrance is animate Cafe Gratte+ Akihabara ANNEX",
+   "ja": "カプセルトイのフロアで、UDX側の入口はアニメイトカフェグラテ＋秋葉原ANNEXです。"
   },
   {
    "floor": "2F",
    "ko": "게임 작품 중심 캐릭터 굿즈",
-   "en": "Character goods, mainly game titles"
+   "en": "Character goods, mainly game titles",
+   "ja": "ゲーム作品を中心としたキャラクターグッズのフロアです。"
   },
   {
    "floor": "3F",
    "ko": "게임 작품 중심 캐릭터 굿즈",
-   "en": "Character goods, mainly game titles"
+   "en": "Character goods, mainly game titles",
+   "ja": "ゲーム作品を中心としたキャラクターグッズのフロアです。"
   },
   {
    "floor": "4F",
    "ko": "오피셜 숍·기간 한정 행사",
-   "en": "Official shops and limited-run events"
+   "en": "Official shops and limited-run events",
+   "ja": "オフィシャルショップと期間限定イベントのフロアです。"
   },
   {
    "floor": "5F",
    "ko": "오피셜 숍·기간 한정 행사",
-   "en": "Official shops and limited-run events"
+   "en": "Official shops and limited-run events",
+   "ja": "オフィシャルショップと期間限定イベントのフロアです。"
   },
   {
    "floor": "6F",
    "ko": "오피셜 숍·기간 한정 행사",
-   "en": "Official shops and limited-run events"
+   "en": "Official shops and limited-run events",
+   "ja": "オフィシャルショップと期間限定イベントのフロアです。"
   },
   {
    "floor": "7F",
    "ko": "오피셜 숍·기간 한정 행사",
-   "en": "Official shops and limited-run events"
+   "en": "Official shops and limited-run events",
+   "ja": "オフィシャルショップと期間限定イベントのフロアです。"
   }
  ],
  "location": {
@@ -119,7 +128,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "1호관·2호관은 전 요일 10:00~21:00이지만 ANNEX만 토·일·공휴일 20:00 마감. 1F UDX 쪽 애니메이트 카페 그라테+는 평일 12:00~20:00(L.O. 19:30), 토·일·공휴일 11:00~19:00(L.O. 18:30). 전화 접수 10:00~20:00.",
-   "en": "Buildings 1 and 2 run 10:00-21:00 every day, but the ANNEX closes at 20:00 on weekends and holidays. The Gratte+ cafe on the UDX side of 1F runs 12:00-20:00 on weekdays (LO 19:30) and 11:00-19:00 on weekends and holidays (LO 18:30). Phone desk 10:00-20:00."
+   "en": "Buildings 1 and 2 run 10:00-21:00 every day, but the ANNEX closes at 20:00 on weekends and holidays. The Gratte+ cafe on the UDX side of 1F runs 12:00-20:00 on weekdays (LO 19:30) and 11:00-19:00 on weekends and holidays (LO 18:30). Phone desk 10:00-20:00.",
+   "ja": "1号館と2号館は毎日10:00〜21:00ですが、ANNEXだけは土日・祝日は20:00に閉まります。1FのUDX側にあるアニメイトカフェグラテ＋は平日12:00〜20:00（L.O. 19:30）、土日・祝日11:00〜19:00（L.O. 18:30）で、電話の受付は10:00〜20:00です。"
   },
   "source_url": "https://www.animate.co.jp/shop/akihabara/"
  },
@@ -135,7 +145,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽에 파란 animate 간판 건물 세 채가 남쪽부터 2호관(서적)·1호관·ANNEX 순으로 늘어서 있고, ANNEX가 가장 북쪽(돈키호테 쪽)이다. JR 전기가 출구에서 도보 5~6분. 카페 그라테+를 이용하려면 건물 뒤 UDX 쪽 입구로 들어가야 한다.",
-  "en": "Three blue 'animate' buildings stand in a row on the east side of Chuo-dori: from the south, Building 2 (books), Building 1, then the ANNEX, which is the northernmost, towards Don Quijote. Five to six minutes from the JR Electric Town exit. For the Gratte+ cafe use the UDX-side entrance at the back."
+  "en": "Three blue 'animate' buildings stand in a row on the east side of Chuo-dori: from the south, Building 2 (books), Building 1, then the ANNEX, which is the northernmost, towards Don Quijote. Five to six minutes from the JR Electric Town exit. For the Gratte+ cafe use the UDX-side entrance at the back.",
+  "ja": "中央通りの東側に青いanimateの看板のビルが3棟並んでおり、南からアニメイト秋葉原2号館（書籍）、1号館、ANNEXの順で、ANNEXはドン・キホーテ秋葉原店寄りのいちばん北の建物です。JRの電気街口から徒歩5〜6分で、カフェのグラテ＋を利用するときは建物裏のUDX側の入口から入ります。"
  },
  "tips": {
   "ko": [
@@ -149,6 +160,12 @@
    "Floors 4-7 hold official shops and limited-run events whose line-up changes constantly; check the shop's X account (@animateakiba) before going.",
    "Tax-free is available, and credit cards, transit IC cards, PayPay, Alipay and WeChat Pay are all accepted.",
    "Manga and light novels are in Building 2 to the south; the main title-by-title goods floors are in Building 1 in the middle."
+  ],
+  "ja": [
+   "2026年8月8日のリニューアルでB1Fと1Fがカプセルトイのフロア「POP @P CAPSULE -AKIHABARA-」になり、ゲーム作品のキャラクターグッズが2F・3Fに移りました。",
+   "4〜7Fはオフィシャルショップと期間限定イベントで顔ぶれが絶えず変わるので、行く前に店舗の公式X（@animateakiba）を確認してください。",
+   "免税に対応しており、クレジットカード、交通系ICカード、PayPay、Alipay、WeChat Payがいずれも使えます。",
+   "マンガとライトノベルは南のアニメイト秋葉原2号館、作品別グッズの中心は真ん中のアニメイト秋葉原1号館です。"
   ]
  },
  "official_url": "https://www.animate.co.jp/shop/akihabara/",

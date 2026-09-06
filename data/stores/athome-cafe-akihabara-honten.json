@@ -40,7 +40,8 @@
  ],
  "one_line": {
   "ko": "메이드가 오므라이스·라테에 그림을 그려주는 5개 층 규모 메이드카페. 영어 응대 가능",
-  "en": "Maid cafe on five floors; maids draw on your omurice and latte. English service OK."
+  "en": "Maid cafe on five floors; maids draw on your omurice and latte. English service OK.",
+  "ja": "メイドがオムライスやラテに絵を描く5フロアのメイドカフェ、英語対応あり"
  },
  "building_id": null,
  "floors": [
@@ -54,27 +55,32 @@
   {
    "floor": "3F",
    "ko": "붉은 커튼 무대와 네온 간판이 있는 주황빛 홀. 카운터석이 무대를 향한다",
-   "en": "Apricot-toned room with a red-curtain stage and neon sign; counter seats face the stage"
+   "en": "Apricot-toned room with a red-curtain stage and neon sign; counter seats face the stage",
+   "ja": "赤いカーテンのステージとネオンの看板があるオレンジ色のホールで、カウンター席はステージのほうを向いています。"
   },
   {
    "floor": "4F",
    "ko": "핑크·다크브라운 체크 바닥의 밝은 핑크색 방. 긴 카운터석과 조명·스피커 설비, 발광 간판이 걸린 무대",
-   "en": "Bright pink room with a pink-and-dark-brown checkerboard floor, long counters, a lighting and speaker rig, and a lit sign over the stage"
+   "en": "Bright pink room with a pink-and-dark-brown checkerboard floor, long counters, a lighting and speaker rig, and a lit sign over the stage",
+   "ja": "ピンクとダークブラウンの市松模様の床の明るいピンク色の部屋で、長いカウンター席と照明・スピーカーの設備があり、ステージの上には光る看板が掛かっています。"
   },
   {
    "floor": "5F",
    "ko": "분홍 커튼 무대와 메이드 사진 액자 벽. 나무 카운터석과 소파 부스석",
-   "en": "Pink curtained stage and a wall of framed maid photos; wooden counters and sofa booths"
+   "en": "Pink curtained stage and a wall of framed maid photos; wooden counters and sofa booths",
+   "ja": "ピンクのカーテンのステージと、メイドの写真を額に入れて並べた壁が特徴で、木のカウンター席とソファのボックス席があります。"
   },
   {
    "floor": "6F",
    "ko": "꽃무늬 벽지와 흑백 대리석 체크 바닥의 클래식한 유럽풍 실내. 긴 카운터석과 칸막이 안쪽 부스석",
-   "en": "Classic European look: damask wallpaper and a black-and-white marble checkerboard floor, with a long counter and booths behind a lattice partition"
+   "en": "Classic European look: damask wallpaper and a black-and-white marble checkerboard floor, with a long counter and booths behind a lattice partition",
+   "ja": "花柄の壁紙と白黒の大理石の市松模様の床のクラシックなヨーロッパ風で、長いカウンター席と格子の仕切りの奥のボックス席があります。"
   },
   {
    "floor": "7F",
    "ko": "흰 벽에 금테 액자를 건 차분한 카페풍. 갈색 가죽 벤치와 작은 테이블석",
-   "en": "Calm cafe look: white walls with gilt-framed portraits, brown leather benches, small tables"
+   "en": "Calm cafe look: white walls with gilt-framed portraits, brown leather benches, small tables",
+   "ja": "白い壁に金縁の額を飾った落ち着いたカフェ風で、茶色い革のベンチと小さなテーブル席が並びます。"
   }
  ],
  "location": {
@@ -108,11 +114,13 @@
   ],
   "regular_holiday": {
    "ko": "없음 (연중무휴)",
-   "en": "None (open year-round)"
+   "en": "None (open year-round)",
+   "ja": "なし（年中無休）"
   },
   "note": {
    "ko": "라스트오더는 마감 40분 전(22:00 마감이면 21:20). 3~7층이 같은 시간대로 운영되지만 층·날짜에 따라 달라질 수 있어 공식 사이트의 '오늘의 영업시간'을 확인하는 것이 좋다. 기념일 미니이벤트가 있는 저녁에는 21:00에 마감하고 19:20부터 마지막 입장을 받는다.",
-   "en": "Last order is 40 minutes before closing (21:20 for a 22:00 close). All five floors normally share these hours, but they can differ by floor and by day, so check \"today's business hours\" on the official site. On anniversary mini-event evenings the cafe closes at 21:00 with last entry from 19:20."
+   "en": "Last order is 40 minutes before closing (21:20 for a 22:00 close). All five floors normally share these hours, but they can differ by floor and by day, so check \"today's business hours\" on the official site. On anniversary mini-event evenings the cafe closes at 21:00 with last entry from 19:20.",
+   "ja": "ラストオーダーは閉店の40分前です（22:00閉店なら21:20）。5つのフロアは通常同じ営業時間ですが、階や日によって変わることがあるので公式サイトの本日の営業時間を確認してください。記念日のミニイベントがある夜は21:00に閉店し、最終入場の受付は19:20からになります。"
   },
   "source_url": "https://www.cafe-athome.com/cafes/"
  },
@@ -128,7 +136,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 한 블록 서쪽으로 들어간 뒷골목에 있는 미츠와빌딩(ミツワビル). 슈퍼포테이토(外神田1-11-2) 바로 북쪽 건물이며 전기가 출구에서 도보 약 3분. 1층 입구로 들어가 계단으로 3~7층 중 원하는 층의 매장 입구까지 올라간 뒤, 그 입구에 있는 엔트리 기계(エントリー機)에서 순번 접수를 하고 줄을 선다. 공식 룰북상 매장 계단에 줄을 서는 것도, 건물 부지 안에 들어가는 것도 개점 15분 전부터만 가능하다.",
-  "en": "The Mitsuwa Building (ミツワビル) on the back street one block west of Chuo-dori, the building immediately north of Super Potato (Sotokanda 1-11-2), about 3 minutes from the Electric Town exit. Go in at the ground-floor entrance, take the stairs up to whichever of floors 3F-7F you want, then register at the entry machine (エントリー機) by that shop's door and queue. The rulebook allows queuing on a shop's stairs, and entering the building grounds at all, only from 15 minutes before opening."
+  "en": "The Mitsuwa Building (ミツワビル) on the back street one block west of Chuo-dori, the building immediately north of Super Potato (Sotokanda 1-11-2), about 3 minutes from the Electric Town exit. Go in at the ground-floor entrance, take the stairs up to whichever of floors 3F-7F you want, then register at the entry machine (エントリー機) by that shop's door and queue. The rulebook allows queuing on a shop's stairs, and entering the building grounds at all, only from 15 minutes before opening.",
+  "ja": "中央通りから1本西に入った裏通りにあるミツワビルで、スーパーポテト秋葉原店（外神田1-11-2）のすぐ北隣、電気街口から徒歩3分ほどです。1Fの入口から入り、3F〜7Fのうち目当ての階まで階段で上がって、その店の入口にあるエントリー機で受付をして並びます。ルールブックでは、店舗の階段に並ぶことも建物の敷地に入ることも、開店15分前からしか認められていません。"
  },
  "tips": {
   "ko": [
@@ -142,6 +151,12 @@
    "No reservation is needed, but everyone must \"entry\" (register in the queue). The free app takes entries from 1 hour before opening; the entry machine by a shop's door takes them from 15 minutes before. Once called you have 15 minutes to check in, extendable to 30 via the app or the call-status page. It is quietest from opening until around noon and from 19:00 to 21:00.",
    "You may photograph the room only if no maid is in frame, and ask a maid before photographing your food. All video and audio recording is banned. A photo together with a maid is only possible via the paid cheki (instant photo) or a combo course that includes one.",
    "Floors 3F-7F are separate shops with different maids and interiors but the same services and menu. The at-PASS (あっとパス) reservation service books the building, not a specific floor. Cash, credit cards and QR payments (PayPay, Alipay, WeChat Pay, au PAY, d Payment, Rakuten Pay) are accepted, but you cannot split one bill across two methods, and electronic money (QUICPay, iD, transit IC) ends in October 2026."
+  ],
+  "ja": [
+   "料金は入場料とメニュー代です。入場料は大人（23〜59歳）850円、19〜22歳と60歳以上600円、13〜18歳400円、12歳以下は無料で、全員が1ドリンク以上を注文するため大人なら1,570円からになります。滞在は基本1時間で、混雑で長くなっても追加料金はかかりません。",
+   "予約は必要ありませんが、全員がエントリー（順番受付）をしなければなりません。無料アプリは開店1時間前から、店の入口のエントリー機は開店15分前から受け付けます。呼び出されたら15分以内にチェックインし、アプリか呼び出し確認のページで30分まで延長できます。開店から正午ごろまでと19:00〜21:00がいちばん空いています。",
+   "店内の撮影はメイドが写り込まない場合にかぎって可能で、料理を撮るときはメイドに一声かけてください。動画と音声の録音はすべて禁止です。メイドと一緒に写る写真は、有料のチェキ（インスタント写真）かチェキの付いたコースでのみ撮れます。",
+   "3F〜7Fはそれぞれ別の店舗でメイドも内装も違いますが、サービスとメニューは同じです。予約サービスのあっとパスで予約できるのは建物までで、階は指定できません。現金、クレジットカード、QR決済（PayPay、Alipay、WeChat Pay、au PAY、d払い、楽天ペイ）が使えますが、1回の会計を2つの方法に分けることはできず、電子マネー（QUICPay・iD・交通系IC）は2026年10月で取り扱いが終わります。"
   ]
  },
  "official_url": "https://www.cafe-athome.com/",

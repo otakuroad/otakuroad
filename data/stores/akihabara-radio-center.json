@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "고가 아래 1~2층에 전자부품·무선기기 매대가 모인 부품 상가",
-  "en": "Parts market under the JR viaduct: electronic components and ham radio counters on 1F-2F"
+  "en": "Parts market under the JR viaduct: electronic components and ham radio counters on 1F-2F",
+  "ja": "高架下の1F・2Fに電子部品や無線機器の売り場が集まる部品街"
  },
  "building_id": null,
  "floors": [
@@ -36,12 +37,14 @@
   {
    "floor": "1F",
    "ko": "볼륨·콘덴서·스위치(三栄電波, 東邦無線), 변압기·전원(春日無線変圧器, 東栄変成器), 전선·배선기구(山長通商), 공구(つかさ無線), 아마추어 무선기(山本無線). 카드게임을 파는 작은 매대 カベの店도 이 층",
-   "en": "Volumes, capacitors and switches (San-ei Denpa, Toho Musen), transformers and power supplies (Kasuga Musen Henatsuki, Toei Henseiki), wire and wiring parts (Yamacho Tsusho), tools (Tsukasa Musen) and amateur radio (Yamamoto Musen). The small card-game stall Kabe no Mise is on this floor too"
+   "en": "Volumes, capacitors and switches (San-ei Denpa, Toho Musen), transformers and power supplies (Kasuga Musen Henatsuki, Toei Henseiki), wire and wiring parts (Yamacho Tsusho), tools (Tsukasa Musen) and amateur radio (Yamamoto Musen). The small card-game stall Kabe no Mise is on this floor too",
+   "ja": "ボリュームやコンデンサー、スイッチ（三栄電波、東邦無線）、変圧器や電源（春日無線変圧器、東栄変成器）、電線や配線器具（山長通商）、工具（つかさ無線）、アマチュア無線機（山本無線）が並びます。トレカを売る小さな売り場のカベの店 秋葉原地上店もこの階です"
   },
   {
    "floor": "2F",
    "ko": "일본제 라디오용·오디오용 진공관과 바리콘(池之谷ラジオ), 아마추어 무선·소전력 트랜시버(山本無線CQ-1), 레트로 가전 위탁판매 렌털 쇼케이스(山本無線E-BOX店)",
-   "en": "Japanese radio and audio vacuum tubes and variable capacitors (Ikenoya Radio), amateur radio and low-power transceivers (Yamamoto Musen CQ-1) and a rental showcase of consigned retro electronics (Yamamoto Musen E-BOX)"
+   "en": "Japanese radio and audio vacuum tubes and variable capacitors (Ikenoya Radio), amateur radio and low-power transceivers (Yamamoto Musen CQ-1) and a rental showcase of consigned retro electronics (Yamamoto Musen E-BOX)",
+   "ja": "日本製のラジオ用・オーディオ用の真空管とバリコン（池之谷ラジオ）、アマチュア無線と小電力トランシーバー（山本無線CQ-1）、レトロ家電の委託販売のレンタルショーケース（山本無線E-BOX店）があります"
   }
  ],
  "location": {
@@ -63,7 +66,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구를 나오면 바로 앞, 소부선 고가에 붙어 있는 낮은 상가 구역이다. 공식 안내도 '역을 나오면 바로 있는 라디오센터'라고 적는다. 관리사무소는 3층에 있다.",
-  "en": "Right in front of you as you leave the JR Akihabara Electric Town exit, the low arcade built against the Sobu line viaduct; the official site calls it 'the Radio Center right as you leave the station'. The management office is on 3F."
+  "en": "Right in front of you as you leave the JR Akihabara Electric Town exit, the low arcade built against the Sobu line viaduct; the official site calls it 'the Radio Center right as you leave the station'. The management office is on 3F.",
+  "ja": "JR秋葉原駅電気街口を出るとすぐ目の前、総武線の高架に沿って建つ低い商店街です。公式の案内も、駅を出てすぐのラジオセンターと書いています。管理事務所は3Fにあります。"
  },
  "tips": {
   "ko": [
@@ -75,6 +79,11 @@
    "Most counters run 10:00-18:30 and many close around 30 December to 3 January; there is no single building-wide opening time.",
    "It is a parts and radio market with no anime or game retail, though one small stall on 1F (Kabe no Mise) sells trading card games.",
    "Do not confuse it with Tokyo Radio Department Store (Sotokanda 1-10-11) or Radio Kaikan (Sotokanda 1-15-16); all three are separate buildings."
+  ],
+  "ja": [
+   "売り場の多くは10:00〜18:30の営業で、12月30日から1月3日前後は休むところが多く、建物全体で共通の営業時間の案内はありません。",
+   "電子部品と無線機器が専門なのでアニメやゲームの商品はありませんが、1Fにトレカを売る小さな売り場のカベの店 秋葉原地上店が1軒あります。",
+   "名前の似た東京ラジオデパート（外神田1-10-11）や秋葉原ラジオ会館（外神田1-15-16）と間違えやすいですが、3つはそれぞれ別の建物です。"
   ]
  },
  "official_url": "http://www.radiocenter.jp/",

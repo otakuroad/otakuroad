@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "주문제작 코스프레 의상·가발 전문 공방. 방문 상담과 채촌은 예약제",
-  "en": "Made-to-order cosplay costume and wig atelier; visits and fittings by appointment"
+  "en": "Made-to-order cosplay costume and wig atelier; visits and fittings by appointment",
+  "ja": "オーダーメイドのコスプレ衣装とウィッグの工房、来店相談と採寸は予約制"
  },
  "building_id": null,
  "floors": [
@@ -55,11 +56,13 @@
   ],
   "regular_holiday": {
    "ko": "토·일요일",
-   "en": "Saturdays and Sundays"
+   "en": "Saturdays and Sundays",
+   "ja": "土曜日・日曜日"
   },
   "note": {
    "ko": "사무실 영업시간이며 매장 진열·판매는 하지 않는다. 방문 상담은 프리미엄 코스 이용 고객만 사전 조율 후 가능하다.",
-   "en": "These are office hours; nothing is sold over the counter. Visits are a Premium-course option arranged in advance."
+   "en": "These are office hours; nothing is sold over the counter. Visits are a Premium-course option arranged in advance.",
+   "ja": "事務所の営業時間で、店頭での展示・販売は行っていません。来店しての打ち合わせはプレミアムコースを利用するお客様のみ、事前に調整したうえで可能です。"
   },
   "source_url": "https://costume-store.jp/shop"
  },
@@ -75,7 +78,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 도보 3분, JR 아키하바라역 전기가 출구에서 도보 8분. 주오도리 서쪽 뒷골목의 기요타쇼카이(清田商会) 빌딩 4층 403호이며, 1층에 매장 간판이 없는 사무실형 아틀리에다.",
-  "en": "Three minutes from Exit 3 of Suehirocho on the Ginza line, eight minutes from the JR Akihabara Electric Town Exit. Room 403 on the 4th floor of the Kiyota Shokai Building, on the back streets west of Chuo-dori - an office-style atelier with no shopfront at street level."
+  "en": "Three minutes from Exit 3 of Suehirocho on the Ginza line, eight minutes from the JR Akihabara Electric Town Exit. Room 403 on the 4th floor of the Kiyota Shokai Building, on the back streets west of Chuo-dori - an office-style atelier with no shopfront at street level.",
+  "ja": "銀座線の末広町駅3番出口から徒歩3分、JR秋葉原駅の電気街口から徒歩8分です。中央通り西側の裏通りにある清田商会ビル4Fの403号室で、1階に店舗の看板が出ていないオフィス型のアトリエです。"
  },
  "tips": {
   "ko": [
@@ -91,6 +95,13 @@
    "An in-office consultation is a Premium-course option: write 'Uchiawase kibou' in the quote form's comment box to arrange a slot. Measuring can be done on the spot, and women are measured by female staff.",
    "Credit cards (VISA, Mastercard, AMEX, JCB, Nicos), bank transfer, convenience-store payment and PayPal are accepted. Because everything is made to order, returns for change of mind are not possible.",
    "Besides costumes they also take orders for wigs and for doll outfits."
+  ],
+  "ja": [
+   "完成品を並べて売る店ではありません。無料の見積もりフォームから注文し、製作には6〜8週間かかります。",
+   "価格は一般的な衣装で80,000円から、複雑なデザインは150,000円からで、いずれも税別、送料は全国一律1,000円です。",
+   "事務所での打ち合わせはプレミアムコースのオプションなので、見積もりフォームの備考欄に「打ち合わせ希望」と書いて日程を調整してください。その場で採寸もでき、女性のお客様は女性スタッフが担当します。",
+   "支払いはクレジットカード（VISA・Master・AMEX・JCB・Nicos）、銀行振込、コンビニ決済、PayPalに対応しています。オーダーメイドのため、お客様都合の返品はできません。",
+   "衣装のほかに、ウィッグやドール（球体関節人形）の衣装のオーダーメイドも受け付けています。"
   ]
  },
  "official_url": "https://costume-store.jp/",

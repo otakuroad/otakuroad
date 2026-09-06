@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "넨도로이드·피규어와 홀로라이브·일러스트레이터 굿즈를 파는 4층 호비숍",
-  "en": "Nendoroids, figures, hololive and illustrator goods, plus capsule toys and crane games"
+  "en": "Nendoroids, figures, hololive and illustrator goods, plus capsule toys and crane games",
+  "ja": "ねんどろいど・フィギュア・ホロライブやイラストレーターグッズ、カプセルトイとクレーンゲーム"
  },
  "building_id": null,
  "floors": [
@@ -66,11 +67,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休です。"
   },
   "note": {
    "ko": "공식 점포 안내에 '연중무휴 11:00~20:00'으로만 적혀 있다. 전화 문의는 '현재 접수 중지'로 안내되어 있어 사전 확인이 어렵다.",
-   "en": "The official store page states only 'open year-round, 11:00-20:00'. Phone enquiries are listed as suspended, so calling ahead is not possible."
+   "en": "The official store page states only 'open year-round, 11:00-20:00'. Phone enquiries are listed as suspended, so calling ahead is not possible.",
+   "ja": "公式の店舗ページには年中無休11:00〜20:00とだけ記載されています。電話での問い合わせは受付停止と案内されているため、事前に電話で確かめることはできません。"
   },
   "source_url": "https://eternal-toys.com/store/"
  },
@@ -86,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 1분, JR 아키하바라역 전기가 출구에서 도보 6분(공식 안내 기준). 8층짜리 간다나카자와(神田中沢) 빌딩 4층이며, 모형점 탐탐 아키하바라점이 들어선 사카이 스에히로 빌딩 바로 옆 건물이다.",
-  "en": "One minute from Tokyo Metro Suehirocho and six minutes from the JR Akihabara Electric Town Exit, per the official site. It is 4F of the eight-storey Kanda Nakazawa Building, right beside the Sakai Suehiro Building that houses the TamTam model shop."
+  "en": "One minute from Tokyo Metro Suehirocho and six minutes from the JR Akihabara Electric Town Exit, per the official site. It is 4F of the eight-storey Kanda Nakazawa Building, right beside the Sakai Suehiro Building that houses the TamTam model shop.",
+  "ja": "公式サイトによると東京メトロの末広町駅から徒歩1分、JR秋葉原駅の電気街口から徒歩6分です。8階建ての神田中沢ビルの4Fで、ホビーショップ タムタム 秋葉原店が入る堺末広ビルのすぐ隣です。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,13 @@
    "The official page claims an area-leading selection of Nendoroids, Symphogear, hololive and illustrator goods.",
    "A capsule-toy corner, a crane-game corner and a pop-up event space share the same floor.",
    "Phone enquiries are suspended, so check stock through the mail-order site or in person."
+  ],
+  "ja": [
+   "公式サイトのお知らせでは、2026年2月7日に大規模リニューアルオープンしたと案内されています。",
+   "公式サイトは住所を外神田6-12-14と記載していますが、建物（神田中沢ビル）の実際の地番は外神田6-14-12です。地図検索はビル名で行うほうが確実です。",
+   "ねんどろいど、シンフォギア、ホロライブ、イラストレーターグッズを地域最大級に揃えていると公式ページで案内されています。",
+   "同じフロアにカプセルトイのコーナーとクレーンゲームのコーナー、ポップアップショップ用のイベントスペースが併設されています。",
+   "電話での問い合わせは受付を停止しているため、在庫の確認は通販サイトか店頭で行うことになります。"
   ]
  },
  "official_url": "https://eternal-toys.com/store/",

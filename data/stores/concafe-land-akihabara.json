@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "메이드·여자친구 두 콘셉트 부스가 있는 야간 콘카페. 40분 시간제와 음료 무제한",
-  "en": "Evening concept cafe with maid and girlfriend booths: 40-minute seat charge and drinks"
+  "en": "Evening concept cafe with maid and girlfriend booths: 40-minute seat charge and drinks",
+  "ja": "メイド・彼女の2ブースがある夜のコンカフェ。40分の時間制と飲み放題"
  },
  "building_id": null,
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open every day"
+   "en": "Open every day",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트 Access에는 '（全日）17:00〜25:00'으로 적혀 있어 실제로는 다음 날 새벽 1시에 닫지만, 표에는 24:00으로 끊어 적었다.",
-   "en": "The official Access page states 17:00-25:00 every day, i.e. closing at 1:00 the next morning; the table caps it at 24:00."
+   "en": "The official Access page states 17:00-25:00 every day, i.e. closing at 1:00 the next morning; the table caps it at 24:00.",
+   "ja": "公式サイトのAccessページには全日17:00〜25:00と記載されており、実際には翌朝1:00に閉店しますが、この表では24:00で区切って表記しています。"
   },
   "source_url": "https://concafeland.tokyo/"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 남쪽으로 도보 1분, 외신다 1-15 블록의 아키하바라 B&V 빌딩 7층. 같은 건물 10층에 메이드메이드 역앞점이 있으니 엘리베이터에서 층을 확인한다.",
-  "en": "One minute south of JR Akihabara's Electric Town Exit, on 7F of the Akihabara B&V Building in the Sotokanda 1-15 block. MAID MADE Akihabara Ekimae is on 10F of the same building, so check the floor in the lift."
+  "en": "One minute south of JR Akihabara's Electric Town Exit, on 7F of the Akihabara B&V Building in the Sotokanda 1-15 block. MAID MADE Akihabara Ekimae is on 10F of the same building, so check the floor in the lift.",
+  "ja": "JR秋葉原駅の電気街口から南へ徒歩1分、外神田1-15ブロックの秋葉原B&Vビル7Fです。同じビルの10Fには【MAID√MADE】メイドメイド 秋葉原駅前店が入っているので、エレベーターで階数を確かめてください。"
  },
  "tips": {
   "ko": [
@@ -98,6 +102,13 @@
    "One floor holds two booths - Kimidoki (idealised-girlfriend theme) and Wataoshi (maid theme) - and you pick one on arrival.",
    "There are all-you-can-drink courses and karaoke (1,000 yen), plus light dishes such as omurice and takoyaki.",
    "No payment methods are stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "料金は40分ごとの基本料金制で、カウンター席3,000円、ソファ席6,000円、延長も40分単位で同額です。指名料は1,000円です。",
+   "17:00に開店して翌朝1:00までの夜の営業なので、日中は開いていません。",
+   "同じフロアにキミドキ（理想の彼女がコンセプト）とワタオシ（メイドがコンセプト）の2つのブースがあり、入店時にどちらかを選びます。",
+   "飲み放題コースとカラオケ（1,000円）があり、オムライスやたこ焼きなどの軽い食事メニューもあります。",
+   "支払い方法についての公式な案内がないので、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://concafeland.tokyo/",

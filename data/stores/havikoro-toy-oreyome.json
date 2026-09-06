@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "미소녀 애니·게임 굿즈와 여성 성우 굿즈를 파는 하비코로 완구 매장",
-  "en": "Bishojo anime and game merch plus female voice-actor goods, from Havikoro Toy"
+  "en": "Bishojo anime and game merch plus female voice-actor goods, from Havikoro Toy",
+  "ja": "美少女アニメ・ゲームのグッズと女性声優グッズを扱うハビコロ玩具の店"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -57,7 +58,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "건물 전체 안내는 11:00~21:00이지만 3층 점포는 20:30 마감.",
-   "en": "The building lists 11:00-21:00, but the 3F shops close at 20:30."
+   "en": "The building lists 11:00-21:00, but the 3F shops close at 20:30.",
+   "ja": "建物全体の案内は11:00〜21:00ですが、3Fの店舗は20:30に閉店します。"
   },
   "source_url": "https://www.akibacultureszone.com/shop/1246"
  },
@@ -73,7 +75,8 @@
  },
  "how_to_find": {
   "ko": "1층 라신방 입구로 들어가 3층으로. 같은 층에 하비코로 완구 계열 매장이 세 곳 있으므로, 여성향 굿즈의 오토메 아키하바라점이 아니라 미소녀 캐릭터 굿즈가 걸린 쪽이 오레요메점이다.",
-  "en": "Up to 3F from the 1F Lashinbang entrance. Three Havikoro Toy shops share the floor: Oreyome is the side hung with bishojo character goods, not the Otome Akihabara shop that carries women's-market merch."
+  "en": "Up to 3F from the 1F Lashinbang entrance. Three Havikoro Toy shops share the floor: Oreyome is the side hung with bishojo character goods, not the Otome Akihabara shop that carries women's-market merch.",
+  "ja": "1Fのらしんばんの入口から入り、3Fへ上がります。同じ階にハビコロ玩具の店舗が3つあるので、女性向けグッズのオトメ秋葉原店ではなく、美少女キャラクターのグッズが並んでいる側がオレヨメ店です。"
  },
  "tips": {
   "ko": [
@@ -85,6 +88,11 @@
    "It is the men's-market counterpart to the Otome Akihabara shop on the same 3F.",
    "New arrivals are announced on X (@havikorotoy_cz4).",
    "The buyback counter takes items 11:00-19:30 and can close earlier on busy days; the shop is cash-only."
+  ],
+  "ja": [
+   "同じ3Fにある女性向けのオトメ秋葉原店と対になる、男性向けの店舗です。",
+   "入荷情報はX（@havikorotoy_cz4）で告知されます。",
+   "買取の受付は11:00〜19:30で、状況によってはそれより早く締め切られます。支払いは現金のみです。"
   ]
  },
  "official_url": "https://www.akibacultureszone.com/shop/1246",

@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "인디 록과 지하 아이돌 라이브가 거의 매일 열리는 지하 라이브하우스",
-  "en": "Basement live house running indie rock and underground idol lives almost daily"
+  "en": "Basement live house running indie rock and underground idol lives almost daily",
+  "ja": "インディーロックと地下アイドルのライブがほぼ毎日開かれる地下のライブハウス"
  },
  "building_id": null,
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "쇼와도리 동쪽, 간다강 변 간다사쿠마가시 55번지의 AS빌딩(朝風染常ビル) 지하 1층. 같은 건물 1층의 악기점 가키노이케베(楽器のイケベ) 아키하바라점이 표식이다. JR 아키하바라역 쇼와도리 출구에서 도보 5분 남짓.",
-  "en": "East of Showa-dori by the Kanda river, on B1F of the AS Building at Kanda-Sakumagashi 55. The Ikebe musical-instrument shop on the ground floor of the same building is the landmark; about five minutes from JR Akihabara's Showa-dori Exit."
+  "en": "East of Showa-dori by the Kanda river, on B1F of the AS Building at Kanda-Sakumagashi 55. The Ikebe musical-instrument shop on the ground floor of the same building is the landmark; about five minutes from JR Akihabara's Showa-dori Exit.",
+  "ja": "昭和通りの東側、神田川沿いの神田佐久間河岸55番地にあるASビルの地下1階です。同じビルの1階にある楽器のイケベ秋葉原店が目印で、JR秋葉原駅昭和通り口から徒歩5分ほどです。"
  },
  "tips": {
   "ko": [
@@ -71,6 +73,13 @@
    "2026 is the venue's 30th anniversary year, with commemorative shows running all year.",
    "Studio Goodman Akiba, a rehearsal studio, is one floor below the live house.",
    "Start times and prices differ per show, so check the official schedule page for the day."
+  ],
+  "ja": [
+   "チケット代とは別に、受付でドリンク代600円を払います。受け取ったドリンクチケットはホール内のカウンターで飲み物と交換します。",
+   "インディーロックやパンク、オルタナティブが中心ですが、地下アイドルのイベントも多く、昼公演と夜公演が別々に組まれる日もよくあります。",
+   "2026年は通算30周年にあたり、記念公演が1年を通して続きます。",
+   "同じ建物の1つ下の階には、リハーサルスタジオのスタジオグッドマンアキバがあります。",
+   "公演ごとに開演時刻と料金が違うので、公式のスケジュールページでその日の予定を確認してください。"
   ]
  },
  "official_url": "https://club.goodman2020.com/",

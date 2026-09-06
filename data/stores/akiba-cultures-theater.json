@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "지하 아이돌·성우 라이브와 낭독극이 거의 매일 열리는 B1층 전용 극장",
-  "en": "Basement theater with near-daily underground idol and voice-actor live shows"
+  "en": "Basement theater with near-daily underground idol and voice-actor live shows",
+  "ja": "地下アイドルと声優のライブがほぼ毎日開かれるB1Fの劇場"
  },
  "building_id": "akiba-cultures-zone",
  "floors": [
@@ -57,7 +58,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 안내의 10:00~23:00은 시설 운영 가능 시간이며(변경 있음), 실제 입장은 공연별 개장·개연 시간에 따른다. 일정은 akibalive.jp에서 확인.",
-   "en": "The official 10:00-23:00 is the venue's operating window (subject to change); actual entry follows each performance's door and start time, listed at akibalive.jp."
+   "en": "The official 10:00-23:00 is the venue's operating window (subject to change); actual entry follows each performance's door and start time, listed at akibalive.jp.",
+   "ja": "公式案内の10:00〜23:00は施設の運営可能時間で（変更の場合あり）、実際の入場は公演ごとの開場・開演時間に従います。日程はakibalive.jpで確認できます。"
   },
   "source_url": "https://www.akibacultureszone.com/shop/3576"
  },
@@ -73,7 +75,8 @@
  },
  "how_to_find": {
   "ko": "1층 라신방 입구로 건물에 들어가 지하 1층으로 내려가면 극장 입구. 공연이 있는 날은 개장 시간 전 건물 앞에 대기 줄이 생긴다.",
-  "en": "Enter the building at the 1F Lashinbang entrance and go down to B1F for the theater entrance. On show days a queue forms in front of the building before doors open."
+  "en": "Enter the building at the 1F Lashinbang entrance and go down to B1F for the theater entrance. On show days a queue forms in front of the building before doors open.",
+  "ja": "1Fのらしんばんの入口から建物に入り、B1Fへ降りると劇場の入口です。公演がある日は開場時間の前に建物の前に待機列ができます。"
  },
  "tips": {
   "ko": [
@@ -83,6 +86,10 @@
   "en": [
    "Most shows start in the evening (doors 18:00-18:30, start 18:30-19:00), with some daytime shows; check the day's schedule at akibalive.jp/schedule/ first.",
    "Besides idol lives, the venue hosts voice-actor events, reading plays, anime screenings and Vocaloid events."
+  ],
+  "ja": [
+   "公演の多くは夕方の開始（開場18:00〜18:30、開演18:30〜19:00）で、昼公演もありますので、まずはakibalive.jp/schedule/で当日のスケジュールを確認してください。",
+   "アイドルライブのほかに、声優イベントや朗読劇、アニメの上映会、ボーカロイドのイベントも開かれます。"
   ]
  },
  "official_url": "https://akibalive.jp/",

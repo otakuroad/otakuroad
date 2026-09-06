@@ -39,7 +39,8 @@
  ],
  "one_line": {
   "ko": "MTG·포켓몬·유희왕·듀얼마스터즈 싱글과 팩, 152석 듀얼 스페이스의 3개 층",
-  "en": "MTG, Pokemon, Yu-Gi-Oh and Duel Masters singles across three floors; 152 duel seats"
+  "en": "MTG, Pokemon, Yu-Gi-Oh and Duel Masters singles across three floors; 152 duel seats",
+  "ja": "MTG・ポケモン・遊戯王・デュエルマスターズのシングルと152席のデュエルスペース"
  },
  "building_id": null,
  "floors": [
@@ -51,17 +52,20 @@
   {
    "floor": "5F",
    "ko": "유희왕·뱅가드·버디파이트·바이스슈발츠·Re버스·듀얼마스터즈·Lycee Overture 싱글과 관련 서플라이, 24석 듀얼 스페이스",
-   "en": "Yu-Gi-Oh, Vanguard, Buddyfight, Weiss Schwarz, Re-birth, Duel Masters and Lycee Overture singles and supplies, plus a 24-seat duel space"
+   "en": "Yu-Gi-Oh, Vanguard, Buddyfight, Weiss Schwarz, Re-birth, Duel Masters and Lycee Overture singles and supplies, plus a 24-seat duel space",
+   "ja": "遊戯王・ヴァンガード・バディファイト・ヴァイスシュヴァルツ・Reバース・デュエルマスターズ・Lycee Overtureのシングルとサプライを扱い、24席のデュエルスペースがあります。"
   },
   {
    "floor": "6F",
    "ko": "매직 더 개더링·배틀 스피리츠·Z/X·파이어 엠블렘 0(사이퍼)·WIXOSS·포켓몬 카드·디지몬 카드 싱글과 관련 서플라이",
-   "en": "Magic: The Gathering, Battle Spirits, Z/X, Fire Emblem 0 Cipher, WIXOSS, Pokemon and Digimon singles and supplies"
+   "en": "Magic: The Gathering, Battle Spirits, Z/X, Fire Emblem 0 Cipher, WIXOSS, Pokemon and Digimon singles and supplies",
+   "ja": "マジック：ザ・ギャザリング、バトルスピリッツ、Z/X、ファイアーエムブレム0（サイファ）、WIXOSS、ポケモンカード、デジモンカードのシングルとサプライを扱います。"
   },
   {
    "floor": "7F",
    "ko": "128석 대형 듀얼 스페이스. 공인 대회와 이벤트가 열리는 층",
-   "en": "The big 128-seat duel space where sanctioned tournaments and events are held"
+   "en": "The big 128-seat duel space where sanctioned tournaments and events are held",
+   "ja": "公認大会やイベントが開かれる128席の大型デュエルスペースです。"
   }
  ],
  "location": {
@@ -109,7 +113,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽 뒷골목, 슈퍼포테이토·앳홈카페 본점과 같은 외신다 1-11 블록의 小暮ビル 5~7층. 엘리베이터로 5층 또는 6층에서 내려 매장에 들어가고, 7층은 대전 전용 층이다.",
-  "en": "On the back street one block west of Chuo-dori, in the Kogure Building on the same Sotokanda 1-11 block as Super Potato and the @home cafe main store. Take the elevator to 5F or 6F for the shop floors; 7F is play space only."
+  "en": "On the back street one block west of Chuo-dori, in the Kogure Building on the same Sotokanda 1-11 block as Super Potato and the @home cafe main store. Take the elevator to 5F or 6F for the shop floors; 7F is play space only.",
+  "ja": "中央通りから1本西に入った裏通りにあり、スーパーポテト秋葉原店やあっとほぉーむカフェ 秋葉原本店と同じ外神田1-11のブロックに建つ小暮ビルに入っています。売り場へはエレベーターで5階か6階に上がり、7階はプレイスペース専用のフロアです。"
  },
  "tips": {
   "ko": [
@@ -123,6 +128,12 @@
    "With 24 seats on 5F and 128 on 7F, its 152-seat play space is one of the largest in Akihabara; conditions of use vary by day, so ask at the counter.",
    "Sanctioned and unsanctioned tournaments run constantly across more than a dozen titles; on tournament days 7F fills up and the shop floors get busy.",
    "Weekdays run 12:00-21:00, but weekends and public holidays close an hour earlier at 20:00."
+  ],
+  "ja": [
+   "フロアごとに扱うタイトルが分かれており、MTG・ポケモン・デジモン・WIXOSSは6階、遊戯王・ヴァンガード・デュエルマスターズ・ヴァイスシュヴァルツは5階です。",
+   "5階24席、7階128席の合わせて152席のプレイスペースは秋葉原でも屈指の規模です。利用条件は日によって変わるのでカウンターで尋ねてください。",
+   "十数タイトルにわたって公認・非公認の大会が絶えず開かれており、大会の日は7階が埋まり売り場も混み合います。",
+   "平日は12:00〜21:00ですが、土日・祝日は1時間早い20:00に閉まります。"
   ]
  },
  "official_url": "https://amenitydream.co.jp/shop/tokyo-akihabara/",

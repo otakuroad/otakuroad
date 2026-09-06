@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "크레인 게임·리듬게임·레트로 기판을 층별로 갖춘 주오도리의 대형 오락실",
-  "en": "Six-floor arcade on Chuo-dori: crane games, rhythm games, a RETRO:G retro floor"
+  "en": "Six-floor arcade on Chuo-dori: crane games, rhythm games, a RETRO:G retro floor",
+  "ja": "クレーンゲームからリズムゲーム、RETRO:Gのレトロ基板まで揃う中央通りの6フロア型ゲームセンター"
  },
  "building_id": null,
  "floors": [
@@ -51,32 +52,38 @@
   {
    "floor": "1F",
    "ko": "크레인 게임(프라이즈)",
-   "en": "Crane and prize machines"
+   "en": "Crane and prize machines",
+   "ja": "クレーンゲーム（プライズ）のフロアです。"
   },
   {
    "floor": "2F",
    "ko": "크레인 게임(프라이즈)",
-   "en": "Crane and prize machines"
+   "en": "Crane and prize machines",
+   "ja": "クレーンゲーム（プライズ）のフロアです。"
   },
   {
    "floor": "3F",
    "ko": "크레인 게임과 콜라보 캠페인 경품",
-   "en": "Crane games and collaboration campaign prizes"
+   "en": "Crane games and collaboration campaign prizes",
+   "ja": "クレーンゲームと、コラボキャンペーンのプライズが並びます。"
   },
   {
    "floor": "4F",
    "ko": "태고의 달인 등 음악 게임",
-   "en": "Taiko no Tatsujin and other music games"
+   "en": "Taiko no Tatsujin and other music games",
+   "ja": "太鼓の達人などの音楽ゲームのフロアです。"
   },
   {
    "floor": "5F",
    "ko": "리듬게임 중심 층: maimai DX·CHUNITHM·beatmania IIDX·SOUND VOLTEX·GITADORA·jubeat·DDR WORLD",
-   "en": "The main rhythm-game floor: maimai DX, CHUNITHM, beatmania IIDX, SOUND VOLTEX, GITADORA, jubeat, DDR WORLD"
+   "en": "The main rhythm-game floor: maimai DX, CHUNITHM, beatmania IIDX, SOUND VOLTEX, GITADORA, jubeat, DDR WORLD",
+   "ja": "リズムゲーム中心のフロアで、maimai DX、CHUNITHM、beatmania IIDX、SOUND VOLTEX、GITADORA、jubeat、DDR WORLDが揃います。"
   },
   {
    "floor": "6F",
    "ko": "RETRO:G 레트로 아케이드 기판과 건슈팅·다트",
-   "en": "RETRO:G retro arcade cabinets plus gun games and darts"
+   "en": "RETRO:G retro arcade cabinets plus gun games and darts",
+   "ja": "RETRO:Gのレトロアーケード基板に加え、ガンシューティングとダーツがあります。"
   }
  ],
  "location": {
@@ -104,11 +111,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "같은 건물 7층 GiGO 콜라보 카페는 10:30-20:10(라스트오더 19:40)로 오락실과 영업시간이 다르다.",
-   "en": "The GiGO collab cafe on 7F of the same building runs 10:30-20:10 with last order at 19:40, unlike the arcade floors."
+   "en": "The GiGO collab cafe on 7F of the same building runs 10:30-20:10 with last order at 19:40, unlike the arcade floors.",
+   "ja": "同じ建物7FのGiGOコラボカフェは10:30〜20:10（ラストオーダー19:40）で、ゲームセンターのフロアとは営業時間が異なります。"
   },
   "source_url": "https://www.gigo.co.jp/shops/akihabara3"
  },
@@ -124,7 +133,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 북쪽으로 도보 3분. 오락실 HEY 바로 북쪽, 주오도리 서쪽 편에 있는 파란 GiGO 간판 건물(외신다 1초메 빌딩)이다. 뒷골목 한 블록 안쪽이 슈퍼포테이토·멜론북스.",
-  "en": "Three minutes north of the JR Akihabara Electric Town Exit along Chuo-dori. It is the blue GiGO-signed building (Sotokanda 1-chome Building) on the west side of Chuo-dori, immediately north of the Hey arcade; Super Potato and Melonbooks are one block behind it."
+  "en": "Three minutes north of the JR Akihabara Electric Town Exit along Chuo-dori. It is the blue GiGO-signed building (Sotokanda 1-chome Building) on the west side of Chuo-dori, immediately north of the Hey arcade; Super Potato and Melonbooks are one block behind it.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを北へ徒歩3分です。中央通り西側、ゲームセンターのHeyのすぐ北にある青いGiGOの看板のビル（外神田一丁目ビル）で、裏通りを一本入った先がスーパーポテト秋葉原店とメロンブックス秋葉原1号店です。"
  },
  "tips": {
   "ko": [
@@ -138,6 +148,12 @@
    "RETRO:G on 6F is a corner of vintage arcade cabinets; only Akihabara and Osaka have one.",
    "This is the only GiGO in Akihabara with music games. The big arcade card games (Eiketsu Taisen, KanColle Arcade) are at Building 5 instead.",
    "Transit IC cards, PayPay, Alipay, WeChat Pay and d-barai are accepted and there is a currency exchange machine. Direct credit-card payment is not stated officially, so bring cash or an IC card."
+  ],
+  "ja": [
+   "フロア構成は1〜3Fがクレーンゲーム、4〜5Fが音楽・リズムゲーム、6FがRETRO:Gのレトロ基板、7Fがコラボカフェです。配置はよく入れ替わるので、エレベーター横のフロア案内を確認するのがおすすめです。",
+   "6FのRETRO:Gは昔のアーケード基板を集めたコーナーで、秋葉原と大阪の2か所にしかありません。",
+   "秋葉原のGiGOで音楽ゲームがあるのはここだけです。英傑大戦や艦これアーケードなどの大型アーケードカードゲームはGiGO秋葉原5号館にあります。",
+   "交通系IC、PayPay、Alipay、WeChat Pay、d払いなどが使え、外貨両替機もあります。クレジットカードでの直接決済は公式に案内がないので、現金かICカードを用意しておくと安心です。"
   ]
  },
  "official_url": "https://www.gigo.co.jp/shops/akihabara3",

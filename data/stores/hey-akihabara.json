@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "타이토 직영 4층 오락실. 2F 슈팅·레트로·음악게임, 3F 대전격투, 4F 카드게임",
-  "en": "Taito's four-floor arcade: 2F shmups, retro and rhythm games, 3F fighting, 4F card games."
+  "en": "Taito's four-floor arcade: 2F shmups, retro and rhythm games, 3F fighting, 4F card games.",
+  "ja": "タイトー直営の4フロア型ゲームセンター、2Fシューティング・レトロ・音楽、3F対戦格闘、4Fカードゲーム"
  },
  "building_id": null,
  "floors": [
@@ -44,22 +45,26 @@
   {
    "floor": "1F",
    "ko": "크레인게임·프라이즈 코너 (주오도리 쪽 길가 입구)",
-   "en": "Crane games and prize corner (street entrance on the Chuo-dori side)"
+   "en": "Crane games and prize corner (street entrance on the Chuo-dori side)",
+   "ja": "クレーンゲーム・プライズのコーナーです（中央通り側の路面が入口）。"
   },
   {
    "floor": "2F",
    "ko": "슈팅·레트로 비디오게임 층. 다라이어스·레이 시리즈 개조 캐비닛과 음악게임 코너",
-   "en": "Shooting and retro video games: Darius and Ray series on custom Taito cabinets, plus the rhythm-game corner"
+   "en": "Shooting and retro video games: Darius and Ray series on custom Taito cabinets, plus the rhythm-game corner",
+   "ja": "シューティングとレトロのビデオゲームのフロアで、ダライアスやレイシリーズの改造筐体と音楽ゲームコーナーがあります。"
   },
   {
    "floor": "3F",
    "ko": "대전격투 중심 비디오게임 층, 퍼즐·90년대 게임",
-   "en": "Fighting-game video floor, with puzzle and 1990s games"
+   "en": "Fighting-game video floor, with puzzle and 1990s games",
+   "ja": "対戦格闘中心のビデオゲームのフロアで、パズルや1990年代のゲームもあります。"
   },
   {
    "floor": "4F",
    "ko": "키즈·온라인 카드게임(사테라이트 기기)과 드라이브·건슈팅 게임",
-   "en": "Kids and online card games on satellite cabinets, plus driving and gun-shooting games"
+   "en": "Kids and online card games on satellite cabinets, plus driving and gun-shooting games",
+   "ja": "キッズ向けとオンラインのカードゲーム（サテライト筐体）に、ドライブやガンシューティングのゲームがあります。"
   }
  ],
  "location": {
@@ -87,11 +92,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "None (open year-round)"
+   "en": "None (open year-round)",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "층별 영업시간 차이는 공지되지 않음. 일본어 공식 페이지는 23:30 마감이지만 영어 페이지에는 23:45로 남아 있으므로 마감 직전 방문은 여유를 둘 것",
-   "en": "No per-floor differences are announced. The Japanese official page says 23:30 while the English page still shows 23:45, so do not count on the last 15 minutes."
+   "en": "No per-floor differences are announced. The Japanese official page says 23:30 while the English page still shows 23:45, so do not count on the last 15 minutes.",
+   "ja": "フロアごとの営業時間の違いは告知されていません。日本語の公式ページは23:30閉店ですが、英語ページには23:45と残ったままなので、最後の15分はあてにしないでください。"
   },
   "source_url": "https://www.taito.co.jp/store/00001703"
  },
@@ -107,7 +114,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 건너 서쪽 보도를 따라 북쪽으로 도보 2분, 주황색 대형 'Hey' 간판이 붙은 건물. 지하는 멜론북스 1호점이다. 1F 크레인게임 층으로 들어가 계단이나 엘리베이터로 2~4F로 올라간다.",
-  "en": "Two minutes from the JR Akihabara Denkigai Exit: cross Chuo-dori and walk north along the west sidewalk to the building with the huge orange 'Hey' sign (Melonbooks 1st Store is in its basement). Enter on the 1F crane-game floor and take the stairs or the elevator up to 2F-4F."
+  "en": "Two minutes from the JR Akihabara Denkigai Exit: cross Chuo-dori and walk north along the west sidewalk to the building with the huge orange 'Hey' sign (Melonbooks 1st Store is in its basement). Enter on the 1F crane-game floor and take the stairs or the elevator up to 2F-4F.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを渡り、西側の歩道を北へ徒歩2分、大きなオレンジ色のHeyの看板を掲げた建物です（地下はメロンブックス秋葉原1号店）。1Fのクレーンゲームのフロアから入り、階段かエレベーターで2〜4Fへ上がります。"
  },
  "tips": {
   "ko": [
@@ -121,6 +129,12 @@
    "The 2F shmup corner's cabinet layout changes often; the official X account (@Taito_Hey) posts the changes",
    "Some cabinets on 2F-4F are Taito's live-stream units, so your play is broadcast on YouTube and Niconico",
    "Hey2, a crane-game-only second store, opened 2026-08-08 next door at 1-11-12 Sotokanda, Hirose HQ Bldg No.2 1F (10:00-23:30)"
+  ],
+  "ja": [
+   "キャッシュレス決済に対応していますが、2〜3Fのビデオゲームは100円硬貨投入式の筐体が多いので、小銭を用意してください。",
+   "2Fのシューティングコーナーの筐体配置はよく変わり、公式X（@Taito_Hey）が配置や整備の状況を告知しています。",
+   "2〜4Fの一部の筐体はタイトー公式の生放送用の配信台で、プレイ画面がYouTubeやニコニコで配信されます。",
+   "2026年8月8日、隣の建物（外神田1-11-12 廣瀬本社ビル2号館）の1Fに、クレーンゲーム専門の2号店Hey2（ヘイツー）が開店しました（10:00〜23:30）。"
   ]
  },
  "official_url": "https://www.taito.co.jp/store/00001703",

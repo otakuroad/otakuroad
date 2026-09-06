@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "해외판 정품 피규어와 이치반쿠지, 원피스·포켓몬 오리파를 파는 1층 매장",
-  "en": "Import figures, ichiban-kuji and One Piece/Pokemon oripa packs on the ground floor"
+  "en": "Import figures, ichiban-kuji and One Piece/Pokemon oripa packs on the ground floor",
+  "ja": "海外版の正規フィギュアと一番くじ、ワンピース・ポケモンのオリパを扱う1F店舗"
  },
  "building_id": null,
  "floors": [
@@ -56,7 +57,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 바로 근처, 주오도리 동쪽에 면한 마에사토(前里) 빌딩 1층. 2023년 말까지 산코 레어모노숍 2호점이 있던 자리이며, 같은 4-6번지 안쪽에 운영사 드래곤본 본사(시오타 툴 아키하바라 5F)가 있다.",
-  "en": "On the east side of Chuo-dori right by Tokyo Metro Ginza Line Suehirocho station, on the ground floor of the Maesato Building. It took over the unit that Thanko Rare Mono Shop No.2 occupied until late 2023; the operator Dragonbone's head office sits in the same 4-6 block."
+  "en": "On the east side of Chuo-dori right by Tokyo Metro Ginza Line Suehirocho station, on the ground floor of the Maesato Building. It took over the unit that Thanko Rare Mono Shop No.2 occupied until late 2023; the operator Dragonbone's head office sits in the same 4-6 block.",
+  "ja": "東京メトロ銀座線末広町駅のすぐ近く、中央通りの東側に面した前里ビルの1Fです。2023年末までサンコー レアモノショップ2号店が入っていた区画で、運営会社ドラゴンボーンの本社も同じ4-6の一角にあります。"
  },
  "tips": {
   "ko": [
@@ -68,6 +70,11 @@
    "Per the operator's official site, the No.2 branch takes buybacks on weekdays only and suspends them on weekends and holidays.",
    "It is a separate shop from the No.1 branch at Sotokanda 3-7-9 and stocks different goods.",
    "Opening hours are not published on the official site, so check the X account (@akibasenryuu) before going."
+  ],
+  "ja": [
+   "運営会社の公式サイトによると、二号店の買取受付は平日のみで、土日祝は休みです。",
+   "外神田3-7-9の1号店とは別の店舗で、取扱商品も異なります。",
+   "営業時間は公式サイトに公開されていないため、訪れる前にXのアカウント（@akibasenryuu）を確認するとよいです。"
   ]
  },
  "official_url": "https://www.dragonbone-kaitori.com/",

@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "홀로라이브·니지산지 VTuber 굿즈 신품·중고를 층마다 파는 빌딩 한 채 전문점",
-  "en": "A whole building of new and used VTuber goods: hololive, Nijisanji, VSpo, indies"
+  "en": "A whole building of new and used VTuber goods: hololive, Nijisanji, VSpo, indies",
+  "ja": "ホロライブ・にじさんじなどVTuberグッズの新品・中古をフロアごとに扱うビル1棟の専門店"
  },
  "building_id": null,
  "floors": [
@@ -51,32 +52,38 @@
   {
    "floor": "B1F",
    "ko": "매입 플로어(1회 100점까지 접수)",
-   "en": "Buyback floor (up to 100 items per visit)"
+   "en": "Buyback floor (up to 100 items per visit)",
+   "ja": "買取のフロアです。1回につき100点までお受けします。"
   },
   {
    "floor": "1F",
    "ko": "픽업 플로어: 신착·추천 상품",
-   "en": "Pick-Up floor: new arrivals and staff picks"
+   "en": "Pick-Up floor: new arrivals and staff picks",
+   "ja": "ピックアップのフロアで、新着商品やおすすめ商品を並べています。"
   },
   {
    "floor": "2F",
    "ko": "홀로라이브 플로어",
-   "en": "hololive floor"
+   "en": "hololive floor",
+   "ja": "ホロライブのフロアです。"
   },
   {
    "floor": "3F",
    "ko": "홀로라이브 플로어(픽업 특집, 의류·태피스트리 중심)",
-   "en": "hololive floor (pick-up features, apparel and tapestries)"
+   "en": "hololive floor (pick-up features, apparel and tapestries)",
+   "ja": "ホロライブのフロアで、ピックアップ特集と衣類・タペストリーが中心です。"
   },
   {
    "floor": "4F",
    "ko": "니지산지·부이스포·아오기리고교 등 VTuber 굿즈",
-   "en": "Nijisanji, VSpo, Aogiri Koukou and other VTuber goods"
+   "en": "Nijisanji, VSpo, Aogiri Koukou and other VTuber goods",
+   "ja": "にじさんじ、ぶいすぽっ！、あおぎり高校などのVTuberグッズのフロアです。"
   },
   {
    "floor": "5F",
    "ko": "이벤트 플로어: 160인치급 대형 비전을 쓰는 교류·전시 이벤트와 팝업숍",
-   "en": "Event floor: meet-ups, exhibitions and pop-up shops on a 160-inch-class screen"
+   "en": "Event floor: meet-ups, exhibitions and pop-up shops on a 160-inch-class screen",
+   "ja": "イベントのフロアです。160インチ級の大型ビジョンを使った交流・展示イベントやポップアップショップが開かれます。"
   }
  ],
  "location": {
@@ -110,11 +117,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休です。"
   },
   "note": {
    "ko": "판매 매장은 연중무휴 11:00-21:00(일요일 20:00). B1F 매입 카운터는 11:00-13:00·15:00-18:00(일요일만 17:00까지) 접수이며 매주 목요일 휴무.",
-   "en": "The shop floors run 11:00-21:00 year-round (Sundays to 20:00). The B1F buyback counter takes items 11:00-13:00 and 15:00-18:00 (to 17:00 on Sundays) and is closed every Thursday."
+   "en": "The shop floors run 11:00-21:00 year-round (Sundays to 20:00). The B1F buyback counter takes items 11:00-13:00 and 15:00-18:00 (to 17:00 on Sundays) and is closed every Thursday.",
+   "ja": "販売フロアは年中無休で11:00〜21:00（日曜は20:00まで）です。B1Fの買取カウンターは11:00〜13:00と15:00〜18:00（日曜のみ17:00まで）の受付で、毎週木曜は休みです。"
   },
   "source_url": "https://fandom-akiba.com/shop_information/fandom_akiba"
  },
@@ -130,7 +139,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 2~3분, 주오도리 한 블록 서쪽 뒷골목. 슈퍼포테이토가 든 기타바야시 빌딩 바로 북쪽에 있는 도와(東和) 빌딩 한 채가 통째로 매장이며, 지하 1층부터 5층까지 계단·엘리베이터로 올라간다.",
-  "en": "Two to three minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori. The shop is the whole Towa Building, just north of the Kitabayashi Building that houses Super Potato; floors run from B1F up to 5F by stairs or elevator."
+  "en": "Two to three minutes from the JR Akihabara Electric Town exit, on the back street one block west of Chuo-dori. The shop is the whole Towa Building, just north of the Kitabayashi Building that houses Super Potato; floors run from B1F up to 5F by stairs or elevator.",
+  "ja": "JR秋葉原駅の電気街口から徒歩2〜3分、中央通りの1本西の裏通りにあります。スーパーポテト秋葉原店が入る北林ビルのすぐ北にある東和ビル1棟がまるごと店舗で、B1Fから5Fまで階段かエレベーターで上がります。"
  },
  "tips": {
   "ko": [
@@ -144,6 +154,12 @@
    "Buyback happens only at the B1F counter and is closed on Thursdays; the sales floors stay open that day.",
    "Buyback reception splits into 11:00-13:00 and 15:00-18:00, with nothing accepted over the lunch break.",
    "5F is an event and pop-up space rather than a permanent shop floor, so it is open only during a run."
+  ],
+  "ja": [
+   "2F・3Fがホロライブ、4Fがにじさんじやぶいすぽっ！、あおぎり高校といった他の事務所に分かれているので、探している事務所に合わせて階を選ぶと早いです。",
+   "買取はB1Fの専用カウンターのみで受け付け、毎週木曜は買取が休みです。販売フロアは木曜も通常どおり営業します。",
+   "買取の受付は11:00〜13:00と15:00〜18:00の2つの時間帯に分かれていて、昼の時間帯は受け付けていません。",
+   "5Fは常設の売り場ではなくイベント・ポップアップ専用のフロアなので、開催中のみ開いています。"
   ]
  },
  "official_url": "https://fandom-akiba.com/",

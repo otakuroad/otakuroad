@@ -44,7 +44,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·유희왕·원피스 등 트레카 낱장과 팩, 80석 대전석에서 매일 공식 대회",
-  "en": "Pokemon, Yu-Gi-Oh! and One Piece singles and sealed packs, plus an 80-seat duel space"
+  "en": "Pokemon, Yu-Gi-Oh! and One Piece singles and sealed packs, plus an 80-seat duel space",
+  "ja": "ポケモン・遊戯王・ONE PIECEなどのシングルとパック、80席の対戦スペース"
  },
  "building_id": null,
  "floors": [
@@ -89,7 +90,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 13:00에야 문을 열고 21:00 마감은 토요일뿐이다. 매입 카운터는 매장보다 일찍 마감한다.",
-   "en": "Opens only at 13:00 on weekdays, and the 21:00 closing applies on Saturday only. The buy-back counter closes earlier than the shop."
+   "en": "Opens only at 13:00 on weekdays, and the 21:00 closing applies on Saturday only. The buy-back counter closes earlier than the shop.",
+   "ja": "平日は13:00にならないと開かず、21:00閉店は土曜日だけです。買取カウンターは店舗より早く受付を終えます。"
   },
   "source_url": "https://dorasuta.jp/shop/detail?scd=12"
  },
@@ -105,7 +107,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 0분. 출구를 나와 바로 앞에 보이는 BiTO AKIBA PLAZA(외신다 1-18-18) 건물로 들어가 엘리베이터로 6층까지 올라간다. 한 층 위 7층은 다른 트레카 체인 카드러시라 층을 헷갈리기 쉽다.",
-  "en": "Zero minutes from the JR Akihabara Electric Town exit. Enter BiTO AKIBA PLAZA (Sotokanda 1-18-18) directly in front of the exit and take the elevator to 6F. The 7F above is a different card chain, Card Rush, so watch the floor number."
+  "en": "Zero minutes from the JR Akihabara Electric Town exit. Enter BiTO AKIBA PLAZA (Sotokanda 1-18-18) directly in front of the exit and take the elevator to 6F. The 7F above is a different card chain, Card Rush, so watch the floor number.",
+  "ja": "JR秋葉原駅の電気街口から徒歩0分です。出口の正面に見えるBiTO AKIBA PLAZA（外神田1-18-18）に入り、エレベーターで6Fまで上がります。1つ上の7Fは別のトレカチェーンのカードラッシュなので、階数を間違えないようにしてください。"
  },
  "tips": {
   "ko": [
@@ -119,6 +122,12 @@
    "The buy-back counter shuts before the shop does (19:00 weekdays and Saturday, 18:00 Sunday and holidays), so come early if you are selling.",
    "Weekday opening is a late 13:00; for a morning visit come on Saturday, Sunday or a public holiday (10:00).",
    "Cash and credit cards (VISA and others) are accepted. Staff will not answer stock or buy-back price questions by phone."
+  ],
+  "ja": [
+   "80席の対戦スペースがあり、遊戯王・ポケモン・デュエル・マスターズ・ONE PIECEなどの公式大会がほぼ毎日開かれます。多くはTCG+やブシナビなどで開始30分前までに受付が必要です。",
+   "買取カウンターは店舗より早く閉まる（平日・土曜は19:00、日曜・祝日は18:00）ので、売るカードがあるなら早めに行ってください。",
+   "平日の開店は13:00と遅めです。午前中に行くなら10:00開店の土日祝に合わせるほうがよいでしょう。",
+   "現金のほかVISAなどのクレジットカードも使えます。在庫や買取価格は電話では答えてもらえません。"
   ]
  },
  "official_url": "https://dorasuta.jp/shop/detail?scd=12",

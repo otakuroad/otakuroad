@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 캐릭터 굿즈를 작품별 층으로 나눠 파는 애니메이트의 굿즈 전문관. B1F는 CD·BD·게임",
-  "en": "Anime and game character goods sorted by title on eight floors; CDs, BDs and games on B1F"
+  "en": "Anime and game character goods sorted by title on eight floors; CDs, BDs and games on B1F",
+  "ja": "アニメ・ゲームのキャラクターグッズを作品別に並べた8フロア、B1FはCD・BD・ゲーム"
  },
  "building_id": null,
  "floors": [
@@ -50,42 +51,50 @@
   {
    "floor": "B1F",
    "ko": "예전 발매 CD·BD·게임 소프트. AV·게임 상품 결제와 예약 수령, 애니메이트 통판 매장 수령 카운터",
-   "en": "Back-catalog CDs, Blu-rays and games; checkout and pre-order pickup for AV/games, online-shop store pickup"
+   "en": "Back-catalog CDs, Blu-rays and games; checkout and pre-order pickup for AV/games, online-shop store pickup",
+   "ja": "旧譜のCD・Blu-ray・ゲームソフトのフロアで、AV・ゲーム商品の会計と予約商品の受け取り、アニメイト通販の店舗受け取りカウンターがあります。"
   },
   {
    "floor": "1F",
    "ko": "화제작 캐릭터 굿즈와 신보 CD·BD. 굿즈 예약 수령, 각종 티켓 판매",
-   "en": "Trending-title character goods and new-release CDs/BDs; goods pre-order pickup, ticket sales"
+   "en": "Trending-title character goods and new-release CDs/BDs; goods pre-order pickup, ticket sales",
+   "ja": "話題作のキャラクターグッズと新譜のCD・BDを扱い、グッズの予約商品の受け取りと各種チケットの販売も行います。"
   },
   {
    "floor": "2F",
    "ko": "점프 작품 굿즈 (나의 히어로 아카데미아, 하이큐!!, 주술회전, 귀멸의 칼날, 원피스)",
-   "en": "Shonen Jump titles (My Hero Academia, Haikyu!!, Jujutsu Kaisen, Demon Slayer, One Piece)"
+   "en": "Shonen Jump titles (My Hero Academia, Haikyu!!, Jujutsu Kaisen, Demon Slayer, One Piece)",
+   "ja": "ジャンプ作品のフロアで、僕のヒーローアカデミア、ハイキュー!!、呪術廻戦、鬼滅の刃、ONE PIECEが並びます。"
   },
   {
    "floor": "3F",
    "ko": "프로세카 등 게임 작품, 명탐정 코난, 블루 록 굿즈. Space A la mode 코너",
-   "en": "Game titles such as Project Sekai, plus Detective Conan and Blue Lock; Space A la mode corner"
+   "en": "Game titles such as Project Sekai, plus Detective Conan and Blue Lock; Space A la mode corner",
+   "ja": "プロジェクトセカイなどのゲーム作品に加えて、名探偵コナンとブルーロックのグッズを扱い、Space A la modeのコーナーもあります。"
   },
   {
    "floor": "4F",
    "ko": "앙상블 스타즈!, 아이돌리시 세븐, 문호 스트레이독스 굿즈. 오시카츠 용품·화구·기법서",
-   "en": "Ensemble Stars!, IDOLiSH7, Bungo Stray Dogs; oshi-katsu supplies, art materials and technique books"
+   "en": "Ensemble Stars!, IDOLiSH7, Bungo Stray Dogs; oshi-katsu supplies, art materials and technique books",
+   "ja": "あんさんぶるスターズ！、アイドリッシュセブン、文豪ストレイドッグスのグッズと、推し活グッズ、画材、技法書のフロアです。"
   },
   {
    "floor": "5F",
    "ko": "VTuber, 원신, 붕괴: 스타레일, 러브라이브!, 우마무스메, 아이돌마스터 굿즈",
-   "en": "VTuber, Genshin Impact, Honkai: Star Rail, Love Live!, Uma Musume, THE iDOLM@STER goods"
+   "en": "VTuber, Genshin Impact, Honkai: Star Rail, Love Live!, Uma Musume, THE iDOLM@STER goods",
+   "ja": "VTuber、原神、崩壊：スターレイル、ラブライブ！、ウマ娘、アイドルマスターのグッズが並びます。"
   },
   {
    "floor": "6F",
    "ko": "컨셉 코너 — 블루 아카이브·벽람항로 등 Yostar 코너, 굿스마일컴퍼니 피규어 코너",
-   "en": "Concept corners: Yostar (Blue Archive, Azur Lane) and Good Smile Company figures"
+   "en": "Concept corners: Yostar (Blue Archive, Azur Lane) and Good Smile Company figures",
+   "ja": "コンセプトコーナーのフロアで、Yostar（ブルーアーカイブ、アズールレーン）とグッドスマイルカンパニーのフィギュアのコーナーがあります。"
   },
   {
    "floor": "7F",
    "ko": "이벤트 스페이스 (토크쇼·사인회)",
-   "en": "Event space (talk shows, signing events)"
+   "en": "Event space (talk shows, signing events)",
+   "ja": "イベントスペースで、トークショーやサイン会が行われます。"
   }
  ],
  "location": {
@@ -114,7 +123,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "1호관·2호관 공통 시간. ANNEX는 평일 21:00·토·일·공휴일 20:00 마감. 7F 이벤트 스페이스는 행사별 운영. 전화 접수 10:00–20:00",
-   "en": "Same hours for Buildings 1 and 2. The ANNEX closes at 21:00 on weekdays and 20:00 on weekends and holidays. 7F event space runs per event. Phone desk 10:00–20:00"
+   "en": "Same hours for Buildings 1 and 2. The ANNEX closes at 21:00 on weekdays and 20:00 on weekends and holidays. 7F event space runs per event. Phone desk 10:00–20:00",
+   "ja": "1号館と2号館は同じ営業時間です。ANNEXは平日21:00、土日・祝日20:00に閉まり、7Fのイベントスペースは催しごとの運営、電話の受付は10:00〜20:00です。"
   },
   "source_url": "https://www.animate.co.jp/shop/akihabara/"
  },
@@ -130,7 +140,8 @@
  },
  "how_to_find": {
   "ko": "전기가 출구에서 주오도리로 나와 북쪽(스에히로초 방향)으로 약 5분, 빅카메라를 지나 길 동쪽에 파란 animate 간판 건물 세 채가 나란히 있음. 남쪽부터 2호관(서적)·1호관·ANNEX 순으로 가운데가 1호관이며, 돈키호테(AKB48 극장)에서 남쪽으로 두어 건물 거리.",
-  "en": "From the Electric Town exit, reach Chuo-dori and walk north about 5 minutes past Bic Camera; three blue 'animate' buildings stand in a row on the east side. From the south: 2nd Building (books), 1st Building, ANNEX — the 1st Building is the middle one, a couple of doors south of Don Quijote (AKB48 Theater)."
+  "en": "From the Electric Town exit, reach Chuo-dori and walk north about 5 minutes past Bic Camera; three blue 'animate' buildings stand in a row on the east side. From the south: 2nd Building (books), 1st Building, ANNEX — the 1st Building is the middle one, a couple of doors south of Don Quijote (AKB48 Theater).",
+  "ja": "電気街口から中央通りに出て北へ5分ほど、ビックカメラAKIBAを過ぎると、通りの東側に青いanimateの看板のビルが3棟並んでいます。南から順にアニメイト秋葉原2号館（書籍）、1号館、ANNEXで、1号館は真ん中の建物、ドン・キホーテ秋葉原店（AKB48劇場）から南へ2軒ほどのところです。"
  },
  "tips": {
   "ko": [
@@ -144,6 +155,12 @@
    "Manga, light novels and art books are in the 2nd Building just to the south; capsule toys, game-title goods, only-shops and pop-up events are in the ANNEX to the north (B1F-7F)",
    "Pre-ordered goods are picked up on 1F; CD/BD/game pre-orders and animate online-shop store pickup are at the B1F counter",
    "7F events (signings, talk shows) each have their own entry rules — check the official X account (@animateakiba) first"
+  ],
+  "ja": [
+   "免税に対応しています（パスポートをお持ちください）。クレジットカード、交通系ICカード、PayPay、Alipay、WeChat Payがいずれも使えます。",
+   "マンガ・ライトノベル・画集はすぐ南のアニメイト秋葉原2号館、カプセルトイやゲーム作品のグッズ、オンリーショップ、期間限定イベントは北のアニメイト秋葉原ANNEX（B1F〜7F）です。",
+   "グッズの予約商品の受け取りは1F、CD・BD・ゲームの予約とアニメイト通販の店舗受け取りはB1Fのカウンターです。",
+   "7Fのイベント（サイン会、トークショー）は催しごとに参加条件が違うので、まず公式X（@animateakiba）を確認してください。"
   ]
  },
  "official_url": "https://www.animate.co.jp/shop/akihabara/",

@@ -38,7 +38,8 @@
  ],
  "one_line": {
   "ko": "유희왕·듀얼마스터즈·포켓몬 등 중고 싱글카드와 부스터팩·구축덱·서플라이",
-  "en": "Used TCG singles plus boosters, decks and supplies for Yu-Gi-Oh, Duel Masters and Pokemon"
+  "en": "Used TCG singles plus boosters, decks and supplies for Yu-Gi-Oh, Duel Masters and Pokemon",
+  "ja": "遊戯王、デュエル・マスターズ、ポケモンなどの中古シングルとパック、構築済みデッキ、サプライ"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -67,11 +68,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休です。"
   },
   "note": {
    "ko": "공식 안내는 '朝10時-夜8時 年中無休'. 라디오회관 건물 영업시간과 같다.",
-   "en": "The official page states 10:00-20:00, open year-round, matching the Radio Kaikan building hours."
+   "en": "The official page states 10:00-20:00, open year-round, matching the Radio Kaikan building hours.",
+   "ja": "公式の案内は10:00〜20:00、年中無休です。ラジオ会館の建物の営業時間と同じです。"
   },
   "source_url": "https://fullcomp.jp/radiokaikan/access/"
  },
@@ -87,7 +90,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 9F. 엘리베이터에서 내리면 카드라보 본점·BIG MAGIC과 같은 층이며, 풀콤프는 그중 중고 싱글 진열대가 늘어선 구획이다.",
-  "en": "On 9F of Radio Kaikan. Step off the elevator and the floor is shared with Card Labo's main store and BIG MAGIC; Fullcomp is the section lined with used-singles cases."
+  "en": "On 9F of Radio Kaikan. Step off the elevator and the floor is shared with Card Labo's main store and BIG MAGIC; Fullcomp is the section lined with used-singles cases.",
+  "ja": "ラジオ会館の9Fです。エレベーターを降りるとカードラボ 秋葉原ラジオ会館本店やBIG MAGIC 秋葉原店と同じフロアで、フルコンプはそのうち中古シングルのケースが並ぶ一角です。"
  },
  "tips": {
   "ko": [
@@ -99,6 +103,11 @@
    "The Radio Kaikan branch of a used-TCG chain with 18 shops nationwide: used singles are the core, while supplies, packs and pre-built decks are new. The chain runs a separate Fullcomp Akihabara shop elsewhere in the district, so do not confuse the two.",
    "Sharing 9F with Card Labo's main store and BIG MAGIC makes it easy to compare prices for the same card across three shops.",
    "Some map data lists it on 10F, but the official floor guide places it on 9F."
+  ],
+  "ja": [
+   "全国18店舗を持つ中古トレカチェーンのラジオ会館店で、中古シングルが主力、サプライやパック、構築済みデッキは新品です。同じチェーンがフルコンプ秋葉原店を別に構えているので、混同しないでください。",
+   "9Fの1つのフロアにカードラボ 秋葉原ラジオ会館本店とBIG MAGIC 秋葉原店が一緒にあるので、同じカードの相場を3店ですぐ見比べられます。",
+   "一部の地図データでは10Fと表記されていますが、公式のフロアガイドでは9Fが正しいです。"
   ]
  },
  "official_url": "https://fullcomp.jp/radiokaikan/access/",

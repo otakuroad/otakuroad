@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "일러스트레이터 기시다 메루 프로듀스 콘셉트 카페. 홍차·음료와 캐스트 체키",
-  "en": "Concept cafe by illustrator Mel Kishida: tea, drinks and cheki photos with the cast"
+  "en": "Concept cafe by illustrator Mel Kishida: tea, drinks and cheki photos with the cast",
+  "ja": "イラストレーター岸田メルプロデュースのコンセプトカフェ。紅茶やドリンク、キャストとのチェキ"
  },
  "building_id": null,
  "floors": [
@@ -69,7 +70,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "금요일·토요일과 공휴일 전날은 실제로 다음 날 05:00까지 영업하지만 표에는 24:00으로 끊어 표기했다. 일요일~목요일과 공휴일 당일은 23:00 마감. 정기 휴일은 공식 안내에 명시되어 있지 않다.",
-   "en": "Friday, Saturday and the eve of a public holiday actually run until 05:00 the next morning; the table caps them at 24:00. Sunday to Thursday and public holidays themselves close at 23:00. No regular closing day is stated officially."
+   "en": "Friday, Saturday and the eve of a public holiday actually run until 05:00 the next morning; the table caps them at 24:00. Sunday to Thursday and public holidays themselves close at 23:00. No regular closing day is stated officially.",
+   "ja": "金曜日・土曜日と祝前日は実際には翌朝5:00まで営業しますが、表では24:00で区切って表記しています。日曜日〜木曜日と祝日当日は23:00閉店です。定休日は公式には明示されていません。"
   },
   "source_url": "https://ring-o.co.jp/business/cafe/idoly"
  },
@@ -85,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 약 6분. 주오도리를 건너 AKIBA 컬처즈존을 지난 뒤 메이드카페 프라페코(フラペコ) 간판에서 좌회전, 곧바로 우회전하면 나오는 아키하바라 센터빌딩. 1층이 스테이크하우스 히어로즈(HERO'S)인 건물이며, 계단으로 2층에 올라가 문을 열면 된다. 같은 건물 3층은 계열점 노이지크(neusick).",
-  "en": "About six minutes from JR Akihabara's Electric Town Exit: cross Chuo-dori, pass AKIBA Cultures Zone, turn left at the Frapeco sign and then immediately right. The Akihabara Center Building is the one with the HERO'S steakhouse on 1F; take the stairs up to 2F. Its sister shop neusick is on 3F of the same building."
+  "en": "About six minutes from JR Akihabara's Electric Town Exit: cross Chuo-dori, pass AKIBA Cultures Zone, turn left at the Frapeco sign and then immediately right. The Akihabara Center Building is the one with the HERO'S steakhouse on 1F; take the stairs up to 2F. Its sister shop neusick is on 3F of the same building.",
+  "ja": "JR秋葉原駅の電気街口から徒歩約6分で、中央通りを渡ってAKIBAカルチャーズZONEを過ぎ、フラペコの看板のところを左折してすぐ右に曲がったところにある秋葉原センタービルです。1Fがステーキハウスのヒーローズ（HERO'S）の建物で、階段で2Fに上がります。同じビルの3Fは系列店のneusickです。"
  },
  "tips": {
   "ko": [
@@ -101,6 +104,13 @@
    "Fridays, Saturdays and the eve of a public holiday run until 05:00 the next morning; Sunday to Thursday and holidays close at 23:00.",
    "Cash, credit cards and PayPay are accepted. There are only about 15 seats, mostly at the counter, so it fills up easily.",
    "It has no character gimmick - plain black-and-white long-skirt uniforms - and is one of the few concept cafes open from midday, so it is often suggested as a first one to try."
+  ],
+  "ja": [
+   "12:00-17:00のランチタイムはチャージ料金がかかりません。17:00以降は60分800円、その後は30分ごとに400円の自動延長で、女性は半額、18歳以下は無料です（2026年2月の訪問記による）。",
+   "チャージ＋ドリンク1杯（600円〜）＋アミューズメント（チェキなど1,000円〜）の注文制で、最低2,640円からです。キャストにお酒をおごるキャストドリンクはありません。",
+   "金曜日・土曜日と祝前日は翌朝5:00まで、日曜日〜木曜日と祝日は23:00まで営業します。",
+   "現金のほかクレジットカードとPayPayが使えます。席は15席ほどでカウンター席が中心のため、満席になりやすいです。",
+   "特定のキャラクター設定はなく、白黒のロングスカートの制服を使う正統派のコンセプトカフェで、昼から開く数少ない店なのでコンカフェ入門としてよく勧められます。"
   ]
  },
  "official_url": "https://ring-o.co.jp/business/cafe/idoly",

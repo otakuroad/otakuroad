@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "MTG·플레시앤블러드 신품과 중고 싱글, D&D 상품, 유료 대전 공간",
-  "en": "Magic: The Gathering and Flesh and Blood singles, D&D goods, paid play space"
+  "en": "Magic: The Gathering and Flesh and Blood singles, D&D goods, paid play space",
+  "ja": "マジック：ザ・ギャザリングとフレッシュアンドブラッドのシングル、D&D商品、有料プレイスペース"
  },
  "building_id": null,
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "수요일 휴무",
-   "en": "Closed Wednesdays"
+   "en": "Closed Wednesdays",
+   "ja": "水曜定休"
   },
   "note": {
    "ko": "공식 사이트와 공식 X 모두 수요일 정기휴무를 명시한다. OSM·구글 등에는 수요일 휴무가 빠진 정보가 남아 있다.",
-   "en": "Both the official site and the shop's X state the Wednesday closure; OSM and Google still list it without one."
+   "en": "Both the official site and the shop's X state the Wednesday closure; OSM and Google still list it without one.",
+   "ja": "公式サイトと店の公式Xのどちらにも水曜定休と明記されています。OSMやGoogleなどには定休日が抜けたままの情報が残っています。"
   },
   "source_url": "https://azumayamtg.com/help/about"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "소토칸다 1-6-3 쿠마가이 빌딩 3층. 1층에 레일마이스터·카드랜드가 든 외신다(外神田) 빌딩 바로 옆 블록이며, 건물 안 계단이나 엘리베이터로 3층까지 올라간다.",
-  "en": "3F of the Kumagai Building at Sotokanda 1-6-3, on the block beside the Sotokanda Building that holds Rail Meister and Card Land; go inside and up to 3F."
+  "en": "3F of the Kumagai Building at Sotokanda 1-6-3, on the block beside the Sotokanda Building that holds Rail Meister and Card Land; go inside and up to 3F.",
+  "ja": "外神田1-6-3の熊谷ビル3Fです。1階に鉄道模型専門店レールマイスターとカードランド秋葉原店が入る外神田ビルのすぐ隣のブロックで、建物に入って階段かエレベーターで3階まで上がります。"
  },
  "tips": {
   "ko": [
@@ -103,6 +107,12 @@
    "MTG runs from Standard through Modern, Pioneer, Legacy and Commander, with high-value cards kept separately.",
    "The play space is paid (a purchase or a seat fee), and D&D events run about once a month.",
    "Closed on Wednesdays; on other weekdays it stays open until 22:00."
+  ],
+  "ja": [
+   "秋葉原でフレッシュアンドブラッドを店頭で買える数少ないお店の一つです。",
+   "MTGはスタンダードからモダン、パイオニア、レガシー、統率者戦まで扱っており、高額カードは別に保管されています。",
+   "プレイスペースは有料で、商品の購入か席料が必要です。D&Dのイベントは月に1回ほど開かれます。",
+   "水曜日は定休日で、それ以外の平日は22:00まで営業しています。"
   ]
  },
  "official_url": "https://azumayamtg.com/",

@@ -37,7 +37,8 @@
  ],
  "one_line": {
   "ko": "동방 프로젝트·원신·스타레일 캐릭터 피규어와 음악 CD·서적·캡슐토이 매장",
-  "en": "Touhou, Genshin Impact and Star Rail figures, music CDs, books and capsule toys"
+  "en": "Touhou, Genshin Impact and Star Rail figures, music CDs, books and capsule toys",
+  "ja": "東方Project・原神・スターレイルのフィギュアと音楽CD・書籍・カプセルトイの店"
  },
  "building_id": "senju-building-7",
  "floors": [
@@ -66,11 +67,13 @@
   ],
   "regular_holiday": {
    "ko": "정기 휴일 없음",
-   "en": "No regular closing day"
+   "en": "No regular closing day",
+   "ja": "定休日なし"
   },
   "note": {
    "ko": "영업시간은 매달 공식 통판 사이트의 점포 안내 페이지에 이미지로 다시 게시된다. 임시 시간 변경과 휴점은 X(@AKIBA_HOBBY1)와 구글 지도에 공지된다.",
-   "en": "The hours are re-posted as an image on the official shop-info page each month; temporary changes and closures are announced on X (@AKIBA_HOBBY1) and Google Maps."
+   "en": "The hours are re-posted as an image on the official shop-info page each month; temporary changes and closures are announced on X (@AKIBA_HOBBY1) and Google Maps.",
+   "ja": "営業時間は毎月、公式通販サイトの店舗案内ページに画像で改めて掲載されます。臨時の時間変更や休業はX（@AKIBA_HOBBY1）とGoogleマップで告知されます。"
   },
   "source_url": "https://shop.akbh.jp/pages/shop-akihabara-info"
  },
@@ -86,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽, 소토칸다 3-14-6 게이코(恵光) 빌딩 6층. 같은 건물 지하 1층이 리버티 1호점이고, 옆 신스에히로 빌딩에는 레트로 게임 캠프가 있다. 1층 입구에서 엘리베이터로 최상층인 6층까지 올라간다.",
-  "en": "West of Chuo-dori in the Keiko Building at Sotokanda 3-14-6, on the top (6th) floor. Liberty No.1 is in the same building's basement and Retro Game Camp is in the Shin-Suehiro Building next door. Take the lift from the ground-floor entrance to 6F."
+  "en": "West of Chuo-dori in the Keiko Building at Sotokanda 3-14-6, on the top (6th) floor. Liberty No.1 is in the same building's basement and Retro Game Camp is in the Shin-Suehiro Building next door. Take the lift from the ground-floor entrance to 6F.",
+  "ja": "中央通りの西側、外神田3-14-6の恵光ビル最上階の6Fです。同じビルのB1Fにはリバティー 秋葉原1号店、隣の新末広ビルにはレトロげーむキャンプ秋葉原店があります。1Fの入口からエレベーターで6Fまで上がります。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,12 @@
    "Photos are allowed if other customers and staff are not in frame; ask a member of staff before filming video, and live streaming is not permitted.",
    "The 300 and 400 yen capsule-toy line-up is refreshed regularly on the official shop-info page.",
    "The main akbh.jp domain blocks overseas visitors, so use the shop-info page on the shop.akbh.jp store instead."
+  ],
+  "ja": [
+   "東方Projectのグッズが最も多く、原神や崩壊：スターレイル、アークナイツ、NIKKE、ドールズフロントライン、アイカツ、アイマス、VTuberの商品もあわせて扱っています。",
+   "店内の写真撮影はできますが、ほかのお客様やスタッフが写らないようにする必要があり、動画撮影は先にスタッフへ声をかけてください。ライブ配信は禁止です。",
+   "300円・400円のカプセルトイのラインナップは、公式の店舗案内ページで随時更新されています。",
+   "本ドメインのakbh.jpは海外からのアクセスを遮断しているため、通販サイトshop.akbh.jpの店舗案内を見るとよいです。"
   ]
  },
  "official_url": "https://shop.akbh.jp/pages/shop-akihabara-info",

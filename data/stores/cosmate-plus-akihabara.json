@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "세일러복·스쿨수영복·레오타드·메이드복 등 코스튬 전문점. S~5L 큰 사이즈까지 취급",
-  "en": "Costume shop for sailor suits, school swimsuits, leotards and maid wear, sizes S to 5L"
+  "en": "Costume shop for sailor suits, school swimsuits, leotards and maid wear, sizes S to 5L",
+  "ja": "セーラー服・スクール水着・レオタード・メイド服のコスチューム専門店、S〜5Lまで"
  },
  "building_id": null,
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 공지가 '각 요일 모두 11시부터 20시까지'로 안내하며, 2022년 10월 15일 연장된 시간이고 자매점 발키리&프티슈와 공통이다. 연말연시에는 단축 영업하고, 통신판매 문의 접수는 폐점 30분 전까지다. 전화 접수 시간은 12:00-19:00으로 따로 표기된다.",
-   "en": "The official notice gives 11:00-20:00 on every day of the week - the extended hours in force since 2022-10-15, shared with the sister shop Walkure & Petitche. The new-year period runs shortened hours and mail-order enquiries close 30 minutes before the shop does. The phone desk is listed separately as 12:00-19:00."
+   "en": "The official notice gives 11:00-20:00 on every day of the week - the extended hours in force since 2022-10-15, shared with the sister shop Walkure & Petitche. The new-year period runs shortened hours and mail-order enquiries close 30 minutes before the shop does. The phone desk is listed separately as 12:00-19:00.",
+   "ja": "公式のお知らせでは各曜日とも11:00〜20:00で、2022年10月15日に延長された時間であり、姉妹店Walkure & Petitcheと共通です。年末年始は短縮営業となり、通信販売の問い合わせ受付は閉店の30分前までです。電話の受付時間は12:00〜19:00と別に表記されています。"
   },
   "source_url": "https://www.cosplus.jp/new/2018-01-05-171948.html"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "공식 안내로 JR 아키하바라역 전기가 출구에서 도보 3~4분, 오차노미즈역에서 5~6분. 주오도리 서쪽 뒷골목의 노미즈(野水)빌딩 5층으로, 같은 건물 1층에서는 매장이 보이지 않으니 층수를 확인하고 올라갈 것.",
-  "en": "The shop states three to four minutes from JR Akihabara's Electric Town Exit and five to six from Ochanomizu. It is on the fifth floor of the Nomizu Building on the back streets west of Chuo-dori, invisible from street level, so go up by floor number."
+  "en": "The shop states three to four minutes from JR Akihabara's Electric Town Exit and five to six from Ochanomizu. It is on the fifth floor of the Nomizu Building on the back streets west of Chuo-dori, invisible from street level, so go up by floor number.",
+  "ja": "公式の案内ではJR秋葉原駅の電気街口から徒歩3〜4分、御茶ノ水駅からは5〜6分です。中央通り西側の裏通りにある野水ビルの5Fで、路上からは店舗が見えないので階数を頼りに上がってください。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,12 @@
    "The company's sister shop Walkure & Petitche in Akihabara does not admit under-18s or high-school students.",
    "A stamp card usable at both physical shops is issued free of charge.",
    "The official notice states 11:00-20:00 every day of the week and that the shop is open year-round; only the new-year period is shortened, and phone enquiries are taken 12:00-19:00 only."
+  ],
+  "ja": [
+   "公式サイトでは実物を見て買える実店舗であることを強調しています。ネット掲載商品の一部は受注品なので、店頭在庫は問い合わせてください。",
+   "同じ会社の姉妹店Walkure & Petitche秋葉原は、18歳未満と高校生は入店できません。",
+   "2つの実店舗で共通して使えるスタンプカードを無料で発行しています。",
+   "公式のお知らせでは営業時間は各曜日とも11:00〜20:00、年中無休と明記されています。ただし年末年始は短縮営業で、電話での問い合わせは12:00〜19:00のみ受け付けます。"
   ]
  },
  "official_url": "https://www.cosplus.jp/",

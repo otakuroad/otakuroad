@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "캡슐토이 기계 약 500대가 한 층에 빼곡한 가챠 전문점. 절판 구작부터 이달 신작까지",
-  "en": "Some 500 capsule-toy machines on one floor, from old series to this month's releases."
+  "en": "Some 500 capsule-toy machines on one floor, from old series to this month's releases.",
+  "ja": "カプセルトイの機械が約500台並ぶ1フロアのガチャ専門店、絶版の旧作から今月の新作まで"
  },
  "building_id": "mn-building",
  "floors": [
@@ -64,11 +65,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(치요다구 관광협회 자료에는 1월 1일만 휴무로 표기)",
-   "en": "Open every day (the Chiyoda tourism listing notes a 1 January closure)"
+   "en": "Open every day (the Chiyoda tourism listing notes a 1 January closure)",
+   "ja": "年中無休（千代田区観光協会の資料では1月1日のみ休みと表記）"
   },
   "note": {
    "ko": "토요일도 평일과 같은 20:00 마감이고 19:00 마감은 일요일·공휴일뿐. 공식 페이지는 '평일 / 일·공휴일'만 구분하므로 토요일 20:00은 GOOD LUCK TRIP과 Gacha Post(2026-08-08 갱신) 기준. 임시 변경은 공식 X에 공지된다.",
-   "en": "Saturday closes at 20:00 like weekdays; only Sundays and public holidays close at 19:00. The official page splits its hours into 平日 / 日祝日 only, so the Saturday time comes from GOOD LUCK TRIP and Gacha Post (updated 2026-08-08). Temporary changes are posted on the official X account."
+   "en": "Saturday closes at 20:00 like weekdays; only Sundays and public holidays close at 19:00. The official page splits its hours into 平日 / 日祝日 only, so the Saturday time comes from GOOD LUCK TRIP and Gacha Post (updated 2026-08-08). Temporary changes are posted on the official X account.",
+   "ja": "土曜日も平日と同じ20:00閉店で、19:00閉店は日曜・祝日だけです。公式ページは平日と日祝日しか区別していないため、土曜日の20:00はGOOD LUCK TRIPとGacha Post（2026年8月8日更新）によります。臨時の変更は公式Xで告知されます。"
   },
   "source_url": "https://www.akibagacha.com/"
  },
@@ -84,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구로 나와 주오도리 서쪽 보도를 따라 남쪽으로 약 90m 내려가 첫 번째 오른쪽(서쪽) 일방통행 골목으로 들어간다. 골목 약 20m 앞 왼편(남쪽) MN빌딩 1층으로, 길에서도 캡슐 기계가 보이고 'ガチャポン会館' 간판이 걸려 있다.",
-  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south along the west sidewalk of Chuo-dori and turn right into the first narrow one-way side street. The shop is about 20 m in on the left (south) side, ground floor of the MN Building, with capsule machines visible from the lane under the ガチャポン会館 sign."
+  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south along the west sidewalk of Chuo-dori and turn right into the first narrow one-way side street. The shop is about 20 m in on the left (south) side, ground floor of the MN Building, with capsule machines visible from the lane under the ガチャポン会館 sign.",
+  "ja": "銀座線末広町駅3番出口を出て中央通りの西側の歩道を南へ約90m下り、最初の細い一方通行の路地を右（西）へ入ります。路地に約20m入った左（南）側のMNビルの1Fで、路地からもカプセルトイの機械が見え、ガチャポン会館の看板が出ています。"
  },
  "tips": {
   "ko": [
@@ -98,6 +102,12 @@
    "The monthly arrival list (今月のスケジュール) on the official site is refreshed every month - last updated 1 September 2026 - so you can check release dates before you go.",
    "Past the machines at the back there is a figure sales corner, and the shop periodically runs a sticker draw that pays out free plays or prizes.",
    "Saturdays close at 20:00 and Sundays and public holidays at 19:00; Suehirocho exit 3 is about 2 minutes away versus roughly 7 from JR Akihabara's Electric Town exit, so it works well as the last stop of a walk north along Chuo-dori."
+  ],
+  "ja": [
+   "機械は現金（硬貨）専用で1回100〜500円です。カードは使えず、店内の両替機は1,000円札しか受け付けませんので、硬貨と千円札を用意しておきます。",
+   "公式サイトの今月のスケジュール（入荷予定表）が毎月更新されるので（最終更新は2026年9月1日）、目当てのシリーズの入荷日を事前に確認できます。",
+   "店の奥にはカプセルトイのほかにフィギュアの販売コーナーがあり、当たりのシールが出ると無料券や景品がもらえるイベントも随時開かれます。",
+   "土曜日は20:00、日曜・祝日は19:00に閉まります。末広町駅3番出口から徒歩約2分と、JRの電気街口からの約7分よりも近いので、中央通りを北へたどった最後に寄るのに向いています。"
   ]
  },
  "official_url": "https://www.akibagacha.com/",

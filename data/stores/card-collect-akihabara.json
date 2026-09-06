@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "포켓몬카드 싱글·PSA 감정품·미개봉 박스를 사고파는 지하 매입 특화 점포",
-  "en": "Pokemon card singles, PSA-graded cards and sealed boxes, bought and sold on B1F"
+  "en": "Pokemon card singles, PSA-graded cards and sealed boxes, bought and sold on B1F",
+  "ja": "ポケモンカードのシングルやPSA鑑定品、未開封BOXを売買するB1Fの買取特化店"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "영업시간은 매장 공식 X 계정(@cardcollect_CK) 프로필과 게시글 기준. 체인 공식 사이트 점포 페이지에는 시간 표기가 없고, 요일별 차이도 안내되지 않는다.",
-   "en": "Hours as stated on the shop's own X account (@cardcollect_CK), in its profile and its daily posts; the chain's store page gives no hours, and no day-by-day variation is announced."
+   "en": "Hours as stated on the shop's own X account (@cardcollect_CK), in its profile and its daily posts; the chain's store page gives no hours, and no day-by-day variation is announced.",
+   "ja": "営業時間は店舗の公式Xアカウント（@cardcollect_CK）のプロフィールと日々の投稿に書かれているものです。チェーンの店舗ページには時間の表記がなく、曜日ごとの違いも案内されていません。"
   },
   "source_url": "https://x.com/cardcollect_CK"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 지하 1층 트레카모올 안의 부스. 정면 입구 안쪽 계단·에스컬레이터로 지하로 내려간다.",
-  "en": "A booth in the B1F Toreca Mall of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store); go down the stairs or escalator just inside the main entrance."
+  "en": "A booth in the B1F Toreca Mall of the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store); go down the stairs or escalator just inside the main entrance.",
+  "ja": "万世橋交差点の角にある青いビル（エディオンAKIBA・ラオックス 秋葉原本店）のB1F、トレカモール内のブースです。正面入口を入ってすぐの階段かエスカレーターで地下に下ります。"
  },
  "tips": {
   "ko": [
@@ -89,6 +92,12 @@
    "Open 12:00-19:30. The chain's store page gives no hours at all - the times appear only on the shop's X account (@cardcollect_CK), in its profile and its daily opening posts, so check there before going.",
    "The shop's X account is now @cardcollect_CK. Do not confuse it with @cardcollect_, which is the separate main store at Sotokanda 4-5-5 Akiba Mitakikan 1F, due to pre-open in late September 2026.",
    "The chain's second Akihabara shop (HANARE, @cardcollect_HNR) is a different place about six minutes' walk from the station, open 12:00-20:00."
+  ],
+  "ja": [
+   "PSA鑑定品や旧裏面のヴィンテージのポケモンカード、未開封BOXの買取に強い店で、その場での現金払いと宅配買取の両方を行っています。",
+   "営業時間は12:00-19:30です。チェーンの店舗ページには時間の記載が一切なく、店舗のX（@cardcollect_CK）のプロフィールと毎日の営業案内の投稿にしか出ていないので、訪れる前に確認してください。",
+   "この店舗のXアカウントは@cardcollect_CKに変わりました。@cardcollect_は外神田4-5-5のAkiba Mitakikan 1階に2026年9月下旬プレオープン予定の本店のアカウントなので、混同しないでください。",
+   "同じチェーンの秋葉原2店舗目のカードコレクト秋葉原 -HANARE-（@cardcollect_HNR）は、駅から徒歩6分ほどの別の場所にあり、12:00-20:00の営業です。"
   ]
  },
  "official_url": "https://cardcollect.jp/",

@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·유희왕 싱글 카드와 24석 무료 듀얼 스페이스",
-  "en": "Pokemon, One Piece and Yu-Gi-Oh singles with a free 24-seat duel space"
+  "en": "Pokemon, One Piece and Yu-Gi-Oh singles with a free 24-seat duel space",
+  "ja": "ポケカ・ワンピース・遊戯王のシングルと無料デュエルスペース24席"
  },
  "building_id": "mn-building",
  "floors": [
@@ -86,7 +87,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 약 90m, 첫 번째 오른쪽 일방통행 골목으로 들어가면 왼편에 1층이 가챠폰 회관인 MN빌딩이 있다. 캡슐 기계 옆 건물 입구로 들어가 3층으로 올라간다. JR 아키하바라역에서는 도보 약 5분.",
-  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south on the west side of Chuo-dori and turn right into the first narrow one-way lane; the MN Building, with the Gachapon Kaikan capsule hall on its ground floor, is on the left. Enter beside the capsule machines and go up to 3F. About 5 minutes from JR Akihabara."
+  "en": "From Ginza-line Suehirocho Station exit 3, walk about 90 m south on the west side of Chuo-dori and turn right into the first narrow one-way lane; the MN Building, with the Gachapon Kaikan capsule hall on its ground floor, is on the left. Enter beside the capsule machines and go up to 3F. About 5 minutes from JR Akihabara.",
+  "ja": "銀座線末広町駅3番出口から中央通りの西側歩道を南へ約90m進み、最初の右手の一方通行の路地に入ると、左側に1階が秋葉原ガチャポン会館のMNビルがあります。カプセル機の横の建物入口から入って3階へ上がります。JR秋葉原駅からは徒歩約5分です。"
  },
  "tips": {
   "ko": [
@@ -100,6 +102,12 @@
    "It is a registered Pokemon Card Gym, so sanctioned tournaments are held here, and the 24-seat duel space is free to use.",
    "Hours from the shop's own X profile are 12:00-20:00 on weekdays, 11:00-20:00 on Saturday and 11:00-19:00 on Sunday and public holidays. The buyback counter shuts earlier than the shop - some days at 18:00, announced that morning - so come early if you are selling.",
    "Tradia on 4F and Torecabirth on 6F of the same MN Building let you compare prices without leaving the building."
+  ],
+  "ja": [
+   "2025年5月末にこのビルの3階へ移転してきた店舗です。3階は2024年12月22日に閉店したトレカONEの跡地なので、古い地図やディレクトリの表記にはご注意ください。",
+   "ポケモンカード公式の「ポケモンカードジム」登録店で、公認大会が開かれます。デュエルスペース24席は無料で利用できます。",
+   "営業時間は店の公式Xのプロフィール記載で平日12:00-20:00、土曜11:00-20:00、日曜・祝日11:00-19:00です。買取の受付は閉店より早く終わり、当日の告知で18:00までという日もあるので、売りに行くなら早めがおすすめです。",
+   "同じMNビルの4階にトレーディア、6階にトレカバースがあり、階を移るだけで相場を比べられます。"
   ]
  },
  "official_url": "https://www.climax-card.jp/",

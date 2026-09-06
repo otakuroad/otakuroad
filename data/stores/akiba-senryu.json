@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "애니 캐릭터 상품·피규어를 뽑는 쿠지(제비뽑기) 매장. 포켓몬 카드·프라모델도 취급",
-  "en": "Kuji draw shop for anime character prizes and figures; also Pokemon cards and model kits"
+  "en": "Kuji draw shop for anime character prizes and figures; also Pokemon cards and model kits",
+  "ja": "アニメキャラの景品やフィギュアが当たるくじの店、ポケモンカードやプラモデルも"
  },
  "building_id": null,
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "구라마에바시도리(蔵前橋通り)를 따라 주오도리에서 서쪽으로 약 100m, 스에히로초역과 간다묘진 사이 구간에 있는 맨션 '산뷰 소토칸다'(サンビュー外神田) 1층. 긴자선 스에히로초역에서 도보 3분.",
-  "en": "On Kuramaebashi-dori about 100 m west of Chuo-dori, between Suehirocho station and Kanda Myojin, on the ground floor of the Sun View Sotokanda (サンビュー外神田) apartment building. Three minutes from Suehirocho station on the Ginza line."
+  "en": "On Kuramaebashi-dori about 100 m west of Chuo-dori, between Suehirocho station and Kanda Myojin, on the ground floor of the Sun View Sotokanda (サンビュー外神田) apartment building. Three minutes from Suehirocho station on the Ginza line.",
+  "ja": "蔵前橋通りを中央通りから西へ約100m、末広町駅と神田明神の間の区間にあるマンション、サンビュー外神田の1Fです。銀座線末広町駅から徒歩3分です。"
  },
  "tips": {
   "ko": [
@@ -65,6 +67,10 @@
   "en": [
    "The operator Dragonbone's official site still lists the No.1 branch at Sotokanda 3-7-9 1F (page updated 2026-09-05) and gives buyback reception as 11:00-13:00, open year-round; it never publishes the shop's selling hours, so check before going.",
    "The shop of the same name at Sotokanda 4-6-3 (Maesato Building) across Chuo-dori is not a duplicate listing but the company's separate No.2 branch; this record is the 3-7-9 No.1 shop."
+  ],
+  "ja": [
+   "運営会社ドラゴンボーンの公式サイトは1号店を外神田3-7-9の1Fとして掲載し続けており（2026年9月5日更新）、買取受付は11:00〜13:00で年中無休と案内しています。ただし販売側の営業時間はどこにも公開されていないため、訪れる前に確認が必要です。",
+   "中央通りを渡った外神田4-6-3（前里ビル）にある同じ名前の店舗は重複ではなく、同じ会社の別店舗である二号店です。この記録は3-7-9の1号店を指します。"
   ]
  },
  "official_url": "https://www.dragonbone-kaitori.com/",

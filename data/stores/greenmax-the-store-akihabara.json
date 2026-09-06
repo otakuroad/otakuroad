@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "그린맥스 N게이지 철도모형 키트와 보수용 파츠, 개러지 메이커 부품을 파는 파츠 전문점",
-  "en": "Greenmax N-gauge railway model kits, replacement parts and garage-maker detail parts"
+  "en": "Greenmax N-gauge railway model kits, replacement parts and garage-maker detail parts",
+  "ja": "グリーンマックスのNゲージ鉄道模型キットと補修パーツ、ガレージメーカー製パーツの専門店"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일은 12:00에 열고 20:00에 닫으며, 토·일·공휴일은 11:00-19:00으로 더 일찍 열고 일찍 닫는다. 재고 조사 등 임시 휴업은 공식 X(@cp_pps_akiba)에 공지된다.",
-   "en": "Opens at 12:00 and closes at 20:00 on weekdays; on weekends and public holidays it is 11:00-19:00. Temporary closures such as stocktaking are posted on X (@cp_pps_akiba)."
+   "en": "Opens at 12:00 and closes at 20:00 on weekdays; on weekends and public holidays it is 11:00-19:00. Temporary closures such as stocktaking are posted on X (@cp_pps_akiba).",
+   "ja": "平日は12:00に開いて20:00に閉まり、土日祝は11:00〜19:00です。棚卸などの臨時休業は公式X（@cp_pps_akiba）で告知されます。"
   },
   "source_url": "https://www.gm-store.co.jp/Shops/store_akiba.shtml"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "모델스 이몬이 있는 우치다 빌딩(内田ビル)의 5층. JR 아키하바라역 전기가 출구에서 주오도리를 건너 소부선 고가를 따라 서쪽으로 도보 3~5분, 1층에 하마다전자(浜田電子)와 나사 가게 네지노니시카와(ネジの西川)가 있는 빌딩이다. 두 가게 사이에 입구가 있고, 3층 이몬·MONTA와 헷갈리기 쉬우니 엘리베이터에서 5층 버튼을 누른다.",
-  "en": "On 5F of the same Uchida Building as Models IMON. From JR Akihabara's Electric Town exit, cross Chuo-dori and follow the Sobu-line viaduct west for 3-5 minutes to the building whose ground floor holds the parts shop Hamada Denshi and the screw shop Neji no Nishikawa; the entrance is between the two. Press 5 in the lift - Models IMON and MONTA on 3F are easy to confuse with it."
+  "en": "On 5F of the same Uchida Building as Models IMON. From JR Akihabara's Electric Town exit, cross Chuo-dori and follow the Sobu-line viaduct west for 3-5 minutes to the building whose ground floor holds the parts shop Hamada Denshi and the screw shop Neji no Nishikawa; the entrance is between the two. Press 5 in the lift - Models IMON and MONTA on 3F are easy to confuse with it.",
+  "ja": "Models IMON 秋葉原店が入る内田ビルの5Fです。JR秋葉原駅の電気街口から中央通りを渡り、総武線の高架沿いに西へ徒歩3〜5分、1階にパーツ店の浜田電子とネジの西川があるビルで、入口はその2軒の間にあります。3FのModels IMON 秋葉原店やMONTAと間違えやすいので、エレベーターでは5階のボタンを押してください。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "It opens late on weekdays (12:00) and closes at 19:00 on weekends and holidays, so check the time before going.",
    "Credit cards including NICOS, JCB, AMEX, Diners, VISA and Mastercard are accepted.",
    "Combine it with Models IMON and MONTA on 3F of the same building to cover new, used and parts in one stop."
+  ],
+  "ja": [
+   "グリーンマックス製品の補修パーツはもちろん、ガレージメーカーのパーツも幅広く扱う工作派向けの店で、秋葉原店限定の商品もあります。",
+   "平日は12:00と開店が遅く、土日祝は19:00に閉まるので、訪問時間を確認してから行くとよいです。",
+   "クレジットカードはNICOS、JCB、AMEX、ダイナース、VISA、Mastercardなどが使えます。",
+   "同じ建物3FのModels IMON 秋葉原店とMONTAをあわせて回ると、新品・中古・パーツを一度に見られます。"
   ]
  },
  "official_url": "https://www.gm-store.co.jp/Shops/store_akiba.shtml",

@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "카드 오리파(랜덤 팩) 뽑기와 매입을 하는 지하 매장, 휴대폰 가게 모바일헤드 안",
-  "en": "Oripa random-pack card draws and buyback, in the basement Mobile Head phone shop"
+  "en": "Oripa random-pack card draws and buyback, in the basement Mobile Head phone shop",
+  "ja": "携帯ショップのモバイルヘッドの中にある、オリパくじと買取の地下店"
  },
  "building_id": null,
  "floors": [
@@ -53,7 +54,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 뒷골목, 스루가야 아키하바라 본관 바로 북쪽 옆 건물의 지하 1층. 독립 점포가 아니라 휴대폰 매장 모바일헤드(モバイルヘッド) 안에 들어선 오리파 코너이므로, 간판이 아니라 모바일헤드 입구를 찾아 지하로 내려간다. 만다라케 컴플렉스에서 같은 골목을 북쪽으로 약 50m.",
-  "en": "On the back street west of Chuo-dori, in the basement of the building immediately north of Surugaya Akihabara Honkan. It is not a standalone shop but an oripa counter inside the Mobile Head (モバイルヘッド) phone store, so look for the Mobile Head entrance and go down to B1 rather than for its own sign. About 50 m north of Mandarake Complex along the same street."
+  "en": "On the back street west of Chuo-dori, in the basement of the building immediately north of Surugaya Akihabara Honkan. It is not a standalone shop but an oripa counter inside the Mobile Head (モバイルヘッド) phone store, so look for the Mobile Head entrance and go down to B1 rather than for its own sign. About 50 m north of Mandarake Complex along the same street.",
+  "ja": "中央通りの西側の裏通り、駿河屋 秋葉原本館のすぐ北隣のビルのB1Fです。独立した店舗ではなく携帯ショップのモバイルヘッドの中に入っているオリパのコーナーなので、看板ではなくモバイルヘッドの入口を探して地下へ下ります。まんだらけコンプレックスから同じ通りを北へ約50mです。"
  },
  "tips": {
   "ko": [
@@ -65,6 +67,11 @@
    "There is no official website; announcements appear only on X (@garaponsanta). No official hours or holidays are published, so check before going.",
    "A specialist trading-card directory lists 11:00-24:00 with irregular closures, but that is not an official source - do not rely on it.",
    "The business is oripa (random-pack) draws rather than singles racks, and there is no duel space; a buyback counter is available."
+  ],
+  "ja": [
+   "公式ホームページはなく、告知はX（@garaponsanta）でしか出ません。営業時間や休みの公式の案内がないため、行く前の確認が必要です。",
+   "トレカ専門のディレクトリには11:00〜24:00・不定休と載っていますが、公式の情報ではないのでそのまま信じないでください。",
+   "シングルカードの棚ではなくオリパ（ランダムパック）くじが中心で、デュエルスペースはありません。買取カウンターはあります。"
   ]
  },
  "official_url": null,

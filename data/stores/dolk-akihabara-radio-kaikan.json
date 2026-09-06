@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "유리 쇼케이스에 약 150체. 국내외 구체관절인형 본체와 돌 용품 전문점",
-  "en": "Ball-jointed dolls: about 150 Japanese and imported BJDs in cases, plus heads and outfits"
+  "en": "Ball-jointed dolls: about 150 Japanese and imported BJDs in cases, plus heads and outfits",
+  "ja": "ガラスケースに約150体、国内外の球体関節人形とヘッド・衣装の専門店"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -60,11 +61,13 @@
   ],
   "regular_holiday": {
    "ko": "연말연시를 제외하고 연중무휴",
-   "en": "Open year-round except the New Year period"
+   "en": "Open year-round except the New Year period",
+   "ja": "年末年始を除き年中無休"
   },
   "note": {
    "ko": "건물은 10:00 개관이지만 매장은 12:00 오픈. 태풍·연말연시 같은 임시 변경은 매장 X(@DDollstock)에 올라온다",
-   "en": "The building opens at 10:00 but the shop opens at 12:00; temporary changes such as typhoons and the New Year period are posted on the shop's X account @DDollstock"
+   "en": "The building opens at 10:00 but the shop opens at 12:00; temporary changes such as typhoons and the New Year period are posted on the shop's X account @DDollstock",
+   "ja": "建物は10:00開館ですが、店舗は12:00オープンです。台風や年末年始などの臨時の変更は店舗のX（@DDollstock）に掲載されます。"
   },
   "source_url": "https://dolk.jp/portal/generic/radiohall"
  },
@@ -80,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 7F 돌 층, 아존 레이블숍 옆의 작은 매장. 문 번호는 702이고 사면 유리 쇼케이스에 돌이 늘어서 있어 밖에서 바로 알아볼 수 있다.",
-  "en": "A small unit (room 702) on the 7F doll floor next to Azone Label Shop; the glass showcases lined with dolls on all four walls make it easy to spot."
+  "en": "A small unit (room 702) on the 7F doll floor next to Azone Label Shop; the glass showcases lined with dolls on all four walls make it easy to spot.",
+  "ja": "ラジオ会館7Fのドールフロア、アゾンレーベルショップ秋葉原の隣にある小さな店舗です。部屋番号は702で、四面のガラスケースにドールが並んでいるため外からすぐ見分けられます。"
  },
  "tips": {
   "ko": [
@@ -92,6 +96,11 @@
    "It opens at 12:00, later than the building's 10:00; on the same floor Treca Park AKIBA (10:00) and Azone Label Shop (11:00) open earlier.",
    "DOLK Tokyo Main Store in Kanda-Sudacho is a separate shop with different stock, so check which branch has the doll you want.",
    "The line-up is built around the dolls themselves, so wigs, eyes and outfits are fewer here than at the main store."
+  ],
+  "ja": [
+   "12:00開店で、10:00に開く建物より遅い時間です。同じフロアではふるいちトレカパークAKIBAラジ館店（10:00）とアゾンレーベルショップ秋葉原（11:00）が先に開きます。",
+   "神田須田町のDOLK 東京店は別の店舗です。在庫や取扱ブランドが違うので、目当ての商品があるときはどちらの店舗かを確認してください。",
+   "ドール本体が中心の構成なので、ウィッグやアイ、衣装などの用品の種類は本店より少なめです。"
   ]
  },
  "official_url": "https://dolk.jp/portal/generic/radiohall",

@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "아니송·J-POP DJ 이벤트와 라이브가 열리는 2층 라이브하우스 겸 클럽",
-  "en": "Second-floor live house and club for anisong and J-POP DJ nights and live shows"
+  "en": "Second-floor live house and club for anisong and J-POP DJ nights and live shows",
+  "ja": "アニソン・J-POPのDJイベントやライブが開かれる2階のライブハウス＆クラブ"
  },
  "building_id": "boxr-akiba-building",
  "floors": [
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 안내의 12:00~22:00은 시설 운영 시간이며 이벤트마다 개장·개연 시간이 다르다. 당일 일정은 공식 사이트 스케줄 페이지에서 확인.",
-   "en": "The official 12:00-22:00 is the venue's operating window; door and start times differ per event, so check the schedule page on the official site."
+   "en": "The official 12:00-22:00 is the venue's operating window; door and start times differ per event, so check the schedule page on the official site.",
+   "ja": "公式に案内されている12:00〜22:00は施設の運営時間で、開場・開演の時刻はイベントごとに異なります。当日の予定は公式サイトのスケジュールページで確認してください。"
   },
   "source_url": "https://anthemakiba.com/"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 6분, 긴자선 스에히로초역 3번 출구에서 도보 6분. 주오도리 서쪽 뒷골목의 BOX'R AKIBA 빌딩 2층이며, 같은 건물 지하 1층은 TwinBox AKIHABARA, 1층은 TwinBox GARAGE라 층을 확인하고 올라간다.",
-  "en": "Six minutes from the JR Akihabara Electric Town exit, or six minutes from exit 3 of Suehirocho on the Ginza line. It is 2F of the BOX'R AKIBA building on the back street west of Chuo-dori; TwinBox AKIHABARA is in the basement and TwinBox GARAGE on 1F of the same building, so check the floor."
+  "en": "Six minutes from the JR Akihabara Electric Town exit, or six minutes from exit 3 of Suehirocho on the Ginza line. It is 2F of the BOX'R AKIBA building on the back street west of Chuo-dori; TwinBox AKIHABARA is in the basement and TwinBox GARAGE on 1F of the same building, so check the floor.",
+  "ja": "JR秋葉原駅の電気街口から徒歩6分、銀座線末広町駅の3番出口からも徒歩6分です。中央通りの西側の裏通りにあるBox'R AKIBAビルの2Fで、同じ建物の地下1階はTwinBox AKIHABARA、1FはTwinBox GARAGEなので、フロアを確かめて上がってください。"
  },
  "tips": {
   "ko": [
@@ -89,6 +92,12 @@
    "Photo ID is checked at the door, and under-18s cannot enter after 22:00 under Tokyo regulations.",
    "A 7 m by 2 m LED wall behind the stage gives DJ and anime-club nights heavy visuals.",
    "The room is also rented out, so the programme changes daily; check the schedule to see whether it is an anisong DJ night or a band show."
+  ],
+  "ja": [
+   "入場時に全員ドリンク代700円が別にかかります。ドリンク代に電子マネーは使えず、再入場はできますがそのたびにドリンク代がかかります。",
+   "入口で写真付きの身分証による年齢確認があり、東京都の条例により22:00以降は18歳未満は入場できません。",
+   "ステージの後ろに横7m×縦2mのLEDウォールがあり、DJやアニクラのイベントは映像演出が大がかりです。",
+   "貸切にも使われる箱なので日によって内容が変わります。アニソンDJのイベントなのかバンドのライブなのか、スケジュールで確かめてください。"
   ]
  },
  "official_url": "https://anthemakiba.com/",

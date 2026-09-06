@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "듀얼마스터즈 전문점. 플레이용 싱글부터 구프레임·초기 카드까지 취급",
-  "en": "Duel Masters specialist: play-grade singles, old-frame cards and deck oripa"
+  "en": "Duel Masters specialist: play-grade singles, old-frame cards and deck oripa",
+  "ja": "デュエル・マスターズ専門店、プレイ用シングルから旧枠カード、デッキオリパまで"
  },
  "building_id": null,
  "floors": [
@@ -74,7 +75,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수 시간도 영업시간과 같다. 옛 점포(외신다 3-5-1 에트랑제18 3층)의 시간표가 아직 일부 사이트에 남아 있으니 주의.",
-   "en": "Buying is accepted during the same hours. Some sites still show the timetable of the old store at 3-5-1 Sotokanda (Etranger 18, 3F)."
+   "en": "Buying is accepted during the same hours. Some sites still show the timetable of the old store at 3-5-1 Sotokanda (Etranger 18, 3F).",
+   "ja": "買取の受付時間も営業時間と同じです。旧店舗（外神田3-5-1、エトランゼ18秋葉原3階）の時間表がまだ一部のサイトに残っているのでご注意ください。"
   },
   "source_url": "https://www.nemcard.com/view/page/shop"
  },
@@ -90,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "주오도리를 따라 아키하바라 UDX 맞은편, 돈키호테 아키하바라점에서 남쪽으로 한 구획 내려간 니포 아키바 프론트 빌딩 3층. 같은 건물 1층은 드래곤스타 매입센터, 4층은 카드숍 돈!돈!이다. JR 아키하바라역·긴자선 스에히로초역 양쪽에서 도보 4분.",
-  "en": "On the 3F of the NIPPO Akiba Front building on Chuo-dori across from Akihabara UDX, one plot south of Don Quijote Akihabara. Dragon Star's buying centre is on 1F and Card Shop Don!Don! on 4F. Four minutes from either JR Akihabara or Ginza-line Suehirocho."
+  "en": "On the 3F of the NIPPO Akiba Front building on Chuo-dori across from Akihabara UDX, one plot south of Don Quijote Akihabara. Dragon Star's buying centre is on 1F and Card Shop Don!Don! on 4F. Four minutes from either JR Akihabara or Ginza-line Suehirocho.",
+  "ja": "中央通り沿い、秋葉原UDXの向かい側で、ドン・キホーテ秋葉原店から南へ一区画下った日宝アキバフロントビルの3階です。同じビルの1階はドラゴンスター秋葉原買取センター、4階はCard Shop Don!Don!です。JR秋葉原駅からも銀座線末広町駅からも徒歩4分です。"
  },
  "tips": {
   "ko": [
@@ -102,6 +105,11 @@
    "The older store at 3-5-1 Sotokanda (Etranger 18, 3F) has been merged into this one, so ignore listings pointing there.",
    "It stocks Duel Masters only - no other trading card games.",
    "There is no duel space here; play and tournaments happen at the chain's Chiba store, per the official FAQ."
+  ],
+  "ja": [
+   "旧店舗だった外神田3-5-1、エトランゼ18秋葉原3階の売り場はこの駅前店に統合されたので、古い案内を見て向かわないようご注意ください。",
+   "扱うのはデュエル・マスターズだけで、ほかのトレカはありません。",
+   "秋葉原店にはデュエルスペースがなく、対戦や大会は千葉店で開かれると公式のFAQに書かれています。"
   ]
  },
  "official_url": "https://www.nemcard.com/",

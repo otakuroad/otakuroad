@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "애니 피규어와 포켓몬·원피스 카드, 건프라를 파는 중고 중심 소형 호비숍",
-  "en": "Small hobby shop for anime figures, Pokemon and One Piece cards and Gunpla, mostly used"
+  "en": "Small hobby shop for anime figures, Pokemon and One Piece cards and Gunpla, mostly used",
+  "ja": "中古中心でアニメフィギュアやポケモン・ワンピースのカード、ガンプラを扱う小さなホビーショップ"
  },
  "building_id": null,
  "floors": [
@@ -63,11 +64,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular closing days"
+   "en": "Irregular closing days",
+   "ja": "不定休"
   },
   "note": {
    "ko": "가게 공식 인스타그램 프로필에 '1:00PM – 8:00PM'이라고 요일 구분 없이 한 줄만 적혀 있어 그대로 옮겼다. 공식 온라인 스토어의 특정상거래법 표기에는 '営業時間：10:00−22:00 / 定休日：不定休'로 나오지만 이는 통신판매 기준이고 자세한 것은 X와 인스타그램을 보라고 안내한다. 2026년 1월에는 11:00~20:00으로 알려진 적이 있고 구글·여행 사이트에는 아직 11:00이나 12:00 개점으로 남아 있으니 방문 전 공식 SNS를 확인한다.",
-   "en": "The shop's own Instagram profile gives a single line, '1:00PM - 8:00PM', with no split by day, and that is what is recorded here. The 特定商取引法 page of its official online store instead lists 10:00-22:00 with irregular closures, but that is the mail-order entry and it tells you to check X and Instagram. An 11:00-20:00 window was reported in January 2026 and Google and travel sites still show an 11:00 or 12:00 opening, so check the official SNS before going."
+   "en": "The shop's own Instagram profile gives a single line, '1:00PM - 8:00PM', with no split by day, and that is what is recorded here. The 特定商取引法 page of its official online store instead lists 10:00-22:00 with irregular closures, but that is the mail-order entry and it tells you to check X and Instagram. An 11:00-20:00 window was reported in January 2026 and Google and travel sites still show an 11:00 or 12:00 opening, so check the official SNS before going.",
+   "ja": "店の公式Instagramのプロフィールには曜日の区別なく1:00PM–8:00PMという1行だけが書かれており、ここではそれをそのまま記載しています。公式オンラインストアの特定商取引法に基づく表記では営業時間10:00-22:00・定休日は不定休となっていますが、これは通信販売についてのもので、詳しくはXとInstagramを確認するよう案内されています。2026年1月には11:00-20:00と伝えられたこともあり、Googleや旅行サイトには今も11:00や12:00開店と残っているため、訪問前に公式SNSで確認してください。"
   },
   "source_url": "https://www.instagram.com/hobby_anko_akihabara/"
  },
@@ -83,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 3분, JR 아키하바라역에서 도보 6분. 주오도리에서 한 블록 동쪽, 1971년에 지어진 5층짜리 KKT 아키하바라 빌딩의 1층 노면 점포다.",
-  "en": "Three minutes from Suehirocho station on the Ginza line and six from JR Akihabara. A street-level unit on the ground floor of the five-storey KKT Akihabara Building, one block east of Chuo-dori."
+  "en": "Three minutes from Suehirocho station on the Ginza line and six from JR Akihabara. A street-level unit on the ground floor of the five-storey KKT Akihabara Building, one block east of Chuo-dori.",
+  "ja": "銀座線の末広町駅から徒歩3分、JR秋葉原駅からは徒歩6分です。中央通りから1本東に入った、5階建てのKKT秋葉原ビル1Fの路面店舗です。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,11 @@
    "A small shop that pre-opened on 13 December 2025, so stock turns over fast; new arrivals are posted on its X and Instagram.",
    "It holds a second-hand dealer licence and buys items in, and carries deep stock of One Piece figures and 3D 'bonbon drop' stickers.",
    "Tax-free and card acceptance are not stated anywhere official, so bring cash to be safe."
+  ],
+  "ja": [
+   "2025年12月13日にプレオープンしたばかりの小さな店で、在庫の回転が速く、入荷情報は公式XとInstagramで告知されます。",
+   "古物商許可を持つ中古取扱店で買取も行っており、ワンピースのフィギュアや立体シール（ボンボンドロップ）の在庫が厚いのが特徴です。",
+   "免税やカード決済については公式な案内がないため、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://online.emeraude.shop/",

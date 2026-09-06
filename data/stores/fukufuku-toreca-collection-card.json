@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "유희왕·포켓몬 컬렉션 카드 싱글과 미개봉 구판 팩을 파는 1층 매장",
-  "en": "Yu-Gi-Oh! and Pokemon collector card singles and sealed old packs, on the ground floor"
+  "en": "Yu-Gi-Oh! and Pokemon collector card singles and sealed old packs, on the ground floor",
+  "ja": "遊戯王・ポケモンのコレクションカードのシングルと未開封の旧パックを扱う1F店"
  },
  "building_id": "kambayashi-building",
  "floors": [
@@ -66,7 +67,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 점포 페이지에 정기휴일 표기가 없다. 매입 접수는 폐점 1시간 전쯤 마감되는 것으로 안내된다.",
-   "en": "The official store page lists no regular closing day. Buyback reception is reported to stop about an hour before closing."
+   "en": "The official store page lists no regular closing day. Buyback reception is reported to stop about an hour before closing.",
+   "ja": "公式の店舗ページには定休日の記載がありません。買取の受付は閉店の1時間ほど前に締め切られると案内されています。"
   },
   "source_url": "https://fukufukutoreka.com/description_detail_collection_shop"
  },
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 왼쪽으로 나와 막다른 곳에서 오른쪽, 첫 신호를 건넌 뒤 마츠모토키요시와 세가 사이 골목으로 들어가 첫 모퉁이에서 오른쪽. 직진하면 왼편, 코토부키야 아키하바라관 바로 북쪽 신린(神林)빌딩 1층 길가 매장이다.",
-  "en": "From the JR Akihabara Electric Town Exit go left, right at the end of the passage, cross the first signal and walk between Matsumoto Kiyoshi and Sega, then right at the first corner. It is on your left at street level in the Kambayashi Building, immediately north of Kotobukiya Akihabara."
+  "en": "From the JR Akihabara Electric Town Exit go left, right at the end of the passage, cross the first signal and walk between Matsumoto Kiyoshi and Sega, then right at the first corner. It is on your left at street level in the Kambayashi Building, immediately north of Kotobukiya Akihabara.",
+  "ja": "JR秋葉原駅の電気街口を出て左へ、突き当たりを右に曲がり、最初の信号を渡ってマツモトキヨシとセガの間の道に入り、最初の角を右に曲がります。まっすぐ進むと左手、コトブキヤ秋葉原館のすぐ北にある神林ビルの1Fの路面店です。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,11 @@
    "The same chain runs a separate Yu-Gi-Oh! collection store on 4F of the same building: 1F for Pokemon, 4F for high-end Yu-Gi-Oh!.",
    "Weekdays open at 13:00, three hours later than the 10:00 weekend and holiday opening.",
    "Payment methods and tax-free status are not stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "同じ神林ビルの4Fには、同じチェーンの遊戯王コレクション専門店が別にあります。ポケモンカードなら1F、高額な遊戯王カードなら4Fです。",
+   "平日は13:00開店で、土日祝の10:00より3時間遅くなります。",
+   "決済手段や免税の対応は公式の案内がないため、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://fukufukutoreka.com/description_detail_collection_shop",

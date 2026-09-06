@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "AKB48 멤버가 상시 공연하는 250명 규모 전용 극장. 티켓은 사전 온라인 추첨제",
-  "en": "AKB48's own 250-capacity theater with regular shows; tickets by online lottery."
+  "en": "AKB48's own 250-capacity theater with regular shows; tickets by online lottery.",
+  "ja": "AKB48メンバーが常時公演する250人規模の専用劇場、チケットは事前オンライン抽選制"
  },
  "building_id": "don-quijote-akihabara",
  "floors": [
@@ -52,7 +53,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에 면한 돈키호테 아키하바라점(구 미나미 빌딩) 최상층 8F. 1F 주오도리 쪽 입구로 들어가 엘리베이터로 8F까지 올라가면 극장 로비와 입장 대기 공간이 나온다. 같은 건물 5F는 메이드카페, 6~7F는 오락실이므로 층 표시를 확인하고 8F에서 내린다.",
-  "en": "Top floor (8F) of the Don Quijote Akihabara building (the former Minami Building) on Chuo-dori. Enter on 1F from the Chuo-dori side and take the elevator up to 8F, where the theater lobby and waiting area are. The same building has a maid cafe on 5F and an arcade on 6F-7F, so check the floor indicator and get off at 8F."
+  "en": "Top floor (8F) of the Don Quijote Akihabara building (the former Minami Building) on Chuo-dori. Enter on 1F from the Chuo-dori side and take the elevator up to 8F, where the theater lobby and waiting area are. The same building has a maid cafe on 5F and an arcade on 6F-7F, so check the floor indicator and get off at 8F.",
+  "ja": "中央通りに面したドン・キホーテ秋葉原店（旧ミナミビル）の最上階8Fです。1Fの中央通り側の入口から入り、エレベーターで8Fまで上がると劇場のロビーと入場待ちスペースがあります。同じ建物の5Fはメイドカフェ、6〜7Fはゲームセンターですので、階数表示を確かめて8Fで降ります。"
  },
  "tips": {
   "ko": [
@@ -66,6 +68,12 @@
    "Prices are a flat 4,100-4,300 yen depending on the performance, with no separate men's, women's or student rate; a lobby-viewing ticket is 1,800 yen. Cash sales at the theater counter ended with the 2024 renovation",
    "Bring photo ID (passport etc.) for the entry check. Entry order is drawn from ticket serial numbers about 30 minutes before curtain, and all seats and standing spots are unreserved",
    "No photos, video or audio recording inside the theater; still photos are allowed in the lobby only, excluding monitors. Bags may not be taken in, so use the paid lobby coin lockers, and expect a metal-detector check at the door"
+  ],
+  "ja": [
+   "チケットはAKB48チケットセンター（akb48.zaiko.io）でのオンライン抽選のみの申込です。一般申込は公演の約5日前の16:00に締め切られ、当選者だけが指定期間内にオンラインで決済します。当日券の販売はありません",
+   "料金は公演によって4,100〜4,300円の均一で、男女別や学生の区分はなく、ロビー観覧チケットは1,800円です。2024年のリニューアル以降、劇場窓口での現金販売は廃止されました",
+   "入場時にはパスポートなど顔写真付きの本人確認書類が必要で、入場順は開演30分前の整理番号抽選会で決まります。着席・スタンディングとも全席自由です",
+   "劇場内での写真・動画・録音は全面的に禁止で、ロビーではモニターを除いた静止画の撮影のみできます。かばん類は持ち込めませんのでロビーの有料コインロッカーを使い、入口では金属探知機による検査を受けます"
   ]
  },
  "official_url": "https://www.akb48.co.jp/theater/",

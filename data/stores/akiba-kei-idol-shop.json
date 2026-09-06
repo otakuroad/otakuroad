@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "아이돌 생사진·굿즈와 가챠폰 기기가 늘어선 주오도리변 1층 매장",
-  "en": "Ground-floor shop of idol bromides, idol goods and rows of gachapon machines"
+  "en": "Ground-floor shop of idol bromides, idol goods and rows of gachapon machines",
+  "ja": "アイドルの生写真やグッズとガチャポンの機械がずらりと並ぶ1F店舗"
  },
  "building_id": null,
  "floors": [
@@ -58,7 +59,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 도보 1분, 주오도리 서쪽 면의 1층 매장이라 길에서 바로 들어간다. 오래된 안내에는 '고구레스에히로 빌딩'으로 적혀 있지만 현재 표기는 아키하바라 M2 빌딩이며, 같은 건물 위층에 오타츄 2호점(트레카관)이 있다.",
-  "en": "One minute from exit 3 of Ginza-line Suehirocho, a ground-floor unit on the west side of Chuo-dori that you walk straight into. Older listings call the building Kogure Suehiro Building; it is now signed as Akihabara M2 Building, with Otachu No.2 (trading cards) on an upper floor."
+  "en": "One minute from exit 3 of Ginza-line Suehirocho, a ground-floor unit on the west side of Chuo-dori that you walk straight into. Older listings call the building Kogure Suehiro Building; it is now signed as Akihabara M2 Building, with Otachu No.2 (trading cards) on an upper floor.",
+  "ja": "銀座線末広町駅3番出口から徒歩1分、中央通り西側に面した1Fの店舗で、通りからそのまま入れます。古い案内には小暮末広ビルと書かれていますが、現在の表記は秋葉原M2ビルで、同じ建物の上階におたちゅう。秋葉原2号店 トレカ館が入っています。"
  },
  "tips": {
   "ko": [
@@ -70,6 +72,11 @@
    "Despite the name, gachapon (capsule toy) machines now fill most of the floor; the idol bromides and goods are gathered in the wall corners.",
    "There is no official website - stock updates go only to X (@akibakeiidol), which states that enquiries are not accepted.",
    "Japanese directories list 11:00-21:00 on weekdays and 10:00-21:00 on weekends and holidays, but this is not confirmed by the shop itself, so allow some slack."
+  ],
+  "ja": [
+   "店名とは違って、今はガチャポン（カプセルトイ）の機械が店内をほぼ埋めていて、アイドルの生写真やグッズは壁際のコーナーにまとまっています。",
+   "公式ホームページはなく、入荷情報はX（@akibakeiidol）にのみ投稿され、問い合わせは受け付けていないと案内されています。",
+   "日本の地域情報サイトには平日11:00〜21:00、土日祝10:00〜21:00と載っていますが、店側による確認は取れていないため、時間には余裕を持っておくとよいです。"
   ]
  },
  "official_url": null,

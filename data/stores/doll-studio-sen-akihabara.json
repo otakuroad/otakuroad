@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "SD·돌피드림·오비츠용 인형 옷·가발·신발·아이를 파는 돌 전문점",
-  "en": "Doll clothes, wigs, shoes and eyes for BJD owners (SD, Dollfie Dream, Obitsu)"
+  "en": "Doll clothes, wigs, shoes and eyes for BJD owners (SD, Dollfie Dream, Obitsu)",
+  "ja": "SD・ドルフィードリーム・オビツ向けのドール服・ウィッグ・靴・アイの専門店"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "공식 사이트 秋葉原店 안내와 공식 X 계정의 2026년 4월 27일 게시글 모두 12:00-20:00, 정기휴일 없음으로 적고 있다. 다만 X 계정 이름과 소개글에는 '11～19시 영업'으로 적혀 있어 표기가 엇갈리므로 방문 전 X(@akiba_sendoll) 확인.",
-   "en": "The official Akihabara page and the shop's own X post of 2026-04-27 both state 12:00-20:00 with no regular closing day. The X account's display name and bio, however, advertise 11:00-19:00, so check X (@akiba_sendoll) before going."
+   "en": "The official Akihabara page and the shop's own X post of 2026-04-27 both state 12:00-20:00 with no regular closing day. The X account's display name and bio, however, advertise 11:00-19:00, so check X (@akiba_sendoll) before going.",
+   "ja": "公式サイトの秋葉原店の案内と公式Xの2026年4月27日の投稿は、どちらも12:00〜20:00、定休日なしとしています。ただしXのアカウント名とプロフィールには11〜19時営業と書かれていて表記が食い違うので、来店前にX（@akiba_sendoll）を確認してください。"
   },
   "source_url": "https://www.from-sen.com/html/page93.html"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "쇼와도리 동쪽, 神田和泉町이 시작되는 자리의 小森ビル 2층. JR 아키하바라역 쇼와도리 출구에서 쇼와도리를 건너 북쪽으로 조금 걸으면 된다. 매장은 위층이므로 건물 안으로 들어가 2층으로 올라간다.",
-  "en": "Second floor of the Komori Building on the east side of Showa-dori, where Kanda-Izumicho begins. From JR Akihabara's Showa-dori exit, cross Showa-dori and walk a short way north. The shop is upstairs, so go inside and up to 2F."
+  "en": "Second floor of the Komori Building on the east side of Showa-dori, where Kanda-Izumicho begins. From JR Akihabara's Showa-dori exit, cross Showa-dori and walk a short way north. The shop is upstairs, so go inside and up to 2F.",
+  "ja": "昭和通りの東側、神田和泉町が始まる場所にある小森ビルの2Fです。JR秋葉原駅の昭和通り口から昭和通りを渡って北へ少し歩きます。店舗は上の階なので、建物の中に入って2Fまで上がってください。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,11 @@
    "The photo studio moved to Higashi-Abiko in Chiba in June 2022; the Akihabara shop is retail only and no longer offers shooting sessions.",
    "Stock is sorted by doll size - 1/3 (SD, DD), 1/4 (MSD, MDD), 1/6 and Obitsu 11 - across clothes, wigs, shoes, eyes and props, so know your doll's size standard before you go.",
    "Payment methods and tax-free handling are not stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "撮影スタジオは2022年6月に千葉県の東我孫子へ移転しました。秋葉原店では商品の購入のみで、撮影はできません。",
+   "1/3（SD・DD）、1/4（MSD・MDD）、1/6、オビツ11などサイズ別にドール服・ウィッグ・靴・アイ・小物がそろっているので、手持ちのドールのサイズ規格を把握してから行くと選びやすいです。",
+   "支払い方法や免税の取り扱いについては公式の案内がないので、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://www.from-sen.com/html/page93.html",

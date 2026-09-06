@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "부시로드 직영점. 캡슐토이 브랜드 '부시카프'와 기발매 굿즈, POP UP 숍",
-  "en": "Bushiroad's own store: 'Bushicap!' capsule toys, past-release goods and POP UP shops"
+  "en": "Bushiroad's own store: 'Bushicap!' capsule toys, past-release goods and POP UP shops",
+  "ja": "ブシロード直営店、カプセルトイ「ブシカプ！」や既発売グッズ、POP UPショップ"
  },
  "building_id": null,
  "floors": [
@@ -66,7 +67,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "토·일·공휴일은 20:00에 닫아 평일보다 1시간 이르다. 애니메이트 ANNEX 건물과 같은 시간대이며 변경될 수 있다.",
-   "en": "Closes at 20:00 on weekends and holidays, an hour earlier than weekdays. Same as the animate ANNEX building; hours may change."
+   "en": "Closes at 20:00 on weekends and holidays, an hour earlier than weekdays. Same as the animate ANNEX building; hours may change.",
+   "ja": "土日・祝日は20:00に閉まり、平日より1時間早くなります。アニメイト秋葉原ANNEXの建物と同じ時間帯で、変更されることがあります。"
   },
   "source_url": "https://bushiroad-creative.com/bcrsakihabara/"
  },
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 동쪽에 파란 animate 간판 건물 세 채가 나란히 있고, 그중 가장 북쪽(돈키호테 쪽)이 애니메이트 아키하바라 ANNEX. 엘리베이터로 5F에 올라간다.",
-  "en": "Three blue 'animate' buildings stand in a row on the east side of Chuo-dori; the northernmost one (toward Don Quijote) is the animate Akihabara ANNEX. Take the lift to 5F."
+  "en": "Three blue 'animate' buildings stand in a row on the east side of Chuo-dori; the northernmost one (toward Don Quijote) is the animate Akihabara ANNEX. Take the lift to 5F.",
+  "ja": "中央通りの東側に青いアニメイトの看板のビルが3棟並んでいて、その一番北側（ドン・キホーテ秋葉原店の方）がアニメイト秋葉原ANNEXです。エレベーターで5Fに上がります。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,11 @@
    "Bushiroad Creative's first directly run shop, opened 1 August 2025.",
    "It doubles as a POP UP shop venue, so check the official X account (@bushi_store) for what is running before you go.",
    "B1-1F of the same ANNEX building is the capsule-toy floor 'POP @P CAPSULE -AKIHABARA-'."
+  ],
+  "ja": [
+   "2025年8月1日にオープンした、ブシロードクリエイティブ初の直営店舗です。",
+   "常設の売り場でありながらPOP UPショップの会場としても使われるので、訪れる前に公式X（@bushi_store）で開催中の企画を確認しておくとよいでしょう。",
+   "同じアニメイト秋葉原ANNEXのB1F〜1Fは、カプセルトイ専門フロアのPOP @P CAPSULE -AKIHABARA-です。"
   ]
  },
  "official_url": "https://bushiroad-creative.com/bcrsakihabara/",

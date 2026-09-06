@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "중고 초합금 로봇·소프비·특촬 완구·피규어를 매입·판매하는 1층 매장",
-  "en": "Street-level shop buying and selling used chogokin robots, sofubi and tokusatsu toys"
+  "en": "Street-level shop buying and selling used chogokin robots, sofubi and tokusatsu toys",
+  "ja": "中古の超合金ロボット・ソフビ・特撮玩具を売買する路面店"
  },
  "building_id": null,
  "floors": [
@@ -71,11 +72,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "평일은 12:00, 토·일·공휴일은 11:00 개점이다.",
-   "en": "Opens at 12:00 on weekdays and 11:00 at weekends and public holidays."
+   "en": "Opens at 12:00 on weekdays and 11:00 at weekends and public holidays.",
+   "ja": "平日は12:00、土日祝は11:00の開店です。"
   },
   "source_url": "https://jungle-scs.co.jp/?page_id=21"
  },
@@ -91,7 +94,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽 뒷길, 소토칸다 3-9-2 스에히로 빌딩 1층 노면 점포. 같은 건물 지하 1층은 おたちゅう。아키하바라 5호점(트레카)이다.",
-  "en": "On the back street one block west of Chuo-dori, at street level in the Suehiro Building, Sotokanda 3-9-2. Otachu Akihabara No.5 (trading cards) is in the same building's basement."
+  "en": "On the back street one block west of Chuo-dori, at street level in the Suehiro Building, Sotokanda 3-9-2. Otachu Akihabara No.5 (trading cards) is in the same building's basement.",
+  "ja": "中央通りから1本西の裏通り、外神田3-9-2の末広ビル1Fの路面店です。同じビルのB1Fはおたちゅう。秋葉原5号店GO!GO!トレカです。"
  },
  "tips": {
   "ko": [
@@ -103,6 +107,11 @@
    "Strong on old Bandai/Popy chogokin and sofubi — Mazinger, Ultraman and similar.",
    "A separate shop from JUNGLE AKIBA on 7F of Radio Kaikan; this one is at street level and easy to walk into.",
    "Buy-back enquiries also go through the chain's Osaka dedicated line (06-6645-6663) or LINE appraisal."
+  ],
+  "ja": [
+   "マジンガーやウルトラマンなど、昔のバンダイ・ポピー系の超合金やソフビに強いのが特徴です。",
+   "ラジオ会館7FのJUNGLE AKIBA（旧2号店）とは別の店舗で、こちらは1Fの路面店なので入りやすいです。",
+   "買取の相談は、大阪本社の専用ダイヤル（06-6645-6663）やLINE査定でも受け付けています。"
   ]
  },
  "official_url": "https://jungle-scs.co.jp/?page_id=21",

@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "미소녀·로봇 피규어와 호비 상품의 신품·중고 판매, 피규어 매입 카운터 있음",
-  "en": "New and used bishoujo and robot figures and hobby items, with a figure buyback counter"
+  "en": "New and used bishoujo and robot figures and hobby items, with a figure buyback counter",
+  "ja": "美少女・ロボットフィギュアやホビー用品の新品・中古販売、フィギュア買取カウンターあり"
  },
  "building_id": null,
  "floors": [
@@ -68,7 +69,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일 11:00, 토·일·공휴일 10:30 개점으로 주말이 더 이르다. 같은 체인의 라디오회관 5층점(10:00~20:00)과 시간이 다르므로 주의.",
-   "en": "Opens 11:00 on weekdays but 10:30 on weekends and holidays. The chain's Radio Kaikan 5F branch keeps different hours (10:00-20:00)."
+   "en": "Opens 11:00 on weekdays but 10:30 on weekends and holidays. The chain's Radio Kaikan 5F branch keeps different hours (10:00-20:00).",
+   "ja": "平日は11:00、土日祝は10:30の開店で、土日のほうが早く開きます。同じチェーンのラジオ会館5Fの店舗（10:00〜20:00）とは時間が異なるので注意してください。"
   },
   "source_url": "https://www.x-jpn.co.jp/store/store-52/"
  },
@@ -84,7 +86,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 한 블록 서쪽 뒷골목에 있다. 베르사르 아키하바라 바로 옆, AKIBA 컬처즈존 건너편의 치치부전기(チチブ電機) 빌딩 1층이며 도로에 면한 매장이라 밖에서 진열장이 보인다.",
-  "en": "On the back street one block west of Chuo-dori, right beside Bellesalle Akihabara and across from AKIBA Cultures Zone. It is the ground floor of the Chichibu Denki Building, with its display windows facing the street."
+  "en": "On the back street one block west of Chuo-dori, right beside Bellesalle Akihabara and across from AKIBA Cultures Zone. It is the ground floor of the Chichibu Denki Building, with its display windows facing the street.",
+  "ja": "中央通り一本西の裏通りにあり、ベルサール秋葉原のすぐ隣、AKIBAカルチャーズZONEの向かいです。チチブ電機ビルの1Fで、通りに面した店舗なので外からショーケースが見えます。"
  },
  "tips": {
   "ko": [
@@ -96,6 +99,11 @@
    "It is a separate shop from the chain's Radio Kaikan 5F branch and carries different stock; the Chuo branch leans toward bishoujo and robot figures.",
    "There is a buyback counter as well as sales, and the official page says buyback bonus campaigns run every day.",
    "Tax-free and card acceptance are not stated on the official page, so bring cash to be safe."
+  ],
+  "ja": [
+   "同じチェーンでもラジオ会館5Fの店舗とは別の店で、在庫も異なります。中央店は美少女・ロボットフィギュアの比率が高めです。",
+   "販売だけでなく買取カウンターもあり、毎日買取アップのキャンペーンを実施していると公式ページに案内されています。",
+   "免税やカード決済の可否は公式の案内がないため、現金を用意していくほうが安心です。"
   ]
  },
  "official_url": "https://www.x-jpn.co.jp/store/store-52/",

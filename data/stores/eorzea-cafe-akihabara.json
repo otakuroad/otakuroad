@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "파이널판타지14 공식 콜라보 카페. 게임 속 요리와 캐릭터 음료, 코스터 증정",
-  "en": "Official FFXIV collaboration cafe: in-game dishes, character drinks and coasters"
+  "en": "Official FFXIV collaboration cafe: in-game dishes, character drinks and coasters",
+  "ja": "ファイナルファンタジーXIV公式コラボカフェ。ゲーム内の料理やキャラクタードリンク、コースター付き"
  },
  "building_id": "pasela-akiba",
  "floors": [
@@ -61,7 +62,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "전일 90분 교체제로, 표시된 시간은 첫 회차 시작부터 마지막 회차 종료까지의 범위다. 실제 이용 가능한 회차는 TableCheck 예약 페이지에서 확인.",
-   "en": "Every day runs on 90-minute seating slots; the times shown are from the first slot to the end of the last. Check the TableCheck booking page for the slots actually on sale."
+   "en": "Every day runs on 90-minute seating slots; the times shown are from the first slot to the end of the last. Check the TableCheck booking page for the slots actually on sale.",
+   "ja": "全日90分入れ替え制で、表示している時間は初回の開始から最終回の終了までの範囲です。実際に利用できる回はTableCheckの予約ページで確認してください。"
   },
   "source_url": "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/"
  },
@@ -77,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "파세라 리조트 AKIBA 건물 2층. JR 아키하바라역 전기가 남쪽 출구에서 도보 4분이며, 1층 카라오케 파세라 접수 옆 엘리베이터나 계단으로 2층에 오르면 같은 층에 그랑사이퍼 키친과 나란히 있다.",
-  "en": "On 2F of Pasela Resorts AKIBA, four minutes from the JR Akihabara Electric Town South Exit. Take the lift or stairs beside the 1F Karaoke Pasela reception; the cafe shares 2F with Grandcypher KITCHEN."
+  "en": "On 2F of Pasela Resorts AKIBA, four minutes from the JR Akihabara Electric Town South Exit. Take the lift or stairs beside the 1F Karaoke Pasela reception; the cafe shares 2F with Grandcypher KITCHEN.",
+  "ja": "パセラリゾーツAKIBA マルチエンターテインメントの2Fにあり、JR秋葉原駅の電気街口（南側）から徒歩4分です。1Fのカラオケパセラの受付横のエレベーターか階段で2Fに上がると、同じフロアにグランサイファーキッチンが並んでいます。"
  },
  "tips": {
   "ko": [
@@ -89,6 +92,11 @@
    "Bookings are taken only through TableCheck and open at 12:00, one month ahead; for same-day seats, ask at the counter inside the cafe.",
    "The table charge is 1,200 yen per person and includes one service drink and a job coaster of your choice; on top of that everyone must order at least one item.",
    "The collaboration menu rotates with patches and events, so check the official menu page before you go."
+  ],
+  "ja": [
+   "予約はTableCheckのウェブでのみ受け付け、1か月前の12:00から開きます。当日の空席は店内のカウンターで尋ねると教えてもらえます。",
+   "テーブルチャージは1人1,200円で、サービスドリンク1杯と選べるジョブコースターが付きます。これに加えて1人1品以上の注文が必要です。",
+   "コラボメニューはパッチやイベントに合わせて入れ替わるため、行く前に公式のメニューページを確認しておくとよいです。"
   ]
  },
  "official_url": "https://www.pasela.co.jp/paselabo_shop/ff_eorzea/",

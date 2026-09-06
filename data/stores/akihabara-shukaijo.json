@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "보드게임 700종을 무료로 빌려주고 TCG·TRPG 자리를 시간제로 파는 게임 카페",
-  "en": "Game cafe charging by time: 700+ board games to borrow free, TCG and TRPG tables"
+  "en": "Game cafe charging by time: 700+ board games to borrow free, TCG and TRPG tables",
+  "ja": "ボードゲーム700種以上を無料で貸し出し、トレカやTRPGの席を時間制で使えるゲームカフェ"
  },
  "building_id": null,
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "목요일 휴무",
-   "en": "Closed on Thursdays"
+   "en": "Closed on Thursdays",
+   "ja": "木曜定休"
   },
   "note": {
    "ko": "공식 사이트와 핫페퍼 예약 달력 모두 목요일 휴무로 같다. 늦어도 3일 전(가능하면 1주일 전)에 신청하면 영업시간 외(심야·평일 오전) 예약도 받으며, 이 경우 1인 1시간당 500엔이 추가된다. 임시 시간 변경은 공식 사이트 'お知らせ'에 올라온다.",
-   "en": "The official site and the Hot Pepper booking calendar agree on the Thursday closure. Bookings outside these hours (early morning or late night) are taken if you ask at least three days ahead - a week is preferred - and cost an extra 500 yen per person per hour; temporary changes are posted under 'お知らせ' on the official site."
+   "en": "The official site and the Hot Pepper booking calendar agree on the Thursday closure. Bookings outside these hours (early morning or late night) are taken if you ask at least three days ahead - a week is preferred - and cost an extra 500 yen per person per hour; temporary changes are posted under 'お知らせ' on the official site.",
+   "ja": "公式サイトとホットペッパーの予約カレンダーは、どちらも木曜定休で一致しています。遅くとも3日前（できれば1週間前）に申し込めば営業時間外（早朝や深夜）の予約も受け付けており、その場合は1人1時間あたり500円が加算されます。臨時の時間変更は公式サイトのお知らせに掲載されます。"
   },
   "source_url": "https://shukaijo.com/access/"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역 3번 출구에서 구라마에바시도리를 따라가다 파출소를 지나 라멘집 '楽'에서 좌회전. 1층이 크레인게임 전문점 '遊技場'인 건물의 3층이 이 가게다. 엘리베이터는 왼쪽에 붙은 이사미야 제7빌딩 쪽에 있으니 그쪽으로 들어간다. 공식 주소는 제7빌딩이지만 핫페퍼에는 같은 가게가 이사미야 제2빌딩 3F로 표기된다.",
-  "en": "From exit 3 of Suehirocho Station follow Kuramaebashi-dori past the police box and turn left at the ramen shop Raku. The cafe is the 3F of the building whose ground floor is the crane-game shop Yugijo; the lift is in the adjoining Isamiya No.7 Building on the left, which is the way in. The official address gives Isamiya No.7 while Hot Pepper lists the same shop as Isamiya No.2 3F."
+  "en": "From exit 3 of Suehirocho Station follow Kuramaebashi-dori past the police box and turn left at the ramen shop Raku. The cafe is the 3F of the building whose ground floor is the crane-game shop Yugijo; the lift is in the adjoining Isamiya No.7 Building on the left, which is the way in. The official address gives Isamiya No.7 while Hot Pepper lists the same shop as Isamiya No.2 3F.",
+  "ja": "銀座線末広町駅3番出口から蔵前橋通りを進み、交番を過ぎたラーメン店の楽で左に曲がります。1Fがクレーンゲーム専門店の遊戯場になっているビルの3Fで、エレベーターは左隣のイサミヤ第7ビル側にあるので、そちらから入ります。公式の住所は第7ビルですが、ホットペッパーでは同じ店がイサミヤ第2ビル3Fと表記されています。"
  },
  "tips": {
   "ko": [
@@ -103,6 +107,12 @@
    "Over 700 board games are lent free, so you can turn up empty-handed. Console and handheld games must be your own - only the monitors are free to borrow.",
    "No alcohol or meals are served but you may bring your own, and the fridge/freezer holds them for 500 yen a group. Only snacks (from 200 yen) and cup noodles (from 250 yen) are sold.",
    "Solo visitors are matched with other groups. VISA and Mastercard plus PayPay, Rakuten Pay, d-barai and au PAY are accepted, and the whole shop is non-smoking."
+  ],
+  "ja": [
+   "フリードリンク付きの時間制料金です。平日は1時間1,400円、2時間1,900円で、2時間30分からは上限2,500円、土日祝は1時間2,100円から12時間6,100円までで、休日の夜（18:00〜22:00）は上限2,500円です。",
+   "ボードゲームは700種以上を無料で貸し出しているので、手ぶらで行けます。一方、据置機や携帯ゲーム機は自分で持ち込む必要があり、無料で借りられるのはモニターだけです。",
+   "お酒や食事の提供はありませんが持ち込みは自由で、冷蔵・冷凍の保管サービスが1グループ500円です。販売はお菓子200円〜、カップ麺250円〜程度です。",
+   "1人で行ってもマッチングシステムで相席して遊べます。支払いはVISA・Mastercardのほか、PayPay、楽天ペイ、d払い、au PAYが使え、全席禁煙です。"
   ]
  },
  "official_url": "https://shukaijo.com/",

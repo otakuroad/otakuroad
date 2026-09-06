@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "특촬·로봇·건프라 중심의 신품·중고 피규어와 캐릭터 굿즈, 매입도 함",
-  "en": "New and used figures, character goods and Gunpla, with a buyback counter"
+  "en": "New and used figures, character goods and Gunpla, with a buyback counter",
+  "ja": "新品・中古のフィギュアとキャラクターグッズ、ガンプラを扱い買取も"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "건물 개관 시간(10:00~20:00)과 동일. 매입 접수는 10:00~19:00이고 프라이즈 경품은 18:00까지만 받는다. 연말연시에는 단축 영업하는 해가 있어 라디오회관 공지 확인",
-   "en": "Same as the building's 10:00-20:00. The buyback desk takes items 10:00-19:00, and prize goods only until 18:00. Year-end and New Year hours are sometimes shortened; check the Radio Kaikan notices"
+   "en": "Same as the building's 10:00-20:00. The buyback desk takes items 10:00-19:00, and prize goods only until 18:00. Year-end and New Year hours are sometimes shortened; check the Radio Kaikan notices",
+   "ja": "建物の開館時間（10:00〜20:00）と同じです。買取の受付は10:00〜19:00で、プライズ景品は18:00までしか受け付けません。年末年始は短縮営業になる年があるので、ラジオ会館のお知らせを確認してください。"
   },
   "source_url": "https://www.x-jpn.co.jp/store/store-51/"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 바로 앞 라디오회관 1F로 들어가 엘리베이터나 에스컬레이터로 5F까지. 5F는 라신방·카이요도 호비로비 등이 나뉘어 든 층이며, 엑스는 특촬·로봇 피규어 쇼케이스가 늘어선 구역이다.",
-  "en": "Enter Radio Kaikan on 1F, right outside JR Akihabara's Electric Town Exit, and go up to 5F by elevator or escalator. 5F is split between several shops including Lashinbang and Kaiyodo Hobby Lobby; X is the section lined with tokusatsu and robot figure showcases."
+  "en": "Enter Radio Kaikan on 1F, right outside JR Akihabara's Electric Town Exit, and go up to 5F by elevator or escalator. 5F is split between several shops including Lashinbang and Kaiyodo Hobby Lobby; X is the section lined with tokusatsu and robot figure showcases.",
+  "ja": "JR秋葉原駅電気街口のすぐ前にあるラジオ会館の1Fから入り、エレベーターかエスカレーターで5Fまで上がります。5Fはらしんばん秋葉原ラジオ会館店や海洋堂ホビーロビー東京などが分かれて入っている階で、エックスは特撮・ロボットフィギュアのショーケースが並ぶ区画です。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,10 @@
   "en": [
    "The same company runs Akiba no X Chuo-ten (Sotokanda 3-chome) and X Akihabara main store (Kanda-Sakumacho); this Rajikan branch leans hardest into tokusatsu figures (Ultraman, Kamen Rider), robot figures and Gunpla (MG, RG, HG).",
    "It sells both new and used stock and runs a buyback counter. Tax-free and card acceptance are not stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "同じ会社が運営するアキバのエックス 中央店（外神田3丁目）やアキバのエックス 秋葉原本店（神田佐久間町）とは別の店舗で、ラジ館店はウルトラマンや仮面ライダーなどの特撮とロボットフィギュア、ガンプラ（MG・RG・HG）にとくに強いです。",
+   "新品と中古をあわせて扱い、買取カウンターもあります。免税やカード決済の可否は公式に案内されていないため、現金を用意していくほうが安心です。"
   ]
  },
  "official_url": "https://www.x-jpn.co.jp/store/store-51/",

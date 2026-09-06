@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스 카드 통판 전문점. 지하 1층 실점포는 매입과 온라인 주문 점두 수령 전용",
-  "en": "Pokemon and One Piece card mail-order shop; its basement store handles buyback and online-order pickup only"
+  "en": "Pokemon and One Piece card mail-order shop; its basement store handles buyback and online-order pickup only",
+  "ja": "ポケモンカードとワンピースカードの通販専門店、B1Fは買取と店頭受取のみ"
  },
  "building_id": "takarada-chuo-dori-building",
  "floors": [
@@ -54,7 +55,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리 쪽으로 도보 1분. 2층·3층에 메이드리밍이 들어 있는 다카라다 주오도리(宝田中央通り)빌딩의 지하 1층으로, 건물 옆 계단을 내려간다. 2022년 개점 당시의 정크도리 근처 점포에서 이 자리로 옮겨왔다.",
-  "en": "One minute from the JR Akihabara Electric Town exit toward Chuo-dori, in the basement of the Takarada Chuo-dori Building, whose 2F and 3F are Maidreamin branches; take the stairs down at the side of the building. The shop moved here from its original 2022 location near Junk-dori."
+  "en": "One minute from the JR Akihabara Electric Town exit toward Chuo-dori, in the basement of the Takarada Chuo-dori Building, whose 2F and 3F are Maidreamin branches; take the stairs down at the side of the building. The shop moved here from its original 2022 location near Junk-dori.",
+  "ja": "JR秋葉原駅電気街口から中央通り方面へ徒歩1分、2階と3階にめいどりーみんが入る宝田中央通りビルのB1Fで、建物脇の階段を下ります。2022年の開店当時はジャンク通りの近くにあり、この場所へ移転してきました。"
  },
  "tips": {
   "ko": [
@@ -70,6 +72,13 @@
    "The official site only gives pickup times as 'in principle 13:00-19:00, except Tuesday, the shop's closing day'. The X account (@cardshophanjou) states general buyback reception of 14:00-19:00 and that walk-in buyback is currently suspended because of a backlog of bookings, so check before going.",
    "The stock is mostly Pokemon and One Piece cards, with the shop's own oripa packs and PSA-graded items.",
    "In-store pickup of online orders runs for seven days after the dispatch email, needs photo ID, and cannot be paid for at the counter."
+  ],
+  "ja": [
+   "店主はスプラトゥーンのプロゲーマーでYouTuberのはんじょうさんで、店名はそのまま店主の名前です。",
+   "販売は通販サイトのみで、実店舗は買取とオンライン注文の店頭受取専用です。対戦スペースはありません。",
+   "公式サイトは店頭受取の時間を「定休日の火曜を除き原則13:00-19:00」としか案内していません。公式X（@cardshophanjou）には一般買取の受付が14:00-19:00で、予約が立て込んでいるため一般買取を一時停止中と書かれているので、行く前の確認が必要です。",
+   "ポケモンカードとワンピースカードが中心で、店オリジナルのオリパやPSA鑑定品も扱っています。",
+   "オンライン注文商品の店頭受取は発送完了メールが届いてから7日以内で、写真付きの身分証が必要です。店頭での支払いはできません。"
   ]
  },
  "official_url": "https://www.cardshop-hanjou.jp/",

@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "구판 포켓몬카드·빛나는 포켓몬·절판 박스를 매입·판매하는 별관",
-  "en": "Old-back Pokemon cards, Shining Pokemon and out-of-print boxes, bought and sold"
+  "en": "Old-back Pokemon cards, Shining Pokemon and out-of-print boxes, bought and sold",
+  "ja": "旧裏面のポケモンカードやひかるポケモン、絶版BOXを買い取り販売する別館"
  },
  "building_id": null,
  "floors": [
@@ -63,7 +64,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 X 프로필의 12:00-20:00 기준. 정기휴일은 공식 안내가 없고 아키하바라 트레카 디렉터리는 연중무휴로 싣는다.",
-   "en": "From the 12:00-20:00 on the shop's official X profile. No closing day is stated officially; the Akihabara card directory lists it as open year-round."
+   "en": "From the 12:00-20:00 on the shop's official X profile. No closing day is stated officially; the Akihabara card directory lists it as open year-round.",
+   "ja": "公式Xのプロフィールにある12:00-20:00によるものです。定休日は公式の案内がなく、秋葉原のトレカのディレクトリでは年中無休として掲載されています。"
   },
   "source_url": "https://x.com/cardcollect_HNR"
  },
@@ -79,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 한 블록 들어간 뒷골목, 소토칸다 3-4-10 간다지(神田寺) 빌딩 2층. 스루가야 아키하바라 본관에서 북서쪽으로 50m 남짓이며 JR 아키하바라역에서 도보 6분, 스에히로초역에서도 가깝다.",
-  "en": "2F of the Kandaji Building at Sotokanda 3-4-10, on the quiet back street one block in from Chuo-dori, about 50 m northwest of Surugaya Akihabara Main Store. Six minutes from JR Akihabara and close to Suehirocho."
+  "en": "2F of the Kandaji Building at Sotokanda 3-4-10, on the quiet back street one block in from Chuo-dori, about 50 m northwest of Surugaya Akihabara Main Store. Six minutes from JR Akihabara and close to Suehirocho.",
+  "ja": "中央通りから一本入った裏通り、外神田3-4-10の神田寺ビル2階です。駿河屋 秋葉原本館から北西へ50mほどで、JR秋葉原駅から徒歩6分、末広町駅からも近い場所です。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,12 @@
    "It advertises on-the-spot cash buyback of Pokemon PSA10 and singles with no upper limit.",
    "The sister shop listed on the official site is the CHIKA branch in the trading-card mall on B1 of Laox Akihabara (Sotokanda 1-2-9); HANARE is the high-value and vintage side.",
    "A Pokemon-card specialist - other card games are not stocked."
+  ],
+  "ja": [
+   "旧裏面のポケモンカードやひかるポケモンのシリーズ、絶版BOXといったコレクション性の高い品が中心で、数十万円台のカードがショーケースに入っています。",
+   "ポケモンカードのPSA10やシングルを、上限なしでその場で現金買取すると掲げています。",
+   "公式サイトが載せている系列店は、ラオックス 秋葉原本店の地下1階のトレカモールにあるCHIKA店（外神田1-2-9 B1）です。HANAREのほうが高額・ヴィンテージ中心です。",
+   "ポケモンカードの専門店なので、ほかのタイトルは扱っていません。"
   ]
  },
  "official_url": "https://cardcollect.jp/",

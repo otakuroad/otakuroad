@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "인접한 두 점포에 캡슐토이 기계를 늘어놓은 스에히로초 쪽 가챠 전문점",
-  "en": "Capsule-toy specialist filling two adjacent units with gachapon machines near Suehirocho"
+  "en": "Capsule-toy specialist filling two adjacent units with gachapon machines near Suehirocho",
+  "ja": "隣り合う2店舗にカプセルトイの機械を並べた末広町寄りのガチャ専門店"
  },
  "building_id": null,
  "floors": [
@@ -51,7 +52,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 주오도리를 따라 아키하바라역 방향으로 조금 내려간 동쪽 편 1층. 나란히 붙은 두 개 점포를 함께 쓰며 가게 밖 보도까지 캡슐토이 기계가 늘어서 있어 멀리서도 눈에 띈다.",
-  "en": "Ground floor on the east side of Chuo-dori, just south of Ginza-line Suehirocho Station. It occupies two adjacent units and the capsule-toy machines spill out onto the pavement, so it is easy to spot."
+  "en": "Ground floor on the east side of Chuo-dori, just south of Ginza-line Suehirocho Station. It occupies two adjacent units and the capsule-toy machines spill out onto the pavement, so it is easy to spot.",
+  "ja": "銀座線の末広町駅から中央通りを秋葉原駅の方向へ少し下った東側の1Fにあります。隣り合う2つの店舗をまとめて使っていて、店の外の歩道までカプセルトイの機械が並んでいるので遠くからでも目立ちます。"
  },
  "tips": {
   "ko": [
@@ -63,6 +65,11 @@
    "No official opening hours are published and map services disagree (11:00-21:00 vs 12:00-20:00), so avoid very early or very late visits.",
    "This is not the Akihabara Gachapon Kaikan at Sotokanda 3-15-5, despite the similar name.",
    "The machines are coin operated, so bring 100-yen coins."
+  ],
+  "ja": [
+   "営業時間を明記した公式の案内がなく、地図サービスによって11:00〜21:00と12:00〜20:00で食い違うので、早朝や深夜の来店は避けたほうが安全です。",
+   "外神田3-15-5の秋葉原ガチャポン会館とは別の店です。名前が似ているので混同しやすいです。",
+   "カプセルトイの機械は硬貨投入式なので、100円玉を用意しておくと便利です。"
   ]
  },
  "official_url": null,

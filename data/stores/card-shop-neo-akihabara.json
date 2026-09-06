@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "PSA·CGC 등급 카드와 유희왕·포켓몬·원피스 싱글을 파는 3층 카드 전문점",
-  "en": "PSA and CGC graded cards plus Yu-Gi-Oh, Pokemon and One Piece singles on 3F"
+  "en": "PSA and CGC graded cards plus Yu-Gi-Oh, Pokemon and One Piece singles on 3F",
+  "ja": "PSA・CGC鑑定品と遊戯王・ポケカ・ワンピースのシングルを扱う3Fのカード専門店"
  },
  "building_id": "etranger-18-akihabara",
  "floors": [
@@ -59,7 +60,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 서쪽으로 두 블록, 쇼헤이바시도리(昌平橋通り) 변 호린공원(芳林公園) 뒤편의 9층 신축 빌딩 '에트란제18 아키하바라' 3층. 1층 도로변 카드숍 톤톤 옆 공용 출입구로 들어가 엘리베이터나 계단으로 3층까지 올라간다. 거리에서는 간판이 잘 보이지 않는다.",
-  "en": "Third floor of Etranze 18 Akihabara, the nine-storey 2023 building on Shoheibashi-dori behind Horin Park, two blocks west of Chuo-dori. Use the shared entrance next to the street-level Card Shop Tonton and take the lift or stairs to 3F; there is little signage at street level."
+  "en": "Third floor of Etranze 18 Akihabara, the nine-storey 2023 building on Shoheibashi-dori behind Horin Park, two blocks west of Chuo-dori. Use the shared entrance next to the street-level Card Shop Tonton and take the lift or stairs to 3F; there is little signage at street level.",
+  "ja": "中央通りから西へ2ブロック、昌平橋通り沿いの芳林公園の裏手に建つ9階建て（2023年築）のエトランゼ18秋葉原の3階です。1階の路面店カードショップとんとん秋葉原店の隣にある共用の出入口から、エレベーターか階段で3階へ上がります。通りからは看板がほとんど見えません。"
  },
  "tips": {
   "ko": [
@@ -71,6 +73,11 @@
    "Opened 2026-01-20. The 3F unit was previously Card Shop NEM, so older guides and map apps often still show NEM here.",
    "It keeps a separate case of PSA, CGC, BGS and ARS graded cards alongside Yu-Gi-Oh, Pokemon, One Piece, Weiss Schwarz and Union Arena singles.",
    "Wednesday and Thursday are the regular closing days and the shop opens at 13:00. There is no official website, so changed opening days and temporary closures appear only on X (@NEO_AKB) - check before going."
+  ],
+  "ja": [
+   "2026年1月20日の開店です。3階の区画はもともとカードショップNEMが使っていた場所なので、古い案内や地図アプリではいまもNEMと表示されることが多くあります。",
+   "PSA・CGC・BGS・ARSの鑑定（グレーディング）カードを別に扱い、あわせて遊戯王、ポケモンカード、ワンピースカード、ヴァイスシュヴァルツ、ユニオンアリーナのシングルも並びます。",
+   "水曜と木曜が定休日で、開店は13時です。公式サイトがないため営業日の変更や臨時休業はX（@NEO_AKB）にしか出ないので、行く前に確認してください。"
   ]
  },
  "official_url": null,

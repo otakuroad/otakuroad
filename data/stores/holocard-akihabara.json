@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "호로라이브 전문 트레카 매장. 바이스슈바르츠·호로라이브 OCG 싱글과 오리파, 굿즈",
-  "en": "Hololive-only card shop: Weiss Schwarz and hololive OCG singles, oripa packs and goods"
+  "en": "Hololive-only card shop: Weiss Schwarz and hololive OCG singles, oripa packs and goods",
+  "ja": "ヴァイスシュヴァルツとホロライブOCGのシングル・オリパ・グッズを扱うホロライブ専門店"
  },
  "building_id": "maruyama-building",
  "floors": [
@@ -80,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 4분, 쇼헤이바시도리(昌平橋通り) 변 丸山ビル 6층. JR 아키하바라역에서는 도보 9분으로 주오도리 상점가에서 한 블록 서쪽으로 벗어나 있다. 1층 신소쿠 매입센터 옆 입구로 들어가 엘리베이터를 탄다.",
-  "en": "Four minutes from Suehirocho Station on the Ginza line, on 6F of the Maruyama Building on Shohei-bashi-dori; about nine minutes from JR Akihabara, one block west of the Chuo-dori shopping strip. Enter beside Shinsoku's ground-floor buyback counter and take the elevator."
+  "en": "Four minutes from Suehirocho Station on the Ginza line, on 6F of the Maruyama Building on Shohei-bashi-dori; about nine minutes from JR Akihabara, one block west of the Chuo-dori shopping strip. Enter beside Shinsoku's ground-floor buyback counter and take the elevator.",
+  "ja": "銀座線の末広町駅から徒歩4分、昌平橋通り沿いの丸山ビル6Fです。JR秋葉原駅からは徒歩9分ほどで、中央通りの商店街から1本西に外れています。1Fのシンソク秋葉原買取センターの脇にある入口から入り、エレベーターに乗ります。"
  },
  "tips": {
   "ko": [
@@ -92,6 +94,11 @@
    "Take the elevator to 6F; the same Maruyama Building has the maid cafe CrownTiara on 3F and Shinsoku's buyback counter on 1F.",
    "The official site (holocard.jp) lists no hours. An X notice on 2 August 2026 changed them to 12:00-20:00 on weekdays and 11:00-21:00 on Saturday, Sunday and public holidays, so watch @holocard_akiba for later changes.",
    "The unit was Toreca Rises Akihabara from August 2023 until it became Holocard in March 2025; older maps and directories still show the old name."
+  ],
+  "ja": [
+   "6Fまではエレベーターで上がります。同じ丸山ビルの3Fはメイドカフェのクラウンティアラ、1Fはシンソク秋葉原買取センターです。",
+   "公式サイト（holocard.jp）に営業時間の記載はありません。2026年8月2日の公式Xの告知で平日12:00-20:00、土日祝は11:00-21:00に変わったので、その後の変更は@holocard_akibaで確認してください。",
+   "2023年8月からこの場所にあったトレカライザス秋葉原店が、2025年3月にホロカードに変わりました。古い地図やディレクトリには今も旧店名が残っています。"
   ]
  },
  "official_url": "https://holocard.jp/",

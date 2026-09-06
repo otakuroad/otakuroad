@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "반다이 카드게임 전 타이틀을 파는 공식 숍. 대전용 플레이 스페이스와 교류회가 있다",
-  "en": "Bandai's official card-game shop carrying every Bandai TCG, with a play space and regular events"
+  "en": "Bandai's official card-game shop carrying every Bandai TCG, with a play space and regular events",
+  "ja": "バンダイのカードゲーム全タイトルを扱う公式ショップ。対戦スペースと交流会あり"
  },
  "building_id": "ichigo-akihabara-ekimae-building",
  "floors": [
@@ -65,11 +66,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "플레이 스페이스 최종 접수는 20:45다. 이 매장은 21시에 닫지만 감싸고 있는 남코 아키하바라 오락실 자체는 23시까지 열어 층 전체가 닫히는 것은 아니다.",
-   "en": "Last entry to the play space is 20:45. The shop shuts at 21:00 even though the namco Akihabara arcade around it runs until 23:00, so the floor itself stays open longer."
+   "en": "Last entry to the play space is 20:45. The shop shuts at 21:00 even though the namco Akihabara arcade around it runs until 23:00, so the floor itself stays open longer.",
+   "ja": "対戦スペースの最終受付は20:45です。この店舗は21時に閉まりますが、取り囲むnamco秋葉原店のゲームセンター自体は23時まで営業しており、フロア全体が閉まるわけではありません。"
   },
   "source_url": "https://bandainamco-am.co.jp/official_shop/decks-stadium/"
  },
@@ -85,7 +88,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 1분. 개찰구를 나와 라디오회관 쪽으로 걸으면 라디오회관 바로 앞, 역 쪽에 커다란 namco 간판을 단 건물이 있다. 1층에서 남코 매장으로 그대로 들어가 5층까지 올라가면 층 안쪽에 카드 매장과 플레이 스페이스가 있다.",
-  "en": "One minute from the JR Electric Town Exit: leave the gates toward Radio Kaikan and the building with the big namco sign stands just in front of it on the station side. Enter namco straight from 1F and go up to 5F, where the card shop and its play space sit inside the floor."
+  "en": "One minute from the JR Electric Town Exit: leave the gates toward Radio Kaikan and the building with the big namco sign stands just in front of it on the station side. Enter namco straight from 1F and go up to 5F, where the card shop and its play space sit inside the floor.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分です。改札を出てラジオ会館の方向へ歩くと、ラジオ会館の手前、駅側に大きなnamcoの看板を掲げたビルがあります。1Fからそのままnamcoの店内に入って5Fまで上がると、フロアの奥にカード売り場と対戦スペースがあります。"
  },
  "tips": {
   "ko": [
@@ -97,6 +101,11 @@
    "It stocks every Bandai card game in one place - One Piece, Gundam, Union Arena, Dragon Ball Super Fusion World, Digimon and Battle Spirits among them.",
    "The play space has desks with a place for your hand so customers can duel on the spot, and each title runs its own meet-ups; last entry is 20:45.",
    "Because the shop sits inside the namco arcade it follows game-centre entry rules: under-16s cannot enter after 18:00 (until 22:00 with a guardian) and under-18s cannot enter after 22:00."
+  ],
+  "ja": [
+   "ワンピース、ガンダム、ユニオンアリーナ、ドラゴンボールスーパー フュージョンワールド、デジモン、バトルスピリッツなど、バンダイのカードゲーム全タイトルを一か所で扱っています。",
+   "手札を置く場所が付いたデスクを備えた対戦スペースがあり、その場でお客さん同士が対戦できます。タイトルごとの交流会も開かれ、最終受付は20:45です。",
+   "店舗がnamcoのゲームセンター内にあるため、ゲームセンターの入場規定に従います。16歳未満は18時以降は入場できず（保護者同伴の場合は22時まで）、18歳未満は22時以降入場できません。"
   ]
  },
  "photo": null,

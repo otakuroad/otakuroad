@@ -35,7 +35,8 @@
  ],
  "one_line": {
   "ko": "블라이스·리카짱·슈퍼돌피 등 중고 패션돌과 돌 의상·소품 판매·매입",
-  "en": "Used fashion dolls - Blythe, Licca, Super Dollfie, Pullip - bought and sold, plus outfits"
+  "en": "Used fashion dolls - Blythe, Licca, Super Dollfie, Pullip - bought and sold, plus outfits",
+  "ja": "ブライス・リカちゃん・スーパードルフィー・プーリップなど中古ファッションドールと衣装の販売・買取"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 19:00까지. 라디오회관 매장 소개 페이지에는 10:00 개점으로 적혀 있지만 운영사 공식 점포 페이지 기준은 11:00이다",
-   "en": "Buyback closes at 19:00. The Radio Kaikan shop page still lists a 10:00 opening, but the operator's own store page says 11:00"
+   "en": "Buyback closes at 19:00. The Radio Kaikan shop page still lists a 10:00 opening, but the operator's own store page says 11:00",
+   "ja": "買取の受付は19:00までです。ラジオ会館の店舗紹介ページには10:00開店と書かれていますが、運営会社の公式店舗ページでは11:00となっています。"
   },
   "source_url": "https://www.dollyteria.info/shop"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "라디오회관 5F, 라신방·우추센·카이요도 호비로비와 같은 층에 있는 중고 돌 전문 매장. 엘리베이터에서 내려 쇼케이스에 돌이 늘어선 코너를 찾으면 된다.",
-  "en": "On 5F of Radio Kaikan, sharing the floor with Lashinbang, UCHUSEN and Kaiyodo Hobby Lobby; look for the corner with doll-filled showcases as you leave the elevator."
+  "en": "On 5F of Radio Kaikan, sharing the floor with Lashinbang, UCHUSEN and Kaiyodo Hobby Lobby; look for the corner with doll-filled showcases as you leave the elevator.",
+  "ja": "ラジオ会館5F、らしんばん秋葉原ラジオ会館店や宇宙船 秋葉原ラジオ会館店、海洋堂ホビーロビー東京と同じフロアにある中古ドールの専門店です。エレベーターを降りたら、ショーケースにドールが並ぶコーナーを探してください。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,11 @@
    "The buyback desk shuts at 19:00, an hour before the shop, so do not turn up late to sell.",
    "It is run by the used-clothing chain Closet Child and has several Tokyo branches, including Doll Up! Akihabara in Kanda-Sudacho.",
    "Dealer-made outfits and accessories are bought and sold as well as the dolls; buyback prices are not quoted over the phone."
+  ],
+  "ja": [
+   "買取の受付は19:00で終わり、営業時間より1時間短くなっています。売りに行くなら遅い時間は避けてください。",
+   "古着チェーンのクローゼットチャイルドが運営しており、神田須田町のDOLL UP! 秋葉原店をはじめ都内に複数の店舗があります。",
+   "ドール本体だけでなく、ディーラー製のアウトフィットや小物も買取・販売しています。買取価格は電話では教えてもらえません。"
   ]
  },
  "official_url": "https://www.dollyteria.com/",

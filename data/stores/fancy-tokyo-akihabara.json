@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "POP MART 블라인드박스와 스티커·스퀴시·다마고치를 파는 팬시 잡화점",
-  "en": "POP MART blind boxes, stickers, squishies and Tamagotchi goods in a fancy-goods shop"
+  "en": "POP MART blind boxes, stickers, squishies and Tamagotchi goods in a fancy-goods shop",
+  "ja": "POP MARTのブラインドボックスやシール、スクイーズ、たまごっちを扱うファンシー雑貨店"
  },
  "building_id": null,
  "floors": [
@@ -55,7 +56,8 @@
  },
  "how_to_find": {
   "ko": "구라마에바시도리 남쪽 면, 스에히로초 교차로에서 서쪽으로 한두 블록 걸으면 나오는 1층 점포. 케이블·커넥터 전문점이던 '컴퓨에이스 아키하바라점'이 2025년 9월 폐점한 자리에 그대로 들어와 있어, 예전 점포를 알던 사람은 위치를 바로 찾을 수 있다.",
-  "en": "A ground-floor unit on the south side of Kuramaebashi-dori, a block or two west of the Suehirocho crossing. It took over the premises of CompuAce Akihabara, the cable and connector shop that closed in September 2025, so the storefront is easy to place if you knew the old shop."
+  "en": "A ground-floor unit on the south side of Kuramaebashi-dori, a block or two west of the Suehirocho crossing. It took over the premises of CompuAce Akihabara, the cable and connector shop that closed in September 2025, so the storefront is easy to place if you knew the old shop.",
+  "ja": "蔵前橋通りの南側、末広町の交差点から西へ1〜2ブロック歩いたところにある1Fの路面店です。ケーブル・コネクタ専門店だったコンピュエース秋葉原店が2025年9月に閉店した跡にそのまま入っているので、以前の店を知っていればすぐ分かります。"
  },
  "tips": {
   "ko": [
@@ -69,6 +71,12 @@
    "It is run by Tokyo Hobby Center, the Akihabara figure and goods chain.",
    "A mini crane game corner makes it workable for children and first-timers.",
    "A new shop opened around April-May 2026 with no published hours; a 2 May 2026 report found it still had no signboard, so check its X (@fancy_tokyo_) or Instagram first."
+  ],
+  "ja": [
+   "アニメグッズの店ではなく、POP MARTのブラインドボックス、シール、スクイーズ、たまごっち、平成レトロ雑貨を扱うファンシー系の店です。",
+   "フィギュアやグッズの販売と買取を行う東京ホビーセンターの系列店です。",
+   "ミニクレーンゲームのコーナーがあり、子どもや初心者でも景品を狙えます。",
+   "2026年4〜5月に開店した新しい店で、公式の営業時間の案内がありません。2026年5月2日時点ではまだ看板も出ていなかったので、行く前に公式X（@fancy_tokyo_）やInstagramを確認するとよいです。"
   ]
  },
  "official_url": "https://www.instagram.com/fanshy_tokyo/",

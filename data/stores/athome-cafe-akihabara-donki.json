@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "돈키호테 5층의 앳홈카페 지점. 메이드 오므라이스와 체키 촬영",
-  "en": "at-home cafe branch on Don Quijote 5F: maid omurice, drinks and cheki photos"
+  "en": "at-home cafe branch on Don Quijote 5F: maid omurice, drinks and cheki photos",
+  "ja": "ドン・キホーテ5Fのあっとほぉーむカフェ、メイドのオムライスとドリンク、チェキ"
  },
  "building_id": "don-quijote-akihabara",
  "floors": [
@@ -66,11 +67,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "라스트오더는 마감 40분 전. 날짜에 따라 단축 영업하는 날이 있어(2026-09-05는 10:00~21:00) 공식 사이트의 '오늘의 영업시간'을 확인하는 편이 좋다. 돈키호테 본매장은 24시간이지만 카페는 위 시간에만 연다.",
-   "en": "Last order is 40 minutes before closing. Some days are shortened (5 Sep 2026 ran 10:00-21:00), so check \"today's business hours\" on the official site. Don Quijote itself is open 24 hours, but the cafe keeps only the hours above."
+   "en": "Last order is 40 minutes before closing. Some days are shortened (5 Sep 2026 ran 10:00-21:00), so check \"today's business hours\" on the official site. Don Quijote itself is open 24 hours, but the cafe keeps only the hours above.",
+   "ja": "ラストオーダーは閉店の40分前です。日によっては短縮営業になり（2026年9月5日は10:00〜21:00）、公式サイトの本日の営業時間を確認してください。ドン・キホーテ自体は24時間営業ですが、カフェは上記の時間だけの営業です。"
   },
   "source_url": "https://www.cafe-athome.com/cafes/"
  },
@@ -86,7 +89,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에 면한 돈키호테 아키하바라점 5층으로, 같은 층의 코스프레관 옆에 입구가 있다. 8층 AKB48 극장보다 세 층 아래다. 1층 입구에서 에스컬레이터나 엘리베이터로 올라간 뒤 매장 앞 엔트리 기계에서 순번을 받는다.",
-  "en": "On 5F of Don Quijote Akihabara facing Chuo-dori, next to the cosplay hall on the same floor and three floors below the AKB48 Theater on 8F. Take the escalator or lift from the ground-floor entrance, then register at the entry machine by the cafe door."
+  "en": "On 5F of Don Quijote Akihabara facing Chuo-dori, next to the cosplay hall on the same floor and three floors below the AKB48 Theater on 8F. Take the escalator or lift from the ground-floor entrance, then register at the entry machine by the cafe door.",
+  "ja": "中央通りに面したドン・キホーテ秋葉原店の5Fで、同じフロアのコスプレ館の隣、8FのAKB48劇場より3つ下の階です。1Fの入口からエスカレーターかエレベーターで上がり、店の入口にあるエントリー機で受付をします。"
  },
  "tips": {
   "ko": [
@@ -100,6 +104,12 @@
    "This is a separate cafe from the main store (Mitsuwa Building 3F-7F) and from the Akiba Cultures Zone branch; the Donki branch is a single, smaller floor.",
    "Besides cash it takes credit cards and QR payments (PayPay, WeChat Pay, Alipay, au PAY, d Payment, Rakuten Pay). Electronic money (QUICPay, iD, transit IC) ends in October 2026.",
    "The Don Quijote building is open 24 hours but the cafe closes at 22:00, so it is not a late-night option."
+  ],
+  "ja": [
+   "メニュー代のほかに入場料がかかり、全員が1ドリンク以上を注文する必要があります。入場には無料アプリか入口のエントリー機で順番を受け付けなければなりません。",
+   "本店（ミツワビル3F〜7F）やAKIBAカルチャーズZONE店とは別の店舗で、ドンキ店はワンフロアなので規模が小さめです。",
+   "現金のほかクレジットカードとQR決済（PayPay、WeChat Pay、Alipay、au PAY、d払い、楽天ペイ）が使えます。電子マネー（QUICPay・iD・交通系IC）は2026年10月で取り扱いが終わります。",
+   "ドン・キホーテの建物は24時間営業ですが、カフェは22:00に閉まるので深夜には利用できません。"
   ]
  },
  "official_url": "https://www.cafe-athome.com/",

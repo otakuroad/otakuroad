@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 한 작품씩 전개하는 2층 한정 콜라보 굿즈 팝업 매장",
-  "en": "2F pop-up shop with limited collaboration goods for one anime or game title at a time"
+  "en": "2F pop-up shop with limited collaboration goods for one anime or game title at a time",
+  "ja": "アニメ・ゲームを1作品ずつ展開する2Fの期間限定コラボグッズ店"
  },
  "building_id": "atre-akihabara-1",
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "아트레 아키하바라1 휴관일에 준함",
-   "en": "Closes when Atre Akihabara 1 closes"
+   "en": "Closes when Atre Akihabara 1 closes",
+   "ja": "アトレ秋葉原1の休館日に準じます"
   },
   "note": {
    "ko": "아트레 공식 점포 페이지 기준 10:00-21:00으로 건물 영업시간과 같다. 전개 작품에 따라 입장 방법이나 마감이 달라질 수 있어 개최 중인 콜라보 공지를 확인하는 편이 안전하다.",
-   "en": "10:00-21:00 per Atre's shop page, the same as the building. Entry rules and closing can differ per collaboration, so check the notice for the title currently running."
+   "en": "10:00-21:00 per Atre's shop page, the same as the building. Entry rules and closing can differ per collaboration, so check the notice for the title currently running.",
+   "ja": "アトレの店舗ページ基準で10:00-21:00と、建物の営業時間と同じです。コラボによって入場方法や終了時刻が変わることがあるので、開催中の作品の告知を確認してください。"
   },
   "source_url": "https://www.atre.co.jp/akihabara/shop/5656/"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "아트레 아키하바라1 2층, 반다이남코 크로스 스토어·아이돌마스터 오피셜숍·산세이도 서점과 같은 층이다. 3층에 이름이 같은 1호점이 따로 있으므로 반드시 층(2F)으로 구분한다.",
-  "en": "On 2F of Atre Akihabara 1, the floor shared with the BANDAI NAMCO Cross Store, the iDOLM@STER Official Shop and Books Sanseido. An identically named No.1 unit is on 3F, so go by the floor."
+  "en": "On 2F of Atre Akihabara 1, the floor shared with the BANDAI NAMCO Cross Store, the iDOLM@STER Official Shop and Books Sanseido. An identically named No.1 unit is on 3F, so go by the floor.",
+  "ja": "アトレ秋葉原1の2階で、バンダイナムコ Cross Store アトレ秋葉原店、アイドルマスター オフィシャルショップ アトレ秋葉原店、三省堂書店と同じフロアです。3階に同じ名前の1号店があるので、階で見分けてください。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,12 @@
    "Run lengths vary a lot by title - some last a few weeks, others more than half a year - so check the current title and its dates on the Cross Store's event notice or Atre's shop page before coming for a specific series.",
    "The BANDAI NAMCO Cross Store and the iDOLM@STER Official Shop are on the same 2F, so the goods shops can be done in one pass.",
    "A JRE POINT member shop on Atre's directory, so Suica and JRE CARD work. No tax-free mark is shown."
+  ],
+  "ja": [
+   "3階の1号店とは同時に別々の作品を展開しています。名前が同じなので、2Fか3Fかで見分けてください。",
+   "展開期間は作品によって大きく違い、数週間のものもあれば半年を超えるものもあります。特定の作品のグッズが目的なら、バンダイナムコ Cross Store アトレ秋葉原店の開催情報かアトレの店舗ページで、いまの作品と期間を先に確認してください。",
+   "同じ2階にバンダイナムコ Cross Store アトレ秋葉原店とアイドルマスター オフィシャルショップ アトレ秋葉原店があるので、グッズ店を一度に回れます。",
+   "アトレのフロアガイドではJRE POINT対象店舗なので、SuicaやJRE CARDが使えます。免税の表示はありません。"
   ]
  },
  "official_url": "https://www.atre.co.jp/akihabara/shop/5656/",

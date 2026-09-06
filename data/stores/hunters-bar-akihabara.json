@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "몬스터 헌터 공식 콜라보 주점. 헌터 요리와 랜덤 캔뱃지, 게임 소품 전시",
-  "en": "Official Monster Hunter collaboration bar: hunter-themed dishes and random can badges"
+  "en": "Official Monster Hunter collaboration bar: hunter-themed dishes and random can badges",
+  "ja": "モンスターハンター公式コラボ酒場。ハンター料理とランダム缶バッジ"
  },
  "building_id": "pasela-akiba",
  "floors": [
@@ -65,7 +66,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 자유 입장제로 혼잡할 때만 최대 120분 제한이 붙고, 토·일·공휴일은 90분 교체제다. 라스트오더는 예약 시간으로부터 50분 후. 예약은 1개월 전부터 웹에서 받고 당일 예약은 웹과 매장에서 받는다.",
-   "en": "Weekdays are free seating with a 120-minute cap only when it is busy; Saturdays, Sundays and public holidays run in 90-minute slots. Last order is 50 minutes after your reserved start time. Web bookings open a month ahead and same-day bookings are taken online or at the door."
+   "en": "Weekdays are free seating with a 120-minute cap only when it is busy; Saturdays, Sundays and public holidays run in 90-minute slots. Last order is 50 minutes after your reserved start time. Web bookings open a month ahead and same-day bookings are taken online or at the door.",
+   "ja": "平日は自由入場制で、混雑しているときだけ最大120分の制限が付き、土日祝は90分の入替制です。ラストオーダーは予約時間から50分後です。予約は1か月前からウェブで受け付け、当日の予約はウェブと店頭で受け付けます。"
   },
   "source_url": "https://paselabo.pasela.co.jp/hunters-bar/"
  },
@@ -81,7 +83,8 @@
  },
  "how_to_find": {
   "ko": "파세라 리조트 AKIBA 건물 3층 전체를 쓴다. 1층 카라오케 파세라 접수 옆 엘리베이터로 3층에 내리면 바로 입구다. 2층 에오르제아 카페·그랑사이퍼 키친과 함께 같은 건물에 게임 콜라보 점포가 모여 있다.",
-  "en": "Takes up the whole 3F of Pasela Resorts AKIBA; the entrance is right off the lift beside the 1F Karaoke Pasela reception. The same building stacks the Eorzea Cafe and Grandcypher KITCHEN on 2F."
+  "en": "Takes up the whole 3F of Pasela Resorts AKIBA; the entrance is right off the lift beside the 1F Karaoke Pasela reception. The same building stacks the Eorzea Cafe and Grandcypher KITCHEN on 2F.",
+  "ja": "パセラリゾーツAKIBA マルチエンターテインメントの3Fをまるごと使っています。1Fのカラオケパセラの受付横にあるエレベーターで3Fに降りると、すぐ目の前が入口です。同じ建物の2Fにはファイナルファンタジーエオルゼアカフェとグランサイファーキッチンがあり、ゲームコラボの店舗が集まっています。"
  },
  "tips": {
   "ko": [
@@ -93,6 +96,11 @@
    "Weekdays start at 12:00 but weekends and holidays open earlier, at 10:45.",
    "Every visit comes with an original canvas-fabric can badge, random from 25 designs.",
    "Last order falls just 50 minutes after your slot begins, so order extras and merch early."
+  ],
+  "ja": [
+   "平日は12:00から、土日祝は10:45からで、週末のほうが早く開きます。",
+   "利用するとオリジナルのキャンバス生地の缶バッジ（全25種のランダム）がもらえます。",
+   "ラストオーダーが予約時間の50分後と早めなので、グッズや追加の注文は早めに済ませておくとよいでしょう。"
   ]
  },
  "official_url": "https://paselabo.pasela.co.jp/hunters-bar/",

@@ -30,7 +30,8 @@
  ],
  "one_line": {
   "ko": "게임·애니 콜라보 카페를 자주 여는 지하 1층 순수 메이드 카페",
-  "en": "Basement pure maid cafe that regularly runs game and anime collaboration cafes"
+  "en": "Basement pure maid cafe that regularly runs game and anime collaboration cafes",
+  "ja": "ゲームやアニメのコラボカフェをよく開くB1Fの純粋なメイドカフェ"
  },
  "building_id": null,
  "floors": [
@@ -62,11 +63,13 @@
   ],
   "regular_holiday": {
    "ko": "부정기 휴무",
-   "en": "Irregular holidays"
+   "en": "Irregular holidays",
+   "ja": "不定休"
   },
   "note": {
    "ko": "라스트 오더 20:30. 90분 1오더제이며 만석일 때는 90분 시간제로 운영된다. 정기 휴일 대신 부정기 휴무이므로 방문 전 공식 사이트 NEWS를 확인한다.",
-   "en": "Last order 20:30. One order per 90 minutes, and seating is capped at 90 minutes when the cafe is full. There is no fixed closing day - holidays are irregular, so check the NEWS page before going."
+   "en": "Last order 20:30. One order per 90 minutes, and seating is capped at 90 minutes when the cafe is full. There is no fixed closing day - holidays are irregular, so check the NEWS page before going.",
+   "ja": "ラストオーダーは20:30です。90分1オーダー制で、満席のときは90分の時間制で運営されます。決まった定休日はなく不定休なので、訪問前に公式サイトのNEWSを確認してください。"
   },
   "source_url": "https://jam-akiba.com/"
  },
@@ -82,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리 한 블록 서쪽 뒷골목을 따라 북쪽으로 도보 6분. 소토칸다 3초메의 야마구치(山口) 빌딩 지하 1층으로, 라이브하우스가 늘어선 블록에 있어 이웃한 ZEST·Box'R와 헷갈리기 쉽다. 계단으로 지하 1층까지 내려간다.",
-  "en": "Six minutes north from the JR Akihabara Electric Town Exit along the back street one block west of Chuo-dori, in the basement of the Yamaguchi Building in Sotokanda 3-chome. The block is a row of live houses, so it is easy to mix up with ZEST and Box'R next door; take the stairs down to B1F."
+  "en": "Six minutes north from the JR Akihabara Electric Town Exit along the back street one block west of Chuo-dori, in the basement of the Yamaguchi Building in Sotokanda 3-chome. The block is a row of live houses, so it is easy to mix up with ZEST and Box'R next door; take the stairs down to B1F.",
+  "ja": "JR秋葉原駅の電気街口から、中央通りより1本西の裏通りを北へ徒歩6分、外神田3丁目の山口ビルのB1Fです。ライブハウスが並ぶブロックなので隣の秋葉原ZESTやBox'R AKIBAビルと間違えやすく、階段でB1Fまで下ります。"
  },
  "tips": {
   "ko": [
@@ -96,6 +100,12 @@
    "One point per 1,000 yen spent, and 20 points can be exchanged for merchandise.",
    "Collaboration cafes with bishoujo games and anime run often, changing the limited-time menu and bonus items; dates are posted on the NEWS page.",
    "It is a plain maid cafe, not a live house - do not come expecting idol performances."
+  ],
+  "ja": [
+   "90分1オーダー制で、満席のときは90分の時間制になります。ラストオーダーは20:30です。",
+   "1,000円ごとに1ポイントたまり、20ポイントでグッズと交換できます。",
+   "美少女ゲームやアニメとのコラボカフェがよく開かれ、期間限定メニューや特典が入れ替わります。日程は公式サイトのNEWSで確認できます。",
+   "ライブハウスではなく純粋なメイドカフェです。アイドルの公演を期待して行かないでください。"
   ]
  },
  "official_url": "https://jam-akiba.com/",

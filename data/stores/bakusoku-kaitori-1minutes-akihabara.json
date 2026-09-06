@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "카드를 최단 1분에 감정해 그 자리에서 현금으로 사들이는 트레카모올 5층 매입 카운터",
-  "en": "Buyback counter on the 5F card mall that appraises in as little as a minute and pays cash on the spot"
+  "en": "Buyback counter on the 5F card mall that appraises in as little as a minute and pays cash on the spot",
+  "ja": "最短1分で査定してその場で現金払いする5Fトレカモールの買取カウンター"
  },
  "building_id": "edion-akiba",
  "floors": [
@@ -61,7 +62,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "점포가 X(@1minutes_akiba)에 매일 올리는 개점 안내에 영업시간 13:00~19:00으로 적혀 있고, 프로필에도 매입 시간 13~19시로 나온다. 운영사 파레트그룹이 발표한 5층 트레카모올 층 영업시간(11:00~19:00)보다 두 시간 늦게 열어 오전에는 이 카운터만 닫혀 있다.",
-   "en": "The shop's own daily opening posts on X (@1minutes_akiba) state 13:00-19:00, and its profile gives the same 13:00-19:00 buyback window. That is two hours later than the 11:00-19:00 floor hours the mall operator announced for the 5F Toreca Mall, so this counter alone is shut in the morning."
+   "en": "The shop's own daily opening posts on X (@1minutes_akiba) state 13:00-19:00, and its profile gives the same 13:00-19:00 buyback window. That is two hours later than the 11:00-19:00 floor hours the mall operator announced for the 5F Toreca Mall, so this counter alone is shut in the morning.",
+   "ja": "店舗がX（@1minutes_akiba）に毎日投稿する開店の告知には13:00〜19:00とあり、プロフィールにも買取時間13:00〜19:00と出ています。運営元がこの5Fのトレカモールについて発表しているフロアの営業時間11:00〜19:00より2時間遅いため、午前中はこのカウンターだけが閉まっています。"
   },
   "source_url": "https://x.com/1minutes_akiba/status/2095361251950137513"
  },
@@ -77,7 +79,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 주오도리를 따라 남쪽으로 1~2분, 만세바시 교차로 모퉁이의 파란 건물(에디온 AKIBA·라오쿠스 아키하바라 본점) 5층. 가전 매장과는 입구가 달라 라오쿠스 쪽 엘리베이터로 5층에 올라가면 트레카모올 5F 플로어이고 그 안의 매입 카운터다.",
-  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Take the Laox-side elevator - not the electronics entrance - to 5F; the counter is inside the Toreca Mall floor."
+  "en": "One to two minutes south of the JR Electric Town Exit along Chuo-dori, in the blue building on the Manseibashi crossing (EDION AKIBA / Laox Akihabara Main Store). Take the Laox-side elevator - not the electronics entrance - to 5F; the counter is inside the Toreca Mall floor.",
+  "ja": "JRの電気街口から中央通りを南へ1〜2分、万世橋の交差点に建つ青いビル（エディオンAKIBA・ラオックス 秋葉原本店）の5Fです。家電の入口ではなくラオックス側のエレベーターで5Fに上がると、トレカモールのフロアの中にこのカウンターがあります。"
  },
  "tips": {
   "ko": [
@@ -91,6 +94,12 @@
    "It advertises strengthened buying of singles and PSA-graded cards; the buy list lives on a separate account, @toreka_kanpai.",
    "It opens at 13:00, two hours after the rest of the floor, and everything closes at 19:00, so plan selling trips for the afternoon.",
    "Whether it sells anything over the counter is not stated anywhere public; for buying, use the other Toreca Mall shops on this floor and in the basement."
+  ],
+  "ja": [
+   "査定は最短1分、買取代金は全額現金払いをうたう買取中心のカウンターで、急いで手放したいときに便利です。",
+   "シングルとPSA鑑定品の買取をとくに強化していると告知しており、買取表は別のアカウント（@toreka_kanpai）にあります。",
+   "同じフロアのほかの店舗より2時間遅い13:00に開き、全体が19:00に閉まるので、売りに行く日は午後に予定を組んでください。",
+   "店頭で販売もしているかどうかは公になっていません。買うのであれば、このフロアや地下1階のほかのトレカモールの店舗を利用してください。"
   ]
  },
  "photo": null,

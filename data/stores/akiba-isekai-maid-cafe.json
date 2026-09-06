@@ -32,7 +32,8 @@
  ],
  "one_line": {
   "ko": "'아키바×이세계×메이드' 콘셉트의 70석 메이드 카페. 식사·디저트와 라이브",
-  "en": "70-seat maid cafe themed 'Akiba x isekai x maid', with meals, desserts and lives"
+  "en": "70-seat maid cafe themed 'Akiba x isekai x maid', with meals, desserts and lives",
+  "ja": "アキバ×異世界×メイドがコンセプトの70席のメイドカフェ、食事やデザートとライブも"
  },
  "building_id": "akihabara-denpa-kaikan",
  "floors": [
@@ -61,11 +62,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴(부정기 휴무)",
-   "en": "Open year-round, with occasional irregular closures"
+   "en": "Open year-round, with occasional irregular closures",
+   "ja": "年中無休（不定休あり）"
   },
   "note": {
    "ko": "공식 사이트는 12:00-22:00, 연중무휴(부정기 휴무)로 안내한다. 구르나비와 매장 gorp.jp 페이지에는 12:00-21:00, 주류 제공 20:00까지·라스트오더 19:30으로 남아 있으므로 늦은 시간에 간다면 확인이 필요하다.",
-   "en": "The official site lists 12:00-22:00, open year-round with irregular closures. Gnavi and the shop's gorp.jp page still show 12:00-21:00 with alcohol until 20:00 and last order 19:30, so check before a late visit."
+   "en": "The official site lists 12:00-22:00, open year-round with irregular closures. Gnavi and the shop's gorp.jp page still show 12:00-21:00 with alcohol until 20:00 and last order 19:30, so check before a late visit.",
+   "ja": "公式サイトは12:00〜22:00、年中無休（不定休あり）と案内しています。ぐるなびと店舗のgorp.jpのページには12:00〜21:00、酒類提供20:00まで・ラストオーダー19:30と残っているため、遅い時間に行くなら確認が必要です。"
   },
   "source_url": "https://thegranvania.com/"
  },
@@ -81,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 30초, 아키하바라 전파회관(秋葉原電波会館) 2층. 2019년 폐점한 유럽풍 길드 레스토랑 '더 그란바니아' 자리에 2020년 9월 문을 열었다.",
-  "en": "Thirty seconds from JR Akihabara's Electric Town Exit, on 2F of the Akihabara Denpa Kaikan. It opened in September 2020 in the space left by the European-style guild restaurant The Granvania, which closed in 2019."
+  "en": "Thirty seconds from JR Akihabara's Electric Town Exit, on 2F of the Akihabara Denpa Kaikan. It opened in September 2020 in the space left by the European-style guild restaurant The Granvania, which closed in 2019.",
+  "ja": "JR秋葉原駅電気街口から徒歩30秒、秋葉原電波会館の2Fです。2019年に閉店したヨーロッパ風のギルドレストラン、ザ・グランバニアの跡地に2020年9月にオープンしました。"
  },
  "tips": {
   "ko": [
@@ -95,6 +99,12 @@
    "The whole shop is non-smoking and children are allowed.",
    "Credit cards and transit e-money and other cashless payments are accepted.",
    "It is run by Mixculture, the same company as Akiba Zettai Ryoiki, but it is a separate brand and is not on that group's official shop list."
+  ],
+  "ja": [
+   "全70席の大型店なので、団体での利用や、待たずに入りたいときに便利です。",
+   "店内は全面禁煙で、お子様連れでも利用できます。",
+   "クレジットカードや交通系電子マネーなどのキャッシュレス決済が使えます。",
+   "運営はアキバ絶対領域と同じ株式会社ミックスカルチャーですが、アキバ絶対領域の公式店舗一覧には入っていない別ブランドです。"
   ]
  },
  "official_url": "https://thegranvania.com/",

@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "슈퍼돌피 중심의 중고 구체관절인형(BJD)과 위그·아이·돌 의상 판매·매입",
-  "en": "Second-hand ball-jointed dolls, mainly Super Dollfie, plus wigs, eyes and outfits; buyback"
+  "en": "Second-hand ball-jointed dolls, mainly Super Dollfie, plus wigs, eyes and outfits; buyback",
+  "ja": "スーパードルフィー中心の中古球体関節人形とウィッグ・アイ・ドール衣装の販売・買取"
  },
  "building_id": null,
  "floors": [
@@ -66,7 +67,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "매입 접수는 19:00까지. 운영사 도리테리아의 점포 페이지에는 아키하바라점 정기휴일 표기가 없다(이케부쿠로 2호점은 수요일, 신주쿠 니시구치점은 월요일 휴무). 전화로는 매입 가격을 알려주지 않는다. 문의 03-6262-9009.",
-   "en": "Buyback closes at 19:00. The operator's shop page lists no regular closing day for Akihabara (Ikebukuro 2 closes Wednesdays, Shinjuku Nishiguchi Mondays). They will not quote buyback prices over the phone. Tel 03-6262-9009."
+   "en": "Buyback closes at 19:00. The operator's shop page lists no regular closing day for Akihabara (Ikebukuro 2 closes Wednesdays, Shinjuku Nishiguchi Mondays). They will not quote buyback prices over the phone. Tel 03-6262-9009.",
+   "ja": "買取の受付は19:00までです。運営会社の店舗ページには秋葉原店の定休日の記載がありません（池袋2号店は水曜日、新宿西口店は月曜日が定休日）。買取価格は電話では教えてもらえません。問い合わせは03-6262-9009です。"
   },
   "source_url": "https://www.dollyteria.info/shop"
  },
@@ -82,7 +84,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 전기가 거리에서 만세이바시를 건너 남쪽, 간다스다초 2초메의 GOODAY BLDG AKIHABARA 1층. 바로 옆이 애니송 카페 '스타즈'다. 성인용 매장이 아니라 볼크스 계열 구체관절인형을 다루는 취미 매장이다.",
-  "en": "South of the electronics blocks, across the Manseibashi bridge in Kanda-Sudacho 2-chome, on the 1F of GOODAY BLDG AKIHABARA, next door to the anisong cafe Stars. Despite the name it is a hobby doll shop, not an adult shop."
+  "en": "South of the electronics blocks, across the Manseibashi bridge in Kanda-Sudacho 2-chome, on the 1F of GOODAY BLDG AKIHABARA, next door to the anisong cafe Stars. Despite the name it is a hobby doll shop, not an adult shop.",
+  "ja": "電気街の街区から南、万世橋を渡った神田須田町2丁目にあるGOODAY BLDG AKIHABARAの1Fで、隣はアニソンカフェのStarsです。名前から想像されるような成人向けの店ではなく、球体関節人形を扱うホビーショップです。"
  },
  "tips": {
   "ko": [
@@ -94,6 +97,11 @@
    "Older Japanese directories still show a stale address at 外神田3-14-6 Keiko Building 6F; the operator's own page gives Kanda-Sudacho 2-23-9.",
    "If you want to sell, arrive before 19:00 - and they will not quote prices by phone.",
    "The same operator's Dolly Teria on Radio Kaikan 5F is a separate shop."
+  ],
+  "ja": [
+   "古い日本語のディレクトリには外神田3-14-6 恵光ビル6Fという古い住所が残っています。運営会社の公式店舗ページによる現在の住所は神田須田町2-23-9です。",
+   "買取を依頼するなら19:00までに到着する必要があり、電話では価格を教えてもらえません。",
+   "同じ運営会社のドーリーテリア秋葉原ラジオ会館店（ラジオ会館5F）は別の店舗です。"
   ]
  },
  "official_url": "https://www.dollyteria.info/shop",

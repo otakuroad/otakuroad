@@ -36,7 +36,8 @@
  ],
  "one_line": {
   "ko": "전동건·가스건과 밀리터리 장비를 파는 서바이벌 게임 전문점. 커스텀 의뢰와 중고 매입도 받는다",
-  "en": "Airsoft shop for electric and gas guns and tactical gear, also taking custom work and used buyback"
+  "en": "Airsoft shop for electric and gas guns and tactical gear, also taking custom work and used buyback",
+  "ja": "電動ガン・ガスガンとミリタリー装備のサバイバルゲーム専門店、カスタム依頼と中古買取も"
  },
  "building_id": null,
  "floors": [
@@ -68,11 +69,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴 (공식 표기 「定休日 なし」)",
-   "en": "No regular closing day (the site states 定休日 なし)"
+   "en": "No regular closing day (the site states 定休日 なし)",
+   "ja": "定休日なし（公式サイトも定休日なしと明記）"
   },
   "note": {
    "ko": "중고 매입 접수는 13:00–19:00(최종 접수 18:00)에만 하며 사전 전화 예약 손님이 우선이다",
-   "en": "The used-buyback desk runs 13:00-19:00 (last reception 18:00) and pre-booked customers get priority"
+   "en": "The used-buyback desk runs 13:00-19:00 (last reception 18:00) and pre-booked customers get priority",
+   "ja": "中古買取の受付は13:00〜19:00（最終受付18:00）のみで、事前に電話予約したお客様が優先されます。"
   },
   "source_url": "https://41px.jp/41akihabara/"
  },
@@ -88,7 +91,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역 4번 출구에서 도보 1분, 사카이 스에히로(サカイ末広) 빌딩 지하 1층. JR 전기가 출구에서는 주오도리를 따라 북쪽으로 8분쯤 올라간다. 같은 빌딩 2층에 아키바 절대영역+E, 4·5층에 타무타무가 있어 1층에서 지하로 내려가면 된다.",
-  "en": "In the basement of the Sakai Suehiro Building, a minute from Exit 4 of Suehirocho station on the Ginza line and about eight minutes north along Chuo-dori from the JR Electric Town Exit. Go down from street level; Akiba Zettai Ryoiki+E is on 2F and TamTam on 4F-5F of the same building."
+  "en": "In the basement of the Sakai Suehiro Building, a minute from Exit 4 of Suehirocho station on the Ginza line and about eight minutes north along Chuo-dori from the JR Electric Town Exit. Go down from street level; Akiba Zettai Ryoiki+E is on 2F and TamTam on 4F-5F of the same building.",
+  "ja": "東京メトロ銀座線末広町駅4番出口から徒歩1分、サカイ末広ビルの地下1階です。JRの電気街口からは中央通りを北へ8分ほど上がります。同じビルの2階にアキバ絶対領域 +e、4階と5階にホビーショップ タムタム 秋葉原店が入っており、1階から地下へ下ります。"
  },
  "tips": {
   "ko": [
@@ -102,6 +106,12 @@
    "Used buyback runs only 13:00-19:00 (last reception 18:00) and booked customers come first, so call 03-5812-4273 ahead if you want to sell something.",
    "The line-up centres on Tokyo Marui, G&G and Vector Optics, and the shop also takes custom work on electric guns.",
    "The same chain runs Machida, Omiya and Kochi branches plus AREA41 Yokohama, so stock differs from store to store."
+  ],
+  "ja": [
+   "12:00〜21:00に年中無休で営業しているので、ほかのホビーショップが閉まる夜遅い時間帯でも立ち寄れます。",
+   "中古買取の受付は13:00〜19:00（最終受付18:00）のみで、予約のお客様が優先されますので、売りたい物があれば先に03-5812-4273へ電話するほうが確実です。",
+   "品揃えは東京マルイ・G&G・Vector Opticsが中心で、電動ガンのカスタム依頼も店頭で受け付けています。",
+   "町田店・大宮店・高知店と横浜のAREA41をあわせて運営するチェーンのため、在庫の構成は店舗ごとに異なります。"
   ]
  },
  "photo": null,

@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "애니·특촬·게임 피규어와 아크릴 굿즈·캔뱃지·인형을 파는 캐릭터 굿즈점",
-  "en": "Anime, tokusatsu and game figures plus acrylic goods, can badges and plush toys"
+  "en": "Anime, tokusatsu and game figures plus acrylic goods, can badges and plush toys",
+  "ja": "アニメ・特撮・ゲームのフィギュアとアクリルグッズ、缶バッジ、ぬいぐるみを扱う店"
  },
  "building_id": null,
  "floors": [],
@@ -64,7 +65,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "공식 사이트에는 요일 구분 없이 '営業時間：11時00分～20時30分'만 적혀 있고 정기 휴일 표기는 없다. 공식 X도 전일 11:00~20:30이라고 안내하며, 매입 접수는 19:30에 마감한다고 덧붙인다.",
-   "en": "The official site gives a single 11:00-20:30 with no day-by-day split and states no regular closing day. The shop's own X repeats the all-week 11:00-20:30 and adds that buyback is only accepted until 19:30."
+   "en": "The official site gives a single 11:00-20:30 with no day-by-day split and states no regular closing day. The shop's own X repeats the all-week 11:00-20:30 and adds that buyback is only accepted until 19:30.",
+   "ja": "公式サイトには曜日の区別なく営業時間11:00〜20:30とだけ記載されており、定休日の表記はありません。公式Xも全日11:00〜20:30と案内し、買取の受付は19:30までと付け加えています。"
   },
   "source_url": "https://ec.havikorotoy.com/pages/store"
  },
@@ -80,7 +82,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽 보도, 소토칸다 1-11 블록에 있다. 같은 블록의 이웃 번지가 코믹 ZIN(1-11-7)과 무란 AKIBA 주오도리 호비관이 든 제2주에이빌딩(1-11-9)이므로 두 곳 사이를 보면 된다. GiGO 아키하바라 3호관에서 북쪽으로 한 구획, JR 아키하바라역 전기가 출구에서 도보 5분.",
-  "en": "On the west pavement of Chuo-dori in the Sotokanda 1-11 block. Its neighbouring house numbers are Comic ZIN (1-11-7) and the Dai-2 Chuei Building holding Mulan AKIBA Chuo-dori Hobby Kan (1-11-9), so look between the two. One block north of GiGO Akihabara No.3, five minutes from JR Akihabara's Electric Town Exit."
+  "en": "On the west pavement of Chuo-dori in the Sotokanda 1-11 block. Its neighbouring house numbers are Comic ZIN (1-11-7) and the Dai-2 Chuei Building holding Mulan AKIBA Chuo-dori Hobby Kan (1-11-9), so look between the two. One block north of GiGO Akihabara No.3, five minutes from JR Akihabara's Electric Town Exit.",
+  "ja": "中央通り西側の歩道、外神田1-11のブロックにあります。隣の番地がCOMIC ZIN 秋葉原店（1-11-7）と、買取販売市場ムーランAKIBA中央通りホビー館が入るDai-2 Chuei Building（1-11-9）なので、その2軒の間を見てください。GiGO秋葉原3号館から北へ一区画、JR秋葉原駅の電気街口から徒歩5分です。"
  },
  "tips": {
   "ko": [
@@ -98,6 +101,14 @@
    "They buy both new and used items, but the buyback counter closes at 19:30, an hour before the shop does.",
    "Neither tax-free service nor card acceptance is stated on the official site, so bring cash.",
    "The branch's own X account is @kaizoku_card2, which is where its notices are posted."
+  ],
+  "ja": [
+   "ハビコロ玩具の秋葉原の店舗で、中央通りに面しているのはここだけです。ほかはAKIBAカルチャーズZONEの3F（カルチャーズ店、オトメ秋葉原店、オレヨメ店、カワイイ店）と秋葉原ラジオ会館の2Fに入っています。",
+   "公式サイトが掲げる取扱品目は、フィギュア（アニメ・漫画・特撮・映画・ゲーム・ロボット・ボーカロイド・美少女）、アクリルグッズ、缶バッジ、ぬいぐるみ、色紙、チェキと、CD・DVD・Blu-rayです。",
+   "運営会社は有限会社チャップル・コーポレーションで、東京都の古物商許可（第301030706842号）を受けており、宅配買取や出張買取も行っています。",
+   "新品・中古のどちらも買取していますが、買取の受付は19:30までと閉店の1時間前に終わります。",
+   "免税やカード決済の案内は公式サイトにないため、現金を用意しておくと安心です。",
+   "この店舗の公式Xは@kaizoku_card2で、店のお知らせはそちらに投稿されます。"
   ]
  },
  "official_url": "https://ec.havikorotoy.com/pages/store",

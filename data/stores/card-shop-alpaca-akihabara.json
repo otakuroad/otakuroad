@@ -25,7 +25,8 @@
  ],
  "one_line": {
   "ko": "포켓몬 카드 싱글과 미개봉 BOX를 파는 소규모 카드숍, 매입 창구 운영",
-  "en": "Small Pokemon-card shop selling singles and sealed boxes, with a buyback counter"
+  "en": "Small Pokemon-card shop selling singles and sealed boxes, with a buyback counter",
+  "ja": "ポケモンカードのシングルと未開封BOXを扱う小さなカードショップ、買取カウンターも"
  },
  "building_id": null,
  "floors": [
@@ -51,7 +52,8 @@
  },
  "how_to_find": {
   "ko": "아키하바라 전기가 출구에서 서쪽으로 약 5분, 전자상가에서 벗어난 쇼헤이바시도리 쪽 뒷길. 오리오스펙이 든 나리타빌딩(外神田2-3-6) 바로 남쪽 건물 1층 노면 점포다.",
-  "en": "About five minutes west of the Electric Town exit, off the electronics blocks toward Shoheibashi-dori. It is the street-level unit on 1F of the building just south of the Narita Building (Sotokanda 2-3-6, home of OLIOSPEC)."
+  "en": "About five minutes west of the Electric Town exit, off the electronics blocks toward Shoheibashi-dori. It is the street-level unit on 1F of the building just south of the Narita Building (Sotokanda 2-3-6, home of OLIOSPEC).",
+  "ja": "電気街口から西へ徒歩5分ほど、電気街のブロックを抜けて昌平橋通りの方へ入ったあたりです。オリオスペックが入る成田ビル（外神田2-3-6）のすぐ南隣の建物の1階、路面の区画です。"
  },
  "tips": {
   "ko": [
@@ -61,6 +63,10 @@
   "en": [
    "Closed on Wednesdays, so check the day if you visit midweek.",
    "Buyback focuses on sealed Pokemon card boxes and stops at 19:00, an hour before closing."
+  ],
+  "ja": [
+   "水曜日が定休日なので、平日に行くなら曜日を確かめてください。",
+   "買取はポケモンカードの未開封BOXが中心で、受付は閉店1時間前の19:00に終わります。"
   ]
  },
  "official_url": "https://tcg-alpaca.shop/",

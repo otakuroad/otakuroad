@@ -31,7 +31,8 @@
  ],
  "one_line": {
   "ko": "부시로드 CD·블루레이·서적·굿즈와 뱅가드 트레카를 파는 게이머즈 4층 매장",
-  "en": "Bushiroad CDs, Blu-rays, books and goods plus Vanguard cards on Gamers 4F"
+  "en": "Bushiroad CDs, Blu-rays, books and goods plus Vanguard cards on Gamers 4F",
+  "ja": "ブシロードのCD・ブルーレイ・書籍・グッズとヴァンガードのトレカを扱うゲーマーズ4F"
  },
  "building_id": "sotokanda-1-chome-building",
  "floors": [
@@ -67,7 +68,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "평일은 11:00 개점으로 1층 서적 매장(10:00)보다 한 시간 늦다. 태풍 등 임시 휴업·시간 변경은 게이머즈 본점 X(@akiba_gema) 공지로 확인.",
-   "en": "Opens at 11:00 on weekdays, an hour later than the 1F bookshop (10:00). Typhoon closures and time changes are posted on the flagship's X account @akiba_gema."
+   "en": "Opens at 11:00 on weekdays, an hour later than the 1F bookshop (10:00). Typhoon closures and time changes are posted on the flagship's X account @akiba_gema.",
+   "ja": "平日は11:00開店で、1階の書籍売り場の10:00より1時間遅くなります。台風などによる臨時休業や時間の変更は、ゲーマーズ本店のX（@akiba_gema）のお知らせで確認できます。"
   },
   "source_url": "https://www.gamers.co.jp/shop/detail.php?id=25"
  },
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 2분, 아키하바라 게이머즈 본점 건물 4층. 1층 서적 매장 입구로 들어가 엘리베이터나 에스컬레이터로 4층까지 올라간다. 부시로드 공식 사이트는 같은 주소의 건물을 '宝田ビル', 게이머즈는 '外神田一丁目ビル'로 적지만 같은 건물이다. 같은 4층에 BanG Dream! 오피셜 콜라보 스토어가 있다.",
-  "en": "Two minutes from the JR Akihabara Electric Town exit, on 4F of the AKIHABARA Gamers flagship. Enter through the 1F bookshop and take the lift or escalator up to 4F. Bushiroad's own site calls the building 宝田ビル and Gamers calls it 外神田一丁目ビル - it is the same block. The BanG Dream! official collab store shares the floor."
+  "en": "Two minutes from the JR Akihabara Electric Town exit, on 4F of the AKIHABARA Gamers flagship. Enter through the 1F bookshop and take the lift or escalator up to 4F. Bushiroad's own site calls the building 宝田ビル and Gamers calls it 外神田一丁目ビル - it is the same block. The BanG Dream! official collab store shares the floor.",
+  "ja": "JR秋葉原駅電気街口から徒歩2分、AKIHABARAゲーマーズ本店の4Fです。1階の書籍売り場の入口から入り、エレベーターかエスカレーターで4階まで上がります。ブシロードの公式サイトはこの建物を宝田ビル、ゲーマーズは外神田一丁目ビルと表記していますが、同じ建物です。同じ4FにはBanG Dream!のオフィシャルコラボストアがあります。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,12 @@
    "The BanG Dream! official collab store shares the same floor.",
    "Credit cards, transit IC, PayPay, Alipay, WeChat Pay and book cards are accepted, but pre-order deposits are cash only.",
    "The tax-free line on the official page is left blank, so ask at the register."
+  ],
+  "ja": [
+   "2026年8月1日からヴァンガードストアがこのフロアのブシロードストア内に移り、ヴァンガードの商品やイベントも4Fで扱っています。",
+   "同じフロアにBanG Dream!のオフィシャルコラボストアが併設されています。",
+   "クレジットカード、交通系IC、PayPay、Alipay、WeChat Pay、図書カードが使えますが、予約の内金は現金のみです。",
+   "免税対応は公式ページの欄が空欄になっているので、レジで確認してください。"
   ]
  },
  "official_url": "https://www.gamers.co.jp/shop/detail.php?id=25",

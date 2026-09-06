@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "아키바오 제로 3층, 동인 굿즈·동인 게임·피규어를 파는 동인 전문점",
-  "en": "Doujin goods, doujin games and figures on 3F of the Akibaoo Zero building"
+  "en": "Doujin goods, doujin games and figures on 3F of the Akibaoo Zero building",
+  "ja": "あきばお～零のビル3Fにある同人グッズ・同人ゲーム・フィギュアの店"
  },
  "building_id": null,
  "floors": [
@@ -71,11 +72,13 @@
   ],
   "regular_holiday": {
    "ko": "매주 수요일 휴무(수요일이 공휴일이면 영업)",
-   "en": "Closed every Wednesday; open when that Wednesday is a public holiday"
+   "en": "Closed every Wednesday; open when that Wednesday is a public holiday",
+   "ja": "毎週水曜日（水曜日が祝日の場合は営業）"
   },
   "note": {
    "ko": "같은 건물 1·2층의 아키바오 제로는 평일 11:00에 열지만 3호점만 평일 12:00 개점이다. 공식 점포 안내 페이지 기준.",
-   "en": "The Akibaoo Zero floors below open at 11:00 on weekdays, but No.3 opens at 12:00. Taken from the official store list."
+   "en": "The Akibaoo Zero floors below open at 11:00 on weekdays, but No.3 opens at 12:00. Taken from the official store list.",
+   "ja": "同じビルの1F・2Fに入るあきばお～零は平日11:00に開きますが、参號店だけは平日12:00の開店です。公式の店舗案内ページによります。"
   },
   "source_url": "https://www.akibaoo.co.jp/static/n/company/"
  },
@@ -91,7 +94,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 5분. 주오도리 한 블록 서쪽 뒷골목에서 AKIBA 컬처즈존 앞을 지나 북쪽으로 약 50m 올라간 자리의 할인 잡화점 '아키바오 제로(あきばお～零)' 건물 3층이다. 1·2층 매장을 지나 위층으로 올라간다.",
-  "en": "Five minutes from the JR Akihabara Electric Town Exit. On the back street one block west of Chuo-dori, about 50 m north of AKIBA Cultures Zone: the Akibaoo Zero discount store building, 3F. Go up past the 1F and 2F shops."
+  "en": "Five minutes from the JR Akihabara Electric Town Exit. On the back street one block west of Chuo-dori, about 50 m north of AKIBA Cultures Zone: the Akibaoo Zero discount store building, 3F. Go up past the 1F and 2F shops.",
+  "ja": "JR秋葉原駅電気街口から徒歩5分です。中央通り一本西の裏通りをAKIBAカルチャーズZONEの前から北へ約50m上がったところにある、ディスカウントショップのあきばお～零のビルの3Fです。1F・2Fの売り場を抜けて上の階へ上がります。"
  },
  "tips": {
   "ko": [
@@ -107,6 +111,13 @@
    "1F of the same building sells blank media (CD-R, DVD-R) and 2F sells new and used cameras, so the doujin shop is three floors up.",
    "The official page describes it as a bright, all-ages shop that families and junior-high students can walk into; no adult section is advertised.",
    "For doujin music CDs and cosplay photobooks the official page points to sister store No.4 (Sotokanda 1-8-10, Bauhaus B1F)."
+  ],
+  "ja": [
+   "毎週水曜日が定休日で、水曜日が祝日の場合は営業します。",
+   "系列店の多くが平日11:00開店なのに対し、参號店だけは平日12:00の開店です。",
+   "同じビルの1FはCD-RやDVD-Rなどのメディア、2Fは新品・中古カメラの売り場なので、同人の売り場は3Fまで上がります。",
+   "公式の案内には家族連れや中学生でも入れる明るく健全な店と書かれていて、成人向けコーナーの案内はありません。",
+   "同人音楽CDやコスプレ写真集は系列のあきばお～四號店（外神田1-8-10バウハウスB1F）のほうが強いと公式の案内に書かれています。"
   ]
  },
  "official_url": "https://www.akibaoo.co.jp/static/n/company/",

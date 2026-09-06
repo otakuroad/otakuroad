@@ -33,7 +33,8 @@
  ],
  "one_line": {
   "ko": "중고 피규어·건프라·트레카·철도모형·미니카를 파는 하드오프 계열 3·4층 매장",
-  "en": "Used figures, Gunpla, trading cards, model trains and minicars on 3F-4F"
+  "en": "Used figures, Gunpla, trading cards, model trains and minicars on 3F-4F",
+  "ja": "3F・4Fに中古のフィギュア・ガンプラ・トレカ・鉄道模型・ミニカー"
  },
  "building_id": null,
  "floors": [
@@ -66,7 +67,8 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": null,
   "source_url": "https://www.hardoff.co.jp/shop/detail/?p=108032"
@@ -83,7 +85,8 @@
  },
  "how_to_find": {
   "ko": "이른바 '정크 거리(ジャンク通り)' 쪽에 있는 건물의 3층과 4층이다. 도쿄메트로 긴자선 스에히로초역 3번 출구에서 약 150m·도보 2분으로, 쿠라마에바시도리를 주오도리 반대 방향으로 120m 간 뒤 세 번째 골목에서 좌회전해 90m 왼쪽. JR 아키하바라역 전기가 출구에서는 도보 7분으로, 주오도리를 건너 소프맵 서브컬처·모바일관 앞에서 좌회전, 만다라케 앞 두 번째 골목에서 우회전해 200m 직진하면 하드오프 1호점에서 180m 더 간 오른쪽이다.",
-  "en": "The 3rd and 4th floors of a building on Akihabara's so-called Junk Street. From Tokyo Metro Ginza Line Suehirocho station exit 3 it is about 150 m (2 min): go 120 m along Kuramaebashi-dori away from Chuo-dori, turn left at the third alley, and it is 90 m ahead on the left. From the JR Akihabara Electric Town exit it is about 7 min: cross Chuo-dori, turn left before Sofmap Subculture & Mobile, turn right at the second alley in front of Mandarake, go 200 m straight, and it is 180 m past Hard Off Akihabara No.1 on the right."
+  "en": "The 3rd and 4th floors of a building on Akihabara's so-called Junk Street. From Tokyo Metro Ginza Line Suehirocho station exit 3 it is about 150 m (2 min): go 120 m along Kuramaebashi-dori away from Chuo-dori, turn left at the third alley, and it is 90 m ahead on the left. From the JR Akihabara Electric Town exit it is about 7 min: cross Chuo-dori, turn left before Sofmap Subculture & Mobile, turn right at the second alley in front of Mandarake, go 200 m straight, and it is 180 m past Hard Off Akihabara No.1 on the right.",
+  "ja": "秋葉原のいわゆるジャンク通りに面したビルの3Fと4Fです。東京メトロ銀座線末広町駅3番出口からは約150m・徒歩2分で、蔵前橋通りを中央通りとは反対方向に120m進み、3本目の路地を左折して90m先の左側にあります。JR秋葉原駅電気街口からは徒歩約7分で、中央通りを渡ってソフマップ サブカル・モバイル館の手前を左折し、まんだらけの前の2本目の路地を右折して200m直進、ハードオフ秋葉原1号店からさらに180m進んだ右側です。"
  },
  "tips": {
   "ko": [
@@ -97,6 +100,12 @@
    "It shares the YS Building with Hard Off Akihabara No.2: B1F to 2F is Hard Off (used audio, game hardware, PCs, cameras) and 3F-4F is Hobby Off.",
    "Hard Off Akihabara No.1, 180 m away at Sotokanda 3-11-2 Rock Building B1F/2F/3F, is a separate shop focused on instruments, audio and cameras.",
    "The manager's note says they buy everything from crane-game prize items up to premium collectibles."
+  ],
+  "ja": [
+   "公式の店舗ページには免税（TAX FREE）対応店と記載されています。",
+   "同じYSビルに入る複合店で、B1Fから2Fまでがハードオフ秋葉原2号店（中古のオーディオ・ゲーム機・パソコン・カメラ）、3Fと4Fがホビーオフです。",
+   "約180m先のハードオフ秋葉原1号店（外神田3-11-2 ロックビルB1F・2F・3F）は、楽器・オーディオ・カメラ中心の別の店舗です。",
+   "店長コメントでは、プライズ品からプレミア商品まで買取していると案内されています。"
   ]
  },
  "official_url": "https://www.hardoff.co.jp/shop/detail/?p=108032",

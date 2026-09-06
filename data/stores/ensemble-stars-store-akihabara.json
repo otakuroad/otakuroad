@@ -28,7 +28,8 @@
  ],
  "one_line": {
   "ko": "앙상블 스타즈!! 전문점. CD·블루레이·서적·굿즈와 라이브·2.5차원 무대 상품",
-  "en": "Single-title Ensemble Stars!! shop: CDs, Blu-rays, books, goods and stage merch"
+  "en": "Single-title Ensemble Stars!! shop: CDs, Blu-rays, books, goods and stage merch",
+  "ja": "あんさんぶるスターズ！！専門店。CD・ブルーレイ・書籍・グッズとライブ・舞台商品"
  },
  "building_id": "sotokanda-1-chome-building",
  "floors": [
@@ -58,7 +59,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "게이머즈 본점 공식 페이지에 '2F ES!!store는 전일 11:00~21:00'으로 표기. 1층(평일 10:00~22:00)과 시간이 다르다. 혼잡 예상일은 사전 입장 예약(추첨)제로 바뀌므로 X(@ensemble_store) 확인.",
-   "en": "The Gamers flagship page states '2F ES!!store: 11:00-21:00 every day', different from 1F (10:00-22:00 on weekdays). On busy days entry switches to an advance reservation lottery announced on X (@ensemble_store)."
+   "en": "The Gamers flagship page states '2F ES!!store: 11:00-21:00 every day', different from 1F (10:00-22:00 on weekdays). On busy days entry switches to an advance reservation lottery announced on X (@ensemble_store).",
+   "ja": "ゲーマーズ本店の公式ページには2F ES!!storeは全日11:00〜21:00と記載されており、1F（平日10:00〜22:00）とは時間が異なります。混雑が予想される日は事前入店予約（抽選）制に変わるため、X（@ensemble_store）で確認してください。"
   },
   "source_url": "https://www.gamers.co.jp/shop/detail.php?id=4"
  },
@@ -74,7 +76,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 도보 2분, 아키하바라 게이머즈 본점 건물 2층 한 층 전체. 1층 서적 매장 입구로 들어가 에스컬레이터로 2층에 올라간다. 사전 입장 예약 당첨자는 1층 에스컬레이터 앞에서 접수한다.",
-  "en": "Two minutes from the JR Akihabara Electric Town exit, taking up the whole 2F of the AKIHABARA Gamers flagship. Enter through the 1F bookshop and ride the escalator up. Reservation holders check in in front of the 1F escalator."
+  "en": "Two minutes from the JR Akihabara Electric Town exit, taking up the whole 2F of the AKIHABARA Gamers flagship. Enter through the 1F bookshop and ride the escalator up. Reservation holders check in in front of the 1F escalator.",
+  "ja": "JR秋葉原駅の電気街口から徒歩2分、AKIHABARAゲーマーズ本店の2Fワンフロアを使った店舗です。1Fの書籍売り場の入口から入ってエスカレーターで2Fへ上がり、事前入店予約の当選者は1Fのエスカレーター前で受付します。"
  },
  "tips": {
   "ko": [
@@ -88,6 +91,12 @@
    "Reserved entry requires the booker in person with government photo ID matching the booking plus the live reservation screen; screenshots and printouts are refused, and there is no re-entry once you leave.",
    "Arrive at the 1F escalator about ten minutes before your slot. Primary-school children and younger must be with a guardian.",
    "A purchase bonus sheet is handed out per 2,200 yen (tax incl.) spent in the store; purchases made on other floors do not count."
+  ],
+  "ja": [
+   "混雑が予想される日は事前入店予約（抽選）制になり、申し込みは来店希望日の2か月前から7日前の14:00までです。抽選結果は7日前の15:00以降に予約サイトで確認します。",
+   "予約入店には予約者本人の公的な顔写真付き身分証明書と予約サイトの画面が必要で、スクリーンショットや印刷物は認められません。一度退店すると再入店はできません。",
+   "予約時間の10分前までに1Fのエスカレーター前に着いておくとスムーズです。小学生以下は保護者の同伴が必要です。",
+   "店内で2,200円（税込）購入ごとに購入特典のシートがもらえますが、他の階で買った商品は特典の対象外です。"
   ]
  },
  "official_url": "https://www.animate-onlineshop.jp/corner/cc/ensemble_stars_store/cd/2573/",

@@ -26,7 +26,8 @@
  ],
  "one_line": {
   "ko": "중고 일본형 N게이지 차량 전문점. 3선 렌털 레이아웃도 운영",
-  "en": "Used Japanese-prototype N-gauge trains, with three rental layout tracks"
+  "en": "Used Japanese-prototype N-gauge trains, with three rental layout tracks",
+  "ja": "日本型の中古Nゲージ車両の専門店、レンタルレイアウト3線あり"
  },
  "building_id": null,
  "floors": [
@@ -57,11 +58,13 @@
   ],
   "regular_holiday": {
    "ko": "수요일",
-   "en": "Wednesdays"
+   "en": "Wednesdays",
+   "ja": "水曜日"
   },
   "note": {
    "ko": "가게가 직접 운영하는 지문두 페이지(chatora45000.jimdofree.com) 기준 '기본' 13:00-20:00이고 연장하는 날도 있다고 적고 있다. 1인 상점이라 시간이 바뀔 수 있다.",
-   "en": "The shop's own Jimdo page gives 13:00-20:00 as its basic hours and says it sometimes stays open later; it is a one-person shop, so times can shift."
+   "en": "The shop's own Jimdo page gives 13:00-20:00 as its basic hours and says it sometimes stays open later; it is a one-person shop, so times can shift.",
+   "ja": "店が自ら運営するJimdoのページでは13:00-20:00を「基本」の営業時間としており、延長する日もあると書かれています。1人で営むお店なので時間が変わることがあります。"
   },
   "source_url": "https://chatora45000.jimdofree.com/"
  },
@@ -77,7 +80,8 @@
  },
  "how_to_find": {
   "ko": "주오도리에서 서쪽으로 400m 남짓, 간다묘진 아래 소토칸다 3초메의 1층 소형 점포. 철도모형점 포폰데타 아키하바라점에서 남동쪽으로 30m 거리이며, 간판에 '鉄道模型 ちゃトラ'라고 적혀 있다.",
-  "en": "About 400 m west of Chuo-dori, in the Sotokanda 3-chome block below Kanda Myojin — a small ground-floor shop some 30 m southeast of the Popondetta Akihabara model-railway store, with a '鉄道模型 ちゃトラ' sign."
+  "en": "About 400 m west of Chuo-dori, in the Sotokanda 3-chome block below Kanda Myojin — a small ground-floor shop some 30 m southeast of the Popondetta Akihabara model-railway store, with a '鉄道模型 ちゃトラ' sign.",
+  "ja": "中央通りから西へ400mほど、神田明神の下の外神田3丁目にある1階の小さな店舗です。鉄道模型店のポポンデッタ 秋葉原店から南東へ30mほどの場所で、「鉄道模型 ちゃトラ」の看板が出ています。"
  },
  "tips": {
   "ko": [
@@ -89,6 +93,11 @@
    "Hours are posted on the shop's own Jimdo page (chatora45000.jimdofree.com): a basic 13:00-20:00, closed Wednesdays. The chatora.tokyo posts stop in 2020, so check X (@chatora45000) or ring 03-3525-4394 for anything current.",
    "Three N-gauge rental layout tracks let you run what you have just bought: 700 yen an hour at weekends and on public holidays, half that on weekdays.",
    "A one-person shop specialising in used Japanese-prototype N gauge; it says it buys high and sells low because it carries no staff costs."
+  ],
+  "ja": [
+   "営業時間は店が運営するJimdoのページ（chatora45000.jimdofree.com）に基本13:00-20:00、水曜定休と書かれています。chatora.tokyoの記事は2020年で止まっているので、最新の情報はX（@chatora45000）か電話03-3525-4394で確認してください。",
+   "Nゲージのレンタルレイアウトが3線あり、買った車両をその場で走らせられます。土日・祝日は1時間700円、平日はその半額です。",
+   "日本型の中古Nゲージに特化した個人商店で、人件費がかからない分、買取価格は高く販売価格は安くしていると自ら説明しています。"
   ]
  },
  "official_url": "http://chatora.tokyo/",

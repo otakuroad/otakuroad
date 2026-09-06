@@ -24,7 +24,8 @@
  ],
  "one_line": {
   "ko": "메이드 카페 겸 바. 1시간 타임차지 어른 1,100엔에 1드링크 주문제",
-  "en": "Maid cafe and bar; 1,100 yen an hour for adults plus a one-drink order"
+  "en": "Maid cafe and bar; 1,100 yen an hour for adults plus a one-drink order",
+  "ja": "メイドカフェ＆バー、大人1時間1,100円のタイムチャージと1ドリンク制"
  },
  "building_id": "akiba-asobikan",
  "floors": [
@@ -58,11 +59,13 @@
   ],
   "regular_holiday": {
    "ko": "공식 영업시간표에 월요일이 없다",
-   "en": "The official hours table does not list Monday"
+   "en": "The official hours table does not list Monday",
+   "ja": "公式の営業時間表に月曜日は載っていません。"
   },
   "note": {
    "ko": "공식 세 곳의 안내가 서로 다르다. 톱페이지 표는 화~금과 토·일·공휴일만 적고 월요일이 없으며, Access 페이지는 '월~금 14시~22시, 정휴일 없음'이라고 하고, 공식 X 프로필은 '화~금 15:00~21:00'이라고 적는다. 표에는 톱페이지 기준을 실었다. 공휴일 전날의 심야(夜更かし) 영업은 톱페이지에 '중단 중'이라고 되어 있다.",
-   "en": "The shop's three official sources disagree. The top page's table lists only Tue-Fri and Sat/Sun/holidays with no Monday, the Access page says 'Mon-Fri 14:00-22:00, no regular holiday', and the official X profile says 'Tue-Fri 15:00-21:00'. The table above follows the top page. The top page marks the late-night ('yofukashi') opening on the eve of a holiday as suspended."
+   "en": "The shop's three official sources disagree. The top page's table lists only Tue-Fri and Sat/Sun/holidays with no Monday, the Access page says 'Mon-Fri 14:00-22:00, no regular holiday', and the official X profile says 'Tue-Fri 15:00-21:00'. The table above follows the top page. The top page marks the late-night ('yofukashi') opening on the eve of a holiday as suspended.",
+   "ja": "公式の3か所の案内が食い違っています。トップページの表は火〜金と土日・祝日だけで月曜日がなく、Accessページは月〜金14:00-22:00で定休日なしとし、公式Xのプロフィールは火〜金15:00-21:00としています。表にはトップページの記載を採用しました。祝日前日の夜更かし営業は、トップページで中断中とされています。"
   },
   "source_url": "https://blue-egg.tokyo/"
  },
@@ -78,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구에서 서쪽으로 도보 5분, 외신다 1-6-3의 7층짜리 '아키바아소비관(アキバあそび館)' 빌딩 5층. 1층 프라페코가 있는 건물 입구에서 위층으로 올라가면 층마다 다른 콘셉트 카페가 있고 그중 5층이 블루에그다.",
-  "en": "Five minutes west of the JR Akihabara Electric Town exit, on 5F of the seven-storey Akiba Asobikan building at Sotokanda 1-6-3. Enter past the ground-floor cafe Frapeko and go up; each floor holds a different concept cafe and BLUE EGG is the fifth."
+  "en": "Five minutes west of the JR Akihabara Electric Town exit, on 5F of the seven-storey Akiba Asobikan building at Sotokanda 1-6-3. Enter past the ground-floor cafe Frapeko and go up; each floor holds a different concept cafe and BLUE EGG is the fifth.",
+  "ja": "JR秋葉原駅電気街口から西へ徒歩5分、外神田1-6-3にある7階建てのアキバあそび館の5Fです。1階のフラペコの前を通って建物の入口から上へ上がると、フロアごとに違うコンセプトカフェが入っていて、その5階がBLUE EGGです。"
  },
  "tips": {
   "ko": [
@@ -94,6 +98,13 @@
    "The official top page says Tue-Fri 14:00-22:00, the Access page says Mon-Fri 14:00-22:00 with no regular holiday, and the official X profile says Tue-Fri 15:00-21:00. Call 03-6206-9220 before a Monday or a late visit.",
    "Alcohol is served but not to minors or drivers. Photographing or filming the maids is forbidden except for cheki; drinks and the like may be photographed.",
    "No payment methods are stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "タイムチャージは年齢別で、大人は1時間1,100円、高校生までは880円、小学生までは660円、未就学児は1チャージと1ドリンクが無料です。1ドリンクオーダー制で、延長すると1時間ごとにタイムチャージとドリンクをもう1杯注文します。",
+   "初回向けのパックがあります。チェキパック（1時間のチャージ＋メイドとのチェキ＋ドリンク）が3,080円、ブロマイドパック（1時間のチャージ＋メッセージ入りブロマイド＋ドリンク）が2,970円で、ビールは選べません。",
+   "公式トップページは火〜金14:00-22:00、Accessページは月〜金14:00-22:00で定休日なし、公式Xのプロフィールは火〜金15:00-21:00と記載が分かれています。月曜や遅い時間に行くなら、03-6206-9220に電話して確かめてから向かってください。",
+   "お酒を扱っていますが、未成年者と車を運転する方には提供されません。チェキ以外でメイドを写真や動画に撮ることは禁止で、ドリンクなどは撮影できます。",
+   "支払い方法についての公式な案内がないため、現金を用意していくと安心です。"
   ]
  },
  "official_url": "https://blue-egg.tokyo/",

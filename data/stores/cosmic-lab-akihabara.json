@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "스에히로초역 코앞 지하 라이브하우스. 밤 23시부터는 같은 자리가 MIX BAR 「Heaven」으로 바뀐다",
-  "en": "Basement live house steps from Suehirocho station; from 23:00 the same room runs as the MIX BAR 'Heaven'"
+  "en": "Basement live house steps from Suehirocho station; from 23:00 the same room runs as the MIX BAR 'Heaven'",
+  "ja": "末広町駅すぐの地下ライブハウス。23:00からは同じ場所がMIX BAR「Heaven」に変わる"
  },
  "building_id": null,
  "floors": [
@@ -60,7 +61,8 @@
  },
  "how_to_find": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 20초, JR 아키하바라역 전기가 출구에서는 주오도리를 따라 북쪽으로 도보 8분. VORT末広町 빌딩 지하 1층으로 내려가면 된다.",
-  "en": "Twenty seconds on foot from Suehirocho station on the Ginza line, or about eight minutes north along Chuo-dori from the JR Akihabara Electric Town Exit; go down to B1 of the VORT Suehirocho building."
+  "en": "Twenty seconds on foot from Suehirocho station on the Ginza line, or about eight minutes north along Chuo-dori from the JR Akihabara Electric Town Exit; go down to B1 of the VORT Suehirocho building.",
+  "ja": "東京メトロ銀座線の末広町駅から徒歩20秒、JR秋葉原駅の電気街口からは中央通りを北へ徒歩8分ほどです。VORT末広町ビルのB1Fへ降りてください。"
  },
  "tips": {
   "ko": [
@@ -72,6 +74,11 @@
    "It runs on an event basis, so check the day's timetable and door time on the official X account (@cosmiclab_akiba) before going.",
    "Between 23:00 and 05:00 the same basement trades as the MIX BAR 'Heaven', billed separately from the daytime lives.",
    "Booking and performer enquiries go through the LINE contact linked from the official X profile."
+  ],
+  "ja": [
+   "公演がある日だけ開くイベント制のライブハウスなので、公式X（@cosmiclab_akiba）でその日のタイムテーブルと開場時刻を確かめてから向かうと安心です。",
+   "23:00から翌5:00までは同じ地下フロアがMIX BAR「Heaven」として営業し、昼間のライブとは別建てで案内されています。",
+   "出演の問い合わせと貸館の相談は、公式Xのプロフィールに貼られたLINEの窓口で受け付けています。"
   ]
  },
  "photo": null,

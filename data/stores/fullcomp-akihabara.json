@@ -34,7 +34,8 @@
  ],
  "one_line": {
   "ko": "포켓몬·원피스·건담·듀얼마스터즈 싱글카드와 팩을 팔고 매입하는 4층 매장",
-  "en": "4F card shop selling and buying Pokemon, One Piece, Gundam and Duel Masters singles"
+  "en": "4F card shop selling and buying Pokemon, One Piece, Gundam and Duel Masters singles",
+  "ja": "ポケモン、ワンピース、ガンダム、デュエル・マスターズのシングルを売買する4Fのカードショップ"
  },
  "building_id": "senju-building-7",
  "floors": [
@@ -69,11 +70,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休です。"
   },
   "note": {
    "ko": "공식 안내는 '平日13時～21時/土日祝11時～21時 年中無休'. 같은 체인의 라디오회관점(10:00-20:00)과 시간이 다르므로 주의.",
-   "en": "The official page states weekdays 13:00-21:00, weekends and holidays 11:00-21:00, open year-round. The chain's Radio Kaikan branch keeps different hours (10:00-20:00)."
+   "en": "The official page states weekdays 13:00-21:00, weekends and holidays 11:00-21:00, open year-round. The chain's Radio Kaikan branch keeps different hours (10:00-20:00).",
+   "ja": "公式の案内は平日13:00〜21:00、土日祝11:00〜21:00で年中無休です。同じチェーンのラジオ会館店（10:00〜20:00）とは時間が違うので注意してください。"
   },
   "source_url": "https://fullcomp.jp/akihabara/access/"
  },
@@ -89,7 +92,8 @@
  },
  "how_to_find": {
   "ko": "주오도리 서쪽에 면한 세로형 잡거빌딩 千住ビル 4층. 긴자선 스에히로초역에서 미쓰비시UFJ은행 쪽 출구로 나와 주오도리를 아키하바라 방면으로 내려가면 3-14-6 건물이 나온다. JR 아키하바라역 전기가 출구에서는 도보 5분. 같은 건물 1층은 리버티 1호점, 3층은 TOYGER TCG, 6층은 AKIBA-HOBBY이며 매장 입구는 건물 측면이다.",
-  "en": "On 4F of the Senju Building, a stacked tenant block on the west side of Chuo-dori. From Suehirocho Station (Ginza Line) leave by the Mitsubishi UFJ Bank exit and walk down Chuo-dori toward Akihabara to number 3-14-6; from the JR Akihabara Electric Town exit it is a five-minute walk. Liberty No.1 is on 1F, TOYGER TCG on 3F and AKIBA-HOBBY on 6F, and the entrance is on the side of the building."
+  "en": "On 4F of the Senju Building, a stacked tenant block on the west side of Chuo-dori. From Suehirocho Station (Ginza Line) leave by the Mitsubishi UFJ Bank exit and walk down Chuo-dori toward Akihabara to number 3-14-6; from the JR Akihabara Electric Town exit it is a five-minute walk. Liberty No.1 is on 1F, TOYGER TCG on 3F and AKIBA-HOBBY on 6F, and the entrance is on the side of the building.",
+  "ja": "中央通りの西側に面した縦型の雑居ビル、千住ビル7の4Fです。銀座線の末広町駅から三菱UFJ銀行側の出口を出て中央通りを秋葉原方面へ下ると3-14-6の建物があり、JR秋葉原駅の電気街口からは徒歩5分です。同じビルの1Fがリバティー 秋葉原1号店、3FがTOYGER TCG、6Fがアキバホビー秋葉原店で、店の入口はビルの側面にあります。"
  },
  "tips": {
   "ko": [
@@ -101,6 +105,11 @@
    "A separate shop from the chain's Radio Kaikan 9F branch: different phone number (03-5256-2652) and hours, and this one stays open until 21:00.",
    "The official site says buyback covers only cards on its published lists, so check the Pokemon, One Piece, Duel Masters and Gundam lists before bringing cards to sell.",
    "Tax-free and card acceptance are not stated officially, so bring cash to be safe."
+  ],
+  "ja": [
+   "同じチェーンのラジオ会館9Fの店舗とは別の店です。電話番号（03-5256-2652）も営業時間も違い、こちらは夜21:00まで開いています。",
+   "買取は公式サイトの買取リストに載っているカードのみと案内されているので、売るつもりならポケモン、ワンピース、デュエル・マスターズ、ガンダムのリストを先に確認しておくとよいです。",
+   "免税やカード決済の対応は公式の案内がないため、現金を用意しておくと安心です。"
   ]
  },
  "official_url": "https://fullcomp.jp/akihabara/access/",

@@ -29,7 +29,8 @@
  ],
  "one_line": {
   "ko": "2000년 창업한 메이드복 전문 브랜드의 아키하바라 직영점. 150종 이상의 오리지널 메이드복",
-  "en": "Akihabara shop of a maid-uniform brand founded in 2000, with 150-plus dress designs"
+  "en": "Akihabara shop of a maid-uniform brand founded in 2000, with 150-plus dress designs",
+  "ja": "2000年創業のメイド服ブランドの秋葉原の店、オリジナル衣装150種類以上"
  },
  "building_id": null,
  "floors": [
@@ -58,11 +59,13 @@
   ],
   "regular_holiday": {
    "ko": "월요일·화요일 휴무",
-   "en": "Closed Mondays and Tuesdays"
+   "en": "Closed Mondays and Tuesdays",
+   "ja": "月曜日と火曜日が定休日です。"
   },
   "note": {
    "ko": "공휴일 처리는 표기가 엇갈린다. 매장 사이트는 '월요일이 공휴일이면 화요일 휴무', 브랜드 본사 사이트는 '정기휴무일이 공휴일이면 다음 날 휴무'로 적고 있으므로 공휴일이 낀 주는 방문 전 확인이 안전하다.",
-   "en": "Holiday handling is worded inconsistently: the shop site says that when Monday is a public holiday the closed day becomes Tuesday, while the brand site says the day after a holiday is closed. Check before visiting in a week with a public holiday."
+   "en": "Holiday handling is worded inconsistently: the shop site says that when Monday is a public holiday the closed day becomes Tuesday, while the brand site says the day after a holiday is closed. Check before visiting in a week with a public holiday.",
+   "ja": "祝日の扱いは表記が食い違っています。店舗のサイトは月曜日が祝日の場合は火曜日が休みとし、ブランド本社のサイトは定休日が祝日にあたる場合は翌日が休みとしているので、祝日を含む週は訪れる前に確認すると安心です。"
   },
   "source_url": "https://candyfruit.com/akihabara/"
  },
@@ -78,7 +81,8 @@
  },
  "how_to_find": {
   "ko": "긴자선 스에히로초역에서 도보 1분, JR 아키하바라역에서 도보 5분. 주오도리에서 서쪽으로 한 블록 들어간 뒷길의 KT빌딩 3층이며, 좁은 길 대각선 맞은편이 중고 코스프레 의상점 미츠바도다.",
-  "en": "One minute from Suehirocho Station on the Ginza Line, five from JR Akihabara. Third floor of the KT Building on the back street one block west of Chuo-dori; the used-costume shop Mitsubado is diagonally opposite across the narrow street."
+  "en": "One minute from Suehirocho Station on the Ginza Line, five from JR Akihabara. Third floor of the KT Building on the back street one block west of Chuo-dori; the used-costume shop Mitsubado is diagonally opposite across the narrow street.",
+  "ja": "銀座線の末広町駅から徒歩1分、JR秋葉原駅から徒歩5分です。中央通りから西へ一本入った裏通りのKTビル3階で、細い道を挟んだ斜め向かいが中古のコスプレショップみつば堂です。"
  },
  "tips": {
   "ko": [
@@ -90,6 +94,11 @@
    "The official site says the range runs to over 150 designs, from classic long dresses to mini-skirt styles.",
    "Besides the dresses there are aprons, over-knee socks and maid outfits sized for dolls.",
    "Closed Mondays and Tuesdays, so avoid the start of the week."
+  ],
+  "ja": [
+   "公式サイトによると、クラシカルなロング丈のメイド服からミニスカートタイプまで150種類以上を揃えているそうです。",
+   "メイド服のほかに、エプロンやニーハイソックスなどの小物、ドール用のメイド服も扱っています。",
+   "月曜日と火曜日が定休日なので、週の初めの訪問は避けてください。"
   ]
  },
  "official_url": "https://candyfruit.com/akihabara/",

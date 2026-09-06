@@ -27,7 +27,8 @@
  ],
  "one_line": {
   "ko": "애니·게임 콜라보 음료와 특전을 파는 GiGO 2호관 2층 카운터",
-  "en": "Counter on GiGO Building 2's 2F selling anime and game tie-up drinks with bonus items"
+  "en": "Counter on GiGO Building 2's 2F selling anime and game tie-up drinks with bonus items",
+  "ja": "GiGO秋葉原2号館2Fでアニメ・ゲームのコラボドリンクと特典を出すカウンター"
  },
  "building_id": null,
  "floors": [
@@ -59,7 +60,8 @@
   "regular_holiday": null,
   "note": {
    "ko": "라스트오더 19:45. 같은 건물 GiGO 아키하바라 2호관 오락실(10:00-23:30)과 영업시간이 다르다.",
-   "en": "Last order 19:45. Hours differ from the GiGO Akihabara Building 2 arcade in the same building, which runs 10:00-23:30."
+   "en": "Last order 19:45. Hours differ from the GiGO Akihabara Building 2 arcade in the same building, which runs 10:00-23:30.",
+   "ja": "ラストオーダーは19:45です。同じ建物のGiGO秋葉原2号館のゲームセンター（10:00〜23:30）とは営業時間が異なります。"
   },
   "source_url": "https://www.gigo.co.jp/shops/cafestand-akihabara2"
  },
@@ -75,7 +77,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 남쪽에서 주오도리를 따라 만세바시 방향으로 도보 2분. 람타라 메디아월드가 들어 있는 한다(半田) 빌딩 저층이 GiGO 아키하바라 2호관이고, 크레인 게임이 늘어선 2층에 이 카페 스탠드 카운터가 있다. 엘리베이터로 2층까지 올라갈 수 있다.",
-  "en": "Two minutes from the south side of the JR Akihabara Electric Town Exit along Chuo-dori. The lower floors of the Handa Building, which also holds Lammtarra Media World, are GiGO Akihabara Building 2; the stand is a counter on its 2F crane-game floor, reachable by the building elevator."
+  "en": "Two minutes from the south side of the JR Akihabara Electric Town Exit along Chuo-dori. The lower floors of the Handa Building, which also holds Lammtarra Media World, are GiGO Akihabara Building 2; the stand is a counter on its 2F crane-game floor, reachable by the building elevator.",
+  "ja": "JR秋葉原駅の電気街口の南側から、中央通りを南へ徒歩2分です。ラムタラメディアワールドアキバが入る半田ビルの低層階がGiGO秋葉原2号館で、このカフェスタンドはクレーンゲームが並ぶ2Fのカウンターにあり、ビルのエレベーターで上がれます。"
  },
  "tips": {
   "ko": [
@@ -89,6 +92,12 @@
    "The seated collaboration cafe is not here but on 6F-7F of Building 3; this is a counter where you pick up the drink and its bonus item.",
    "The tie-ups rotate often. As of September 2026 the official page lists novelty drinks for NEEDY GIRL OVERDOSE x Rascal, Ao no Hako, Azur Lane, QuizKnock 10th, mofusand, Oshi no Ko, Danganronpa and Real Akiba Boyz.",
    "Payment methods and tax-free status are not stated on the stand's page. The arcade in the same building takes transit IC cards, PayPay, Alipay and WeChat Pay, but ask at the counter whether the stand does too."
+  ],
+  "ja": [
+   "ゲームセンターは23:30までですが、カフェスタンドは20:00閉店で、ラストオーダーは19:45です。",
+   "テーブルに着席するコラボカフェはここではなく、GiGO秋葉原3号館の6〜7Fにあります。こちらはドリンクと特典を受け取るカウンターです。",
+   "コラボ作品は頻繁に入れ替わります。2026年9月時点の公式ページには、NEEDY GIRL OVERDOSE×ラスカル、青のハコ、アズールレーン、QuizKnock 10周年、mofusand、【推しの子】、ダンガンロンパ、Real Akiba Boyzのノベルティドリンクが掲載されています。",
+   "スタンドのページには決済手段と免税の案内がありません。同じ建物のゲームセンターは交通系IC、PayPay、Alipay、WeChat Payなどに対応していますが、スタンドも同じかはカウンターで確認するのが確実です。"
   ]
  },
  "official_url": "https://www.gigo.co.jp/shops/cafestand-akihabara2",

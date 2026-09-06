@@ -41,7 +41,8 @@
  ],
  "one_line": {
   "ko": "MTG 싱글과 중고 미개봉 팩 중심에 유희왕·바이스슈발츠 등 15종 트레카, 24석 듀얼 스페이스",
-  "en": "Magic: The Gathering singles and 15 other TCGs, with a 24-seat duel space"
+  "en": "Magic: The Gathering singles and 15 other TCGs, with a 24-seat duel space",
+  "ja": "マジック：ザ・ギャザリングのシングルとほか15種のトレカ、24席のデュエルスペース"
  },
  "building_id": "radio-kaikan",
  "floors": [
@@ -70,11 +71,13 @@
   ],
   "regular_holiday": {
    "ko": "연중무휴",
-   "en": "Open year-round"
+   "en": "Open year-round",
+   "ja": "年中無休"
   },
   "note": {
    "ko": "라디오회관 건물 영업시간(10:00~20:00)과 동일. 매입은 상시가 아니라 부정기로, 접수 가능 여부는 12:00 이후 전화나 SNS로 확인해야 한다.",
-   "en": "Same as the Radio Kaikan building hours (10:00-20:00). Buyback is irregular, not daily: check by phone or SNS after 12:00 whether the counter is taking cards that day."
+   "en": "Same as the Radio Kaikan building hours (10:00-20:00). Buyback is irregular, not daily: check by phone or SNS after 12:00 whether the counter is taking cards that day.",
+   "ja": "ラジオ会館の建物の営業時間（10:00〜20:00）と同じです。買取は常時ではなく不定期なので、その日カードを受け付けているかどうかは12:00以降に電話やSNSで確認する必要があります。"
   },
   "source_url": "https://akihabara-radiokaikan.co.jp/shoplist/big-magic/"
  },
@@ -90,7 +93,8 @@
  },
  "how_to_find": {
   "ko": "JR 아키하바라역 전기가 출구 바로 앞 라디오회관 1F 정면 입구로 들어가 엘리베이터로 9F. 9F는 건물의 카드 층으로, 엘리베이터를 내려 카드라보 본점·풀콤프와 나란히 BIG MAGIC 매장이 있다.",
-  "en": "Radio Kaikan is directly in front of JR Akihabara's Electric Town Exit; enter on 1F and take the elevator to 9F. That floor is the building's card floor, with BIG MAGIC alongside Card Labo's main store and Fullcomp."
+  "en": "Radio Kaikan is directly in front of JR Akihabara's Electric Town Exit; enter on 1F and take the elevator to 9F. That floor is the building's card floor, with BIG MAGIC alongside Card Labo's main store and Fullcomp.",
+  "ja": "ラジオ会館はJR秋葉原駅の電気街口の目の前にあり、1Fから入ってエレベーターで9Fに上がります。9Fは建物のカードのフロアで、カードラボ 秋葉原ラジオ会館本店やフルコンプ秋葉原ラジオ会館店と並んでBIG MAGICの売り場があります。"
  },
  "tips": {
   "ko": [
@@ -104,6 +108,12 @@
    "A 24-seat duel space hosts frequent tournaments and events; check the schedule if you want a seat.",
    "Monday is a triple-points day.",
    "Buyback runs irregularly here, so to sell cards use the Card Labo buyback center on 1F or magi on 5F of the same building."
+  ],
+  "ja": [
+   "MTGを軸にした店舗で、プレイ用のシングルが品揃えの中心ですが、中古の未開封パックやオリパも扱っています。",
+   "24席のデュエルスペースがあり、大会やイベントが頻繁に開かれます。席を使いたいならスケジュールを確認してから行ってください。",
+   "月曜日はポイント3倍デーです。",
+   "この店の買取は不定期なので、売るのであれば同じ建物1Fのカードラボ 秋葉原ラジオ会館買取センターか5Fのmagi 秋葉原ラジオ会館店が確実です。"
   ]
  },
  "official_url": "https://mtg.bigweb.co.jp/shop/akihabara",
