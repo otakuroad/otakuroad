@@ -12,6 +12,7 @@ export const KEYS = {
   anchor: `${PREFIX}anchor`,
   map3d: `${PREFIX}map3d`,
   basemap: `${PREFIX}basemap`,
+  geo: `${PREFIX}geo`,
 } as const
 
 function read(key: string): string | null {
@@ -91,4 +92,14 @@ export function loadBasemap(): string | null {
 
 export function storeBasemap(key: string): void {
   write(KEYS.basemap, key)
+}
+
+/** Whether the visitor agreed to show their live position on the map ('on'), declined ('off'), or was never asked. */
+export function loadGeoChoice(): 'on' | 'off' | null {
+  const raw = read(KEYS.geo)
+  return raw === 'on' || raw === 'off' ? raw : null
+}
+
+export function storeGeoChoice(choice: 'on' | 'off'): void {
+  write(KEYS.geo, choice)
 }

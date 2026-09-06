@@ -11,7 +11,7 @@
    * the viewport; the map is never inside a scrolling page (PLAN §4.2).
    */
   import { buildings, stores } from '@/data/generated'
-  import { loadMap3d, storeMap3d } from '@/lib/storage'
+  import { loadGeoChoice, loadMap3d, storeGeoChoice, storeMap3d } from '@/lib/storage'
   import type { CategoryKey } from '@/data/categories'
   import { AppState, type ListItem, type View } from '@/lib/app-state.svelte'
   import { hasWebGL2 } from '@/lib/map-style'
@@ -68,6 +68,34 @@
   }
 
   const webgl = hasWebGL2()
+
+  /**
+   * One-time consent for the live position dot. Shown only when the visitor has never decided and
+   * the browser has not already ruled: a browser that already granted geolocation starts silently,
+   * one that denied it never asks.
+   */
+  let geoBanner = $state(false)
+  if (webgl && typeof navigator !== 'undefined' && navigator.geolocation && !app.geoTracking && loadGeoChoice() === null) {
+    const permissions = navigator.permissions?.query({ name: 'geolocation' })
+    if (permissions) {
+      permissions
+        .then((status) => {
+          if (status.state === 'granted') app.setGeoTracking(true)
+          else if (status.state === 'prompt') geoBanner = true
+        })
+        .catch(() => {
+          geoBanner = true
+        })
+    } else geoBanner = true
+  }
+  function allowGeo(): void {
+    geoBanner = false
+    app.setGeoTracking(true)
+  }
+  function laterGeo(): void {
+    geoBanner = false
+    storeGeoChoice('off')
+  }
 
   // Old Androids without WebGL2 get the list at full height instead of an empty canvas (PLAN §9).
   if (!webgl) app.snap = 'full'
@@ -342,6 +370,17 @@
     <InfoSheet {app} onclose={closeOverlay} />
   {/if}
 
+  {#if geoBanner && !app.infoOpen}
+    <div class="geo-banner" role="dialog" aria-label={t(app.locale, 'geo.banner_title')} style:bottom={desktop ? undefined : `calc(${Math.round(sheetCover)}px + 16px)`}>
+      <p class="geo-title">{t(app.locale, 'geo.banner_title')}</p>
+      <p class="geo-body">{t(app.locale, 'geo.banner_body')}</p>
+      <div class="geo-actions">
+        <button type="button" class="geo-later" onclick={laterGeo}>{t(app.locale, 'geo.later')}</button>
+        <button type="button" class="geo-allow" onclick={allowGeo}>{t(app.locale, 'geo.allow')}</button>
+      </div>
+    </div>
+  {/if}
+
   {#if app.toast !== null}
     <p class="toast" role="status" aria-live="polite">{app.toast}</p>
   {/if}
@@ -500,6 +539,57 @@
   }
   .panel > :global(*) {
     pointer-events: auto;
+  }
+
+  .geo-banner {
+    position: absolute;
+    left: 14px;
+    right: 14px;
+    z-index: calc(var(--z-chrome) + 1);
+    padding: 14px 16px;
+    border-radius: 14px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    box-shadow: var(--shadow-md);
+  }
+  .app.desktop .geo-banner {
+    left: auto;
+    right: 24px;
+    bottom: 24px;
+    max-width: 360px;
+  }
+  .geo-title {
+    margin: 0 0 4px;
+    font-size: 14.5px;
+    font-weight: 700;
+  }
+  .geo-body {
+    margin: 0 0 12px;
+    font-size: 13px;
+    line-height: 1.45;
+    color: var(--color-text-secondary);
+  }
+  .geo-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+  }
+  .geo-actions button {
+    min-height: 36px;
+    padding: 0 14px;
+    border-radius: var(--radius-pill);
+    font-size: 13.5px;
+    font-weight: 600;
+  }
+  .geo-later {
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    color: var(--color-text);
+  }
+  .geo-allow {
+    border: 0;
+    background: var(--color-text);
+    color: var(--color-text-inverse);
   }
 
   .toast {

@@ -17,7 +17,7 @@ import {
   type AnchorKey,
 } from './geo'
 import { getOpenState, type OpenState } from './hours'
-import { loadAnchorKey, loadBasemap, loadSaved, storeAnchorKey, storeBasemap, storeSaved } from './storage'
+import { loadAnchorKey, loadBasemap, loadGeoChoice, loadSaved, storeAnchorKey, storeBasemap, storeGeoChoice, storeSaved } from './storage'
 import { DEFAULT_BASEMAP, isBasemapKey, type BasemapKey } from './map-style'
 import { readBasemapQuery } from './url'
 
@@ -71,6 +71,11 @@ export class AppState {
   anchorKey = $state<AnchorKey>(DEFAULT_ANCHOR.key)
   /** Basemap style; Positron unless the visitor chose otherwise or a `?basemap=` link says so. */
   basemap = $state<BasemapKey>(DEFAULT_BASEMAP)
+  /**
+   * Keep showing the visitor's live position as a blue dot (tester feedback 2026-09-06: "I want to
+   * always see where I am in Akihabara"). Off until they agree; remembered per browser.
+   */
+  geoTracking = $state(false)
   myLocation = $state<{ lat: number; lng: number; accuracy: number } | null>(null)
 
   // ---- sheet ---------------------------------------------------------------
@@ -114,6 +119,7 @@ export class AppState {
     if (isBasemapKey(savedBasemap)) this.basemap = savedBasemap
     const linkedBasemap = typeof location === 'undefined' ? null : readBasemapQuery(location.search)
     if (isBasemapKey(linkedBasemap)) this.basemap = linkedBasemap
+    if (loadGeoChoice() === 'on') this.geoTracking = true
     this.timer = setInterval(() => {
       this.liveNow = new Date()
     }, LIVE_TICK_MS)
@@ -320,6 +326,12 @@ export class AppState {
   setBasemap(key: BasemapKey): void {
     this.basemap = key
     storeBasemap(key)
+  }
+
+  setGeoTracking(on: boolean): void {
+    this.geoTracking = on
+    storeGeoChoice(on ? 'on' : 'off')
+    if (!on) this.myLocation = null
   }
 
   // ---- sheet navigation ----------------------------------------------------

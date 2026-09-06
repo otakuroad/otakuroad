@@ -107,6 +107,19 @@
     </section>
 
     <section>
+      <h3>{t(locale, 'info.geo')}</h3>
+      <p class="hint">{t(locale, 'info.geo_note')}</p>
+      <div class="row wrap">
+        <button type="button" class="pill" class:on={app.geoTracking} onclick={() => app.setGeoTracking(true)}>
+          {t(locale, 'info.geo_on')}
+        </button>
+        <button type="button" class="pill" class:on={!app.geoTracking} onclick={() => app.setGeoTracking(false)}>
+          {t(locale, 'info.geo_off')}
+        </button>
+      </div>
+    </section>
+
+    <section>
       <h3>{t(locale, 'info.default_anchor')}</h3>
       <div class="row wrap">
         {#each ANCHORS as anchor (anchor.key)}

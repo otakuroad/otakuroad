@@ -102,8 +102,18 @@
   /** Ids whose label had to be flipped to the left of the pin to stay on screen. */
   let leftLabelIds = $state<string[]>([])
   const flipped = $derived(new Set(leftLabelIds))
+  /**
+   * The pin that stands for the current selection: a standalone shop's own pin, or for a tenant
+   * (which has no coordinate) the pin of its building. Before this, picking a tenant in the list
+   * moved nothing on the map (tester feedback 2026-09-06).
+   */
+  function mapPinIdFor(id: string): string | null {
+    if (pins.some((p) => p.id === id)) return id
+    return app.storeById.get(id)?.building_id ?? null
+  }
+  const focusedPinId = $derived(app.selectedId === null ? null : mapPinIdFor(app.selectedId))
   const labelled = $derived(
-    new Set([...placedLabelIds, app.selectedId, app.hoveredId].filter((id): id is string => id !== null)),
+    new Set([...placedLabelIds, focusedPinId, app.hoveredId].filter((id): id is string => id !== null)),
   )
 
   const ACCURACY_SOURCE = 'me-accuracy'
@@ -187,8 +197,9 @@
       lastVisibleKey = visiblePins()
         .map((p) => p.id)
         .join(',')
-      if (app.selectedId !== null) focusPin(app.selectedId, 0)
+      if (focusedPinId !== null) focusPin(focusedPinId, 0)
       else fitToVisible(0)
+      if (app.geoTracking) startTracking()
       fittedOnce = true
       scheduleLabels()
     })()
@@ -196,6 +207,8 @@
     return () => {
       disposed = true
       abort.abort()
+      if (watchId !== null && typeof navigator !== 'undefined' && navigator.geolocation) navigator.geolocation.clearWatch(watchId)
+      watchId = null
       meMarker?.remove()
       meMarker = null
       maplibreMod = null
@@ -454,7 +467,7 @@
   /** Draw order for thinning: buildings, then the pin the user is touching, then by priority. */
   function rank(pin: Pin): number {
     if (pin.kind === 'building') return -2
-    if (pin.id === app.selectedId || pin.id === app.hoveredId) return -1
+    if (pin.id === focusedPinId || pin.id === app.hoveredId) return -1
     return pin.priority
   }
 
@@ -555,12 +568,13 @@
 
   // ---- selection ------------------------------------------------------------
 
+  // A selection — from the list, the search, a marker tap or a deep link — centres the map on its
+  // pin in the strip the sheet leaves clear and zooms in enough to see the block (tester feedback
+  // 2026-09-06: "clicking in the list should centre and highlight the shop").
   $effect(() => {
-    const id = app.selectedId
+    const id = focusedPinId
     if (id === null || map === null) return
-    const pin = pins.find((p) => p.id === id)
-    if (!pin) return
-    panIntoView(pin.lng, pin.lat)
+    focusPin(id)
   })
 
   /** Pan the minimum amount that puts the pin in the strip of map the sheet is not covering. */
@@ -643,6 +657,8 @@
       })
     }
     onextrusions?.(extrusionLayerIds(m.getStyle() as MapStyle).length > 0)
+    const fix = app.myLocation
+    if (fix !== null) (m.getSource(ACCURACY_SOURCE) as GeoJSONSource | undefined)?.setData(accuracyCircle(fix.lng, fix.lat, fix.accuracy))
   }
 
   /**
@@ -686,6 +702,65 @@
     m.easeTo({ pitch: on ? THREE_D_PITCH : 0, duration: 500 })
   }
 
+  /** Put or move the blue dot and its accuracy ring; the camera is not touched here. */
+  function showFix(coords: GeolocationCoordinates): void {
+    const m = map
+    if (m === null) return
+    const { latitude, longitude, accuracy } = coords
+    app.myLocation = { lat: latitude, lng: longitude, accuracy }
+    if (meMarker === null) {
+      const el = document.createElement('div')
+      el.className = 'me-dot'
+      meMarker = maplibreMod === null ? null : new maplibreMod.Marker({ element: el, anchor: 'center' }).setLngLat([longitude, latitude]).addTo(m)
+    } else {
+      meMarker.setLngLat([longitude, latitude])
+    }
+    const source = m.getSource(ACCURACY_SOURCE) as GeoJSONSource | undefined
+    source?.setData(accuracyCircle(longitude, latitude, accuracy))
+  }
+
+  function clearFix(): void {
+    meMarker?.remove()
+    meMarker = null
+    const source = map?.getSource(ACCURACY_SOURCE) as GeoJSONSource | undefined
+    source?.setData(emptyCollection())
+  }
+
+  let watchId: number | null = null
+
+  /**
+   * Keep the blue dot live with `watchPosition`. The camera never follows it — a visitor comparing
+   * the map to the street must not have it yanked away under their thumb. A denied permission
+   * switches the preference off again so the banner does not come back every visit.
+   */
+  export function startTracking(): void {
+    if (watchId !== null || typeof navigator === 'undefined' || !navigator.geolocation) return
+    watchId = navigator.geolocation.watchPosition(
+      (position) => showFix(position.coords),
+      (error) => {
+        stopTracking()
+        app.setGeoTracking(false)
+        app.showToast(t(app.locale, error.code === error.PERMISSION_DENIED ? 'map.gps_denied' : 'map.gps_unavailable'))
+      },
+      { enableHighAccuracy: true, timeout: 15_000, maximumAge: 10_000 },
+    )
+  }
+
+  export function stopTracking(): void {
+    if (watchId !== null && typeof navigator !== 'undefined' && navigator.geolocation) navigator.geolocation.clearWatch(watchId)
+    watchId = null
+    clearFix()
+  }
+
+  // Settings and the consent banner flip `app.geoTracking`; the map follows once it exists.
+  $effect(() => {
+    const on = app.geoTracking
+    if (map === null) return
+    if (on) startTracking()
+    else stopTracking()
+  })
+
+  /** The locate button: centre on the fix once, and keep the dot alive from then on. */
   export function locate(): void {
     const m = map
     if (m === null || typeof navigator === 'undefined' || !navigator.geolocation) {
@@ -695,18 +770,8 @@
     navigator.geolocation.getCurrentPosition(
       (position) => {
         const { latitude, longitude, accuracy } = position.coords
-        app.myLocation = { lat: latitude, lng: longitude, accuracy }
-        const el = document.createElement('div')
-        el.className = 'me-dot'
-        meMarker?.remove()
-        meMarker =
-          maplibreMod === null
-            ? null
-            : new maplibreMod.Marker({ element: el, anchor: 'center' })
-                .setLngLat([longitude, latitude])
-                .addTo(m)
-        const source = m.getSource(ACCURACY_SOURCE) as GeoJSONSource | undefined
-        source?.setData(accuracyCircle(longitude, latitude, accuracy))
+        showFix(position.coords)
+        if (!app.geoTracking) app.setGeoTracking(true)
         // Outside the bbox the pan would be clamped anyway; centre only when the fix is in Akihabara.
         if (haversineMeters({ lat: latitude, lng: longitude }, { lat: MAP_DEFAULT.center[1], lng: MAP_DEFAULT.center[0] }) < 1500) {
           m.easeTo({ center: [longitude, latitude], duration: 500 })
@@ -768,16 +833,16 @@
       bind:this={markerEls[pin.id]}
       class="mk"
       class:building={pin.kind === 'building'}
-      class:selected={app.selectedId === pin.id}
+      class:selected={focusedPinId === pin.id}
       class:hovered={app.hoveredId === pin.id}
-      class:visited={app.visitedIds.includes(pin.id) && app.selectedId !== pin.id}
+      class:visited={app.visitedIds.includes(pin.id) && focusedPinId !== pin.id}
       class:inactive={pin.inactive}
       class:hidden={isHidden(pin) || thinnedIds.has(pin.id)}
       class:labelled={labelled.has(pin.id)}
       class:label-left={flipped.has(pin.id)}
       style:--mk-color={colorFor(pin.glyph)}
       aria-label={ariaLabel(pin)}
-      aria-pressed={app.selectedId === pin.id}
+      aria-pressed={focusedPinId === pin.id}
       onclick={(e) => {
         e.stopPropagation()
         tapPin(pin)
@@ -787,6 +852,9 @@
         if (app.hoveredId === pin.id) app.hoveredId = null
       }}
     >
+      {#if focusedPinId === pin.id}
+        <span class="mk-halo" aria-hidden="true"></span>
+      {/if}
       <span class="mk-body">
         <Glyph kind={pin.glyph} size={pin.kind === 'building' ? 16 : 14} />
       </span>
@@ -819,6 +887,7 @@
   /* ---- markers ---- */
   .mk {
     /* 44px transparent hit area around a 28px glyph (PLAN §4.1 / §6.5). */
+    position: relative;
     width: var(--tap-min);
     height: var(--tap-min);
     display: grid;
@@ -827,6 +896,34 @@
     border: 0;
     padding: 0;
     cursor: pointer;
+  }
+  /* Selected: a pulsing ring in the category colour under the teardrop, so the eye finds it. */
+  .mk-halo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    margin: -15px 0 0 -15px;
+    border-radius: 50%;
+    background: var(--mk-color);
+    opacity: 0.35;
+    pointer-events: none;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .mk-halo {
+      animation: mk-pulse 1.8s ease-out infinite;
+    }
+  }
+  @keyframes mk-pulse {
+    0% {
+      transform: scale(0.6);
+      opacity: 0.5;
+    }
+    100% {
+      transform: scale(2.4);
+      opacity: 0;
+    }
   }
   .mk.hidden {
     display: none;
