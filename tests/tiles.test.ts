@@ -8,8 +8,8 @@ import { lngLatToTile, tilesCovering, tileUrl } from '../src/lib/tiles'
 
 describe('lngLatToTile', () => {
   it('puts the Electric Town exit in the known z14 tile', () => {
-    // 139.7715 E, 35.6985 N → tile 14/14553/6448 by the slippy-map formula (n = 16384).
-    expect(lngLatToTile(139.7715, 35.6985, 14)).toEqual({ x: 14553, y: 6448 })
+    // 139.7715 E, 35.6985 N → tile 14/14553/6450 by the slippy-map formula (n = 16384).
+    expect(lngLatToTile(139.7715, 35.6985, 14)).toEqual({ x: 14553, y: 6450 })
   })
 
   it('clamps at the poles and the antimeridian', () => {
