@@ -43,6 +43,7 @@ function withJa(obj, ja) {
 
 const written = []
 const held = []
+const clean = []
 /** Does this field still need Japanese (default) / did the review send a replacement (--overwrite)? */
 const wants = (r, key, current) => (overwrite ? r[key] !== undefined : !current?.ja)
 const wantsEntry = (r, key, entry) => (overwrite ? r[key]?.[entry.floor] !== undefined : !entry.ja)
@@ -87,12 +88,9 @@ const problems = (r, record) => {
     const uf = record.uncurated_floors.filter((e) => wantsEntry(r, 'uncurated_floors', e))
     if (uf.length > 0) floors('uncurated_floors', uf)
   }
-  if (overwrite && list.length === 0) {
-    const touched = ['one_line', 'how_to_find', 'tips', 'floor_guide', 'regular_holiday', 'hours_note', 'status_note', 'exit_hint', 'uncurated_floors'].filter((k) => r[k] !== undefined)
-    if (touched.length === 0) list.push('review sent no fields')
-  }
   return list
 }
+const FIELDS = ['one_line', 'how_to_find', 'tips', 'floor_guide', 'regular_holiday', 'hours_note', 'status_note', 'exit_hint', 'uncurated_floors']
 
 for (const file of readdirSync(resultsDir).filter((f) => f.endsWith('.json')).sort()) {
   const id = file.replace(/\.json$/, '')
@@ -109,6 +107,10 @@ for (const file of readdirSync(resultsDir).filter((f) => f.endsWith('.json')).so
     continue
   }
   const record = JSON.parse(readFileSync(target, 'utf8'))
+  if (overwrite && !FIELDS.some((k) => r[k] !== undefined)) {
+    clean.push(id)
+    continue
+  }
   const issues = problems(r, record)
   if (issues.length > 0) {
     held.push(`${id}: ${issues.join('; ')}`)
@@ -133,7 +135,7 @@ for (const file of readdirSync(resultsDir).filter((f) => f.endsWith('.json')).so
   written.push(id)
 }
 
-console.log(`written ${written.length}${dry ? ' (dry run)' : ''}`)
+console.log(`written ${written.length}${overwrite ? `, reviewed clean ${clean.length}` : ''}${dry ? ' (dry run)' : ''}`)
 if (held.length > 0) {
   console.log(`\nheld (${held.length})`)
   for (const line of held) console.log(`  ${line}`)
