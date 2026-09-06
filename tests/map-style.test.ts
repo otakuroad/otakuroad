@@ -4,7 +4,7 @@
  * hidden unless 3D is asked for.
  */
 import { describe, expect, it } from 'vitest'
-import { extrusionLayerIds, patchStyle, type MapStyle } from '../src/lib/map-style'
+import { BASEMAPS, DEFAULT_BASEMAP, STYLE_URLS, extrusionLayerIds, hasExtrusions, isBasemapKey, patchStyle, type MapStyle } from '../src/lib/map-style'
 
 const style: MapStyle = {
   version: 8,
@@ -49,5 +49,23 @@ describe('patchStyle', () => {
 describe('extrusionLayerIds', () => {
   it('lists exactly the fill-extrusion layers', () => {
     expect(extrusionLayerIds(style)).toEqual(['building-3d'])
+  })
+})
+
+describe('basemaps', () => {
+  it('defaults to the light Positron style and knows both OpenFreeMap URLs', () => {
+    expect(DEFAULT_BASEMAP).toBe('positron')
+    for (const key of BASEMAPS) expect(STYLE_URLS[key]).toMatch(/^https:\/\/tiles\.openfreemap\.org\/styles\//)
+  })
+
+  it('accepts only known basemap keys (a stale localStorage value must not break the map)', () => {
+    expect(isBasemapKey('liberty')).toBe(true)
+    expect(isBasemapKey('bright')).toBe(false)
+    expect(isBasemapKey(null)).toBe(false)
+  })
+
+  it('reports whether a style can show 3D buildings', () => {
+    expect(hasExtrusions(style)).toBe(true)
+    expect(hasExtrusions({ ...style, layers: style.layers.filter((l) => l.type !== 'fill-extrusion') })).toBe(false)
   })
 })

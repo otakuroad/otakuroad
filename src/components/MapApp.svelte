@@ -34,6 +34,16 @@
 
   /** Flat map by default; 3D is an explicit choice that is remembered per browser. */
   let threeD = $state(loadMap3d())
+  /** Whether the current basemap can show 3D at all (Positron cannot); hides the toggle otherwise. */
+  let hasExtrusions = $state(false)
+  function onExtrusions(has: boolean): void {
+    hasExtrusions = has
+    if (!has && threeD) {
+      threeD = false
+      storeMap3d(false)
+      mapCanvas?.setThreeD(false)
+    }
+  }
   function toggleThreeD(): void {
     threeD = !threeD
     storeMap3d(threeD)
@@ -221,9 +231,10 @@
         onselectcluster={openCluster}
         onemptytap={() => app.closeAll()}
         {threeD}
+        onextrusions={onExtrusions}
       />
     {/if}
-    {#if webgl && (desktop || app.snap !== 'full')}
+    {#if webgl && hasExtrusions && (desktop || app.snap !== 'full')}
       <button
         type="button"
         class="three-d"

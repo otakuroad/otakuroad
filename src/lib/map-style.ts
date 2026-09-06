@@ -17,7 +17,24 @@
  */
 import type { Locale } from '@/i18n'
 
-export const STYLE_URL = 'https://tiles.openfreemap.org/styles/liberty'
+/**
+ * Basemaps. Positron is OpenFreeMap's desaturated light style: with the colour taken out of the
+ * basemap the category-coloured pins are the only accent, which is the visual identity the plan
+ * asked for (decision 2026-09-04, "미니멀 라이트") and what a tester asked for on 2026-09-06 when
+ * Liberty's busy footprints made the pins hard to read. Liberty stays available as the "standard"
+ * map because it is the only one with extruded buildings for the 3D view.
+ */
+export const BASEMAPS = ['positron', 'liberty'] as const
+export type BasemapKey = (typeof BASEMAPS)[number]
+export const DEFAULT_BASEMAP: BasemapKey = 'positron'
+export const STYLE_URLS: Record<BasemapKey, string> = {
+  positron: 'https://tiles.openfreemap.org/styles/positron',
+  liberty: 'https://tiles.openfreemap.org/styles/liberty',
+}
+
+export function isBasemapKey(value: unknown): value is BasemapKey {
+  return typeof value === 'string' && (BASEMAPS as readonly string[]).includes(value)
+}
 
 /** Keeps CJK glyphs off the network — the sprite/glyph server has no Korean or Japanese coverage. */
 export const LOCAL_IDEOGRAPH_FONT_FAMILY =
@@ -71,11 +88,18 @@ function localizedTextField(existing: unknown, locale: Locale): unknown {
 export interface PatchOptions {
   /** Show the extruded buildings. Off by default — see note 3 above. */
   threeD?: boolean
+  /** Which OpenFreeMap style to fetch; `loadStyle` only. */
+  basemap?: BasemapKey
 }
 
 /** Ids of the layers that draw extruded buildings; the 3D toggle shows and hides exactly these. */
 export function extrusionLayerIds(style: MapStyle): string[] {
   return style.layers.filter((layer) => layer.type === 'fill-extrusion').map((layer) => layer.id)
+}
+
+/** Positron has no extruded buildings, so the 3D toggle only makes sense on styles where this is true. */
+export function hasExtrusions(style: MapStyle): boolean {
+  return extrusionLayerIds(style).length > 0
 }
 
 /**
@@ -102,14 +126,15 @@ export function patchStyle(style: MapStyle, locale: Locale, options: PatchOption
  * basemap with a few extra shop labels is far better than a blank map.
  */
 export async function loadStyle(locale: Locale, signal?: AbortSignal, options: PatchOptions = {}): Promise<MapStyle | string> {
+  const url = STYLE_URLS[options.basemap ?? DEFAULT_BASEMAP]
   try {
-    const res = await fetch(STYLE_URL, { signal })
-    if (!res.ok) return STYLE_URL
+    const res = await fetch(url, { signal })
+    if (!res.ok) return url
     const style = (await res.json()) as MapStyle
-    if (!Array.isArray(style.layers)) return STYLE_URL
+    if (!Array.isArray(style.layers)) return url
     return patchStyle(style, locale, options)
   } catch {
-    return STYLE_URL
+    return url
   }
 }
 

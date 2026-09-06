@@ -12,7 +12,7 @@
    */
   // Type-only: the library and its stylesheet are loaded lazily below so the shell, the chip row
   // and the nearby list paint before ~1.2 MB of map engine is on the wire (PLAN §11 "셸 먼저").
-  import type { GeoJSONSource, Map as MapLibreMap, Marker } from 'maplibre-gl'
+  import type { GeoJSONSource, Map as MapLibreMap, Marker, StyleSpecification } from 'maplibre-gl'
   import type { AppState } from '@/lib/app-state.svelte'
   import { categoryLabel, openStateShort } from '@/lib/format'
   import { colorFor, type GlyphKey } from '@/lib/glyphs'
@@ -23,7 +23,7 @@
     GPS_WARN_ACCURACY_M,
     haversineMeters,
   } from '@/lib/geo'
-  import { ATTRIBUTION, LOCAL_IDEOGRAPH_FONT_FAMILY, loadStyle, extrusionLayerIds, type MapStyle } from '@/lib/map-style'
+  import { ATTRIBUTION, LOCAL_IDEOGRAPH_FONT_FAMILY, loadStyle, extrusionLayerIds, type BasemapKey, type MapStyle } from '@/lib/map-style'
   import { t } from '@/i18n'
   import Glyph from './Glyph.svelte'
 
@@ -37,9 +37,16 @@
     onemptytap: () => void
     /** Start in 3D (tilted camera, extruded buildings). Read once at map creation; use `setThreeD` after. */
     threeD?: boolean
+    /** Fired after every style load with whether the style has extruded buildings (i.e. can show 3D). */
+    onextrusions?: (has: boolean) => void
   }
 
-  let { app, obstructBottom, onselectstore, onselectbuilding, onselectcluster, onemptytap, threeD = false }: Props = $props()
+  let { app, obstructBottom, onselectstore, onselectbuilding, onselectcluster, onemptytap, threeD = false, onextrusions }: Props = $props()
+
+  /** The 3D state as last set; `threeD` is only the initial value. */
+  let threeDNow = threeD
+  /** Basemap the map is currently showing; changes to `app.basemap` are applied by `setBasemap`. */
+  let currentBasemap: BasemapKey | null = null
 
   /** Camera tilt used by the 3D view. Steep enough for buildings to read as blocks, shallow enough that
    * pins near the top of the screen stay tappable. */
@@ -124,8 +131,9 @@
         import('maplibre-gl'),
         import('maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url'),
         import('maplibre-gl/dist/maplibre-gl.css?inline'),
-        loadStyle(app.locale, abort.signal, { threeD }),
+        loadStyle(app.locale, abort.signal, { threeD, basemap: app.basemap }),
       ])
+      currentBasemap = app.basemap
       if (disposed) return
       // See src/vite-env.d.ts: without this MapLibre looks for a worker file the bundler never
       // emitted, and the basemap renders as an empty background colour.
@@ -166,13 +174,7 @@
       m.on('error', (e) => console.warn('[map]', e.error?.message ?? e))
       m.on('load', () => {
         if (disposed) return
-        m.addSource(ACCURACY_SOURCE, { type: 'geojson', data: emptyCollection() })
-        m.addLayer({
-          id: `${ACCURACY_SOURCE}-fill`,
-          type: 'fill',
-          source: ACCURACY_SOURCE,
-          paint: { 'fill-color': '#3E63DD', 'fill-opacity': 0.12 },
-        })
+        afterStyleLoad(m)
       })
 
       for (const pin of pins) {
@@ -629,12 +631,47 @@
    * One-shot location. No follow mode anywhere in the product (PLAN §6.6) — the map opens at the
    * exit, not on the blue dot, and it never recentres on its own.
    */
+  /** Our own layers are not part of the fetched style, so they are re-added after every style load. */
+  function afterStyleLoad(m: MapLibreMap): void {
+    if (!m.getSource(ACCURACY_SOURCE)) m.addSource(ACCURACY_SOURCE, { type: 'geojson', data: emptyCollection() })
+    if (!m.getLayer(`${ACCURACY_SOURCE}-fill`)) {
+      m.addLayer({
+        id: `${ACCURACY_SOURCE}-fill`,
+        type: 'fill',
+        source: ACCURACY_SOURCE,
+        paint: { 'fill-color': '#3E63DD', 'fill-opacity': 0.12 },
+      })
+    }
+    onextrusions?.(extrusionLayerIds(m.getStyle() as MapStyle).length > 0)
+  }
+
+  /**
+   * Swap the basemap in place. Markers are DOM elements, so they survive; our own layers come back
+   * through `afterStyleLoad`. The camera is untouched.
+   */
+  export async function setBasemap(key: BasemapKey): Promise<void> {
+    const m = map
+    if (m === null || key === currentBasemap) return
+    currentBasemap = key
+    const style = await loadStyle(app.locale, undefined, { threeD: threeDNow, basemap: key })
+    if (map !== m || currentBasemap !== key) return
+    m.once('style.load', () => afterStyleLoad(m))
+    m.setStyle(style as unknown as StyleSpecification | string)
+  }
+
+  // Settings change `app.basemap`; the map follows once it exists.
+  $effect(() => {
+    const key = app.basemap
+    if (map !== null && currentBasemap !== null && key !== currentBasemap) void setBasemap(key)
+  })
+
   /**
    * Switch between the flat map and the tilted 3D view. Shows or hides Liberty's extruded-building
    * layers, tilts the camera, and only allows the two-finger tilt gesture while 3D is on, so the
    * flat view cannot be tilted by accident.
    */
   export function setThreeD(on: boolean): void {
+    threeDNow = on
     const m = map
     if (m === null) return
     const apply = () => {

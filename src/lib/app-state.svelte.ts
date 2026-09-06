@@ -17,7 +17,9 @@ import {
   type AnchorKey,
 } from './geo'
 import { getOpenState, type OpenState } from './hours'
-import { loadAnchorKey, loadSaved, storeAnchorKey, storeSaved } from './storage'
+import { loadAnchorKey, loadBasemap, loadSaved, storeAnchorKey, storeBasemap, storeSaved } from './storage'
+import { DEFAULT_BASEMAP, isBasemapKey, type BasemapKey } from './map-style'
+import { readBasemapQuery } from './url'
 
 /** One entry in the sheet's breadcrumb stack. The list is always the bottom of the stack. */
 export type View =
@@ -67,6 +69,8 @@ export class AppState {
 
   // ---- anchor / location ---------------------------------------------------
   anchorKey = $state<AnchorKey>(DEFAULT_ANCHOR.key)
+  /** Basemap style; Positron unless the visitor chose otherwise or a `?basemap=` link says so. */
+  basemap = $state<BasemapKey>(DEFAULT_BASEMAP)
   myLocation = $state<{ lat: number; lng: number; accuracy: number } | null>(null)
 
   // ---- sheet ---------------------------------------------------------------
@@ -106,6 +110,10 @@ export class AppState {
     this.savedIds = loadSaved()
     const anchor = loadAnchorKey()
     if (anchor !== null && ANCHORS.some((a) => a.key === anchor)) this.anchorKey = anchor as AnchorKey
+    const savedBasemap = loadBasemap()
+    if (isBasemapKey(savedBasemap)) this.basemap = savedBasemap
+    const linkedBasemap = typeof location === 'undefined' ? null : readBasemapQuery(location.search)
+    if (isBasemapKey(linkedBasemap)) this.basemap = linkedBasemap
     this.timer = setInterval(() => {
       this.liveNow = new Date()
     }, LIVE_TICK_MS)
@@ -307,6 +315,11 @@ export class AppState {
   setAnchor(key: AnchorKey): void {
     this.anchorKey = key
     storeAnchorKey(key)
+  }
+
+  setBasemap(key: BasemapKey): void {
+    this.basemap = key
+    storeBasemap(key)
   }
 
   // ---- sheet navigation ----------------------------------------------------

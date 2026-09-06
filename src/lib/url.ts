@@ -63,3 +63,8 @@ export function localizedHref(pathname: string, search: string, to: 'ko' | 'en')
   const rest = pathname.replace(/^\/(ko|en)(?=\/|$)/, '')
   return `/${to}${rest || '/'}${search}`
 }
+
+/** `?basemap=positron|liberty` — a share link that forces a basemap, used to compare styles on a phone. */
+export function readBasemapQuery(search: string): string | null {
+  return new URLSearchParams(search).get('basemap')
+}

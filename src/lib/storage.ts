@@ -11,6 +11,7 @@ export const KEYS = {
   recent: `${PREFIX}recent`,
   anchor: `${PREFIX}anchor`,
   map3d: `${PREFIX}map3d`,
+  basemap: `${PREFIX}basemap`,
 } as const
 
 function read(key: string): string | null {
@@ -81,4 +82,13 @@ export function loadMap3d(): boolean {
 
 export function storeMap3d(on: boolean): void {
   write(KEYS.map3d, on ? '1' : '0')
+}
+
+/** The basemap the visitor picked in settings, or null for the default. Validated by the caller. */
+export function loadBasemap(): string | null {
+  return read(KEYS.basemap)
+}
+
+export function storeBasemap(key: string): void {
+  write(KEYS.basemap, key)
 }

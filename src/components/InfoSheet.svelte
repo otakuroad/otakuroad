@@ -7,6 +7,7 @@
   import credits from '../../public/photos/CREDITS.json'
   import type { AppState } from '@/lib/app-state.svelte'
   import { ANCHORS } from '@/lib/geo'
+  import { BASEMAPS } from '@/lib/map-style'
   import { toTokyo } from '@/lib/hours'
   import { localizedHref } from '@/lib/url'
   import { APP_VERSION } from '@/lib/meta'
@@ -90,6 +91,18 @@
             {t(locale, 'info.reset_time')}
           </button>
         {/if}
+      </div>
+    </section>
+
+    <section>
+      <h3>{t(locale, 'info.basemap')}</h3>
+      <p class="hint">{t(locale, 'info.basemap_note')}</p>
+      <div class="row wrap">
+        {#each BASEMAPS as key (key)}
+          <button type="button" class="pill" class:on={app.basemap === key} onclick={() => app.setBasemap(key)}>
+            {t(locale, `info.basemap_${key}`)}
+          </button>
+        {/each}
       </div>
     </section>
 
