@@ -923,8 +923,10 @@
 
   /* ---- markers ---- */
   .mk {
-    /* 44px transparent hit area around a 28px glyph (PLAN §4.1 / §6.5). */
-    position: relative;
+    /* 44px transparent hit area around a 28px glyph (PLAN §4.1 / §6.5). MapLibre positions the
+       marker element itself (position: absolute + transform) — never override its position here;
+       a `position: relative` on this rule once threw every pin off the map. The absolute marker is
+       already the containing block for the halo below. */
     width: var(--tap-min);
     height: var(--tap-min);
     display: grid;
