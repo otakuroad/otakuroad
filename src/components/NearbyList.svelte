@@ -5,6 +5,7 @@
    */
   import type { AppState, ListItem } from '@/lib/app-state.svelte'
   import { ANCHORS, GPS_ANCHOR_MAX_ACCURACY_M } from '@/lib/geo'
+  import { savedListUrl } from '@/lib/url'
   import { t } from '@/i18n'
   import ListRow from './ListRow.svelte'
 
@@ -24,6 +25,27 @@
   })
 
   const anchorLabel = $derived(t(app.locale, app.anchor.labelKey))
+
+  /** The saved list travels in the link (no accounts); the receiver is offered a merge. */
+  async function shareSaved(): Promise<void> {
+    const ids = app.savedItems.map((item) => item.id)
+    const url = savedListUrl(location.origin, app.locale, ids)
+    const title = t(app.locale, 'saved.share_title', { count: ids.length })
+    if (typeof navigator.share === 'function') {
+      try {
+        await navigator.share({ title, url })
+        return
+      } catch {
+        /* dismissed — fall through to the clipboard */
+      }
+    }
+    try {
+      await navigator.clipboard.writeText(url)
+      app.showToast(t(app.locale, 'action.share_done'))
+    } catch {
+      app.showToast(t(app.locale, 'action.copy_failed'))
+    }
+  }
 </script>
 
 <div class="peek" bind:clientHeight={peekH}>
@@ -101,7 +123,17 @@
   </button>
 </div>
 
-<p class="sorted">{t(app.locale, 'list.sorted_by_anchor', { anchor: anchorLabel })}</p>
+<div class="sorted-row">
+  <p class="sorted">{t(app.locale, 'list.sorted_by_anchor', { anchor: anchorLabel })}</p>
+  {#if app.listMode === 'saved' && app.savedItems.length > 0}
+    <button type="button" class="share-saved" onclick={shareSaved}>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 3v12M7 8l5-5 5 5" /><path d="M5 14v5h14v-5" />
+      </svg>
+      {t(app.locale, 'saved.share')}
+    </button>
+  {/if}
+</div>
 
 {#if app.listItems.length === 0}
   <p class="empty">{t(app.locale, app.listMode === 'saved' ? 'list.saved_empty' : 'list.empty')}</p>
@@ -196,10 +228,33 @@
     box-shadow: 0 1px 2px rgba(31, 35, 40, 0.1);
   }
 
+  .sorted-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin: 6px 0 2px;
+  }
   .sorted {
-    margin: 10px 0 2px;
+    margin: 0;
     font-size: 12px;
     color: var(--color-text-tertiary);
+  }
+  .share-saved {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    flex: none;
+    min-height: 32px;
+    padding: 0 10px;
+    border-radius: var(--radius-pill);
+    background: #f1f3f5;
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+  }
+  .share-saved:hover {
+    color: var(--color-text);
   }
   .empty {
     margin: 24px 0;

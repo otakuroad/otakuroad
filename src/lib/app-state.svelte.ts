@@ -19,7 +19,7 @@ import {
 import { getOpenState, type OpenState } from './hours'
 import { loadAnchorKey, loadBasemap, loadGeoChoice, loadSaved, storeAnchorKey, storeBasemap, storeGeoChoice, storeSaved } from './storage'
 import { DEFAULT_BASEMAP, isBasemapKey, type BasemapKey } from './map-style'
-import { readBasemapQuery } from './url'
+import { mergeSaved, readBasemapQuery } from './url'
 
 /** One entry in the sheet's breadcrumb stack. The list is always the bottom of the stack. */
 export type View =
@@ -391,6 +391,17 @@ export class AppState {
   toggleSaved(id: string): void {
     this.savedIds = this.isSaved(id) ? this.savedIds.filter((s) => s !== id) : [...this.savedIds, id]
     storeSaved(this.savedIds)
+  }
+
+  /** Merge a received list (see `readSavedQuery`) into the visitor's own. Returns how many were new. */
+  addSaved(ids: readonly string[]): number {
+    const next = mergeSaved(this.savedIds, ids)
+    const added = next.length - this.savedIds.length
+    if (added > 0) {
+      this.savedIds = next
+      storeSaved(this.savedIds)
+    }
+    return added
   }
 
   showToast(message: string, ms = 3500): void {

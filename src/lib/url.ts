@@ -66,6 +66,28 @@ export function localizedHref(pathname: string, search: string, to: Locale): str
 }
 const LOCALE_PREFIX = new RegExp(`^/(${LOCALES.join('|')})(?=/|$)`)
 
+/**
+ * A shared saved list: `/{lang}/?saved=<id>,<id>,…` (PLAN "MVP 이후 · 저장 목록 공유"). There are no
+ * accounts, so the list itself travels in the link; the ids are stable slugs, and the receiving
+ * map validates them against the dataset before offering to merge them into its own saved list.
+ */
+export function readSavedQuery(search: string): string[] {
+  const raw = new URLSearchParams(search).get('saved') ?? ''
+  return [...new Set(raw.split(',').map((s) => s.trim()).filter((s) => s.length > 0))]
+}
+
+/** The share link for a saved list. Empty ids give the plain map link. */
+export function savedListUrl(origin: string, locale: Locale, ids: readonly string[]): string {
+  return `${origin}/${locale}/${ids.length > 0 ? `?saved=${ids.map(encodeURIComponent).join(',')}` : ''}`
+}
+
+/** Received ids appended to the visitor's own list, keeping their order and skipping duplicates. */
+export function mergeSaved(current: readonly string[], incoming: readonly string[]): string[] {
+  const seen = new Set(current)
+  const added = incoming.filter((id) => !seen.has(id) && (seen.add(id), true))
+  return [...current, ...added]
+}
+
 /** `?basemap=positron|liberty` — a share link that forces a basemap, used to compare styles on a phone. */
 export function readBasemapQuery(search: string): string | null {
   return new URLSearchParams(search).get('basemap')

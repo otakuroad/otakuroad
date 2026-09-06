@@ -16,7 +16,7 @@
   import { AppState, type ListItem, type View } from '@/lib/app-state.svelte'
   import { hasWebGL2 } from '@/lib/map-style'
   import { snapHeight } from '@/lib/sheet'
-  import { readDeepLink, readFilterQuery, syncFilterQuery } from '@/lib/url'
+  import { readDeepLink, readFilterQuery, readSavedQuery, syncFilterQuery } from '@/lib/url'
   import { t, type Locale } from '@/i18n'
   import BuildingDirectory from './BuildingDirectory.svelte'
   import ChipRow from './ChipRow.svelte'
@@ -65,6 +65,23 @@
     const exists =
       deepLink.kind === 'store' ? app.storeById.has(deepLink.id) : app.buildingById.has(deepLink.id)
     if (exists) app.stack = [{ kind: 'list' }, { kind: deepLink.kind, id: deepLink.id }]
+  }
+
+  // A shared saved list (`?saved=…`): offer to merge it, never overwrite what the visitor saved
+  // themselves. Ids that no longer exist are dropped silently, like a stale deep link.
+  const receivedSaved = readSavedQuery(typeof location === 'undefined' ? '' : location.search).filter(
+    (id) => app.storeById.has(id) || app.buildingById.has(id),
+  )
+  let savedBanner = $state(receivedSaved.length > 0)
+  function acceptSaved(): void {
+    savedBanner = false
+    const added = app.addSaved(receivedSaved)
+    app.listMode = 'saved'
+    if (app.stack.length === 1 && app.snap === 'peek') app.snap = 'half'
+    app.showToast(added > 0 ? t(app.locale, 'saved.added', { count: added }) : t(app.locale, 'saved.added_none'))
+  }
+  function dismissSaved(): void {
+    savedBanner = false
   }
 
   const webgl = hasWebGL2()
@@ -384,13 +401,22 @@
     <InfoSheet {app} onclose={closeOverlay} />
   {/if}
 
-  {#if geoBanner && !app.infoOpen}
-    <div class="geo-banner" role="dialog" aria-label={t(app.locale, 'geo.banner_title')} style:bottom={desktop ? undefined : `calc(${Math.round(sheetCover)}px + 16px)`}>
-      <p class="geo-title">{t(app.locale, 'geo.banner_title')}</p>
-      <p class="geo-body">{t(app.locale, 'geo.banner_body')}</p>
-      <div class="geo-actions">
-        <button type="button" class="geo-later" onclick={laterGeo}>{t(app.locale, 'geo.later')}</button>
-        <button type="button" class="geo-allow" onclick={allowGeo}>{t(app.locale, 'geo.allow')}</button>
+  {#if savedBanner && !app.infoOpen}
+    <div class="banner" role="dialog" aria-label={t(app.locale, 'saved.received_title', { count: receivedSaved.length })} style:bottom={desktop ? undefined : `calc(${Math.round(sheetCover)}px + 16px)`}>
+      <p class="banner-title">{t(app.locale, 'saved.received_title', { count: receivedSaved.length })}</p>
+      <p class="banner-body">{t(app.locale, 'saved.received_body')}</p>
+      <div class="banner-actions">
+        <button type="button" class="banner-secondary" onclick={dismissSaved}>{t(app.locale, 'saved.dismiss')}</button>
+        <button type="button" class="banner-primary" onclick={acceptSaved}>{t(app.locale, 'saved.add')}</button>
+      </div>
+    </div>
+  {:else if geoBanner && !app.infoOpen}
+    <div class="banner" role="dialog" aria-label={t(app.locale, 'geo.banner_title')} style:bottom={desktop ? undefined : `calc(${Math.round(sheetCover)}px + 16px)`}>
+      <p class="banner-title">{t(app.locale, 'geo.banner_title')}</p>
+      <p class="banner-body">{t(app.locale, 'geo.banner_body')}</p>
+      <div class="banner-actions">
+        <button type="button" class="banner-secondary" onclick={laterGeo}>{t(app.locale, 'geo.later')}</button>
+        <button type="button" class="banner-primary" onclick={allowGeo}>{t(app.locale, 'geo.allow')}</button>
       </div>
     </div>
   {/if}
@@ -555,7 +581,7 @@
     pointer-events: auto;
   }
 
-  .geo-banner {
+  .banner {
     position: absolute;
     left: 14px;
     right: 14px;
@@ -566,41 +592,41 @@
     border: 1px solid var(--color-border);
     box-shadow: var(--shadow-md);
   }
-  .app.desktop .geo-banner {
+  .app.desktop .banner {
     left: auto;
     right: 24px;
     bottom: 24px;
     max-width: 360px;
   }
-  .geo-title {
+  .banner-title {
     margin: 0 0 4px;
     font-size: 14.5px;
     font-weight: 700;
   }
-  .geo-body {
+  .banner-body {
     margin: 0 0 12px;
     font-size: 13px;
     line-height: 1.45;
     color: var(--color-text-secondary);
   }
-  .geo-actions {
+  .banner-actions {
     display: flex;
     justify-content: flex-end;
     gap: 8px;
   }
-  .geo-actions button {
+  .banner-actions button {
     min-height: 36px;
     padding: 0 14px;
     border-radius: var(--radius-pill);
     font-size: 13.5px;
     font-weight: 600;
   }
-  .geo-later {
+  .banner-secondary {
     border: 1px solid var(--color-border);
     background: var(--color-surface);
     color: var(--color-text);
   }
-  .geo-allow {
+  .banner-primary {
     border: 0;
     background: var(--color-text);
     color: var(--color-text-inverse);
