@@ -24,6 +24,14 @@ or a subculture shop with no record yet) which are handled by hand or by a follo
 `--kind buildings` (no closures; only floors, uncurated_floors, hours_note, exit_hint, address_ja, name and
 the two URLs can change).
 
+Collection: `node scripts/verify/make-collection-batches.mjs lead- 5 /tmp/batches-c /tmp/results-c` turns
+backlog entries (ids prefixed `lead-`, as the building pass leaves them) into prompts that ask for a
+complete record with evidence quotes for hours, floors and address; the prompt embeds the schema, the
+naming glossary, the tag vocabulary in use and one verified tenant record as a style reference. After
+`check-evidence.mjs` (it reads `evidence` like `changes`), `npx tsx scripts/verify/apply-collection.ts /tmp/results-c [--dry]`
+validates each record with the zod schema and the cross-checks, requires verified evidence for the risk
+fields, writes it to data/stores and removes the lead from the backlog.
+
 Lessons from wave 1: x.com returns 402 anonymously, but `syndication.twitter.com/srv/timeline-profile/screen-name/<handle>`,
 `cdn.syndication.twimg.com/tweet-result?id=<id>&token=a` and `api.fxtwitter.com/<handle>` are readable
 (rate-limited after a handful of calls per IP). suruga-ya.jp, dorasuta.jp and gdm.or.jp sit behind

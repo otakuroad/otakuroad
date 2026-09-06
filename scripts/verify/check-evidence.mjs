@@ -166,7 +166,9 @@ for (const f of files) {
     report.push({ id, error: `invalid JSON: ${e.message}` })
     continue
   }
-  const items = [...(r.changes ?? []).map((c, i) => ({ kind: 'change', i, path: c.path, url: c.evidence_url, quote: c.quote })), ...(r.closure ? [{ kind: 'closure', i: 0, path: 'closure', url: r.closure.evidence_url, quote: r.closure.quote }] : [])]
+  // Verification results carry `changes`; collection results carry `evidence` — same shape, same check.
+  const changeLike = r.changes ?? r.evidence ?? []
+  const items = [...changeLike.map((c, i) => ({ kind: 'change', i, path: c.path, url: c.evidence_url, quote: c.quote })), ...(r.closure ? [{ kind: 'closure', i: 0, path: 'closure', url: r.closure.evidence_url, quote: r.closure.quote }] : [])]
   const checks = []
   for (const it of items) {
     if (!it.url || !it.quote) {
