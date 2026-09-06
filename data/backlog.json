@@ -1,39 +1,7 @@
 {
  "generated_at": "2026-09-05",
  "note": "Discovery candidates not yet turned into records. Two collection waves converted what primary sources could confirm and moved the confirmed closures into data/excluded.json; what is left here is mostly small upper-floor card shops and concept cafes with no official page, an inactive X account, or only a directory listing. Each still needs a primary source before it can be published. 2026-09-06: the building re-verification added tenants seen on official floor guides / tenant X accounts that have no record yet (ids prefixed lead-); each still needs a full collection pass before publishing. 2026-09-06 evening: entries that already had a store record (70 by id, 4 by synonym) were removed from `remaining`; the earlier collection waves had not pruned them.",
- "remaining": [
-  {
-   "id": "41px-akihabara",
-   "name_ja": "41PX 秋葉原",
-   "name_en": "41PX Akihabara",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区外神田6-14-2 さかい末広ビル B1F",
-   "building_ja": "さかい末広ビル",
-   "floors": "B1F",
-   "chain": "41px",
-   "what_it_sells": "Basement hobby shop under TamTam; reported variously as garage kits, indie figures and small resin models, and as a general hobby/toy shop.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "probably_open",
-   "official_url": "https://41px.jp/41akihabara/",
-   "note": "OSM 35.703144,139.771486, level -1, consistent with B1 of the TamTam building. Product mix not confirmed from a first-party page. 2026-09-06 collection: the shop is an airsoft/military gun store (not figures); a full record with primary evidence is drafted but held until the owner decides whether airsoft shops belong on the map."
-  },
-  {
-   "id": "echigoya-tokyo-akihabara",
-   "name_ja": "ECHIGOYA 東京（秋葉原）",
-   "name_en": "ECHIGOYA Tokyo",
-   "category": "figure_hobby",
-   "address_ja": "東京都千代田区外神田3-8-9付近 2F",
-   "floors": "2F",
-   "chain": "echigoya",
-   "what_it_sells": "Discount toy and hobby dealer — plastic models, die-cast and character toys.",
-   "notability": 2,
-   "tier": 2,
-   "still_open": "probably_open",
-   "official_url": "https://echigoya-tokyo.jp/",
-   "note": "ADDRESS APPROXIMATE — OSM (35.702791,139.77093, level 1 = 2F, surveyed 2024-04-03) carries addr tags for 外神田三丁目; one lane assigned it to 外神田4丁目 and another placed it near Suehirocho on 1F. 2026-09-06 collection: the shop is an airsoft/military gun store (not figures); a full record with primary evidence is drafted but held until the owner decides whether airsoft shops belong on the map."
-  }
- ],
+ "remaining": [],
  "backlog": [
   {
    "id": "ddr-akiba-honten",

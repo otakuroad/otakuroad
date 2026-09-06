@@ -1,0 +1,127 @@
+{
+ "id": "echigoya-akihabara",
+ "name": {
+  "ko": "GUN&MILITARY 에치고야 아키하바라점",
+  "en": "GUN&MILITARY ECHIGOYA Akihabara",
+  "ja": "GUN&MILITARY ECHIGOYA 秋葉原店"
+ },
+ "synonyms": [
+  "에치고야 아키하바라",
+  "에치고야",
+  "건앤밀리터리 에치고야",
+  "밀리터리 에치고야",
+  "ECHIGOYA Akihabara",
+  "Echigoya Tokyo",
+  "GUN&MILITARY ECHIGOYA",
+  "Gun and Military Echigoya",
+  "エチゴヤ 秋葉原",
+  "越後屋 秋葉原店",
+  "ホビーショップ越後屋",
+  "GUN&MILITARY ECHIGOYA 秋葉原店"
+ ],
+ "category": "figure_hobby",
+ "tags": [
+  "toy_gun",
+  "air_gun",
+  "gas_gun",
+  "electric_gun",
+  "model_gun",
+  "military",
+  "custom_parts",
+  "parts",
+  "tools",
+  "new",
+  "upper_floor"
+ ],
+ "one_line": {
+  "ko": "스에히로초 쪽 빌딩 2층의 에어소프트건 전문점. 도쿄마루이 신제품 예약과 커스텀 파츠를 갖췄다",
+  "en": "Airsoft gun specialist on the 2F of a Sotokanda 3-chome building, strong on Tokyo Marui pre-orders and custom parts"
+ },
+ "building_id": null,
+ "floors": [
+  "2F"
+ ],
+ "floor_guide": [],
+ "location": {
+  "lat": 35.702839,
+  "lng": 139.771011
+ },
+ "street_segment": "suehirocho",
+ "address_ja": "東京都千代田区外神田3-8-9 昌徳ビル2F",
+ "hours": {
+  "rules": [
+   {
+    "days": [
+     "mon",
+     "tue",
+     "wed",
+     "thu",
+     "fri",
+     "sat"
+    ],
+    "open": "11:00",
+    "close": "21:00"
+   },
+   {
+    "days": [
+     "sun",
+     "hol"
+    ],
+    "open": "11:00",
+    "close": "20:00"
+   }
+  ],
+  "regular_holiday": {
+   "ko": "연중무휴 (공식 표기 「定休日：年中無休」)",
+   "en": "Open year-round (the store list states 定休日：年中無休)"
+  },
+  "note": {
+   "ko": "공식 표기는 「평일 11시~21시, 일요일·공휴일 11시~20시」로 토요일이 따로 적혀 있지 않다. 통신판매 안내도 같은 시간대를 쓴다",
+   "en": "The official wording is 'weekdays 11:00-21:00, Sundays and holidays 11:00-20:00' and never names Saturday separately; the mail-order page repeats the same two bands"
+  },
+  "source_url": "https://echigoya-tokyo.jp/user_data/shop"
+ },
+ "tax_free": null,
+ "payment": "unknown",
+ "secondhand": "new",
+ "adult_content": {
+  "level": "none",
+  "floors": []
+ },
+ "status": {
+  "state": "open"
+ },
+ "how_to_find": {
+  "ko": "도쿄메트로 긴자선 스에히로초역에서 도보 2~3분. JR 전기가 출구에서는 주오도리를 따라 북쪽으로 올라가다 소토칸다 3초메 뒷골목으로 들어간다. 昌徳ビル 2층이라 1층 입구에서 한 층 올라가야 하고, 같은 골목에 하드오프·호비오프 아키하바라점(3-8-1 YS빌딩)이 있다.",
+  "en": "Two or three minutes from Suehirocho station on the Ginza line; from the JR Electric Town Exit walk north along Chuo-dori and turn into the Sotokanda 3-chome back streets. It is one floor up at 外神田3-8-9 - Hard Off and Hobby Off Akihabara (3-8-1 YS Building) are on the same run of streets."
+ },
+ "tips": {
+  "ko": [
+   "평일과 토요일은 21시까지 열고 일요일·공휴일만 20시에 닫는다. 연중무휴라 연휴에도 문을 연다.",
+   "「秋葉原店&ネット通販限定セール」과 도쿄마루이 신제품 예약 코너를 따로 운영해 매장 한정 가격이 붙는 물건이 있다.",
+   "에어소프트건 본체는 원칙적으로 매장에서 작동 확인을 한 뒤 넘겨준다.",
+   "전화·팩스 주문도 받는다(03-5289-7009 / FAX 03-5289-7202). 신주쿠·요코하마·기타큐슈에도 지점이 있다."
+  ],
+  "en": [
+   "It stays open to 21:00 on weekdays and Saturdays and closes at 20:00 only on Sundays and public holidays, with no regular closing day.",
+   "There is a dedicated 'Akihabara store & online only' sale section and a Tokyo Marui pre-order section, so some prices are store-specific.",
+   "Airsoft gun bodies are function-checked in the shop as a rule before they are handed over.",
+   "Phone and fax orders are taken (03-5289-7009 / fax 03-5289-7202); the chain also has Shinjuku, Yokohama and Kita-Kyushu branches."
+  ]
+ },
+ "photo": null,
+ "photos": [],
+ "official_url": "https://echigoya-tokyo.jp/",
+ "sns": {},
+ "chain": "echigoya",
+ "priority": 3,
+ "confidence": "high",
+ "verified_at": "2026-09-06",
+ "source_urls": [
+  "https://echigoya-tokyo.jp/user_data/shop",
+  "https://echigoya-tokyo.jp/help/tradelaw",
+  "https://echigoya-tokyo.jp/",
+  "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8D%83%E4%BB%A3%E7%94%B0%E5%8C%BA%E5%A4%96%E7%A5%9E%E7%94%B03-8-9%E6%98%8C%E5%BE%B3%E3%83%93%E3%83%AB2F"
+ ],
+ "osm_id": null
+}
