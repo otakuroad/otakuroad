@@ -250,7 +250,7 @@ id 유일 · 좌표 bbox 안 · building_id 존재 · floors ⊂ building.floors
 | 프레임워크 | Astro 7 (static) + Svelte 5 아일랜드 + TypeScript | "정적 콘텐츠 + 무거운 인터랙티브 화면 하나"에 정확히 맞음. 매장 페이지 프리렌더로 SEO·공유 무료 |
 | i18n | Astro 내장 i18n 라우팅 `/ko` `/en`, 로케일 JSON | 이후 `/ja`는 번역만 추가 |
 | 지도 | MapLibre GL JS 6 | BSD, API 키 없음, 벡터, DOM 마커로 접근성, 나중에 PMTiles 오프라인까지 같은 코드 |
-| 타일 | OpenFreeMap Liberty 포크(name:ko/en 우선, bbox 내 상점 POI 억제) → Protomaps PMTiles 아키하바라 추출 자체 호스팅 | 키·비용 0. 자체 호스팅으로 런타임 외부 의존 0 |
+| 타일 | OpenFreeMap Positron 기본(2026-09-06 확정, 색을 뺀 배경으로 카테고리 색 핀만 강조) + Liberty 선택(3D 건물용), 런타임 패치로 name:ko/en 우선·상점 POI 억제 → Protomaps PMTiles 아키하바라 추출 자체 호스팅 | 키·비용 0. 자체 호스팅으로 런타임 외부 의존 0 |
 | 검색 | Fuse.js | synonyms·tags 퍼지 |
 | 영업시간 엔진 | 직접 작성 (Intl Asia/Tokyo + 일본 공휴일 목록) + vitest | 평일/주말/공휴일·마감 임박·시간 미확인 |
 | 바텀시트 | 직접 작성 (pointer events + transform, 3스냅, history back) | 라이브러리 없음, ~150줄 |

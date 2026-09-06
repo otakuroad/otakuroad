@@ -1,5 +1,6 @@
 /**
- * OpenFreeMap Liberty, patched at runtime (PLAN §9 "OpenFreeMap Liberty 포크").
+ * OpenFreeMap styles, patched at runtime (PLAN §9). Positron is the default since 2026-09-06; Liberty
+ * stays selectable in settings because it is the style with extruded buildings for the 3D view.
  *
  * Three changes:
  *  1. Labels prefer `name:ko` / `name:en` so a Korean visitor reads 秋葉原 as 아키하바라.
