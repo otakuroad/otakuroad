@@ -10,7 +10,7 @@
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { Building, Store } from '../../src/data/schema'
+import { AKIBA_BBOX, Building, Store } from '../../src/data/schema'
 import { crossCheck } from '../validate'
 import { loadDataset } from '../lib/data'
 
@@ -45,11 +45,36 @@ const buildings = dataset.buildings.map((b) => b.value)
 const backlogFile = join(ROOT, 'data/backlog.json')
 const backlog = JSON.parse(readFileSync(backlogFile, 'utf8')) as { remaining: { id: string }[] }
 
+/** Normalise a name for duplicate detection. */
+const normName = (t: string) => t.normalize('NFKC').replace(/[\s　・･（）()]/g, '').toLowerCase()
+const existingNames = new Set(stores.map((s) => normName(s.name.ja)))
+
+/**
+ * Block-level geocode from the Geospatial Information Authority of Japan, the same source the
+ * first collection used for standalone pins. Returns null when the address is outside the map box.
+ */
+async function geocode(addressJa: string): Promise<{ lat: number; lng: number; url: string } | null> {
+  const q = addressJa.normalize('NFKC').replace(/〒\d{3}-\d{4}\s*/, '').replace(/\s+/g, '')
+  const url = `https://msearch.gsi.go.jp/address-search/AddressSearch?q=${encodeURIComponent(q)}`
+  try {
+    const res = await fetch(url)
+    if (!res.ok) return null
+    const hits = (await res.json()) as { geometry?: { coordinates?: [number, number] }; properties?: { title?: string } }[]
+    const first = hits[0]?.geometry?.coordinates
+    if (!first) return null
+    const [lng, lat] = first
+    if (lat < AKIBA_BBOX.south || lat > AKIBA_BBOX.north || lng < AKIBA_BBOX.west || lng > AKIBA_BBOX.east) return null
+    return { lat: Number(lat.toFixed(6)), lng: Number(lng.toFixed(6)), url }
+  } catch {
+    return null
+  }
+}
+
 const written: string[] = []
 const held: string[] = []
 const skipped: string[] = []
 
-for (const file of readdirSync(resultsDir).filter((f) => f.endsWith('.json')).sort()) {
+for (const file of readdirSync(resultsDir).filter((f) => f.endsWith('.json')).sort()) await (async () => {
   const leadId = file.replace(/\.json$/, '')
   const r = JSON.parse(readFileSync(join(resultsDir, file), 'utf8')) as {
     lead_id?: string
@@ -60,22 +85,37 @@ for (const file of readdirSync(resultsDir).filter((f) => f.endsWith('.json')).so
   }
   if (!r.publish) {
     skipped.push(`${leadId}: publish=false — ${(r.notes ?? '').slice(0, 140)}`)
-    continue
+    return
+  }
+  // Standalone shops arrive without coordinates by design; geocode the official address first.
+  const raw = r.record as Record<string, unknown> | undefined
+  if (raw && raw.building_id == null && raw.location == null && typeof raw.address_ja === 'string') {
+    const fix = await geocode(raw.address_ja)
+    if (fix === null) {
+      held.push(`${leadId}: could not geocode "${raw.address_ja}" inside the map box`)
+      return
+    }
+    raw.location = { lat: fix.lat, lng: fix.lng }
+    if (Array.isArray(raw.source_urls) && !raw.source_urls.includes(fix.url)) raw.source_urls.push(fix.url)
   }
   const parsed = Store.safeParse(r.record)
   if (!parsed.success) {
     held.push(`${leadId}: schema — ${parsed.error.issues.slice(0, 3).map((i) => `${i.path.join('.')}: ${i.message}`).join('; ')}`)
-    continue
+    return
   }
   const record = parsed.data
   if (stores.some((s) => s.id === record.id) || existsSync(join(ROOT, 'data/stores', `${record.id}.json`))) {
     held.push(`${leadId}: id "${record.id}" already exists`)
-    continue
+    return
+  }
+  if (existingNames.has(normName(record.name.ja))) {
+    held.push(`${leadId}: a record named "${record.name.ja}" already exists`)
+    return
   }
   const building: Building | undefined = buildings.find((b) => b.id === record.building_id)
   if (record.building_id !== null && !building) {
     held.push(`${leadId}: building ${record.building_id} not found`)
-    continue
+    return
   }
   // Evidence gate for the risk fields that are actually set.
   const ev = report.get(leadId)
@@ -95,22 +135,23 @@ for (const file of readdirSync(resultsDir).filter((f) => f.endsWith('.json')).so
   }
   if (problems.length > 0) {
     held.push(`${leadId}: ${problems.join('; ')}`)
-    continue
+    return
   }
   // Cross-checks with the record added.
   const { errors } = crossCheck([...stores, record], buildings, dataset.excluded)
   const mine = errors.filter((e) => e.subject === `store ${record.id}`)
   if (mine.length > 0) {
     held.push(`${leadId}: ${mine.map((e) => e.message).join('; ')}`)
-    continue
+    return
   }
   if (!dry) {
     writeFileSync(join(ROOT, 'data/stores', `${record.id}.json`), JSON.stringify(record, null, 1) + '\n')
     backlog.remaining = backlog.remaining.filter((e) => e.id !== leadId)
   }
   stores.push(record)
-  written.push(`${leadId} → ${record.id} (${record.confidence}${record.hours ? ', hours' : ', hours null'})`)
-}
+  existingNames.add(normName(record.name.ja))
+  written.push(`${leadId} → ${record.id} (${record.confidence}${record.hours ? ', hours' : ', hours null'}${record.building_id ? '' : ', geocoded'})`)
+})()
 if (!dry && written.length > 0) writeFileSync(backlogFile, JSON.stringify(backlog, null, 1) + '\n')
 
 const print = (title: string, list: string[]) => {
