@@ -21,11 +21,13 @@
  ],
  "hours_note": {
   "ko": "기본 11:00~21:00이지만 층마다 다름. 1~2F 라신방 11:00~21:00(매입 접수는 18:00 마감), 3F 하비코로 완구 3개 점포와 스케루톤·4F 아스톱·6F TRIO DX는 11:00~20:30, 4F 카루팝은 11:00~20:00, 5F 앳홈카페 평일 11:00~22:00·주말 및 공휴일 10:00~22:00, B1F 극장은 10:00~23:00을 기준으로 공연 일정에 따라 바뀜. 정기휴일 없음.",
-  "en": "Nominally 11:00–21:00, but hours vary by floor: Lashinbang on 1–2F 11:00–21:00 (buy-in counter closes 18:00); the three Havikoro Toy shops and Skeleton on 3F, Astop on 4F and TRIO DX on 6F 11:00–20:30; Culpop on 4F 11:00–20:00; @home cafe on 5F 11:00–22:00 weekdays and 10:00–22:00 weekends/holidays; the B1F theater is listed as 10:00–23:00 but follows its show schedule. No regular closing day."
+  "en": "Nominally 11:00–21:00, but hours vary by floor: Lashinbang on 1–2F 11:00–21:00 (buy-in counter closes 18:00); the three Havikoro Toy shops and Skeleton on 3F, Astop on 4F and TRIO DX on 6F 11:00–20:30; Culpop on 4F 11:00–20:00; @home cafe on 5F 11:00–22:00 weekdays and 10:00–22:00 weekends/holidays; the B1F theater is listed as 10:00–23:00 but follows its show schedule. No regular closing day.",
+  "ja": "基本は11:00〜21:00ですが、営業時間はフロアごとに異なります。1〜2Fのらしんばんは11:00〜21:00（買取カウンターは18:00まで）、3Fのハビコロ玩具3店舗とすけるとん、4Fのアストップ、6FのTRIO DXは11:00〜20:30、4Fのカルポップは11:00〜20:00、5Fのあっとほぉーむカフェは平日11:00〜22:00・土日・祝日10:00〜22:00です。B1Fの劇場は10:00〜23:00と案内されていますが、実際は公演スケジュールに合わせて動きます。定休日はありません。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 약 4분. 출구를 나와 중앙로(中央通り)를 건넌 뒤 오노덴 본관 옆길을 서쪽으로 약 100m 직진하고, 코토부키야 아키하바라관이 있는 길에서 우회전하면 코토부키야 바로 다음 건물이 왼쪽에 있음. 칸다묘진도리(神田明神通り) 건너 북쪽 대각선에 만다라케 컴플렉스.",
-  "en": "About 4 min on foot from the JR Akihabara Electric Town Exit (電気街口). Cross Chuo-dori, walk west about 100 m along the street beside Onoden, then turn right onto the street with Kotobukiya Akihabara-kan; the building is the next one past Kotobukiya on your left, with Mandarake Complex diagonally across Kanda-Myojin-dori to the north."
+  "en": "About 4 min on foot from the JR Akihabara Electric Town Exit (電気街口). Cross Chuo-dori, walk west about 100 m along the street beside Onoden, then turn right onto the street with Kotobukiya Akihabara-kan; the building is the next one past Kotobukiya on your left, with Mandarake Complex diagonally across Kanda-Myojin-dori to the north.",
+  "ja": "JR秋葉原駅の電気街口から徒歩約4分です。中央通りを渡り、オノデン脇の道を西へ約100m進み、コトブキヤ秋葉原館のある通りで右に曲がると、コトブキヤの次のビルが左手にあります。北側は神田明神通りをはさんだ斜向かいがまんだらけコンプレックスです。"
  },
  "floor_guide_url": "https://www.akibacultureszone.com/shop/",
  "official_url": "https://www.akibacultureszone.com/",

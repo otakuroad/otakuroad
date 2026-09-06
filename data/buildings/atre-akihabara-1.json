@@ -19,11 +19,13 @@
  ],
  "hours_note": {
   "ko": "건물 기준 영업시간 10:00–21:00. 1F 음식점, 3F 카페·식품관, 4F 카페, 5F 클리닉 등 일부 점포는 개·폐점 시간이 다르므로 공식 플로어 가이드에서 매장별로 확인해야 한다. 쇼와도리 출구 쪽의 아트레 아키하바라 2(7:00–23:30)는 건물도 영업시간도 별개다.",
-  "en": "Building hours 10:00-21:00. Some tenants keep their own hours - the 1F eateries, the 3F cafe and food hall, the 4F cafe and the 5F clinic - so check each shop on the official floor guide. Atre Akihabara 2 on the Showa-dori exit side (07:00-23:30) is a separate building with separate hours."
+  "en": "Building hours 10:00-21:00. Some tenants keep their own hours - the 1F eateries, the 3F cafe and food hall, the 4F cafe and the 5F clinic - so check each shop on the official floor guide. Atre Akihabara 2 on the Showa-dori exit side (07:00-23:30) is a separate building with separate hours.",
+  "ja": "建物の営業時間は10:00〜21:00です。1Fの飲食店、3Fのカフェと食品フロア、4Fのカフェ、5Fのクリニックなど独自の時間で動く店舗もあるので、公式のフロアガイドで店ごとに確認してください。昭和通り口側のアトレ秋葉原2（7:00〜23:30）は建物も営業時間も別です。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口) 개찰을 나오면 바로 이어지는 역 빌딩이 아트레 아키하바라 1이다. 1F 통로에서 매장이 시작되고 에스컬레이터·엘리베이터로 2~5F에 오른다. 소부선 승강장에서는 3F의 '아트레 아키하바라 1 개찰구(アトレ秋葉原1改札口)'로 나오면 건물 안으로 바로 연결된다. 쇼와도리 출구 쪽 아트레 아키하바라 2는 음식점 중심의 별개 건물이므로 혼동하지 않도록 주의.",
-  "en": "Atre Akihabara 1 is the station building that starts right at JR Akihabara's Electric Town Exit (電気街口). Shops begin along the 1F concourse, with escalators and elevators up to 2F-5F. From the Sobu Line platforms the dedicated 'Atre Akihabara 1' ticket gate on 3F opens straight into the building. Do not confuse it with Atre Akihabara 2, a separate, mostly-dining building at the Showa-dori exit."
+  "en": "Atre Akihabara 1 is the station building that starts right at JR Akihabara's Electric Town Exit (電気街口). Shops begin along the 1F concourse, with escalators and elevators up to 2F-5F. From the Sobu Line platforms the dedicated 'Atre Akihabara 1' ticket gate on 3F opens straight into the building. Do not confuse it with Atre Akihabara 2, a separate, mostly-dining building at the Showa-dori exit.",
+  "ja": "アトレ秋葉原1は、JR秋葉原駅の電気街口を出てすぐに始まる駅ビルです。1Fのコンコース沿いから店舗が始まり、エスカレーターとエレベーターで2F〜5Fに上がれます。総武線のホームからは、3Fのアトレ秋葉原1専用改札口を通るとそのまま建物の中に入れます。昭和通り口にある、飲食が中心の別の建物アトレ秋葉原2と取り違えないようにしてください。"
  },
  "floor_guide_url": "https://www.atre.co.jp/akihabara/floorguide/27/112",
  "official_url": "https://www.atre.co.jp/akihabara/",
@@ -31,17 +33,20 @@
   {
    "floor": "1F",
    "ko": "식음료 중심 층. 커피·베이커리·양과자·꽃집과 스시·교자·카레·우동 매장(사루타히코 커피, 고디바, 도쿄 밀크 치즈 공장, 교자노 오쇼 Express, 마루가메 세이멘 등)",
-   "en": "Food floor: coffee, bakery, confectionery and a florist plus sushi, gyoza, curry and udon (Sarutahiko Coffee, Godiva, Tokyo Milk Cheese Factory, Gyoza no Ohsho Express, Marugame Seimen)"
+   "en": "Food floor: coffee, bakery, confectionery and a florist plus sushi, gyoza, curry and udon (Sarutahiko Coffee, Godiva, Tokyo Milk Cheese Factory, Gyoza no Ohsho Express, Marugame Seimen)",
+   "ja": "飲食が中心のフロアです。コーヒー、ベーカリー、洋菓子、生花店に加え、寿司、餃子、カレー、うどんの店が並びます（猿田彦珈琲、ゴディバ、東京ミルクチーズ工場、餃子の王将Express、丸亀製麺）。"
   },
   {
    "floor": "4F",
    "ko": "카페 층. 파티스리 에 카페 아 라 캉파뉴 한 곳뿐(케이크·런치 세트)",
-   "en": "Cafe floor with a single tenant, Patisserie et Cafe a la campagne (cakes and lunch sets)"
+   "en": "Cafe floor with a single tenant, Patisserie et Cafe a la campagne (cakes and lunch sets)",
+   "ja": "カフェのフロアで、入っているのはパティスリー エ カフェ ア・ラ・カンパーニュ1店だけです（ケーキとランチセット）。"
   },
   {
    "floor": "5F",
    "ko": "클리닉 층. 헬스케어 클리닉 아키하바라(건강검진·인간독)만 있고 상업 매장은 없다",
-   "en": "Clinic floor: Healthcare Clinic Akihabara (health checkups) only, no shops"
+   "en": "Clinic floor: Healthcare Clinic Akihabara (health checkups) only, no shops",
+   "ja": "クリニックのフロアです。ヘルスケアクリニック秋葉原（健康診断）だけで、店舗はありません。"
   }
  ],
  "verified_at": "2026-09-06",

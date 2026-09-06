@@ -24,11 +24,13 @@
  ],
  "hours_note": {
   "ko": "건물 전체에 공통 영업시간은 없다. 2·3층 메이드리밍 두 점포는 월·화 11:30, 나머지 요일과 공휴일 10:30에 열어 매일 23:00에 닫고, 8층 카드숍 하레루야3는 연중무휴 10:00~22:00다. 1층 소바집과 6층 마작 라운지는 심야까지 열지만 지하 1층 카드숍은 별도 시간표를 두므로 각 매장 카드에서 확인. 엘리베이터가 1대뿐이라 층 이동은 이 한 곳으로만 한다.",
-  "en": "There are no building-wide hours. The two Maidreamin branches on 2F and 3F open at 11:30 on Monday and Tuesday and 10:30 on every other day and public holiday, closing at 23:00; the Hareruya3 card shop on 8F runs 10:00-22:00 year-round. The soba counter on 1F and the mahjong lounge on 6F stay open late, while the basement card shop keeps its own schedule, so check each store card. The building has a single elevator, and every floor is reached through it."
+  "en": "There are no building-wide hours. The two Maidreamin branches on 2F and 3F open at 11:30 on Monday and Tuesday and 10:30 on every other day and public holiday, closing at 23:00; the Hareruya3 card shop on 8F runs 10:00-22:00 year-round. The soba counter on 1F and the mahjong lounge on 6F stay open late, while the basement card shop keeps its own schedule, so check each store card. The building has a single elevator, and every floor is reached through it.",
+  "ja": "建物全体に共通の営業時間はありません。2Fと3Fのめいどりーみん2店舗は月曜・火曜が11:30、それ以外の曜日と祝日は10:30に開き、23:00に閉まります。8Fのカードショップ晴れる屋3は年中無休で10:00〜22:00です。1Fのそば店と6Fの麻雀ラウンジは遅くまで開いており、B1Fのカードショップは独自の時間を設けているので、各店舗のカードで確認してください。エレベーターは1台だけで、どのフロアへもこれを使って移動します。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)로 나와 라디오회관을 왼쪽에 두고 서쪽으로 100m 걸으면 도보 1~2분. 주오도리에 닿기 직전, 주오도리 동쪽 보도에 면해 선 9층 건물이다. 1층 도로변의 소바 체인 '나다이 후지소바 아키하바라 전기가점'과 그 옆 게오모바일 간판이 표지이고, 건물 입구는 1층 점포 옆의 좁은 엘리베이터 홀 하나뿐이라 지하 1층 카드숍도 이 엘리베이터로 내려간다. 도쿄메트로 긴자선 스에히로초역에서는 주오도리를 따라 남쪽으로 도보 7분, 아와지초역에서 도보 6분.",
-  "en": "Leave JR Akihabara by the Electric Town Exit (電気街口), keep Radio Kaikan on your left and walk about 100 m west - one to two minutes. Just before you reach Chuo-dori, the nine-storey building standing on the east pavement of Chuo-dori is it. The street-level markers are the Nadai Fuji Soba Akihabara Denkigai noodle counter and the GEO Mobile shop beside it; the only way in is the narrow elevator hall next to those shops, and the basement card shop is reached by that same elevator. Suehirocho on the Ginza Line is 7 minutes south along Chuo-dori, Awajicho 6 minutes."
+  "en": "Leave JR Akihabara by the Electric Town Exit (電気街口), keep Radio Kaikan on your left and walk about 100 m west - one to two minutes. Just before you reach Chuo-dori, the nine-storey building standing on the east pavement of Chuo-dori is it. The street-level markers are the Nadai Fuji Soba Akihabara Denkigai noodle counter and the GEO Mobile shop beside it; the only way in is the narrow elevator hall next to those shops, and the basement card shop is reached by that same elevator. Suehirocho on the Ginza Line is 7 minutes south along Chuo-dori, Awajicho 6 minutes.",
+  "ja": "JR秋葉原駅を電気街口から出て、ラジオ会館を左手に見ながら西へ約100m、徒歩1〜2分です。中央通りに出る手前、中央通りの東側の歩道に面して建つ9階建てがそれです。路面の目印は名代 富士そば 秋葉原電気街店と、その隣のゲオモバイルで、入口はこれらの店の横にある狭いエレベーターホールだけ、B1Fのカードショップにも同じエレベーターで下ります。銀座線の末広町駅からは中央通りを南へ7分、淡路町駅からは6分です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -36,37 +38,44 @@
   {
    "floor": "1F",
    "ko": "소바 체인 '나다이 후지소바' 아키하바라 전기가점과 중고 휴대폰 매장 게오모바일 365 Plus1 아키바점(11:00~20:00, 연중무휴)",
-   "en": "Nadai Fuji Soba Akihabara Denkigai noodle shop and GEO Mobile 365 Plus1 Akiba, a used-phone shop (11:00-20:00, open year-round)"
+   "en": "Nadai Fuji Soba Akihabara Denkigai noodle shop and GEO Mobile 365 Plus1 Akiba, a used-phone shop (11:00-20:00, open year-round)",
+   "ja": "そば店の名代 富士そば 秋葉原電気街店と、中古携帯電話店のゲオモバイル365 Plus1 アキバ店（11:00〜20:00、年中無休）です。"
   },
   {
    "floor": "4F",
    "ko": "매장 정보가 공개되지 않은 임대 사무실 층",
-   "en": "Rental office floor with no publicly listed shop"
+   "en": "Rental office floor with no publicly listed shop",
+   "ja": "店舗の情報が公開されていない賃貸オフィスのフロアです。"
   },
   {
    "floor": "5F",
    "ko": "기준층 36평(약 119㎡) 규모의 임대 사무실 층",
-   "en": "Rental office floor of about 36 tsubo (119 m2), the building's standard floor plate"
+   "en": "Rental office floor of about 36 tsubo (119 m2), the building's standard floor plate",
+   "ja": "このビルの基準階にあたる約36坪（119㎡）の賃貸オフィスのフロアです。"
   },
   {
    "floor": "6F",
    "ko": "3인 마작 전문 마작 라운지 마차오 아스 도쿄 아키하바라점",
-   "en": "Marchao Earth Tokyo Akihabara, a three-player mahjong parlour"
+   "en": "Marchao Earth Tokyo Akihabara, a three-player mahjong parlour",
+   "ja": "三人麻雀の雀荘、マーチャオ アース 東京秋葉原店です。"
   },
   {
    "floor": "7F",
    "ko": "릴랙세이션 마사지 '와후 이야시도코로 와노쿠니'(12:00~22:00)",
-   "en": "Wanokuni, a Japanese-style relaxation and massage salon (12:00-22:00)"
+   "en": "Wanokuni, a Japanese-style relaxation and massage salon (12:00-22:00)",
+   "ja": "和風のリラクゼーション・マッサージサロンWanokuni（12:00〜22:00）です。"
   },
   {
    "floor": "8F",
    "ko": "듀얼마스터즈 전문 카드숍 하레루야3 아키하바라점(연중무휴 10:00~22:00)",
-   "en": "Hareruya3 Akihabara, a Duel Masters specialist card shop (10:00-22:00, open year-round)"
+   "en": "Hareruya3 Akihabara, a Duel Masters specialist card shop (10:00-22:00, open year-round)",
+   "ja": "デュエル・マスターズ専門のカードショップ、晴れる屋3 秋葉原店（10:00〜22:00、年中無休）です。"
   },
   {
    "floor": "9F",
    "ko": "매장 정보가 공개되지 않은 임대 사무실 층",
-   "en": "Rental office floor with no publicly listed shop"
+   "en": "Rental office floor with no publicly listed shop",
+   "ja": "店舗の情報が公開されていない賃貸オフィスのフロアです。"
   }
  ],
  "verified_at": "2026-09-06",

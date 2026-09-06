@@ -24,11 +24,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없고 층마다 다르다. 1F 패밀리마트는 24시간, 3F 헬냐숍과 7·8F 쿠루쿠루는 11:00~20:00 연중무휴이며 쿠루쿠루의 매입 접수와 8층 렌탈 레이아웃 예약은 19:00에 마감된다. 6F 옐로서브마린 RPG숍은 평일 12:00~20:00, 토 11:00~20:00, 일·공휴일 11:00~19:00이고 매입 접수는 폐점 30분 전까지다. 4F 시험장과 9F 사무실은 일반 방문객을 받지 않는다.",
-  "en": "No common building hours; each floor differs. The FamilyMart on 1F is open 24 hours; Hellnya Shop on 3F and Cle-Cle on 7F and 8F run 11:00-20:00 year-round, with Cle-Cle's buyback intake and 8F rental-layout bookings closing at 19:00. The Yellow Submarine RPG Shop on 6F opens 12:00-20:00 on weekdays, 11:00-20:00 on Saturday and 11:00-19:00 on Sunday and public holidays, taking buybacks until 30 minutes before close. The exam centre on 4F and the offices on 9F do not receive casual visitors."
+  "en": "No common building hours; each floor differs. The FamilyMart on 1F is open 24 hours; Hellnya Shop on 3F and Cle-Cle on 7F and 8F run 11:00-20:00 year-round, with Cle-Cle's buyback intake and 8F rental-layout bookings closing at 19:00. The Yellow Submarine RPG Shop on 6F opens 12:00-20:00 on weekdays, 11:00-20:00 on Saturday and 11:00-19:00 on Sunday and public holidays, taking buybacks until 30 minutes before close. The exam centre on 4F and the offices on 9F do not receive casual visitors.",
+  "ja": "建物共通の営業時間はなく、フロアごとに異なります。1Fのファミリーマートは24時間営業、3Fのヘルニャーショップ秋葉原 中央通り店と7F・8FのCle-Cle秋葉原店は年中無休で11:00〜20:00、Cle-Cleの買取受付と8Fのレンタルレイアウトの予約は19:00で締め切ります。6Fのイエローサブマリン 秋葉原RPGショップは平日12:00〜20:00、土曜11:00〜20:00、日曜・祝日11:00〜19:00で、買取は閉店の30分前まで受け付けます。4Fの試験会場と9Fの事務所は、一般の来訪者を受け付けていません。"
  },
  "exit_hint": {
   "ko": "긴자선 스에히로초역에서 도보 1분. JR 아키하바라역에서는 전기가 북쪽 출구(電気街北口)로 나와 주오도리로 나간 뒤 우에노 방향(북쪽)으로 6~7분 걸으면 오른편에 있다. 주오도리 동쪽 인도에 면한 핑크베이지색 타일 외벽의 10층 건물이고, 1층 노면 패밀리마트가 가장 확실한 표지다. 편의점 옆 입구로 들어가 한 대뿐인 엘리베이터로 올라가며, 한 층에 한 매장씩 들어 있어 내리면 바로 그 층 매장이다.",
-  "en": "One minute from Suehirocho Station on the Ginza line. From JR Akihabara take the Electric Town North Exit (電気街北口), come out onto Chuo-dori and walk six or seven minutes north toward Ueno; the building is on your right. It is a ten-storey block faced in pink-beige tile on the east pavement of Chuo-dori, and the FamilyMart on its ground floor is the surest landmark. Go in beside the convenience store and ride the building's single lift up; each floor holds one tenant, so you step out straight into that floor's shop."
+  "en": "One minute from Suehirocho Station on the Ginza line. From JR Akihabara take the Electric Town North Exit (電気街北口), come out onto Chuo-dori and walk six or seven minutes north toward Ueno; the building is on your right. It is a ten-storey block faced in pink-beige tile on the east pavement of Chuo-dori, and the FamilyMart on its ground floor is the surest landmark. Go in beside the convenience store and ride the building's single lift up; each floor holds one tenant, so you step out straight into that floor's shop.",
+  "ja": "銀座線の末広町駅から徒歩1分です。JR秋葉原駅からは電気街北口を出て中央通りに出たあと、上野方面へ北に6〜7分歩くと右手にあります。中央通りの東側の歩道に面したピンクベージュのタイル張りの10階建てで、1階のファミリーマートが最も確実な目印です。コンビニの横から中に入り、ビルに1台だけのエレベーターで上がります。各フロアに1つずつテナントが入っているので、降りるとそのままそのフロアの店舗です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -36,32 +38,38 @@
   {
    "floor": "1F",
    "ko": "24시간 편의점 패밀리마트 소토칸다 4초메점. 건물 입구와 엘리베이터가 이 편의점 옆에 있다",
-   "en": "FamilyMart Sotokanda 4-chome, open 24 hours; the building entrance and lift are beside it"
+   "en": "FamilyMart Sotokanda 4-chome, open 24 hours; the building entrance and lift are beside it",
+   "ja": "24時間営業のファミリーマート外神田4丁目店です。建物の入口とエレベーターはその横にあります。"
   },
   {
    "floor": "2F",
    "ko": "한 층을 한 임차인이 쓰는 임대 사무실 층. 이 가이드에 실린 매장 없음",
-   "en": "A rental office floor let to a single tenant; no shop from this guide"
+   "en": "A rental office floor let to a single tenant; no shop from this guide",
+   "ja": "1フロアを1つのテナントが借りている賃貸オフィスのフロアです。このガイドに掲載している店舗はありません。"
   },
   {
    "floor": "4F",
    "ko": "자격시험용 CBT 시험장 '아키하바라 주오도리 테스트센터'. 예약자만 들어가는 시험실이다",
-   "en": "The Akihabara Chuo-dori CBT test centre, an exam room open only to booked candidates"
+   "en": "The Akihabara Chuo-dori CBT test centre, an exam room open only to booked candidates",
+   "ja": "CBT試験会場の秋葉原中央通りテストセンターです。予約した受験者だけが入る試験室です。"
   },
   {
    "floor": "5F",
    "ko": "임대 사무실 층. 이 가이드에 실린 매장 없음",
-   "en": "A rental office floor; no shop from this guide"
+   "en": "A rental office floor; no shop from this guide",
+   "ja": "賃貸オフィスのフロアです。このガイドに掲載している店舗はありません。"
   },
   {
    "floor": "9F",
    "ko": "건물주인 시오타전선 주식회사의 전선·전자기기 부문 사무실",
-   "en": "Offices of Shioda Densen, the building's owner: its wire and electronic-equipment division"
+   "en": "Offices of Shioda Densen, the building's owner: its wire and electronic-equipment division",
+   "ja": "建物のオーナーである塩田電線の事務所で、電線・電子機器部門が入っています。"
   },
   {
    "floor": "10F",
    "ko": "임대 사무실 층(최상층). 이 가이드에 실린 매장 없음",
-   "en": "The top rental office floor; no shop from this guide"
+   "en": "The top rental office floor; no shop from this guide",
+   "ja": "最上階の賃貸オフィスフロアです。このガイドに掲載している店舗はありません。"
   }
  ],
  "verified_at": "2026-09-06",

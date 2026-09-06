@@ -24,11 +24,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없고 층마다 다르다. 2F AK!BA FAN CUBE는 평일 12:00~20:00·토·일·공휴일 11:00~20:00, 4F 오럴디자인클리닉은 10:00~13:45와 14:45~18:30(금·일 휴진), 7F·8F 이자카야는 낮 또는 저녁부터 심야까지 영업한다. 3F 트레이디아는 평일 13:00~21:00·토·일·공휴일 11:00~21:00, 9F 토레카루는 평일 13:00~21:00·토·일·공휴일 11:00~20:00이므로 각 매장 카드에서 확인할 것. 1F 노면 점포는 입점 매장이 바뀌었으니 현장에서 확인하는 편이 좋다.",
-  "en": "The building keeps no common hours and every floor differs. AK!BA FAN CUBE on 2F is 12:00-20:00 on weekdays and 11:00-20:00 at weekends and holidays; the Oral Design dental clinic on 4F works 10:00-13:45 and 14:45-18:30 and closes Friday and Sunday; the izakaya on 7F and 8F run from midday or the evening into the night. Tradia on 3F is 13:00-21:00 on weekdays and 11:00-21:00 at weekends and holidays and Torecal on 9F is 13:00-21:00 weekdays and 11:00-20:00 at weekends and holidays, so check each store card. The 1F street-level unit has changed hands, so check it on the spot."
+  "en": "The building keeps no common hours and every floor differs. AK!BA FAN CUBE on 2F is 12:00-20:00 on weekdays and 11:00-20:00 at weekends and holidays; the Oral Design dental clinic on 4F works 10:00-13:45 and 14:45-18:30 and closes Friday and Sunday; the izakaya on 7F and 8F run from midday or the evening into the night. Tradia on 3F is 13:00-21:00 on weekdays and 11:00-21:00 at weekends and holidays and Torecal on 9F is 13:00-21:00 weekdays and 11:00-20:00 at weekends and holidays, so check each store card. The 1F street-level unit has changed hands, so check it on the spot.",
+  "ja": "建物共通の営業時間はなく、フロアごとに異なります。2FのAK!BA FAN CUBEは平日12:00〜20:00・土日・祝日11:00〜20:00、4Fの歯科医院オーラルデザインクリニックは10:00〜13:45と14:45〜18:30で金曜・日曜が休診、7F・8Fの居酒屋は昼または夕方から深夜まで営業します。3Fのトレーディアは平日13:00〜21:00・土日・祝日11:00〜21:00、9Fのトレカルは平日13:00〜21:00・土日・祝日11:00〜20:00なので、各店舗カードで確認してください。1Fの路面区画は入居する店が入れ替わっているので、現地で確かめるのが確実です。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 1분. 개찰을 나와 라디오회관을 지나 주오도리까지 곧장 걸은 뒤 우회전해 북쪽으로 50m쯤 가면, 동쪽 보도의 모퉁이 오락실 건물 바로 북쪽에 붙어 있는 폭 좁은 10층 건물이 Akiba1131 빌딩이다. 벽면을 덮은 대형 간판이 표식이고 북쪽 옆은 라무타라 아키하바라점. 1층 노면 점포 옆의 좁은 입구로 들어가 엘리베이터(1대)를 타며, 입구의 층별 안내판에서 층을 확인한다. 쓰쿠바 익스프레스 아키하바라역 A1 출구 도보 3분, 긴자선 스에히로초역 도보 6분.",
-  "en": "One minute from the JR Akihabara Electric Town Exit (電気街口). Leave the gates, walk straight past Radio Kaikan to Chuo-dori, turn right and go about 50 m north; on the east sidewalk the narrow ten-storey block attached immediately north of the corner arcade building is Akiba1131.bldg. The large wall signboard is the marker and Lammtarra Akihabara is the next building north. Enter the narrow doorway beside the street-level unit on 1F and take the single elevator, checking the floor directory at the entrance. Tsukuba Express exit A1 is 3 minutes, Ginza-line Suehirocho 6 minutes."
+  "en": "One minute from the JR Akihabara Electric Town Exit (電気街口). Leave the gates, walk straight past Radio Kaikan to Chuo-dori, turn right and go about 50 m north; on the east sidewalk the narrow ten-storey block attached immediately north of the corner arcade building is Akiba1131.bldg. The large wall signboard is the marker and Lammtarra Akihabara is the next building north. Enter the narrow doorway beside the street-level unit on 1F and take the single elevator, checking the floor directory at the entrance. Tsukuba Express exit A1 is 3 minutes, Ginza-line Suehirocho 6 minutes.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分です。改札を出てラジオ会館の前を通り、中央通りまでまっすぐ歩いて右に曲がり、北へ約50m進むと、東側の歩道で角のゲームセンターのビルのすぐ北に接している細長い10階建てがAkiba1131.bldgです。壁面の大きな看板が目印で、北隣はラムタラ秋葉原店です。1Fの路面区画の横にある狭い入口から入り、1台だけのエレベーターに乗って、入口のフロア案内で階を確認してください。つくばエクスプレスのA1出口から3分、銀座線の末広町駅から6分です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -36,42 +38,50 @@
   {
    "floor": "1F",
    "ko": "건물 정면 전체를 쓰는 노면 점포 층. 오랫동안 이 자리를 채우던 크레인게임 오락실 아드아즈 아키하바라 2호점은 2021년 6월 30일에 폐점했고(운영사 아드아즈 공식 점포 목록에 아키하바라 점포가 없다), 현재 입점 매장은 확인되지 않았다",
-   "en": "Street-level unit taking the whole frontage. Adores Akihabara No.2, the crane-game arcade that long filled it, closed on 30 June 2021 — Adores' own store list carries no Akihabara branch — and the current occupant is unconfirmed"
+   "en": "Street-level unit taking the whole frontage. Adores Akihabara No.2, the crane-game arcade that long filled it, closed on 30 June 2021 — Adores' own store list carries no Akihabara branch — and the current occupant is unconfirmed",
+   "ja": "建物の正面全体を使う路面区画のフロアです。長くこの場所を占めていたクレーンゲームのゲームセンター、アドアーズ秋葉原2号店は2021年6月30日に閉店し（アドアーズの公式店舗一覧に秋葉原の店はありません）、現在の入居店舗は確認できていません。"
   },
   {
    "floor": "2F",
    "ko": "AK!BA FAN CUBE · 캐릭터 굿즈 브랜드 COCOLLABO의 이벤트 스페이스(평일 12:00~20:00, 토·일·공휴일 11:00~20:00)",
-   "en": "AK!BA FAN CUBE, the event space for the COCOLLABO character-goods brand (12:00-20:00 weekdays, 11:00-20:00 weekends and holidays)"
+   "en": "AK!BA FAN CUBE, the event space for the COCOLLABO character-goods brand (12:00-20:00 weekdays, 11:00-20:00 weekends and holidays)",
+   "ja": "キャラクターグッズブランドCOCOLLABOのイベントスペース、AK!BA FAN CUBEです（平日12:00〜20:00、土日・祝日11:00〜20:00）。"
   },
   {
    "floor": "4F",
    "ko": "오럴디자인클리닉 아키하바라 · 치과·교정치과(10:00~13:45, 14:45~18:30, 금·일 휴진)",
-   "en": "Oral Design Clinic Akihabara, a dental and orthodontic clinic (10:00-13:45 and 14:45-18:30, closed Friday and Sunday)"
+   "en": "Oral Design Clinic Akihabara, a dental and orthodontic clinic (10:00-13:45 and 14:45-18:30, closed Friday and Sunday)",
+   "ja": "歯科・矯正歯科のオーラルデザインクリニック秋葉原です（10:00〜13:45と14:45〜18:30、金曜・日曜休診）。"
   },
   {
    "floor": "5F",
    "ko": "임대 사무실 층. 일반 손님용 매장은 없음",
-   "en": "Rental office floor; no shop open to walk-in customers"
+   "en": "Rental office floor; no shop open to walk-in customers",
+   "ja": "賃貸オフィスのフロアです。飛び込みで入れる店舗はありません。"
   },
   {
    "floor": "6F",
    "ko": "임대 사무실 층. 일반 손님용 매장은 없음",
-   "en": "Rental office floor; no shop open to walk-in customers"
+   "en": "Rental office floor; no shop open to walk-in customers",
+   "ja": "賃貸オフィスのフロアです。飛び込みで入れる店舗はありません。"
   },
   {
    "floor": "7F",
    "ko": "스시자카바 킨노다시 아키하바라점 · 개별룸 스시 이자카야(15:00~24:00)",
-   "en": "Kinnodashi Akihabara, a private-room sushi izakaya (15:00-24:00)"
+   "en": "Kinnodashi Akihabara, a private-room sushi izakaya (15:00-24:00)",
+   "ja": "個室のある寿司居酒屋、Kinnodashi秋葉原店です（15:00〜24:00）。"
   },
   {
    "floor": "8F",
    "ko": "와라야키 이나리쇼텐 아키하바라점 · 개별룸 이자카야",
-   "en": "Warayaki Inari Shoten Akihabara, a private-room izakaya"
+   "en": "Warayaki Inari Shoten Akihabara, a private-room izakaya",
+   "ja": "個室のある居酒屋、Warayaki Inari Shoten秋葉原店です。"
   },
   {
    "floor": "10F",
    "ko": "최상층 임대 사무실 층. 매장 없음",
-   "en": "Top-floor rental office; no shop"
+   "en": "Top-floor rental office; no shop",
+   "ja": "最上階の賃貸オフィスです。店舗はありません。"
   }
  ],
  "verified_at": "2026-09-06",

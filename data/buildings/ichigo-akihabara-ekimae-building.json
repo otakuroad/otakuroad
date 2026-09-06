@@ -23,11 +23,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없고 층마다 다르다. B1F~5F namco 아키하바라점은 10:00~23:00이지만 층 안의 공식숍은 4F 가샤폰 반다이 오피셜숍 10:00~23:00, 1F 이치반쿠지 공식숍과 5F BANDAI CARD GAMES 공식숍 10:00~21:00으로 갈린다. 6F 메이드리밍 LIVE RESTAURANT Heaven's Gate는 수~일·공휴일 10:30~23:00, 월·화 11:30~23:00. 7F 오타츄 건담 전문점은 11:00~20:00으로 가장 일찍 닫는다. 8F 야키니쿠 규카쿠는 월~금·공휴일 전날 16:00~23:00, 토·일·공휴일 11:30~23:00. 굿즈 매장(5F 카드숍·7F 건담)을 도는 일정이면 namco 영업시간만 믿지 말고 각 층 마감을 먼저 확인한다.",
-  "en": "There are no building-wide hours; each floor differs. namco Akihabara on B1F-5F runs 10:00-23:00, but its in-store official shops split: Gashapon Bandai Official Shop on 4F 10:00-23:00, the Ichiban Kuji Official Shop on 1F and the BANDAI CARD GAMES shop on 5F 10:00-21:00. Maidreamin LIVE RESTAURANT Heaven's Gate on 6F opens 10:30-23:00 Wed-Sun and holidays, 11:30-23:00 Mon-Tue. Otachu's Gundam store on 7F closes earliest at 11:00-20:00. The 8F yakiniku restaurant Gyukaku is 16:00-23:00 Mon-Fri and the eve of a holiday, 11:30-23:00 Sat, Sun and holidays. If you are here for the shops (5F cards, 7F Gundam), check those closing times rather than relying on namco's."
+  "en": "There are no building-wide hours; each floor differs. namco Akihabara on B1F-5F runs 10:00-23:00, but its in-store official shops split: Gashapon Bandai Official Shop on 4F 10:00-23:00, the Ichiban Kuji Official Shop on 1F and the BANDAI CARD GAMES shop on 5F 10:00-21:00. Maidreamin LIVE RESTAURANT Heaven's Gate on 6F opens 10:30-23:00 Wed-Sun and holidays, 11:30-23:00 Mon-Tue. Otachu's Gundam store on 7F closes earliest at 11:00-20:00. The 8F yakiniku restaurant Gyukaku is 16:00-23:00 Mon-Fri and the eve of a holiday, 11:30-23:00 Sat, Sun and holidays. If you are here for the shops (5F cards, 7F Gundam), check those closing times rather than relying on namco's.",
+  "ja": "建物共通の営業時間はなく、フロアごとに異なります。B1F〜5Fのnamco秋葉原店は10:00〜23:00ですが、その中の公式ショップは分かれていて、4Fのガシャポンバンダイオフィシャルショップは10:00〜23:00、1Fの一番くじ公式ショップと5FのBANDAI CARD GAMES公式ショップは10:00〜21:00です。6Fのめいどりーみん LIVE RESTAURANT Heaven's Gateは水〜日曜と祝日10:30〜23:00、月・火曜11:30〜23:00です。7Fのおたちゅう。のガンダム専門店は11:00〜20:00で、いちばん早く閉まります。8Fの焼肉店・牛角は月〜金曜と祝日前日16:00〜23:00、土日・祝日11:30〜23:00です。買い物が目当て（5Fのトレカ、7Fのガンダム）なら、namcoの営業時間に頼らず、それぞれの閉店時刻を確認してください。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 1분. 개찰구를 나와 라디오회관 방향으로 걸으면 라디오회관 바로 앞, 역 쪽에 서 있는 건물이며 정면의 커다란 namco 간판이 표식이다(옛 세가 아키하바라 4호관·GiGO 4호관 자리). B1F~5F namco는 1F에서 바로 들어가고, 6F~8F는 1F 이치반쿠지 공식숍 코너 옆의 빌딩 전용 입구로 들어가 안쪽 간판에서 왼쪽으로 꺾은 뒤 막다른 곳의 엘리베이터를 탄다.",
-  "en": "One minute from the JR Akihabara Electric Town Exit (電気街口). Leave the gates and head toward Radio Kaikan: the building stands just in front of it on the station side, marked by the large namco sign on its facade (the former Sega / GiGO Akihabara Building 4). namco on B1F-5F is entered straight from 1F; for 6F-8F use the separate building entrance beside the 1F Ichiban Kuji Official Shop corner, turn left at the sign inside and take the elevator at the end of the passage."
+  "en": "One minute from the JR Akihabara Electric Town Exit (電気街口). Leave the gates and head toward Radio Kaikan: the building stands just in front of it on the station side, marked by the large namco sign on its facade (the former Sega / GiGO Akihabara Building 4). namco on B1F-5F is entered straight from 1F; for 6F-8F use the separate building entrance beside the 1F Ichiban Kuji Official Shop corner, turn left at the sign inside and take the elevator at the end of the passage.",
+  "ja": "JR秋葉原駅の電気街口から徒歩1分です。改札を出てラジオ会館の方へ進むと、その手前の駅側に立っているのがこのビルで、正面の大きなnamcoの看板が目印です（かつてのセガ／GiGO秋葉原4号館）。B1F〜5Fのnamcoへは1Fからそのまま入り、6F〜8Fへは1Fの一番くじ公式ショップのコーナー横にあるビル専用の入口から入って、中の案内で左に折れ、突き当たりのエレベーターに乗ります。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -35,7 +37,8 @@
   {
    "floor": "8F",
    "ko": "야키니쿠 술집 규카쿠 아키하바라 전기가구치점(음식점). 매장·굿즈 없음",
-   "en": "Gyukaku Akihabara Denkigai-guchi yakiniku restaurant; no shops or merchandise"
+   "en": "Gyukaku Akihabara Denkigai-guchi yakiniku restaurant; no shops or merchandise",
+   "ja": "焼肉店の牛角 秋葉原電気街口店です。店舗や物販はありません。"
   }
  ],
  "verified_at": "2026-09-06",

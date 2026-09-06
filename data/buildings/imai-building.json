@@ -23,11 +23,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없다. 2F 트레이딩카드숍 193이 평일 12:00~21:00, 토·일·공휴일 10:00~20:00으로 가장 길게 열고, 5F 메르카드 2호점은 평일 13:00~20:00·토·일·공휴일 11:00~20:00이다. B1F 아키하바라 ZEST는 상시 영업이 아니라 공연·대관이 잡힌 날만 여는 예약제 라이브하우스다. 카드숍 두 곳을 한 번에 돌려면 토·일 오후가 가장 확실하다.",
-  "en": "No hours cover the whole building. Trading Card Shop 193 on 2F keeps the longest day, 12:00-21:00 on weekdays and 10:00-20:00 at weekends and holidays, and Mercard 2nd Store on 5F is 13:00-20:00 on weekdays and 11:00-20:00 at weekends and holidays. Akihabara ZEST in the basement is not a walk-in venue: it opens only on days with a booked live or event. A weekend afternoon is the safe window for catching both card shops in one visit."
+  "en": "No hours cover the whole building. Trading Card Shop 193 on 2F keeps the longest day, 12:00-21:00 on weekdays and 10:00-20:00 at weekends and holidays, and Mercard 2nd Store on 5F is 13:00-20:00 on weekdays and 11:00-20:00 at weekends and holidays. Akihabara ZEST in the basement is not a walk-in venue: it opens only on days with a booked live or event. A weekend afternoon is the safe window for catching both card shops in one visit.",
+  "ja": "建物全体に共通する営業時間はありません。2Fのトレーディングカードショップ193がいちばん長く平日12:00〜21:00・土日・祝日10:00〜20:00、5Fのメルカード秋葉原2号店は平日13:00〜20:00・土日・祝日11:00〜20:00です。地下の秋葉原ZESTはふらりと入れる場所ではなく、ライブやイベントの予約が入った日だけ開きます。カードショップ2軒を一度に回るなら、土日の午後が確実な時間帯です。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 도보 6~7분. 주오도리를 건너 서쪽으로, 벨살레 아키하바라와 소프맵 사이 좁은 길로 들어가 100m쯤 직진하면 로손과 전자부품 잡화점 아키바오~(あきばお〜)가 나오고, 그 바로 서쪽에 붙어 있는 베이지색 타일 외벽의 8층 건물이 이마이 빌딩이다. 1층 출입구에서 엘리베이터 한 대로 위층에 올라가며, 지하 1층 ZEST는 엘리베이터가 닿지 않아 계단으로 내려간다. 긴자선 스에히로초역에서 도보 5분, 히비야선 아키하바라역 3번 출구에서 도보 7분.",
-  "en": "Six to seven minutes from the JR Akihabara Electric Town Exit (電気街口). Cross Chuo-dori and take the narrow street west between Belle Salle Akihabara and Sofmap, following it about 100 m past a Lawson to the parts-and-sundries shop Akibaoo; the Imai Building is immediately west of it, an eight-storey block faced in beige tile. A single lift from the ground-floor entrance serves the upper floors, while ZEST in the basement is reached by the stairs, not the lift. Suehirocho on the Ginza line is five minutes away and Hibiya-line Akihabara exit 3 is seven."
+  "en": "Six to seven minutes from the JR Akihabara Electric Town Exit (電気街口). Cross Chuo-dori and take the narrow street west between Belle Salle Akihabara and Sofmap, following it about 100 m past a Lawson to the parts-and-sundries shop Akibaoo; the Imai Building is immediately west of it, an eight-storey block faced in beige tile. A single lift from the ground-floor entrance serves the upper floors, while ZEST in the basement is reached by the stairs, not the lift. Suehirocho on the Ginza line is five minutes away and Hibiya-line Akihabara exit 3 is seven.",
+  "ja": "JR秋葉原駅の電気街口から徒歩6〜7分です。中央通りを渡り、ベルサール秋葉原とソフマップの間の細い道を西に入って、ローソンを過ぎて約100m進むと部品・雑貨の店あきばお〜があり、そのすぐ西に立つベージュのタイル張りの8階建てが今井ビルです。上の階へは1Fの入口にあるエレベーター1台で上がり、地下のZESTはエレベーターではなく階段で下ります。銀座線の末広町駅から5分、日比谷線の秋葉原駅3番出口から7分です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -35,32 +37,38 @@
   {
    "floor": "1F",
    "ko": "빌딩 정면 출입구와 엘리베이터 홀이 있는 층. 임대 구획이 있으나 이 안내에 실린 매장은 없다",
-   "en": "The street entrance and lift hall; the leased space on this floor holds no shop covered by this guide"
+   "en": "The street entrance and lift hall; the leased space on this floor holds no shop covered by this guide",
+   "ja": "建物の入口とエレベーターホールがあるフロアです。この階の賃貸区画に、この案内で扱う店舗はありません。"
   },
   {
    "floor": "3F",
    "ko": "층 단위(약 54평·180㎡)로 빌려주는 사무실·점포 층. 이 안내에 실린 매장은 없다",
-   "en": "Leased as a whole floor of about 54 tsubo (180 m2) for office or shop use; nothing in this guide"
+   "en": "Leased as a whole floor of about 54 tsubo (180 m2) for office or shop use; nothing in this guide",
+   "ja": "約54坪（180㎡）のフロア単位で、事務所または店舗として貸し出される階です。この案内で扱うものはありません。"
   },
   {
    "floor": "4F",
    "ko": "약 49.8평 층으로, 2F 트레이딩카드숍 193이 대회·이벤트 공간으로 함께 쓴다. 부시로드 공인점과 호로라이브 카드게임 취급점 명단이 193 아키하바라점 주소를 이 4층으로 올려 두었고 전화번호도 2층 매장과 같다",
-   "en": "A floor of about 49.8 tsubo that Trading Card Shop 193 on 2F also uses as its tournament and event space; Bushiroad's certified-store list and the hololive card game dealer list both give 4F as the address of 193 Akihabara, on the same phone number as the 2F shop"
+   "en": "A floor of about 49.8 tsubo that Trading Card Shop 193 on 2F also uses as its tournament and event space; Bushiroad's certified-store list and the hololive card game dealer list both give 4F as the address of 193 Akihabara, on the same phone number as the 2F shop",
+   "ja": "約49.8坪のフロアで、2Fのトレーディングカードショップ193が大会・イベントのスペースとしても使っています。ブシロードの公認店一覧とホロライブカードゲームの取扱店一覧はどちらも193秋葉原店の住所をこの4Fとしており、電話番号も2Fの店舗と同じです。"
   },
   {
    "floor": "6F",
    "ko": "약 33.2평의 사무실 층. 이 건물 이름의 유래인 이마이 인쇄(今井印刷) 본사가 들어 있어 손님이 들를 매장은 없다",
-   "en": "An office floor of about 33.2 tsubo occupied by the head office of Imai Printing, the company the building is named after; there is no shop to visit"
+   "en": "An office floor of about 33.2 tsubo occupied by the head office of Imai Printing, the company the building is named after; there is no shop to visit",
+   "ja": "約33.2坪の事務所フロアです。建物の名の由来である今井印刷の本社が入っており、立ち寄れる店舗はありません。"
   },
   {
    "floor": "7F",
    "ko": "층 단위로 빌려주는 사무실·점포 층. 이 안내에 실린 매장은 없다",
-   "en": "Leased as a whole floor for office or shop use; nothing in this guide"
+   "en": "Leased as a whole floor for office or shop use; nothing in this guide",
+   "ja": "フロア単位で事務所または店舗として貸し出される階です。この案内で扱うものはありません。"
   },
   {
    "floor": "8F",
    "ko": "최상층. 층 단위로 빌려주는 사무실·점포 층이며 이 안내에 실린 매장은 없다",
-   "en": "Top floor, leased as a whole floor for office or shop use; nothing in this guide"
+   "en": "Top floor, leased as a whole floor for office or shop use; nothing in this guide",
+   "ja": "最上階で、フロア単位で事務所または店舗として貸し出されます。この案内で扱うものはありません。"
   }
  ],
  "verified_at": "2026-09-06",

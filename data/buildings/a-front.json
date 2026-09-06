@@ -24,11 +24,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없고 층마다 따로 문을 연다. 낮부터 여는 곳은 1층 음료 매장 CoCo都可(전일 11:00~22:00) 정도이고, 2층 양식당은 휴업 중이라 낮에는 건물이 대부분 닫혀 있다. 6·7층 마지컬 트윈테일이 매일 14:00~22:00로 가장 이르고, 8층 래빗 캐슬과 10층 스위트 캣은 평일 17:00·토·일·공휴일 15:00부터 23:00까지, 4층 세븐 데들리 신즈는 평일 18:00·토·일·공휴일 17:00부터 24:00까지다. 정기휴일을 공지하지 않는 매장이 많으니 방문 전 각 매장 카드의 시간을 확인하는 편이 좋다.",
-  "en": "There are no building-wide hours; each floor opens on its own schedule. The only tenant open through the day is the CoCo Bubble Tea shop on 1F (11:00-22:00) — the Western-food restaurant on 2F is currently suspended — so most of the building is shut until late afternoon. Magical Twintail on 6F/7F opens earliest at 14:00-22:00 daily; Rabbit Castle on 8F and Sweet Cat on 10F run 17:00-23:00 on weekdays and 15:00-23:00 at weekends and on public holidays; The Seven Deadly Sins on 4F runs 18:00-24:00 on weekdays and 17:00-24:00 at weekends and on public holidays. Many of the tenants publish no regular closing day, so check the hours on each store card before going."
+  "en": "There are no building-wide hours; each floor opens on its own schedule. The only tenant open through the day is the CoCo Bubble Tea shop on 1F (11:00-22:00) — the Western-food restaurant on 2F is currently suspended — so most of the building is shut until late afternoon. Magical Twintail on 6F/7F opens earliest at 14:00-22:00 daily; Rabbit Castle on 8F and Sweet Cat on 10F run 17:00-23:00 on weekdays and 15:00-23:00 at weekends and on public holidays; The Seven Deadly Sins on 4F runs 18:00-24:00 on weekdays and 17:00-24:00 at weekends and on public holidays. Many of the tenants publish no regular closing day, so check the hours on each store card before going.",
+  "ja": "建物全体に共通する営業時間はなく、各フロアがそれぞれの時間で営業しています。日中ずっと開いているのは1FのCoCo都可（11:00〜22:00）だけで、2Fの洋食店は現在休業中のため、夕方近くまで建物のほとんどが閉まっています。6F・7Fのメイドカフェ マジカルツインテールがいちばん早く毎日14:00〜22:00、8FのRabbit Castle（ラビットキャッスル）と10Fのすい〜ときゃっとは平日17:00〜23:00・土日・祝日15:00〜23:00、4Fのコンセプトカフェ七つの大罪秋葉原は平日18:00〜24:00・土日・祝日17:00〜24:00です。定休日を公表していない店が多いので、行く前に各店舗カードの営業時間を確認してください。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 주오도리를 따라 북쪽으로 300m, 도보 4~5분. 애니메이트 아키하바라와 돈키호테 아키하바라점(8층 AKB48 극장) 앞을 지나 돈키호테 바로 북쪽 골목에서 오른쪽(동쪽)으로 꺾어 40m쯤 들어가면, 아키바 타시로도리(アキバ田代通り)와 만나는 모퉁이에 선 좁고 높은 10층 건물이 A-FRONT다. 1층 타피오카 음료점 CoCo都可(코코 버블티)가 표지이고, 그 옆 좁은 입구에 층별 콘셉트 카페 간판과 엘리베이터가 있다. 도쿄메트로 긴자선 스에히로초역 1번 출구에서는 주오도리를 따라 남쪽으로 도보 4분.",
-  "en": "From the JR Akihabara Electric Town Exit (電気街口), walk about 300 m north along Chuo-dori, four to five minutes. Pass animate Akihabara and Don Quijote Akihabara (the AKB48 Theater is on its 8F), turn right (east) into the side street immediately north of Don Quijote and go about 40 m: the narrow ten-storey tower on the corner where the street meets Akiba Tashiro-dori (アキバ田代通り) is A-FRONT. The CoCo Bubble Tea (CoCo都可) shop on 1F is the landmark, and the narrow entrance beside it carries the floor-by-floor concept-cafe signboard and the elevator. From exit 1 of Suehirocho on the Tokyo Metro Ginza Line it is 4 minutes south along Chuo-dori."
+  "en": "From the JR Akihabara Electric Town Exit (電気街口), walk about 300 m north along Chuo-dori, four to five minutes. Pass animate Akihabara and Don Quijote Akihabara (the AKB48 Theater is on its 8F), turn right (east) into the side street immediately north of Don Quijote and go about 40 m: the narrow ten-storey tower on the corner where the street meets Akiba Tashiro-dori (アキバ田代通り) is A-FRONT. The CoCo Bubble Tea (CoCo都可) shop on 1F is the landmark, and the narrow entrance beside it carries the floor-by-floor concept-cafe signboard and the elevator. From exit 1 of Suehirocho on the Tokyo Metro Ginza Line it is 4 minutes south along Chuo-dori.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを北へ約300m、徒歩4〜5分です。アニメイト秋葉原とドン・キホーテ秋葉原店（8FにAKB48劇場）の前を過ぎ、ドン・キホーテのすぐ北側の脇道を右（東）に入って約40m進むと、アキバ田代通りとぶつかる角に立つ細長い10階建てがA-FRONTです。1FのCoCo都可（CoCo Bubble Tea）が目印で、その横の狭い入口にフロアごとのコンセプトカフェの看板とエレベーターがあります。東京メトロ銀座線末広町駅1番出口からは中央通りを南へ4分です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -36,27 +38,32 @@
   {
    "floor": "1F",
    "ko": "타피오카 음료점 CoCo都可(코코 버블티) 아키하바라점(전일 11:00~22:00)과 위층으로 올라가는 엘리베이터 홀",
-   "en": "CoCo Bubble Tea (CoCo都可) Akihabara, open 11:00-22:00 daily, and the elevator hall serving the floors above"
+   "en": "CoCo Bubble Tea (CoCo都可) Akihabara, open 11:00-22:00 daily, and the elevator hall serving the floors above",
+   "ja": "CoCo都可（CoCo Bubble Tea）秋葉原店（毎日11:00〜22:00）と、上の階へ上がるエレベーターホールです。"
   },
   {
    "floor": "2F",
    "ko": "양식당 '洋食は飲み物。' 아키하바라점이 있으나 운영사 공식 사이트에 영업시간이 '휴업중'으로 올라 있어 지금은 문을 닫은 상태다. 같은 층 주소로 콘셉트 카페 프라스틱 러브(18:00~)도 안내된다",
-   "en": "The Western-food restaurant Yoshoku wa Nomimono occupies this floor but its operator's own site now gives its hours as 休業中 (suspended), so it is shut; the concept cafe Plastic Love is also listed at this floor's address, opening from 18:00"
+   "en": "The Western-food restaurant Yoshoku wa Nomimono occupies this floor but its operator's own site now gives its hours as 休業中 (suspended), so it is shut; the concept cafe Plastic Love is also listed at this floor's address, opening from 18:00",
+   "ja": "洋食店の「洋食は飲み物。」が入っていますが、運営会社の公式サイトでは営業時間が「休業中」となっており、いまは閉まっています。同じフロアの住所ではコンセプトカフェのPlastic Loveも案内されていて、18:00からの営業です。"
   },
   {
    "floor": "3F",
    "ko": "중고 휴대폰 매입·판매점 트윙클모바일 아키하바라 역앞점",
-   "en": "Twinkle Mobile Akihabara Ekimae, a used-phone buy-and-sell shop"
+   "en": "Twinkle Mobile Akihabara Ekimae, a used-phone buy-and-sell shop",
+   "ja": "中古携帯の買取・販売店、Twinkle Mobile秋葉原駅前店です。"
   },
   {
    "floor": "5F",
    "ko": "아이돌 콘셉트 카페 스퀘어파티(idol cafe SQUARE PARTY)가 이 층 주소로 안내된다. 콘셉트 카페 층이라 입점 매장이 자주 바뀐다",
-   "en": "idol cafe SQUARE PARTY is listed at this floor's address; it is a concept-cafe floor and tenants turn over often"
+   "en": "idol cafe SQUARE PARTY is listed at this floor's address; it is a concept-cafe floor and tenants turn over often",
+   "ja": "このフロアの住所でidol cafe SQUARE PARTYが案内されています。コンセプトカフェのフロアで、入居する店の入れ替わりが多いところです。"
   },
   {
    "floor": "9F",
    "ko": "콘셉트 카페 로열 멜트 아키하바라점(18:00~23:00)",
-   "en": "Concept cafe Royal Melt Akihabara (18:00-23:00)"
+   "en": "Concept cafe Royal Melt Akihabara (18:00-23:00)",
+   "ja": "コンセプトカフェのRoyal♡Melt 秋葉原店（18:00〜23:00）です。"
   }
  ],
  "verified_at": "2026-09-06",

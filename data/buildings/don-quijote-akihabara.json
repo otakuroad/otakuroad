@@ -23,11 +23,13 @@
  ],
  "hours_note": {
   "ko": "돈키호테 본매장은 24시간 연중무휴. 입주 매장은 각자 영업시간이 다르다: 1F 스마일리 크레페 11:00~다음 날 4:00, 마루주 정육점 11:00~22:00, SANDO LAB TOKYO 11:00~21:00, 오모챠노 MARURU 11:00~20:00, 아키하바라 머니 익스체인지 10:00~19:00. B1F·1F 파칭코 아일랜드 10:00~22:45, 5F 앳홈카페 돈키점 11:00~22:00(리빙석만 12:00~22:00), 6F·7F 도쿄 레저랜드 10:00~23:55(돈키호테 입주 매장 안내에는 다음 날 1:00로 적혀 있으나 운영사 야마자키야 점포 목록은 23:55). 8F AKB48 극장은 공연이 잡힌 날에만 열리며 공식 사이트에서 공연 일정을 확인해야 한다.",
-  "en": "Don Quijote's own floors run 24 hours, every day. Tenants keep their own hours: on 1F, Smiley Crepe 11:00-04:00, Marujyu beef skewers 11:00-22:00, SANDO LAB TOKYO 11:00-21:00, Omocha no MARURU 11:00-20:00 and the Akihabara Money Exchange 10:00-19:00. The Island pachinko parlor on B1F-1F is 10:00-22:45, @home cafe on 5F 11:00-22:00 (its Living seats from 12:00), and Tokyo Leisure Land on 6F-7F 10:00-23:55 (Don Quijote's tenant page says 01:00, but operator Yamazakiya's own store list gives 23:55). The AKB48 Theater on 8F opens only on performance days, so check the official schedule."
+  "en": "Don Quijote's own floors run 24 hours, every day. Tenants keep their own hours: on 1F, Smiley Crepe 11:00-04:00, Marujyu beef skewers 11:00-22:00, SANDO LAB TOKYO 11:00-21:00, Omocha no MARURU 11:00-20:00 and the Akihabara Money Exchange 10:00-19:00. The Island pachinko parlor on B1F-1F is 10:00-22:45, @home cafe on 5F 11:00-22:00 (its Living seats from 12:00), and Tokyo Leisure Land on 6F-7F 10:00-23:55 (Don Quijote's tenant page says 01:00, but operator Yamazakiya's own store list gives 23:55). The AKB48 Theater on 8F opens only on performance days, so check the official schedule.",
+  "ja": "ドン・キホーテの売り場は24時間、年中無休です。テナントはそれぞれ営業時間が異なり、1FはSmiley Crepeが11:00〜4:00、牛串のMarujyuが11:00〜22:00、SANDO LAB TOKYOが11:00〜21:00、おもちゃのMARURUが11:00〜20:00、Akihabara Money Exchangeが10:00〜19:00です。B1F・1Fのパチンコ店アイランドは10:00〜22:45、5Fのあっとほぉーむカフェは11:00〜22:00（リビング席は12:00から）、6F・7Fの東京レジャーランドは10:00〜23:55です（ドン・キホーテのテナント紹介では1:00となっていますが、運営会社の山崎屋の店舗一覧では23:55です）。8FのAKB48劇場は公演のある日だけ開くので、公式のスケジュールを確認してください。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구로 나와 UDX 방면으로 걸어 주오도리에 닿으면, 우에노·오카치마치 방향(북쪽)으로 약 3분. 또는 UDX 2층 데크로 올라가 끝까지 걸으면 왼쪽에 돈키호테 간판이 보이고, 데크를 내려 주오도리로 나오면 30초 거리.",
-  "en": "From the JR Akihabara Electric Town exit, walk toward UDX to reach Chuo-dori, then about 3 minutes north toward Ueno/Okachimachi. Alternatively take the UDX 2nd-floor deck to its far end (Don Quijote is visible on the left), descend to Chuo-dori, and it is 30 seconds away."
+  "en": "From the JR Akihabara Electric Town exit, walk toward UDX to reach Chuo-dori, then about 3 minutes north toward Ueno/Okachimachi. Alternatively take the UDX 2nd-floor deck to its far end (Don Quijote is visible on the left), descend to Chuo-dori, and it is 30 seconds away.",
+  "ja": "JR秋葉原駅の電気街口を出てUDX方面へ歩き、中央通りに出たら上野・御徒町方向へ約3分です。もしくはUDXの2階デッキを端まで歩くと左手にドン・キホーテが見えるので、デッキを下りて中央通りに出れば30秒です。"
  },
  "floor_guide_url": "https://www.donki.com/store/shop_detail.php?shop_id=98#tenant",
  "official_url": "https://www.donki.com/store/shop_detail.php?shop_id=98",
@@ -36,32 +38,38 @@
   {
    "floor": "B1F",
    "ko": "파칭코·슬롯 「아일랜드」 (B1F·1F 두 층, 10:00~22:45)",
-   "en": "Island pachinko & slot parlor, spanning B1F and 1F, 10:00-22:45"
+   "en": "Island pachinko & slot parlor, spanning B1F and 1F, 10:00-22:45",
+   "ja": "パチンコ・スロットのアイランドです。B1Fと1Fの2フロアにまたがり、10:00〜22:45の営業です。"
   },
   {
    "floor": "1F",
    "ko": "주오도리 쪽 입구 · 스마일리 크레페, 튀김샌드 SANDO LAB TOKYO, 소꼬치 마루주 정육점, 아키하바라 머니 익스체인지 환전소",
-   "en": "Chuo-dori entrance, plus Smiley Crepe, SANDO LAB TOKYO fried sandwiches, Marujyu beef skewers and the Akihabara Money Exchange"
+   "en": "Chuo-dori entrance, plus Smiley Crepe, SANDO LAB TOKYO fried sandwiches, Marujyu beef skewers and the Akihabara Money Exchange",
+   "ja": "中央通り側の入口があるフロアです。Smiley Crepe、揚げサンドのSANDO LAB TOKYO、牛串のMarujyu、Akihabara Money Exchangeが入っています。"
   },
   {
    "floor": "2F",
    "ko": "돈키호테 본매장 (잡화·식품·화장품, 애니·아이돌·VTuber 콜라보 굿즈)",
-   "en": "Don Quijote sales floor (general goods, food, cosmetics, anime/idol/VTuber collab goods)"
+   "en": "Don Quijote sales floor (general goods, food, cosmetics, anime/idol/VTuber collab goods)",
+   "ja": "ドン・キホーテの売り場です（雑貨、食品、化粧品、アニメ・アイドル・VTuberのコラボグッズ）。"
   },
   {
    "floor": "3F",
    "ko": "돈키호테 본매장",
-   "en": "Don Quijote sales floor"
+   "en": "Don Quijote sales floor",
+   "ja": "ドン・キホーテの売り場です。"
   },
   {
    "floor": "4F",
    "ko": "돈키호테 본매장",
-   "en": "Don Quijote sales floor"
+   "en": "Don Quijote sales floor",
+   "ja": "ドン・キホーテの売り場です。"
   },
   {
    "floor": "5F",
    "ko": "돈키호테 코스프레관 (의상 약 1,400벌)",
-   "en": "Don Quijote cosplay hall, with about 1,400 costumes"
+   "en": "Don Quijote cosplay hall, with about 1,400 costumes",
+   "ja": "ドン・キホーテのコスプレ館です。衣装が約1,400着そろっています。"
   }
  ],
  "verified_at": "2026-09-06",

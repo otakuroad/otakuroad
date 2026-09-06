@@ -23,11 +23,13 @@
  ],
  "hours_note": {
   "ko": "건물 공용 영업시간이 없고 층마다 다르다. 트레카 매장이 대부분 오후에 문을 열어 1F·2F 카드숍 톤톤은 13:00~20:00(목요일 정기휴무), 3F NEO는 13:00~19:00, 5F magi 별관은 판매 13:00~18:00·매입 13:00~17:00로 가장 일찍 닫는다. 9F 시샤바 마도이는 화~토 19:00~다음 날 4:00, 일 15:00~23:00, 월요일 휴무로 밤에만 연다. 오전에는 사실상 전 층이 닫혀 있으니 점심 이후에 가는 게 좋다.",
-  "en": "There are no building-wide hours and every floor differs. The card shops mostly open in the afternoon: Card Shop Tonton on 1F-2F 13:00-20:00, closed Thursdays; trading card shop NEO on 3F 13:00-19:00; magi Akihabara Annex on 5F selling 13:00-18:00 with the buyback counter until 17:00, the earliest close in the building. Shisha Bar Madoi on 9F is a night venue - Tue-Sat 19:00 to 04:00, Sun 15:00-23:00, closed Mondays. Nothing much is open in the morning, so come after lunch."
+  "en": "There are no building-wide hours and every floor differs. The card shops mostly open in the afternoon: Card Shop Tonton on 1F-2F 13:00-20:00, closed Thursdays; trading card shop NEO on 3F 13:00-19:00; magi Akihabara Annex on 5F selling 13:00-18:00 with the buyback counter until 17:00, the earliest close in the building. Shisha Bar Madoi on 9F is a night venue - Tue-Sat 19:00 to 04:00, Sun 15:00-23:00, closed Mondays. Nothing much is open in the morning, so come after lunch.",
+  "ja": "建物共通の営業時間はなく、フロアごとに異なります。トレカの店は多くが午後からで、1F・2Fのカードショップとんとんは13:00〜20:00で木曜定休、3Fのtrading card shop NEOは13:00〜19:00、5Fのmagi秋葉原店別館は販売13:00〜18:00・買取カウンター17:00までと、この建物でいちばん早く閉まります。9FのShisha Bar まどいは夜の店で、火〜土曜19:00〜4:00、日曜15:00〜23:00、月曜定休です。午前中はほとんど開いていないので、昼過ぎに来てください。"
  },
  "exit_hint": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 쇼헤이바시도리(昌平橋通り)를 따라 남쪽으로 도보 5분, JR 아키하바라역 전기가 출구(電気街口)에서는 북서쪽으로 도보 7~10분. 주오도리에서 서쪽으로 약 200m 들어간 쇼헤이바시도리 변에 서 있는 2023년 준공 9층 신축 건물이며, 1층 스시집과 카드숍 톤톤 간판이 표식이다. 9층을 뺀 거의 모든 층이 트레카 전문점이라 층마다 다른 가게가 들어 있고, 위층은 1층 안쪽 엘리베이터로 올라간다.",
-  "en": "Five minutes south along Shoheibashi-dori (昌平橋通り) from exit 3 of Tokyo Metro Ginza Line Suehirocho, or seven to ten minutes north-west from the JR Akihabara Electric Town Exit (電気街口). It is the nine-storey building completed in 2023 standing directly on Shoheibashi-dori, about 200 m west of Chuo-dori; the sushi restaurant and the Card Shop Tonton sign on the ground floor are the markers. Nearly every floor except 9F is a different trading-card shop, reached by the elevator just inside the ground-floor entrance."
+  "en": "Five minutes south along Shoheibashi-dori (昌平橋通り) from exit 3 of Tokyo Metro Ginza Line Suehirocho, or seven to ten minutes north-west from the JR Akihabara Electric Town Exit (電気街口). It is the nine-storey building completed in 2023 standing directly on Shoheibashi-dori, about 200 m west of Chuo-dori; the sushi restaurant and the Card Shop Tonton sign on the ground floor are the markers. Nearly every floor except 9F is a different trading-card shop, reached by the elevator just inside the ground-floor entrance.",
+  "ja": "東京メトロ銀座線末広町駅の3番出口から昌平橋通りを南へ徒歩5分、JR秋葉原駅の電気街口からは北西へ徒歩7〜10分です。中央通りから西へ約200m入った昌平橋通りに面して立つ2023年竣工の9階建てで、1Fの寿司店とカードショップとんとんの看板が目印です。9Fを除くほとんどの階がそれぞれ別のトレカ専門店で、1Fの入口を入ってすぐのエレベーターで上がります。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -35,32 +37,38 @@
   {
    "floor": "4F",
    "ko": "트레카루비(トレカルビー) · 401호에 있는 트레카 전문점. 유희왕 OCG 게이트볼과 해외판 유희왕, 포켓몬 카드를 다루며 취급 범위를 넓혀 가는 중이다. 토·일 15:00~19:00에만 문을 열어 평일에는 닫혀 있다",
-   "en": "Toreka Ruby - a trading-card shop in room 401 dealing in Yu-Gi-Oh OCG Gateball, overseas-edition Yu-Gi-Oh and Pokemon cards, with its range still expanding. It opens only on Saturdays and Sundays, 15:00-19:00, and is shut on weekdays"
+   "en": "Toreka Ruby - a trading-card shop in room 401 dealing in Yu-Gi-Oh OCG Gateball, overseas-edition Yu-Gi-Oh and Pokemon cards, with its range still expanding. It opens only on Saturdays and Sundays, 15:00-19:00, and is shut on weekdays",
+   "ja": "401号室にあるトレカ専門店のトレカルビーで、遊戯王OCGのゲートボールや海外版の遊戯王、ポケモンカードを扱い、取り扱いの幅を広げているところです。営業は土日の15:00〜19:00だけで、平日は閉まっています。"
   },
   {
    "floor": "5F",
    "ko": "2026년 7월 20일까지 magi 아키하바라점 별관(트레카 전문점)이 쓰던 구획. 별관은 이전을 위해 영업을 마쳤고 새 주소는 미공표라, 이 층에 지금 무엇이 있는지는 확인되지 않았다. magi 체인 사이트의 점포 페이지는 아직 이 주소를 싣고 있어 오래된 정보다",
-   "en": "Until 20 July 2026 this was magi Akihabara Annex, a trading-card shop; the annex closed here for a relocation whose new address has not been announced, so what occupies 5F now is unconfirmed. magi's chain store page still lists this address and is stale"
+   "en": "Until 20 July 2026 this was magi Akihabara Annex, a trading-card shop; the annex closed here for a relocation whose new address has not been announced, so what occupies 5F now is unconfirmed. magi's chain store page still lists this address and is stale",
+   "ja": "2026年7月20日までトレカ専門店のmagi秋葉原店別館が入っていた区画で、別館は移転のためここでの営業を終えましたが、新しい住所は公表されておらず、いま5Fに何があるかは確認できていません。magiのチェーンの店舗ページは今もこの住所を載せたままで、情報が古くなっています。"
   },
   {
    "floor": "6F",
    "ko": "보드게임 카페 DyCE 아키하바라점이 있던 14.2평(46.9㎡) 단일 구획 층. 2026년 7월 26일자로 폐점해 다음 매장이 들어올 때까지 비어 있다(운영사는 이전 가능성만 밝히고 시기는 정하지 않았다)",
-   "en": "A single 14.2-tsubo (46.9 m2) unit that held the board game cafe DyCE Akihabara until it closed on 26 July 2026; it stands empty until the next tenant arrives, the operator having said only that it may relocate at an undecided date"
+   "en": "A single 14.2-tsubo (46.9 m2) unit that held the board game cafe DyCE Akihabara until it closed on 26 July 2026; it stands empty until the next tenant arrives, the operator having said only that it may relocate at an undecided date",
+   "ja": "14.2坪（46.9㎡）の1区画のフロアで、ボードゲームカフェのDyCE秋葉原店が2026年7月26日に閉店するまで入っていました。次の店舗が入るまで空いたままで、運営会社は移転の可能性を示しただけで時期は決めていません。"
   },
   {
    "floor": "7F",
    "ko": "14.2평(46.9㎡) 단일 구획(701호). 2025년 6월 magi 별관이 문을 열 때 이 층을 매입 전용 카운터로 썼고, 이후 트레카 매장용으로 임대 공고가 올랐다가 지금은 계약 완료로 표시돼 있다",
-   "en": "A single 14.2-tsubo (46.9 m2) unit (room 701). magi's annex used it as a buyback-only counter when it opened in June 2025; it later went back on the market as card-shop space and the listing is now marked as let"
+   "en": "A single 14.2-tsubo (46.9 m2) unit (room 701). magi's annex used it as a buyback-only counter when it opened in June 2025; it later went back on the market as card-shop space and the listing is now marked as let",
+   "ja": "14.2坪（46.9㎡）の1区画（701号室）です。2025年6月にmagiの別館が開いたときは買取専用カウンターとして使われ、その後トレカ店向けの区画として募集が出ましたが、いまは契約済みと表示されています。"
   },
   {
    "floor": "8F",
    "ko": "14.2평 단일 구획(801호). 트레카숍 YK를 운영하는 주식회사 YK World가 2025년 5월부터 이곳을 본사로 썼으나 2026년 8월 다이토구 아키하바라로 본사를 옮겼다",
-   "en": "A single 14.2-tsubo unit (room 801). YK World, which runs the Toreca Shop YK chain, had its head office here from May 2025 until it moved to Akihabara in Taito ward in August 2026"
+   "en": "A single 14.2-tsubo unit (room 801). YK World, which runs the Toreca Shop YK chain, had its head office here from May 2025 until it moved to Akihabara in Taito ward in August 2026",
+   "ja": "14.2坪の1区画（801号室）です。トレカショップYKのチェーンを運営するYK Worldが2025年5月からここに本社を置いていましたが、2026年8月に台東区の秋葉原へ移りました。"
   },
   {
    "floor": "9F",
    "ko": "시샤바 마도이(Shisha Bar まどい) · 야간 시샤 바. 화~토 19:00~다음 날 4:00, 일 15:00~23:00, 월요일 휴무. 이 건물에서 유일하게 트레카 매장이 아닌 층",
-   "en": "Shisha Bar Madoi - a late-night shisha bar, Tue-Sat 19:00-04:00 and Sun 15:00-23:00, closed Mondays; the one floor here that is not a card shop"
+   "en": "Shisha Bar Madoi - a late-night shisha bar, Tue-Sat 19:00-04:00 and Sun 15:00-23:00, closed Mondays; the one floor here that is not a card shop",
+   "ja": "深夜営業のシーシャバー、Shisha Bar まどいです。火〜土曜19:00〜4:00、日曜15:00〜23:00、月曜定休で、この建物で唯一トレカ店ではないフロアです。"
   }
  ],
  "verified_at": "2026-09-06",

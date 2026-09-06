@@ -23,11 +23,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없고 층마다 다르다. 1F 잔파라 아키하바라 5호점 11:00~19:30, 4F 메이드카페 피유 평일 17:00~23:00·토·일·공휴일 13:00~23:00(부정기 휴무), 6F 메이드리밍 본점 월·화 11:30~23:00·그 밖의 요일 10:30~23:00 연중무휴, 7F 치요다 레일센터 화~금 12:30~19:40·토 11:30~19:40·일·공휴일 11:30~18:40이며 월요일은 공휴일이어도 쉰다. 저녁 8시가 넘으면 4F·6F 메이드 카페만 남는다.",
-  "en": "The building keeps no common hours; every floor sets its own. Janpara Akihabara No.5 on 1F 11:00-19:30; Maid Cafe Filles on 4F 17:00-23:00 on weekdays and 13:00-23:00 at weekends and public holidays, with irregular closing days; Maidreamin's main store on 6F 11:30-23:00 Mon-Tue and 10:30-23:00 on every other day, open year-round; Chiyoda Rail Center on 7F 12:30-19:40 Tue-Fri, 11:30-19:40 Sat and 11:30-18:40 Sun and holidays, closed Mondays even when they are public holidays. After about 20:00 only the maid cafes on 4F and 6F are still serving."
+  "en": "The building keeps no common hours; every floor sets its own. Janpara Akihabara No.5 on 1F 11:00-19:30; Maid Cafe Filles on 4F 17:00-23:00 on weekdays and 13:00-23:00 at weekends and public holidays, with irregular closing days; Maidreamin's main store on 6F 11:30-23:00 Mon-Tue and 10:30-23:00 on every other day, open year-round; Chiyoda Rail Center on 7F 12:30-19:40 Tue-Fri, 11:30-19:40 Sat and 11:30-18:40 Sun and holidays, closed Mondays even when they are public holidays. After about 20:00 only the maid cafes on 4F and 6F are still serving.",
+  "ja": "建物共通の営業時間はなく、フロアごとに設定されています。1Fのジャンパラ秋葉原5号店は11:00〜19:30、4Fのメイド喫茶 Filles（フィーユ）は平日17:00〜23:00・土日祝13:00〜23:00で不定休、6Fのめいどりーみん 秋葉原 本店は月・火11:30〜23:00・それ以外の曜日は10:30〜23:00で年中無休、7Fのチヨダレールセンターは火〜金12:30〜19:40、土曜11:30〜19:40、日曜・祝日11:30〜18:40で、月曜は祝日でも休みです。20:00を過ぎると、営業しているのは4Fと6Fのメイドカフェだけになります。"
  },
  "exit_hint": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 도보 1분, JR 아키하바라역 전기가 출구에서는 주오도리를 따라 우에노 방향으로 북쪽으로 7분. 주오도리 서쪽 인도에 면한 9층 건물이고, 1층 노면 전체를 중고 PC 매장 잔파라 아키하바라 5호점이 쓰고 있다. 위층으로 가는 공용 입구는 잔파라 매장 옆에 난 좁은 통로이며, 여기서 엘리베이터를 타고 각 층으로 올라간다.",
-  "en": "One minute from exit 3 of Suehirocho Station on the Tokyo Metro Ginza line, or seven minutes north along Chuo-dori from the JR Akihabara Electric Town Exit, walking toward Ueno. It is a nine-storey block on the west pavement of Chuo-dori, and the used-PC shop Janpara Akihabara No.5 fills the whole ground-floor frontage. The shared entrance to the upper floors is the narrow opening beside Janpara; the lift inside serves every floor."
+  "en": "One minute from exit 3 of Suehirocho Station on the Tokyo Metro Ginza line, or seven minutes north along Chuo-dori from the JR Akihabara Electric Town Exit, walking toward Ueno. It is a nine-storey block on the west pavement of Chuo-dori, and the used-PC shop Janpara Akihabara No.5 fills the whole ground-floor frontage. The shared entrance to the upper floors is the narrow opening beside Janpara; the lift inside serves every floor.",
+  "ja": "東京メトロ銀座線・末広町駅の3番出口から徒歩1分、JR秋葉原駅の電気街口からは中央通りを上野方面へ北に7分です。中央通りの西側の歩道に面した9階建てで、1階の路面全体を中古PC店のジャンパラ秋葉原5号店が使っています。上階への共用入口はジャンパラの横にある狭い通路で、その中のエレベーターが各階に停まります。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -35,32 +37,38 @@
   {
    "floor": "1F",
    "ko": "중고 PC·스마트폰 매장 잔파라 아키하바라 5호점(11:00~19:30). 건물 공용 입구와 엘리베이터가 이 매장 옆에 있다",
-   "en": "Janpara Akihabara No.5, a used-PC and smartphone shop, 11:00-19:30; the building's shared entrance and lift sit beside it"
+   "en": "Janpara Akihabara No.5, a used-PC and smartphone shop, 11:00-19:30; the building's shared entrance and lift sit beside it",
+   "ja": "中古PC・スマートフォンの店、ジャンパラ秋葉原5号店（11:00〜19:30）です。建物の共用入口とエレベーターはその横にあります。"
   },
   {
    "floor": "2F",
    "ko": "잔파라 아키하바라 5호점의 위층 매장. PC 모니터·디지털카메라·AV 기기를 갖췄고, 스마트폰·PC 매입 카운터도 이 층에 있다",
-   "en": "The upper sales floor of Janpara Akihabara No.5, stocking PC monitors, digital cameras and AV gear; the shop's smartphone and PC buy-back counter is on this floor too"
+   "en": "The upper sales floor of Janpara Akihabara No.5, stocking PC monitors, digital cameras and AV gear; the shop's smartphone and PC buy-back counter is on this floor too",
+   "ja": "ジャンパラ秋葉原5号店の上の階の売り場です。PCモニター、デジタルカメラ、AV機器を揃えており、スマートフォンとPCの買取カウンターもこのフロアにあります。"
   },
   {
    "floor": "3F",
    "ko": "임대 사무실 층. 이 가이드에 실린 매장 없음",
-   "en": "A rental office floor; no shop from this guide"
+   "en": "A rental office floor; no shop from this guide",
+   "ja": "賃貸オフィスのフロアです。このガイドに掲載している店舗はありません。"
   },
   {
    "floor": "5F",
    "ko": "인물 촬영 스튜디오 스타지오 루미노바가 쓰던 층. 2026년 6월 5일 스튜디오 사업을 종료했다",
-   "en": "Studio LumiNova's portrait photography studio, which ended its studio business on 5 June 2026"
+   "en": "Studio LumiNova's portrait photography studio, which ended its studio business on 5 June 2026",
+   "ja": "人物撮影スタジオのスタジオルミノバがあったフロアで、2026年6月5日にスタジオ事業を終了しました。"
   },
   {
    "floor": "8F",
    "ko": "임대 사무실 층. 이 가이드에 실린 매장 없음",
-   "en": "A rental office floor; no shop from this guide"
+   "en": "A rental office floor; no shop from this guide",
+   "ja": "賃貸オフィスのフロアです。このガイドに掲載している店舗はありません。"
   },
   {
    "floor": "9F",
    "ko": "임대 사무실 층(최상층). 이 가이드에 실린 매장 없음",
-   "en": "The top rental office floor; no shop from this guide"
+   "en": "The top rental office floor; no shop from this guide",
+   "ja": "最上階の賃貸オフィスフロアです。このガイドに掲載している店舗はありません。"
   }
  ],
  "verified_at": "2026-09-06",

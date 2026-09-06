@@ -24,11 +24,13 @@
  ],
  "hours_note": {
   "ko": "건물 공용 영업시간은 없다. 1F·2F 리버티 5호점은 매일 11:00~20:30 연중무휴이고(1F는 중고 애니 피규어·굿즈, 2F는 가챠폰·제비뽑기 가챠 전용 층), 5F 카드숍 잇세이는 평일 14:00~19:00, 토·일 12:00~20:00이라 이 건물에서 평일 영업시간이 가장 짧다. 6F 트레카노반코쿠는 월~금 13:00~20:00, 토·일 12:00~20:00으로 정기휴일이 없다. 3F 볼트커피는 매일 11:00~23:00로 이 건물에서 가장 늦게까지 연다. 4F와 7F 위쪽은 임대 사무실 층이라 일반 영업시간이 없으므로, 평일 이른 오후 전에는 사실상 1·2층과 카페만 열려 있다고 보면 된다.",
-  "en": "No building-wide hours. Liberty Store 5 on 1F-2F runs 11:00-20:30 every day of the year (1F second-hand anime figures and goods, 2F a gachapon and kuji-gacha floor); Card Shop Issei on 5F opens 14:00-19:00 on weekdays and 12:00-20:00 at weekends, the shortest weekday hours in the building; Toreka no Bankoku on 6F runs 13:00-20:00 Mon-Fri and 12:00-20:00 at weekends with no closing day; and Vault Coffee on 3F, 11:00-23:00 daily, stays open latest. 4F and everything from 7F up are rental office floors with no public hours, so before early afternoon on a weekday only 1F-2F and the cafe are really open."
+  "en": "No building-wide hours. Liberty Store 5 on 1F-2F runs 11:00-20:30 every day of the year (1F second-hand anime figures and goods, 2F a gachapon and kuji-gacha floor); Card Shop Issei on 5F opens 14:00-19:00 on weekdays and 12:00-20:00 at weekends, the shortest weekday hours in the building; Toreka no Bankoku on 6F runs 13:00-20:00 Mon-Fri and 12:00-20:00 at weekends with no closing day; and Vault Coffee on 3F, 11:00-23:00 daily, stays open latest. 4F and everything from 7F up are rental office floors with no public hours, so before early afternoon on a weekday only 1F-2F and the cafe are really open.",
+  "ja": "建物共通の営業時間はありません。1F〜2Fのリバティー秋葉原5号店は年中無休で11:00〜20:30（1Fは中古のアニメフィギュアとグッズ、2Fはガチャポンとくじガチャのフロア）、5Fのカードショップ 一誠は平日14:00〜19:00・土日12:00〜20:00とこのビルで平日の営業時間が最も短く、6Fのトレカの万国 秋葉原店は月〜金13:00〜20:00・土日12:00〜20:00で定休日なし、3FのVAULT COFFEEは毎日11:00〜23:00で最も遅くまで開いています。4Fと7F以上はすべて一般向けの営業時間がない賃貸オフィスフロアなので、平日は午後の早い時間になるまで、実質的に1F〜2Fとカフェしか開いていません。"
  },
  "exit_hint": {
   "ko": "도쿄메트로 긴자선 스에히로초역에서 주오도리 동쪽 보도를 따라 남쪽으로 도보 2분, JR 아키하바라역 전기가 출구(電気街口)에서는 주오도리를 따라 북쪽으로 도보 5분. 주오도리에 바로 면한 9층 건물로, 1층 앞 인도에 늘어선 가챠폰 기계 줄과 리버티 간판이 표식이다. 1층·2층 매장은 길에서 바로 들어가고, 5층 카드숍 잇세이를 비롯한 위층은 매장 오른쪽 입구로 들어가 엘리베이터를 탄다. 바로 북쪽에 붙어 있는 4층짜리 KHK빌딩(스루가야 아니메·호비관)은 같은 4-5-1 번지지만 다른 건물이다.",
-  "en": "Two minutes south from Tokyo Metro Ginza Line Suehirocho along the east pavement of Chuo-dori, or five minutes north from the JR Akihabara Electric Town Exit (電気街口). It is the nine-storey building right on Chuo-dori, marked by the row of gachapon machines on the pavement outside and the Liberty sign. 1F and 2F are entered straight from the street; for Card Shop Issei on 5F and the floors above, use the entrance on the right-hand side of the shop and take the elevator. The four-storey KHK Building attached to the north (Surugaya Anime & Hobby) carries the same 4-5-1 address but is a separate building."
+  "en": "Two minutes south from Tokyo Metro Ginza Line Suehirocho along the east pavement of Chuo-dori, or five minutes north from the JR Akihabara Electric Town Exit (電気街口). It is the nine-storey building right on Chuo-dori, marked by the row of gachapon machines on the pavement outside and the Liberty sign. 1F and 2F are entered straight from the street; for Card Shop Issei on 5F and the floors above, use the entrance on the right-hand side of the shop and take the elevator. The four-storey KHK Building attached to the north (Surugaya Anime & Hobby) carries the same 4-5-1 address but is a separate building.",
+  "ja": "東京メトロ銀座線・末広町駅から中央通りの東側の歩道を南へ徒歩2分、JR秋葉原駅の電気街口からは北へ徒歩5分です。中央通りに面して建つ9階建てで、店の前の歩道に並ぶガチャポンの機械の列とリバティーの看板が目印です。1Fと2Fは通りから直接入り、5Fのカードショップ 一誠とそれより上の階へは、店舗の右手にある入口からエレベーターで上がります。北側に隣接する4階建てのKHKビル（駿河屋 秋葉原アニメ・ホビー館）は同じ4-5-1の住所ですが、別の建物です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -36,37 +38,44 @@
   {
    "floor": "B1F",
    "ko": "지하 1층. 공개된 매장 안내가 없는 구획이다",
-   "en": "Basement level; no shop is listed here"
+   "en": "Basement level; no shop is listed here",
+   "ja": "地下1階です。ここに店舗の情報はありません。"
   },
   {
    "floor": "3F",
    "ko": "볼트커피(VAULT COFFEE) · 컵 오브 엑설런스 원두를 내리는 24석 규모 스페셜티 커피 전문점, 매일 11:00~23:00, 전 좌석 전원과 무료 와이파이 있음",
-   "en": "VAULT COFFEE - a roughly 24-seat specialty coffee shop pouring Cup of Excellence beans, 11:00-23:00 every day, with a power socket at every seat and free Wi-Fi"
+   "en": "VAULT COFFEE - a roughly 24-seat specialty coffee shop pouring Cup of Excellence beans, 11:00-23:00 every day, with a power socket at every seat and free Wi-Fi",
+   "ja": "VAULT COFFEEです。カップ・オブ・エクセレンスの豆を淹れる24席ほどのスペシャルティコーヒー店で、毎日11:00〜23:00、全席に電源と無料Wi-Fiがあります。"
   },
   {
    "floor": "4F",
    "ko": "약 26.5평(87.6㎡) 임대 구획. 일반 방문객용 매장 안내가 확인되지 않는다",
-   "en": "A leased unit of about 26.5 tsubo (87.6 m2); no shop open to visitors is listed"
+   "en": "A leased unit of about 26.5 tsubo (87.6 m2); no shop open to visitors is listed",
+   "ja": "約26.5坪（87.6㎡）の賃貸区画です。来店客が入れる店舗の情報はありません。"
   },
   {
    "floor": "6F",
    "ko": "트레카노반코쿠(トレカの万国) 아키하바라점 · 포켓몬카드·원피스 등을 다루는 트레카 전문점, 월~금 13:00~20:00·토·일 12:00~20:00, 정기휴일 없음(매입 감정은 19:30까지), 듀얼 스페이스 24석, 면세 대응",
-   "en": "Toreka no Bankoku Akihabara - a trading-card shop (Pokemon, One Piece and more), 13:00-20:00 Mon-Fri and 12:00-20:00 at weekends with no closing day (buy-in appraisals until 19:30), 24 duel seats, tax-free"
+   "en": "Toreka no Bankoku Akihabara - a trading-card shop (Pokemon, One Piece and more), 13:00-20:00 Mon-Fri and 12:00-20:00 at weekends with no closing day (buy-in appraisals until 19:30), 24 duel seats, tax-free",
+   "ja": "トレカの万国 秋葉原店です。ポケモンやワンピースなどを扱うトレカショップで、月〜金13:00〜20:00・土日12:00〜20:00、定休日なし（買取査定は19:30まで）、デュエルスペース24席、免税対応です。"
   },
   {
    "floor": "7F",
    "ko": "약 19평(63.5㎡) 규모의 임대 사무실 구획",
-   "en": "A rental office unit of about 19 tsubo (63.5 m2)"
+   "en": "A rental office unit of about 19 tsubo (63.5 m2)",
+   "ja": "約19坪（63.5㎡）の賃貸オフィス区画です。"
   },
   {
    "floor": "8F",
    "ko": "임대 사무실 층. 매장은 없다",
-   "en": "Rental office floor; no shop"
+   "en": "Rental office floor; no shop",
+   "ja": "賃貸オフィスフロアで、店舗はありません。"
   },
   {
    "floor": "9F",
    "ko": "최상층 임대 사무실 층. 매장은 없다",
-   "en": "Top-floor rental office; no shop"
+   "en": "Top-floor rental office; no shop",
+   "ja": "最上階の賃貸オフィスで、店舗はありません。"
   }
  ],
  "verified_at": "2026-09-06",

@@ -23,11 +23,13 @@
  ],
  "hours_note": {
   "ko": "에디온 AKIBA 매장은 연중무휴 10:00–20:00이지만, 같은 건물 라옥스 아키하바라 본점 쪽은 10:30–19:30(1F만 20:00)으로 다르다. B1F·5F 트레카모올의 개별 점포는 대체로 11:00–19:30 사이에서 제각각이고, 7F 에디온 법인영업부 도쿄지점(평일 9:30–18:30)은 사무실이라 일반 손님 대상이 아니다.",
-  "en": "The EDION AKIBA store runs 10:00–20:00 year-round, while the Laox Akihabara main-store side of the same building runs 10:30–19:30 (1F until 20:00). Shops inside the B1F and 5F trading-card malls set their own hours, mostly between 11:00 and 19:30, and the 7F EDION corporate-sales Tokyo branch (weekdays 9:30–18:30) is an office, not a shop."
+  "en": "The EDION AKIBA store runs 10:00–20:00 year-round, while the Laox Akihabara main-store side of the same building runs 10:30–19:30 (1F until 20:00). Shops inside the B1F and 5F trading-card malls set their own hours, mostly between 11:00 and 19:30, and the 7F EDION corporate-sales Tokyo branch (weekdays 9:30–18:30) is an office, not a shop.",
+  "ja": "エディオンAKIBAの売り場は年中無休で10:00〜20:00ですが、同じ建物のラオックス 秋葉原本店側は10:30〜19:30（1Fのみ20:00まで）です。B1Fと5Fのトレカ専門モールに入る各店はそれぞれ営業時間を決めていて、おおむね11:00〜19:30の間に収まります。7Fのエディオン法人営業部東京支店（平日9:30〜18:30）は事務所で、店舗ではありません。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 주오도리를 따라 남쪽 만세이바시 교차로 방향으로 도보 2~3분, 오노덴 바로 남쪽에 파란 EDION 간판과 파란 차양이 이어지는 큰 건물이다. 가전 매장(1~6F)은 EDION 간판 아래 정면 입구로 들어가고, B1F·5F 트레카모올과 2F 캐릭터 굿즈는 같은 건물의 라옥스 아키하바라 본점 쪽 입구에서 엘리베이터를 탄다.",
-  "en": "From JR Akihabara's Electric Town Exit (電気街口) walk south along Chuo-dori toward the Manseibashi crossing, 2–3 minutes; it is the large building under the blue EDION signs and blue awning immediately south of Onoden. The electronics floors (1F–6F) are entered under the EDION sign, while the B1F and 5F trading-card malls and the 2F character-goods floor are reached from the Laox Akihabara main-store entrance of the same building."
+  "en": "From JR Akihabara's Electric Town Exit (電気街口) walk south along Chuo-dori toward the Manseibashi crossing, 2–3 minutes; it is the large building under the blue EDION signs and blue awning immediately south of Onoden. The electronics floors (1F–6F) are entered under the EDION sign, while the B1F and 5F trading-card malls and the 2F character-goods floor are reached from the Laox Akihabara main-store entrance of the same building.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを南へ、万世橋交差点の方向に徒歩2〜3分です。オノデンのすぐ南にある、青いEDIONの看板と青い日よけが続く大きな建物です。家電の売り場（1F〜6F）はEDIONの看板の下から入り、B1Fと5Fのトレカ専門モールと2Fのキャラクターグッズのフロアへは、同じ建物のラオックス 秋葉原本店側の入口から向かいます。"
  },
  "floor_guide_url": null,
  "official_url": "https://search.edion.com/e_store/spot/detail?code=0000004762",
@@ -35,37 +37,44 @@
   {
    "floor": "1F",
    "ko": "에디온 쪽은 완구(호비·피규어)·조리가전·화장품·기념품과 면세 카운터, 라옥스 쪽은 시계·브랜드 가방·위스키·금 매장",
-   "en": "On the EDION side, toys (hobby and figures), cooking appliances, cosmetics, souvenirs and the tax-free counter; on the Laox side, watches, brand bags, whisky and gold"
+   "en": "On the EDION side, toys (hobby and figures), cooking appliances, cosmetics, souvenirs and the tax-free counter; on the Laox side, watches, brand bags, whisky and gold",
+   "ja": "エディオン側は玩具（ホビー・フィギュア）、調理家電、化粧品、みやげ物と免税カウンター、ラオックス側は時計、ブランドバッグ、ウイスキー、金の売り場です。"
   },
   {
    "floor": "2F",
    "ko": "라옥스 쪽은 캐릭터 굿즈·호비 굿즈·스포츠 용품·가챠폰 코너, 에디온 쪽은 시계 매장 WATCH SQUARE·애플 제품·게임기·이어폰·이미용 가전",
-   "en": "The Laox side is character goods, hobby goods, sports items and a gachapon corner; the EDION side is the WATCH SQUARE watch section, Apple products, game consoles, earphones and personal-care appliances"
+   "en": "The Laox side is character goods, hobby goods, sports items and a gachapon corner; the EDION side is the WATCH SQUARE watch section, Apple products, game consoles, earphones and personal-care appliances",
+   "ja": "ラオックス側はキャラクターグッズ、ホビーグッズ、スポーツ用品、ガチャポンのコーナー、エディオン側は時計売り場のWATCH SQUARE、アップル製品、ゲーム機、イヤホン、理美容家電です。"
   },
   {
    "floor": "3F",
    "ko": "에디온 쪽은 조리가전·면세품과 주류 매장(위스키·와인·일본술), 라옥스 쪽은 이미용 가전·화장품·건강보조식품·생활가전",
-   "en": "The EDION side has cooking appliances, duty-free goods and the liquor shop (whisky, wine, sake); the Laox side has beauty appliances, cosmetics, supplements and home appliances"
+   "en": "The EDION side has cooking appliances, duty-free goods and the liquor shop (whisky, wine, sake); the Laox side has beauty appliances, cosmetics, supplements and home appliances",
+   "ja": "エディオン側は調理家電、免税品、酒売り場（ウイスキー、ワイン、日本酒）、ラオックス側は理美容家電、化粧品、健康補助食品、生活家電です。"
   },
   {
    "floor": "4F",
    "ko": "에디온 쪽은 TV·오디오·PC·프린터·디지털 카메라. 라옥스 쪽 구획은 현재 라옥스 공식 플로어 안내에서 빠졌고(공식 안내는 1F~3F까지만), 운영사 파레트그룹이 2026년 7월부터 같은 건물 안에서 트레카모올을 증축하기로 하면서 그 자리로 넘어갔다",
-   "en": "The EDION side has TVs, audio, computers, printers and cameras. The Laox-side space here has dropped out of Laox's own floor guide, which now stops at 3F, and it was taken over when the operator Palette Group expanded the Toreca Mall into an extra block inside the building from July 2026"
+   "en": "The EDION side has TVs, audio, computers, printers and cameras. The Laox-side space here has dropped out of Laox's own floor guide, which now stops at 3F, and it was taken over when the operator Palette Group expanded the Toreca Mall into an extra block inside the building from July 2026",
+   "ja": "エディオン側はテレビ、オーディオ、パソコン、プリンター、カメラです。ラオックス側の区画はラオックス公式のフロアガイドから外れて案内が3Fまでになっており、運営会社のパレットグループが2026年7月から建物の中でトレカモーールを増床することになって、その場所に充てられました。"
   },
   {
    "floor": "6F",
    "ko": "에디온이 직접 운영하는 미니욘쿠 서킷과 관련 상품 코너, 그리고 플라모델·트레카 매대",
-   "en": "EDION's own Mini 4WD circuit and parts corner, alongside plastic models and trading cards"
+   "en": "EDION's own Mini 4WD circuit and parts corner, alongside plastic models and trading cards",
+   "ja": "エディオンが直接運営するミニ四駆のサーキットと関連商品のコーナーに加え、プラモデルとトレカの売り場があります。"
   },
   {
    "floor": "7F",
    "ko": "매장이 없는 사무실 층. 에디온 법인영업부 도쿄지점(외신다 1-2-9 에디온AKIBA 7층, 평일 9:30~18:30, 토·일 휴무)과 라옥스 글로벌 리테일링의 아키하바라 사무실이 있다",
-   "en": "An office floor with no shops: EDION's corporate-sales Tokyo branch (Gaikanda 1-2-9, EDION AKIBA 7F, weekdays 9:30-18:30, closed Saturdays and Sundays) and a Laox Global Retailing office"
+   "en": "An office floor with no shops: EDION's corporate-sales Tokyo branch (Gaikanda 1-2-9, EDION AKIBA 7F, weekdays 9:30-18:30, closed Saturdays and Sundays) and a Laox Global Retailing office",
+   "ja": "店舗のない事務所のフロアです。エディオン法人営業部東京支店（外神田1-2-9 エディオンAKIBA 7F、平日9:30〜18:30、土日休み）と、ラオックスグローバルリテーリングの事務所が入っています。"
   },
   {
    "floor": "8F",
    "ko": "손님용 플로어 안내에 나오지 않는 층. 공개된 안내는 B1F~6F 매장과 7F 사무실까지만 다룬다",
-   "en": "Not covered by any shopper-facing floor guide; published guides stop at the B1F-6F shops and the 7F offices"
+   "en": "Not covered by any shopper-facing floor guide; published guides stop at the B1F-6F shops and the 7F offices",
+   "ja": "買い物客向けのフロアガイドには出てこない階です。公開されている案内はB1F〜6Fの売り場と7Fの事務所までしか扱っていません。"
   }
  ],
  "verified_at": "2026-09-06",

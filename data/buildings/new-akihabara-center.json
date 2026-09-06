@@ -21,11 +21,13 @@
  ],
  "hours_note": {
   "ko": "건물 공용 영업시간은 없고 층·호실마다 다르다. 1967년 준공한 임대 점포·사무실 건물이라 사무실 입주자는 24시간 출입할 수 있지만, 매장은 대체로 12:00~13:00에 열어 20:00 전후에 닫는다. B1F 트레카라프테르는 평일 13:00~20:00·토·일 12:00~20:00, 5F 트레카데이즈는 13:00~19:00에 부정기 휴무, 6F 트레카브레이크는 평일 13:00~20:00·토·일 12:00~20:00이고 수요일이 정기휴무다. 2F 트레카볼은 평일 13:00~20:00·토·일·공휴일 12:00~20:00, 1F 카드숍 Lotus는 매입 접수를 14:00~21:00에 받아 이 건물에서 가장 늦게까지 열려 있다. 4F 간다소비는 주말에만 예약제로 연다. 오전에 가면 대부분 닫혀 있다.",
-  "en": "There is no building-wide opening time; it differs by floor and by room. The 1967 shop-and-office block gives office tenants 24-hour access, but the shops generally open between 12:00 and 13:00 and shut around 20:00. Toreca Raftel (B1F) runs 13:00-20:00 on weekdays and 12:00-20:00 at weekends; Toreca Days (5F) 13:00-19:00 with irregular closing days; and Toreca Break (6F) 13:00-20:00 on weekdays and 12:00-20:00 at weekends, closed on Wednesdays. Toreca Ball (2F) runs 13:00-20:00 on weekdays and 12:00-20:00 at weekends and holidays, while Card Shop Lotus (1F) takes buybacks from 14:00 to 21:00 and stays open latest of anything in the building. Kanda Soubi on 4F opens only at weekends and by reservation. Come in the morning and almost everything is shut."
+  "en": "There is no building-wide opening time; it differs by floor and by room. The 1967 shop-and-office block gives office tenants 24-hour access, but the shops generally open between 12:00 and 13:00 and shut around 20:00. Toreca Raftel (B1F) runs 13:00-20:00 on weekdays and 12:00-20:00 at weekends; Toreca Days (5F) 13:00-19:00 with irregular closing days; and Toreca Break (6F) 13:00-20:00 on weekdays and 12:00-20:00 at weekends, closed on Wednesdays. Toreca Ball (2F) runs 13:00-20:00 on weekdays and 12:00-20:00 at weekends and holidays, while Card Shop Lotus (1F) takes buybacks from 14:00 to 21:00 and stays open latest of anything in the building. Kanda Soubi on 4F opens only at weekends and by reservation. Come in the morning and almost everything is shut.",
+  "ja": "建物共通の営業時間はなく、フロアごと、部屋ごとに異なります。1967年竣工の店舗・事務所ビルでオフィスのテナントは24時間出入りできますが、店舗はおおむね12:00〜13:00に開き、20:00前後に閉まります。B1Fのカードショップ トレカラフテルは平日13:00〜20:00・土日12:00〜20:00、5Fのトレカデイズ秋葉原店は13:00〜19:00で不定休、6Fのカードショップ トレカブレイクは平日13:00〜20:00・土日12:00〜20:00で水曜定休です。2Fのトレカボール秋葉原店は平日13:00〜20:00・土日祝12:00〜20:00、1Fのカードショップ Lotus 秋葉原店は14:00〜21:00に買取を受け付け、このビルで最も遅くまで開いています。4Fの神田装備は土日のみ、予約制で営業します。午前中に来るとほとんどが閉まっています。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口) 개찰을 나와 왼쪽, 간다강 방면 남쪽으로 도보 1분. 이자카야 이소마루수산(磯丸水産) 바로 왼쪽에 붙어 있는, 야마노테선·소부선 선로변의 낮고 긴 건물이다. 도로에 면한 벽 전체가 입점 점포 간판으로 덮여 있어 역 승강장에서도 보인다. 간판 아래 통로로 들어가면 안쪽에 엘리베이터가 있고, 지하 1층 매대층으로는 계단으로 내려간다. 쓰쿠바 익스프레스 A1 출구 도보 2분, 도쿄메트로 히비야선 아키하바라역 도보 3분.",
-  "en": "Turn left out of the JR Akihabara Electric Town Exit (電気街口) and walk one minute south toward the Kanda River. It is the long, low building pressed against the Yamanote and Sobu line tracks, immediately left of the Isomaru Suisan izakaya; its whole street wall is covered in tenant signboards and is visible from the station platform. Walk in under the signs — the lift is at the back, and stairs lead down to the B1F stalls. Tsukuba Express exit A1 is 2 minutes away, Tokyo Metro Hibiya Line Akihabara 3 minutes."
+  "en": "Turn left out of the JR Akihabara Electric Town Exit (電気街口) and walk one minute south toward the Kanda River. It is the long, low building pressed against the Yamanote and Sobu line tracks, immediately left of the Isomaru Suisan izakaya; its whole street wall is covered in tenant signboards and is visible from the station platform. Walk in under the signs — the lift is at the back, and stairs lead down to the B1F stalls. Tsukuba Express exit A1 is 2 minutes away, Tokyo Metro Hibiya Line Akihabara 3 minutes.",
+  "ja": "JR秋葉原駅の電気街口を出て左へ、神田川の方向に南へ徒歩1分です。山手線・総武線の線路に張り付くように建つ細長く低い建物で、居酒屋の磯丸水産のすぐ左隣にあり、通りに面した壁全体がテナントの看板で覆われていて駅のホームからも見えます。看板の下をくぐって中に入ると奥にエレベーターがあり、B1Fの売り場へは階段で下ります。つくばエクスプレスのA1出口から徒歩2分、東京メトロ日比谷線の秋葉原駅から徒歩3分です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -33,17 +35,20 @@
   {
    "floor": "2F",
    "ko": "트레카볼 아키하바라점(2층 30호, 포켓몬·원피스 카드, 평일 13:00~20:00·토·일·공휴일 12:00~20:00, 매입 최종 접수 19:00)과 오디오사운드 아키하바라역앞점(2층 23호실, 예약제 오디오 매입 창구), 리사이클마이스터 아키하바라역앞점, 그리고 소규모 임대 사무실",
-   "en": "Toreca Ball Akihabara (room 30, Pokemon and One Piece cards, 13:00-20:00 on weekdays and 12:00-20:00 at weekends and holidays, last buyback intake 19:00), Audio Sound Akihabara Ekimae (room 23, an appointment-only audio buyback counter), the Recycle Meister buyback shop and small rented offices"
+   "en": "Toreca Ball Akihabara (room 30, Pokemon and One Piece cards, 13:00-20:00 on weekdays and 12:00-20:00 at weekends and holidays, last buyback intake 19:00), Audio Sound Akihabara Ekimae (room 23, an appointment-only audio buyback counter), the Recycle Meister buyback shop and small rented offices",
+   "ja": "トレカボール秋葉原店（30号室、ポケモンとワンピースのカード、平日13:00〜20:00・土日祝12:00〜20:00、買取の最終受付19:00）、オーディオサウンド秋葉原駅前店（23号室、予約制のオーディオ買取カウンター）、リサイクルマイスターの買取店、そして小規模な賃貸オフィスがあります。"
   },
   {
    "floor": "3F",
    "ko": "10~38평 규모의 임대 사무실 층. 지하 1층 카드숍 트레카라프테르를 운영하는 주식회사 라프테르 본사(301호)도 여기 있으며, 손님이 들어갈 매장은 없다",
-   "en": "Rented offices of 10 to 38 tsubo. The head office of Raftel Inc. (room 301), which runs the B1F card shop Toreca Raftel, is on this floor; nothing here is open to shoppers"
+   "en": "Rented offices of 10 to 38 tsubo. The head office of Raftel Inc. (room 301), which runs the B1F card shop Toreca Raftel, is on this floor; nothing here is open to shoppers",
+   "ja": "10〜38坪の賃貸オフィスのフロアです。B1Fのカードショップ トレカラフテルを運営する株式会社ラフテルの本社（301号室）もこのフロアにあり、買い物客が入れる場所はありません。"
   },
   {
    "floor": "4F",
    "ko": "7~10평짜리 소형 임대 구획이 늘어선 층. 4층 2호에 중고 PC·OA기기를 다루는 정크 전문점 간다소비(神田装備)가 있는데, 유한회사 K&N의 간다영업소로 주말 위주 예약제로만 문을 연다. 일본 최초의 드래곤볼 히어로즈 전문점이던 트레카바클도 이 층에 있었으나 2026년 8월 리뉴얼 뒤로는 온라인 판매를 중심으로 하고 있어, 층 전체가 불쑥 찾아가기 어려운 곳이다",
-   "en": "A floor of small 7-to-10-tsubo units. In room 2 is Kanda Soubi, a junk specialist in used PCs and office equipment run as the Kanda branch of K&N Ltd., which opens mainly at weekends and only by reservation. Toreca Buncle, Japan's first Dragon Ball Heroes specialist, was also on this floor but has presented itself as an online shop since its August 2026 relaunch, so the floor is not somewhere to turn up unannounced"
+   "en": "A floor of small 7-to-10-tsubo units. In room 2 is Kanda Soubi, a junk specialist in used PCs and office equipment run as the Kanda branch of K&N Ltd., which opens mainly at weekends and only by reservation. Toreca Buncle, Japan's first Dragon Ball Heroes specialist, was also on this floor but has presented itself as an online shop since its August 2026 relaunch, so the floor is not somewhere to turn up unannounced",
+   "ja": "7〜10坪の小さな区画が並ぶフロアです。2号室には中古PCやOA機器を扱うジャンク専門の神田装備があり、有限会社K&Nの神田営業所として主に土日、予約制でのみ営業します。日本初のドラゴンボールヒーローズ専門店だったToreca Buncleもこのフロアにありましたが、2026年8月のリニューアル以降はオンラインショップとして営業しているため、ふらりと訪ねるフロアではありません。"
   }
  ],
  "verified_at": "2026-09-06",

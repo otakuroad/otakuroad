@@ -20,11 +20,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없고 층마다 다르다. 2F 아키바 절대영역 A.D.2045가 매일 12:00~22:00로 연중무휴, B1F Like a Doll과 3F 매지컬 롤리팝은 평일 17:00·토·일·공휴일 15:00에 열어 23:00에 닫는다. 1F 라멘집 부쇼야는 11:00~22:00. 4F 신소쿠 아키하바라 4호점은 공식 사이트에 영업시간이 없고 공식 X(@shinsoku_akb4th) 프로필에 10:30~18:30으로 안내한다. 즉 낮에는 1F 라멘집·2F 카페·4F 카드숍이 열려 있고 B1F·3F 콘셉트 카페는 늦은 오후부터 열리며, 반대로 4F 카드숍은 저녁 6시 반에 닫으므로 카드숍과 콘셉트 카페를 하루에 함께 보려면 오후 5시~6시 반 사이가 유일하게 겹치는 시간대다.",
-  "en": "There are no building-wide hours; each floor differs. Akiba Zettai Ryoiki A.D.2045 on 2F runs 12:00-22:00 every day of the year, while Like a Doll in the basement and Magical Lollipop on 3F both open 17:00-23:00 on weekdays and 15:00-23:00 at weekends and holidays. The 1F ramen shop Busho-ya is 11:00-22:00. Shinsoku's Akihabara No.4 branch on 4F publishes no hours on the chain's site but gives 10:30-18:30 in its X profile (@shinsoku_akb4th). So in the daytime the 1F ramen shop, the 2F cafe and the 4F card shop are open and the basement and 3F concept cafes start in the late afternoon, while the card shop shuts at 18:30 - roughly 17:00-18:30 is the only window in which the card shop and the concept cafes are open together."
+  "en": "There are no building-wide hours; each floor differs. Akiba Zettai Ryoiki A.D.2045 on 2F runs 12:00-22:00 every day of the year, while Like a Doll in the basement and Magical Lollipop on 3F both open 17:00-23:00 on weekdays and 15:00-23:00 at weekends and holidays. The 1F ramen shop Busho-ya is 11:00-22:00. Shinsoku's Akihabara No.4 branch on 4F publishes no hours on the chain's site but gives 10:30-18:30 in its X profile (@shinsoku_akb4th). So in the daytime the 1F ramen shop, the 2F cafe and the 4F card shop are open and the basement and 3F concept cafes start in the late afternoon, while the card shop shuts at 18:30 - roughly 17:00-18:30 is the only window in which the card shop and the concept cafes are open together.",
+  "ja": "建物共通の営業時間はなく、フロアごとに異なります。2Fのアキバ絶対領域 A.D.2045は年中無休で12:00〜22:00、B1FのLike a Dollと3Fの魔法メイドカフェ マジカルロリポップはどちらも平日17:00〜23:00、土日祝15:00〜23:00です。1Fのラーメン店、武将家は11:00〜22:00です。4Fのシンソク秋葉原4号店はチェーンの公式サイトに営業時間の記載がなく、公式X（@shinsoku_akb4th）のプロフィールで10:30〜18:30と案内しています。つまり日中は1Fのラーメン店、2Fのカフェ、4Fのトレカ店が開いていて、B1Fと3Fのコンセプトカフェは夕方遅くから始まり、一方でトレカ店は18:30に閉まるので、トレカ店とコンセプトカフェが一緒に開いているのはおおよそ17:00〜18:30だけです。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)에서 주오도리를 따라 북쪽 스에히로초 방향으로 약 250m, 도보 4분. 타이토 스테이션과 트레이더 3호점 빌딩이 늘어선 주오도리 동쪽 블록에서 한 블록 안쪽(동쪽) 이면도로로 들어가면 나오는 폭 좁은 지상 5층 건물이다. 1층에 걸린 이에케 라멘 부쇼야(家系らーめん 武将家) 간판이 표식이고, 그 옆 출입구의 층별 안내판에서 층을 확인한 뒤 올라간다. 위층 매장 간판이 길에서 거의 보이지 않으므로 라멘집 간판을 먼저 찾는 편이 빠르다. 긴자선 스에히로초역 1번 출구에서는 도보 5분.",
-  "en": "About 250 m and four minutes north from the JR Akihabara Electric Town Exit (電気街口) along Chuo-dori toward Suehirocho. From the Chuo-dori block with Taito Station and the Trader No.3 building, turn into the back lane one block east: TIT Akihabara is the narrow five-storey building there. The marker is the 家系らーめん 武将家 ramen sign at street level, with the building's floor board on the entrance beside it - check your floor before going up, because the upper-floor shops are barely signposted from the street. Suehirocho exit 1 on the Ginza line is five minutes away."
+  "en": "About 250 m and four minutes north from the JR Akihabara Electric Town Exit (電気街口) along Chuo-dori toward Suehirocho. From the Chuo-dori block with Taito Station and the Trader No.3 building, turn into the back lane one block east: TIT Akihabara is the narrow five-storey building there. The marker is the 家系らーめん 武将家 ramen sign at street level, with the building's floor board on the entrance beside it - check your floor before going up, because the upper-floor shops are barely signposted from the street. Suehirocho exit 1 on the Ginza line is five minutes away.",
+  "ja": "JR秋葉原駅の電気街口から中央通りを末広町方面へ北に約250m、徒歩4分です。タイトーステーションとトレーダー3号店のビルが並ぶ中央通りのブロックから、1本東の裏通りに入ったところにある細長い5階建てがTIT秋葉原です。目印は路面に掲げられた家系らーめん 武将家の看板で、その横の入口に階層案内板があります。上階の店舗は通りからほとんど看板が見えないので、上がる前にフロアを確認してください。銀座線・末広町駅の1番出口からは徒歩5分です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -32,12 +34,14 @@
   {
    "floor": "1F",
    "ko": "이에케 라멘 부쇼야(家系らーめん 武将家) · 카운터 10석 규모의 현금 전용 라멘집, 11:00~22:00. 굿즈 매장은 아니지만 길에서 이 건물을 찾는 표식이 된다",
-   "en": "Busho-ya iekei ramen - a cash-only counter shop seating about ten, 11:00-22:00. Not a hobby shop, but it is the sign that identifies the building from the street"
+   "en": "Busho-ya iekei ramen - a cash-only counter shop seating about ten, 11:00-22:00. Not a hobby shop, but it is the sign that identifies the building from the street",
+   "ja": "家系らーめん 武将家です。カウンター10席ほどの現金のみのラーメン店で、11:00〜22:00です。ホビーショップではありませんが、通りからこの建物を見つける目印になります。"
   },
   {
    "floor": "5F",
    "ko": "최상층. 공개된 입주 정보가 없어 방문객이 들어갈 수 있는 매장은 확인되지 않았다",
-   "en": "Top floor. No tenant is publicly listed, and no shop open to visitors could be confirmed here"
+   "en": "Top floor. No tenant is publicly listed, and no shop open to visitors could be confirmed here",
+   "ja": "最上階です。入居しているテナントは公開されておらず、来店客が入れる店舗は確認できませんでした。"
   }
  ],
  "verified_at": "2026-09-06",

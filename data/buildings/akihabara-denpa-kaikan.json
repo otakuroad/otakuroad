@@ -18,11 +18,13 @@
  ],
  "hours_note": {
   "ko": "건물 공용 영업시간은 없다. 1층 매대는 업종에 따라 크게 갈리는데, 남아 있는 전자부품 도매상은 10:00~19:00 전후에 일요일·공휴일 휴무가 많고 새로 들어온 트레카·피규어 매장은 늦게까지 연다. 카드킹덤 아키하바라 2호점 13:00~21:00, 2층 '아키바 이세계 메이드' 12:00~22:00(라스트오더 21:30). 3~4층은 사무실이라 일반 손님은 올라가지 않는다.",
-  "en": "There is no building-wide opening time. On the ground floor the surviving electronic-parts wholesalers run roughly 10:00–19:00 and many close on Sundays and holidays, while the newer trading-card and figure shops stay open later: Card Kingdom Akihabara No.2 13:00–21:00 and, on 2F, Akiba Isekai Maid 12:00–22:00 (last order 21:30). 3F and 4F are offices and visitors do not go up there."
+  "en": "There is no building-wide opening time. On the ground floor the surviving electronic-parts wholesalers run roughly 10:00–19:00 and many close on Sundays and holidays, while the newer trading-card and figure shops stay open later: Card Kingdom Akihabara No.2 13:00–21:00 and, on 2F, Akiba Isekai Maid 12:00–22:00 (last order 21:30). 3F and 4F are offices and visitors do not go up there.",
+  "ja": "建物共通の営業時間はありません。1Fでは、残っている電子部品の卸売店がおおむね10:00〜19:00で日曜・祝日が休みの店も多い一方、新しく入ったトレカやフィギュアの店はもっと遅くまで開いています。カードキングダム秋葉原2号店は13:00〜21:00、2Fのアキバなら異世界メイドがお給仕したって問題ないよねっ！は12:00〜22:00（ラストオーダー21:30）です。3Fと4Fは事務所で、来訪者が上がる階ではありません。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)를 나와 왼쪽, 도보 30초. 소부선 고가에 붙어 늘어선 낮은 건물 세 동 가운데 주오도리 쪽(가장 북쪽) 한 동이 덴파회관이고, 그 안쪽이 라디오센터다. 1층은 좁은 통로 양옆으로 작은 매대가 두 줄 늘어선 부품·트레카 상가이며, 2층 메이드카페로는 통로 안쪽 계단으로 올라간다. 도쿄메트로 긴자선 스에히로초역 도보 8분.",
-  "en": "Turn left as you leave the JR Akihabara Electric Town Exit (電気街口) — 30 seconds. Of the three low buildings packed against the Sobu line viaduct, Denpa Kaikan is the one on the Chuo-dori side, the northernmost; Radio Center is the block behind it. The ground floor is a narrow lane with two rows of small parts and trading-card counters, and the stairs up to the 2F maid cafe are inside that lane. Tokyo Metro Ginza Line Suehirocho is 8 minutes away."
+  "en": "Turn left as you leave the JR Akihabara Electric Town Exit (電気街口) — 30 seconds. Of the three low buildings packed against the Sobu line viaduct, Denpa Kaikan is the one on the Chuo-dori side, the northernmost; Radio Center is the block behind it. The ground floor is a narrow lane with two rows of small parts and trading-card counters, and the stairs up to the 2F maid cafe are inside that lane. Tokyo Metro Ginza Line Suehirocho is 8 minutes away.",
+  "ja": "JR秋葉原駅の電気街口を出て左、徒歩30秒です。総武線の高架にへばりつくように並ぶ低い3棟のうち、中央通り側でいちばん北にあるのが秋葉原電波会館で、その奥の棟がラジオセンターです。1Fは狭い通路の両側に部品やトレカの小さな売り場が2列に並ぶつくりで、2Fのメイドカフェへ上がる階段もその通路の中にあります。東京メトロ銀座線の末広町駅からは8分です。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -30,12 +32,14 @@
   {
    "floor": "3F",
    "ko": "입점 상인들의 사무실·창고 층. 손님이 들어갈 매장은 없다",
-   "en": "Offices and storage for the building's traders; nothing open to shoppers"
+   "en": "Offices and storage for the building's traders; nothing open to shoppers",
+   "ja": "入居する商店の事務所と倉庫のフロアです。買い物客が入れる場所はありません。"
   },
   {
    "floor": "4F",
    "ko": "사무실 층. 길에서는 3층 건물처럼 보이지만 공칭 4층 건물이며, 이 층에는 매장이 없다",
-   "en": "Office floor. From the street the building looks three storeys high but it is nominally four; there is no shop on this level"
+   "en": "Office floor. From the street the building looks three storeys high but it is nominally four; there is no shop on this level",
+   "ja": "事務所のフロアです。通りからは3階建てに見えますが公称では4階建てで、この階に店舗はありません。"
   }
  ],
  "verified_at": "2026-09-06",

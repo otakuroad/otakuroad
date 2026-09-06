@@ -25,11 +25,13 @@
  ],
  "hours_note": {
   "ko": "건물 기준 영업시간 10:00–20:00. B1F 긴자 라이온은 평일 12:00–22:30, 토 11:30–22:30, 일·공휴일 11:30–21:30(라스트오더 마감 30분 전). 매장별로 개점 시간과 중고 매입 접수 시간이 다르므로 각 매장 카드에서 확인.",
-  "en": "Building hours 10:00–20:00. B1F Ginza Lion: weekdays 12:00–22:30, Sat 11:30–22:30, Sun/holidays 11:30–21:30 (last order 30 min before close). Individual shops set their own opening and buyback-counter hours; check each store card."
+  "en": "Building hours 10:00–20:00. B1F Ginza Lion: weekdays 12:00–22:30, Sat 11:30–22:30, Sun/holidays 11:30–21:30 (last order 30 min before close). Individual shops set their own opening and buyback-counter hours; check each store card.",
+  "ja": "建物の営業時間は10:00〜20:00です。B1Fの銀座ライオンは平日12:00〜22:30、土曜11:30〜22:30、日曜・祝日11:30〜21:30（ラストオーダーは閉店の30分前）です。開店時間と買取カウンターの受付時間は店舗ごとに設定されているので、各店舗のカードで確認してください。"
  },
  "exit_hint": {
   "ko": "JR 아키하바라역 전기가 출구(電気街口)로 나오면 광장 건너편 정면에 보이는 10층 건물이 라디오회관. 도보 1분 이내. 1F 정면 입구로 들어가 에스컬레이터나 엘리베이터로 올라간다. 쓰쿠바 익스프레스 A1 출구 도보 3분, 히비야선 2·3번 출구 도보 5분.",
-  "en": "Leave JR Akihabara by the Electric Town Exit (電気街口); the 10-storey building straight ahead across the plaza is Radio Kaikan, under a minute away. Enter at the 1F front entrance and take the escalators or elevators up. Tsukuba Express exit A1 is 3 min, Hibiya Line exits 2/3 are 5 min."
+  "en": "Leave JR Akihabara by the Electric Town Exit (電気街口); the 10-storey building straight ahead across the plaza is Radio Kaikan, under a minute away. Enter at the 1F front entrance and take the escalators or elevators up. Tsukuba Express exit A1 is 3 min, Hibiya Line exits 2/3 are 5 min.",
+  "ja": "JR秋葉原駅を電気街口から出ると、広場を挟んで正面に見える10階建てがラジオ会館で、徒歩1分もかかりません。1Fの正面入口から入り、エスカレーターかエレベーターで上がります。つくばエクスプレスのA1出口から徒歩3分、日比谷線の2・3番出口から徒歩5分です。"
  },
  "floor_guide_url": "https://akihabara-radiokaikan.co.jp/floor-guide/",
  "official_url": "https://akihabara-radiokaikan.co.jp/",
@@ -37,12 +39,14 @@
   {
    "floor": "B1F",
    "ko": "긴자 라이온 비어홀(음식점)",
-   "en": "Ginza Lion beer hall (restaurant)"
+   "en": "Ginza Lion beer hall (restaurant)",
+   "ja": "銀座ライオンのビヤホール（飲食店）です。"
   },
   {
    "floor": "10F",
    "ko": "이벤트 스페이스(전시·팝업 행사장, 상설 매장 없음)",
-   "en": "Event space for exhibitions and pop-ups; no permanent shops"
+   "en": "Event space for exhibitions and pop-ups; no permanent shops",
+   "ja": "展示やポップアップのためのイベントスペースで、常設の店舗はありません。"
   }
  ],
  "verified_at": "2026-09-06",

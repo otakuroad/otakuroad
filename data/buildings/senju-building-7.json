@@ -22,11 +22,13 @@
  ],
  "hours_note": {
   "ko": "건물 공통 영업시간은 없고 층마다 크게 다르다. 오전에는 B1F 리버티 1호점(11:00~20:30)·2F 렌탈BOX 자우루스(평일·공휴일 11:00~21:00, 토·일 10:00~21:00)·6F 아키바호비(11:00~20:00)만 열려 있고, 4F 풀콤프는 평일 13:00·토·일·공휴일 11:00, 3F TOYGER TCG는 평일 15:00·토·일·공휴일 10:00에야 문을 연다. 대신 3F는 매일 24:00까지(매입 접수는 22:00까지) 영업해 이 가이드에 실린 매장 중 가장 늦게 닫고, 6F가 20:00으로 가장 먼저 닫는다. 다만 지하 1층과 5층에는 오후 늦게 열어 심야까지 영업하는 콘셉트 카페가 들어와 있어 건물 자체는 그보다 늦게까지 불이 켜져 있다.",
-  "en": "There is no building-wide opening time and the floors differ sharply. In the morning only Liberty No.1 in the basement (11:00-20:30), Rental BOX Zaurus on 2F (11:00-21:00 weekdays and holidays, 10:00-21:00 Sat and Sun) and AKIBA-HOBBY on 6F (11:00-20:00) are open; Fullcomp on 4F opens at 13:00 on weekdays and 11:00 at weekends and on holidays, and TOYGER TCG on 3F not until 15:00 on weekdays, 10:00 at weekends and on holidays. TOYGER then runs to 24:00 every day, with its buyback desk until 22:00, the latest close among the shops in this guide, while 6F is the first to shut at 20:00. The basement and 5F also hold concept cafes that open late in the afternoon and run past midnight, so the building itself stays lit longer."
+  "en": "There is no building-wide opening time and the floors differ sharply. In the morning only Liberty No.1 in the basement (11:00-20:30), Rental BOX Zaurus on 2F (11:00-21:00 weekdays and holidays, 10:00-21:00 Sat and Sun) and AKIBA-HOBBY on 6F (11:00-20:00) are open; Fullcomp on 4F opens at 13:00 on weekdays and 11:00 at weekends and on holidays, and TOYGER TCG on 3F not until 15:00 on weekdays, 10:00 at weekends and on holidays. TOYGER then runs to 24:00 every day, with its buyback desk until 22:00, the latest close among the shops in this guide, while 6F is the first to shut at 20:00. The basement and 5F also hold concept cafes that open late in the afternoon and run past midnight, so the building itself stays lit longer.",
+  "ja": "建物共通の営業時間はなく、フロアによって大きく異なります。午前中に開いているのはB1Fのリバティー 秋葉原1号店（11:00〜20:30）、2FのレンタルBOX ザウルス（平日・祝日11:00〜21:00、土日10:00〜21:00）、6Fのアキバホビー秋葉原店（11:00〜20:00）だけで、4Fのフルコンプ秋葉原店は平日13:00・土日祝11:00、3FのTOYGER TCGは平日15:00・土日祝10:00にならないと開きません。TOYGER TCGはその代わり毎日24:00まで、買取受付は22:00まで営業し、このガイドに載っている店舗の中で最も遅く閉まります。逆に6Fが20:00でいちばん早く閉まります。B1Fと5Fには夕方遅くに開いて深夜過ぎまで営業するコンセプトカフェも入っているので、建物自体はそれより遅くまで灯りがついています。"
  },
  "exit_hint": {
   "ko": "도쿄메트로 긴자선 스에히로초역 3번 출구에서 주오도리 서쪽 보도를 따라 남쪽으로 도보 2분, JR 아키하바라역 전기가 출구에서는 도보 5~6분이다. 주오도리 서쪽 줄에 면한 좁은 6층 잡거빌딩으로, 큰길 쪽 정면이 아니라 건물 옆면에 출입구가 있고 그 안에 지하로 내려가는 계단과 위층용 계단·엘리베이터가 모여 있다. 바로 옆 신스에히로 빌딩에는 레트로 게임 캠프 본점이 있어 표식이 된다. 지도 앱과 OSM에는 아직 옛 이름 '恵光ビル(게이코 빌딩)'로 실린 경우가 많으니 두 이름을 함께 기억하고 입구 층별 간판에서 층을 확인한다.",
-  "en": "Two minutes south of exit 3 of Ginza-line Suehirocho along the west pavement of Chuo-dori, five to six minutes from the JR Akihabara Electric Town Exit. It is a narrow six-storey tenant block facing Chuo-dori on the west side, and the way in is not the main-street face but a door on the side of the building, where the stairs down to the basement and the stairs and lift up all start. Retro Game Camp's main store in the Shin-Suehiro Building right next door is a useful landmark. Map apps and OSM often still carry the older name 恵光ビル (Keiko Building), so keep both names in mind and read the floor board at the entrance."
+  "en": "Two minutes south of exit 3 of Ginza-line Suehirocho along the west pavement of Chuo-dori, five to six minutes from the JR Akihabara Electric Town Exit. It is a narrow six-storey tenant block facing Chuo-dori on the west side, and the way in is not the main-street face but a door on the side of the building, where the stairs down to the basement and the stairs and lift up all start. Retro Game Camp's main store in the Shin-Suehiro Building right next door is a useful landmark. Map apps and OSM often still carry the older name 恵光ビル (Keiko Building), so keep both names in mind and read the floor board at the entrance.",
+  "ja": "銀座線・末広町駅の3番出口から中央通りの西側の歩道を南へ徒歩2分、JR秋葉原駅の電気街口からは徒歩5〜6分です。中央通りの西側に面した細長い6階建ての雑居ビルで、入口は大通り側の正面ではなく建物の側面のドアにあり、そこに地下へ下りる階段と、上階へ上がる階段・エレベーターがまとまっています。すぐ隣の新末広ビルにあるレトロげーむキャンプの本店が目印になります。地図アプリやOSMには今も旧名の恵光ビルで載っていることが多いので、両方の名前を覚えておき、入口の階層案内板で確認してください。"
  },
  "floor_guide_url": null,
  "official_url": null,
@@ -34,17 +36,20 @@
   {
    "floor": "1F",
    "ko": "주오도리에 면한 1층 부분과 옆면 출입구·계단 홀. 우리 데이터에 수록된 매장은 없고, 일부 안내가 지하의 리버티 1호점을 '1층'으로 적으므로 입구 층별 간판에서 확인하는 편이 확실하다.",
-   "en": "The Chuo-dori frontage plus the side door and stair hall. No shop from our dataset sits on this level, and some listings put the basement Liberty No.1 on '1F', so read the floor board at the entrance."
+   "en": "The Chuo-dori frontage plus the side door and stair hall. No shop from our dataset sits on this level, and some listings put the basement Liberty No.1 on '1F', so read the floor board at the entrance.",
+   "ja": "中央通りに面した1階部分と、側面の出入口・階段ホールです。当データに収録された店舗はこのフロアにはなく、一部の案内は地下のリバティー 秋葉原1号店を1Fと記載しているので、入口の階層案内板で確認してください。"
   },
   {
    "floor": "5F",
    "ko": "우리 데이터에 수록된 매장은 없다. 인형을 콘셉트로 한 콘셉트 카페 HISTORIA PELUCHE(-人形物語-)가 이 층에 있으며 17:00에 문을 연다.",
-   "en": "No shop from our dataset on this level. The doll-themed concept cafe HISTORIA PELUCHE (-人形物語-) occupies the floor and opens at 17:00."
+   "en": "No shop from our dataset on this level. The doll-themed concept cafe HISTORIA PELUCHE (-人形物語-) occupies the floor and opens at 17:00.",
+   "ja": "当データに収録された店舗はこのフロアにはありません。人形をテーマにしたコンセプトカフェ、HISTORIA PELUCHE -人形物語-がこのフロアを使っており、17:00に開店します。"
   },
   {
    "floor": "7F",
    "ko": "지상 7층 건물의 최상층으로, 우리 데이터에 수록된 매장이 없다. 현재 입주 상황은 입구 층별 간판에서 확인한다.",
-   "en": "The top floor of this seven-storey block; no shop from our dataset. Check the tenant board at the entrance for what is there now."
+   "en": "The top floor of this seven-storey block; no shop from our dataset. Check the tenant board at the entrance for what is there now.",
+   "ja": "地上7階建てのこのビルの最上階で、当データに収録された店舗はありません。今どこが入っているかは、入口のテナント案内板で確認してください。"
   }
  ],
  "verified_at": "2026-09-06",
